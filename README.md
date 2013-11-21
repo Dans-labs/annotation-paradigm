@@ -1,4 +1,4 @@
-queries-as-annotations
-======================
+![annotation-paradigm 1](https://raw.github.com/dirkroorda/annotation-paradigm/master/docs/files/Escribano.png)
+![annotation-paradigm 2](https://raw.github.com/dirkroorda/annotation-paradigm/master/docs/files/QueryAnnot2.png)
 
-Save queries as annotations. Demo for the WIVU database of the Hebrew Bible
+[Read the docs](http://annotation-paradigm.readthedocs.org/en/latest/index.html)
