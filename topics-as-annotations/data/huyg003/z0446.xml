@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0446"/>
+<meta type="date" value="1658-01-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0446">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>De Parabolis <hi rend="i">απαγωγη</hi>: De Hyperbola. Heuratij ipsius <hi rend="i">απαγωγη</hi> linearis.</p>
+</div>
+<div type="opener">
+<p><persName key="slus001">Slusio</persName>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Ad binas literas tuas utrasque mihi acceptissimas respondeo. Prioribus demonstras eandem methodum te usurpasse quam et ego secutus sum in investiganda curvae Huddenianae quadratura; atque ita esse omnino arbitror, siquidem ijdem illi termini mihi quoque occurrerunt <hi rend="i">aa</hi> + <hi rend="i">yy</hi> + 2 <hi rend="i">ay</hi> ad ½ <hi rend="i">aa</hi> + ¾ <hi rend="i">yy</hi> + 4/3 <hi rend="i">ay.</hi> Ex tribus nimirum spatijs quorum unum est rectilineum, curvae istius aream conflavi, idemque tibi usu venisse pene asseverare ausim. Et illa quidem ad quadraturam commodissima via visa est. Certe faciliorem calculum requirit, quam quae ab Huddenio proponitur; quam alioqui et ipse inveneram. Sed curvam hanc tam affinem tuae esse ab illo primum fui admonitus. Lubet autem hoc loco etiam illa tibi impertiri quae alter eorum quibus curvam tuam Dominus <persName key="scho197">Schotenius</persName> proposuerat respondit, quae si rectè examines plena acuminis atque ingenij esse agnosces. Heuratius huic Geometrae nomen est, ex cujus ad <persName key="scho197">Schotenium</persName> literis Belgico sermone scriptis sequentia latinè reddidi<note n="#2"/>.</p>
+<p>Haec tantum Heuratius breviter et obscure satis, quae tamen recte se habere perspexi. Quadratura autem et centrum gravitatis partium curvae tuae, facile ex his eliciuntur.</p>
+<p>Porrò quod <hi rend="i">ατελης</hi> est linea Huddeniana nec me fefellit, neque illum, ut ex ijs quae superiore epistola tibi scripsi facile colligere potuisti. Quare nec tangentem ad verticem curvae nunc amplius te requirere arbitror, quandoquidem eodem modo ducendam jam scis, quo ad terminum suae lineae, quam antehac dedimus. Ais te tangentes paraboloidum e quibus hae lineae componuntur Euclideo more demonstrasse. quod ego itidem hac vice dum curvas hasce tracto perfeci, et directa quidem demonstratione. Sed et quadraturas omnium, et solidorum ex conversionibus ipsarum ortorum ad cylindris relationem eodem Euclideo more deduxi, earumque omnium regularum quae apud Mersennium in praefatione Mechanicorum<note n="#3"/> leguntur scripsi demonstrationem quae si non invenisti scio admodum jucunda tibi fore ubi exhibuero. Processi enim in his via minimè trita. De motus legibus vix me contineo quin rationes meas ac hypotheses hîc tibi expediam, quoniam scio non aliter eximi posse eum scrupulum, quem subtiliter sane movisti, sed non praeter expectationem meam. Atqui res prolixa est neque ad epistolae modum, totoque libro hanc materiam explicui quem aliquando aequis lectoribus examinandum tradam. Quanquam Schotenius atque alij omnes Cartesio plus aequo addicti jam diu me dehortantur. Verum quid adferam penitus ignorant, nisi quod illius placitis contraria esse professus sum. Experientias me sectari ne existimes, scio enim lubricas esse. ad demonstrationes autem quaedam assumo veluti quod corpus majus minori quiescenti occurrens, illud moveat, atque aliquid propterea de sua celeritate amittat. Item quod si duo corpora sibi mutuo occurrant, alterumque eorum post contactum eandem quam prius habebat celeritatem retineat, etiam alterum nihil de
+priori celeritate sua amittere. Quod postremum si concesseris non dubito quin reliqua postulata admissurus sis, quippe quae hoc ipso evidentiora sint. Axioma Cartesij de conservatione motus ita ut eadem semper ejus quantitas supersit, olim mihi quoque plane verisimile ac rationi consentaneum videbatur. Sed nunc scio perpetuum esse non posse; evidentiori alio principio id evincente. Quod autem durum tibi videtur motus partem aliquam interire cum hoc concesso nihil obstare videatur quominus omnis intereat videbis id aliter se habere. Posse enim et minui motus quantitatem, et rursus incrementum accipere in quantum prius decessit. Et utrumque limites quosdam habere. Verum de his forsitan frustra, donec a fundamentis exorsi fuerimus.</p>
+<p>Postremis literis tuis minus accuratè respondebo quoniam ad manum non sunt. misi enim Schotenio ut ille Huddenio ipsas ostenderet. Tertiam Huddenij curvam quomodo et ipsa sit <hi rend="i">ατελης</hi> declaras et a qua origine deducta.</p>
+<p>Inventum meum de superficie conoidis parabolici ad circulum redigenda alicujus praetij tibi videri, serio mihi gratulor. Quod si huic ad circuli quadraturam <hi rend="i">ἀπαγογὴ</hi> quaedam inest, multo elegantior alia ad hyperbolae quadraturam invento meo altero continetur, quod nondum tibi exhibui. Tuas verò quas ex loco lineari te deduxisse scribis vel aliquam saltem earum summopere cognoscere cupio; Vale vir amicissime. Annumque modo inchoatum ea quam promereris felicitate exige, quam tibi summam exoptat</p>
+<div type="closer">
+<p><date>Jan. 1658</date>.</p>
+<p>Tui observantissimus <persName key="huyg003">Chr. Hugenius de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

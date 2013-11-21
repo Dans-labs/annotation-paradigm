@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2459"/>
+<meta type="date" value="1687-05-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gent015"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2459">
+<div type="opener">
+<p>Doctissimo Viro Do. <persName key="gent015">J: Gentio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.</p>
+</div>
+<p>Putabam equidem jam diu a D.<hi rend="sup">no</hi> Hamelio responsum accepisse Nobilissimum Virum<note n="#1"/>, nec non a caeteris quibus exemplaria libri sui nuper editi Lutetiam Parisisorum miserat. At ecce heri demum hoc quod hic vides epistolium ab eo ipso ad me defertur<note n="#2"/>, cujus operâ illa in Galliam pervenere, a quo et apographum literarum Dn. de la Chapelle accepi, quo quid libris suis factum sit D. Tschirnhaus cognoscet. Cur autem tam sero haec omnia, non mihi compertum neque adhuc intellexi quodnam Eruditorum in Gallia de opere isto sit judicium<note n="#3"/>. Unum quiddam ibi habetur Geometrici argumenti de curvarum quarundam tangentibus, quod a Genevensi quodam viro ingenij haud vulgaris reprehendi ex libello Gallico, qui <hi rend="i">Bibliotheque Universelle</hi> inscribitur<note n="#4"/>, credo jam didiceris ac fortasse ipse quoque D. de Tschirnhaus. Qui utinam non tam propere, ac ne quidem investigata demonstratione, Problema hoc in lucem misisset; aut saltem non usque adeo de eo sibi gratulatus esset. Est enim constructio quam dedit manifesto falsa. Veram autem quae et elegantissima est et brevissima, ea ipsum fugit. Sed ego ob hujusmodi errata praefestinatione nimia admissa, nihilo minus bene de ingenio atque excellenti studio auctoris sentire me profiteor ac tantum ut in posterum cautior
+sit desidero. De ijs vero quae commentationes istas evolventi scrupulum moverunt responsum ejus adhuc expecto<note n="#5"/> atque videre aveo. Vale.</p>
+<div type="closer">
+<p>Dabam Hagae 18 Maj 1687.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

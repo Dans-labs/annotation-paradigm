@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1757"/>
+<meta type="date" value="1669-09-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta resp="corpus" type="senderloc" value="parij001"/>
+<meta resp="corpus" type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1757">
+<div type="opener">
+<p>A Monsieur <persName key="olde010">Oldenbourg</persName>.</p>
+<p>4 Septembre 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Je n'ay rien receu de vous depuis ma derniere<note n="#1"/> que je veux esperer vous avoir estè rendues. J'y parlay de l'invention de Monsieur Wren pour les verres hyperboliques; je vous manday quelques particularitez que vous aviez desirees touchant nostre miroir ardent; et je vous demanday quelque information touchant l'intention de Monsieur Hook en appliquant l'aimant a son horologe, si c'est pour continuer le mouuement ou seulement pour le rendre uniforme. Nous avons veu et leu
+dans nostre assemblée vostre dernier Journal<note n="#2"/> que je crois que vous ne m'avez pas envoiè parce qu'il ne contient point de matiere geometrique ni rien qui me concerne. Cependant comme vous m'avez fait la faveur de m'en envoyer plusieurs de suite durant quelque temps, je vous prie de vouloir continuer, a fin que le recueil que j'en fais ne soit pas defectueux. Je vous envoie cy joint des Anagrammes<note n="#3"/> que l'on m'obligera de vouloir garder dans les Registres de la Societè Royale, qui a eu la bontè d'approuuer ce moyen que j'ay proposè pour eviter les disputes, et rendre a un chacun ce qui luy est deu dans l'invention des choses nouvelles. La consideration ou elle est fera foy par tout, lors qu'on reclamera ces sortes de depost, que la chose est sans fraude ni supercherie, et je souhaiterois que la methode de ces consignations fut connue et pratiquée de tous ceux qui se meslent de mathematique, a fin qu'on ne pust jamais dire en voyant proposer quelque chose de nouveau, qu'on l'avoit aussi trouvee.</p>
+<p>&nbsp;</p>
+<p>J'ay eu de fort bonnes nouuelles touchant l'experience des longitudes par le moyen de nos horologes dans la mer Mediterranee, faite dans le vaisseau de Monsieur de Beaufort, ayant estè trouvè les differences des Longitudes de Candie, de Canee, de Sicile à certain cap et de plusieurs isles dans cette mer, d'avec Toulon, tout a fait conformes a 2 cartes Hollandoises des plus exactes. Ceux que nous envoions a la Cayene<note n="#4"/> ne sont pas encore partis, mais toutes les preparations sont faites et ils s'en iront par les premiers vaisseaux qui partira pour ce voiage.</p>
+<p>Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionnè serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

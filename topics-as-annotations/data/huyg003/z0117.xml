@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0117"/>
+<meta type="date" value="1652-01-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="sara003"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0117">
+<div type="opener">
+<p><persName key="sara003">Sarasae</persName>.</p>
+<p><date>24 Jan. 1652</date>.</p>
+</div>
+<p>Placuisse tibi Theoremata mea Vir Clarissime non sine gaudio intellexi, atque haec summa meorum est votorum ea scripsisse quae tui similibus legisse sit operae pretium. Eorum tamen quae tam largè attribuis maximam partem adhuc in me requiro, sumque mihi optimè conscius quanto intervallo à summa ista perfectione quam paucis verbis depingis studia nostra distent: non desunt sane et maximè horum temporum scriptores quorum ineptis voluminibus inspectis, aliquid me profecisse, ex comparatione judicare soleo.
+At rursus ubi Archimedeas reliquias considero, quarum tu quidem brevitatem meritissimo jure suspicis ac collaudas subtilitatem vero, accurationem, atque incomparabilem quemdam decorem, nemo unquam mortalis, ut opinor assequetur; tunc inquam excidunt illi priores animi, solumque retineo imitandi ac longe vestigia legendi et constans et salutare propositum.
+Is quem Archimedem ipsum aut certè alterum vocas quemque me imitatum ais, proximus illi inventionis felicitatem, spectes haberi meretur, atque à me pridem habitus est.
+Brevi ad hunc exemplum libelli mei delatum iri spero cura officiosissimi viri D. Seghers. Forte ubi de lite nostra edoctus fuerit, non denegabit quoque sententiam ferre, nisi reverentia quondam praeceptoris sui minus promptum efficiet.
+Equidem de te conqueri liceat qui quod maxime petieram non praestiteris, neque id quod sentis putaveris pronuntiandum.
+Nullo enim pacto inducor ut te clarè (sicut scribis) mentem meam intelligere credam, et tamen existimare non defore quod argumentis reponi possit.
+Illud sanè si modo objicitur quod praecipuam ex quatuor quadraturis mihi non proposui, non multum me movebit, sufficere enim puto eam ipsam quam fui <seg org="aggreslus" resp="#AD" type="corr">aggressus</seg> eversam esse.
+Primariam autem à Patre Gregorio censeri non eo tantum argumento probavi quod primam fecisset, sed hoc omnium erat levissimum.
+Et nequeo tamen assentiri tibi cum casui potius quam certae autoris dispositioni tribuendum censes quod ante alias eam legi voluerit.
+Sed te credo Vir Clarissime hoc affectui dare non illaudabili erga Patrem Gregorium, ut nihil praetermittas quod in excusationem ejus adferri possit, et quacunque tandem ratione defensionem optimi viri suscipias.
+Si verò Geometras agere volumus, potior adhuc esse debet ratio veritatis, quam per inventa Patris Gregorij undiquaque salvam non esse proculdubio, dudum animadvertisti.
+Ita certe de te mihi persuasum est, neque aliud sentire patitur egregia quaedam doctrinae ac peritiae tuae opinio quae non temere me incessit, neque temere excidet. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LVIII"/>
+<meta type="date" value="1673-04-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="rump004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LVIII">
+<p>J'ay entendu de 2 ou 3 endroits differents Mons<hi rend="sup">r</hi>. une nouvelle fort estrange, que je ne puis pas croire, qui est qu'on auroit pris Mons<hi rend="sup">r</hi>. <persName key="beun006">van Beuningen</persName> et mis a la Bastille<note n="#1"/>; je vous prie tres humblement Mons<hi rend="sup">r</hi>. de me faire sçavoir ce que vous en avez appris et vous m'obligerez beaucoup, c'est Mons<hi rend="sup">r</hi>. vostre tres obeyssant serviteur</p>
+<div type="closer">
+<p><persName key="huyg003">Huygens de Z.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

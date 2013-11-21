@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0016"/>
+<meta type="date" value="1646-11-08"/>
+<meta type="sender" value="bros001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0016">
+<div type="opener">
+<p>Monsieur.</p>
+</div>
+<p>Je suis tres aise que Monsieur vostre fils est de nostre college, puis que j'auray occasion de luy pouvoir rendre aucun service.
+<persName>Bruno</persName> m'a dit qu'il est arrivé jusqu'
+aux Poëtes. Je viens d'entamer Μ<hi rend="i">ῆνιν ἄειδε ϑεὰ</hi>, et je n'en ay faict que trois ou quatre leçons, à faute d'auditeurs. Je recommençeray pour l'amour de luy, et continueray, bien qu'il n'y seroit que luy tout seul: il me sera <hi rend="i">πολλῶν ἀντάξιος ἄλλων</hi>. Nous allons dresser une chambre de Musique dans le College d'Orange mesme.</p>
+<p>Le jardin Medicinal commence à estre mis dans ses carreaux et allées. J'ay dessein de border les allées par tout avec de la Houx, en forme de haye, de laquelle sortiront des Sapins, et toute autre sorte d'arbres tousjours verdes; de sorte qu'il y aura</p>
+<lg type="poem">
+<l>Ver perpetuum, et alienis mensibus Aestas;</l>
+</lg>
+<p>mais que son Altesse le trouve bon. L'ordre que vous tenez à mouler, et jetter de plastre ces belles mains; (si c'est un secret communicable) j'auroy tresgrande obligation de le pouvoir sçavoir: comme aussy de voir vostre excellente ΠΑΘΩΔΙΑ SACRA ET PROFANA.<note n="#2"/> Mon beau frere Aukema m'a escrit que c'este place de Controlleur laquelle il a briguè dernierement, est derechef, ou sera bien tost vacante. Vous feriez une tresgrande oeuvre de charitè si par vostre moyen il y peut arriver.</p>
+<p>Pardonnez moy, Monsieur, cette importunité: vostre bonté et courtoisie me donne la hardiesse de recourir tousjours vers son grand Bienfaicteur, pour luy offrir mes veux, et d'ont je chanteray tousjours les louanges, estant à tresgrande raison</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et obeissant Serviteur <persName key="bros001">J. Brosterhuisen</persName>.</p>
+<p>A <placeName key="breda001">Breda</placeName> le <date>8 de Novembre 1646</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur <persName key="huyg001">de Zuylichem</persName> Conseiller et Secretaire de son Altesse
+<lb/>à <placeName key="denha004">La Haye</placeName>.
+<lb/>port</p>
+</div>
+</body>
+</text>
+</TEI>

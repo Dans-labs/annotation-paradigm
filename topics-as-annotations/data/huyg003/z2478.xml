@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2478"/>
+<meta type="date" value="1687-08-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="coet007"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2477"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2478">
+<p><note n="#2"/><note n="#3"/>
+<figure><graphic url="huyg003oeuv09ill47.gif"></graphic></figure></p>
+<p>CEK Conchoides<note n="#4"/></p>
+<p>AB Regula</p>
+<p>G centrum</p>
+<p>AG ℞ <hi rend="i">b</hi></p>
+<p>AC ℞ <hi rend="i">c</hi></p>
+<p>GF ℞ 8/27 <hi rend="i">c</hi><hi rend="sup">4</hi>/<hi rend="i">b</hi><hi rend="sup">3</hi> hoc est ½ quintae proportionalis duarum 3<hi rend="i">b</hi> et 2<hi rend="i">c</hi>.</p>
+<p>FK qu. ℞ AF qu. + AC qu. - AG qu.</p>
+<p>KM parall. BA.</p>
+<p>ut 3AG ad 2AC ita MA ad AN.</p>
+<p>GE ℞ NC.</p>
+<p>E punctum flexus contrarij.</p>
+<p><figure><graphic url="huyg003oeuv09ill48.gif"></graphic></figure><note n="#5"/></p>
+</div>
+</body>
+</text>
+</TEI>

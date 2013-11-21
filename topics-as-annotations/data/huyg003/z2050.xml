@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2050"/>
+<meta type="date" value="1675-08-22"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2050">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Il est vray, que dans deux de mes dernieres lettres<note n="#1"/> nous avons desiré une de vos montres auec vn double balancier, mais c'estoit sur ce que vous escrivitez dans la vostre<note n="#2"/> du 21 juin; que le double balancier osteroit le defaut du contrecoup radicalement. Si ie ne me trompe fort, que<note n="#3"/> vous ay prié du depuis par vne 3<hi rend="sup">me</hi> lettre<note n="#4"/>, de faire faire pour Mylord Brouncker une telle, qui vous jugeriez la plus parfaite et la plus exacte de tout, et particulierement auec ce remede, dont vous fitez mention dans la vostre du 11 juillet<note n="#5"/> disant, qu'alors vous le faisiez pratiquer, et qu'il succedoit parfaitement bien. Nous vous prions encor, de donner ordre, si vous ne l'auez pas fait desia, qu'une telle soit faite le plus promptement qu'il sera possible et de nous l'envoyer par vne seure voye.</p>
+<p>Mylord <persName key="brou051">Brouncker</persName> vous saluë tres affectueusement; et i'espere que ie placeray bientost Monsieur <persName key="papi014">Papin</persName><note n="#6"/>; demeurant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 12. Aoust 1675.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy á Paris.
+<lb/>34 β</p>
+</div>
+</body>
+</text>
+</TEI>

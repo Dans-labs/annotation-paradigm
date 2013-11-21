@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0450"/>
+<meta type="date" value="1658-01-08"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0450">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Gratissimas Tuas 3<hi rend="sup">a</hi> huius anni datas, vna cum acutis <hi rend="i">εὑρήμασιν</hi> Clarissimi Heuratij nudiustertius accepi, quem vel ex hoc specimine doctum Geometram, <hi rend="i">ὡς ἐξ ὄνυχος τὸν λέοντα</hi>, satis agnouj. Atque vt tandem, quod facturum me receperam, quid circa curuam meam illamque Huddenianarum primam vlterius obseruauerim, palam faciam, altius mihj res repetenda est. Ego olim cum id otij mej ratio pateretur, parabolarum infinitarum exemplo, Hyperbolas etiam ac circulos vel ellipses infinitas excogitaueram, leuiter variatâ aequatione. Quod exemplo declarasse sufficiet.
+<figure><graphic url="huyg003oeuv02ill63.gif"></graphic></figure>
+Sit recta AB, et curua BD, in quâ sumpto quolibet puncto D, ducatur applicata DC, quam in terminis analyticis voco <hi rend="i">x</hi>, et BC <hi rend="i">y</hi>, AB vero <hi rend="i">a.</hi> habeatur autem perpetuo haec aequatio <hi rend="i">ay</hi> + <hi rend="i">yy</hi> ∞ <hi rend="i">ax.</hi> Hanc vocaui Hyperbolarum infinitarum primam. 2<hi rend="sup">dam</hi> statuj <hi rend="i">ay</hi> + <hi rend="i">yy</hi> ∞ <hi rend="i">xx.</hi> Altiorem <hi rend="i">ayy</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">aax</hi> vel <hi rend="i">ayy</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">axx</hi> et ita in infinitum, quod nullo negotio
+<figure><graphic url="huyg003oeuv02ill64.gif"></graphic></figure>
+fieri posse satis animaduertis. Transfer hoc ad circulos mutato nempe signo + in - et fiet <hi rend="i">ay - yy</hi> ∞ <hi rend="i">ax</hi>, <hi rend="i">ay - yy</hi> ∞ <hi rend="i">xx</hi>, <hi rend="i">ayy - y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">aax</hi> vel <hi rend="i">ayy - y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">axx</hi> &amp;c. Jn harum proprietates cum inquirerem, vidj statim primam et secundam Hyperbolarum vel Ellipsium praedictarum, esse parabolam, circulum, Ellipsim vel Hyperbolam Apollonij, caeteras non ita, quarum interim dimensionem vel solida demonstraui, saepe etiam (quod ad te scripsisse meminj) <hi rend="i">ἀπαγωγὰς</hi> ad circulj quadraturam ex ijs deduxj. Harum Ellipsium vna est curua quam proposueram, vt scis, nempe haec <hi rend="i">ayy - y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">aax.</hi> Primam autem Huddenij deprehendj postea partem esse Hyperbolae illius quae his terminis explicatur <hi rend="i">ayy</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">aax.</hi> Quod vt planum fiat paucas meae proprietates mecum
+<figure><graphic url="huyg003oeuv02ill65.gif"></graphic></figure>
+considera. Sit in illâ, ad axem AB applicatarum maxima EF, et iungatur AE, quae vtique curuam secabit in D puncto vbi flexus mutatur. Aio spatium curuâ ACD et recta AD comprehensum, ei aequale esse, quod recta DE et curuâ DVE continetur, imo idem omnino esse sed inuerse positum. Vt quemadmodum recta GE tangit curuam in E ita pariter recta BA tangat eandem in A. Vnde sequitur vlterius, si illa prout exigit, producatur, occurrere ipsi GE in G, et curuam DAG esse plane eandem ipsi DEB sed inuersé positam. At si vltra punctum E, quaelibet applicetur a parte exteriori curuae vt HI, sitque illa <hi rend="i">x</hi>, et EH <hi rend="i">y</hi>, haberj aio perpetuo hanc aequationem <hi rend="i">ayy</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">aax.</hi> Itaque curuam EB esse vnam Hyperbolarum infinitarum quas superius descripsi, quae cum versus B produci possit in infinitum (idem intelligendum versus G). apparet efformarj latinum sigma, ad quod appenditur illa quam primo loco nobis proposuit Clarissimus <persName key="hudd002">Huddenius</persName>, quemadmodum etiam aliunde deduxit. Quaenam igitur tandem est haec curua? inquies, Dicerem nisj Te scirem id Tuo Marte inuestigare malle, et Platonis praecepto in tuo praedio <hi rend="i">ὀρύττειν μεχρὶ τῆς ϰεραμίτιδος γῆς</hi> antequam a vicino aquam petas. Hoc itaque Tibi propositum esto, et per Te Clarissimis illis viris (si tanti esse censeas) qui tam docté hactenus illam examinarunt. Gratulor interim Tibj, quod Parabolarum infinitarum areas et solida Geometrice demonstraris. Ego quoque me in illo campo lusisse meminj cum Romae essem, et similes tuis ac fortasse
+easdem in schedis meis ibidem latere demonstrationes. Video enim nos eandem saepe viam insistere: idque etiam in dimensione Huddenianarum primae arbitratus fueram, cum idem <hi rend="i">συμπέρασμα</hi> nobis occurrisset; sed ex Tuis animaduertj, te tribus spatijs quorum vnum est rectilineum, vtj, Ego vero vnico curuilineo, methodo mihi peculiarj, rem confecj. Eadem nempe qua in dimetiendis illis Hyperbolis et Ellipsibus vsus fueram. Accipe etiam ab eodem fonte quando ita iubes, <hi rend="i">ἀπαγωγὴν</hi> pro circulj
+<figure><graphic url="huyg003oeuv02ill66.gif"></graphic></figure>
+quadratura. Super AB esto curua in quâ sumpto quolibet puncto F, et applicatâ FG, si illa sit <hi rend="i">x</hi>, et AG <hi rend="i">y</hi>, AB <hi rend="i">a</hi>, fiat perpetuo aequatio <hi rend="i">ay</hi><hi rend="sup">3</hi> - <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ <hi rend="i">aaxx.</hi> Hoc spatium si fueris dimensus, scias te circulum ipsum facile metiri posse<note n="#1"/>. Quod si eidem circumscriptum intelligas parallelogrammum AD, et ex vtriusque reuolutione circa axem AB gigni cylindrum, et solidum inscriptum, Aio habere hoc ad illud rationem notam, quam, sj quando vacabit et si operae pretium esse videatur inuestigandam Tibj propono, aut si mauis, earn cum iusseris a me accipies. De Tuis motus regulis censeo et hortor vt breuj edantur in lucem. Nec est quod diuersa sentientium autoritas te moueat; frustra enim hominum praeiuditijs condemnatur, quem ratio absoluit. Prodeant itaque cum bono Deo, a quo Tibi felix anni noui principium, feliciora incrementa precor ex animo. Vale Vir Clarissime et ama</p>
+<div type="closer">
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>8 A<hi rend="sup">i</hi>. 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> &amp;c. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0032"/>
+<meta type="date" value="1647-02-27"/>
+<meta type="sender" value="rive002"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0032">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>Je vous ai escrit &amp; a Monsr de Henvliet en commun l'estat de nostre eschole, laquelle ne s'establist pas sans difficulté en les commencemens. Nous y avons en peu de nombre trop de desordonnéz, &amp; y en a qui s'emancipent, et le mal est qu'il semble qu'on les ait porté au mespris de leur Regent. Je m'y suis porté ce matin pour leur faire une remonstrance commune, &amp; en particulier en censurer quelques uns. J'espere que cela pourra servir pour l'advenir. Vostre fils n'est pas de ceux lá. Nous venons de disner ensemble chez Monsieur <persName>de Haute-rive</persName>, qui nous a retenus au retour du convoy de feu Mad<hi rend="sup">elle</hi> Maubeuge. J'ay a vous faire une priere de la part de Mons. <persName>de Ferrier</persName><note n="#1"/>. L'Estat auquel il est semble deploré. Neantmoins, comme l'esperance est ce qui meurt le dernier en nous, il se promet du soulagement par un voyage en France, duquel je ne puis croire qu'il soit capable. Mais vous scavéz
+qu'il faut tout accorder aux malades qui sont en cet estat. Il vous supplie par moy d'obtenir permission de son Altesse qu'il puisse demander un passeport a l'ennemi, &amp; aprés l'avoir obtenu, congé de son Altesse pour faire son voyage à Paris, ou il espere trouver des Medecins qui cognoistront mieux son mal, &amp; les remedes convenables. Si cette concession ne le guerist, au moins luy donnera elle autant de contentement d'esprit. S'il va, je ne croy pas qu'il en retourne. Mais peut estre n'y pourra il aller du tout. En tout cas, pour luy faire voir que je luy ai rendu ce devoir envers vous je vous prie me faire scavoir ce que vous y auréz faict ou que vous en esperéz. Nous sommes ici sur les attentes de resolutions de paix &amp; de guerre, où ce que nous devons et pouvons contribuer seront nos prieres pour la benediction de Dieu sur les conclusions qui seront prises pour ou contre. Sur tout qu'il luy plaise conserver le chef, le fortifier en meilleure santé, &amp; benir jusques au bout sa conduite pour le bien de cet estat, de l'Eglise &amp; de sa maison. Je luy demande aussi accroissemens de ses benedictions sur vous &amp; les vostres &amp; suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tres affectionné serviteur
+<lb/><persName key="rive002">André Rivet</persName></p>
+<p>De <placeName key="breda001">Breda</placeName> le <date>27 Febvrier 1647</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">de Zuylicheim</persName>, Conseiller et Secretaire d'estat de son Altesse
+<lb/>A <placeName key="denha004">la Haye</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

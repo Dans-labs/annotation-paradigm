@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2760"/>
+<meta type="date" value="1692-07-26"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2760">
+<p>J'espere Monsieur que vous voudrez bien que je me serue de l'occasion du depart de Mr. <persName key="hart107">Hartsoeker</persName> pour vous remercier de la maniere obligeante dont vous parlez de moy dans les remarques<note n="#2"/> que vous avez mis dans les journaux de Hollande, apres la lettre des centres d'oscillation. J'ay lü auec plaisir dans les
+actes de Leipzig la solution que vous auez trouué du probleme de la courbure que fait vne chaisne pendante<note n="#3"/>, et cela m'a beaucoup serui à faire quelque progrès dans ces sortes de problemes. J'ay vü jcy entre les mains d'vn de mes amis vne lettre de Mr. <persName key="leib013">de leibnitz</persName> dans laquelle apres auoir dit beaucoup de merueilles de sa nouuelle analyse des infinis, jl assure que uous luy auez proposé plusieurs questions en ce genre, auxquelles jl a satisfait au delà mesme de vos esperances. Je vous serois fort obligé, si vous me vouliez faire part de quelques vnes de ces questions ou d'autres semblables, asin que je puisse m'exercer et voir si j'en viendrois about. J'ay trouué dans vostre traitté de la lumiere plusieurs proprietés de la ligne logarithmique ou logistique<note n="#4"/>. En voicy vne que je croy nouvelle et dont je vous prie de me mander vostre pensée.</p>
+<p><figure><graphic url="huyg003oeuv10ill67.gif"></graphic></figure></p>
+<p>Soit la logarithmique jndefinie ABCD, qui a pour asymptote la droite EI, et dont la soustangente qui est partout egale et que l'on suppose connue est FG. Jl faut trouuer geometriquement vne droite egale à vne portion quelconque AB de cette courbe.</p>
+<p>Soient menées les perpendiculaires AE, BG, la touchante BF et la parallele AM. Soient prise sur EA prolongée les parties EK ∞<hi rend="i">aa</hi>√2+<hi rend="i">a</hi>√2<hi rend="i">aa</hi>+2<hi rend="i">cc</hi>/2<hi rend="i">c</hi> EL ∞<hi rend="i">aa</hi>√2+√2<hi rend="i">aa</hi>+2<hi rend="i">bb</hi>/2<hi rend="i">b</hi> (FG ∞ <hi rend="i">a</hi>, AE ∞ <hi rend="i">b</hi>, BG ∞ <hi rend="i">c</hi>), d'ou partent les paralleles KC, LD, rencontrant la logarithmique aux points C, D, je dis maintenant que BN, difference des droites BF, FM, plus HI, difference des droites LD, KC, sera egale à l'arc cherché AB<note n="#5"/>.</p>
+<p>Je suis auec vne estime tres particuliere Monsieur.</p>
+<p>&nbsp;</p>
+<p>Vostre treshumble et tresobeissant serviteur</p>
+<p><persName key="hosp010">Le Marquis de lHospital</persName>.</p>
+<p>Si vous voulez me faire reponce vous addresserez s'il vous plaist, vostre lettre chez Mr. le Comte <persName>de Ste. Mesme</persName> rüe du petit musque proche l'arsenal à paris.</p>
+<div type="opener">
+<p>a <placeName key="parij001">paris</placeName> ce 26 juillet 1692.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName>
+<lb/>a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

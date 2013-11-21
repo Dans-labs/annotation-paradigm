@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0493"/>
+<meta type="date" value="1658-06-28"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0493">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>28<hi rend="sup">e</hi> Juin 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous enuoye auec la presente vne promesse faicte par vn incognu a celluy qui resoudra les problemes<note n="#1"/> qu'il propose, s'il vous plaist d'y trauailler il y a des pistoles a gaigner. Pour moy je n'ay pas le temps d'y vacquer. lors que vous en
+aurez trouué la solution, vous me l'enuoyerez s'il vous plaist, afin que je la face parafer par deux notaires en la mettant entre les mains de Monsieur <persName key="carc010">Carcauy</persName>. L'on ma demandé ces jours vn liure de vostre façon, que l'on dit qui est intitulé Exetasis quadraturae circuli Christiani Hugenii<note n="#2"/>. Vos libraires en deuroient enuoyer icy quelques exemplaires. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+<p>Mr. <persName key="huyg003">Hugens</persName>.</p>
+</div>
+<p>Je vous supplie de faire tenir l'incluse a Mr. <persName key="scho197">Schotten</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

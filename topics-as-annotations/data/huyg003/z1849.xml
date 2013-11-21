@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1849"/>
+<meta type="date" value="1671-10-24"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1849">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Celle-cy n'est que pour vous faire bailler par la main de Monsieur Rancher, de la part de Monsieur Wallis, son 3<hi rend="sup">me</hi> et dernier volume de Motu<note n="#1"/>, lequel vous est envoyé si grossierement relié, pour le faire mettre auec ce qui a precedé. Je suis.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 14 Octobre 1671.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

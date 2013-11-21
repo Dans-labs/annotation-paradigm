@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1990"/>
+<meta type="date" value="1674-05-06"/>
+<meta type="sender" value="ricc012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rome_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1990">
+<div type="opener">
+<p lang="it">Ill<hi rend="sup">mo</hi> Sig<hi rend="sup">r</hi> mio e Patrone Coll<hi rend="sup">mo</hi>.</p>
+</div>
+<p lang="it">Vorrei, che fosse uscito alcuni anni prima il Libro di V.S. Ill<hi rend="sup">ma</hi>, che per le mani del Sig<hi rend="sup">r</hi> Auzout hò ricevuto più settimane sono, perche io allora vivendo libero dagli affari publici, che mi hanno costretto ad abbandonar gli studi più conformi al mio genio per darmi tutto alle cose sacre, della Teologia, dè canoni, e dell' erudizione ecclesiastica, mi sarei pasciuto con diletto incredibile della bellissime, e curiosissime invenzioni, che vedo nell' Opera di V.S. Ill<hi rend="sup">ma</hi>. Non hò tuttavia lasciato di trascorrerla, e considerare attentamente le proposizioni della Cicloide, e della misura di varie linee curve, si per esser' ingegnosissime, come ancora per avermi rinouata la memoria, e 'l gusto di certe mie speculazioni, che al Sig<hi rend="sup">r</hi>. <persName key="torr901">Torricelli</persName> già communicai, e potero, à mio credere, aprir la strada all' invenzione di molte pellegrine verità.</p>
+<p lang="it">Presa la retta AB di qualsivoglia lunghezza, sopra di essa vi s'intendano due semicerchi
+<figure><graphic url="huyg003oeuv07ill73.gif"></graphic></figure>
+simili, et equali, e similemente posti, BCD, AGE, con i lori diametri BD, AE, perpendiculari all' AB, e prendendo nella periferia i punti C, C, &amp;, si tirino le CF, CF &amp; parallele alla base AB, con tal proporzione, che BCD alla DC, DC &amp;, sieno, come AB alle CF, CF &amp;. I punti F, F &amp; descriveranno una linea, che sarà cicloide primaria, se AB si porrà eguale alla periferia BCD, ò secondaria, se la supponerno disuguale: e la medesima curva DFFA, quasi diametro del curvilineo paralelogrammo DCCBAGE, lo segherà in due parti eguali; dal che segue, che'l triangolo curvilineo AFFDCCB sia la mesà d'esso, e del suo eguale rettangolo AEDB; e tirata la retta AD, il curvilineo ADFFA sarà eguale alla figura genitrice BCD.</p>
+<p lang="it">Questo che si è detto del semicerchio è vero anche della parabola, dell' iperbola, e d'ogn' altra figura intorno l'asse, che uada mancando verso la cima, e sia caua indentro, com'io lo dimostrai allora con modo universale, facilissimo, e breve.</p>
+<p lang="it">La curva poi DFFA serve per diuidere in qualsivoglia data proporzione la linea curua genitrice DCB ò sia circolare, ò parabolica, ò altra con le due sudette condizioni. Parmi di poter' anche truouare, per un certo barlume, che ne hò, la misura delle linee curve genitrici, e delle superficie da loro descritte. Mà queste cose secessum scribentis, et otia quaerunt. Hò voluto accennarle à V.S. Ill<hi rend="sup">ma</hi>, per confermare ciò che le accennai del mio genio à questo soggetto, e per conseguenza il sommo piacere preso in leggere le sue nobili, e pellegrine maniere. A.V.S. Ill<hi rend="sup">ma</hi> rendo uiuissime grazie, che abbia avuto memoria della mia osservanza, e che m'abbia onorato col dono fattomi, e la supplico à porgermi occasioni di mostrarle con le opere, che sono</p>
+<div type="closer">
+<p lang="it">di V.S. Ill<hi rend="sup">ma</hi></p>
+<p lang="it">Diu<hi rend="sup">mo</hi> e Obbli<hi rend="sup">mo</hi> Serv<hi rend="sup">re</hi> <persName key="ricc012">Michel Angelo Ricci</persName>.</p>
+<p lang="it">Roma li 6 Maggio 1674.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

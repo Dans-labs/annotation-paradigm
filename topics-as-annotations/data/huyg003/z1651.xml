@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1651"/>
+<meta type="date" value="1668-07-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1651">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 13 Iuillet 1668.</p>
+</div>
+<p>J'aurois eu grand tort, si jeusse sçeu que vos affaires estoient en l'estat que vous me mandez<note n="#1"/>, de vous demander<note n="#2"/> des verres de lunette. car sans doute un homme qui se marie<note n="#3"/> la premiere fois de sa vie songe a toute autre chose. Puis donc que mariage y a, je vous y souhaite tout le succes et contentement que vostre coeur desire. Vous avez eu assez de temps pour considerer le pour et le contre et il falloit bien terminer a la fin une affaire qui duroit depuis tant d'annees. C'est un grand point d'avoir une femme qui soit a vostre grè, et cela peut contrepeser beaucoup d'autres considerations.</p>
+<p>J'ay remerciè Monsieur de Carcauy comme vous me l'aviez ordonnè, qui soustient que l'Agrippine<note n="#4"/> est tresauthentique aussi bien que le Neron, et que cela se peut reconnoistre par les bords. Vous ne dites pas si ce Neron est meilleur ou pire que le vostre et si le revers est le mesme. Son avis est que vous feriez bien de commencer par une suite des Empereurs du bon temps, la quelle il vous pourroit faire auoir pour 250 ℔ ou environ, en sorte que de chacun il y auroit 8, 10, ou 12 medailles avec des revers differents.</p>
+<p>Pour moy j'aimerois bien autant vostre maniere de collection, a scavoir de n'y mettre que les medailles bien faites et sur tout celles de grans hommes, mais il est plus malaisè de les amasser ainsi separement, par ce que d'ordinaire on trouue les suites toutes faites que les possesseurs ne veulent pas rompre. Parmy les medailles d'argent dont vous avez envoiè la liste, Monsieur de Carcavy n'en trouue point qui soient rares, et dit que quoy qu'elles l'aient estè du temps de Savot<note n="#5"/> elles ne
+le sont pas en cettuicy. mais il est un peu d'humeur a estimer peu ce que d'autres possedent.</p>
+<p>&nbsp;</p>
+<p>Ayez soin je vous prie de cette lettre a Monsieur van Leeuwen<note n="#6"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName> chez Monsieur <persName key="huyg001">de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

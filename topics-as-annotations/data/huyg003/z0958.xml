@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0958"/>
+<meta type="date" value="1662-01-25"/>
+<meta type="sender" value="vlie013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0958">
+<div type="opener">
+<p>Nobilissimo Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="vlie013">Janus Vlitius</persName> S.P.D.</p>
+</div>
+<p>Iterum ad te, ceu sacram anchoram, confugio, <hi rend="i">ἐξοχώτατε</hi> Hugeni. Libellum adagiorum Frisica lingua pridem editorum, et a me cum alijs vicinarum gentium comparatorum sub praelo habeo<note n="#1"/>. Sed cum singula ruminor, plurima mihi deesse comperior. Praestiti ante aliquot annos sive Illustri Parenti tuo sive Ludovico fratri Adagia Anglica<note n="#2"/> in 8<hi rend="sup">o</hi>. ut vocant, quibus ex adversa columna respondebant Latina. Vehementer ijs nunc indigeo. Quapropter obsecro te, ut vel in Musaeo paterno, vel fraterno, vel etiam bibliopolio Brunoniano<note n="#3"/> ea mihi nanciscari digneris. Forsitan et indaganti alia id genus occurrent, quibus studia haec mea promovere multum possis. Noli credere me Boxhornios<note n="#4"/> aut Becanos<note n="#5"/> velle imitari. Alia mihi copia, alia adminicula adsunt, quae imprimis Clarissimo Junio<note n="#6"/> debeo, qui solus haec optime praestare possit, sed majoribus intentus, haec minutula mihi demandavit. Quanti ea sint, brevi ut spero videbis. Si Wallius te adeat, roga precor et illum, et quotquot alios invenies, ut symbolam conferant, patriae linguae amore. Sed tu jam caelestibus tuis studijs inhaeres. Sit propitius
+eis caelorum Dominus, et hic ipse annus. Vale, Vir Nobilissime, et favere perge Vlitio Tuo. Dabam <hi rend="sc">xxv</hi> Januarij die <figure rend="inline"><graphic url="huyg003oeuv04fi01.gif"></graphic></figure>.</p>
+<p>&nbsp;</p>
+<p>Nos horologium magnum jam ad methodum tuam redegimus, parva tamen in superiore oscilli parte differentia. Autor est juvenis, qui Roterodamensi servivit fabro<note n="#7"/> tuo isti antagonistae quondam.</p>
+<p>Joannis Scenaei<note n="#8"/> de Verborum. Significatione liber<note n="#9"/> nuper Londini prodijt. Si eum Bruno vel affinis ejus habeat, jube mittat, vel Londino mitti jubeat.</p>
+<p>Insertas hasce rogo famulum tuum jubeas ad Bisdommerum<note n="#10"/> ferre, ut publico eant vidulo.</p>
+<p>Ad Ludovicum recta Parisios scripsi.</p>
+<div type="closer">
+<p>Mijn Heer</p>
+</div>
+</div>
+<div type="para">
+<p>Jonkheer <persName key="huyg003">Christiaen Huygens van Zulichem</persName> &amp;c.
+<lb/>Haghe.
+<lb/>IIII.</p>
+</div>
+</body>
+</text>
+</TEI>

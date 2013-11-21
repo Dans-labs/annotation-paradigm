@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1880"/>
+<meta type="date" value="1672-04-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1880">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 9 Avril 1672.</p>
+<p>Monsieur</p>
+</div>
+<p>Vos deux dernieres avec les Exemplaires des Transactions m'ont estè bien rendues dont je vous remercie tres humblement et vous prie de vouloir continuer tousjours de me les envoier, afin que doresnavant la collection que j'en feray soit complette. Car pour ceux que vous avez donnez jusqu'icy j'ay priè Monsieur Vernon de m'en faire venir tout le volume. J'ay estè bien aise de trouuer dans les dernieres ce que Monsieur Newton escrit<note n="#2"/> touchant l'effect des verres et des miroirs en matiere de lunettes, ou je vois qu'il a remarquè comme moy le defaut de la refraction des verres convexes objectifs a cause de l'inclinaison de leurs surfaces. Pour ce qui est de sa nouvelle Theorie des couleurs, elle me paroit fort ingenieuse, mais il faudra veoir si elle est compatible avec toutes les experiences.</p>
+<p>J'ay encore a vous rendre graces de ce que vous avez pris la peine de m'envoier l'analyse de Monsieur Sluse sur le Probleme d'Alhazen. Laquelle est tres scavante et digne de luy et a estè cause en l'examinant ces jours passez, que j'ay resvè de nouveau sur ce mesme probleme pour tascher d'obtenir la construction la plus courte et la plus naturelle en quoy je pense a la fin avoir reussi. Vous voudrez bien prendre la peine je m'assure de l'examiner, c'est pourquoy je m'en vay la mettre icy apres vous avoir dit l'abbregement que j'ay trouvè en mesme temps dans la premiere que je vous envoiay<note n="#3"/> imprimee de la maniere que vous scavez, qui est que tirant la ligne AT parallele a CB, et la divisant egalement en deux en V, ce point est celuy par ou doit passer l'une des hyperboles opposees, dont les asymptotes ont esté trouvees YM, MN.</p>
+<p>Mais voicy la bonne construction et qui a lieu dans tous les cas imaginables.
+<figure><graphic url="huyg003oeuv07ill31.gif"></graphic></figure>
+Soit le cercle donnè EDL dont le centre A. les points donnez B et C. Ayant tirè les lignes AB, AC, soient faites proportionelles BA, le rayon du cercle et FA. Et de mesme CA, le rayon du cercle et GA, et joignez en suite FG, et divisez la par le milieu en H et par ce point les lignes LHK MHN se coupant à angles droits et dont HK soit parallele a celle qui divise l'angle BAC par le milieu. ce seront les 2 asymptotes des hyperboles, qu'il faut descrire par les points F et G, et dont l'une passera aussi par le centre A<note n="#4"/>. leur intersections avec la circonference du cercle montreront les points de reflexion requis.</p>
+<div type="closer">
+<p>Je suis
+<lb/>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Il y a un de mes amis qui desire avoir les traitez<note n="#5"/> de Kinckhuizen<note n="#6"/> que je
+crois avoir este traduits en latin chez vous<note n="#7"/>. Je vous prie Monsieur, d'avoir la bontè de dire à Monsieur Collins<note n="#8"/> a qui Monsieur Vernon avoit escrit pour mes livres qu'il y veuille joindre cet autre.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">de Grubendol</persName>
+<lb/>à Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

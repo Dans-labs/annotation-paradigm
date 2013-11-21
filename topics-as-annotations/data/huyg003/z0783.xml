@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0783"/>
+<meta type="date" value="1660-09-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="medi012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0782"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0783">
+<div type="opener">
+<p>Serenissimo Principi <persName key="medi012">Leopoldo</persName>.</p>
+</div>
+<p>Vix eae litterae, quas ad Celsitudinem Tuam 13. Augusti dederam<note n="#1"/>, discesserant, cum diu expectatus Eustachii de Divinis libellus Illustrissimi Dati opera huc pervenit. Perlegi itaque illum continuo, &amp; ne caussae meae deesse viderer, defensionem<note n="#2"/> paravi quam typis excusam ea qua par est veneratione Celsitudini Tuae hic sisto offeroque. Libellum quoque ipsum cui respondeo una excudi curavi<note n="#3"/> non extantibus apud nos exemplaribus, sed cum hisce adjungere supervacuum duxi. Vererer equidem, Princeps Serenissime, velitationibus huiusmodi otio &amp; attentione tua abuti, nisi compertum haberem quam non invitus aures commodare soleas de veritate disceptantibus, novissimumque etiam patientiae illius documentum esset, quod longiores aliquanto responsione mea Eustachii annotationes expendere dignatus sis. Non dicam iam quales eae mihi visae sint, quoniam ex responso meo abunde liquebit. At ego quam recte judicaverim, atque utrum quae obiecta fuerant, refutaverim necne, totum id Tuae Celsitudini summorumque virorum quibuscum hisce de rebus communicare interdum solet, sententiis definiendum relinquo. Enim vero prospera omnia sperare me jubent nonnullorum doctissimorum hominum litterae, qui viso tantum Eustachiano Ἐ<hi rend="i">λεγχ♉</hi>, nec ignorantes bonam partem ab Honorato Fabri subministratam esse, gratulantur mihi, quod qui Romae etiam ingenio &amp; doctrina plurimum valere creduntur, nihil aliud quod in systemate meo reprehenderent, reperirint. Quin imo &amp; subpoenitere jam hos operis sui intelligo, &amp; si fieri posset, infectum malle: sed ob haec praejuditio gravari adversarios meos
+apud Celsitudinem Tuam nolim, cujus sincerum minimeque praeoccupatum judicium anxie expecto: neque enim tam victoriae conquirendae quam veritatis asserendae caussa, quam me invenisse confido, defensionem istam conscripsi. Suadebant aliqui, ut eadem opera, etiam quae ab aliis nonnullis adversus systema saturnium motae essent difficultates, publice examinandas sumerem. Sed &amp; nullae, quae quidem ullius momenti essent, huc usque in manus meas forte venerunt, &amp; si venissent, longiori
+tamen operi accingi me vetabat instans quotidie iter in Galliam, quod occasione legationis, quae hinc illo mittitur, suscipere constitui. Et forsan haec quoque pauca licet prae festinatione minus exacta erunt; sed tamen utcunque adversarios suffectura existimo, quorum scriptum ipsum quoque nescio qui tumultuario opere, ac raptim contextum videtur. Spero autem ubi bonis avibus profectione illa defunctus, utque in patriam reversus fuero, alia quaedam quae iam effecta habeo, me in lucem editurum, quae &amp; utilitatis plus habitura sint, dignioraque futura Celsitudinis Tuae conspectu, cui interim enixe me commendatum cupio, ac fausta omnia adprecor.</p>
+<div type="closer">
+<p><persName key="huyg003">Christianus Hugenius</persName>.</p>
+<p><placeName key="denha004">Hagae Comitis</placeName> <date>30. Septembris 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,19 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1322"/>
+<meta type="date" value="1665-01-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="kinn013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1321"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1322">
+<p>Nescio an Experimenta Antliae pneumaticae ad te pervenerint; sed pervenisse puto, cùm celebria admodum ab annis aliquot esse coeperint. Machinam ejusmodi mihi quoque ante triennium fieri curavi, atque insigne phaenomenon primus animadverti, cujus ratio hucusque in obscuro latet: Nempe Mercurium, qui in <persName key="torr901">Torricellii</persName> experimento in tubo vitreo descendere solet, ut scis, ad altitudinem 28 circiter pollicum, eundem triduo aut quatriduo ab aëre repurgatum, tuboque infusum, donec totus repleatur, non ut prius inverso tubo descendere, sed nullo facto vacuo suspensum manere in altitudine prioris dupla &amp; amplius; nam nondum terminus innotuit. Purgatur autem ab aëre solâ continuatione experimenti <persName key="torr901">Torricelliani</persName>, affuso uno aut altero aquae digito, neque ad haec machina est opus, sed illa tantùm occasionem ad investigandum praebuit. Qui verò rationem phaenomeni reddere poterit (nam aequipondium aëris hîc non satis facit) magnus mihi erit Apollo.</p>
+</div>
+</body>
+</text>
+</TEI>

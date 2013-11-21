@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0353"/>
+<meta type="date" value="1656-11-29"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0353">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. à Schooten</persName>, S.P.</p>
+</div>
+<p>En tibi, Vir Clarissime, Galilaei Epistolas, à Kechelio mihi traditas, unà cum literis Mijlonij<note n="#1"/>, quas tibi simul mittere promisi. In ijsdem Mylonij litteris, praeter demonstrationem circa aream trianguli sphaerici offendes quoque ea, quae nuper de triangulo aequilatero ab ipso mihi olim communicata commemoravi. Caeterum quae de Pappi quaestione adinvenisti, de quibus inter nos sermo erat, si transmittas, gratum omnino mihi feceris, ista enim perspicere aveo. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>29 Nov. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Suijlechem</persName>
+<lb/>op t' pleijn in S'Graven-Hage.
+<lb/>cito
+<lb/>port
+<lb/>met een bouck</p>
+</div>
+</body>
+</text>
+</TEI>

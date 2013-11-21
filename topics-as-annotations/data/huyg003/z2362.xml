@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2362"/>
+<meta type="date" value="1684-08-25"/>
+<meta type="sender" value="perr052"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2362">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 25 Aoust 1684.</p>
+</div>
+<p>J'ay reçu Monsieur la feuille contenante l'addition que vous auez faite a vostre Machine<note n="#1"/> dont ie vous remercie. Comme on n'a point fait icy d'epreuue ie ne m'etonne pas qu'on doute de son utilité et de sa commodité dans la pratique mais ie m'en rapporte entierement a l'experience que vous en auez faite. Si vous vous estes donné la peine d'examiner ma Machine<note n="#2"/> je ne comprens pas par quelle raison vous croyez quelle ne puisse pas seruir aussy bien aux grands verres qu'aux petits ne s'agissant que d'alonger le tuyau lequel soit qu'il soit grand soit qu'il soit petit met toujours les deux verres et le miroir dans vne mesme ligne car cela suffit pour ne pouuoir manquer de suiure lobjet, supposé qu'on donne au miroir les inclinaisons et les declinaisons necessaires ce qui ne sauroit manquer la machine estant de cuiure ainsy que vous auez remarqué. Ce que lon pourroit trouuer d'incommode est d'auoir besoin dun compagnon qui addresse à lobjet le tuyau mobile mais suiuant le principe de vostre machine qui est de se seruir d'un filet pour remuer le verre objectif on pourroit addresser soy-mesme le miroir par le moyen de deux filets lun pour les inclinaisons et lautre pour les declinaisons. Jay enuoyé vostre traitté à Monsieur de Hautefeuille<note n="#3"/> qui est a Osteande. Je croy quil vous aura ecrit ce qu'il en pense. Au reste ie suis bien aise que vous ne soyez pas du sentiment de Monsieur Blondel<note n="#4"/> à l'esgard de l'adoration aueugle qu'il
+veut que lon ait pour les Anciens et ie ne doute point que vous ne desaprouuiez la maniere dont il me traitte dans son cours d'Architecture<note n="#5"/> au sept et huitieme
+chapitre du quatrieme livre de la cinquieme partie où au sujet de la règle du changement des proportions suiuant les aspects differans que ie pretends estre inutile outre les injures qu'il me dit, il ne respond rien autre chose a la raison que ie fonde sur le jugement de la rüe qui ne se trompe que rarement, sinon que cela n'est pas vray dans les enfans et dans les bestes c'est a dire que cette regle n'est necessaire que pour les enfans et pour les bestes et qu'il n'importe pas que ceux qui ont du jugement soient chocquez par la corruption des proportions que cette regle veut introduire. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="perr052">Perrault</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

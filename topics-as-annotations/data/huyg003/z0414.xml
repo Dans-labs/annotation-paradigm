@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0414"/>
+<meta type="date" value="1657-10-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0414">
+<div type="opener">
+<p><date>12 Oct. 1657</date>.</p>
+</div>
+<p>Patris mei valetudo adversa, quae mensem penè integrum ipsum affligit, ita ut jam non sine periculo decumbat haud parum studia mea interturbat. Efficere tamen non potuit, quin plurimum gavisus sim acceptis hodie literis tuis, quibus solutio Dioptrici problematis continetur <hi rend="i">τȣ ϑαυμαςȣ</hi> ut ais; qua tam cito reperta, praeclarum profecto ingenij specimen edidisse mihi visus es. Equidem memini magnam voluptatem me cepisse cum primum in id incidissem, eaque potissimum de causa quod sicut Tu quoque à Cartesio persuasus eram nullam sphaericam superficiem ei rei aptam esse. at postea inveni hoc tantum ipsum non animadvertisse, quod curva linea quam excogitaverat, uno casu circulus fieret, ea scilicet quam secundam Ovalium posuit. Quandoquidem autem hucusque jam materiam hanc penetrasti, non pauca scitu digna si perrexeris offendes. Nam licet perfecta refractio ad punctum unum nulla in lentibus sphaericis detur praeter hanc quam invenimus, egregia nihilominus et necessaria est ipsarum contemplatio, quoniam solae hactenus mirabiles nobis effectus praebent, neque de hyperbolicis ellipticisve consequendis spes ulla reliqua esse videtur. mihi certè: nam scio quam difficile vel sphaerica paretur, longioribus tubis. De focis quarumlibet lentium determinandis quaeque eo spectant omnia te pervidisse non dubito. Hinc vero si duas pluresve lentes in tubum compositas contemplatus fueris, rationemque augmenti certam inire didiceris, intelliges continuò, nihil hic vidisse Cartesium, magni licet ingenij virum, frustraque perperamque explicasse telescopij effectus. Inveni ego datis positione quotcunque lentibus ad axem eundem inter oculum et rem visam et singularum lentium figura quomodo definiri possit ratio apparentis magnitudinis ad veram, hoc est ad eam quae nudis oculis percipitur. Praeterea vero hoc dignum est quod tibi proponas problema. Datis positione oculo
+et visibili, et figura lentis cavae vel convexae invenire quo loco inter utrumque constituta minimam vel maximam rei imaginem efficiat. Sed et alia plurima hujus generis referre possem, ex libro<note n="#1"/> quem de materia hac ante quadriennium dicavi, Demonstrationibus omnibus Euclidea methodo elaboratis, nisi sponte tibi obventura scirem.</p>
+<p>Circa curvam tuam ex hyperbola genitam nihil hucusque egregium animadvertere quivi, neque lucem ullam attulit quod sorores geminas ipsam habere significasti. Itaque ne quaeso a me postulare pergas rem divinationi proximam. Vix enim spero quidquam me hic inventurum ubi quid quaeram nescio. Saltem apud quem veterem authorem repereris lineam illam fac ut sciam nisi vis, ut temet ipsum autorem fuisse suspicer, contrariumque fecisse, quam quod plagiarij solent. Caeterum infinitus est linearum quae effingi possunt numerus et in singulis quod subtiliter inquiratur inest. Verum quae circa primas illas et maxime notas nova proferuntur circulum puta, et Coni sectiones, ea prae reliquis semper eximia mihi visa sunt. In Arithmetico problemate, cujus tibi Plutarchus occasionem praebuit non video quaenam sit difficultas, si tantum numerus quadratus quaeritur qui ad quadruplum vel triplum lateris sui datam habeat rationem; quae ratio tamen ejusmodi dari potest ut problema fiat impossibile.</p>
+<p>Temporis fallendi gratia longius hasce protraho. ago enim noctem hanc insomnem, patri aegrotanti adsidens, necessariaque ministrans, quo fit ut crebro interpeller. Ne tamen nimis prolixus fiam dimittam jam te ubi Problematis Deliaci constructionem addidero olim ut scis mihi quaesitam et nuper nunc repertam.</p>
+<p><figure><graphic url="huyg003oeuv02ill28.gif"></graphic></figure></p>
+<p>Sint datae AB et AC quibus duas medias invenire oporteat. minor autem duarum sit AB. Sumatur BD aequalis ⅓ BC, et AE dupla ipsius AB. Diametroque DE ellipsis describatur DKE cujus latus rectum sit aequale trienti lateris transversi DE. Et sumatur EF aequalis semissi lateris recti, FG vero aequalis ipsi AB, uti et GH quae perpendicularis erigatur ad DE. centro autem H describatur quae transeat per punctum E circumferentia EK, secans iterum Ellipsin in K. unde cadet in diametrum
+<figure><graphic url="huyg003oeuv02ill29.gif"></graphic></figure>
+perpendicularis KL. Dico AL esse minorem duarum proportionalium unam quas invenire propositum erat. Hanc constructionem pervelim scire an similiter inveneris. Novi autem et aliam universalem datâ Ellipsi qualibet; quae satis quoque commoda est, attamen non aeque atque haec. Ad lentes sphaericas de quibus supra, constituendas. parum quidem aliter se habet quam vestra sed eodem plane recidit. Nimirum datis punctis A, B, quorum ad A tendentes radios in B colligere velim, divido primum AB in C, ut sit ratio AC ad CB eadem illi quae refractiones metitur. Tum productâ CB facio ut eandem quoque rationem habeat CD ad DB. centroque D radio DC circumferentiam describo EFG. Caetera à tuis non discrepant. Demonstrationem vero brevissimam habeo, quam lubens quoque cum tua contenderem.</p>
+<p>De Parabolis virtualibus Patris Gregorij nihilo magis hucusque quam de altera curva illa perspicere valui cur dignas contemplatione censeas. Primam certe perpendi, quae si ex diversis curvis lineis compacta est, eae saltem alterius generis sunt quam sectiones conicae. Sed finiat tandem somniculosa epistola. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

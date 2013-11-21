@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0071"/>
+<meta type="date" value="1650-02-08"/>
+<meta resp="HI" type="sender" value="huyg007"/>
+<meta resp="HI" type="recipient" value="huyg003"/>
+<meta type="senderloc" value="genev001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0071">
+<div type="opener">
+<p>A <placeName key="genev001">Geneve</placeName> ce <date>8. de Febr: 1650</date>.</p>
+</div>
+<p>Je viens de recevoir la vostre du 17. du mois passé. J'espere que vous serez maintenant guerij de l'incommodité de Gosier qui vous tourmentoit alors, car ces maux viennent et s'en vont de mesme soudainement. Mon Frère Louis ne me mande rien, si non qu'il se porte mieux, souhaitteroit aller en France, et n'ij scauroit encore parvenir. en sorte que quand vous me renvoijez a lui pour scavoir des nouvelles. <hi rend="i">Soo wijse mij op een dorp daer geen huijsen en staen</hi>.</p>
+<p>Vous ne me mandez rien pendant que je cours le monde, mais le temps va venir que je vous rendray choux pour choux, ne craignez pas. Je pense que j'iray icy aux nopces de la vieille maistresse<note n="#1"/> de Crommon fille de Monsieur Turetini qui a cette heure fait un party beaucoup plus avantageux qu'elle n'auroit fait si Crommon auoit tenu sa parole, qu'il avoit donnée aveq si bonne forme circonstanciée de bon nombre de faux serments que monsieur Lunati<note n="#2"/> qui m'enseigne l'Italien et en ce temps la luy servoit de maquereau d'honneur, dit (ayant appris qu'il estoit fiancé aveq Mademoiselle<note n="#3"/> de Gheer) que ce sera grand bonheur pour luy si le diable ne l'emporte la premiere nuict de ces nopces.</p>
+<p>Je pense qu'en trois semaines je partiraij pour aller a Rome. Si vous esties icij vous verriez bien de belles choses que d'autres gens ne voijent pas, sur tout un paijs qui est a peindre de quelque costé qu'on se tourne. Je ne suis pas assez grand maitre pour le desseing moij mesme, mais je trouveraij quelque <hi rend="i">Craeuwer</hi><note n="#4"/> de peintre, qui me le fera, commé j'ay deja fait a Lyon.</p>
+<p>J'attache ces pieces dans mon Itineraire, qui en verité est un livre de prix, et que vous serez bien aise de voir.</p>
+<p>Je vous prie de m'escrire touts les huict jours et j'en feray de mesme. Adieu.</p>
+</div>
+</body>
+</text>
+</TEI>

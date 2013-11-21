@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0145"/>
+<meta type="date" value="1652-12-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="segh007"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0145">
+<div type="opener">
+<p>Pater <persName key="segh007">Seghers</persName>.</p>
+<p><date><seg org="9" resp="#AD" type="corr">29</seg> dec. 1652</date>.</p>
+<p>Mijn Heer</p>
+</div>
+<p>Van <placeName key="amste001">Amsterdam</placeName> weder te huijs komende, daer ick eenighe daghen vertoeft hebbe, vinde VE aengenamen<note n="#1"/> met den ingeslotenen<note n="#2"/> van den Boheemschen Edelman<note n="#3"/> door wiens aensoeckinghe, om met mij kennis en vrientschap te maecken, ick mij groote eere achte te geschieden. Daerom heb ick terstond desen bygaenden<note n="#4"/> tot antwoort willen schrijven, en bidde VE voort sorge te willen draeghen dat hij mach te rechter handt komen. Het schijnt dat desen Edelman van vrientschaps wegen soeckt Pater Gregorius te defenderen of ten minsten te excuseren, also hij oock niet t'eenemael sijn quadrature voor volkomen en houdt. Pater Xaverius Ainscomb<note n="#5"/> heeft een groot werck ondernomen, soo hij al de Quadraturen meynt staende te houden.<note n="#6"/>
+Ick verlange seer te sien het gheene hij alreede seght tegens mij volschreven te hebben. ende versoeck VE aen hem als mede aen Pater Gregorius myn dienstige gebiedenisse te willen doen. Hier mede sal ick eyndighen, en VE van gelycken het nieuwe Jaer met alle voorspoedt toewenschende, blyven</p>
+<div type="closer">
+<p>Myn Heer
+<lb/>VE ootmoedighen</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

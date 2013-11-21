@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LX"/>
+<meta type="date" value="1673-08-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="rump004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LX">
+<div type="opener">
+<p>de <placeName key="parij001">Paris</placeName>, le 5 d'Aoust 1673.</p>
+</div>
+<p>Vous agreerez s'jl vous plait, Monsieur, ce petit present que j'envoije a Mademoiselle Elisabeth vostre Fille, et aurez la bonté de le luy garder, afin qu'un jour ce luy soit une marque de l'affection de son Parain, qu'elle scaura avoir esté vostre tres humble et tres obeyssant serviteur, signé Huijgens de Zulichem.</p>
+<div type="comment">
+<p>Comparez ce que Huygens écrit à son frère Lodewijk le 10 août suivant (T. VII p. 352): ‘Apres demain je dois tenir au baptesme un enfant de Monsieur Romf’.</p>
+<p>Nous observons que le père Constantijn avait jadis tenu Rumpf au baptême c'est pourquoi celui-ci s'appelait Constantinus.</p>
+<p>Rumpf répondit comme suit:<note n="#1"/></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

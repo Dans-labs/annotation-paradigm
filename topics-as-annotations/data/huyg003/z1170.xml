@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1170"/>
+<meta type="date" value="1663-11-26"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta resp="HI" type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1170">
+<div type="opener">
+<p>Gresham Colledge 16 Novembre 1663.</p>
+<p>Monsieur</p>
+</div>
+<p>Nayant point reçeu la responce que J'attendois de Monsieur le Comte de Kincairdin<note n="#1"/> touchant les montres Je n'ay pas voulu diferer d'auantage a vous enuoyer la copie<note n="#2"/> dune lettre de Monsieur <persName key="boyl001">Boile</persName> escritte à Monsieur Oldenbourg touchant l'experience qu'il auoit faite par lordre de la Societé en suitte de celle que vous m'auez communique autrefois, &amp; dont Je vous ay parlé dans mes precedentes. Monsieur Oldenbourg l'a mise en latin. Vous la trouuerez belle. il vous baise les mains comme font tous nos Messieurs qui sont du Conseil en presence desquels Je me soubsigne de bon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble tresobeissant &amp; tresaffectionné seruiteur
+<lb/><persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>Au petit Moyse, rue de petit Bourbon
+<lb/>A Paris.
+<lb/>18 st.</p>
+</div>
+</body>
+</text>
+</TEI>

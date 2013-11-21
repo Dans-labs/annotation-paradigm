@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0800"/>
+<meta type="date" value="1660-11-04"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0800">
+<div type="opener">
+<p><date>Jeudy martin 4 Nouembre</date>.</p>
+</div>
+<p>J'enuoye, Monsieur, apprendre des nouuelles de vostre sante et vous prier de vouloir mettre sous vostre enueloppe de demain la Response que je fais a nostre Amy<note n="#1"/> et de bien recommander quon la rende auec soin a son addresse. Elle ne grossira guere vostre paquet, lequel vous m'enuoyerés par vostre valet afin que je le face conduire par le mien a la rue Quiquempoix au bureau de cette poste.</p>
+<p>Si vous trouués aussi a propos de menuoyer vn Exemplaire de vostre response<note n="#2"/> a <persName key="divi901">Eustachio de diuinis</persName> pour Monsieur <persName key="monm010">de Monmor</persName> je le luy enuoyerois de vostre part et cela me semble de la bienseance.</p>
+<p>Quand vous visiterés Monsieur vostre Ambassadeur presses le au nom de tous les habiles curieux de donner enfin sa Relation des nouuelles Descouuertes au Midy<note n="#3"/>. Il sen fera honneur et a son Païs en faisant ce present au public.</p>
+<p>Je suis a vous sans reserue.</p>
+<div type="closer">
+<p><persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

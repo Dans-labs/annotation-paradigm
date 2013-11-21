@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0638"/>
+<meta type="date" value="1659-07-15"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0638">
+<div type="opener">
+<p><placeName key="luik_001">Leodij</placeName>, <date>15 Julij 1659</date>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Recte fecisti quod lucubrationes tuas Serenissimo Principi Leopoldo inscripseris, est enim vt experientiâ didicj vir non minus humanitate et doctrinâ quam natalium splendore commendabilis. Idem etiam fecissem si quam habere potuissem fiduciam
+vel argumentj vel operis<note n="#1"/>: sed hoc leue est, vt videbis, illud vero licet fortasse non ignobile tamen <hi rend="i">λίαν γεωμετριϰόν ἐστι</hi>, et nescio quomodo <hi rend="i">ϕυσιϰώτερα</hi> magis arrident. Itaque, cum ne quidem nomen meum adscripserim, Lectorj Geometrae duntaxat inscripsj; hoc est Tibi quem in animo habuj, tuique similibus, quibus sj probetur abunde mihi satisfactum erit. Herj eiusdem aliquot exemplaria<note n="#2"/> transmisi ad Te, non per Siluaeducenses aurigas, qui nunc non aderant, sed viâ quam suggessit amicorum aliquis, et vt ait, breuiore, nescio an securiore: Itaque statim atque acceperis rescribe, quaeso, vt timere desinam. Ex ijs vnum Clarissimo Schotenio si donatum volueris, rem mihj gratissimam praestabis; aliud etiam Wallisio, est enim insignis (vt ex ipsius scriptis videre est) ac subtilis Geometra: et sj Saturnum tuum in Angliam mittas, poterit Mesolabum meum comes, vt opinor, non grauis accedere. Caetera Geometris, prout expedire censebis, distribues, nam hoc totum arbitrij tui esto; et si plures adhuc nosti quj similium rerum curá teneantur, aliquot rursus exemplaria, cum iusseris, ad Te transmittam. Vellem tam facile ad Italos peruenire possent, Florentinos praecipue, nam illi nullo negotio Romam dirigerent. Ego eâ de re tecum deliberare statueram, at Tu me praeuenis, et in eâdem mecum <hi rend="i">ἀπορίᾳ</hi> versarj Te significas. Equidem
+nihil consultius arbitror, quam si per vestrates onerarias naues (quarum magna semper, vt vidj, in Herculis liburnj portu copia est) mittantur. Via longa est, inquies, sed breuior nunc non occurrit; nam sarcina grauior est quam vt a Veredario commode ferri possit. Mone igitur quid facto opus sit; operam enim (sj quid his melius nosti) quantamcumque potero libens impendam. Memor eram equidem me Theoremata de superficiebus Conicis<note n="#3"/> ante annum accepisse. Sed ita tuas intellexeram quasj iam in Gallijs edita esse innueres, ideoque inde negaueram me accepisse. Nouum autem illud de Parabolicae lineae, et Hyperboles dimensionis mutuo nexu, dici non potest quantum mihi placuerit, praesertim cum Heuratio occasionem dederit inueniendj rem<note n="#4"/> quam inter <hi rend="i">ἀδύνατα</hi> hactenus recensueram. In quo errore et Cartesium et plures alios, vt scis, socios habuj; ideoque maximo desiderio teneor videndj Commentarij Schotenianj, cuius editionem postremam nondum aspexj: spero autem fore vt aliquod exemplar ad Bibliopolas nostros quamuis similibus libris non instructos aliquando perueniat. Analysim meam quod attinet nescio cur nouam vocare voluerit Dettonuillius, nam non aliam nosse me profiteor quam Vieteam (illj enim assueueram antequam Cartesianam viderem, et hanc ab illâ non multum differre arbitror) cuj si quid a me additum sit, videbis in his speciminibus quae iam edidj. In ijs propositionem tertiam et sextam, quaeso, attentius considera, latet enim aliquid, cuius rationem nisj quis peruideat, <hi rend="i">ἀβλεψίας</hi> accusari possim.
+<figure><graphic url="huyg003oeuv02ill150.gif"></graphic></figure>
+Addo parabolam meam de quâ Dettonuillius, vt videre possis an eadem sit cum Wallisianâ. Sit Cyclois primaria cuius basis <hi rend="i">ab</hi>, vertex <hi rend="i">c</hi>, axis <hi rend="i">af</hi><note n="#5"/> fiat vt 1 ad 28 4/9 ita <hi rend="i">fc</hi> ad <hi rend="i">cq.</hi> Tum axe <hi rend="i">cf</hi> latere recto <hi rend="i">cq</hi> fiat semiparabola <hi rend="i">cnd</hi>, cuius applicatarum quadrato-quadrata vt <hi rend="i">fd</hi>, <hi rend="i">yn</hi>, eandem habeant rationem, quam cubj partium axis <hi rend="i">fc</hi>, <hi rend="i">yc.</hi> Dico ductâ quâlibet applicatâ Cycloidis et Parabolae, vt <hi rend="i">zypn</hi>, superficiem solidj orti ex reuolutione curuae <hi rend="i">zcp</hi>, circa <hi rend="i">zp</hi>, aequarj circulo cuius radius <hi rend="i">yn.</hi> Aliqua etiam commentus sum circa Ellipsoides (perlas vocat Dettonuillius) quae aliâ occasione, si ita iusseris, accipies.</p>
+<div type="closer">
+<p>Vale interim Vir Praestantissime ab eo qui pleno affectu est</p>
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

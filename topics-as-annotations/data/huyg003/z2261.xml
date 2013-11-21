@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2261"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="cata001"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2259"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2261">
+<p>Examen Mathematique du Centre d'Oscillation par Mr. <persName key="cata001">l'Abbé de Catelan</persName>.</p>
+<p>&nbsp;</p>
+<p>La Question du Centre d'Oscillation ou de balancement estant bien conceuë n'est pas si difficile à resoudre qu'on pourroit croire. Ce qu'on appelle <hi rend="i">Centre d</hi>'<hi rend="i">Oscillation</hi> est un point mobile scitué dans un Pendule à une telle distance de l'axe ou du centre de suspension, que quand mesme toutes les autres parties de ce pendule viendroient à s'anéantir, celle-là seule continûroit ses balancemens comme auparavant, c'est à dire dans le mesme temps que le pendule entier: Ce qui n'arriveroit pas à l'égard des autres parties prises chacune séparément, car celles qui sont plus proches de l'Axe, auroient des balancemens plus courts &amp; plus frequens que celles qui en sont plus eloignées<note n="#2"/>: Dont la raison est que les plus proches décrivent de plus petits arcs &amp; acquierent des vitesses plus grandes à proportion de ces arcs que les plus eloignées; car ces arcs sont proportionels à des quarrez &amp; ses vitesses à leurs racines; Or plus les racines sont petites entre elles, &amp; plus elles sont grandes à l'égard de leurs quarrez.</p>
+<p>Dans un mesme Pendule toutes les parties ne pouvant se mouvoir qu'à la fois à cause de leur union, le balancement des moins distantes de l'axe est tellement retardé par celuy des plus éloignées, &amp; celuy des plus éloignées, est tellement acceleré par le balancement des autres qu'il se fait entre elles une compensation de vitesses proportionelle aux Arcs qu'elles décrivent: En sorte que le temps du balancement de tout le Pendule est moyen entre les temps des balancemens de ses parties détachées les unes des autres, c'est à dire qu'il est égal à la somme de ces temps divisée par le nombre de ces parties, que la précision Mathematique demande que l'on considere comme reduites à des points. On sçait par l'experience &amp; on peut démontrer par les principes de la Philosophie de <persName key="desc004">Des-Cartes</persName>, que tous
+les corps pesants tombent vers la terre dans des temps en raison soûdoublée ou comme les racines des hauteurs d'où ils descendent<note n="#3"/>. Ces hauteurs dans les pendules sont les distances de l'axe, autour duquel ils se meuvent<note n="#4"/>. La question proposée se reduit donc à <hi rend="i">diviser par le nombre des parties d'un pendule la somme des racines de leurs distances de l</hi>'<hi rend="i">Axe</hi><note n="#5"/>, <hi rend="i">pour avoir une ligne droite qui soit la mesure du temps du balancement de ces pendules de laquelle par consequent le quarré ou la troisiéme proportionelle sera la distance d</hi>'<hi rend="i">entre l</hi>'<hi rend="i">Axe &amp; le Centre d</hi>'<hi rend="i">Oscillation</hi>. L'application de ce principe aux trois grandeurs que la Geometrie a pour objet est assez facile.</p>
+<p>1. Pour determiner le Centre d'Oscillation d'une Ligne<note n="#6"/>, il faut la concevoir divisée en des parties égales infiniment petites ou dans tous ses points; Et aprés avoir décrit sur la plus longue distance de cette Ligne à l'Axe une Parabole qui ait pour sommet le point de l'Axe où se termine cette distance, &amp; pour parametre une ligne qui soit l'unité à son égard, il faut tirer de chaque point de la Ligne une parallele à l'Axe jusqu'à ce qu'elle rencontre la Parabole &amp; luy soit appliquée: La somme de toutes les appliquées semblables est égale à un rectangle dont la hauteur est la Ligne proposée, &amp; la base la racine de la distance de l'Axe au Centre d'Oscillation cherché<note n="#7"/>.</p>
+<p>2. Pour avoir la longueur dont le Centre d'Oscillation d'un Plan est éloigné de son Axe il faut concevoir une portion d'un solide Parabolique dont les Paraboles ayent pour Diametres les plus longues distances d'entre l'Axe &amp; chacune des Lignes paralleles qui remplissent ce Plan. Ce solide est égal à un Prisme ayant le Plan pour base, &amp; pour hauteur la racine de la distance de l'Axe au Centre d'Oscillation de ce plan<note n="#8"/>.</p>
+<p>3. Pour les solides, les ayant divisez par la pensée en des surfaces paralleles il faut faire un plan des distances de leurs centres d'Oscillation à l'Axe: Le Centre d'Oscillation de ce Plan sera le mesme que celuy de ces solides. Si ce sont des Prismes, ils ont le mesme Centre d'Oscillation que leur base<note n="#9"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

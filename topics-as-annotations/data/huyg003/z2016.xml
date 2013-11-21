@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2016"/>
+<meta type="date" value="1675-03-21"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2016">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 11 Mars 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>J'ay iusques icy differé ma responce à vostre derniere du 20 Fevrier, dans l'esperance de receuoir le Journal des scavants, que vous disiez devoir paroitre dans 4 ou 5 iours et contenir la figure gravée, auec vne entiere description de la machine nouuelle de vostre invention. Mais ledit Journal tardant trop longtemps sur le chemin, ie n'ay pas voulu manquer de vous faire scauoir cependant, que nos Messieurs receurent auec des tesmoignages d'une singuliere affection les nouuelles, qu'il vous plaisoit leur communiquer touchant la dite invention; dont pourtant ils suspendirent leur jugement iusques a ce qu'ils pûssent auoir le bien d'en voir la figure et vne plus ample description, vû principalement que Monsieur Hook inventa, il y a quelques annees, vne chose semblable<note n="#1"/>, comme il croit, laquelle pourtant ne reüssit pas alors tout à fait conformement à son souhait, mais qu'il pense neantmoins capable d'estre reduite à vne plus grande perfection.</p>
+<p>Je ne doubte pas, Monsieur, que vous n'ayez consideré les effets de la temperature de l'Air, et principalement ceux de la chaleur, sur les ressorts de cete nature lá, que le vostre semble estre. Il paroit assez difficile, de prevenir cela, ou d'y remedier, et de faire en sorte, que les temps des reciprocations soient tousiours esgaux les uns aux autres auec durée. Mais, ie dis, vostre sagacité l'a assurement prevû, et trouué moien d'assurer la machine contre cet inconvenient.</p>
+<p>Je n'en ay encore rien imprimé dans mes transactions (dont ie vous envoye les dernieres de l'annee<note n="#2"/>) parce que ie fais estat de le faire le plus advantageusement que ie pourray, aussi tost que i'en auray vû la figure. Cependant ie vous suis tres obligé de vostre generosité envers moy, en m'offrant ce que vous y pourriez pretendre en Angleterre, quant a vn privilege. La Societé Roiale me laissera volontiers iouir de l'avantage, qui en pourra resulter, si les effets seront conformes à l'attente, et si ie n'en suis pas debouté par quelque invention du païs; dont vous serez averti cy-apres par</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Voicy vne lettre<note n="#3"/> de M. Ball qui n'a receu vostre livre imprimé que fort tard, parceque ie l'ay tousiours attendu qu'il viendroit en ville, du champ, oú il demeure la plus part du temps.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName> dans la Bibliotheque du Roy à Paris.
+<lb/>30 β</p>
+</div>
+</body>
+</text>
+</TEI>

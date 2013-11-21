@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1464"/>
+<meta type="date" value="1665-09-17"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="lode034"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1464">
+<div type="opener">
+<p>17 Septembre.</p>
+<p>au Roy.</p>
+</div>
+<p>Remerciment de son present<note n="#1"/> de 500 escus<note n="#2"/>. que j attendray ses ordres pour me rendre a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

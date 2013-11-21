@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0440"/>
+<meta type="date" value="1657-12-22"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0440">
+<div type="opener">
+<p><date>22 Dec. 57</date>.</p>
+<p>Mijn Heer</p>
+</div>
+<p>Also Brenger deses, Monsieur <persName>van Loon</persName><note n="#1"/>, sijnde een mijner Discipulen, mij verhaelde van sins te syn, dese Heijligen dagen in den Hage te passeeren, so heb ick niet konnen naerlaten op UEdelheijt bij dese gelegentheijt te versoucken, dat UEdelheijt wil gelieven door denselven mij voor eenige dagen UE microscopium te laten toekomen, waer van ick in mijn laesten<note n="#2"/> (dewelcke ick verhoop dat UEdelheijt met de by gaende<note n="#3"/> sal ter handt gekomen sijn) gemelt hebbe. Sal sorge dragen, dattet UEdelheijt sonder eenige schade sal gerestitueert worden. Vorders hebbe daerna verstaen, dat Monsieur <persName>Heuraet</persName> op staende voet, en ongevaer op gelycke wyz als het Methodus van Monsieur <persName key="hudd002">Hudde</persName> toegaet in het determineeren van 't grootste en kleynste, van alle kromme linien, waer van de quadraturen dan immers te vinden syn, derselue quadratura en centrum gravitatis weet te determineeren. Het welck dan voorwaer (myns oordeels) voor iets sonderlings te achten is, also het vinden der quadratura en van t' centrum gravitatis tot noch toe voor het alderswaerste in de Geometrie gehouden is; en ick niet en weet dat sulx noch sodanigh bij iemandt tot noch toe is bekent geweest op staende voet te konnen vinden. Eyndende sal naer dienstige gebiedenisse, verblyven</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>UE. toegedanen en dienstwilligen vrundt en dienaer <persName key="scho197">Fr. van Schooten</persName>.</p>
+<p>met grooten haest, uyt <placeName key="leide001">Leyden</placeName> den <date>22 Dec. 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName> woonende in S' Graven-hage op t' pleyn.
+<lb/>met vrundt.</p>
+</div>
+</body>
+</text>
+</TEI>

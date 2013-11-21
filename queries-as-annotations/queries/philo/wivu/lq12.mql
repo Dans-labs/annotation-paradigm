@@ -1,0 +1,42 @@
+// In his poem De moeder de vrouw, Martinus Nijhoff introduces a woman
+// singing Psalms. He quotes her: "Prijs God, Zijn hand zal u bewaren."
+// (His hand will protect you.) This query looks for clauses in which a
+// `hand' is subject of a verb meaning `to protect'.
+
+// ident @(#)lq12.mql	1.1 04/02/27
+
+select all objects where
+
+[clause
+   [phrase function = PreO or function = Pred
+      [word
+         lexeme = "NVR[" or     // ]
+         lexeme = "NYR[" or     // ]
+         lexeme = "PQD[" or     // ]
+         lexeme = "CMR["        // ]
+      ]
+   ]
+   ..
+   [phrase function = Subj
+      [word lexeme = "JD/" or lexeme = "KP/"]
+   ]
+]
+
+go
+
+select all objects where
+
+[clause
+   [phrase function = Subj
+      [word lexeme = "JD/" or lexeme = "KP/"]
+   ]
+   ..
+   [phrase function = PreO or function = Pred
+      [word
+         lexeme = "NVR[" or     // ]
+         lexeme = "NYR[" or     // ]
+         lexeme = "PQD[" or     // ]
+         lexeme = "CMR["        // ]
+      ]
+   ]
+]

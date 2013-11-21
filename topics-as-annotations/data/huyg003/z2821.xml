@@ -1,0 +1,163 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2821"/>
+<meta type="date" value="1693-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="?"/>
+<meta type="link" value="2820"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2821">
+<div type="section">
+<head rend="h4">§ I<note n="#3"/>.</head>
+<p>AG=<hi rend="i">x</hi>; GC=2<hi rend="i">x</hi>; AF=<hi rend="i">x</hi>-<hi rend="i">dx</hi>; GD=<hi rend="i">z</hi>=GQ; FP=FE.</p>
+<p><figure><graphic url="huyg003oeuv10ill156.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure></p>
+<p>(CG) (GD) (FG) (FH)</p>
+<p>2<hi rend="i">x</hi>:<hi rend="i">z</hi>=<hi rend="i">dx</hi>:<hi rend="i">zdx</hi>/2<hi rend="i">x</hi></p>
+<p>BF=2<hi rend="i">x</hi>-2<hi rend="i">dx</hi></p>
+<p>FH=<hi rend="i">zdx</hi>/2<hi rend="i">x</hi></p>
+<p>- - - - - s.</p>
+<p>2<hi rend="i">x</hi>-2<hi rend="i">dx</hi>-<hi rend="i">zdx</hi>/2<hi rend="i">x</hi>=[HB=]GB.</p>
+<p>ex GC=2<hi rend="i">x</hi></p>
+<p>- - - - - s.</p>
+<p>2<hi rend="i">dx</hi>+<hi rend="i">zdx</hi>/2<hi rend="i">x</hi>=BC</p>
+<p>(CG) (GD) (CB) (BN vel ED)</p>
+<p>2<hi rend="i">x</hi>:<hi rend="i">z</hi>=2<hi rend="i">dx</hi>+<hi rend="i">zdx</hi>/2<hi rend="i">x</hi>:<hi rend="i">zdx</hi>/<hi rend="i">x</hi>+<hi rend="i">zzdx</hi>/4<hi rend="i">xx</hi></p>
+<p>FP sive EF=FG+GD-ED=<hi rend="i">dx</hi>+<hi rend="i">z</hi>-<hi rend="i">zdx</hi>/<hi rend="i">x</hi>-<hi rend="i">z</hi><hi rend="sup">2</hi><hi rend="i">dx</hi>/4<hi rend="i">xx</hi></p>
+<p>DG sive GQ=<hi rend="i">z</hi></p>
+<p>- - - - - - - - - - s.</p>
+<list>
+<item><hi rend="i">dz</hi><note n="#4"/>=<hi rend="i">dx</hi>-<hi rend="i">zdx/x</hi>-<hi rend="i">z</hi><hi rend="sup">2</hi><hi rend="i">dx</hi>/4<hi rend="i">xx</hi></item>
+<item></item>
+<item><hi rend="i">xdz</hi>=<hi rend="i">xdx</hi>-<hi rend="i">zdx</hi>-<hi rend="i">zzdx</hi>/4<hi rend="i">x</hi><note n="#5"/></item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#6"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill157.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p>GD=<hi rend="i">z</hi>; AG=<hi rend="i">x</hi>; CG=2<hi rend="i">x</hi>. Formo curvam QO, per applicatas GQ=GD et ita ubique. Unde et GQ=<hi rend="i">z</hi>.</p>
+<p><table>
+<row>
+<cell>(CG)</cell>
+<cell>(DG)</cell>
+<cell></cell>
+<cell>(FG)</cell>
+<cell>(GH)</cell></row>
+<row>
+<cell>2<hi rend="i">x</hi>:</cell>
+<cell><hi rend="i">z</hi></cell>
+<cell>=</cell>
+<cell><hi rend="i">dx</hi>:</cell>
+<cell><hi rend="i">zdx</hi>/2<hi rend="i">x</hi></cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>2<hi rend="i">x</hi>=GC</cell>
+<cell>2<hi rend="i">dx</hi>=2FG</cell></row>
+</table></p>
+<p>- - - - - s.</p>
+<p>2<hi rend="i">x</hi>-2<hi rend="i">dx</hi>=FB vel HB nam ut CG=2GA ita BF=2FA.</p>
+<p><hi rend="i">zdx</hi>/2<hi rend="i">x</hi>=GH</p>
+<p>- - - - - ad.</p>
+<p><table>
+<row>
+<cell>2<hi rend="i">x</hi>-2<hi rend="i">dx</hi>+<hi rend="i">zdx</hi>/2<hi rend="i">x</hi>=GB</cell>
+<cell>ex 2<hi rend="i">x</hi>=GC</cell>
+<cell>- - - - - s.</cell>
+<cell>2<hi rend="i">dx</hi>-<hi rend="i">zdx</hi>/2<hi rend="i">x</hi>=CB</cell></row>
+</table></p>
+<list>
+<item>(CG) (GD) (CB) (BN)</item>
+<item>2<hi rend="i">x</hi>:<hi rend="i">z</hi>=2<hi rend="i">dx</hi>-<hi rend="i">zdx</hi>/2<hi rend="i">x</hi>:<hi rend="i">zdx/x</hi>-<hi rend="i">zzdx</hi>/4<hi rend="i">xx</hi></item>
+<item>NB+FG=<hi rend="i">zdx/x</hi>-<hi rend="i">zzdx</hi>/4<hi rend="i">xx</hi>+<hi rend="i">dx</hi>=<hi rend="i">dz</hi>=QV</item>
+<item>4<hi rend="i">xzdx</hi>-<hi rend="i">zzdx</hi>+4<hi rend="i">xxdx</hi>=4<hi rend="i">xxdz</hi><note n="#7"/>
+<list>
+<item><hi rend="i">az</hi>=<hi rend="i">nx</hi></item>
+<item><hi rend="i">az/x</hi>=<hi rend="i">n</hi></item>
+<item><hi rend="i">az</hi>-<hi rend="i">adz</hi>/<hi rend="i">x</hi>-<hi rend="i">dx</hi>=<hi rend="i">n</hi> dimin.</item>
+<item>- - - - - s.</item>
+<item>-<hi rend="i">azdx</hi>+<hi rend="i">axdz</hi>/<hi rend="i">xx</hi>=<hi rend="i">dn</hi></item>
+<item>-<hi rend="i">azdx</hi>+<hi rend="i">axdz</hi>=<hi rend="i">xxdn</hi></item>
+<item><hi rend="i">xdz</hi>=<hi rend="i">xxdn</hi>+<hi rend="i">azdx</hi>/<hi rend="i">a</hi></item>
+<item>4<hi rend="i">xxdz</hi>=4<hi rend="i">x</hi><hi rend="sup">3</hi><hi rend="i">dn</hi>+4<hi rend="i">axzdx</hi>/<hi rend="i">a</hi></item>
+</list></item>
+<item>4<hi rend="i">xzdx</hi>-<hi rend="i">zzdx</hi>+4<hi rend="i">xxdx</hi>=4<hi rend="i">x</hi><hi rend="sup">3</hi><hi rend="i">dn</hi>/<hi rend="i">a</hi>+4<hi rend="i">axzdx</hi>/<hi rend="i">a</hi><note n="#8"/></item>
+<item>-<hi rend="i">azzdx</hi>+4<hi rend="i">axxdx</hi>=4<hi rend="i">x</hi><hi rend="sup">3</hi><hi rend="i">dn</hi></item>
+<item>-<hi rend="i">annxxdx</hi>/<hi rend="i">aa</hi>+4<hi rend="i">axxdx</hi>=4<hi rend="i">x</hi><hi rend="sup">3</hi><hi rend="i">dn</hi>; pro <hi rend="i">zz</hi>:<hi rend="i">nnxx/aa</hi></item>
+<item>-<hi rend="i">nndx</hi>+4<hi rend="i">aadx</hi>=4<hi rend="i">axdn</hi></item>
+</list>
+<p>hinc spatium hyperbolicum <hi rend="i">dx</hi>/4<hi rend="i">ax</hi>=<hi rend="i">dn</hi>/-<hi rend="i">nn</hi>+4<hi rend="i">aa</hi> hinc spatium curvae quod reducibile ad spatium hyperbolicum.</p>
+<list>
+<item><hi rend="i">aadx</hi>/4<hi rend="i">x</hi>=<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">dn</hi>/4<hi rend="i">aa</hi>-<hi rend="i">nn</hi>.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#9"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill158.gif"></graphic>
+<figDesc>Fig. 3.</figDesc></figure></p>
+<p>Si ut OQ ad MN sive ut MA ad AO ita RK ad IP erit spat. hyperbol. RIPK octuplum spat. hyperb. QMNO.</p>
+<p>Sit ST media prop. inter RK, IP. Erit spat. RSTK sive sector hyperb. RSΩ quadruplus spat. QNMO.</p>
+<p>Ducta SΩ secet R<hi rend="i">ϕ</hi> in V et ducatur YVW parall. ΩR. Erit spat. RWYΩ duplum sectoris dicti hyperb. RSΩ<note n="#10"/>, ideoque octuplum spatij QNMO; quod cum fit, est RV sive ΩY=<hi rend="i">n</hi> nostrum. Est autem <hi rend="i">nx/a</hi>=<hi rend="i">z</hi> subtangens quaesita.</p>
+</div>
+<div type="section">
+<head rend="h4">§ IV<note n="#11"/>.</head>
+<p>MA ad mediam inter MA, AO<figure rend="inline"><graphic url="huyg003oeuv10fi265.gif"></graphic></figure><note n="#12"/>.</p>
+<list>
+<item>√2<hi rend="i">a</hi><hi rend="sup">3</hi>/<hi rend="i">x</hi> sive <hi rend="i">a/x</hi>√2<hi rend="i">ax</hi>=SX.</item>
+</list>
+<p>Divido qu. R<hi rend="i">ϕ</hi> per SX fit XZ+ZS ex propr. hyperbolae, quia ▭ ex SX et ZX+ZS=qu. R<hi rend="i">ϕ</hi> tangentis in vertice; propter 4<hi rend="i">aa</hi> in aequatione est R<hi rend="i">ϕ</hi> et RΩ=2<hi rend="i">a</hi>.</p>
+<p><figure><graphic url="huyg003oeuv10ill159.gif"></graphic></figure></p>
+<p>2<hi rend="i">x</hi>+<hi rend="i">a</hi>:2<hi rend="i">x</hi>-<hi rend="i">a</hi>=2<hi rend="i">a</hi>:<figure rend="inline"><graphic url="huyg003oeuv10fi268.gif"></graphic></figure><note n="#13"/></p>
+<p><hi rend="i">a</hi>:<figure rend="inline"><graphic url="huyg003oeuv10fi57.gif"></graphic></figure>=<hi rend="i">x</hi>:4<hi rend="i">xx</hi>-2<hi rend="i">ax</hi>/2<hi rend="i">x</hi>+<hi rend="i">a</hi>(=<hi rend="i">z</hi>) <hi rend="i">ἑυρη</hi><hi rend="i">ϰα</hi><note n="#14"/> 8 sept. 1693. Hofw.<note n="#15"/></p>
+<p>Si <hi rend="i">x</hi>=3/2 <hi rend="i">a</hi> fit <hi rend="i">z</hi>=<hi rend="i">x</hi><note n="#16"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ V<note n="#17"/>.</head>
+<p>Si tangens ad abscissam ut <hi rend="i">θ</hi> ad 1 fit <hi rend="i">aadx</hi>/<hi rend="i">θ</hi><hi rend="sup">2</hi><hi rend="i">x</hi>=<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">dn</hi>/<hi rend="i">θ</hi><hi rend="sup">2</hi><hi rend="i">aa</hi>-<hi rend="i">nn</hi><note n="#18"/>.</p>
+<list>
+<item><hi rend="i">a</hi><hi rend="sup">2</hi>/<hi rend="i">θ</hi><hi rend="sup">2</hi><note n="#19"/>:½<hi rend="i">θθaa</hi>=1:½ <hi rend="i">θ</hi><hi rend="sup">4</hi>=OQNM:RIPK</item>
+<item>2:√2=<hi rend="i">θa</hi>:<hi rend="i">θa</hi>/√2(=RK)</item>
+<item>ratio QO ad <figure rend="inline"><graphic url="huyg003oeuv10fi58.gif"></graphic></figure></item>
+<item>ratio RSTK ad OQNM=½<hi rend="i">θ</hi><hi rend="sup">3</hi>:1</item>
+<item>ratio RIPK ad OQNM=½<hi rend="i">θ</hi><hi rend="sup">4</hi>:1</item>
+</list>
+<p>Ergo ½<hi rend="i">θ</hi><hi rend="sup">4</hi>:½<hi rend="i">θ</hi><hi rend="sup">3</hi> sive <hi rend="i">θ</hi>:1 ut RIPK ad RSTK.</p>
+</div>
+<div type="section">
+<head rend="h4">§ VI<note n="#20"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill160.gif"></graphic>
+<figDesc>Fig. 4.</figDesc></figure></p>
+<p>ASC hyperb. asymptoto BD. AGH logarithmica, a parametro AB.</p>
+<p>Volo secare spat. hyperb. ACDB in data ratione N ad O. Ducatur CH parall. asymptoto et occurrens logarithmicam in H, et sit HF perpend. asymptoto.</p>
+<p>Jam secetur FB in M, ut sit BM ad MF ut N ad O. Et applicata MG in logar.<hi rend="sup">ca</hi> ducatur GS parall. asympt<hi rend="sup">o</hi> ad hyperbolam in S, et applicetur SV. dico trapezia hyperb.<hi rend="sup">ca</hi> ASVB ad SCDV esse ut N ad O.</p>
+</div>
+<div type="section">
+<head rend="h4">§ VII<note n="#21"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill161.gif"></graphic></figure><note n="#22"/></p>
+<p><figure><graphic url="huyg003oeuv10ill162.gif"></graphic></figure></p>
+<list>
+<item>
+<list>
+<item><hi rend="i">θθaa/φ</hi>=XZ+ZS<note n="#23"/></item>
+<item><hi rend="i">φ</hi>=XS</item>
+<item>- - - - - s.</item>
+<item><hi rend="i">θθaa</hi>/<hi rend="i">φ</hi>-<hi rend="i">φ</hi>=2ZS</item>
+<item><hi rend="i">θθaa</hi>/2<hi rend="i">φ</hi>-<hi rend="i">φ</hi>/2=ZS</item>
+<item><hi rend="i">φ</hi>=SX</item>
+<item>- - - - - ad.</item>
+<item><hi rend="i">θθaa</hi>/2<hi rend="i">φ</hi>+<hi rend="i">φ</hi>/2=ZX vel ZΩ</item>
+</list></item>
+<item><hi rend="i">θθaa</hi>/2<hi rend="i">φ</hi>+<hi rend="i">φ</hi>/2:<hi rend="i">θθaa</hi>/2<hi rend="i">φ</hi>-<hi rend="i">φ</hi>/2=<hi rend="i">θa</hi>:<hi rend="i">n</hi>; <hi rend="i">n</hi>=<hi rend="i">θ</hi><hi rend="sup">3</hi><hi rend="i">a</hi><hi rend="sup">3</hi>-<hi rend="i">θaφφ</hi>/<hi rend="i">θθaa</hi>+<hi rend="i">φφ θθaa</hi>+<hi rend="i">φφ</hi>:<hi rend="i">θθaa</hi>-<hi rend="i">φφ</hi>=<hi rend="i">θx</hi>:<hi rend="i">z</hi><note n="#24"/></item>
+<item>ut (<hi rend="i">θx</hi>)<hi rend="sup">2/<hi rend="i">θ</hi></hi>+1 ad (<hi rend="i">θx</hi>)<hi rend="sup">2/<hi rend="i">θ</hi></hi>-1 ita <hi rend="i">θx</hi> ad <hi rend="i">z</hi> subtangentem<note n="#25"/>.</item>
+</list>
+</div>
+</div>
+</body>
+</text>
+</TEI>

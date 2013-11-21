@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2842"/>
+<meta type="date" value="1693-12-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2842">
+<div type="summary">
+<head rend="h4">Sommaire<note n="#2"/></head>
+<p> Remercier de ce qui regarde la voile. suis d'accord des principes. Ce qui me reste a savoir.
+<lb/>Bien aise de nostre accord. Bien aise de ce qu'on peut se passer des series.
+<lb/>Trouver ces sommes, c'est precisement trouver la quadrature de sorte de ce qu'il dit je ne puis juger s'il a une 3<hi rend="sup">me</hi> voie pour cette quadrature.
+<lb/>Je suis a quelque traitè philosophique<note n="#3"/>.
+<lb/>S'il a vu ce que Leibnitz a mis touchant les tractoria, trop tard et peu de chose.
+<lb/>Content de son approbation de ma remarque. Cela fera que Mr. <persName key="rena002">Renaud</persName> ne s'embarassera pas de quelque response.</p>
+</div>
+<div type="opener">
+<p>24 Dec. 1693.</p>
+<p>A Mr. <persName key="hosp010">le Marquis de l'Hospital</persName>.</p>
+</div>
+<p>Je vous suis fort obligé Monsieur d'avoir rapellè en ma consideration vos idées touchant la courbure de la voile suivant la Theorie de M. Jo. Bernoulli. Je vois par ce que vous m'en expliquez que je suis d'accord avec luy quant aux principes<note n="#4"/>; mais vous ne me repondez point à ce que j'avois souhaitè uniquement de savoir<note n="#5"/>, qui estoit s'il veut qu'une voile faite de certain nombre de rectangles egaux, se courbe exactement de <seg org="mesine" resp="#WR" type="corr">mesme</seg> par le vent que par leur poids. C'est ce que je puis demontrer estre faux<note n="#6"/>, et il semble que cela doive renverser son Theoreme, parce qu'il seroit assez etrange qu'estant faux dans quelque grand
+nombre de rectangles qu'on suppose, il fust pourtant vray dans le nombre insini, quoy que je ne veuille pas dire qu'il soit absolument impossible<note n="#7"/>. J'attendray donc sur ce point encore un mot de response.</p>
+<p>Je suis bien aise de ce que nous sommes d'accord en ce qui regarde la quadrature par les series. Et encore beaucoup plus de ce que vous m'assurez que sans leur secours vous scavez venir à bout des quadratures lors que vostre <hi rend="i">c</hi> est un nombre entier. Car la methode par les series me paroit fatigante, sur tout en ce qui est de son origine et demonstration par les divisions exponentielles<note n="#8"/>. J'espere qu'un jour vous publierez celle que vous avez, ou vous voudrez bien m'en faire part.</p>
+<p>Pour ce que vous avez pris la peine de m'expliquer de votre 3<hi rend="sup">me</hi> maniere de mesurer la Feuille de Des Cartes, je n'ay point eu de peine à vous suivre<note n="#9"/>, jusques à l'équation-<hi rend="i">zdu</hi>=<hi rend="i">udu</hi>√<hi rend="i">b</hi>-<hi rend="i">u</hi>/<hi rend="i">b</hi>+3<hi rend="sup"><hi rend="i">u</hi></hi>. Mais de trouver ici la somme des <hi rend="i">udu</hi>√<hi rend="i">b</hi>-<hi rend="i">u</hi>/<hi rend="i">b</hi>+3<hi rend="sup"><hi rend="i">u</hi></hi> je vois que c'est precisement la mesme chose pour moy que de trouver la quadrature de la courbe <hi rend="i">zz</hi>=<hi rend="i">buu</hi>-<hi rend="i">u</hi><hi rend="sup">3</hi>/<hi rend="i">b</hi>+3<hi rend="sup"><hi rend="i">u</hi></hi> que l'on cherche. De sorte Monsieur que je demeure aussi peu instruit de cette 3<hi rend="sup">e</hi> maniere de quadrature que je l'estois auparavant. Permettez moi donc de vous demander quelque peu plus
+d'eclaircissement.</p>
+<p>Je n'avois nul doute que ma remarque sur la manoeuvre des vaisseaux ne meritast vostre approbation après laquelle je n'attens pas que Mr. <persName key="rena002">Renaud</persName> songe à defendre son erreur<note n="#10"/>, et j'en suis bien aise.</p>
+<p>Je ne scay si vous aurez vu ce que Mr. <persName key="leib013">Leibnitz</persName> a fait publier dans le Journal de Leipsich touchant les Tractoriae avec un titre fort pompeux<note n="#11"/>, comme s'il donnait une methode universelle et meilleure que nulle autre pour les Tangentes. J'en apprendrai volontiers vostre sentiment, car pour moy je ne trouve rien de
+plus pauvre ni de plus inutile, vu les descriptions embarassées et tout à fait impraticables qu'il apporte<note n="#12"/>. Car à peine pourroit on construire avec quelque exactitude cette simple Tractoria, que j'ay donnée<note n="#13"/>, laquelle il prétend avoir reconnue devant moy, (de quoy on pourroit douter) pour quadratrice de l'Hyperbole<note n="#14"/>.</p>
+<p>Je ne scay pas quelle Inverse des Tangentes de Newton vous me demandez. Peut estre vous avez voulu dire celle de Mr. <persName key="leib013">Leibnits</persName><note n="#15"/>, qui est peu de chose et je vous ay desia assurè cy-devant<note n="#16"/> que vous ne scauriez l'ignorer. Toutefois si c'est celle la, je vous l'expliqueray tres volontiers, estant entierement, etc.</p>
+</div>
+</body>
+</text>
+</TEI>

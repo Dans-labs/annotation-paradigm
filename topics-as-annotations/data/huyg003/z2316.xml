@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2316"/>
+<meta type="date" value="1683-08-28"/>
+<meta type="sender" value="vege004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leeuw001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2316">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Il y a plus de 6 sepmaines que iestois resolu de vous aller offrir mes tres humbles respects a la Haye comme aussy a Monsieur vostre Pere, mais mon indisposition de la gravelle m'en a empeschè. Je ne manqueray pas dez que ie me porteray un peu mieux de vous veoir. Monsieur de Fullenius Bourgem<hi rend="sup">r</hi>. de Franeker m'a mis lenclose<note n="#2"/> entre mes mains pour vous les faire tenir, cest dommage pour le publiq quon ne donne de l'employ a cest honnest homme. Il ny a rien de nouueau icy. Mon Prince<note n="#3"/> est allé a Dessau pour y acheuer son mariage auec la 2<hi rend="sup">de</hi> fille du Prince d'Anhalt<note n="#4"/>. Je suis en attendant l'honneur de vos commandemens</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="vege004">Vegelin de Claerbergen</persName>.</p>
+<p>de Lewarden ce 28 aoust st. loci 1683.</p>
+</div>
+</div>
+<div type="para">
+<p>pour Monsieur Monsieur <persName key="huyg003">Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

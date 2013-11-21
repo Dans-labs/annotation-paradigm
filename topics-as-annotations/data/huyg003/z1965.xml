@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1965"/>
+<meta type="date" value="1673-07-21"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1965">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 11 juillet 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Celle-cy n'est que pour vous presenter ce livre joint de la part de Monsieur Boyle<note n="#2"/>, auec ses humbles baisemains. Vous verrez bientost deux autres du mesme Autheur<note n="#3"/>, qui ne vous desplairont pas, ie pense, non plus que celuy-cy; nostre amy travaillant auec beaucoup d'exactitude et d'integrité. Ces Messieurs Allemands, qui vous portent ce pacquet, seront bien aises de jouir de vostre humanité aux occasions. J'espere, que vous aurez receu ma derniere lettre<note n="#4"/> oú i'ay parlé de plusieurs particularitez qui vous concernent, estant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres-obeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Je seray bien aise d'entendre, que ce pacquet vous ait esté bien livré.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

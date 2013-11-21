@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0793"/>
+<meta type="date" value="1660-11-01"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0793">
+<div type="opener">
+<p>Nobilissime Vir,</p>
+</div>
+<p>Litteras cum acceperim diebus proxime elapsis Florentia a Serenissimo Principe Leopoldo tibi tradendas<note n="#1"/> eas, ne quid in me morae esset, viro illustri Parenti tuo confestim credidi, quod iam hinc discessisses. Adjunxerat ijs duas dissertationes Mathematicas Carolus Datus, alteram<note n="#2"/> Joannis Alphonsi Borelli<note n="#3"/>, Laurentij Magalotti<note n="#4"/> alteram<note n="#5"/>. Utramque hic mitto, cum ipsa Dati epistola<note n="#6"/> ut intelligas,
+quid fieri ille de dissertationibus velit. Eam tamen ut mox ad me remittas rogo: ne responsione mea fraudetur vir amicissimus. Iter ex voto te confecisse spero. de quo proximos nuncios certiorem me facturos augurari licet. Amicos Parisienses meis verbis velim officiose salutes, Celeberrimum imprimis Capellanum<note n="#7"/>, quem ego virum in oculis assidue, ut scis, fero. Plura vellem, sed urgent abitum Oratores<note n="#8"/> nostri, quibus hunc fasciculum commisi. Vale et me ama. Dabam <placeName key="denha004">Hagae Comitis</placeName> Anno <hi rend="sc">cIɔIɔclx</hi>. Kal. Novembr.</p>
+<p>&nbsp;</p>
+<p>Tuus omni studio ac cultu <persName key="hein009">Nicolaus Heinsius</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

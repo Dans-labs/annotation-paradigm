@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1979"/>
+<meta type="date" value="1673"/>
+<meta type="sender" value="char026"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1979">
+<p>De Monsieur Charas.</p>
+<p>Pour faire de la poudre fulminante</p>
+<p><table>
+<row>
+<cell>R nitri purif partes</cell>
+<cell>3</cell></row>
+<row>
+<cell>Sulphuris unam.</cell>
+<cell></cell></row>
+<row>
+<cell>Salis tartari</cell>
+<cell>1½</cell></row>
+</table></p>
+<p>misceantur in pulverem redacta.</p>
+<p>Probatum. On met un grain ou 2 de cette composition sur une plaque de fer blanc et on l'echaufe par dessous, avec une chandelle. apres quelque minute de temps elle pete.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0612a"/>
+<meta type="date" value="1659-05-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="nier005"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0612">
+<div type="opener">
+<p><persName key="nier005">Dirk Rembrandtz</persName>. zeer goede Vriend</p>
+</div>
+<p>De verkeerde uytkomst uyt UE. Rekeninge ontstaan, is alleen uyt oorsaak dat gy niet wel verstaan en hebt het geene ik wilde beteykenen door Cirkelbogen die de gevonden hoeken, tot de zyden behoorende, begrypen. Want
+<figure><graphic url="huyg003oeuv06ill128.gif"></graphic>
+<figDesc>Beschryf op DF den Boog DBF, gaande door 't punt S, en op GF den Boog GBF, en trekt DS en FS.</figDesc></figure>
+dit is niet te zeggen, gelyk gy meynde, dat de booge <formula>DBF</formula> moeste zyn van 104-15, maar zoodanig dat den hoek <formula>DBF</formula> os <formula>DSF</formula>, of eenige die men daar in konde beschryven, gelyk sy aan den grootsten der gevondene hoeken, dat is alhier van 143-8. In 't Latyn zegt men <hi rend="i">Arcus Capax Anguli</hi> 143-8. Het welke ik niet anders heb weten over te setten als door het woord van <hi rend="i">begrypen</hi>, het welk evenwel in der daat dubbel mening is. Nu geloof ik dat gy geen swarigheyd meer hier in vinden zult, want het ligt is op de Linie <formula>DF</formula> den boog <formula>DBF</formula> te beschryven, zodanig, dat de hoeken daar in gevallende zyn gelyk aan den gegeven hoek van 143-8 door de 33 Propositie van 't 3 Boek Euclidis en van gelyken op de zyde <formula>GF</formula> den boog <formula>GBF</formula>, alzoo dat de hoeken daar in als <formula>GBF</formula> zyn van 104-15. De doorsnyding van deze twee boogen <formula>B</formula> zeg ik te zyn het gezogte Punt: ende komt als dan naar myn Rekening <formula>FB</formula> zeer na 673¼ Roeden. Voorders tot verklaringe van myne woorden <hi rend="i">den Triangel gelykzydig zynde zoo moet het getal van het swaarste gewigt &amp;c.</hi> sal dit dienen; Het getal van het swaarste gewigt is 1050, de getallen van de twee andere 1000 en 650; ik zeg dan dat het Quadraat van 1050 te weten 1102500, niet grooter mag zyn als de twee Quadraaten van 1000 en van 650, zijnde 1000000 en 422500 met nog daar by het product van 1000 gemultipliceerd met 650 zynde 650000</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>1000000</cell>
+<cell>} addeert</cell></row>
+<row>
+<cell></cell>
+<cell>422500</cell>
+<cell>} addeert</cell></row>
+<row>
+<cell></cell>
+<cell>650000</cell>
+<cell>} addeert</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>1102500 kleynder als</cell>
+<cell>2072500</cell>
+<cell></cell></row>
+</table></p>
+<p>De reden waarom dat dit aldus moet wezen, is, om dat, indien het Contrarie gesteld wierde, zoo zoude den hoek <formula>FBG</formula> kleynder komen als van 60 Graaden, en daarom niet konnen binnen den Triangel vallen, want genomen dat het gewigt in <formula>D</formula> hangende waar gesteld 8 Pond, dat van <formula>F</formula> 5 Pond, en van <formula>G</formula> 4 Pond, zoo zal den Driehoek die ik gezegt heb te moeten gemaakt worden (te weten, wiens
+<figure><graphic url="huyg003oeuv06ill129.gif"></graphic>
+<figDesc>
+<table>
+<row>
+<cell>25</cell>
+<cell>} add.</cell></row>
+<row>
+<cell>16</cell>
+<cell>} add.</cell></row>
+<row>
+<cell>0<note n="#1"/></cell>
+<cell>} add.</cell></row>
+<row>
+<cell cols="2">64 grooter als 61</cell></row>
+</table></figDesc></figure> zyden geproportioneerd syn als de gewigten) een hoek hebben tegen over de grootste zyde, als hier den hoek <formula>N</formula> grooter als van 120 Graaden, en dienvolgens syn Complement <formula>MNO</formula> tot 2 regte hoeken kleynder als 60 graaden; om het welk in 't generaal te bewysen, zoo zy <formula>LN</formula> verlangt, ende <formula>MO</formula> daarop regthoekig getogen. Ik zegge dan indien het vierkant op <formula>LM</formula> grooter is als de twee vierkanten op <formula>LN</formula> en <formula>NM</formula>, met te zamen den Regthoek gemaakt van <formula>LN</formula> en <formula>NM</formula>, dat dan den hoek tegen over <formula>LM</formula> grooter is als van 120 Graaden, want dewyl het Quadraat <formula>LM</formula> door den 12 Propositie van 't 2<hi rend="sup">de</hi> Boek Euclidis even is aan beyde Quadraaten <formula>LN</formula> en <formula>NM</formula> met te zamen den dubbelen Regthoek <formula>LN</formula>, <formula>NO</formula>. Zoo volgt dan door het gestelde dat dezen dubbelen Regthoek <formula>LN</formula>, <formula>NO</formula>, grooter moet wezen als den Regthoek <formula>LN</formula>, <formula>NM</formula>; daarom zal dan <formula>NO</formula> grooter zyn als de helft van <formula>NM</formula>. Den hoek <formula>O</formula> nu is regt, zoo is dan noodzakelyk den hoek <formula>ONM</formula> kleynder als 60 Graaden, want hy zoude van 60 Graaden zyn by aldien <formula>NO</formula> de helft was van <formula>NM</formula>, daarom is ook den hoek <formula>LNM</formula> grooter als van 120 Graaden, het welk te bewysen was. Ik hebbe gezegt, den Triangel <formula>DFG</formula> gelykzydig zynde, want anders en zoude deze voor verhaalde bepaling daar op niet sluiten: doch zoude als dan ook uit de gestalte van den gegeven Triangel de bepaaling lichtelyk te vinden zyn. Want dit zeg ik in 't generaal, ende is aanmerkenswaardig, dat indien den Triangel <formula>DFG</formula> niet gelykzydig en was, maar zoodanig, als men wilde, dat evenwel de hoeken der touwen aan de knoop <formula>B</formula> de zelfde zouden zyn als te voren, indien alleen de gewigten dezelfde bleven, waar van de reden licht te begrypen is.</p>
+<p>UE Solutie van de door my voorgestelde is regt, doch om de reden daar van te verstaan, is noodig aan te merken dat een zelfde gewigt onder <formula>A</formula> hangende<note n="#2"/> magtig is het een of het ander der gewigten <formula>CD</formula>, in een gegeven stant te houden, en dat door dien zy, te weten <formula>C</formula> en <formula>D</formula>, malkander dan konnen ophouden, was heel anders. Ik hoop UE alles wel zal verstaan hebben, waar op eenig antwoord verwagtende, blyf ik</p>
+<div type="closer">
+<p>UE Dienstwillige Vriend,
+<lb/><persName key="huyg003">Ch. Huygens van Zuylichem</persName>.</p>
+<p>In 's Gravenhage
+<lb/>den 10 May 1659.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

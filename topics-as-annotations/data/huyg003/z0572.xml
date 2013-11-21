@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0572"/>
+<meta type="date" value="1659-01-17"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0572">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Fluxius<note n="#1"/> Ecclesiae Leodiensis Canonicus et Geometra! quis ille tandem! Quod si me notatum voluerunt. Nae infelix <hi rend="i">ϰαὶ τλῆμον</hi> est <hi rend="i">σίγμα</hi>, quod vndique excluditur. Olim, si Luciano fides, litem <hi rend="i">βίας ϰαὶ ἁρπαγῆς</hi> mouit <hi rend="i">τῷ ταῦ</hi>, et non infeliciter perorauit. Sed geminum nunc habet aduersarium; et nosti vetus illud, aduersus duos ne quidem Hercules. Itaque suasj vt dissimulet iniuriam, et Fluxium ad se nihil attinere palam fateatur. Desine igitur mirarj, quod Te celatum voluerim, vt ais, me aliquam hisce Problematibus operam impendisse. Testor enim <hi rend="i">τῶν ἑπτὰ ϕωνηέντων</hi> fidem (libet in re tam arduâ Lucianj iudices implorare) me nihil aliud eo misisse quàm vniuersalem omnium Cycloidum mensuram, siue a circulo siue a qualibet curuâ circa axem ortum haberent: quam ex schedis meis reperirj ad Te scripseram<note n="#2"/>. De caetero Problematum solutionj incumbere nec licuit nec libuit. Jtaque nescio quo meo meriro deberem Me quoque Principibus permistum cernere Achiuis.
+Angli Geometrae <persName key="wren002">Wren</persName> <hi rend="i">εὑρημα</hi> magni fecj (fueram enim de eo monitus) sed
+non ex eo deduxj, quod Tu facere videris, curuam exhiberj rectae aequalem aliter quam hactenus est factum. Cum enim Cycloidis primariae basis circulj genitoris circumferentiae aequalis statuatur, nil mirum est posse curuaturam illius alicuj rectae aequalem reperirj. positâ enim quâuis rectâ cuiuis periferiae aequalj, infinitae, vt
+scis, reperiri possunt, cum illae sint inter se vt diametri. Sed si Theorema tuum aliquid amplius includat, et sj ad omnes omnino Cycloides porrigatur, nae Tu aliquid reperisti quod inter <hi rend="i">ἀδυνατα</hi> hactenus relatum est. Bullialdj demonstrationes attigi, <hi rend="i">ἀνέγνων</hi>, inquam, <hi rend="i">ἔγνων</hi>; tertium non addam sed Tecum sentire me plane profitebor. Tangentem spiralium facili methodo olim duxj et forte eadem qua Tu, per motuum scilicet compositionem quâ pleraque similia olim inuestigauj. Si quid interim vlterius de his Parisiensium propositionibus vel alijs intelligas, certiorem facias, rogo, eum qui Tibi se totum addixit estque ex animo</p>
+<div type="closer">
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>17 anni 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> A la Haye.
+<lb/>VI.</p>
+</div>
+</body>
+</text>
+</TEI>

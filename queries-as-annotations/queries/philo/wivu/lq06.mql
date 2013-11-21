@@ -1,0 +1,22 @@
+// This query looks for infinitives absolute that modify a predicate of
+// a different lexeme. See Gesenius-Kautzsch 113.
+
+// ident @(#)lq06.mql	1.2 04/02/27
+
+select all objects where
+
+[clause
+   [phrase function = Modi
+      [word as w1
+	 verbal_tense = infinitive_absolute
+      ]
+   ]
+   ..
+   [phrase function = Pred or function = PreO
+      [word
+	 psp = verb and lexeme <> w1.lexeme
+      ]
+   ]
+]
+
+go

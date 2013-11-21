@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2069"/>
+<meta type="date" value="1675-11-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2069">
+<div type="opener">
+<p>à <placeName key="parij001">Paris</placeName> ce 1 Nov. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay estè fort surpris de ce que vous m'avez fait scavoir de l'insolite accusation que M. Hooke a controuvée contre vous et moy. J'avois bien remarquè depuis quelque temps qu'il estoit vain et extravagant, mais je ne scavois pas qu'il estoit malicieux et impudent au point que je le vois maintenant.
+J'en ay escrit a Mr. <persName key="brou051">Brouncker</persName> ainsi qu'il faloit et vous envoye la lettre cy jointe<note n="#2"/>. Ce seroit bien estrange qu'on fust prevenu à la Cour par la seule accusation d'un homme sans aucune preuve, mais peut estre aura-t-il trouvè des partisans qui l'appuieront pour estre interessez avec luy et en ce cas vous ne ferez pas mal de dresser une contrebatterie pareille. Je viens de recevoir vostre lettre du 18 octobre et suivant ce que vous me mandez je m'informeray chez Milord Herbert, que j'ay l'honneur de connoistre, par quel moyen je vous pourrois faire tenir la montre. Je doubte si j'en pourrois avoir une d'argent qui aie des minutes parce que je n'en ay pas commandè de cette facon mais il y en a d'or, et s'il se presente quelque occasion prompte je ne feray pasdifficultè d'en envoier une de celles cy parce qu'elles sont tres bien faictes et exemptes du contrecoup, de sorte qu'elles vaudront tousjours leur argent. Mais s'il faut attendre j'en auray d'argent comme je crois que Mr. <persName key="brou051">Brouncker</persName> les veut.</p>
+<p>Mr. <persName>Dominique</persName> m'a apportè vostre lettre du 24 sept.<note n="#3"/> mais je ne l'ay pas encore vu. Je suis bien aise que l'ouvrage de <persName key="malp001">Malpighi</persName> de l'anatomie des plantes soit achevè et le verray avec plaisir. Il ne s'imprime rien de nostre Academie qu'une introduction à l'histoire des plantes<note n="#4"/> et un petit traitè des eaux minerales de France de M. du Clos<note n="#5"/> qui sera bien tost achevè. Je suis Monsieur</p>
+<div type="closer">
+<p>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Monsieur de Roberval mourut ces jours passez et a laissé ses escrits à nostre Academie<note n="#6"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="olde010">Grubendol</persName> à Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

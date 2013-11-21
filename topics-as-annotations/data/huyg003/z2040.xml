@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2040"/>
+<meta type="date" value="1675-07-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2040">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 11 Juillet 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je suis bien aise que ma montre vous ait estè rendue, et en bon estat. Il y avoit un billet dans la mesme boete, qui contenoit une partie des instructions necessaires pour la gouverner, le reste estoit dans la lettre qui sans doute vous aura estè rendue du depuis par le Sieur Dominique. Mais a une personne intelligente comme est Mylord Brouncker il ne faut que voir l'ouurage pour en comprèndre tout le mistere. Quant a l'exactitude de ces montres je la donne pour incomparablement plus grande que n'est celle des ordinaires, mais moindre tousjours que celle des pendules principalement les longues, la difference vient de ce que le frottement des pivots est plus considerable aux petits ouurages qu'aux grands et de la force superflue qu'il faut donner au grand ressort de ces montres pour les guarantir de l'arrest, au lieu que dans les pendules, qui demeurent en repos, il ne faut que justement la force pour entretenir leur mouuement. J'ay fait depuis ma derniere, l'experience du double balancier pour remedier au contrecoup et j'ay trouuè qu'effectivement cela empesche cet inconvenient, mais d'un autre costè le mouuement du balancier en est embarassè, en sorte qu'il faut plus de force pour entretenir ce mouuement. Il y a un autre remede plus simple que je fais pratiquer maintenant et qui succede parfaitement bien.</p>
+<p>Par ce que vous m'avez mandè par vostre lettre du 7 Juin<note n="#1"/> il semble que Milord Brouncker fust en doute si je n'avois rien sceu de l'invention de Mr. <persName key="hook001">Hooke</persName> lors que je vous envoiay l'anagramme de la miene. Sur quoy je vous prie de me dire si auparavant que de recevoir cet anagramme l'on scavoit que Mr. <persName key="hook001">Hook</persName> pretendoit avoir une nouuelle invention d'horloges. Car vous ne m'en avez rien fait scavoir<note n="#2"/> si non apres que mon invention a estè imprimée dans le Journal<note n="#3"/>.</p>
+<p>Je ne scay comment on souffre chez vous les vanteries mal fondees de cet homme, et qu'on ne considère pas que s'il avoit eu une invention si utile et si importante, il n'auroit pas manquè de s'en prevaloir et de la mettre en effect. Je vous supplie
+de communiquer ce que je vous en dis a Milord Brouncker, de l'équitè et impartialitè duquel je suis autant persuadè que vous mesme.</p>
+<p>Je ne dois pas finir cette lettre sans vous recommander celui qui en est le porteur, qui est Monsieur Papin<note n="#4"/>. Il y a deux ans qu'il demeure avec moy, m'aydant a faire toute sorte d'experiences. Et vous aurez veu, comme je crois, un petit traitè<note n="#5"/> qu'il a fait imprimer touchant celles du vuide, ou il y a aussi sa maniere nouvelle d'ajuster ces machines, qui est ingenieuse et qui reussit tres bien dans la pratique. Il a eu envie d'aller voir ce qu'on fait en vostre pais mesme avec dessein de s'y establir, s'il en pouuoit trouuer occasion. Je vous prie de luy vouloir accorder votre faueur et protection, et que par vostre moyen il puisse estre connu de vos illustres amis, sur tout de Monsieur <persName key="boyl001">Boile</persName> et Milord Brouncker. Il entend fort bien tout ce qui est des mechaniques et scait aussi de la geometrie. Au reste pour estre sage et modeste j'en puis respondre par l'experience que j'en ay eue pendant tout le temps qu'il a estè avec moy, et il est de parents trop honnestes pour manquer de ce
+costè-la.</p>
+<p>Je vous supplie de faire mes tres humbles baisemains à ces Messieurs que je viens de nommer et de me croire</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Milord Brouncker aura la bontè de payer les 80 ℔ de la montre a Mr. <persName key="papi014">Papin</persName>, qui a donnè cette somme a l'horloger.</p>
+</div>
+</body>
+</text>
+</TEI>

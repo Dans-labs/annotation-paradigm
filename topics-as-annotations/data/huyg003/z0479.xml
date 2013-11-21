@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0479"/>
+<meta type="date" value="1658-04-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0479">
+<div type="opener">
+<p><date>5 Apr. 1658</date>.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Quod scribis de dimensione solidi Hyperbolici ex conversione circa ordinatim applicatam per centrum sectionis, pridem adverteram, quum manifestè sequatur ex aequiponderatione portionis hyperbolae et trianguli oppositi ab asymptotis comprehensi quae ut scis quadraturae meae extitit fundamentum. de altero autem solido tuo quod sit conversione circa ipsum asymptoton nunquam equidem cogitaveram sed video ex eadem illa aequali gravitatione portionis et trianguli deduci posse. Vel ex illa quoque Hyperbolae proprietate, qua parallelogramma inter asymptotos et sectionem inter se aequalia habentur. E qua et Toricellius
+<figure><graphic url="huyg003oeuv02ill91.gif"></graphic></figure>
+infiniti solidi mensuram olim invenit. Et ego primam connexionem gravitatis centri cum quadratura, licet diversam ejus demonstrationem tradiderim. Fusum autem Hyperbolicum quod dicis si cylindro aequare possemus quadratura haud dubiè reperta esset. Sed hoc ego inter <hi rend="i">ἀδύνατα</hi> habui jam diu.</p>
+<p>Venio ad Cissoidis proprietatem plane insignem, quam quidem eo libentius tecum communico quod nisi prior hanc Lineam in medium produxisses, nunquam fortasse examinandam sumsissem.</p>
+<p>Esto Cissoides AEBC. Circulus à quo genita ABD. Asymptotos DG. Dico spatium infinitum inter hanc et Cissoidem lineamque AD interjectum, triplum esse semicirculi ABD. Cui simile quid in nullis adhuc alijs curvis reperi. Nam spatium inter hyperbolam et asymptoton, uti extensione ita magnitudine quoque infinitum est, uti et in Conchoide, licet solida utra que certam magnitudinem non excedant. Jam si ab altera parte lineae AD replicetur eadem Cissoides spatij infiniti utrimque centrum gravitatis erit L ita dividens AD ut pars AL sit quintupla LD. quod ex conjunctis tuo meoque inventis innotescit. Ergo et revolvendo Cissoidem et asymptoton circa huic parallelum axem AM, orietur solidum infinitum à spatio ABCGD, quintuplum semispirae à semicirculo ABD. Quae quidem omnia liquidè perspicis.</p>
+<p>Adjungo <hi rend="i">ἀπαγογὴν</hi> ad circuli quadraturam, quales non multae obtingunt. Nempe si spatio AEBM a Cissoide Dioclis (nam productam Slusianam appellare debemus) et rectis AM, MB contentum, quarum haec tangit semicirculum in vertice; huic inquam spatio si quadratum vel circulum aequalem exhibere possimus, de Circuli Quadratura confectum negotium erit.</p>
+<p>Plura addere propter temporis angustiam non licet. Nisi id unum me esse</p>
+<div type="closer">
+<p>Tui observantissimum</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0517"/>
+<meta type="date" value="1658-09-19"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0517">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.P.</p>
+</div>
+<p>Ecce remitto Tibi, Vir Nobilissime, Wallisij tractatum<note n="#1"/>, cum gratiarum actione, tum, quòd illum inspiciendi mihi potestatem feceris, tum quòd altero tui foetus, Horologio scilicet à te invento, me beaveris. De posteriori id profiteri me posse videor, quòd omnibus pergratus sit futurus, quibus ullatenus exacta temporis ratio curae est. quod sanè tuum Horologium quàm exactissime et absque ulla sollicitudine tempus nos edocet, atque ob hoc ipsum laudabile inventum existimandum est. Id solum opto, ut, quo coepisti pede non desistas, sed in ijs, quae Rempublicam Literariam promovere valent, aut utilitati publicae inservire possunt, meditandis continuò alacriter pergas; ut tua fama, quae jam per totum terrarum orbem illucere coepit, indies magis magisque inclarescat. Quod priorem verò tractatum concernit, qui certamen continet, ad quod Fermatius omnes Europae Mathematicos provocavit, non malè item placuit, tum quòd praeter literas quasdam humanitatis etiam illic aliae reperiantur, in quibus nonnulla continentur scitu digna ac pulchra. In Fermatianis ubique aliquid istius Nationis redolere mihi videtur, nimirum, ipsum Vasconem esse; ita ut non abs re Dominus <persName key="desc004">des Cartes</persName>, cum è Gallia redux ipsum Endegestae<note n="#2"/> inviserem, eidemque inter deambulandum narrarem plura egregia à Fermatio fuisse inventa, de quibus multum gloriabatur, tunc responderit mihi: <hi rend="i">Monsieur <persName key="ferm011">Fermat</persName> est Gascon</hi>, <hi rend="i">moy non. Il est vraij</hi>, <hi rend="i">qu'il a inventè plusieurs belles choses particulieres</hi>, <hi rend="i">et qu'il est homme de grand esprit. Mais quant à moy j'ay tousiours estudiè
+à cònsiderer les choses fort generalement</hi>, <hi rend="i">affin d'en pouvoir conclurre des Reigles</hi>, <hi rend="i">qui ayent aussy ailleurs de l'usage.</hi> Dominus <persName>Freniclius</persName>, (uti jam mihi innotuit) Fermatio haud multum in eo absimilis eodem modo se cum Fermatio gessisse videtur, nimirum, uterque vanâ captus gloriâ, prout sua sola sibi placuêre, de Wallisij ac Domini Vice-Comitis<note n="#3"/> aliorumque inventis non nisi cum despectu judicavit, donec tandem horum duorum prudentiori responso convicti, ac utriusque pluribus profundioris in hisce scientijs eruditionis speciminibus visis, certamen id feliciter absque sanguine sit finitum. Ita ut tandem eò deventum sit ac illud triumphum decantare opus fuerit: <hi rend="i">Cedat jam Angliae Batavia</hi>, <hi rend="i">et ipsius Lugdunum Oxonio</hi>, <hi rend="i">&amp;c.</hi><note n="#4"/> De nobis scilicet actum est, Amicissime Hugeni, sed interim haec nostra adhuc felicitas superest, ut, cum in vehementi illo certamine, in quo satis acriter utrinque pugnatum est, nos altius non involverimus, attamen salvi evaserimus. Scilicet jocari fas est, et rectè aliquando te super haec dixisse memini: <hi rend="i">demiror diversa hominum studia</hi><note n="#5"/>. Caeterum heri remisissem librum, nisi febri laborassem: ne illum etiam Domino <persName key="slus001">Slusio</persName> perlegendum inviderem, quem, si lubet, meo nomine plurimum saluta. Tu cura ut valeas, ac me amare perge.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>19 Sept. 1658</date>.</p>
+</div>
+<p>Dolet equidem infortunij, Claritatem tuam jam bis in hac urbe fuisse, me invisendi causâ, quo minus gratissimo tuo alloquio frui potuerim. Caeterum exemplaria inscripta, ut jussisti, impertij, excepto Kechelio, qui extra urbem est profectus. Iterum vale.</p>
+</div>
+<div type="para">
+<p>Desen brief, met een pakjen salmen bestellen aen Monsieur <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van sijn Vader d' Heer <persName key="huyg001">van Zuijlechem</persName> in S' Graven-hage op t' pleijn.
+<lb/>cito port</p>
+</div>
+</body>
+</text>
+</TEI>

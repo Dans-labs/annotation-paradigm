@@ -1,0 +1,25 @@
+// This query tries to find parallel clause atoms in which an adjective
+// phrase as predicate complement is parallel to a verbal phrase. These
+// may provide clues as to where A/E forms are adjective, participle or
+// perfect.
+
+// ident @(#)lq10.mql	1.1 04/02/27
+
+select all objects where
+[chapter
+   [clause_atom as c1
+      [phrase as p1
+         function = PreC and
+         (phrase_type = AP or phrase_type = VP)
+      ]
+   ]
+   ..
+   [clause_atom
+      mother = c1.self or self = c1.mother
+      [phrase
+         function = PreC and
+         (phrase_type = AP or phrase_type = VP) and
+         phrase_type <> p1.phrase_type
+      ]
+   ]
+]

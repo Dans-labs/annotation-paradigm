@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0352"/>
+<meta type="date" value="1656-11-22"/>
+<meta type="sender" value="bart049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="kopen901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0352">
+<div type="opener">
+<p>A <placeName key="kopen901">Coppenhague</placeName> le <date>22 du Nou. 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Estant heureusement arriué en mon pays, je n'ay pas voulu manquer, à vous faire sçauoir, comment vous conseruerez tousjours pendant ma vie, un seruiteur en ces pays, je vous prie seulement d'en faire l'experience. L'honneur que vous me fistes dernierement à la Haye, et l'estime que je fais de vos merites m'oblige à ce deuoir, bienque je ne sçache comment meriter vostre amitié laquelle vous me tesmoignastes auec beaucoup de generosité. Et puisque vous trouuiez agreable la continuation de mon seruice par lettres, j'accepte l'offre que vous me fistes de vostre affection, auec condition de la meriter par tous les seruices possibles. J'espere aussi que la communité des estudes me donnera suject d'admirer d'auantage vos rares vertus, et de vous faire agreer quelques fois mes respects par lettres, desquelles voicy le commencement. Monsieur <persName>Langius</persName><note n="#1"/> nostre Professeur aux Mathematiques à escript contre le Dialogue de Monsieur <persName>Meibomius</persName> de Proportionibus; le liure<note n="#2"/> est intitulé, De Veritatibus Geometricis contra Sextum Empiricum et Marcum Meibomium. Cela est tout ce que je vous puis escrire de nouueau nouuellement arriué moy mesme. Je me tiendray tousjours fort honoré du bien de vos nouuelles, ne desirant que d'estre conserué dans vos bonnes graces et demeurer perpetuellement</p>
+<p>Monsieur</p>
+<p><figure><graphic url="huyg003oeuv01ill165.gif"></graphic></figure></p>
+<div type="closer">
+<p>Vostre tres-humble et tres-obeissant seruiteur <persName key="bart049">Erasme Bartholin</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Huijgens</persName>, gentilhomme flammand
+<lb/>a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

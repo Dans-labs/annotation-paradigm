@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2020"/>
+<meta type="date" value="1675-04-06"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2020">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 27 Mars 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>J'oubliay dans ma precedente du 15<note n="#1"/> courant de vous saluër de la part de Mylord Brouncker et de vous prier en son nom de le vouloir obliger et luy envoier le plustost que vous pourrez vne des montres de vostre nouuelle invention. Il ne manquera point de vous faire rendre ce qu'elle coutera. Je vous supplie donc, Monsieur, d'y donner ordre, et de faire parler à Monsieur Justel, qu'il aye la bonté de bailler le pacquet oú la montre sera mise, à quelque personne seure qui pourra passer bientost en Angleterre.</p>
+<p>Depuis ma derniere i'ay receu de la part de M. Justel le iournal<note n="#2"/> oú il est parlé de la dite invention. Icy on doubte, que la chaleur ne change fort le ressort; quoyqu'on ne doubte point, que vous n'ayez consideré cete objection; au nombre desquels est</p>
+<div type="closer">
+<p>Monsieur,
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy, à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

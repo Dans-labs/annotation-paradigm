@@ -1,0 +1,45 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0431"/>
+<meta type="date" value="1657-11-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0431">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Problemata circa curvas lineas quae Geometrae vestri mihi proposuere Domino <persName key="slus001">Slusio</persName> communicanda<note n="#1"/> existimavi; à quo cum huc usque responsum expectaverim, nunc eo<note n="#2"/> accepto, quid ille quidque ego invenerimus tibi exponam. Prius tamen hoc scito, cumulatè satisfactum nobis esse ijs quas misisti solutionibus ut et expostulare tecum lubeat, quod eximiorum virorum<note n="#3"/>, quibus discipulis gloriari debebas, ne nomina quidem scire me volueris.</p>
+<p>Slusij ipsissima verba<note n="#4"/> tibi describam quae sic habent.</p>
+<p>Recentius exemplum curvae non bene cohaerentis mihi subministras, in tertia illarum, quas ingeniosi viri Mathematici Leidenses nobis propositas voluerunt; eam enim ex aequatione ipsa sine ulla alia operatione deprehendi, (quod et te animadversurum suspico) componi ex partibus curvae, cujus dimensio, tangens, centrum gravitatis, dudum ab alijs ostensa sunt. Itaque nolui <hi rend="i">πολυπραγμωνεῖν</hi> in re jam peracta, et ad primam me contuli, in qua tangentem duci posse ostendi hac methodo.</p>
+<p>Detur punctum F tangendum, et applicata FD, ducatur per A eidem parallela
+<figure><graphic url="huyg003oeuv02ill42.gif"></graphic></figure>
+IAC, ductaque FC parallela AD, sumatur AH aequalis AG, et HI dupla CA. Tum fiant quatuor proportionales IC, HC, AC, BC.</p>
+<p>Aio junctam BF tangere curvam in F. Ejusdem dimensionem geometricè inveni; habere nempe eam rationem ad parallelogrammum sibi circumscriptum, quam habeant inter se duo solida rationis notae. Sed quoniam res prolixa est, et eadem ratio continuo variat pro diversa longitudine axis, ut in Conoide hyperbolico et cylindro circumscripto accidit, contentus ero unico exemplo rem Arithmeticè declarare. Intelligatur applicata FD esse subtripla AG, aio parallelogrammum AF habere ad trilineum AFD eam rationem quam 64 ad 37. Ulterius in hanc inquirere non vacavit, uti nec in secundam, longâ potestatum serie horridam: quam tamen arbitror detracta larvâ fore tractabiliorem: sed eam tibi relinquo, longiorem enim operam desiderare videtur quam ut ab homine varijs curis distracto explicari possit. In eo autem quod scribis te ijs Problematibus delectari in quibus inventio praecipua est, et calculus non difficilis planè tecum sentio; Ideoque tibi serio gratulor si quid non antea animadversum circa parabolam observasti. Gavisus sum interim Clarissimos viros ostendisse in quanam ratione curva mea secaretur à maxima applicatarum. Idem praestare potuissent in ea quae axem bifariam dividit et in alijs, quod nullo negotio animadvertes.</p>
+<p>Haec ille. Ego verò accepto hoc ipsius responso, eadem inquirere caepi, cum hactenus avelli non potuissem ab incepto opere, scribendarum videlicet demonstrationum novi illius circa parabolam inventi, cujus Slusius mentionem facit.</p>
+<p>Primae itaque lineae tangentem hoc modo ducendam invenio. Sit punctum in
+<figure><graphic url="huyg003oeuv02ill43.gif"></graphic></figure>
+curva datum F. Et ordinatim applicetur FD productâque diametro GA, sint in continua proportione AG, FD, AC, CE<note n="#5"/> Et fiat AH dupla AE. dico rectam ab H per F ductam contingere curvam in F. Ad quadraturam vero quod attinet. dico completo parallelogrammo ADFK, positaque AG ∞ <hi rend="i">a</hi>, DF ∞ <hi rend="i">b</hi>, esse ▭ DK ad portionem comprehensam AFD ut <hi rend="i">a</hi> + <hi rend="i">b</hi> ad ½ <hi rend="i">a</hi> + ¾ <hi rend="i">b</hi> + 1/12 <hi rend="i">ab</hi>/<hi rend="i">a</hi> + <hi rend="i">b.</hi> Unde facile liquebit, rectè Slusium definivisse in illo casu suo rationem 64 ad 37. Centrum autem gravitatis quomodo in hac linea inveniri possit adhuc non video. Porro de tertia quoque rectè Slusius pronunciat esse eam ex curvae lineae, jam diu ante ab alijs expositae, partibus conflatam. Hoc enim et ipse perspexi haud difficulter. Tangens autem
+<figure><graphic url="huyg003oeuv02ill44.gif"></graphic></figure>
+hujus lineae sic ducetur. Esto datum in curva punctum F, unde ordinatim applicetur FD. Interceptae vero DA sit triens utraque harum AH, HK; quarum AH sit in producta diametro sumta; HK vero ordinatim applicata. Dico ducta KF, eam tangere curvam in F.</p>
+<p>Rectangulum porro, spatio AFG<hi rend="i">f</hi> aequale habebitur, sumtâ septima parte quadrati axis AG. Centrum denique gravitatis E ita dividit AG, ut GE sit ad EA sicut 19 ad 14.</p>
+<p>At de secunda illa linea vestra neque mihi inquirere libuit, quam opinor haud
+multò aliter ex segmentis alicujus simplicioris compactam esse. Neque verò difficile est eo modo obscuram atque intricatam reddere investigationem. Ejuscemodi vero problematis, quae prolixum calculum minantur neque egregiam prae se ferunt utilitatem, non libenter bonas horas impendo: Ideoque ea tantum mihi proponi velim quaerenda, quibus inventis operaepretium me facturum, atque aliquid scitu dignum consecuturum intelligam. Quanquam fateor non male me tempus collocasse,
+<figure><graphic url="huyg003oeuv02ill45.gif"></graphic></figure>
+dum hasce lineas ad examen revoco, siquidem ea occasione in aliam quandam deductus sum speculationem pulcherrimam, de qua alias pluribus. Caeterum id quod Slusius submonet posse ostendi secundum quam rationem curvae suae spatium dividatur ab ea quae axem bifariam dividit, et ab alijs; adeo verum experior, ut in universum, qualitercunque sectum fuerit<note n="#6"/> spatium curvae suae à recta linea, partium inter se ratio exhiberi queat.</p>
+<p>Problemata Freniclij<note n="#7"/>, non dubito ad te quoque ab autore missa esse: Quae cum aspicio, demiror sanè diversa hominum studia<note n="#8"/>. Vale Vir Clarissime.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Com.</placeName> <date>23 Nov. 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName>, Professor der Mathematiquen inde Universiteyt Tot Leyden.</p>
+</div>
+</body>
+</text>
+</TEI>

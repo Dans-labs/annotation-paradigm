@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0131"/>
+<meta type="date" value="1652-11-04"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0131">
+<div type="opener">
+<p><persName key="scho197">Fr. à Schooten</persName> Clarissimo Viro D<hi rend="sup">no</hi>. <persName key="huyg003">Christiano Hugenio</persName> S.D.</p>
+</div>
+<p>Acceptis tuis unà cum ijs, quas Reverendus Pater <persName key="tacq001">Tacquet</persName> ad me dederat, simulque pictis thesibus, pro quibus tum Tibi tum Illi gratias quàm plurimas agendas habeo, utpote propter tuum in mittendis illis laborem, et ipsius in ijsdem donandis liberalitatem: non potui non ad ea, quae ex me quaeris respondere. Igitur quantum ad ea, ubi dicit ex falsis directè vera elici posse, puto equidem id Te ex exemplis hùc allatis facilè percepturum. Etenim si quis ita ratiocinetur:</p>
+<lg type="poem">
+<l>Omnis lapis est animal,</l>
+<l>Omnis homo est lapis,</l>
+<l>Ergo omnis homo est animal.</l>
+</lg>
+<p>directè eliciet ex duabus manifestè falsis praemissis veram utique conclusionem. Neque enim hic peccatur in formâ syllogismi (quae hìc est primae figurae), cum in eâ
+conditiones omnes requisitae reperiantur. Ex duabus autem veris praemissis in bonâ formâ falsam conclusionem elicere est impossibile, quia semper aliàs est Sophisma. Clarius autem adhuc ex manifestè falsis verum directè elici intelliges, modò inspicias Regulam Falsi, in quâ ex uno aut duobus falsis sive ad libitum assumptis numeris quaesitum vel verum invenire apertè docetur. Nescio an dicam Algebram omnem etiam simile quid non docere, cum in eâ ex qualibet supposita seu fictâ quantitate vera atque quaesita semper per certas regulas vel directè inveniatur. Inter quam et Regulam Falsi aliam differentiam non agnosco, quàm quod in Algebrâ quantitas illa sit tàntum supposititia, neque idcirco apertè falsa aut quaesitae contraria, quaeque ideo per certas regulas sic postea restringitur, ut talis fiat, qualis requiritur. Sed quid in Regula Falsi excipies non video, cum suppositi illi numeri omnino sint <seg org="falfi" resp="#AD" type="corr">falsi</seg>, ex quibus tamen deinde certo modo, hoc est, directè verus numerus elicitur. Ubi eleganter (iudicio meo) utriusque naturam licet discernere, prout consideremus in Algebrâ supposititiam illam quantitatem semper sic restringi ut obtemperet omnibus quaestionis conditionibus ac proinde fiat quaesita; At verò in Regulâ Falsi patére, quibus modis ex omnino falsis suppositionibus verum eliciatur. adeoque facilius esse ex simplici tali supposititia quantitate ad veram pervenire, quàm ex omnino falsis veram eruere: quandoquidem illa inveniri nequit, nisi prius innotuerit quonam pacto quaesitae contradicant, quod quidem in priori non est opus. Caeterum nosti suppositis diversis Hypothesibus Astronomos nihilominus in Eclipsium calculo convenire, ac proinde Astronomo sufficere ut calculum observationibus congruentem exhibeat, ita ut non necesse sit, eas Hypotheses esse veras. Cum enim variae Hypotheses sese offerant,
+Astronomus eam potissimum arripiet, quae compraehensu sit quàm facillima. Philosophus fortassis verisimilitudinem magis requiret, neuter tamen quicquam certi comprehendet aut tradet, nisi divinitus illi <seg org="revolatum" resp="#AD" type="corr">revelatum</seg> fuerit. His adde, quod <persName>Copernicus</persName> scribit libris Revolutionum Caelestium se primis studijs suis restaurasse scientiam Astronomicam super ijsdem Ptolomaei suppositionibus, et hâc ratione motus Planetarum emendasse, ut calculus apparentijs, et apparentiae calculo exactissimè responderent; ita tamen ut separatim Planetas singulos acciperet. Subjungit autem, cum postea totam structuram fabricarum particularium componere vellet, inde resultasse monstrum et chimaeram quandam, compositam ex membris nullâ prorsus proportione inter se cohaerentibus, ac penitus incompatibilibus, ita ut, quantumlibet satisfactum esset Astronomo merè calculatori, non tamen sibi <seg org="satissieri" resp="#AD" type="corr">satisfieri</seg> pateretur, nec acquiesceret Astronomus Philosophus. Et quia probè intelligebat, si per falsas in naturâ Hypotheses salvari possent apparentiae caelestes, multò melius idem obtineri posse à veris Hypothesibus. Ubi itaque constat, etiamsi Hypothesis Ptolemaica multis Phaenomenis adversetur, atque idcirco vera esse non possit, calculus tamen, qui ei superstructus fuerit, consentiat cum aliarum Hypothesium calculo.</p>
+<p><figure><graphic url="huyg003oeuv01ill86.gif"></graphic></figure></p>
+<p>De motu quid sentiam, cum A fertur versus B, simulque B versus A. Estque B duplo maius quàm A, sed A duplo celerius movetur quam B. Dico corpus B ipsi A occurrens
+in C debere pergere versus sinistram, ita quidem ut nullam sui motus partem amittat, nec novum motum recipiat; sed A resiliens, servatâ celeritate suâ, retro actum iri. Ratio est, quia B quamvis supponatur duplo tardius moveri quàm A, habet tamen aequalem quantitatem motus cum A (siquidem corpus duplo maius eadem celeritate motum quâ minus duplo plus habet motus): et ideo quia B maius est, debet A reflecti. B autem nullam partem sui motus communicare debet ipsi A, quia eadem vis motus est in A quam in B: adeoque multò minus A motum aliquem tradere potest ipsi B, cum in contrariam partem reflectatur, et ejus tantum determinatio, quâ ab A veniebat versus B, mutetur.</p>
+<p>Denique quod scribis te nuperrimè invenisse, nempe, quo pacto radij ad unum punctum tendentes ope superficiei sphaericae detorqueri possint, ut praecisè coëant in aliud punctum propius vel longinquius &amp;c. quae Cartesius simplicissimè omnium per superficies planas et hyperbolicas, aut per sphaericas et Ellipticas fieri posse ostendit, tu autem id per solas superficies sphaericas factum vis, nescio an satis accuratè, quae de Refractionum legibus tradidit, examinaveris. Quippe tam planè ingenium ejus perspectum habeo, idque semper tam perspicacissimum deprehendi, ut planè confidam non facilè quisquam ab ipso commissum aut non satis perspectum, sed illud ipsum ex omni parte constare debere, et vel cum ipsa veritate videri certare. Verum ne longior sim quam par est, et brevi tecum, uti spero atque si Deus favet, hac de re coram sum loquuturus, scribendi finem faciam. Interim vale et me amare perge.</p>
+<p>Quaeso hasce comititias simul cum tuis ad Dominum <persName key="tacq001">Tacquet</persName> amandari digneris. Iterum Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>4 Novembris 1652</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur, <persName key="huyg003">Christianus Hugens</persName> ten huijse van Myn Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>in S'graven-hage, op t' plein.
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

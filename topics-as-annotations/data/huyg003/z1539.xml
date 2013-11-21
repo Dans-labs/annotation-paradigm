@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1539"/>
+<meta type="date" value="1666-05-15"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1539">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 15 May 1666.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je ne pouvois pas laisser passer l'enclose<note n="#1"/> sans vous tesmoigner mes respects en vous felicitant de vostre heureuse arrivee à Paris, et en vous souhaitant le comble de toutes sortes de prosperité, tant pour vostre personne, que pour les belles entreprises, que vous meditez, sans doubte, pour le bien public, et l'advancement de la belle Philosophie. Je me veux persuader, que vous ferez vostre possible de solliciter et procurer vne consociation des habiles gens en France, pour employer leur esprits et vne partie de leur temps et facultés, á rechercher soigneusement la Nature, et à advancer de plus en plus la Mechanique; dans lesquelles choses vous ne manquerez pas de contribuer une quote fort considerable. J'espere, qu'auec le temps, toutes les Nations, tant soit peu polies, s'entre embrasseront comme cheres compagnes, et feront vne conjonction de leur forces tant de l'Esprit que des biens de la fortune, pour chasser l'ignorance, et pour faire regner la vraye et utile Philosophie.</p>
+<p>Je suis bien aise d'auoir gardé copie tant de la derniere lettre<note n="#2"/> du Chevalier Moray que de la mienne<note n="#3"/>, seulement pour vous convaincre<note n="#4"/>, que nous n'avons pas manqué de faire raison á la vostre<note n="#5"/>, quoy que les particularitez y contenues, (les miennes au moins) estant si vieilles, ne scauroient nullement estre à vostre gout, puisque vous ne pouuez autrement que rencontrer tous les iours quantité de choses fraisches, pour entretenir et repaistre vostre esprit.</p>
+<p>Monsieur Moray s'estant obligé de faire vn voyage, pour quelques peu de semaines, dans le païs de Wales, pour y examiner les mines de plomb qui tient de l'argent, m'a engagé de tenir cependant sa place, en recevant vos lettres, et en vous respondant. Monsieur, quoyque vous trouuerez cet eschange fort à vostre desadvantage, vous pourrez pourtant vous assurer, qu'en tout ce qui dependra
+de moy, ie l'executeray auec soin et fidelité, come celuy, qui a beaucoup de veneration pour la personne et le merite du dit Chevalier, et qui est au mesme temps</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Henry Oldenburg</persName>.</p>
+</div>
+<p>Pour mon addresse il ne faut, s'il vous plait, que faire tenir les lettres à Monsieur Justell<note n="#6"/>, et elles me seront rendues seurement.</p>
+<p>&nbsp;</p>
+<p>Monsieur, vous aurez agreable de m'envoyer vostre addresse à fin que nos lettres vous trouuent tout directement.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

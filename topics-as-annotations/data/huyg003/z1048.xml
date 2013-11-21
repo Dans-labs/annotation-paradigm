@@ -1,0 +1,126 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1048"/>
+<meta type="date" value="1662-08-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1046"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1048">
+<p>Soit la hauteur donnee de 22873 pieds.</p>
+<p><table>
+<row>
+<cell>addatur {</cell>
+<cell>4.35933</cell>
+<cell>logarithmo 22873</cell></row>
+<row>
+<cell>addatur {</cell>
+<cell>0.11927</cell>
+<cell>numerus semper addendus.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>4.47860</cell>
+<cell>huic logarithmo convenit'</cell></row>
+<row>
+<cell>numerus S. {</cell>
+<cell>0.30103</cell>
+<cell>quem subtrahe ex</cell></row>
+<row>
+<cell>numerus S. {</cell>
+<cell>5.00000</cell>
+<cell>logarithmo 100000.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>reliquit</cell>
+<cell>4.69897</cell>
+<cell>Logarithmum 50000.</cell></row>
+</table></p>
+<p>Comme donc 100000 a 50000, ou bien comme 2 a 1, ainsi sera la pesanteur du cylindre de la hauteur de toute l'atmosphere a sa partie vers en haut depuis la hauteur donnée.</p>
+<p>Soit encore la hauteur donnee de 100000 pieds.</p>
+<p><table>
+<row>
+<cell>addatur {</cell>
+<cell>5.00000</cell>
+<cell>logarithmo 100000</cell></row>
+<row>
+<cell>addatur {</cell>
+<cell>0.11927</cell>
+<cell>numerus semper addendus</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>5.11927</cell>
+<cell>huic logarithmo convenit</cell></row>
+<row>
+<cell>numerus</cell>
+<cell>1.31600</cell>
+<cell>quem subtrahe</cell></row>
+<row>
+<cell>ex</cell>
+<cell>5.00000</cell>
+<cell>logarithmo 100000.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>3.68400</cell>
+<cell>Logarithmum 4831.</cell></row>
+</table></p>
+<p>la pesanteur du cylindre entier a la partie vers en haut sera donc comme 100000 a 4831 ou pres 21 a 1.</p>
+<p>Quand au contraire le poids de l'air vers en haut est donnè et qu'il faille scavoir la hauteur du lieu l'on se servira de la regle suivante de la quelle la precedente est tirée. Par exemple si je veux scavoir a quelle hauteur il faudroit monter pour avoir 1/10 du poids de l'air par dessus la teste.</p>
+<p><table>
+<row>
+<cell>subtrahatur {</cell>
+<cell>1.00000</cell>
+<cell>logarithmo 10.</cell></row>
+<row>
+<cell>subtrahatur {</cell>
+<cell>0.00000</cell>
+<cell>logarithmus 1.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>1.00000</cell>
+<cell>differentia logarithmorum.</cell></row>
+<row>
+<cell></cell>
+<cell>5.00000</cell>
+<cell>logarithmus ejus differentiae.</cell></row>
+<row>
+<cell></cell>
+<cell>0.11927</cell>
+<cell>numerus semper subtrahendus.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>4.88073</cell>
+<cell>logarithmus 75986 qui est numerus pedum altitudinis quaesitae.</cell></row>
+</table></p>
+<p>Quoy que je ne croie pas que l'extension de l'atmosphere soit infinie, je tiens pourtant qu'on ne se trompe que de fort peu en se servant de ces regles, que je vous prie de faire veoir a Milord <persName key="brou051">Brouncker</persName> et Monsieur <persName key="boyl001">Boile</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2667"/>
+<meta type="date" value="1691-03-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2667">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p> Vous avez trouvè l'équation vèritable, mais je ne crois pas qu'il y en a d'autres, que sa seconde ne quadre point.
+<lb/>2 Vous avez aussi donnè la vraie quadrature. beau si c'est par methode. proprietez de cette courbe. il a falu bien du calcul pour reporter vostre quadr. a la miene. Fatio ne peut pas bien soutenir la prop. de Newton pag. 105; quand je luy donne deux paraboles opposees.
+<lb/>3 Mr. Fatio ne desespere pas de vaincre la difficultè des racines lors qu'il faut trouver la courbe par la soutangente, et s'excuse sur l'echange, parce qu'il faudrait vous envoier un traitè entier. Je voudrois que vous voulussiez tous deux donner au public ce que vous en avez trouvè. gentilhomme anglais malade.
+<lb/>4 Fatio doute maintenant que vostre courbe Expon.<hi rend="sup">e</hi> ne puisse estre possible.
+<lb/>5 Je ne scay si Bern. a tout trouvè. J'auray du plaisir à voir.
+<lb/>6 qu'il faut necessairement que Bernoulli donne le sien pour eviter les disputes.
+<lb/>7 Chiffre par les premieres lettres aisè.
+<lb/>8 Cause du reflus de descartes je me souviens qu'en l'examinant à Paris nous n'en etions pas satisfait. Variations de l'Eguille aimentée difficiles d'expliquer.
+<lb/>Parelies j'en traite dans la dioptrique je veux m'y appliquer pour l'achever.
+<lb/>Loix du ressort je les ay demontrees de l'isochronisme. Hooke en a traitè paralogisti quement.
+<lb/>Nous avons assez de medecins qui pretendent suivre la philosophie Cartesienne, mais ce sont ceux que j'appellerais les derniers si j'en avais besoin.
+<lb/>Il y avait un article touchant le calcul de quelques problemes du mouvement avec resistance du milieu.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> 26 Mars 1691.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay estè indisposè pendant plus de 3 semaines, et sur la fin j'ay estè aussi attaquè de la goute<note n="#3"/> dont je ressens encore un reste, et cela pour la premiere fois de ma vie. Sans cet accident j'aurois respondu plus tost à la derniere que vous m'avez fait l'honneur de m'escrire. J'y ay vu avec beaucoup de satisfaction que vous avez si
+bien sceu trouver la ligne courbe, dont l'équation est 4<hi rend="i">aaxx</hi> ∞ 4<hi rend="i">aayy</hi>-<hi rend="i">y</hi><hi rend="sup">4</hi> pour la soutangente <hi rend="i">yy</hi> <figure rend="inline"><graphic url="huyg003oeuv10fi414.gif"></graphic></figure>. Mais j'ay de la peine à croire ce que vous dites, qu'il y a plusieurs autres courbes qui y satisfont<note n="#4"/>, et j'oserois presque assurer que cela est impossible; du moins celle que vous apportez <hi rend="i">aaxx</hi> ∞ <hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">y</hi><hi rend="sup">4</hi> ne donne pas cette mesme soutangente, mais <figure rend="inline"><graphic url="huyg003oeuv10fi415.gif"></graphic></figure>, qui est double de l'autre et qui doit estre prise au delà de <hi rend="i">x</hi>, à cause du signe negatif.</p>
+<p>J'ay proposé vostre offre à Mr. <persName key="duil010">Fatio</persName> touchant l'eschange de vostre methode dans cette recherche, contre la siene dont il s'est servi à trouver mes deux autres courbes par leur soutangentes; mais je vois qu'il ne desespere pas de surmonter la difficulté des Racines, et qu'il ne peut pas se resoudre à vous envoier un traité assez long qu'il a sur cette matiere. Il avoue au reste qu'elle est d'une estude penible et infinie, et il est seur, dit il, qu'on ne scauroit venir à bout de tous les divers deguisements possibles des soutangentes, ce que j'ay aussi tousjours creu. Je ne laisse pas de l'exhorter de donner ce qu'il en a trouvé, et je souhaiterois, Monsieur, que vous en voulussiez faire de mesme, parce que le Probleme est de grande utilitè, quand bien il ne seroit pas generalement resolu. Vous obligeriez aussi le public en produisant vostre methode des quadratures dont vous venez de donner un si joli echantillon dans la courbe que je vous avois proposée, scavoir 2<hi rend="i">aaxx</hi> ∞ <hi rend="i">aayy</hi>-<hi rend="i">y</hi><hi rend="sup">4</hi>,
+<figure><graphic url="huyg003oeuv10ill14.gif"></graphic></figure>
+où j'admire certes vostre adresse et l'excellence de vostre regle, quoique limitée aussi bien que l'autre, comme je crois.</p>
+<p>Il m'a falu un assez long calcul pour voir si vostre quadrature se rapportoit à la miene<note n="#5"/>. Vostre figure AHC est le quart du 8 que forme cette courbe. Et comme en posant AC ∞ <hi rend="i">a</hi>, AG ∞ <hi rend="i">x</hi>, GH ∞<hi rend="i">y</hi>, <figure rend="inline"><graphic url="huyg003oeuv10fi410.gif"></graphic></figure> ∞ <hi rend="i">z</hi>, vous trouvez l'espace <figure rend="inline"><graphic url="huyg003oeuv10fi416.gif"></graphic></figure>, et l'espace <figure rend="inline"><graphic url="huyg003oeuv10fi417.gif"></graphic></figure>, et par consequent <figure rend="inline"><graphic url="huyg003oeuv10fi418.gif"></graphic></figure>, il s'ensuit que l'espace AKCA est à DHKEC comme le cube de AC au cube de EG, car cette EG est <hi rend="i">z</hi>; et que le mesme espace AKCA est à CEF comme le cube AC au cube HG. J'avois formè cette courbe en faisant un demi-cercle BNL et dans les droites qui coupent BL perpendiculairement, comme NGE, prenant GE egale aux soutendentes NB, NL, d'ou nait aussi
+GH egale à leur difference. Il est aisè de voir par la que l'espace ACKL devient egal à deux espaces paraboliques, et l'espace AKL à leur difference. Je n'ay pas encore eu le loisir d'examiner vostre autre quadrature de la courbe 2<hi rend="i">aaxx</hi> ∞ <hi rend="i">aayy</hi>+<hi rend="i">y</hi><hi rend="sup">4</hi>, et je doute si j'en trouveray le moien. Car je n'ay pas penetrè bien avant cette matiere et je ne crois pas mesme que je doive m'y occuper, puisque j'espere de participer un jour à ce que vous en scavez, qui m'avez devancè de si loin que j'aurois trop de peine à vous atteindre.</p>
+<p>M. Fatio ne peut pas bien soutenir la Propos. de Mr. <persName key="newt011">Newton</persName> pag. 105, surtout quand pour son Ovale indeterminée, je luy marque deux portions egales de parabole qui aient la mesme base<note n="#6"/> ainsi. <figure rend="inline"><graphic url="huyg003oeuv10fi08.gif"></graphic></figure> Il commence aussi à douter si l'impossibilitè de vostre courbe exponentiale est telle qu'il l'avoit crue.</p>
+<p>Je verray avec plaisir comment s'accorderont vos decouvertes et celles de Mr. <persName key="bern071">Bernoulli</persName> avec les mienes sur la chaine pendante. Mais pour faire connoitre au vray ce qu'un chacun aura trouvè, et pour prevenir toute dispute, il est absolument necessaire, qu'on se communique premierement les chiffres, comme j'ay fait il y a longtemps<note n="#7"/>. Je ne doute pas que vous et Mr. <persName key="bern071">Bernoulli</persName> n'en conveniez, car si sans cette precaution vous luy envoiez le premier vostre solution, on pourra douter s'il est autheur de la sienne. Voicy mon chiffre que j'ay mis d'une maniere moins embarassée, qu'il n'estoit, en marquant seulement les premieres lettres des mots<note n="#8"/>, ce qui se fait avec facilitè et s'examine de mesme. J'y ay enfermè aussi quelque chose de plus que dans l'autre, m'estant apperçu du depuis d'une chose qui estoit <hi rend="i">in potestate</hi><note n="#9"/> (pour me servir de vostre terme) sans que je l'eusse remarquè.</p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="spat">scapssefaeuagcqcsiea</hi>.</cell></row>
+<row>
+<cell>1. <hi rend="spat">pitidqcp</hi>.</cell>
+<cell>1. <hi rend="spat">suactapaqiaedcpev</hi>, <hi rend="spat">isticcaa</hi>, <hi rend="spat">qiaa</hi>; <hi rend="spat">eehcaeiaccaa</hi>; <hi rend="spat">hipapddtciihp</hi>.</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>2. <hi rend="spat">raecvcep</hi>.</cell>
+<cell>2. <hi rend="spat">uticc</hi>, <hi rend="spat">da</hi>, <hi rend="spat">eaa</hi>, <hi rend="spat">isadel</hi>.</cell></row>
+<row>
+<cell>3. <hi rend="spat">rciv</hi>.</cell>
+<cell>3. <hi rend="spat">aiqaarci-u</hi>.</cell></row>
+<row>
+<cell>4. <hi rend="spat">caescercea</hi>.</cell>
+<cell>4. <hi rend="spat">sccecrcaaeeccremp</hi>. <hi rend="spat">idrcivepaqivet</hi>.</cell></row>
+<row>
+<cell>5. <hi rend="spat">cellceccd</hi>.</cell>
+<cell>5. <hi rend="spat">ureaediteaaqsircivaccecd</hi>.</cell></row>
+<row>
+<cell>6. <hi rend="spat">mscepc</hi>.
+<lb/><hi rend="spat">pcippqcah</hi>.
+<lb/><hi rend="i">xxyy∞a</hi><hi rend="sup">4</hi>-<hi rend="i">aayy xxyy∞</hi>4<hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">x</hi><hi rend="sup">4</hi></cell>
+<cell>6. <hi rend="spat">scepceaerelcdeceseesrciv</hi>.</cell></row>
+</table></p>
+<p>Vous pouvez, si vous le trouvez bon, communiquer cet Enigme à Mr. <persName key="bern071">Bernoulli</persName>, en luy demandant le sien. Je m'estonne du silence de Mr. D.T. sur ce Probleme apres y avoir estè invitè plus particulierement que tous les autres, mais il luy reste encore du temps. Pour ce qui est de vos demandes, je me souviens qu'en examinant dans l'Academie des sciences la cause du flus et reflus selon Mr. <persName key="desc004">des Cartes</persName>, les astronomes n'en estoient pas contents et trouvoient des phenomenes contraires.</p>
+<p>La declinaison de l'Eguille aimantée et encore plus sa variation, me paroissent irreduisibles à quelque regle certaine. La variation, ou bien le changement de declinaison marque assez clairement qu'au dedans de la Terre il doit arriver quelque changement.</p>
+<p>J'ay une demonstration de l'isochronisme des vibrations du ressort, estant supposè qu'il cede dans la mesme proportion de la force qui le presse, comme l'experience l'enseigne constamment.</p>
+<p>La demonstration des Parelies sera dans ma dioptrique à la quelle je vay travailler cet estè, sans m'en laisser detourner par d'autres speculations.</p>
+<p>Il y avoit un article dans ma lettre precedente<note n="#10"/> touchant le calcul de quelques cas du mouvement avec resistence du milieu, au quel article vous n'avez rien respondu, ce que pourtant je vous pardonne facilement, ne vous ayant que trop fatiguè par mes problemes des lignes courbes. Vous me direz aussi quelque jour comment vous trouvez mes explications de la Refraction et du Cristal d'Islande, de quoy jusqu'icy je n'ay pas appris la moindre chose. Je suis etc.</p>
+</div>
+</body>
+</text>
+</TEI>

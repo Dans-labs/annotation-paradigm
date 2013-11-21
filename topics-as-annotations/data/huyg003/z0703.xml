@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0703"/>
+<meta type="date" value="1660-01-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="tacq001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0703">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Valetudo. Graties de libro, quod me laudas. Quid egregium in libro. Recte quod propositionem Guldini demonstravit. me etiam coepisse olim. lineam per centrum gravitatis semihyperbolae duxisse. De Hesio, gratior eo liber qui cum epistola quod illius comitatum literis venit. Egregium de hyperbolici prismatis portione cubo aequali. De demonstratione propositionis 4 libri 5 idem sentio quod antehac esse adjiciendum quod est absurdum, ut fecit Euclides. 12.9. Theoremata mea de <seg org="supersiciebus" resp="#AD" type="corr">superficiebus</seg> opiner Patrem Gregorium ei communicasse, ex quo alioqui petere ea potest. Dioptrica nunc ad editionem porro, deinde mechanica quaedam in quibus penduli inaequalitatem corrigo persectè.</p>
+</div>
+<div type="opener">
+<p><persName key="tacq001">Tacquetio</persName>.</p>
+</div>
+<p>Librum tuum<note n="#1"/> et epistolam eo gratiorem quod Clarissimi Hesij literis<note n="#2"/> comitata advenit accepi tunc cum nondum ab adversa valetudine mihi restitutus essem, unde factum ut non continuo illum perlegere potuerim cum ea attentione quam hujusmodi scripta desiderant. nam quin leviter continuo totum perlustrarem vix ulla morbi vis prohibere potuisset. Nomen meum semel iterumque nec sine elogio ibi positum reperi, de quo et gratiam habeo et ubicunque occasio tulerit referre conabor.</p>
+<p>De caetero optimè te secisse arbitror demonstrationem adserendo Theorematis Guldini. est enim eximiae in Geometria utilitatis et compendij. Unde et mihi ante annos aliquot idem tentatum fuit methodo non planè eâdem qua te usum video. In eandem quoque cogitationem tecum incidi, cum lineam duxi per centrum gravitatis semihyperbolae, nec tantum datam esse ostendi rationem AO ad QO in figura tua 50, sed et quae esset calculo subduxi, quod nequaquam difficile est.</p>
+<p>Casus duos ecce tibi. nempe cum dimidium latus transversum AM est aequale axi MB, erit AO ad OQ, ut AB ad 4/9 BD. hoc est erit BI 4/9 BD. cum autem
+<figure><graphic url="huyg003oeuv03ill15.gif"></graphic></figure>
+AM erit aequalis dimidiae MB, erit BI 15/32 BD. Videri possit ad hyperbolae quadraturam hoc aliquatenus conducere, sed profecto nihil minus inde efficitur, ut nec ex omnibus reliquis quae in tuo libro adfers, etsi illa nihilominus per se pulchra sunt et contemplatione digna. Et egregium quidem inter caetera illud visum est de prismatis hyperbolici portione ad cubum reducta quod multis valde mirum videbitur. porro ubique perspicuam et accuratam tuam demonstrandi rationem comperio ac laudo, nisi quod in demonstratione propositionis 4 libri 5 idem illud desidero, quod antehac ni fallor in alijs huis hujus generis demonstrationibus deesse dixi. Vellem nempe ut postquam contrarium ejus quod positum est ex illo ipso consequi ostendisses, adjiceres <hi rend="i">quod est absurdum</hi>, atque inde concluderes verum esse theorema, sicut in propositione 12 libri 9 secit Euclides<note n="#3"/>. Neque enim frustra id ab eo factum credas. Scio difficilè esse dimovere te à sententia jam olim suscepta defensaque, praesertim quia de principijs ipsis nobis non convenit. Dicis enim lumine naturali evidentissimum esse illud esse verum cujus contrarium suppositum seipsum distruit. Hoc autem mihi non aliter liquere videtur quam si ad deductionem ad impossibile mentem advertam cujus ope facile evinci potest veritas illius quod a te ceu axioma proponitur. Ad ipsam quoque demonstrationem hanc tuam propositionis 4. quod attinet uti et ad illam propositionem 35. Libri 5. Elementorum Geometricorum videtur mihi longè alia ratio esse harum quam Euclideae in propositione 12. libri 9. Quoniam in ea salsa seu contraria positio demonstrationem ingreditur ita ut ex ea ipsa procedat argumentatio quod in tuis secus est. Nusquam enim in tua hac novissima demonstratione consideras altitudinem M majorem aut minorem esse viâ centri O. atque adeo nihil facilius esset opinor quam in vulgarem directam demonstrationem illam transmutare. Vel certe postquam circa finem dixeras, <hi rend="i">Ergo</hi>, <hi rend="i">altitudo Met via centri O aequales sunt</hi> poteras statim sic concludere; Atqui hoc est absurdum cum inaequales sint positae. Ergo &amp;c. Sed his jam nimium immoror, ita autem accipias velim Vir Clarissime, tanquam exercitij gratia dicta atque ut videas non raptim sed pensiculatè tua scripta me evolvere. quod et in meis a te fieri magnopere exopto. Misi non ita pridem ad Reverendum Patrem Gregorium theoremata quaedam<note n="#4"/> sed sine demonstratione de superficiebus conoidum et sphaeroidum, quorum tibi fortasse copia facta sit, sin minus velim ut ab
+illo postules, quoniam non dubito quin tibi placitura sint. Nescio quando ad haec edenda otium futurum sit; quum identidem alia atque alia suboriantur quae a prioribus absolvendis retrahunt. Novissimum inventum nunc habeo quo perpendiculi oscillationes exactè inter se exaequo. Inveni enim certam curvam lineam secundum quam si flectantur cornua seu lamellae AB, AC, inter quas perpendiculum agitatur, quaelibet oscillationes efficiantur isochronae, cum alioqui sensibilis inter eas sit differentia. Vale Vir Clarissime et vicissim de studijs tuis et quid novi prae manibus habeas me certiorem fac. Dabam Calendis Januariis. Anni 1660. qui tibi felix sit.</p>
+</div>
+</body>
+</text>
+</TEI>

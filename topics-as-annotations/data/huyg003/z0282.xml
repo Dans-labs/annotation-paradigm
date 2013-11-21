@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0282"/>
+<meta type="date" value="1656-04-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0282">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName> S.D.</p>
+</div>
+<p>Ecce tibi quae de aleae ludo videre desiderabas, sed vernaculo sermone conscripta<note n="#1"/>, quod necessariò mihi faciendum fuit, quum vocabulis latinis destituerer.
+Sed absoluto opusculo pleraque reperi, adeo ut si opus fuerit omnia nunc latinc reddere me posse arbitror. Prius tamen haec uti sunt tibi exhibenda credidi ut videas nunquid eo ordine quo hic digesta sunt totidemque verbis, an alia ratione, concinnata operi tuo accedere velis; et an omnia satis dilucidè sint explicata.
+Difficultas materiae vel ex eo intelligi queat, quod <persName key="pasc001">Paschalius</persName> acerrimi ingenij juvenis nihil sibi aequè obscurum occurrisse aut majori labore constitisse asseveret. nam et ipse omnia haec aut pleraque certè investigavit, uti et Fermatius; sed quibus principijs usi fucrint nemini adhuc puto compertum. Heri à Domino <persName>Milonio</persName> literas<note n="#2"/> accepi quem oraveram ut mitteret mihi siquam regulam haberet ad inveniendos numeros amicabiles. Itaque hanc misit inventam<note n="#3"/> àb insigni arithmetico Domino <persName key="fren024">de Frenicle</persName><note n="#4"/>.</p>
+<p>Mitte mihi si placet regulam Cartesij quam Milonio promisi. Et Vale.</p>
+<div type="closer">
+<p><date>20 Apr. 1656</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

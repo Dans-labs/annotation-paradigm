@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1200"/>
+<meta type="date" value="1664-01-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1200">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 9 Jan. 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>L'indisposition qui m'a tenue ces 8 ou 10 jours durant m'a empeschè de faire plustost responce a la vostre<note n="#1"/> du 18 Decembre et a celle<note n="#2"/> de Monsieur le Comte de Kincardin comme aussi d'aller visiter la machine Roanesque<note n="#3"/> pour en prendre les exactes mesures suivant ce que je m'estois proposè. Je ne vous en puis donc pas rendre compte encore, mais j'espere que ce sera dans peu de jours. aussi bien n'est elle pas encore toute achevée, et tant que cela n'est point ils y changent perpetuellement quelque chose, de sorte qu'il vaut peut estre mieux d'attendre qu'elle soit dans sa perfection. Si tost qu'elle paroistra l'on scaura incontinent si l'usage en sera si excellent comme les inventeurs se promettent, et comme vous dites ce sera assez a temps alors d'y travailler chez vous. Pour ce qui est des doutes que vous proposez je puis bien satisfaire a la pluspart des a present, et quant au crochet scachez qu'il est fixè dans le bois de la selle, et que l'une des couroies qui conjoint les boetes triangulaires y est attachee ayant un trou par ou le dit crochet passe. Ces boetes sont revestues de cuir, mais pour ne point blesser le cheval je croy que je vous ay dit que la selle est prolongee par derriere, pour y faire reposer ces boetes dessus.</p>
+<p>Il y a un poitral au cheval qui est attachè aux deux flesches, mais ils avoient une maniere de l'attacher que je croy qu'ils ont maintenant changée, et je vous scauray dire comme cela est quand je l'auray veu.</p>
+<p>Je ne scay de quelle courroye vous parlez qui passeroit dessous le ventre du cheval si ce n'est elle qui tient la selle, qui y est sans doute.</p>
+<p>Pour monter dans la chaise ils n'avoient pas encore rien inventè, mais cela est facile, et je croy que depuis ils l'y ont adjoutè.</p>
+<p>Il faut croire que les flesches non obstant leur longeur et peu d'epoisseur, sont assez fortes puis que souuent l'on en a fait l'essay, en faisant une lieue ou deux au galop par des mechants chemins hors de cette ville.</p>
+<p>Les roues sont attachees a l'aissieu et quoy qu'il semble que cela apporte quelque inconvenient lors qu'on tourne il n'est pas considerable pourtant. Elles sont ainsi attachees par ce que de cette façon elles vont d'un mouuement plus ferme, et n'ont pas besoin d'estre si massives au milieu.</p>
+<p>Il faut bien que la chaise soit attachée aux flesches, comme elle est en 4 endroits, par ce que ce fonds ou marchepied que les courroies soutienent n'est qu'un petit ais qui ne tient aucunement a la chaise, ce qui semble la joindre a ce marchepied n'estant qu'une toile ciree ou chose semblable qui garantit les pieds de la boue et du vent.</p>
+<p>Tous les rideaux et l'imperiale sont faits d'une mesme estoffe, qui est de toile cirée ou vernissée le cuir estant trop pesant.</p>
+<p>L'un des plus grands inconvenients de la machine est assurement qu'il luy faut beaucoup d'espace pour tourner, et c'est ce qui en empeschera apparemment l'usage dans les villes, car je ne croy pas qu'on y puisse remedier sans en ruiner la commoditè d'un autre costè.</p>
+<p>Pour ce qui est de modelle, il faudra veoir quand ils auront tout achevè, mais c'est une chose bien fascheuse que d'avoir a faire aux artisans d'icy a cause des longueurs qui font perdre patience, et en voila asses sur ce suject.</p>
+<p>Quant a la lettre que m'escrit Monsieur le Comte de Kincardin, je vous avoueray la veritè Monsieur que j'en suis fort peu satisfait et que je m'estonne de ce qu'il vous semble qu'il agit si bien avec moy et selon l'amitiè qui est entre nous. Car a quoy tend toute cette lettre, sinon qu'il veut s'attribuer a luy seul l'invention des Longitudes, comme si les Horologes a pendule n'estoient plus mon invention depuis que je les ay donnees au public. Et il semble que la part qu'il m'y veut donner, qu'il me la donne comme par aumosne, et non pas qu'elle m'appartiene par aucun droit. Cependant je croy y en avoir un peu plus que luy et partant je ne puis aucunement souffrir qu'il se veuille porter comme le maistre de cette affaire. Vous verrez ce que je luy escris, car je laisse la lettre<note n="#4"/> ouuerte et si elle ne suffit pas pour le desabuser, je vous prie Monsieur d'y contribuer ce que vous pourrez, car je serois fort marry que nostre different nous fit suivre des interests contraires en cette affaire ce qui ne pourroit causer que des mauuaises suites.</p>
+<p>Je vous suis fort obligè des Observations de Monsieur <persName key="boyl001">Boile</persName><note n="#5"/> que j'ay leus avec beaucoup de plaisir et admiration de sa diligence et exactitude.</p>
+<p>Si le temps ne m'estoit eschappè, il y a encore des choses dans vostre lettre ou je devrois respondre mais je suis contraint de sinir, les differant jusqu'à une autre fois.</p>
+<p>Je suis avec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

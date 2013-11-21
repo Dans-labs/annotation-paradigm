@@ -1,0 +1,291 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,False}}
+{{extend 'layout.html'}}
+
+
+<script src="{{=URL('static','jscolor/jscolor.js')}}"></script>  
+<script src="{{=URL('static','js/jssearchhighlight.js')}}"></script>  
+
+<script type='text/javascript'>
+
+function submititem(type, subtype, tid) {
+    document.study.chosenitem.value = tid
+    document.study.chosentype.value = type
+    document.study.chosensubtype.value = subtype
+    document.study.submit();
+}
+
+var itemkeylist = {
+    'keyword': {
+        'manual': [{{sep = ''
+            for t in keywordsmanual:}}{{=sep}}'{{=t[2]}}'{{sep = ', '}}{{pass}}],
+        'auto': [{{sep = ''
+            for t in keywordsauto:}}{{=sep}}'{{=t[2]}}'{{sep = ', '}}{{pass}}]
+    },
+    'topic': {
+        'auto': [{{sep = ''
+            for t in topics:}}{{=sep}}'{{=t[2]}}'{{sep = ', '}}{{pass}}]
+    },
+}
+
+var topickeylistorder = [ {{sep1 = ''}} {{for t in topicids:}}{{=sep1}}'{{=t}}'{{sep1 = ', '}}{{pass}}]
+
+var topickeylist = { {{sep1 = ''}}
+    {{for t in topicids:}}{{=sep1}}
+        '{{=t}}': [{{sep2 = ''
+        for w in topicwords[str(t)]:}}{{=sep2}}['{{=w[0]}}','{{=w[1]}}','{{=w[2]}}','{{=w[3]}}']{{sep2 = ', '}}{{pass}}]{{sep1 = ','}}{{pass}}
+}
+itemkeylist['topic']['auto'] = topickeylistorder
+
+function highlight(kind,type,state,keys) {
+	if (keys == "") {
+		keys = itemkeylist[kind][type]
+	}
+    else {
+        if (kind == 'topic') {
+            keys = [keys]
+        }
+    }
+    if (kind == 'keyword') {
+        if (state) {
+            $('#bodyc').highlight(keys, {wordsOnly: true, className: kind+type+'text'})
+        }
+        else {
+            staterep = 'off'
+            $('#bodyc').unhighlight(keys, {wordsOnly: true, className: kind+type+'text'})
+        }
+    }
+    else if (kind == 'topic') {
+        for (var ti in keys) {
+            var tid = keys[ti]
+            var items = topickeylist[tid]
+            for (var i in items) {
+                var item = items[i]
+                var key = item[0]
+                var weight = item[1]
+                var tclass = item[2]
+                var wclass = item[3]
+                var theclassname = kind+type+' '+kind+type+'text'+' '+kind+type+tclass+' '+kind+type+'word'+wclass
+                if (state) {
+                    $('#bodyc').highlight(key, {wordsOnly: true, className: theclassname})
+                }
+                else {
+                    staterep = 'off'
+                    $('#bodyc').unhighlight(key, {wordsOnly: true, className: theclassname})
+                }
+            }
+        }
+    }
+}
+
+function highlightchanged(cobj,kind,type,key) {
+	if (cobj.checked) {
+		highlight(kind,type,true,key)
+	}
+	else {
+		highlight(kind,type,false,key)
+	}
+}
+
+function rehighlight(kind,type) {
+	var keys = itemkeylist[kind][type]
+	for (var i in keys) {
+		var item = keys[i]
+		var check = document.getElementById(kind+type+'c_'+item)
+		if (check.checked) {
+			highlight(kind,type,check.checked,item)
+		}
+	}
+}
+
+function chighlight(kind,type, state) {
+	var keys = itemkeylist[kind][type]
+	for (var i in keys) {
+		var item = keys[i]
+		var check = document.getElementById(kind+type+'c_'+item)
+		check.checked = state
+	}
+	highlight(kind,type,state,'')
+}
+
+function showmore (oaid, more) {
+    var material = document.getElementById('extra' + oaid)
+    var controll = document.getElementById('ctll' + oaid)
+    var controlm = document.getElementById('ctlm' + oaid)
+    var matdisp
+    var ctlldisp
+    var ctlmdisp
+    if (more) {
+        matdisp = "inline"
+        ctlldisp = "inline"
+        ctlmdisp = "none"
+    }
+    else {
+        matdisp = "none"
+        ctlldisp = "none"
+        ctlmdisp = "inline"
+    }
+    material.style.display = matdisp
+    controll.style.display = ctlldisp
+    controlm.style.display = ctlmdisp
+    return false
+}
+
+</script>
+
+<div>
+<form name="study" action="{{=URL()}}" method="post">
+<table width="100%">
+    <tr height="100%">
+        <td width="50%" id="topicc">
+			<table width="100%">
+				<tr>
+					<th width="25%"><h1 class="columntitle">keywords</h1></th>
+					<th width="25%"><h1 class="columntitle">keywords</h1></th>
+                    <th width="50%"><h1 class="columntitle">topics</h1></th>
+				</tr>
+				<tr>
+					<th width="25%">manual</th><th width="25%">auto</th><th width="50%">auto</th>
+				</tr>
+				<tr>
+					<td>
+			<a href="javascript:void(0)" onclick="itemcontrol('keyword','manual',false)" id="keywordmanualtoff" class="showi">hide</a>
+			<a href="javascript:void(0)" onclick="itemcontrol('keyword','manual',true)" id="keywordmanualton" class="hide">show</a>
+					</td>
+					<td>
+			<a href="javascript:void(0)" onclick="itemcontrol('keyword','auto',false)" id="keywordautotoff" class="showi">hide</a>
+			<a href="javascript:void(0)" onclick="itemcontrol('keyword','auto',true)" id="keywordautoton" class="hide">show</a>
+					</td>
+					<td>
+			<a href="javascript:void(0)" onclick="itemcontrol('topic','auto',false)" id="topicautotoff" class="showi">hide</a>
+			<a href="javascript:void(0)" onclick="itemcontrol('topic','auto',true)" id="topicautoton" class="hide">show</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+			<a href="javascript:void(0)" onclick="chighlight('keyword','manual',false)" id="keywordmanualcoff" class="showi">none</a>
+			<a href="javascript:void(0)" onclick="chighlight('keyword','manual',true)" id="keywordmanualcon" class="showi">all</a>
+					</td>
+					<td>
+			<a href="javascript:void(0)" onclick="chighlight('keyword','auto',false)" id="keywordautocoff" class="showi">none</a>
+			<a href="javascript:void(0)" onclick="chighlight('keyword','auto',true)" id="keywordautocon" class="showi">all</a>
+					</td>
+					<td>
+			<a href="javascript:void(0)" onclick="chighlight('topic','auto',false)" id="topicautocoff" class="showi">none</a>
+			<a href="javascript:void(0)" onclick="chighlight('topic','auto',true)" id="topicautocon" class="showi">all</a>
+					</td>
+				</tr>
+			</table>
+			<div class="scroll">
+				<table width="100%">
+					<tr>
+						<td width="25%">
+                {{for t in keywordsmanual:}}
+                    <p class="keywordmanuallist showb" title="by: {{=t[1]}}">{{if lid != None:}}<input type="checkbox" onclick="highlightchanged(this,'keyword','manual','{{=t[2]}}')" id="keywordmanualc_{{=t[2]}}">{{pass}}<a href="javascript:void(0)" title="show all letters with this keyword" onclick="submititem('keyword','manual','{{=t[2]}}')">{{=t[2]}}</a></p>{{pass}}
+						</td>
+						<td width="25%">
+                {{for t in keywordsauto:}}
+                    <p class="keywordautolist showb" title="by: {{=t[1]}}">{{if lid != None:}}<input type="checkbox" onclick="highlightchanged(this,'keyword','auto','{{=t[2]}}')" id="keywordautoc_{{=t[2]}}">{{pass}}<a href="javascript:void(0)" title="show all letters with this keyword" onclick="submititem('keyword','auto','{{=t[2]}}')">{{=t[2]}}</a></p>{{pass}}
+						</td>
+						<td width="50%">
+                            <input type="hidden" name="chosenitem">
+                            <input type="hidden" name="chosentype">
+                            <input type="hidden" name="chosensubtype">
+                {{for t in topics:
+                    words = topicwords[str(t[2])]
+                    topic1rep = '''<a href="javascript:void(0)" title="show all letters with this topic" onclick="submititem('topic','auto',%s)">''' % (t[2])
+                    topic1rep += " - ".join(map(lambda x:"<span class='topicautoword"+str(x[3])+"' title='"+str(x[1])+"'>"+str(x[0])+"</span>", words[0:3]))
+                    topic1rep += '</a>'}}
+                    {{if len(words) > 3:
+                        topic2rep = " - ".join(map(lambda x:"<span class='topicautoword"+str(x[3])+"' title='"+str(x[1])+"'>"+str(x[0])+"</span>", words[3:]))
+                        topic1rep += '''
+            <a id="ctlm%(tid)s" href="javascript:void(0)" onclick="showmore(%(tid)s,1)" style="display: inline;">+++</a>
+            <span id="extra%(tid)s" style="display: none;">%(t2r)s</span>
+            <a id="ctll%(tid)s" href="javascript:void(0)" onclick="showmore(%(tid)s,0)" style="display: none;">---</a>
+                        ''' % {'tid':t[2], 't2r': topic2rep} }}
+                    {{pass}}
+                    <p class="topicauto topicautolist topicauto{{=topicclass[str(t[2])]}} showb" title="by: {{=t[1]}}">{{if lid != None:}}<input type="checkbox" onclick="highlightchanged(this,'topic','auto','{{=t[2]}}')" id="topicautoc_{{=t[2]}}">
+                        <span class="tw">{{='%.0f' % (float(t[3]) * 100)}}</span>{{pass}}
+                        {{=XML(topic1rep)}}
+                    </p>{{pass}}
+						</td>
+					</tr>
+				</table>
+			</div>
+        </td>
+        <td width="50%">
+            {{if lid == None:}}
+                {{if chosenitem == None:
+                    lsetrep = '(all)'
+                else:
+                    chosenitemrep = chosenitem}}
+                    {{if chosentype == 'topic':
+                        chosenitemrep = " - ".join(map(lambda x:str(x[0]), topicwords[chosenitem][0:3]))}}{{pass}}
+                    {{lsetrep = '(having '+chosentype+' '+chosensubtype+' '+chosenitemrep+')'
+                }}{{pass}}
+                <h1 class="columntitle">Letters {{=lsetrep}}
+                {{if chosenitem != None:}}
+                ({{=A('show all',_href=URL('index'))}}){{pass}}
+                (e.g.
+                    <a href="{{=URL('default','index/2989')}}">2793</a>,
+                    <a href="{{=URL('default','index/1235')}}">1039</a>,
+                    <a href="{{=URL('default','index/394')}}">0198</a>,
+                    <a href="{{=URL('default','index/479')}}">0283</a>
+                )
+                </h1>
+			    <div class="scroll">
+                    {{=letters}}
+			    </div>
+            {{else:}}
+            <h1 class="columntitle">Letter
+                {{=head['id']}} ({{=head['lang']}})
+                {{=head['sender']}} to {{=head['recipient']}}
+                on {{=head['date']}}
+                 ({{=A('show all',_href=URL('index'))}})
+            </h1> 
+			<div class="scroll" id="bodyc">
+                {{=text}}
+			</div>
+            {{pass}}
+        </td>
+    </tr>
+</table>
+<script type='text/javascript'>
+
+function itemcontrol(kind,type,state) {
+	if (state) {
+        document.getElementById(kind+type+'ton').style.display = 'none'
+        document.getElementById(kind+type+'toff').style.display = 'inline'
+        document.getElementById(kind+type+'con').style.display = 'inline'
+        document.getElementById(kind+type+'coff').style.display = 'inline'
+		$("p."+kind+type+"list").each(function() {
+			$(this).addClass('showb')
+			$(this).removeClass('hide')
+		})
+	}
+	else {
+        document.getElementById(kind+type+'ton').style.display = 'inline'
+        document.getElementById(kind+type+'toff').style.display = 'none'
+        document.getElementById(kind+type+'con').style.display = 'none'
+        document.getElementById(kind+type+'coff').style.display = 'none'
+		$("p."+kind+type+"list").each(function() {
+			$(this).removeClass('showb')
+			$(this).addClass('hide')
+		})
+	}
+	if (state) {
+		rehighlight(kind,type)
+	}
+	else {
+		highlight(kind,type,false,'')
+	}
+}
+
+</script>
+
+<script type='text/javascript'>
+	chighlight('keyword','manual',false)
+	chighlight('keyword','auto',false)
+	chighlight('topic','auto',true)
+</script>
+</form>
+</div>

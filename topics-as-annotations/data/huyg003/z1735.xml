@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1735"/>
+<meta type="date" value="1669-05-10"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1735">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 10. May 1669.</p>
+<p>Monsieur,</p>
+</div>
+<p>Bien qu'il n'y ait que huit iours<note n="#1"/>, que i'interrompis vos meilleures occupations par vn gros pacquet, ie ne peux pourtant pas m'empescher de faire si promptement suivre celle-cy, pour vous communiquer vne particularité, qui fut présentée l'autre iour<note n="#2"/> à la Societé Royale par Monsieur Hook, asscavoir une nouuelle maniere de faire aller vn pendule avec vn grand poids par fort peu de force. Exempli gratia. Un pendule d'environ 14. pieds long, auec vn poids de 2 livres, et meu par la force seule d'un horologe de poche á 4 rouës, faisant des vibrations d'un demy pouce ou moins, ira l'espace de 14. mois, servant pour faire aller les horologes plus aisement, et les vibrations plus egalement. Ce qu'on pratiquera de 2, ou 3. diverses facons; dont Monsieur du Hamel, estant present, vit deux, faisant estat de vous en mander<note n="#3"/> le detail. S'il ne l'a pas fait, ie vous en pourray dire plus de nouuelles cy-apres; cependant vous y songerez, et m'en direz vos pensees, qui suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné serviteur
+<lb/><persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+<p>Nous serons tresaise d'entendre des nouuelles de ce que fait Signor Cassini, du merite duquel nous faisons icy grand cas, estants bien aise qu'il est astheure<note n="#4"/> dans nostre voisinage.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>dans la Bibliotheque du roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0749a"/>
+<meta type="date" value="1660-04"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="dati010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0749">
+<div type="opener">
+<p>Viro Clarissimo <persName key="dati010">Carolo Dato</persName> <persName key="hein009">Nicolavs Heinsivs</persName> S.P.D.</p>
+</div>
+<p>Exaratis hisce, quas nunc mitto, ad Te literis, cum ad tabellarium, cui tradendae erant, me contulissem, eum iam ad vos profectum invitus didici.
+Dum itaque epistola in dies nonnullos proximos apud me moratur, pagellam Apollonii Goliani<note n="#2"/> inter chartas meas oberrantem inveni.
+Eam nunc una accipies, cum literis ad Illustrissimum Carolum Antonium Puteanum &amp; Emericum Bigotium a me exaratis, de quibus recte curandis Tibi rem commendo.
+Convenit me diebus proximis elapsis Christianus Hugenius, &amp; narravit accepisse se Lutetia literas<note n="#3"/>, quae inventum Horologii a se editi Galilaeo vestro vindicarent, sancte testatus eius rei cum ignarissimis ignarum se fuisse.
+Quod si ita res se habet, ea, qua par est ingenuitate puto agnoscet, &amp; profitebitur huius inventi gloriam primo Galilaeo deberi.
+Tu, quid eius rei sit, me velim doceas. Ille asseverat nonnulla se nuper addidisse priori invento, per quae motus horologii emendetur, &amp; longe certior reddatur<note n="#4"/>.
+Elzevirium impellere non desino de permutandis Codicum Arabicorum exemplaribus, sed is frigide semper &amp; ieiune respondet.
+Videbo an praesens apud praesentem plus possit proficere. Vale, decus nostrum.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitum</placeName> <date>MDCLXII. a.d. XVI. Januarii</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

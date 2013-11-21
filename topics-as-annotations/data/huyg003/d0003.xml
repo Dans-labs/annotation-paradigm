@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0003d"/>
+<meta type="date" value="1644-04-16"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="zutph001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="d0003">
+<div type="opener">
+<p>Perillustri domino meo S.P.D.</p>
+<p>Per illustris domine,</p>
+</div>
+<p>Exspectas, quantum audio, ut res typographicae<note n="#1"/> procedant. versu dicam de versibus,</p>
+<p>Excepto quod non simul adsis omnia rectè!</p>
+<p>nam et Cento Elzevirianus sarcinator optimus optimè optimo optimam operam locans, diligenter quotidie transmittit suas Probas (utamur sanè cum Baudio<note n="#2"/> hac voce non probâ) et nos tres clerici revisores, Constantinus, Christianus, Bruno, aut si mavis,</p>
+<p>Eupolis atque Cratinus Aristophanesque Poëtae,</p>
+<p>strenuè tradimus operas mutuas. Sed tu, nobilissime virorum, semel atque iterum desideratus es deus è machinâ, quod dignus te vindice nodus incideret ex quantitate syllabarum. quas ego, per absentiam tuam, et pro authoritate quam mihi discedens dedisti, et pro meâ sapientiâ, ut captus est servorum, restituere sum conatus.</p>
+<p>Hodie alteram probam libri sexti exspectamus. Quid aliud scribam, nescio</p>
+<div type="closer">
+<p>Perillustris Domine
+<lb/>Tuus omni obsequio Servus
+<lb/><persName key="brun004">Henricus Bruno</persName>.</p>
+<p>Raptissime. <placeName key="denha004">Hagae Com.</placeName>
+<lb/><date>XVI April: CIƆIƆCXLIV</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg001">van Zuijlichem</persName> etc.
+<lb/>tot Zutphen.<note n="#3"/></p>
+</div>
+</body>
+</text>
+</TEI>

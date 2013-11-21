@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0743"/>
+<meta type="date" value="1660-04-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0743">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Bedancken voor de geluckwensching. Syn reys naer Danzic. Hevelius souten in ☿. Cocceus Systema. Ick naer Parys. De aequatione temporis<note n="#1"/>.</p>
+</div>
+<div type="opener">
+<p><persName key="boul014">Bouillaut</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>22 Avril 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Hier au matin je receus la vostre par la quelle vous me faites l'honneur et a nos nouveaux mariez de vous conjouir avec nous sur le subject de cette alliance. Je leur en ay fait rapport aussi tost, estant ce jour le lendemain des nopces, et ils m'ont priè de joindre icy leur treshumbles remerciments avec les miens, que je vous fais de tout mon coeur.</p>
+<p>Monsieur de Thou et Monsieur d'Hauterive<note n="#2"/> ont honoré la feste de leur presence, et ont eu assez de complaisance pour assister une partie de la nuict aux rejouissances de nous autres jeunes gens. Je regrette un peu le temps que j'ay perdu pendant quelques jours a ces folies solennelles, et vous demande pardon de ne vous avoir plustost respondu sur ce que vous avez pris la peine de m'escrire touchant notre question<note n="#3"/>. Je puis dire que j'entens à cest heure clairement vostre opinion la dessus, ce qui me fait esperer que je vous feray bien aussi comprendre ce que j'y trouve a redire. mais ce sera de bouche, s'il vous plait, puis que j'auray bientost l'honneur de vous veoir ou icy ou à Paris. Car j'ay dessein d'y venir cet estè avec Messieurs nos Ambassadeurs<note n="#4"/>, que l'on envoye pour feliciter<note n="#5"/> le Roy et vous
+Monsieur a ce que j'apprens allez entreprendre le voyage de Pologne et vous passerez par ce païs icy. Je croy que nous ne partirons que vers la fin de May<note n="#6"/>; dites moy je vous prie si vous irez plustost<note n="#7"/>. Monsieur Hevelius ne vous aura pas peu d'obligation de ce que vous venez de si loin pour le visiter, et sans doute aussi vous aurez beaucoup de satisfaction d'entretenir une personne de son merite et sçavoir. Je voy que vous le comparez mesme à Tycho et à Hipparche, en quoy je ne scay si vous ne leur faites quelque tort, car au moins quant a la science d'astronomie il leur cede de beaucoup. Je vous diray mes raisons aliàs. Maintenant je vous feray seulement remarquer ce qu'il dit avoir observè touchant les phases de ☿ en sa selenographie en la planche K<note n="#8"/> ou la partie illuminée de la planete decroit aux observations matutines et croist aux vespertines<note n="#9"/>, l'un et l'autre contre l'hypothese de <persName>Copernicus</persName>, que <persName>Hevelius</persName> admet, ou mesme contre celle de Tycho. Cecy deroge en mesme temps à la fidelitè de ses observations, comme aussi la phase de ♂, lequel il assure avoir vu un peu moins que <hi rend="i">διχότομος</hi><note n="#10"/>, ce qui ne peut estre aucunement.
+J'advoue que je n'avois point remarquè ces erreurs, mais un certain <persName key="cocc005">Coccaeus</persName><note n="#11"/> de Haerlem a fait que j'y ay pris garde. lequel sur ce seul fondement des fausses observations de Hevelius, les quelles il prend pour tres veritables, a basti toute une nouvelle hypothese de systeme, la plus absurde que vous ayez jamais veüe. Son livre<note n="#12"/> qu'il en a escrit est imprimè et il me tarde fort que vous le voyez pour en rire.</p>
+<p>J'ay veu le traitè de Maximis et Minimis<note n="#13"/> de Viviani de Florence, que l'on a
+envoyè à Monsieur Heinsius, au quel il ne me semble pas qu'il y ait de fort grandes subtilitez. Je voudrois bien en scavoir vostre jugement et celuy de vos geometres. Je suis sans reserve</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant serviteur</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

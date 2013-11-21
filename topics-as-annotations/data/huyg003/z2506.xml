@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2506"/>
+<meta type="date" value="1687-12-14"/>
+<meta type="sender" value="lann032"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2506">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Si je ne me suis pas donné l'honneur de vous écrire depuis que vous estes retourné en hollande, ce n'a eté que la crainte de vous estre importun qui m'en a empesché. J'ai souuent demendé de vos nouuelles a mr. <persName>perrault</persName> auec qui vous estes en commerce de lettres et il m'a méme assuré qu'il vous auoit quelquefois fait mes complimens; Il m'est temoin que tandis qu'un petit raion de faueur que j'ai eu aupres de mr. <persName>de louuois</persName> a duré j'ai fait tout ce qui dependoit de moi pour l'engager à vous prier de reuenir en france. Je luy ai souuent exposé que vous faisies tout l'honneur de notre Academie et si je n'auois été trauersé par vn de ses comis nommé la chapelle<note n="#2"/> vous eussies receu des marques du desir que j'auois de vous rendre seruice. Comme les bons coeurs connoissent la valleur des bonnes intentions j'espere que vous aures egard aux miennes et qu'elles vous feront au moins connoitre la veneration que J'ai pour votre merite.</p>
+<p>J'eusse pris d'abort la liberté de vous communiquer ce petit ecrit que mr. <persName>leers</persName><note n="#3"/> vous doit remettre entre les mains si j'eusse osé le croire digne de vous, vne personne de mes amis s'etoit chargé de l'enuoier en hollande pour le faire mettre dans le Journal de mr. <persName>baile</persName><note n="#4"/> mais jl a esté trouué trop long et ceux qui l'ont lû n'y ont rien compris. Cepandant monsieur si vous prenés la peine de la lire vous verres qu'il ne contient rien que de tres intelligible à vn mediocre Algebriste; Jose meme presumer que vous y trouueres des choses nouuelles;</p>
+<p>personne n'auoit ce me semble remarqué auant moy qu'en transformant vne egalité quelquonque par le moien d'une de ces racines il s'euanouissoit autant de termes dans l'égalité à commencer par le dernier qu'il y auoit de racines egales c'est a dire que l'égalité descendoit d'autant de degrés qu'il y auoit de racines egales dans l'égalité et que quand toutes les racines etoient egales il ne restoit que le premier terme de l'équation. on n'auoit point aussi remarqué que dans vne egalité deux racines étant egales entr'elles et que leur somme soit egale à la
+somme de deux autres inegales entr'elles si l'on transforme cette egalité par le moien d'une des racines egales, il s'euanouiroit trois termes dans lequation; on n'auoit point non plus fait attention à ce que j'ai remarqué de particulier pour le cinquiéme et le sixiéme degré. J'espere que ma methode de resoudre les equations, sur tout celles qui ont des racines rationelles vous paroitra plus simple que celle de monsieur <persName key="desc004">descartes</persName><note n="#5"/>, et qu'aucune autre, puisque je resous par cette voie les equations sans me seruir de la diuision, et que d'ailleurs ma methode a cet auantage que quand il se trouue des racines egales dans l'équation je la fais descendre par vne seule operation d'autant de degres qu'il y a de Racines egales ce qui n'arriue point par la diuision qu'il faut reiterer autant de fois qu'il y a de degrés dans l'équation, ni par la progession dont mr. <persName key="hudd002">hudde</persName> se sert pour resoudre les equations dans lesquelles il y a des racines egales<note n="#6"/> puisqu'il repete autant de fois la multiplication qu'il y a de racines egales dans l'égalité.</p>
+<p>Je ne prens pas garde monsieur que j'abuse de votre tems et qu'insensiblement je repete dans cette lettre vn écrit que vous aues entre les mains, ce qu'il y a de bon ne vous échappera pas, mais il est bien difficile de l'empécher de louer ce qui a couté de la peine. Je souhaiterois que mon écrit fust imprimé tout entier tel qu'il est mais si mr. <persName>leers</persName> le trouue trop grand et qu'il le veille partager pour deux journaulx differens je vous prie monsieur d'auoir la bonté de luy faire vous méme le partage affin qu'il n'en interrompe pas le sens<note n="#7"/>.</p>
+<p>Je vous demende pardon monsieur de la liberté que je prens il m'a semblé que l'estime et la consideration que j'ai pour vous et l'amitié que vous m'aués temoignée me donnoit plus de droit qu'a vn autre de vous demender des graces. Si vous me faites l'honneur de repondre à cette lettre et qu'il vous arriue de me temoigner n'estre pas mecontant de mon écrit cela m'encouragera à vous faire voir vne autre methode que j'ai trouuée de resoudre toutes les equations en acheuant leurs puissances. J'ai fait aussi vn traité de l'origine des lignes courbes dans lequel je fais voir que quelques Theoremes tres simples et qui se demontrent par les six premiers liures d'euclide sont le fondement de toutes les proprietés des lignes courbes, et parconsequant que ces lignes sont tres geometriques, mais monsieur sans votre aprobation on n'oseroit hasarder de rien donner au public. Je voudrois meriter
+votre estime par quelqu'endroit par ce que je scai que cest le seul moien de conseruer votre amitié. Je suis monsieur votre tres humble et tres obeissant seruiteur l'abbé de lannion.</p>
+<div type="closer">
+<p>a <placeName key="parij001">paris</placeName> le 14<hi rend="sup">e</hi> decembre 1687.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

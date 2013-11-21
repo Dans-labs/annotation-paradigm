@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0719"/>
+<meta type="date" value="1660-02-13"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0719">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>13. Feurier 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay receu par cet ordinaire celle que vous m'auez faict l'honneur de m'escrire le 29<hi rend="sup">e</hi> du passé, par laquelle j'ay esté bien aise d'apprendre que vous auiez receu mon pacquet, dans lequel estoit l'horoscope que je vous ay enuoyé. Je vous remercie de ce que vous m'auez dit le nom de la personne &amp; son origine. Je vous rends graces aussi des bons offices que vous m'auez rendus, il faut attendre ce que sera cette personne la.</p>
+<p>Je croy que Monsieur Heuelius aura faict les mesmes plaintes a celluy qui luy a enuoyé vostre systeme de ♄, quil m'a faictes dans celle que je receus de luy le mois passé. Je suis tres fasché que la lettre que vous luy auez escrite &amp; les exemplaires que vous luy enuoijez &amp; a Monsieur Des Noyers soient perdus.</p>
+<p>J'ay retiré de Monsieur Angot<note n="#1"/> Libraire correspondant de Monsieur Elzeuir
+l'horologe que je vous prié de me faire faire, elle a le quadran des heures blanc, mais elle a vn defaut c'est depuis que je l'ay elle s'arreste &amp; ne se meut pas, j'ay peur qu'il n'y ayt eu quelque chose de gasté, &amp; je voudrois que le Sieur Hanet fust icy de retour, afin qu'il la mist en estat. Je vous prie de m'en mander le prix, Elle ne chemine que 28. heures ou 30. au plus, que vous m'auez autresfois estimee 120. Livres de vostre monnoie, qui font 144. Livres de la nostre. Le chassis a vn peu souffert &amp; il se trouue esclatté, mais c'est peu de chose pourueu que les roues n'ayent point pati.</p>
+<p>Vous aurez a present receu le modele<note n="#2"/> de l'horologe de Florence que Monsieur le Grand Duc a dans le vieil Palais de Medicis. Je souhaitte de scauoir au plustost ce que vous auez trouué de nouveau pour l'horologe.</p>
+<p>Pour ce qui est de l'equation des jours je ne croy pas que celle de Ptolemee puisse subsister, &amp; je croy que je l'ay monstré dans mon Astronomie. La mienne est fondee sur la demonstration, &amp; vous disant cela je consens que vous nayez point esgard a l'inegalité des reuolutions journalieres de la terre, &amp; je veux que vous les posiez egales; ce que peut estre sont elles, &amp; peut estre non.</p>
+<p>La Table qui est dans Mullerus page 130. Tabularum Frisicarum est selon l'Epoche &amp; la Methode de Ptolemee; vous scauez que le ☉ selon luy au premier de Thoth de l'an 1. de Nabonassar est au commencement des ♓. &amp; de ce midi du 1. de Thoth commence le temps moyen &amp; l'apparent ensemble, &amp; la difference des Ascensions droites des mouuemens moyen &amp; apparent faict l'equation des jours ciuils. Les Alphonsines<note n="#3"/> prenent vn autre terme, que le commencement des ♓, &amp; <persName>Copernic</persName> aussi. cest pourquoi les aequations sont differentes de celles de Ptolemee; mais qui pourtant sont fondees sur mesme principe &amp; mesme en est l'vsage. I'ay quelque chose a mediter la dessus, je ne scay pas encores si je reussiray. Je suis tres veritablement</p>
+<p>&nbsp;</p>
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

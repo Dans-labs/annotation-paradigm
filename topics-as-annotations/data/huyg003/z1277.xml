@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1277"/>
+<meta type="date" value="1664-11-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="thev001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1277">
+<div type="opener">
+<p>A <persName key="thev001">Thevenot</persName>.</p>
+<p>27 Novembre 1664.</p>
+</div>
+<p>Il semble qu'il attendoit la responce de Roberval sur les Isochrones, s'il la recoit qu'il me l'envoie. dans les Lettres<note n="#1"/> du Pere <persName key="mers004">Mersenne</persName> je n'ay trouvè que pour le secteur de cercle suspendu par le centre du cercle. Je me sers dune balle applattie mais le changement que j'ay apportè a l'ouvrage<note n="#2"/> est bien d'autre consideration quoy que non pas fort difficile a trouuer. De mes essais. De leurs experiences. A Auzout<note n="#3"/> de l'invention pour les verres avec le cercle<note n="#4"/>. Reponse de ce quil me mande de l'apparence d'un etablissement d'Academie, ce me sera beaucoup d'honneur d'en estre.</p>
+</div>
+</body>
+</text>
+</TEI>

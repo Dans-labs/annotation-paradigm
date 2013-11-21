@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0451"/>
+<meta type="date" value="1658-01-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0451">
+<div type="opener">
+<p><date>22 Jan. 1658</date>.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Postremis literis Tuis explicas tandem quo pacto in lineam tuam pyriformem primum uicideris, quae pulcherrimam hactenus materiam exercendi calculi nobis suffecit. Sed hoc omnium maxime admirabilè quod tam diu falsa specie nos illudere potuit. Certus sum te quod mihi quaerendum proponis jam invenisse. nihil videlicet aliud esse curvam hanc, quam ipsam parabolam cubicam. Sive potius
+duas dimidias ad verticem conjunctas et contrarias in partes tendentes. Sumpta
+<figure><graphic url="huyg003oeuv02ill67.gif"></graphic></figure>
+enim AC ∞ ⅓ AB diametro et ordinata applicata CD, erit D confinium flexus contrarij, et vertex utriusque parabolae cubicae, quarum altera DBF, altera DAG. ordinatim vero applicatae tangenti DS parallelae existunt. Ego quidem hoc non difficilè deprehendi rejecto termino secundo ex aequatione tua <hi rend="i">y</hi><hi rend="sup">3</hi> + <hi rend="i">ayy - aax</hi> ∞ 0, vel ex Huddeniana <hi rend="i">y</hi><hi rend="sup">3</hi> - 2 <hi rend="i">ayy</hi> + <hi rend="i">aay - aax</hi> ∞ 0. an autem eadem hic fuerit methodus tua scire percupio.</p>
+<p>Caeterum constat nunc et Huddenij curvam primam, parabolam esse cubicam<note n="#1"/>,
+<figure><graphic url="huyg003oeuv02ill68.gif"></graphic></figure>
+ideoque centrum gravitatis etiam in axe AE dari posse. quod antea an fieri posset dubitabamus.
+<persName key="hudd002">Huddenius</persName> quidem in ijs quas ad me dedit literis fatetur se sensisse tantum de spatio OAF, cujus exhibito centro gravitatis nos satisfacturos dicit. Quod si tam bene ipsi nota fuisset linea sua quam nobis nunc est, id quod primum proposuerat ut opinor exposcere non destitisset.</p>
+<p><figure><graphic url="huyg003oeuv02ill69.gif"></graphic></figure></p>
+<p>Rationem <hi rend="i">ἀπαγογὴς</hi> tuae nondum intelligo, Solidum vero conversione spatij AFB circa axem AB effectum ad cylindrum a rectangulo CB, nisi me calculus fallit, est ut 64 ad 135.</p>
+</div>
+</body>
+</text>
+</TEI>

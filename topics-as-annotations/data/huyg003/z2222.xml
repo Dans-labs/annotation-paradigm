@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2222"/>
+<meta type="date" value="1680"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2220"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2222">
+<p>Demonstration de Monsieur <persName key="hire005">De La Hire</persName>.</p>
+<p><figure><graphic url="huyg003oeuv08ill73.gif"></graphic></figure></p>
+<p>Par les 3 points F, A, B, qui sont communs a l'hyperbole et à la parabole soit descrit le cercle FMAB, qui rencontrera la <hi rend="i">parabole</hi><note n="#2"/><note n="#3"/> au mesme point E ou elle rencontre <hi rend="i">l</hi>'<hi rend="i">hyperbole</hi> ou bien qui la rencontrera en quelque autre point <hi rend="i">e</hi>. S'il la rencontre au point E, la propos. est evidente <hi rend="i">par ce qui a estè demontrè</hi><note n="#4"/> des rencontres de la parabole et du cercle: mais s'il la rencontre en quelqu'autre point <hi rend="i">e</hi>.</p>
+<p>Ayant menè AB, F<hi rend="i">e</hi>, qui se rencontrent en quelque point P, ces lignes seront antiparalleles à l'axe de la parabole, par ce qui a estè demontrè des rencontres de
+la parabole et du cercle. Mais puisque l'axe de la parabole est parallele à l'un de ceux de l'hyperbole ou de l'ellipse ces mesmes lignes seront antiparalleles a l'axe de l'hyperbole.</p>
+<p>C'est pourquoy si l'on mene deux touchantes à l'Ellipse a une hyperbole <hi rend="i">ou aux sections opposees</hi><note n="#5"/>, qui soient paralleles a ces deux lignes AB, F<hi rend="i">E</hi>, elles se rencontreront necessairement sur l'un des axes, puis qu'elles font des angles egaux avec luy, c'est pourquoy elles seront egales et leurs quarrez egaux entre eux.</p>
+<p>Mais a cause du cercle le rectangle AP, PB, est egal au rectangle <hi rend="i">E</hi>P, P<hi rend="i">e</hi>.</p>
+<p><note n="#6"/> S'il est possible, que la ligne F<hi rend="i">e</hi> rencontre l'hyperbole ou l'Ellipse en quelque autre point <hi rend="i">E</hi> que F: par la proprieté des sections coniques le rectangle AP, PB sera au rectangle <hi rend="i">E</hi>P, PF, comme les quarrez des touchantes qui sont paralleles à AB et à F<hi rend="i">e</hi>. les quelles sont egales comme il a estè demontrè cy dessus. donc le rectangle AP, PB sera egal au rectangle <hi rend="i">E</hi>P, PF, il seroit donc possible de descrire un cercle ABF<hi rend="i">E</hi><note n="#7"/> different<note n="#8"/> du cercle AB<hi rend="i">e</hi>F ce qui est absurd, car ils auroient chacun les trois points ABF communs.</p>
+<p>Il faut donc necessairement que le cercle FMAB rencontre l'Ellipse ou l'hyperbole au mesme point E ou la rencontre la parabole, et par les proprietez des rencontres de la parabole et du cercle la proposition est evidente.</p>
+</div>
+</body>
+</text>
+</TEI>

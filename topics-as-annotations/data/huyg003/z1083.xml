@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1083"/>
+<meta type="date" value="1662-12-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1083">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 20 Decembre 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne veux pas laisser partir Monsieur Brus sans le charger de cet biliet pour vous outre le pacquet de livres que je l'ay priè de vous faire tenir. J'y ay mis le Mercurius in sole<note n="#1"/> de Hevelius parce que vous m'avez escrit que vous ne l'aviez pas encore vu. De plus 2 exemplaires de mon traictè de Circuli magnitudine<note n="#2"/>, desquels je souhaite que Monsieur <persName key="hobb001">Hobbes</persName> puisse avoir l'un, a fin qu'il y voie le Theoreme dont il parle dans sa <hi rend="i">defensio Geometricorum T.H. contra C.H.</hi><note n="#3"/> et le quel il semble ne pas croire que j'aye demonstrée. Vous verrez au reste ce que j'ay respondu au dit escrit si vous prenez la peine de lire la feuille cy jointe<note n="#4"/>. Vous pourez apres si vous le trouuez a propos l'envoier au libraire<note n="#5"/> de Monsieur <persName key="hobb001">Hobbes</persName> ou la luy faire tenir par quelqu'autre voie.</p>
+<p>Monsieur Brus porte avec luy ses deux horologes pour les Longitudes, et vous dira ou nous en sommes avec cette invention. Je n'en veux encore rien determiner, car je trouue que l'esperance que j'en ay croist tantost et tantost diminue selon que par mes observations je trouue plus grande ou moindre justesse dans les horologes. J'eusse souhaitè d'avoir eu plus de loisir pour les essaier icy dans ma chambre n'y aiant encore qu'un jour seulement qu'ils sont tous deux en estat, qui n'est pas assez pour les mettre bien ensemble. J'attendray pourtant auec impatience comment ils se seront comportez sur mer, de quoy Monsieur Brus m'a promis qu'il m'advertiroit. Je luy souhaite un heureux voyage et pourtant la mer un peu agitee a fin que l'experience soit d'autant plus considerable. Il vous dira mieux que je ne puis combien je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur
+<lb/><persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

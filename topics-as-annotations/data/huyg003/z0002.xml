@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0002"/>
+<meta type="date" value="1640-07-18"/>
+<meta type="sender" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="brun004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0002">
+<p>Ad Brunonem</p>
+<lg type="poem">
+<l>cum hoc distichon composuisset in Christianum:</l>
+<l>A capite ad calcem circumflua pluma pavonis</l>
+<l>A capite ad calcem te probat esse levem.</l>
+</lg>
+<p><date>18 julii</date>.</p>
+<lg lang="la" type="poem">
+<l>Distichon hoc stultum, crasso natumque cerebro</l>
+<l>Te a capite ad calcem mente carere probat.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

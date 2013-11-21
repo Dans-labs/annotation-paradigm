@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0628"/>
+<meta type="date" value="1659-06-13"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0628">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Amo <persName>Brunetti</persName> nostri errorem, dicam, an potius artificium? Scripseram ad ipsum, cum me de tuâ valetudine certiorem fecisset, diu esse ex quo nihil a Te litterarum acceperam; ille vero de tribus a me scriptis scrupulum Tibj iniecit, credo ut tuas eliceret, quibus scit me mirifice delectarj, nouit enim quantj magno tuo merito Te faciam. Meminj tamen vnicam<note n="#1"/> scripsisse me, ad quam responsum non accepj, sed nec etiam expectauj, tum quod in illâ nihil esse crederem cuj deberetur, tum quod Te alijs occupatum non ignorarem. Accidit interim vt Detonuillij liber<note n="#2"/> mihi redderetur, idque a paucis omnino septimanis (haeserat enim Sedanj per mensem) in quo communem mihi Tecum <hi rend="i">προσϕωνήσεως</hi> honorem<note n="#3"/>, praeter omnem expectationem agnouj. Integrum hactenus euoluere non licuit, liberiorem enim a negotijs animum requirit quam nunc adferre possim; Ea tamen quae vidi, pulchra, ingeniosa, subtilia, censeo, et quibus promotam esse Geometriam negari non possit. Ab <hi rend="i">ἀϰριβείᾳ ϰαὶ σαϕηνείᾳ</hi> in demonstrationibus alicubj deflexisse videtur, sed voluit, vt existimo, summa sequi fastigia rerum, methodum suam indicasse contentus. In similes olim cogitationes incidj occasione
+propositionis quam <persName key="torr901">Torricellius</persName> inuenit, et quam fortasse considerauit Dettonuillius, editam enim inter Caualerij Exercitationes<note n="#4"/> in Italiâ vidj. Est enim huiusmodj. Esto Cylindricus quilibet rectus cuius bases parallelae sint AGH, DEF, vnius basium axis AB, centrum
+<figure><graphic url="huyg003oeuv02ill146.gif"></graphic></figure>
+C. Sectus intelligatur plano transeunte per EF et A &amp;c. Ostendit <persName key="torr901">Torricellius</persName>, ita se habere vngulam ADE, ad reliquum solidum AEH, vt BC, ad CA. Eam ego propositionem ad superficies olim extenderam, Dettonuillius vero ad <hi rend="i">ὑπερςερεὰ εἰς ἄπειρον</hi> feliciter promouit, indeque consequentiam etiam illam, quam in tuis tangis, deduxit; cuius si demonstrationem facilem habes, non dubito quin alia quoque planiora reddere possis. Comparationem lineae spiralis cum Parabolicâ nondum attigeram, a Te autem admonitus statim considerauj Theorema vltimum, in quo demonstrationem reperj a constructione alienam: cum in hac tam figuras circumscriptas inter se, quam inscriptas differre supponat lineâ minori ipsâ Z, in illâ vero progrediatur perinde ac si circumscripta a suâ inscriptâ, eâdem quantitate differret. Vbj etiam Corollarium citat, vt probet id de quo non agit, et quod in ipsâ constructione imperatur. Haec inter <hi rend="i">σϕάλματα</hi> Typographi recenserj debeant necne, et an Demonstrationis veritas inde vacillet, non definio. retexere enim integram deberem quod nunc non vacat. arbitror autem eo te respexisse cum ej aliquid humanitus contigisse scripsistj. Theoremata tua, tam circa conoidum superficies, quam lineae parabolicae et quadraturae Hyperbolae connexionem, hactenus non vidj. Aliquot enim menses sunt ex quo nihil litterarum e Galliâ praeter Brunettj nostrj nuperrimas, accepi. Rem itaque gratissimam facies, sj eorum me participem esse volueris. Aliqua etiam a me profecta innuit Dettonuillius, quae si tanti esse putaueris. libens transmittam; sed arbitror iam tibj innotuisse. Mesolabum<note n="#5"/> meum hic sub praelo est, eiusdemque iam bina folia recensuj, quae pars sunt non contemnenda tantillj operis. Cum enim Typographi Louanienses moras necterent, et Clarissimum Gutiscovium scirem alijs curis implicatum (nuper enim ad Professionem Anatomes<note n="#6"/> vocatus est) noluj viro optimo negotium exhibere. Edetur itaque apud nos sinon eo cultu quo Louanij vel alibj potuisset, maiore saltem quam fortasse mereatur. Si quam igitur occasionem habes, quâ ad Te aliquot exemplaria transmittam, quaeso vt me certiorem facias; sin minus Buscoducensium aurigarum operâ vtemur. Saturnum tuum lento pede progredi ab eius moribus alienum non est, presertim cum ijs a te compedibus vinctus sit, quibus se nunquam, vt auguror, expediet. Vale Vir praestantissime, meque ut facis, ama</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>13 Junij 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

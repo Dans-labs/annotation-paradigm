@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2555"/>
+<meta type="date" value="1689-12-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2555">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>23 Dec. 1689</date>.</p>
+</div>
+<p>Il y a bien 2 mois à ce qu'il me semble, que je vous ay mandè que le Sr. <persName key="leeu027">Leeuwenhoeck</persName> vous avoit adressè quelques exemplaires de ses observations microscopiques<note n="#1"/>, parmi lesquels il y en avoit un pour la Reine et un pour vous. Cependant il n'est venu aucune nouvelle que vous aiez receu ce pacquet, dont ce bon homme est fort mortifiè. Je vous prie donc de me faire scavoir ce qui en est quand ce ne seroit que par quelque mot en escrivant a madame vostre <seg org="semme" resp="#AD" type="corr">femme</seg>.</p>
+<p>Je ne vous dis plus rien touchant ma sollicitation ne voyant pas qu'il y ait rien a faire tant que S. M.<hi rend="sup">è</hi> sera d'avis de ne point remplir la place vacante. On me dit pourtant dernierement qu'un Mr. <persName>Hoeuft</persName>, parent de Mr. <persName>d'Oyen</persName><note n="#2"/>, la demandoit pour luy, dont peut estre vous aurez ouy parler. Mons. <persName>d'Ablancourt</persName><note n="#3"/> vient de me dire, que Mr. <persName key="just013">Justel</persName> a estè fait Bibliothequaire du Roy<note n="#4"/>, avec d'assez bons appointements. Quelque chose de cette nature seroit bien mon fait, et je l'aimerois autant en Angleterre qu'icy, si vous estiez pour y rester, de quoy je commence a douter croiant que peut estre vous vous accoutumeriez a cette maniere de vie. Je suis logè a la Haye depuis 5 semaines au Noordende, derriere la maison de Mr. <persName>van Buttinghe</persName><note n="#5"/>, un peu etroitement mais assez bien au reste. J'ay preferè cela a la solitude trop melancholique de Hofwijck au milieu de l'hyver. J'ai presque achevè l'edition des Traitez de la Lumière et de la Pesanteur dont je vous envoieray des exemplaires. Le Grand dictionnaire de Furetiere<note n="#6"/> se vend desia
+et je l'ay vu chez le frere de St. Annelandt qui en est tres content. S'il y a quelque chose de nouveau par de la en ces matieres vous me ferez grand plaisir de m'en avertir. J'ay receu les Ephemerides de Mr. <persName key="flam009">Flamsted</persName><note n="#7"/> pour les satellites de Jupiter, que je crois qu'il vous aura envoiées pour moy. Elles pourroient servir a des observations tres utiles, mais ou sont les gens icy pour les faire? J'en parle assez souvent a nos Professeurs de Leiden, mais aussi bien icy que la ou vous estes, il y a grand refroidissement pour toutes ces belles choses.</p>
+<p>J'ay tant prechè madame vostre Espouse, qu'a la fin elle a fait attacher le grand mast<note n="#8"/> aux arbres du voisinage pour l'assurer contre le vent de Nord West. Cela paroit si peu qu'on ne le voit pas qu'en y prenant garde expres.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zuylichem</persName>
+<lb/>Secretaris van Sijn Koninglijcke Majesteyt van Engelandt
+<lb/>Tot Londen.</p>
+</div>
+</body>
+</text>
+</TEI>

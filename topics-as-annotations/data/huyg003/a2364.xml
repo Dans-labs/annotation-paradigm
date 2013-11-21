@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2364a"/>
+<meta type="date" value="1684-09-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vege004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a2364">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce premier Sept. 1684.</p>
+<p>Monsieur</p>
+</div>
+<p>Je prens la libertè de vous envoier ce pacquet pour Monsieur <persName key="full003">Fullenius</persName>, vous suppliant de le luy faire tenir surement. J'y ay mis entre autres une feuille imprimee qui doit estre mise a la place de celle qui est au commencement de mon Astroscopia<note n="#2"/> dans l'exemplaire que je luy ay envoiè cydevant. Et j'adjoute une pareille feuille pour faire le mesme supplement dans vostre exemplaire. Je vous suis tres obligè Monsieur du sentiment avantageux qu'il vous a plu me tesmoigner pour ce petit Traitè et je souhaite fort qu'un jour je vous puisse faire voir l'effect de l'invention que j'y propose. Pour ce qui est de vous faire avoir des instrumens semblables a ceux que j'y emploie il m'a semblè qu'ils ne vous pourroient servir de rien, n'ayant pas la principale piece qui est le grand verre objectif. Et en tout cas je crois qu'il seroit fort necessaire que vous vissiez auparavant la maniere de ces sortes d'observations. Je reçus hier les Poesies et descriptions composees a l'occasion de vos illustres Nopçes<note n="#3"/> dont vous avez eu la bontè de me faire part. Il paroit que cette feste s'est passée avec beaucoup de magnificence, et je ne doute pas qu'elle ne vous ait donnè assez d'occupation. Je ne sçay si vous n'aurez rien appris d'avantage du dessein de Mons. <persName>Freibergue</persName><note n="#4"/>. Ce qui m'empesche d'en attendre de grands effects, c'est que nous avons desia ces excellents principes de mouvement, sçavoir le vent, les eaux, les animaux, pour servir
+dans tous les besoins. Et il est malaisè de s'imaginer des occurrences ou son moteur seroit preferable a ceux la. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

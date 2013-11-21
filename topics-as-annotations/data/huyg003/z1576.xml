@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1576"/>
+<meta type="date" value="1667-02-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1576">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 11 Fevrier 1667.</p>
+</div>
+<p>Par ma precedente<note n="#2"/> je vous donnay avis que vostre lettre esgaree avec l'enclose pour les 80 escus m'estoit rendue. J'en ay receu l'argent depuis.</p>
+<p>Les particularitez touchant les affaires du Sieur d'O.<note n="#3"/> n'y estoient point, et quand vous me les auriez mandees il n'en seroit arrivè nul inconvenient. En omettant les noms je crois que vous me pourriez faire part de ces avantures sans rien apprehender, et je vous le recommande derechef.</p>
+<p>Je vous remercie de l'histoire de la pierre philosophale<note n="#4"/> sans pourtant y adjouter une foy entiere, par ce que je cognois ce petit docteur<note n="#5"/> et scay qu'il n'est pas autheur fort authentique. Vous jugerez mieux de la veritè de la chose quand vous l'aurez entendu luy mesme. Il ne me semble gueres vraisemblable que le menniste eust voulu advouer a un homme, qu'il ne connoissoit pas autrement, qu'il eust cette grande science, et qui ne peut estre possedée sans danger si non estant tenue secrette. C'est ce que dirent aussi nos messieurs les chimistes<note n="#6"/> quand je leur communiquay cette histoire.</p>
+<p>J'ay donnè ordre pour la perruque que demande le frere de Moggershil<note n="#7"/> et qu'elle fust un peu plus blonde que la vostre.</p>
+<p>Mon Pere m'escrit<note n="#8"/> par vostre suggestion ou celle du frere de Zeelhem<note n="#9"/> touchant le payement de Severyn<note n="#10"/> l'horologer de la pendule<note n="#11"/> que je luy ay fait faire pour Monsieur Morray. Il y a un peu de ma faute, je l'avoue, de ce que je n'ay pas insistè assez pour ledit paiement. mais j'auray soin qu'il n'y perde rien et vous pouvez luy dire que je luy feray avoir son argent ou que je luy paieray moy mesme. adieu.</p>
+<p>Qu'estce que le frere de Zeelhem juge des lunettes Campanines?<note n="#12"/> est il d'accord que les nostres a miroir ne font pas lire de plus loin comme il Signor Padre me l'a assurè<note n="#13"/>.</p>
+<p>Voicy encore un mot de lettre<note n="#14"/> pour le docteur Extravagant<note n="#15"/> et ce sera peut estre pour la derniere fois car il ne me paye jusqu'icy que de galimatias et de visions.</p>
+</div>
+<div type="para">
+<p>Pour le frere Louis.</p>
+</div>
+</body>
+</text>
+</TEI>

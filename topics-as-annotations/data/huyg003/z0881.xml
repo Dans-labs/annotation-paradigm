@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0881"/>
+<meta type="date" value="1661-08-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0881">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>1 d'Aoust 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Ensin est arrivè icy Monsieur Oldenbourg et m'a donnè vostre lettre du 13 Juin<note n="#1"/>. Il vient de Bremen et a estè veoir aussi nos villes d'Amsterdam et de Leiden, ou il a parlè a quelques Philosophes que je ne connois encore que de nom. Entre autres a ce Borri<note n="#2"/>, avec qui il a eu longue conversation, dont il m'a racontè plusieurs particularitez. Il porte de la part de ce grand Lulliste<note n="#3"/> une lettre à Monsieur Digby, ou il y a un morceau de son lignum incombustibile, du quel, apres que dans vostre assemblee l'on aura fait l'experience, je desire fort de scavoir ce que l'on en jugera. L'histoire des cerevisses<note n="#4"/> dont Monsieur Oldenbourg m'a fait part est admirable mais j'avoue que j'ay de la peine a la croire. Il vaut la peine que vostre academie fasse un essay de cette reproduction, si tant y a que l'autheur l'affirme serieusement.</p>
+<p>S'il fait clair a ce soir j'ay promis de faire veoir a Monsieur Oldenbourg la lune par mon telescope, mais il y a peu d'apparence, et il part a ce qu'il dit demain. Il m'a monstrè une lettre de Monsieur Thevenot son ami et correspondant de Paris, ou il est parle d'une certaine nouuelle invention ou decouuerte<note n="#5"/> de grande importance sans expliquer ce que c'est. J'espere qu'elle vaudra autant qu'il fait juger par ses paroles.</p>
+<p>Je me suis occupè pendant quelques jours a estudier la musique, et la diuision du monochorde à la quelle j'ay appliquè heureusement l'algebre. J'ay aussi trouuè que les logarithmes y sont de grand usage, et de la je me suis mis a considerer ces merveilleux nombres et admirer l'industrie et la patience de ceux qui nous les ont donnez. Que si la peine n'en estoit desia prise, j'ay une regle<note n="#6"/> pour les trouuer avec beaucoup de facilitè, et non pas la vingtieme partie du trauail qu'ils ont coustè.</p>
+<p>Mais vous faites peu de compte de ces choses estant tout a fait dans l'estude de la physique. Faites moy scavoir je vous prie quel progres vous y faites et me croyez entierement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="huyg003">Chr. Hugens</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,197 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1448"/>
+<meta type="date" value="1665"/>
+<meta type="sender" value="hudd002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="1446"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1448">
+<p>Avantagies en Disavantagies van B<note n="#1"/>.</p>
+<p><table>
+<row>
+<cell><hi rend="i">x</hi></cell>
+<cell>Als A moet werpen sonder datter iet instaet</cell>
+<cell><hi rend="i">x</hi> ∞ <hi rend="i">z - x</hi>/2 3 <hi rend="i">x</hi> ∞ <hi rend="i">z</hi></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">z</hi></cell>
+<cell>Alser een Ducaet van A instaet en dat B moet werpen</cell>
+<cell><hi rend="i">z</hi> ∞ <hi rend="i">a - y</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">y</hi></cell>
+<cell>Alser een van A en een van B instaat, en dat A moet werpen</cell>
+<cell>- <hi rend="i">y</hi> ∞ <hi rend="i">z - a</hi> + <hi rend="i">q</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">q</hi></cell>
+<cell>Alser 2 van A instaen en een van B en dat B moet werpen</cell>
+<cell><hi rend="i">q</hi> ∞ - <hi rend="i">y</hi> + <hi rend="i">a - r</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">r</hi></cell>
+<cell>Alser 2 tegen 2 instaen en dat A moet werpen</cell>
+<cell>- <hi rend="i">r</hi> ∞ <hi rend="i">q - a</hi> + <hi rend="i">s</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">s</hi></cell>
+<cell>Alser 3 tegen 2 instaen en dat B moet werpen</cell>
+<cell><hi rend="i">s</hi> ∞ - <hi rend="i">r</hi> + <hi rend="i">a - t</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">t</hi></cell>
+<cell>Alser 3 tegen 3 instaen en dat A moet werpen</cell>
+<cell>- <hi rend="i">t</hi> ∞ <hi rend="i">s - a</hi> + <hi rend="i">v</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">v</hi></cell>
+<cell>Alser 4 tegen 3 instaen en dat B moet werpen</cell>
+<cell><hi rend="i">v</hi> ∞ - <hi rend="i">t</hi> + <hi rend="i">a - w</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">w</hi></cell>
+<cell>Alser 4 tegen 4 instaen en dat A moet werpen</cell>
+<cell>- <hi rend="i">w</hi> ∞ <hi rend="i">v - a</hi> + <hi rend="i">b</hi>/2 &amp;c.</cell>
+</row>
+</table></p>
+<div type="comment">
+<head rend="h4">Traduction</head>
+<p>Avantages et Désavantages de B<note n="#2"/>.</p>
+<p><table>
+<row>
+<cell><hi rend="i">x</hi></cell>
+<cell>Quand A doit jeter, sans que rien ait été mis</cell>
+<cell><hi rend="i">x</hi> ∞ <hi rend="i">z - x</hi>/2, 3 <hi rend="i">x</hi> ∞ <hi rend="i">z</hi></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">z</hi></cell>
+<cell>Quand un ducat a été mis par A et que B doit jeter</cell>
+<cell><hi rend="i">z</hi> ∞ <hi rend="i">a - y</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">y</hi></cell>
+<cell>Quand un ducat a été mis par A et un par B, et que A doit jeter</cell>
+<cell>- <hi rend="i">y</hi> ∞ <hi rend="i">z - a</hi> + <hi rend="i">q</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">q</hi></cell>
+<cell>Quand deux ducats ont été mis par A et un par B, et que B doit jeter</cell>
+<cell><hi rend="i">q</hi> ∞ - <hi rend="i">y</hi> + <hi rend="i">a - r</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">r</hi></cell>
+<cell>Quand 2 contre 2 ont été mis et que A doit jeter</cell>
+<cell>- <hi rend="i">r</hi> ∞ <hi rend="i">q - a</hi> + <hi rend="i">s</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">s</hi></cell>
+<cell>Quand 3 contre 2 ont été mis et que B doit jeter</cell>
+<cell><hi rend="i">s</hi> ∞ <hi rend="i">r</hi> + <hi rend="i">a - t</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">t</hi></cell>
+<cell>Quand 3 contre 3 ont été mis et que A doit jeter</cell>
+<cell>- <hi rend="i">t</hi> ∞ <hi rend="i">s - a</hi> + <hi rend="i">v</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">v</hi></cell>
+<cell>Quand 4 contre 3 ont été mis et que B doit jeter</cell>
+<cell><hi rend="i">v</hi> ∞ - <hi rend="i">t</hi> + <hi rend="i">a - w</hi>/2</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>- <hi rend="i">w</hi></cell>
+<cell>Quand 4 contre 4 ont été mis et que A doit jeter</cell>
+<cell>- <hi rend="i">w</hi> ∞ <hi rend="i">v - a</hi> + <hi rend="i">b</hi>/2, &amp;c.</cell>
+</row>
+</table></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0085a"/>
+<meta type="date" value="1650-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0085">
+<div type="opener">
+<p><persName key="huyg003">Christ. Hugenius</persName> <persName key="scho197">Fr. Schotenio</persName> S.D.</p>
+</div>
+<p>Modo redditae sunt mihi literae tuae; Moram tuam in <seg org="reseribendo" resp="#AD" type="corr">rescribendo</seg>, Clarissime Schoteni, minus prosperae valetudini imputare non dubitavi, donec me litterae tuae, errore simul et sollicitudine liberarunt; Plurimum itaque gavisus sum cum intellexi, nihil tibi praeter negotia impedimento fuisse. Gratum hoc quoque fuit, quod video tibi non displicuisse opusculum nostrum<note n="#1"/> quatenus inspectum est, neque dubia me spes tenet posteriores duos libros multo etiam magis placituros; quum et mihi caeteris praestare videantur. Quamvis enim propria inventa magni non faciam, tamen, quae caeteris minus mala sint, satis feliciter discerno.</p>
+<p>Methodum demonstrandi per indivisibilia posteaquam tibi eam probari video amplius non impugnabo; quanquam semper longe eam posthabiturus sum Archimedeis demonstrationibus, cum certitudine tum elegantia quoque; atque ita sum ut in Geometria minoris aliquanto aestimem inventa ipsa quam demonstrandi rationem evidentiamque. Verum de hisce alias pluribus agam, quum et forte Te in meam sententiam pertraham, nunc nihil tibi praeter salutem tuam commendo. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

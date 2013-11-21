@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2353"/>
+<meta type="date" value="1684-07-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="diere001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2353">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 23 Jul. 1684.</p>
+</div>
+<p>Voicy une lettre de Mr. <persName>Cock</persName><note n="#1"/>, que Mr. <persName>Talbot</persName> envoià hier. Et ayant ensuite estè chez luy sa femme me dit qu'on luy mandoit que la quaisse avec les verres devoit arriver dans fort peu de jours. Vous verrez que ce bon Mr. <persName>Cock</persName> nous fait paier assez cher ce verre, a 4 schilling la livre qui est plus si je ne me trompe que 4 francs. Et puis il demande encore 10 guinnis pour l'avoir arrondi et pour ses vacations. Nous delibererons ensemble touchant ce dernier article et verrons quelle sera la bontè de la matiere. Hier on me dit que Mr. le Prince seroit icy dans quelques jours, ce que je voudrois qu'il fust vray, a fin que vous pussiez estre a l'ouverture du balot. Ce seroit une belle chose que ce verre blanc dont il parle, mais nous verrons bientost s'il est a l'epreuve de l'humiditè, en mettant un morceau sur des charbons allumez.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zeelhem</persName> &amp;c.
+<lb/>Tot Dieren.</p>
+</div>
+</body>
+</text>
+</TEI>

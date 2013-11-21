@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2103"/>
+<meta type="date" value="1677-09-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="rome049"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2103">
+<div type="opener">
+<p>Clarissimo Viro N. <persName key="rome049">Romero</persName><note n="#1"/>. <persName key="huyg003">Christ. Hug.</persName> S.P.</p>
+<p>16 Spt. 1677.</p>
+</div>
+<p>Non nisi nuper admodum e diario Philosophico Londinensi<note n="#2"/> egregium illud inventum tuum didici, quo lucis celeritatem immensam ad mensuram revocare feliciter agressus es quod cum mihi quantivis pretii videatur non potui quin hisce
+literis optimum successum tibi gratularer, hortarerque una ut tantae rei confirmandae gratia cum primum commodum erit observationes omnes à tot jam annis collectas quaeque alia ad negotium hoc spectant in lucem emittas. Ego cum hisce diebus Cartesij argumentum illud<note n="#3"/> diligentius expenderem, quo lucem momento temporis indivisibili ferri ex lunae eclipsibus probare conatus est, incredibilem quidem celeritatem agnovi, quaeque ad minimum 30 terrae diametros quibus a nobis luna distat 10 scrupulis secundis conficeret. Tuae autem observationes, si, quod auguror, verae sunt, vix jam 3 scrupulis secundis opus erit ac ne quidem duobus si mecum 12000 diam. terrestribus distantiam solis aestimes, adeoque ex lunae eclipsibus nihil erat sperandum quo celeritatis ineffabilis mensura cognosceretur. Quo pluris profecto faciendum epicherema tuum, quod praeter id nulla via superesse videatur explorandae rei in omni philosophia scitu dignissimae. Cupio vero intelligere an prorsus tecum sentiant viri Clarissimi Cassinus et Picartus et quomodo ille theoriam suam comitum Jovialium novo huic invento accommodet. Caeterum quia in diario Londinensi nonnihil a mente tua aberrasse interpres videtur, vellem ut pagellam e diario vestro Gallico ad me mittas quae tua verba continet, non enim adhuc videre contigit.</p>
+<p>Quantum autem ex Anglica versione intelligere potui 22 scrupulis primis horarijs transitum lucis per diametrum orbis annui taxasti. Atque ita si bene calculum posui uno secundo scrupulo decem circiter diametros terrae pervolabit, quod quanto videtur incredibilius tanto pulchrius diviniusque censeri debet si certa ratione comprobetur. Vale doctissime Romere.</p>
+</div>
+</body>
+</text>
+</TEI>

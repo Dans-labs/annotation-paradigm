@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1984"/>
+<meta type="date" value="1674-01-24"/>
+<meta type="sender" value="auzo011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rome_001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1984">
+<div type="opener">
+<p>a Rome ce 24 janvier 1674.</p>
+</div>
+<p>Je m'estois trompé Monsieur quand jauois cru par le passé que jetois hors de votre souuenir aussi bien que de celuy de beaucoup dautres mais la grace que vous maues faite de menuoier votre liure<note n="#1"/> ma rendu temoignage du contraire ie vous en suis extremement obligé et quoyque ie ne laye parcouru que legerement jy ay trouué par tout des choses dignes de vous dont Jespere profiter dauantage au premier loisir, jen receus trois exemplaires par la voie de Monsieur Renault<note n="#2"/> qui me
+marquoit quil y en auoit vn pour le Signor Michelang Ricci<note n="#3"/> vn autre pour le Signor Campani et le troisieme pour moy. Jenuoiay les deux a ces Messieurs mais ie fis vn Equiuoque car naiant pas regardé au bas ce que vous y auies ecrit je crus que vous lenuoijes au Campani qui fait des lunetes ne mestant pas venu dans lEsprit que vous auies eu autrefois communication par lettres auec le Signor Mateo son frere, ainsi je lenuoiay au Signor Giuseppe<note n="#4"/> mais depuis aiant decouuert lEquiuoque que jauois fait en voiant au bas de celuy qui mestoit resté par megarde le nom de Mateo Campani, ie luy ay donné le sien et le mien est resté au Signor Giuseppe qui ma pourtant promis de me le rendre tant a cause quil a sceu quil netoit pas pour luy que parcequil nentend pas le latin quoyque ie le luy aie offert pour la peine de ma beueue et parce quil ma dit quil vous en àuoit remercié par une lettre<note n="#5"/>. cet accident a causé le retardement a ma lettre et a celle du Signor Mateo<note n="#6"/> et lhistoire que ie vous en fais vous otera de l'esprit ou vous auroit pu mettre vn remerciement de deux endroits pour vn meme liure. Au reste Monsieur je vous supplie de disposer de moy en ce pais cy pendant que iy seray si vous me juges capable de vous y pouuoir seruir en quelque chose, et de me croire auec passion</p>
+<div type="closer">
+<p>Votre tresobeissant seruiteur <persName key="auzo011">Auzout</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens Zulighem</persName> A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

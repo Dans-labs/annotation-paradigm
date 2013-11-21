@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0086"/>
+<meta type="date" value="1650-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0086">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> Clarissimo Viro <persName key="scho197">Francisco Schotenio</persName>.</p>
+</div>
+<p>Credo ita constituisse te ut non prius me certiorem faceres.</p>
+<p>Siquidem haec legitima demonstratio est, videamus an et haec sit quam jam subjungam.</p>
+<p><figure><graphic url="huyg003oeuv01ill70.gif"></graphic></figure></p>
+<p>Esto angulus <formula>ABX</formula> aliquanto minor vel major recto ut hic, et sit <formula>BX</formula> aequalis peripheriae circuli <formula>DB</formula>; igitur ductâ <formula>IL</formula> parallelâ <formula>BX</formula>, erit <seg org="ca" resp="#AD" type="corr">ea</seg> aequalis peripheriae circuli <formula>OI</formula>, idque semper continget.
+Quamobrem concludimus rursus triangulum <formula>ABX</formula> aequari circulo <formula>DB</formula>.
+quod tamen falsum est. An dicemus igitur angulum <formula>ABX</formula> debuisse esse rectum; atqui hoc nusquam determinatum est Cavallerii principio, et non ita facile liquet, quid sit in <seg org="cautâ" resp="#AD" type="corr">causâ</seg> nisi respicias ad inscriptionem parallelogrammorum.</p>
+<p>In sequenti exemplo pene ipse deceptus fui; est autem tale. Sit parabola <formula>ABC</formula>,
+<figure><graphic url="huyg003oeuv01ill71.gif"></graphic></figure>
+et super eadem basi triangulum isosceles <formula>ADC</formula>, habens ex hypothesi duo crura <formula>AD</formula>, <formula>DC</formula> aequalia circumferentiae parabolicae <formula>ABC</formula>. Porro sit eodem axe descripta parabola minor <formula>FGH</formula>. priori similis, et eadem basi triangulum <formula>FKH</formula> simile triangulo <formula>ADC</formula>. erit itaque circumferentia <formula>FGH</formula> aequalis cruribus <formula>FK</formula>, <formula>KH</formula>; idque eveniet semper.
+Igitur spatium <formula>ABC</formula> aequale est triangulo <formula>ADC</formula>.
+Quare ex converso si triangulum <formula>ADC</formula> aequale est parabolae <formula>ABC</formula>; erunt duo crura <formula>AD</formula>, <formula>DC</formula> simul aequalia circumferentiae <formula>ABC</formula>; atque ita facile inveniretur linea recta circumferentiae parabolicae aequalis, nisi haec omnia falsa essent. quod quidem facilius evincere est, quam veras causas erroris indicare quidem.</p>
+<p>Plurima hisce similia afferre possem quae animadversa me ita cautum reddidere ut non facile ejusmodi demonstrationibus imposterum crediturus sim, nisi manifeste appareat eas facile commutari posse in eas quae sunt per absurdum, et fallere nesciunt.
+Quid tibi videatur cum de hisce tum de Theorematis meis paucis quaeso rescribe, vel si hoc non vacat saltem te valere scribito, et vale.</p>
+</div>
+</body>
+</text>
+</TEI>

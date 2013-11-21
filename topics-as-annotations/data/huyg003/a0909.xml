@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0909a"/>
+<meta type="date" value="1661-10-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="heve011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0909">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="heve011">Johanni Hevelio</persName>. Viro amplissimo S.</p>
+</div>
+<p>Jeremiae Horroxii libellum<note n="#2"/> uti voluisti mitto, idque jam pridem fecissem nisi hactenus ab amico cui inspiciendum dederam retentus fuisset. Fuit certe Horroxius ille juvenis ingeniosus neque indoctus, quod ex hoc specimine apparet; atque adeo operae pretium omnino Te facturum opinor si illud typis describi curaueris. Globo lunari<note n="#3"/> in Anglia utrum nomina regionum adscripta fuerint nondum rescivi, sed magis est ut credam non fuisse, cum tantum 10 pollicum diametro eum construxerint. Verum in alio majori nunc occupati sunt<note n="#4"/> ubi commode omnia notari poterunt. Ne autem pretio divendi Lunas ejusmodi putes, nequaquam enim venalis est opera artificis cujus manu fabricantur, viri nempe doctissimi ac summi geometrae Christophori Wren.</p>
+<p>Non putabam te negaturum, brevem descriptionem petenti observationis pareliorum. Nunc pleniorem illam quam promittis, at quae scilicet typis prius committenda est, quando ita vis expectabo. Rogo autem ut quantocius eam absolvas<note n="#5"/>, quamquam nullam aliam festinandi causam habeo nisi quod percupiò videre phaenomenon tam insigne, ita enim esse Cl. Bullialdus significavit<note n="#6"/>, nam quae de hoc argumento ipse edere paro, vix adhuc intra annum parata esse poterunt<note n="#7"/>.</p>
+<p>Caeterum Bullialdum hic propediem adfore auguror<note n="#8"/>, cum ab eo tempore quo tuas ad me literas dedisti<note n="#9"/> jam mensis proxime elapsus sit. Vale Vir amplissime. Dabam Hagae com. 20 O&amp;. 1661<note n="#10"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

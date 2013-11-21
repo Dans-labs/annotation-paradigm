@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0790"/>
+<meta type="date" value="1660-10-28"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0790">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>28 d'Octobre 1660</date>.</p>
+</div>
+<p>Nous faisons estat que le jour d'hier ou bien un jour plustost vous devez estre arriué à Paris<note n="#1"/> et j'espere que ce sera en bonne santé. Le frère<note n="#2"/> nous a escrit comme ils estoyent prests à leuer l'ancre, le vent estant alors bon et fauorable, mais ayant changé bien tost apres, jl est à croire qu'ils auront choisy quelque port de l'Angleterre et peut estre de la Zelande; tant y a que nous n'en auons pas ouy parler. Depuis vostre depart il n'est rien arriue icy de fort considerable, tout le monde se porte bien, horsmis la grosse Cousine Zuerius<note n="#3"/> qui a languy quelques jours incommodée d'une jaunisse dont elle s'est sentie encore d'autres fois, mais cela commence à passer, et elle en est quitte pour y auoir laissé quelque peu de son lard. Zuerius et les autres qui ont esté aux nopces de Bartolotti<note n="#4"/> sont de retour depuis la fin sepmaine passée. Tout cela est fort content de la bonne chere, mais quelques uns ne se louent pas des ciuilités de Monsieur <persName>Tibault</persName> et de son frère le cadet, en somme il n'y eut jamais de si bonnes nopces qu'il n'y en eust de mal disnés. Mademoiselle Kien<note n="#5"/> qui a esté a l'extremité, est encore allictée d'une fiebure continue, mais les acces vont toutjours en declinant, tellement que l'on croit qu'elle en reschappera. Je vous prie de me mander par vostre premiere lettre ce
+qui est à present de la mode; quelles estoffes on porte pour l'hiuer, et ce pour des habits de couleur comme pour des noirs. Si les hauts de chausses sont encore d'une si demesurée capacite comme l'on publie icy, et si les grands canons sont encore en train; je uous prie de ne differer point cecy car il faut que je couvre mon pauvre corps contre les injures de l'air, me trouvant quasi gelé dans un pourpoint de taffetas. De plus je vous prie de regarder un peu avec soing dans les boutiques des libraires que vous visiterez, s'il n'y a pas un liure Italien dont le titre est, Le vite de' pittori e Architetti dal Pontificato di Gregorio XIII del 1572, infino à tempi di Papa Urbano VIII nel 1642, scritte da Giouanni Baglione<note n="#6"/> Romano. Stampato in Roma 1642. in quarto<note n="#7"/>. S'il y est, je vous prie de l'achepter pour moy, je vous rendray l'argent, et voudrois bien que vous le pussiez trouver, comme je m'imagine qu'il ne sera pas dissicile veu le peu qu'il y a qu'il est imprime, par ce qu'il nous seroit de grand usage à Bisschop<note n="#8"/> et à moy. Et à tant me recommande, demeurant</p>
+<p>Vostre serviteur et frere <persName key="huyg007">C. Huygens</persName>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huijgens de Zuijlichem</persName>. A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

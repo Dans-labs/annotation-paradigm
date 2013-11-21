@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2102"/>
+<meta type="date" value="1677-09-16"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="colb012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2102">
+<div type="opener">
+<p>A.M. <persName key="colb012">Colbert</persName>.</p>
+<p>Monseigneur</p>
+</div>
+<p>J'ay fait scavoir de temps en temps a Monsieur Perrault des nouvelles de ma santè, m'abstenant par respect de vous escrire jusqu'a ce que je fusse en estat de vous dire quelque chose de certain touchant mon retour en France, ce que je n'ay pu jusqu'icy par l'incertitude ou j'ay estè la dessus moymesme. Il y a desia longtemps que l'on me juge entierement restably; mais ne croiant pas l'estre assez si je ne pouvois emploi[e]r utilement ma santè j'ay voulu essaier de reprendre mes estudes accoustumees, et c'est là que j'ay reconnu qu'il me manquent encore quelque chose des forces necessaires pour resister a cette sorte de travail. Je ferois tort a moy mesme et je crois Monseigneur que vous condamneriez mon imprudence si apres les deux dangereux accidents qui me sont arrivez, j'allois m'exposer avec une santé peu assurence<note n="#1"/> a retomber dans un troisieme. C'est pourquoy j'ose esperer que vous trouverez bon que je passe cet hyver dans la patrie, a fin de m'esprouver encore pendant ce temps et dans une saison qui m'est la plus contraire. Que si je la passe heureusement sans estre trop incommodè par l'application que je me propose, je retourneray avec joye a Paris vers le printemps pour reprendre ma place dans nostre Academie, si non, il faudra malgrè moy pratiquer la leçon du sage de se connoistre soy mesme en choisissant un genre de vie conforme a mon
+temperament. Cependant permettez moy Monseigneur de me pouvoir assurer de la continuation de vos bonnes graces comme je le suis d'estre a jamais, et avec tout respect</p>
+<div type="closer">
+<p>Monseigneur
+<lb/>&amp;c.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 16 Sept. 1677.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

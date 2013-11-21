@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2742"/>
+<meta type="date" value="1692-03-03"/>
+<meta type="sender" value="huyg023"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="veere001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2742">
+<div type="opener">
+<p>Viro nobilissimo atque eruditissimo <persName key="huyg003">Christiano Hugenio</persName> <persName key="huyg023">Hubertus Huighenius</persName> S.p.d.</p>
+</div>
+<p>Imperitia et lata culpa tabellarii ad aedes domini, cujus cognomen Hubert mihi praenomen est, venere, et neglectae diu jacuerunt literae tuae, quae in Persarum Regis Darii Scrinio, si ejus mihi copia foret, apud me servarentur:</p>
+<p>causam audis, quare prius non respondi; nullam prorsus mihi spem reliquam perveniendi ad scopum, cujus obtinendi gratia, parvus ille libellus a me scriptus est, ex literis tuis intelligo.</p>
+<p>de praestantia methodus tuae, quamvis mihi incognitae, tamen ex iis, quae ad me scripsisti, dubitare non possum, utrum vero eadem sit, qua ego utor, non possum affirmare, nam Barrovii theorema incognitum, nomen inauditum mihi est, nullumque authorem, praeter Clarissimum Wallisium, cujus methodum probandi capere non possum, de illa materia legi.</p>
+<p>dubitare mihi videris, an ex quadraturis ad aequationes curvarum linearum, ad quas illae pertinent, pervenerim, vel aliunde, ut fit, illas eruerim: si mihi occasio daretur, omnem tibi causam dubitandi auferre possem.</p>
+<p>Nulla mihi industria opus fuit in formandis quadraturis, unde aequationes oriuntur, quae paucis terminis constant, ad hoc enim nihil aliud requirebatur, quam ut ex plurimis aequationibus, quas inveneram, simplicissimas elegerem, quod tamen ob quasdam, quae me movebant rationes, non semper praestiti.</p>
+<p>non video, quomodo quis affirmare possit, ex proprietate se ad quadraturam generaliter posse pergere, quin eo ipso quod non tradat quadraturas figurarum, quae desiderantur, inanis jactantiae manifesto deprehendatur convictus.</p>
+<p>non scripsi talem quadraturam effingi, aut excogitari posse, cui curva, quam mihi quadrandum propono, conveniat, sed solummodo supposui, talem quadraturam esse, ac ostendi, quomodo a posteriori ad illam certo perveniri possit: ex. gr. in circulo, cujus aequatio sit <figure rend="inline"><graphic url="huyg003oeuv10fi305.gif"></graphic></figure>, supponamus (<hi rend="i">ψ</hi>); nec (<hi rend="i">y</hi>) ultra vigesimam potestatem ascendere, certum est, si omnes aequationes inter (<hi rend="i">ψ</hi>), et (<hi rend="i">y</hi>) usque ad vigesimam potestatem examinentur eo modo, et in eum finem, qui pag. 9 praescriptus est<note n="#2"/>, quod infallibiliter pervenietur ad aequationem, in qua invenietur <hi rend="i">x</hi> ∞ √2<hi rend="i">ay</hi>-<hi rend="i">yy</hi>, quod probabit in illa aequatione inter (<hi rend="i">ψ</hi>) et (<hi rend="i">y</hi>) segmentum semicirculare, cujus basis est (<hi rend="i">y</hi>), aequale esse (<hi rend="i">aψ</hi>).</p>
+<p>Sed quis mihi spondere posset (<hi rend="i">y</hi>) et (<hi rend="i">ψ</hi>) in circulo non ascendere ultra centesimam, vel etiam superiorem potestatem? quare etiam credo, quod e re mea non est quadraturam circuli, aut hyperbolae eo modo solus quaerere, circa quam secundum omnem apparentiam frustra me fatigarem.</p>
+<p>non opus erat circa subnormalem pag. 12 ad septimam potestatem literae (<hi rend="i">y</hi>) ascendere, sed rem eo modo, quo inveneram, sed est per varios circuitus proposui.</p>
+<p>Haec verba (an vero subnormalis ad nullam curvam pertineat) non satis intelligo, nam si concedas mihi liberè meam opinionem dicere, implicare contradictorium mihi videtur, quod subnormalis illa ad nullam curvam pertineret.</p>
+<p>nullo modo ego ex subnormali ad curvam, ad quam illa pertinet, pervenire possum, si data sit aequatio inter subnormalem, et perpendicularem (<hi rend="i">x</hi>) vel inter subnormalem, perpendicularem (<hi rend="i">x</hi>) et basim (<hi rend="i">y</hi>).</p>
+<p>magno teneor desiderio videndi talem methodum, qua a priori in duobus illis casibus, in quibus subnormales sunt ∞ <hi rend="i">aay</hi>-2<hi rend="i">yyx</hi>/3<hi rend="i">aa</hi>-2<hi rend="i">xy</hi> 2<hi rend="i">y</hi>+<hi rend="i">y</hi><hi rend="sup">3</hi>/<hi rend="i">xx</hi> perveniatur ad curvas, ad quas illae pertinent, nec non cognoscere causam, quare illa methodus a priori aliis casibus applicari non possit: in illis vero casibus, in quibus data est proportio inter subnormalem, et basim (<hi rend="i">y</hi>), invenio, aut curvam, ad quam illa subnormalis pertinet, aut figuram curvilineam, a cujus quadratura illa curva dependeat, ex. gr. si subnormalis data sit <hi rend="i">aa</hi>/√<hi rend="i">aa</hi>-<hi rend="i">yy</hi> invenio curvam dependere a quadratura circuli<note n="#3"/> quod cum jungatur cum iis, quae a te circa illam subnormalem inventa sunt<note n="#4"/>, proportionem circuli ad hyperbolam cognitam reddet.</p>
+<p>Rudis artis pingendi ego in plano delineare non possum corpora, quae mihi necessaria sunt ad demonstrandum, quomodo ex quadraturis pag. 8 eliciam aequationes pag. 9 nec non quomodo pag. 10 solutionem secundae propositionis meae cum quadratura per (<hi rend="i">x</hi>) detur, ad quadraturam hyperbolae, et circuli deducam, sed non semper eo devenio, nam plerumque invenio curvilineam figuram, cujus quadratura cognita est, ut in proposito tuo exemplo <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ <hi rend="i">ddyy</hi>-<hi rend="i">ccxx</hi> vel, quod idem est <figure rend="inline"><graphic url="huyg003oeuv10fi307.gif"></graphic></figure>.</p>
+<p>Quis, et ex qua Huygheniorum familia sim, rogas, tui sum, Vir nobilissime, observantissimus, ne vero videantur facta mea cum verbis non convenire, ad singula haec respondebo,</p>
+<p>pater meus, qui urbis Verensis, cujus ego nunc scabinus, olim concionator fuit, patrem habuit urbis Tholonae consulem, cujus avus inter brabantinae provintiae nobiles numeratus, peregrinando fere peregrinus in patria sua factus, filium reliquit, qui nostrae familiae primus provinciae Zelandiae incola fuit.</p>
+<p>quare nomina nostra conveniant, cum diversa armorum insignia non eandem nobis esse familiam ostendant, rationem nullam ego reddere possum.</p>
+<p>propediem mihi iter est in Hollandiam, permissionem te salutandi rogabo, et inter fortunae beneficia numerabo, si praesens tibi, quod jam hisce literis facio, dicere possim, quantopere me tibi devinctum agnosco, quod Vir tanti nominis, et eruditionis ad me scribere dignatus sis. Vale.</p>
+<div type="closer">
+<p>Dabam Verae 3 Martii 1692.</p>
+</div>
+<p>Appendicula tua, postquam has literas scripieram reddita mihi est, mutatio in illa nullam causam aliquid mutandi literis meis praebet, nisi in iis, quae scripsi de invenienda proportione inter circulum et hyperbolam, quae pro non scriptis haberi peto.</p>
+</div>
+</body>
+</text>
+</TEI>

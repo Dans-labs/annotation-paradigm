@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2030"/>
+<meta type="date" value="1675-05-15"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2030">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 5 May 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je renvoye par les mains de Monsieur Rodenberg Alleman, estudiant en Medicine, la mesure du pied de Paris, qui me fut recommandée pour y faire exactement marquer le pied d'Angleterre selon le standard. Je vous puis assurer, et vous vous pouuez y fier, que i'ay obey les ordres de vostre Illustre Academie auec la plus grande exactitude possible. J'y fus present, quand le Chevalier Sr. Jonas More<note n="#1"/>, et Monsieur Flamstead, dont le premier est le surintendant de l'Artillerie, l'autre vn des plus scavans Astronomes du païs prirent et marquerent la mesure du pied Anglois in Standard sur vostre verge de fer, oú vous trouuerez sur la longue piece d'airain vne ligne tirée au travers, laquelle termine ledit pied Anglois, commencant au mesme point dans le petit cercle de l'autre bout, oú commence la mesure du pied de Paris. Et par cete mesure il se trouue, que la difference de ces deux pieds est de 79/100 d'un pouce Anglois <hi rend="i">quam proxime</hi><note n="#2"/>. Je vous supplie, Monsieur, de vouloir assurer tous les Messieurs de vostre celebre Academie de mes profonds respects et de mes tres humbles services tout et quantes fois qu'il me feront l'honeur de m'employer icy. Je ne scay pas, Monsieur, si vous auez receu les deux lettres, que ie vous escrivis le 22 de Mars<note n="#3"/>, et le 19 d'Avril<note n="#4"/> y inserant le n. 112. des Transactions,
+oú i'ay fait mettre la description et la figure de vostre montre. J'y vous fis la priere de la part de Mylord Brouncker, pour faire faire vne de vos montres le plustost qu'il seroit possible et de me l'envoyer par quelque amy, qui passeroit en Angleterre, pour le service dudit Seigneur, qui ne manqueroit pas d'en faire payer promptement ce que la montre couste, et qui outre cela tascheroit de reconoistre vostre bonté aux occasions semblables. Je vous supplie encore monsieur, de me gratisier en cete affaire, á fin que ledit lord Brouncker ne pense que i'y aye negligemment agi; en quoy vous obligerez tres particulierement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres-humble &amp; tres-obeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>il y a une tasche à vn des bouts de vostre pied de Paris justement lá oú on a tracé l'extremité dudit pied; laquelle tasche y estoit, quand ie receus cete mesure lá, mais qui ne nous a nullement empesché de la prendre comme il falloit.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName>, dans la bibliotheque du Roy à Paris.
+<lb/>Auec le pied de Paris.
+<lb/>par amy.</p>
+</div>
+</body>
+</text>
+</TEI>

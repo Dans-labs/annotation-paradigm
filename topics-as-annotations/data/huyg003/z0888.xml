@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0888"/>
+<meta type="date" value="1661-09-16"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0888">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce <date>6. Septembre 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Ma derniere<note n="#1"/> vous a donne aduis de deux liures que J'ay donné a Monsieur le Cheualier Swan pour vous apporter: mais Je trouue qu'il n'est point encore party: il dit pourtant qu'il partira auec la premiere commodité: Je vous ay aussi enuoyé un autre il y a, Je crois, un mois. mais Monsieur d'Oldenbourg me dit, que vous ne l'auez point encore receu. Mais J'appris hier qu'il y a un espece de Mart Schut<note n="#2"/>, qui va tous les 15. iours une fois, entre Rotterdam et Londres. Si cela est, donnez moy quelque adresse à Roterdam pour y faire tenir les liures, et autres choses que J'auray a vous enuoyer: et ainsi nostre commerce sera bien asseuré. Et
+sil vous plaist d'adresser tout ce que vous aurez à menuoyer selon ce billet<note n="#3"/>, il me sera tousiours rendu. Tout ce que Je vous diray d'auantage à present, est que Mercredi dernier<note n="#4"/> Monsieur le Cheualier Digby nous presenta une lettre<note n="#5"/> que Monsieur <persName key="fren024">de Frenicle</persName> luy a escritte, touchant quelque phenomenes &amp;c. de Saturne. dans laquelle trouuant que vous estes nommé, J'ay creu estre obligé de vous la communiquer, et partant vous en enuoye cy ioint la Copie<note n="#6"/>. J'auray aussi la semaine prochaine, Dieu aidant quelque autre chose à vous envoyer. Je suis du meilleur de mon Coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp; tres obeissant serviteur, <persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>Je n'ay pas eu le loisir de lire la Copie de la lettre cy iointe. Si vous y trouuez des fautes, faites le moy sçauoir, et Je les corrigeray.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName> A la Haye.
+<lb/>2 β
+<lb/>XX</p>
+</div>
+</body>
+</text>
+</TEI>

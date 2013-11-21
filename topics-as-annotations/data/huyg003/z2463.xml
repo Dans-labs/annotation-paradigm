@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2463"/>
+<meta type="date" value="1687-06-09"/>
+<meta type="sender" value="chap019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2463">
+<div type="opener">
+<p>a <placeName key="parij001">paris</placeName> le 9. juin 1687.</p>
+<p>Monsieur</p>
+</div>
+<p>L'estime et lamitié que j'ai pour Mr. <persName key="hire005">de la hyre</persName>, et la passion que j'auois de trouuer vne occasion de vous demander vn peu de part au commerce que vous aués ensemble, m'ont engagé a vous faire tenir sa lettre et l'escrit qujl vient de donner au public<note n="#2"/>. Vous verrés sur quels fondements jl a formé ses coniectures, et jmaginé vne nouuelle forme de boussole diferente de celle dont on se sert, auec laquelle jl jnuite ceux qui jront sur mer de faire des experiences sur la variation de l'aimant<note n="#3"/>. Cette matiere qui est vne des plus delicates de la Physique est suiette a bien des contradictions, et lon veut dire que les jncertitudes de toutes ces hypotheses en exercant lesprit ne l'assurent sur rien, et ne font tout au plus que lexciter a faire de nouvelles découuertes. M.<hi rend="sup">rs</hi> de l'academie des Sciences n'ont pas voulus par cette raison, publier cet escrit au nom de la Compagnie, et Mr. de <persName key="hire005">de la hyre</persName> ne la donné sous le sien au public, que comme vne raison de doutter, ou pour mieux dire de soupconner sjl n'y auroit pas quelque analogie des variations
+de la matiere aimantique et de ses poles dans la pierre daimant même, auec les variations de la vertu aimantique dans le sein de la terre. Vous me feres honneur et plaisir de me communiquer vos reflexions sur cet escrit, et de vous adresser a moy dans les rencontres ou je pourrai vous rendre quelque seruice, estant rempli depuis longtemps de toute lestime que vous merités. Mr. <persName key="hire005">de la hire</persName> a fait esperer a la Compagnie que vous luy enuoyeriés quelques ouurages pour joindre au recueil des pieces de Mess.<hi rend="sup">rs</hi> de lacademie que lon jmprime actuellement. La mort de Mr. <persName>Cramoisy</persName><note n="#4"/> arriuée cette nuit apres quattre jours de maladie derangera vn peu ces jmpressions, mais jespere que Monseigneur de Louuois y mettra vn bon suiet. La perte de M. Cramoisy est sensible pour lacademie et pour tous les gens de lettres, jl faisoit honneur a ljmprimerie royale par ses soins et par sa capacité. Je vous suplie denuoyer le plustost que vous pourres a Mr. <persName key="hire005">de la hyre</persName> ce que vous desirés joindre au recueil, cette augmentation n'en acroistra pas peu le merite, et tout ce qui viendra de vous trouuera toujours dans la Compagnie toutes les dispositions possibles a lestimer et a laprouuer, et si mes sufrages pouuoient estre considerés dans cette Compagnie, je les donnerois auec eloge pour temoigner combien je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="chap019">La Chapelle Besse</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

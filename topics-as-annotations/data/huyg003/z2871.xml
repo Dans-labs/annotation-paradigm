@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2871"/>
+<meta type="date" value="1694-07-27"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hanno901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2871">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Voicy un fragment des Actes de Leipzig du mois de juin<note n="#3"/>, que vous ne serez peut estre point faché de voir de bonne heure. Et j'en souhaitte vostre jugement, aussi bien que sur les points de mes lettres precedentes. Comme je suis comme invité de dire quelque chose sur ce discours de Mons. le professeur <persName key="bern071">jacques Bernoulli</persName><note n="#4"/> je ne scaurois me dispenser d'envoyer quelque chose au plustost à Leipzig<note n="#5"/>. Je croy qu'il est tousjours vray que les tensions sont proportionelles aux forces<note n="#6"/>, mais qu'il ne faut pas tousjours prendre ses [sic] tensions dans le changement de la longitude du corps, puisqu'elles dependent plus tost des changemens du contenu solide; ainsi la figure d'une lame elastique ne me paroissant pas assez arrestée, j'avois esté d'autant moins porté à l'examiner. Les theoremes sur les cercles osculateurs (dont les centres sont dans vos courbes generatrices par evolution) que M. le professeur Bernoulli considere comme des clefs<note n="#7"/>, ne me paroissent point difficiles à trouuer et sans aucune inspection de la figure, par le seul calcul des differences on en trouve, et des plus generaux; non seulement pour la grandeur du rayon de ce cercle, mais encor pour la position du centre car lors qu'on veut chercher la generatrice evolutive d'une ligne qui n'est donnée que differentiellement, le calcul meme ordonne qu'on passe aux differentio-differentielles, et quand on n'auroit pas ces theoremes on les employe virtuellement et sans y penser. je remarque un peu d'emulation entre les deux freres, mais elle est louable et leur sert d'eguillon. Je n'entreray point dans l'examen des Elastiques et de leur proprietés. Car je n'ose gueres m'enfoncer dans des nouueaux travaux qui demandent trop d'attachement, surtout quand la chose a esté faite; car de pouuoir dire et nos hoc poteramus, ce n'est pas une raison suffisante pour moy qui dois menager mon temps. Je n'ay pu
+m'empescher de sourire un peu, quand il dit que pour me faire honneur, il veut appeller les courbes ou grandeurs ordinaires, Algebraiques<note n="#8"/>. Car je ne voy pas quel honneur m'en revienne. Je voudrois plus tost qu'il n'appellât pas les autres Mecaniques.</p>
+<p>Il dit p. 271, que la maniere de resoudre la Catenaire par des points (qui ne demandent qu'une seule grandeur constante transcendente, la quelle donnée, on n'a plus besoin des quadratures) est veritablement la plus parfaite qu'on puisse employer pour les transcendentes<note n="#9"/>, mais, que le mal est qu'elle n'est pas universelle, et n'a lieu qu'a l'egard de celles qui dependent de la quadrature de l'Hyperbole, et ne pouuant estre employée à son avis pour ce qui depend de la quadrature du cercle, ny pour des quadratures plus composées. Mais je ne suis pas en cela de son sentiment, car la meme maniere reussit aussi pour la quadrature du cercle; se servant de la section des angles, comme pour l'hyperbole on se sert de la section des raisons. Et il y a une infinité d'autres constructions semblables qui pourront servir pour d'autres lignes transcendentes.</p>
+<p>Il donne aussi p. 271. 272. un indice qui doit servir pour connoistre si une quadrature se peut reduire a celle de l'Hyperbole, mais cet indice n'est point universel, et on peut donner une infinité d'instances, ou la reduction reussit, sans que cet indice ait lieu<note n="#10"/>.</p>
+<p>Il prend les series de pag. 274 pour nouuelles, mais Mons. <persName key="newt011">Newton</persName> et moy, nous les avons employées il y a long temps<note n="#11"/>.</p>
+<p>Enfin je viens à la construction que M. Bernoulli donne de mon probleme de la ligne isochrone paracentrique, comme je l'appelle, ou le mobile pesant s'approche ou s'eloigne egalement d'un même point. Cela m'oblige de reprendre mes vieilles meditations la dessus, que j'auois presque oubliées ou perdues. Il a trouué cette solution par un heureux hazard. Je donneray cependant ma Methode<note n="#12"/> qui
+paroistra peut estre plus analytique, et moins dependante d'un secours exterieur. Je l'avois reduite autresfois<note n="#13"/> à la quadrature d'une figure, dont l'abscisse estant <hi rend="i">x</hi>, l'ordonnée est <figure rend="inline"><graphic url="huyg003oeuv10fi287.gif"></graphic></figure> Mais Mons. <persName>Bernoulli</persName> ayant taché avec raison de construire la courbe demandée non pas tant par une quadrature, que par l'extension ou evolution d'une autre courbe, je l'ay aussi voulu faire à son exemple. La difference qu'il y a entre nous la dessus est qu'il se sert de la rectification d'une courbe qui est elle même deja transcendente, scauoir de son Elastique, et qu'ainsi sa construction est transcendente du second genre, au lieu que me je sers seulement de la rectification d'une courbe ordinaire dont je donne la construction par la Geometrie commune. Au reste je me rapporte à mes precedentes, sur les quelles je vous supplie de repasser et de me donner les lumieres que j'y souhaitte à l'egard de plusieurs points qui ont esté touchés entre nous. En vous souhaittant une parfaite santé je suis avec zele</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant serviteur <persName key="leib013">Leibniz</persName>.</p>
+<p>Hanover ce 7/27 Juillet 1694.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

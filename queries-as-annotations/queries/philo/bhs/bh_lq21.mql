@@ -1,0 +1,65 @@
+// Is T.A<:AFEH-L@K: in Jer 2:17 masculine or feminine? This query
+// looks for the expression <FH + preposition + suffix, in the first or
+// second person, in which the person and gender agree with those of
+// the suffix.
+
+// ident @(#)lq21.mql	1.1 06/01/17
+
+/*
+<metadata>
+<meta type="research_question">Jer 2:17</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2006-01-17"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">Is תַּעֲשֶׂה-לָךְ in Jer 2:17 masculine or feminine? This query looks for the expression עשׂה + preposition + suffix, in the first or second person, in which the person and gender agree with those of the suffix.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [word FOCUS
+      lexeme = "<FH[" and person = first_person
+   ]
+   [word FOCUS
+      part_of_speech = preposition and (
+	 paradigmatic_pron_suffix = 'Absent' or
+	 paradigmatic_pron_suffix = 'Nun_Yod' or
+	 paradigmatic_pron_suffix = 'Heh_Hebrew'
+      )
+   ]
+]
+
+go
+
+select all objects where
+
+[clause
+   [word
+      lexeme = "<FH[" and person = second_person and gender = masculine
+   ]
+   [word
+      part_of_speech = preposition and (
+	 paradigmatic_pron_suffix = 'Yod' or
+	 paradigmatic_pron_suffix = 'Nun_Wav'
+      )
+   ]
+]
+
+go
+
+select all objects where
+
+[clause
+   [word
+      lexeme = "<FH[" and person = second_person and gender = feminine
+   ]
+   [word
+      part_of_speech = preposition and (
+	 paradigmatic_pron_suffix = 'Kaph' or
+	 paradigmatic_pron_suffix = 'Kaph_M'
+      )
+   ]
+]

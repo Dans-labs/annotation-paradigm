@@ -1,0 +1,36 @@
+// This query retrieves tries to locate direct speech openings similar
+// to the one in Gn~17:9, where God addresses Abraham with: "As for
+// you, you shall keep my covenant..." In Hebrew this starts with a
+// conjunction followed by a personal pronoun.
+
+// ident @(#)lq20.mql	1.1 05/05/27
+
+/*
+<metadata>
+<meta type="research_question">Gen 17:9</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2005-05-27"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query retrieves tries to locate direct speech openings similar to the one in Gn~17:9, where God addresses Abraham with: "As for you, you shall keep my covenant..." In Hebrew this starts with a conjunction followed by a personal pronoun.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[chapter
+   [clause
+      text_type !~ 'Q$'
+      [clause_atom as m FOCUS]
+   ]
+   ..
+   [clause
+      text_type ~ 'Q$'
+      [clause_atom first
+	 mother = m.self
+	 [word FOCUS first part_of_speech = conjunction]
+	 [word FOCUS part_of_speech = pronoun and pronoun_type = personal]
+      ]
+   ]
+]

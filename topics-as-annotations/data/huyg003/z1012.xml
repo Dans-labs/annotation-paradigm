@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1012"/>
+<meta type="date" value="1662-05-11"/>
+<meta type="sender" value="peti033"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1012">
+<div type="opener">
+<p>De <placeName key="parij001">Paris</placeName> le 11<hi rend="sup">e</hi> May 1662.</p>
+</div>
+<p>Jattends tousjours Response aux demandes que Je vous ay fait. jen aurois bien dautres encores a vous faire sur les experiences du vuide si Je nesperois que la suitte de vos obseruations descouurira ce que nous ne scauons pas et resoudra nos doutes. Monsieur Chappellain ma dit vous en auoir escrit<note n="#1"/> &amp; Monsieur de Roberual &amp; Moy nous sommes fort entretenus ce Matin de la Cause qui pouuoit empescher leau de descendre la seconde fois que vous vous en seruez apres auoir souffert le premier vuide. Si vous la descouurez et en suitte la raison de quelques autres experiences nous descouurirons beaucoup de choses vtiles touchant la nature de l'air. Cepandant nous faisons tousjours quelque chose sur les lunettes. Je suis bien ayse que les petits miroirs que je vous ay enuoyez se trouuent bons<note n="#2"/>. Jl est facile de les tailler &amp; fendre auec de petites limes, Jen fais de telle figure que je veux, si vous en desirez dauantage vous n'aurez qu'a me le mander. Je vous en enuoyeray Polys ou non comme vous le desirerez.</p>
+<p>Monsieur de Gabian Durazzo ma Enuoyé d'Amsterdam vn Heuelius comme je len auois Prie. Mais comme il me manque plusieurs petits traittez de cet autheur Je ne le feray pas relier que je ne les aye tous ensemble, jen ay veu icy entre les mains
+de mes amys quelques vns que je nay pas ny les libraires aussi pour les pouuoir achepter. Je vous supplye donc de prendre la peyne de les faire tous chercher &amp; de me les enuoyer. Ceux que jay desia sont:</p>
+<p>Selenographia cum appendice<note n="#3"/>.</p>
+<p>Epistola de Motu lunae libratorio<note n="#4"/>.</p>
+<p>Epistola de vtriusque luminarium defectu anni 1654<note n="#5"/>.</p>
+<p>Et ceux qui me manquent &amp; que je vous supplye de me faire tenir par les premiers Marchands libraires ou autre qui viendront de vostre pays, sont.</p>
+<p>Vn traitté du Systeme de Saturne<note n="#6"/> auec quelques obseruations de 4 si me semble &amp; des Macules du soleil.</p>
+<p>Mercurius &amp; Venus in sole visi an. 1661 &amp; 1659<note n="#7"/>.</p>
+<p>Et generalement tout ce quil y aura djmprimé de cet autheur in folio outre ce que jay desia, affin de le faire relier tout ensemble. Vous Mobligerez de Me lenuoyer. Jen rendray les frais a Monsieur vostre frere<note n="#8"/>. Et de tout ce qui despendra de nous vous en pouuez disposer comme dvne Personne qui est entierement a vous &amp; vostre tres humble &amp; tres obeissant seruiteur</p>
+<div type="closer">
+<p><persName key="peti033">P. Petit</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huggens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

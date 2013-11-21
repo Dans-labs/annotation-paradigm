@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0187"/>
+<meta type="date" value="1654-04-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0187">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="scho197">Fr. Schotenio</persName> Viro Clarissimo S.D.</p>
+</div>
+<p>Superiores literas meas<note n="#2"/> ad te perlatas esse spero, tractatumque de Circulo nondum tibi perlectum. Quae si ita se habent ad hasce ut respondeas nihil opus est. Eo enim fine haec scribo ut securus reddar nihil chartis nostris sinistri contigisse. Rogo tamen ut quantocius ipsas percurrere velis, ne in edendis inventis istis ab alio praevertar. Scio enim Pragae esse qui<note n="#3"/> de Circulo novi quid typis committere paret etsi mihi nondum constet an similia nostris invenerit. Si Elseviriorum opera uti non continget, videbo an alios invenire possim, et puto in hac ipsa urbe non defore. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>, <date>9 Apr. 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Celeberrimo Clarissimoque Viro Domino <persName key="scho197">Francisco Schotenio</persName> Matheseos Professori Ordinario.
+<lb/>Heerensteegh
+<lb/>Leidam.</p>
+</div>
+</body>
+</text>
+</TEI>

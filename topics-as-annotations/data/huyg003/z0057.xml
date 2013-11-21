@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0057"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0056"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0057">
+<p lang="nl">De problemata sijn dese</p>
+<div type="section">
+<head rend="h4">1.</head>
+<p><figure><graphic url="huyg003oeuv01ill65.gif"></graphic></figure></p>
+<p>Au triangle <formula>ABC</formula> estant donnès les points <formula>D</formula> et <formula>E</formula> en ses deux costès <formula>AB</formula> et <formula>AC</formula>: trouver un point <formula>F</formula> en son troisiesme costè <formula>BC</formula>, en sorte que tirant <formula>DF</formula>, <formula>EF</formula>, les angles <formula>BDF</formula>, <formula>CEF</formula> soient esgaux.</p>
+</div>
+<div type="section">
+<head rend="h4">2.</head>
+<p>Estans donnès <formula>AC</formula> diametre d'un quadrilatere, les
+<figure><graphic url="huyg003oeuv01ill66.gif"></graphic></figure>
+deux angles opposès <formula>BCD</formula>, <formula>BAD</formula>, ausquels aboutit ce diametre <formula>AC</formula>, estans encor donnès les 2 angles <formula>BCA</formula>, <formula>DCA</formula>, et la raison de <formula>BC</formula> à <formula>CD</formula>. Trouver le quadrilatere <formula>ABCD</formula>.</p>
+<p>Iisdem positis et datis. Exceptè que la raison de <formula>BA</formula> à <formula>AD</formula> est donnèe (au lieu de celle de <formula>BC</formula> à <formula>CD</formula>) trouver le quadrilatere.</p>
+</div>
+<div type="section">
+<head rend="h4">3.</head>
+<p>Estant donnè un cercle <formula>BDC</formula>. son diametre prolongè <formula>CBA</formula> une touchante <formula>AD</formula>. Trouver dans le diametre prolongè un point comme <formula>E</formula>, duquel tirant <formula>EG</formula> touchante au
+<figure><graphic url="huyg003oeuv01ill67.gif"></graphic></figure>
+cercle, et eslevant dudict point <formula>E</formula> une perpendiculaire <formula>EF</formula> jusqu'à la 1<hi rend="sup">ere</hi> touchante <formula>AD</formula>, que <formula>EG</formula> soit à <formula>EF</formula> en raison donnèe.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

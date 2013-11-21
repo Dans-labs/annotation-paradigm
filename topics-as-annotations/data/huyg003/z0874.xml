@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0874"/>
+<meta type="date" value="1661-07-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0874">
+<div type="opener">
+<p>Ce <date>15 Juilet 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Quelques estrangers François qui me sont venu veoir et aux quels il faut que je tiene compagnie a une promenade qu'ils veulent faire hors de la Haye, me vont emporter tout ce jour, et toutefois il faut que je face response a deux des vostres quand ce ne seroit qu'en trois mots. Je vous rends graces et a Monsieur <persName key="boyl001">Boile</persName> de l'observation des parelies<note n="#1"/>, qui est tout a fait belle mais j'eusse souhaitè outre la description un poco di figura pour entendre tout la chose plus clairement; car il y a quelques passages un peu obscurs, et lesquels je ne scaurois expliquer sans quelque varia lectio. Aussi y manque' t il la mesure de la distance des soleils, pour avoir la quelle et aussi la figure il faudra que je m'addresse a l'observateur mesme, car je croy que vous n'avez autre chose que ce que vous m'avez envoyè. Il n'y a pas un soleil ny cercle dans ce phenomene dont je ne puisse expliquer la cause.</p>
+<p>Je ne voy pas encore paroistre Monsieur Oldenbourg<note n="#2"/>, que je desire fort de veoir pour estre par luy informè au long des occupations de vostre assemblée. Cependant je vous suis beaucoup obligè de ce que vous m'en dites dans vostre premiere lettre. Je y voy que Monsieur Neile ne quitte pas encore sa façon de faire des verres pour la miene, et pourtant s'il ne delaisse les grands tours de la main, je ne croy pas qu'il fera trauailler avec beaucoup de succes. Ces verres que vous dites qu'il a faits <hi rend="i">encore</hi> meilleurs que celuy qu'il avoit de 35 pieds, peuvent bien n'estre pas fort bons, car a mon avis il ne valoit guere, et beaucoup moins que l'autre de 22. Monsieur Wren a receu là deux commissions d'importance, et qui ne sont pas des plus aisées. Quand ce globe Lunaire, ou demy, sera parachevè je seray fort tentè de le venir veoir, car ce sera assurement une chose tres belle. Vous voudriez bien me donner aussi comme cela de la besogne a scavoir si d'ailleurs je n'estois pas occupè; et vous semblez vouloir croire que je ne suis pas, quand je n'ay pas a chaque fois quelque chose de nouueau a vous communiquer. Ce qui est tout a fait inique, car je vous assure que j'ay encore du trauail assez pour long temps, a mettre au net plusieurs de mes vieilles inventions et quelques traitez a demi achevez que j'ay
+[l'idée?]<note n="#3"/> de perfectionner et de produire. Je me plains seulement que je n'ay pas tant de loisir que je voudrois icy dans la patrie, ou j'ay trop d'amis et de parents pour pouuoir menager le temps comme je desirerois. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="mora019">Moray</persName> Chevalier A Londres.
+<lb/>dans <placeName key="white901">Whitehall</placeName> du coste du jardin.
+<lb/>1 β</p>
+</div>
+</body>
+</text>
+</TEI>

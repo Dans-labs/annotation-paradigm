@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2063"/>
+<meta type="date" value="1675-10-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="smet049"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2062"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2063">
+<div type="opener">
+<p>A Mr. <persName key="smet049">Smethwick</persName> a Londres.</p>
+<p>A <placeName key="parij001">Paris</placeName> ce 9 oct. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>L'obligeante lettre, que vous m'avez fait l'honneur de m'escrire datée du 30<hi rend="sup">e</hi> juin avec la boete qui contenoit les verres de vostre façon, ne m'ont estè rendues
+que vers la sin de Septembre par le gentilhomme Allemand<note n="#1"/>, que Monsieur Oldenburg en avoit chargè, qui m'apporta en mesme temps une lettre de sa part du 30 juillet, c'est pourquoy je vous prie de ne m'attribuer pas la faute entiere du retardement de cette response. Je ne me souvenois plus de ce que j'avois escrit a Monsieur Oldenburg touchant le travail des verres<note n="#2"/>. Je ne doute pas qu'en parlant de ceux de figure non spherique je n'aye adjoutè que je croiois qu'il estoit impossible d'en venir a bout, et que quand mesme on y auroit reussi ils ne feroient pas plus que les spheriques ce qui se peut demonstrer par des raisons tres certaines. Ce n'est pas que la Theorie de Des Cartes touchant les verres Hyperboliques et Elliptiques ne soit bonne; mais il y a un defaut dans la refraction mesme, qui n'estoit pas connu à Des Cartes. Mais a ce que je puis comprendre par les echantillons que vous avez eu la bontè de m'envoier, vous ne vous estes point appliquè a ces figures difficiles, et les non spheriques dont vous parlez sont les planoconvexes. Car vos deux lentilles sont de cette figure. Au reste quant au travail il est fort beau et ce n'est pas peu de scavoir si bien achever de si grandes portions de sphere. Cependant en regardant le bord de vos verres avec des lentilles qui grossissent les objects, il me semble qu'il y manque encore quelque chose a la derniere perfection, et je jugerois que vostre poly s'acheve dans des formes de plomb; car il est trop bon pour avoir estè fait sur du papier ou de la toile collée dans la forme, et non pas assez pour avoir estè fini sur le fer ou le cuivre. Nous avons icy un excellent ouvrier<note n="#3"/> qui a trouvè le moyen de cela, en sorte qu'il ne manque rien a son poly, et que la figure du verre se perfectionne d'autant plus qu'il le continue de polir longtemps. Il m'a dit quelque chose de sa methode, mais je ne puis pas me vanter de la scavoir entierement. Cette grande perfection au reste n'est pas tant requise aux oculaires comme vous scavez, qu'aux verres objectifs, et sur tout à ceux des longs telescopes de 20 ou 30 pieds; aux quels si vous avez travaillè, je seray bien aise d'apprendre avec quel succes c'aura estè. Je scay quelle peine j'y ay pris autrefois, et j'affectionne tousjours extresmement cet art, qui nous a fait decouvrir tant des merveilles dans la nature. Vous ne devez donc pas douter Monsieur que vous ne me fassiez grand plaisir toutes les fois que vous prendrez la peine de m'entretenir touchant ces choses rien ne pouvant d'ailleurs m'estre plus agreable que le commerce avec une personne de vostre merite. Je ne responds rien a ce que vous dites tres obligeamment au suject des Pendules, ne voulant rien oster de l'estime que
+vous faites de cette invention, puis qu'elle vous en fait avoir en mesme temps pour l'autheur qui est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tressobeissant serviteur <persName key="huyg003">Chr. Hugens de Zulechem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

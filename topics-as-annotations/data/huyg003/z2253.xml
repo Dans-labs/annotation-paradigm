@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2253"/>
+<meta type="date" value="1682-01-31"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2253">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 31 Januier 1682.</p>
+<p>Monsieur</p>
+</div>
+<p>Ce n'est pas pour uous parler de Geometrie que ie uous escris ces lignes, ie ne ueux simplement que uous souhaitter une bonne année au nom de toute la compagnie qui desire de uous reuoir bientost si uostre santé uous le peut permettre, et uous dire des nouuelles des grans projets que nous faisons. Vous auez sceu que l'on a enuoyé des obseruateurs aux canaries pour determiner la distance du premier meridien a l'égard de celuy de Paris on a iugé qu'il estait a propos d'en enuoyer dautres sous la ligne, aux Antilles, et en plusieurs autres lieux pour faire des obseruations tres importantes a lAstronomie, le uoyage que iay fait cette automne a Dunquerque, Calais et autres lieux sera tres utile aussi bien que celuy de Mr. <persName key="pica018">Picard</persName> en Normandie. Il semble, depuis que le Roy nous a fait l'honneur de uenir dans nostre assemblée<note n="#1"/> dont il a esté tres content, que l'on fait de nouueaux efforts pour laugmentation des sciences.</p>
+<p>Monseigneur Colbert mayant ordonné il y a quelque temps daller demeurer
+a l'obseruatoire afin de trauailler conioinctement auec Mrs. Cassini et Picard il ma donné le logement que Mr. <persName key="rome049">Römer</persName> occupoit<note n="#2"/> qui a son entrée sur le grand escalier qui est entierement fini, et qui est a mesme hauteur que celuy que uous auez de lautre costé, mais Mr. <persName key="pica018">Picard</persName> qui a son logement au dessous du uostre men laisse les clefs pour passer a la tour ou nous obseruons, car uous scauez quil ny uient que quelque fois, c'est pour moy une tres grande commodité, et c'est ce qui ma fait penser a uous faire une priere qui est de changer l'appartement que uous auez auec celuy que iay de lautre costé ie serois fort proche de celuy de Mr. <persName key="pica018">Picard</persName> et uous seriez bien mieux dauoir uostre entrée par dessus le grand escalier, le logement que ie tiens est tres proprement accommodé et il est a mesme hauteur que le uostre, iay crû que uous ne uous en souciez pas beaucoup car uous ny auez aucun meuble, cependant ie nay osé uous escrire sur ce suiet sans la participat<hi rend="sup">on</hi> de M. l'abbé Galloys qui ma resisté longtemps et qui ne uouloit pas y consentir dans la crainte quil auoit que cela ne uous fit la moindre peine, ie luy ay plusieurs fois representé que l'eschange que ie uoulois uous proposer nous accommoderoit l'un et l'autre, et enfin que ce n'estoit quune proposition, et quand mesme iaurois uostre appartement et que uous uoulussiez uenir a lobseruatoire pour y loger ie uous le cederois tousiours, ie scay trop bien ce que lon doit a uostre merite pour nauoir pas pour uous toutes les honnestetez imaginables, si ie nen auois pas les connoissances que iay uous pourriez me soubconner de flatterie mais ce sera touiours auec bien de la sincerité et du Respect que ie me diray</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="hire005">De la Hire</persName>.</p>
+</div>
+<p>ayez la bonté de me faire un petit mot de reponse et de me laddresser a lobseruatoire mandez nous aussi des nouuelles de la comete de uos quartiers.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">C. Hugens de Zulichem</persName>
+<lb/>A la Haije.</p>
+</div>
+</body>
+</text>
+</TEI>

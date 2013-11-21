@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1892"/>
+<meta type="date" value="1672-06"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="gall047"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1890"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1892">
+<div type="section">
+<head rend="h4">Reflexions sur la description d'une Lunette publiée sous le nom de Monsieur Cassegrain<note n="#2"/>.</head>
+<p>Depuis que M. Newton a inventé son nouveau Telescope, dont nous avons parlè<note n="#3"/> dans le Journal du 29 de Fevrier dernier, on en a publié<note n="#4"/> un autre que l'on pretend estre beaucoup plus commode &amp; plus ingenieux.
+Comme celuy de M. Newton passe pour une invention tres-belle, plusieurs personnes ayant entendu dire que cette derniere Lunette estoit encore plus parfaite, ont crû qu'il falloit que ce fust quelque chose de tres-excellent, &amp; ont témoigné un grand desir de sçavoir au vray ce qui en est: C'est pourquoy il est à propos de l'examiner icy, &amp; de faire voir ce que l'on en doit attendre.</p>
+<p>Cette Lunette, que l'on attribue à M. Cassegrain, n'est pas nonvelle: Elle a esté inventée il y a longtemps par M. Gregory qui en a donné la description dans le livre qu'il fit imprimer à Oxfort l'an 1663, sous le titre d'<hi rend="i">Optica Promota</hi><note n="#5"/>. Voicy la figure qu'il en donne.</p>
+<p><figure><graphic url="huyg003oeuv07ill42.gif"></graphic></figure></p>
+<p><formula>ABDE</formula> est un tuyau dans le fond duquel il y a un grand miroir concave <formula>AE</formula>, de section conique, percé en son milieu <formula>MN</formula>.
+Il y a un autre petit miroir <formula>C</formula> de section conique, placé au foyer du miroir <formula>AE</formula>, &amp; disposé de telle maniere qu'il reflechit les rayons par l'axe <formula>CF</formula>.
+A l'ouverture <formula>MN</formula> est appliqué un petit tuyau <formula>MLLN</formula>, &amp; au bout <formula>LL</formula> il y a un oculaire <formula>LFL</formula> à travers lequel on regarde.</p>
+<p>La description qu'on a publiée de la Lunette de M. Cassegrain est differente de celle-là en deux choses: l'une qu'il n'y est point specifié que les miroirs doivent estre de section conique: l'autre qu'on a retranché le tuyau <formula>MLLN</formula>, &amp; l'oculaire est immediatement placé à l'ouverture <formula>MN</formula>. Mais ce n'est pas sans raison que M. Gregory a determiné la figure des miroirs. Car au moins le petit miroir doit necessairement estre de rection conique: &amp; pour ce qui est du tuyan <formula>MLLN</formula>, c'est une piece absolument necessaire, sans laquelle on ne se sçauroit servir de la Lunette, comme je diray cy-aprés.</p>
+<p>On pretend que cette Lunette de M. Cassegrain a trois avantages par dessus celle de M. Newton. I. Que l'ouverture <formula>BD</formula> du tuyau peut estre de telle grandeur qu'on voudra, &amp; que par consequent il viendra plus de rayons sur le grand miroir <formula>AE</formula> dans cette Lunette que dans celle de M. Newton. II. Que la reflexion des rayons se faisant par l'axe, sera plus naturelle &amp; par consequent plus vive. III. Que la vision sera d'autant plus agreable, qu'on ne sera point incommodé du grand jour, à cause du fond <formula>AE</formula> qui couvrira le visage.</p>
+<p>Si l'on avoit fait l'essay de cette Lunette, ont auroit vû combien tout cela est éloigné de la vérité.</p>
+<p>Car il n'est pas vray que l'ouverture de cette Lunette puisse estre plus grande que l'ouverture de celle de M. Newton, à moins que le miroir <formula>AE</formula> ne soit parabolique; mais la Lunette de M. Newton aura le même avantage, si l'on y fait aussi ce miroir parabolique.</p>
+<p>Il n'est pas vray non plus que la reflexion qui se fait dans l'axe soit plus vive que celle qui se fait hors l'axe: &amp; ce que l'on allegue que la reflexion qui se fait par l'axe est plus naturelle, est avancé sans fondement; car toutes les reflexions sont également naturelles, soit qu'elles se fassent dans l'axe ou hors l'axe.</p>
+<p>Enfin le Spectateur qui aura l'oeil à l'ouverture <formula>MN</formula> bien loin de n'estre point
+incommodié du grand jour, &amp; de jouir d'une vision agreable, sera tellement ébloüy de la lumiere qui entrera par l'ouverture <formula>BN</formula><note n="#6"/>, qu'il ne verra rien du tout: A quoy M. Gregory a sagement remedié par le moyen du tuyau <formula>MLLN</formula>, qui est absolument necessaire dans cette espece de Lunette.</p>
+<p>Au lieu du petit miroir plat dont se sert M. Newton, il y en a un concave dans la Lunette de M. Gregory, &amp; un convexe dans celle de M. Cassegrain: Mais le miroir plat est icy preferable au concave &amp; au convexe, tant parce qu'ils sont difficiles à bien placer, que parce qu'ils doivent estre de figure parabolique ou elliptique.
+Que si dans la Lunette de M. Gregory l'on vouloit faire plat le miroir <formula>C</formula>, comme dans celle de M. Newton, il faudroit qu'il fust la moitié aussi grand que le miroir <formula>AE</formula>, &amp; par consequent il intercepteroit la quatrième partie des rayons qui viendroient de l'objet.
+M. Gregory a bien vu ces difficultez, &amp; c'est apparemment ce qui l'a empeché d'exécuter le dessein de cette Lunette.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

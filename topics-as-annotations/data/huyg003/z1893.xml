@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1893"/>
+<meta type="date" value="1672-07-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1893">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 8 Juillet 1672.</p>
+</div>
+<p>J'ay creu un jour durant, que vostre lettre estoit perdue ou restée a la Haye, par ce qu'elle n'estoit par dans le pacquet, car Mon Pere me mandoit que vous m'escriviez. Je vous remercie de toutes vos nounelles qui encore que bien mauvaises ne le sont pas tant que j'avois apprehendè, n'ayant pas creu, qu'on vous donneroit tant de loisir pour bien fortifier ce dernier rempart du païs<note n="#1"/>. S'il reste quelque peu de courage a nos gens, je ne scay pourquoy ils ne pourraient pas defendre ces postes, surtout avec l'aide de l'eau qui les couvre pour la plus grande partie. L'affaire d'Aerdenburg<note n="#2"/> fait veoir ce que peuvent des gens resolus.</p>
+<p>J'attens avec impatience le resultat du traité, ou l'on dit qu'il y a aussi des deputez d'Angleterre<note n="#3"/>. Cela fait croire a plusieurs que ce qu'on y conclura ne sera pas au desavantage de Monsieur le Prince; mais il y en a parmi nos plenipotentiaires a qui cela ne plairoit guere et qui sans doute l'empescheront tant qu'ils pourront.</p>
+<p>N'ayant rien appris touchant le Consul par ce dernier ordinaire je veux croire qu'il se va guerissant et je le souhaite de tout mon coeur<note n="#4"/>.</p>
+<p>Vous me parlez de sauvegarde, mais il Signor Padre ne m'en dit rien, ce qui me fait douter si peutestre il n'a pas des raisons pour n'en point vouloir. Mandez moy ce qu'il en dit, et s'il le trouve bon j'en parleray, ce qu'aussi bien je n'ay pu faire encore depuis que jay receu vostre lettre, parce que Monsieur Colbert n'est pas venu dans cette ville.</p>
+<p>Pour ce qui est de mon argent je ne suis pas encore tant pressè de l'avoir, que je ne puisse attendre, plustost que d'y perdre beaucoup.</p>
+<p>Le Comte d'Oort prend admirablement bien son temps. Si vous le voiez, je vous prie de luy faire mes compliments et a sa belle epouse. N'oubliez pas aussi mes baisemains a tout le parentage, a Monsieur et Madame van Leeuwen, et a Mademoiselle H.H.<note n="#5"/> sur toutes choses si vous retournez encore a Amsterdam.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

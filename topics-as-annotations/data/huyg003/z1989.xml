@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1989"/>
+<meta type="date" value="1674-04-09"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1989">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>C'est de la part de Monsieur Hook, que ie vous envoye l'imprimé cy joint<note n="#1"/>. Vous ayant escrit depuis peu et assez souvent, ie ne diray plus rien sauf que ie suis</p>
+<div type="closer">
+<p>Vostre treshumble serviteur <persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 30 Mars 1674.</p>
+</div>
+<p>Il vous plaira de faire scauoir à Monsieur Hook, que ie vous ay fait tenir cet inprimé.</p>
+</div>
+</body>
+</text>
+</TEI>

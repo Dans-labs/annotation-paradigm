@@ -1,0 +1,4 @@
+SELECT ALL OBJECTS IN {10100-10200}
+WHERE
+[sentence [ word NOT gender IN (none,unknown) AND part_of_speech IN (noun,pronoun) ]]
+GO

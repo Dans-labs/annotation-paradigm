@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2493"/>
+<meta type="date" value="1687-10-10"/>
+<meta type="sender" value="vari006"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2493">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je ne puis faire imprimer un livre de Mathematique<note n="#1"/> sans prendre l'occasion d'en rendre un hommage au plus grand Mathematicien de notre siècle. C'est même
+une reconnaissance que je vous dois Monsieur pour tout ce que j'ay appris dans les excélens ouvrages que vous avez donnez au public. Vous y avez joint la plus fine speculation à une pratique tres utile, c'est à dire que vous avez réuny en vous deux talens qui comprennent toutte la vaste étendue des Mathematiques. Comme je ne prens pas pour exemple ce que je ne puis qu'admirer, je n'ay pas prétendu à ce double merite dont je reconnois toutte la difficulté; jay borné jusqu'icy a la seule speculation l'étude que jay faite de la Mechanique, &amp; cette spéculation même est encore trop imparfaite pour mériter un autre nom que celuy de projet ou d'Essay, peut-être deviendroit elle quelque chose de plus considérable, si j'osois espérer Monsieur que vous me fissiez l'honneur de m'en marquer les défauts, &amp; de mouvrir les voyes qui pouroient servir à la pousser plus loin: mais ce seroit vous en demander trop pour un homme obscur &amp; inconnu qui doit se tenir trop heureux que cet ouvrage luy soit une occasion de vous asseurer qu'il est avec un profond respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="vari006">P. Varignon</persName>.</p>
+<p>De <placeName key="parij001">Paris</placeName> ce 10 octob. 1687.</p>
+</div>
+</div>
+<div type="para">
+<p>Hollande A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> De L'academie Royale des Sciences de Paris A la Haye<note n="#2"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

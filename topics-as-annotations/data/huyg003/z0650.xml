@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0650"/>
+<meta type="date" value="1659-08-14"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0650">
+<div type="opener">
+<p>de <placeName key="parij001">Paris</placeName> ce <date>14 Aoust 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>quelque raison que ie puisse auoir dans mes excuses, tant a cause des affaires extraordinaires qui me sont suruenues depuis quelque tems, que de mon absence de cette ville, J'aduoue neantgmoins que J'ay tort d'auoir demeuré si longtems a vous le mander, et à vous remercier, comme Je faits tres humblement, de l'honneur que vous me faictes de vous souuenir de moy, Et certes Monsieur quelque occupation que ie pusse auoir Je n'eusse pas laissè passer tout ce tems si ie n'eusse esperé de Jour a autre pouuoir vous rendre conte de ce que vous desiriez scauoir de Monsieur Pascal, mais sa maladie, qui consiste dans un' espece daneantissement et d'abattement general de toutes ses forces, et qui luy continue depuis le tems que son liure a esté imprimè ne m'a pas permis de vous donner cette satisfaction,
+car il ne scauroit s'appliquer à quoy que ce soit qui demande tant soit peu d'attention qu'il n'en sente un' incommodité considerable, Il se porte neantgmoins un peu mieux depuis quelques Jours qu'il est allé prendre l'air de la campagne, et nous esperons de le voir restabli dans sa premiere santé, mais il luy faut encore du tems. Je vous entretiens de tout ce destail parce que Je scay l'estime que vous saictes d'une personne si extraordinaire, et l'affection particuliere qu'il a pour tout ce qui vous concerne. J'attendois aussy Monsieur de respondre à ce que vous m'auez demandé pour Monsieur de Wit touchant ce qu'il desire de Monsieur de Fermat, mais Je ne pouuois trouuer mes papiers que J'auois presté a Monsieur Boulliaud, dont ie ne me souuenois plus et qu'il m'a rendu du depuis, Je nay point veu le liure de Monsieur Walis<note n="#2"/> intitulé <hi rend="i">commercium Epistolicum</hi><note n="#3"/>, mais il est uray que J'ay esté soigneux de ramasser auec soing tout ce que ce mien amy<note n="#4"/> a enuoyé icy, soit a moy soit à d'autres particuliers, Je luy ay mesme fait voir ce ramas qu'il a corrigé de sa main parce que Je voulois le faire jmprimer, mais J'en ay esté destourné par d'autres affaires. Je souheterois encore astheure faire la mesme chose si messieurs les Elzeuirs vouloyent gratifier l'autheur de quelques liures, Ils auoyent autrefois voulu donner un Atlas de Blaew, la chose n'est pas empiree depuis ce tems la, au contraire elle paroistroit auec beaucoup plus d'aduantage tant pour eux que pour le public a cause des autres traictés qu'il ma promis de geometrie, et des nombres, ou il excede sans mentir autant les anciens, que Diofante
+nous paroit au dessus d'eux, Je uous enuoye dans ce paquet vn escrit<note n="#5"/> qu'il m'a enuoyé depuis peu sur le suiet des dits nombres que vous m'obligerez de me renuoyer, auec aussy un memoire<note n="#6"/> que vous pourrez garder des choses que J'ay en ma possession, et vous verrez s'il vous plaist si vostre amy y trouue ce qu'il y desire que Je luy enuoyeray quand il vous plaira dans l'assurance qu'il n'en mesusera point puisqu'il merite l'honneur de vostre amitié.</p>
+<p>Je n'en<note n="#7"/> point encore receu de nouuelles de ces Messieurs d'Angleterre, Je desirerois bien scauoir le Jugement qu'ils font du liure de Monsieur Dettonuille, Et il nous jmporte pour quelque chose encore de plus considerable que nous scachions et ayons le tesmoignage de ce qu'en pensent ceux qui auront pris la peyne de le lire. Monsieur Schooten ne m'en a rien aussy mandé, et nous n'auons point veu le dernier liure<note n="#8"/>, qu'il a fait imprimer, non plus que le traicté de Monsieur Sluze<note n="#9"/>. peut estre que mon absence de cette ville m'aura priué de toutes ces belles choses
+pour lesquelles J'ay une passion particuliere principalement pour celles qui viennent de vous, ce qui me fait attendre auec jmpatience vostre Systeme de Saturne<note n="#10"/>.</p>
+<p>Je ne scay si vous aurez esté satisfait sur la difficulté que vous preniez la peyne me mander auoir faicte a Monsieur Dettonuille touchant la proposition de la spiralle et de la parabole, mais peut estre que sa santé ne luy aura pas permis d'y respondre. s'il vous plaist m'en escrire, Je vous manderay ce que J'en scay, et ne seray pas si longtems à vous asseurer de mes tres humbles repects que J'ay esté cette derniere fois dont Je vous supplie derechef tres humblement me vouloir excuser, et de croire qu'il n'y a personne au monde qui vous honore dauantage, ni qui soit plus que moy.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="carc010">de Carcauy</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens Seigneur de Zulychen</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

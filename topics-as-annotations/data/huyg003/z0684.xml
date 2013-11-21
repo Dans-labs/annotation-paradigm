@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0684"/>
+<meta type="date" value="1659-11-21"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0684">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>21. Nouembre 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous enuoye l'obseruation<note n="#1"/> que j'ay faicte de la derniere Eclipse de Soleil, dans laquelle j'ay remarqué quelque difference d'auec mes tables Philolaiques, mais pourtant auec tout cela elles approchent plus pres du ciel que les autres. J'attends ce que vous aurez obserué a la Haye, &amp; ce que l'on aura aussi veu a Leyden.</p>
+<p>J'ay leu par deux fois vostre Systeme de Saturne. Vous establissez fort bien vostre hypothese, &amp; elle procede regulierement, pourueu que vous puissiez persuader que ce cercle puisse deuenir inuisible a cause du peu de consistance en espesseur qu'il a en soymesme. Je scay que la nature a pû faire vn cercle autour de ce corps la, &amp; que par la raison qui fait que la terre est suspendue in aëre libero, vn anneau peut aussi y estre suspendu; neantmoins il vous faut encores quelques experiences pour demonstrer absolument ce que vous posèz. Ce que j'ay veu par vos Lunettes en vostre compagnie, dont vous me faites l'honneur de faire mention, me peut jnduire a penser que ces appendices de Saturne ne sont pas absolument &amp; entierement de forme sphaeroide, dont la base soit vn cercle, quand vous les couperez vers le sommet dans ce qui est tousjours lumineux; &amp; je croy que par les apparences l'on n'en peut juger autre chose, sinon que cette base est vne Ellipse. Pour vous confirmer encores dans ce que vous auez posé de cet anneau qui ceint Saturne, il faut que vous attendiez quil vienne dans la fin du ♐ pour voir si ses bras se termineront selon l'angle de l'obliquité que vous luy donnez. &amp; si les extremitez ne toucheront pas le disque de Saturne; car s'il arriua qu'elles le touchent il faut que cet anneau soit elliptique &amp; quil ayt vn mouuement de conuersion sur son grand axe. Si veritablement les extremitez de ces bras ne touchent pas, mais que continuees elles coupassent le disque de Saturne, cela sera encores pour vous, mais je doute que cela arriue. Jay veu Saturne a la fin des <hi rend="sc">ii</hi>. de sorte que les bouts de lanneau joignans Saturne le touchoient &amp; faisoient auec la planete vne parfaite ovale, &amp; cela auec vne Lunette de XI pieds de long que Monsieur le Grand Duc<note n="#2"/> me donna il y a tantost 9. ans. En physique vous aurez peu de personnes qui tombent dans vostre sentiment. Jusques a ce qu'il me soit venu autre chose dans l'esprit je m'en tiens au doute dans lequel je suis. Mais c'est sans hesiter que je veux estre</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>excusez les ratures de ma lettre.</p>
+</div>
+</body>
+</text>
+</TEI>

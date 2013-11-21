@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0317"/>
+<meta type="date" value="1656-07-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0317">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>De tractatu meo. Epistola Robervalli. de Ainscomio, Meibomio, Hevelio.</p>
+</div>
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Cum tot tantisquc occupationibus undiquaque te distineri scribas Vir Eximiè, nolim omnino te ludicris istis meis interpretandis amplius gravari. Itaque si videtur remitte illa mihi, ut si otium nactus fuero ipse hunc laborem suscipiam: sin minus, ut in aliud tempus ea refervem. neque enim multum reserre arbitror utrum nunc, an post annos aliquot, an nunquam in lucem edantur. Geometriam Cartesij quoniam recudi jam et partem facere curarum tuarum scribis, non omittendum putavi quin ea quae à Robervallio animadversa sunt, mihique per epistolam<note n="#1"/> communicata tibi quoque impertiam. Namque etsi minimè aequus ille sit Cartesiano nomini, non tamen immerito hic eum reprehendisse videtur. Epistolam ipsius tibi sisto, in qua negari non potest quin rectè censuerit punctum C necessario reperiri in omnibus angulis DAG, DAE, EAR, RAG: item quod nunquam problema sit impossibile; utrumque enim accuratè examinavi. Simul et hoc quod advertit verum deprehendi, semper videlicet duos dari locos integros (quid autem ea appellatione intelligi velit ipse explicat) ad quos sit punctum C. Veluti, in casu quem hic oculis tuis subjicio, non tantum in circuli circumferentiam sed et in oppositas sectiones illud incidit. Datis nimirum (ut in Cartesio) positione rectis AG, ES, AR, GT, oportet ex puncto
+<figure><graphic url="huyg003oeuv01ill157.gif"></graphic></figure>
+C ducendo rectas, in datis angulis ad priores, CF, CB, CD, CH, ut rectangulum sub duabus prioribus harum CF, CB, aequetur rectangulo ex reliquis CD, CH. Haec autem digna videntur quorum mentionem facias in commentarijs tuis. Poteris autem de veritate etiam citra calculi algebraici molestiam inquirere, si schemata tantum diligenter expendas, ut ego feci. Epistolam Robervalli quaeso ut quam primum examinaveris remittas, significesque mihi quid de censura censeas. Pater Ainscomius librum suum ad me misit quo omnes antagonistae magistri sui refutantur scilicet, atque ego inter caeteros. At mecum permodestè agit si cum caeteris compares: In quibus Meibomius <hi rend="i">Εὐϰλιδομάςιξ</hi> miserè exagitatur, recensitis inter caetera omnibus ejus Thrasonismis<note n="#2"/>. Triduum etiam est cum ab Hevelio literas<note n="#3"/> accepi una cum binis voluminibus ab ipso editis, quorum alterum<note n="#4"/> de Saturni nativa facie inscribitur, alterum<note n="#5"/> quatuor epistolas de rebus astronomicis complectitur. In illo hypothesin
+exponit, quâ mirabilium Saturni phasium causas assignare se sperat: sed parum ex rei veritate, meo judicio, idque propter perspicillorum nostri similium inopiam: nam novum comitem necdum observare potuit. Itaque non deterruit me sed magis excitavit ad accelerandam de eodem argumento tractationem. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>, <date>25 Jul. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName>
+<lb/>Professor der Mathematycken inde Universiteyt
+<lb/>Tot Leyden.
+<lb/>inde Heeresteegh.</p>
+</div>
+</body>
+</text>
+</TEI>

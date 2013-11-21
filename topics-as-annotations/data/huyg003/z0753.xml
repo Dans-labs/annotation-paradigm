@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0753"/>
+<meta type="date" value="1660-06-23"/>
+<meta type="sender" value="gast014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0753">
+<div type="opener">
+<p>De dix lieues de <placeName key="parij001">Paris</placeName> ce <date>23 Juin 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay esté prié par une personne de condition de mes amis de luy faire auoir une horloge a pendule qui sonne les heures. Comme au retour d'un voyage de 4. mois que je viens de faire j'ay appris que le Maistre<note n="#1"/> que vous auiez choisy pour ce trauail et qui y reussissoit fort bien, estoit mort, j'ay jugé, Monsieur, par vostre maniere d'agir precedente si pleine de generosité et de courtoisie, que vous n'auriez pas desagreable, la tres humble priere que je prens la liberté de vous faire en cette rencontre, qui est de vouloir bien commander une horloge de cette sorte au maistre qui aura succedé au desunt. L'on ne se soucie pas que ce soit a poids ou a ressort, vous en jugerez s'il vous plaist pour le mieux; et il suffira aussy que les minutes soient marquées, sans qu'il y ait de secondes. Si vous me faites cette grace, vous me ferez scauoir dans le temps par la voye de Monsieur Elzeuier par laquelle je vous escris quelle somme il faudra pour cette horloge, afin que la fasse toucher quand vous l'ordonnerez. Ce sera, Monsieur, une obligation tres particúliere que vous vous acquierrerez sur une personne qui en vaut la peine, et sur moy, qui tascheray toute ma vie de la reconnoistre comme estant parfaitement et auec toute sorte de respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="gast014">Du Gast</persName>.</p>
+</div>
+<p>Si vous m'honnorez d'une reponse vous prendrez la peine ou de la donner à Monsieur Elzeuier, ou de l'addresser <hi rend="i">a Monsieur Petit</hi><note n="#2"/> <hi rend="i">marchand libraire a la croix d'or rue St. Jacques a Paris pour me la faire tenir.</hi></p>
+<p>Sur ce que l'on m'a dit que vous faisiez estat de venir bientost a Paris, je croy vous deuoir dire que j'aurois quelque douleur que ce fust dans le temps de l'absence de Monsieur Pascal, qui est depuis 2. ou 3. mois en sa prouince d'Auuergne. Je ne scay pas bien le temps de son retour.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

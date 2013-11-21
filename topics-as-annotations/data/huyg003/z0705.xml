@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0705"/>
+<meta type="date" value="1660-01-01"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="wenen901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0705">
+<div type="opener">
+<p>Perillustri, Generosissimo, Clarissimoque Viro Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. <persName key="kinn013">Godefr. Aloys. Kinner</persName> S.P.D.</p>
+</div>
+<p>Et felicissimum ineuntis noui anni exordium apprecatur.</p>
+<p>&nbsp;</p>
+<p>Tarditatem literarum tuarum praestantiâ doni tui<note n="#1"/>, quod proximis adiunxisti liberalissimè compensâsti, Nobilissime Hugeni; parcior uidelicet esse soles, ut liberalior esse possis, et in Aulicorum conspectum sine munere uenire praeter morem esse tu quoque existimas. Amplector ego tuum erga me affectum profecto singularem, qui ad amici tanto licet terrarum interuallo sejuncti memoriam te compellit. Summoperè me delectauerunt speculationes tuae circa Systema Saturnium, clarissimèque mihi persuadere uideris horizontem illum lucidum Saturno circumdatum causare diuersissimas brachiorum eidem annexorum uices, praeterquam quod terrâ motâ in systemate tuo uteris, quam ego stare malim. Phaenomenon illud fixae mediae<note n="#2"/>
+in ense Orionis mihi sanè mirabile uidetur, ut et omnibus illis quibus id uidendum exhibui; nihilque magis in uotis habeo, quàm ut oculis liceat mihi id ipsum conspicere, quod utique propediem futurum existimo: nam in opere iam sunt isthic tubi 18 pedum si uitrum remotius ab oculo utrinque secundum eandem sphaeram elaboretur, quos pro illo phaenomeno repraesentando suffecturos existimo, quia artifex ille tuborum machinator hactenus in tuborum perfectione excelluit, licet circa maiores efformandos hucusque nunquam fuerit occupatus; donec demum magno meo hortatu ac poene impulsu negotium utcunque arduum sit aggressus: quo spero id nos effecturos, ut deinceps tibi posterisque obseruationes Saturnias liceat communicare, quae futuris saeculis pro exacta Saturni notitia poterunt deseruire. Caesari<note n="#3"/> ipsi non omittam rem scitu adeò dignam repraesentare et tum quoque occasio erit primum illius nouitatis inuentorem, te scilicet, Praestantissime Hugeni, meritâ laude atque encomio celebrandi. Non minus illa placuerunt ingeniosissima theoremata, quae de Sphaeroidum Conoidumque superficiebus feliciter inuenisti, quorum demonstrationes luci quàm primum datas avidissimè cupio. Ego uero (ut aliàs etiam tibi scripsisse memini) uix uiuo, dum in Aula uiuo: ocior enim, quia sine studiorum solatio uiuo; neque mirum id eo in loco, ubi ocium simile negotio, et ipsa negotia vix aliud praeter ocij nomen merentur. Paucis antè diebus Augustissimus Caesar me studijs et institutioni Fratris sui Serenissimi Caroli Archiducis<note n="#4"/> praefecit. Fortassis haec occasio stimulos dabit, de uero et literario ocio nonnulla cogitandi. Tu interim uale, Vir doctissime, utere tempore felicitateque ingenij tibi concessâ in publicum mundi bonum, et gratias habe quàm maximas pro munere transmisso, meque ama.</p>
+<div type="closer">
+<p><placeName key="wenen901">Viennae</placeName> <date>1 Januarij 1660</date>.</p>
+</div>
+<p>P.S.D. Dominus Marcus<note n="#5"/> iam pridem in suam Boëmiam remigrauit: quantum scio nullas obseruationes Jridum aut halonum habet; sciscitabor nihilominus, ut tuae intentioni satisfiat.</p>
+</div>
+</body>
+</text>
+</TEI>

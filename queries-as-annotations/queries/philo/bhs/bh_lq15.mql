@@ -1,0 +1,92 @@
+// This query retrieves the (Aramaic) words that form the boundaries of
+// the Aramaic sections of the Old Testament.
+
+// ident @(#)lq15.mql	1.1 04/03/09
+
+/*
+<metadata>
+<meta type="research_question">boundaries of Aramaic sections</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-03-09"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query retrieves the (Aramaic) words that form the boundaries of the Aramaic sections of the Old Testament.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[book book = Genesis
+   [chapter chapter = 31
+      [verse verse = 47
+	 [clause first
+	    [phrase last
+	       [word FOCUS first]
+	       ..
+	       [word FOCUS last]
+	    ]
+	 ]
+      ]
+   ]
+]
+..
+[book book = Jeremiah
+   [chapter chapter = 10
+      [verse verse = 11
+	 [word FOCUS first]
+	 ..
+	 [word FOCUS last]
+      ]
+   ]
+]
+..
+[book book = Psalms
+   [chapter chapter = 116
+      [verse verse = 12
+	 [phrase phrase_type = NP
+	    [word FOCUS first]
+	    ..
+	    [word FOCUS last]
+	 ]
+      ]
+   ]
+]
+..
+[book book = Daniel
+   [chapter chapter = 2
+      [verse verse = 4
+	 [clause FOCUS first]
+	 [clause [word FOCUS first]]
+      ]
+   ]
+   ..
+   [chapter chapter = 7
+      [verse verse = 28
+	 [word FOCUS last]
+      ]
+   ]
+]
+..
+[book book = Ezra
+   [chapter chapter = 4
+      [verse verse = 8
+	 [word FOCUS first]
+      ]
+   ]
+   ..
+   [chapter chapter = 6
+      [verse verse = 18
+	 [word FOCUS last]
+      ]
+   ]
+   [chapter chapter = 7
+      [verse verse = 12
+	 [word FOCUS first]
+      ]
+      ..
+      [verse verse = 26
+	 [word FOCUS last]
+      ]
+   ]
+]

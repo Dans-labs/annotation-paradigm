@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0731"/>
+<meta type="date" value="1660-03-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0731">
+<div type="opener">
+<p>Clarissimo viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.</p>
+</div>
+<p>Remitto ecce volumen<note n="#2"/> quod me perlegere voluisti doctum sane atque utile, de quo plurimum tibi debebunt Geometriae studiosi. Exercitationum novam editionem<note n="#3"/> tuo nomine Ducquius<note n="#4"/> mihi attulit. Gratiam habeo pro munere, proque iterata cura in commentariolo meo<note n="#5"/> adhibita. In praefatione vellem minus invidioso
+titulo me ornasses, potiusque rei veritatem quam affectum erga me mum consuluisses. In propositione 4 verba illa <hi rend="i">Om nu tot de eerst voor gestelde questien &amp;c.</hi> debuissent ipsam propositionem immediatè praecessisse, atque ita me scripsisse opinor. Librum suum<note n="#6"/> Dominus <persName key="witt001">de Wit</persName> mihi donavit, qui eleganter excusus est, atque ut decuit à tali viro deque tali argumento conscriptum. Si quid ipse nunc agam quaeris, scito additamentum quoddam ad priorem horologij descriptionem<note n="#7"/> me parare ubi demonstrationem de linea illa penduli moderatrice et alia quaedam exposita dabo. Vale.</p>
+<p>In tractatu pauca quaedam annotasse me invenies plumbo hispanico, atque ea non admodum magni momenti. Properavi evolvere quia typographos moram non ferre significabas.</p>
+<p>Wallisij librum<note n="#8"/> credo à Bibliopola Brounio<note n="#9"/> tibi missum.</p>
+<div type="closer">
+<p><date>19 Martii 1660</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Myn Heer Myn Heer <persName key="scho197">Fr. van Schooten</persName> Professor der Mathematycken. In de Heeresteegh
+<lb/>Tot Leyden.
+<lb/>Cito
+<lb/>Cito</p>
+</div>
+</body>
+</text>
+</TEI>

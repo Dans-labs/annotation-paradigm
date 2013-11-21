@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0098"/>
+<meta type="date" value="1651-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0097"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0098">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+</div>
+<p><persName key="vinc027">Gregorius de So. Vincentio</persName>, hanc rationem quadrandi circuli tradit.</p>
+<p>Propositio ultima, quae est 53 Quadraturae circuli, nihil habet quod in dubium vocari possit, praeter unum, quod ait, <hi rend="i">notam esse proportionem segmenti <formula>LMNK</formula> ad segmentum <formula>EGHF</formula></hi>. Hanc ipsum docuisse nego, eamve ex ijs quae praemisit cognosci posse, adeoque omnem boni viri conatum irritum esse atque inanem.</p>
+<p>Notam autem esse istam segmentorum proportionem in propositione 52 probare conatur, in quâ illud tantum examinandum est, quod dicat <hi rend="i"><seg org="demonstr atum" resp="#AD" type="corr">demonstratum</seg> esse corpora quae istis cylindricis partibus aequantur, inter se notam habere rationem</hi>. id est notam habere rationem corpus ex ductu plani <formula>EHIM</formula>, in planum <formula>HPFI</formula> ad corpus ex ductu plani <formula>NKLO</formula> in planum <formula>KQRL</formula>. Istud verò demonstratum existimat propositione 44 eod. in qua hoc falsum est quod ait.</p>
+</div>
+</body>
+</text>
+</TEI>

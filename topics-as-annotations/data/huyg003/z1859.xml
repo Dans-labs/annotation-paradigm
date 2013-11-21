@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1859"/>
+<meta type="date" value="1672-01-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1859">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 25 Janvier 1672.</p>
+</div>
+<p>Il me tarde de scavoir en quel estat est vostre affaire<note n="#1"/> depuis vostre derniere. J'en escrivis al Signor Padre du commencement de ma maladie et touchant ce que vous scavez, a quoy il me respondit assez sechement. adjoutant pourtant qu'il alloit remettre tout le revenu de son bien entre les mains de nous autres avec assignation a chacun de ce qu'il aura quelque jour en propre. Il ne serviroit de guere de repliquer a toutes ses raisons ou de le presser d'avantage. il me semble qu'il doit assez considerer de luy mesme que le parti qui s'offre est bon et avantageux, et qu'on auroit tort de le laisser echaper. Mais si on commence a lanterner encore de l'autre costè je ne scay plus qu'en dire.</p>
+<p>Il y a longtemps que la lunette pour Monsieur Gans<note n="#2"/> est icy en attendant avec deux autres encore l'occasion du transport, a quoy il y a maintenant bonne apparence parce que tout ce qu'il y a icy de nostre Noblesse songe a repatrier dans peu.</p>
+<p>Dites je vous prie au frere de Zeelhem qu'il peut prendre le livre de AEdes Barberinae au prix qu'il a dit, mais qu'il ne manque pas aussi a me procurer le Scheepsbouw<note n="#3"/> de <persName key="wits008">Witzen</persName><note n="#4"/> que jay demandè par ma derniere en suppleant de mon argent ce qu'il coustera d'avantage. Je souhaite fort de scavoir s'il y a tousjours apparence qu'il entre au service de Monsieur le Prince et en quels termes est l'affaire de cettuicy pour le Generalat<note n="#5"/>.</p>
+<p>Je suis fort obligè a mademoiselle Brasser (mais s'appelloit elle encore comme cela lors de vostre derniere?) d'avoir tesmoigné du deplaisir de me scavoir malade, et je vous prie de l'assurer que je suis tres sensible a cette marque de sa bonté. Ne manquez pas aussi de faire mes compliments a Mademoiselle H.H.<note n="#6"/> sur le mesme suject. Voila a peu pres le temps que vous l'allez perdre, si elle n'est partie desia. Je viens d'apprendre que le Cousin Oort va partir bientost que je chargeray de toute la lunetterie<note n="#7"/>. Adieu.</p>
+</div>
+<div type="para">
+<p>Pour mon frere
+<lb/>L.</p>
+</div>
+</body>
+</text>
+</TEI>

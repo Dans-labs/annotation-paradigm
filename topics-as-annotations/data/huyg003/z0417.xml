@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0417"/>
+<meta type="date" value="1657-10-23"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0417">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Accepi nuper Parisijs a Nobilj Italo<note n="#1"/> quocum mihi familiaritas intercedit, et qui ab aliquot mensibus in Gallijs agit, haec Problemata<note n="#2"/>. Eorum solutionem frustra tentatam scribit a pluribus Mathematicis, proponente viro, vt ait, ingeniosissimo Domino <persName>Pascal</persName> quem fortasse noueris. Ego primum vidj statim solui posse per locum solidum, intersectione scilicet duarum Hyperbolarum: sed cum casum vnum ad analysin reuocarem, reperj planum esse, nec difficilis solutionis, licet <hi rend="i">ϰατασϰευὴν</hi> ostendat paulo intricatiorem.</p>
+<p>Secundum arbitror originem suam debere quinque planis conum vel conos oppositos tangentibus: sed vlterius in illa inquirere nec vacat nec libet. Mitto<note n="#3"/> autem ad Te vt intelligam, num quid de illis hactenus inaudiueris.</p>
+<p>Est et aliud de quo datâ occasione Te moneam: Δ<hi rend="i">ιάγραμμα ψευδὲς</hi> in mensâ relictum, cui simile in litteras nuper ad Te datas transtulj<note n="#4"/>, vereri me cogit ne fidem eius secutus aliquid erroris admiserim in Exetasi Parabolarum Patris a S<hi rend="sup">to</hi> Vincentio. Res ita se habet. Est quidem CX aequalis et similis CL, sed AY non fit eidem aequalis vt diagramma indicat sed ipsj AL. Corrige itaque et excusa si quid peccatum est. Quot et Te fecisse iam scio. Nam nimium et doctrinam et humanitatem tuam nouj, quam vt vel Te non animaduertisse suspicarj possim, vel non excusasse, calamj inconsultâ mente festinantis errorem. Vale Vir Clarissime meque pari semper affectu prosequere</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>23 8bris 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI.</p>
+</div>
+</body>
+</text>
+</TEI>

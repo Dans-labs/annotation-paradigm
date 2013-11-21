@@ -1,0 +1,81 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0419"/>
+<meta type="date" value="1657-10-29"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0419">
+<div type="opener">
+<p>Clarissimo Viro, Domino <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. a Schooten</persName> S.D.</p>
+<p>Clarissime Vir,</p>
+</div>
+<p>Solutionem quaestionis à Domino <persName key="slus001">de Sluze</persName> propositae<note n="#1"/>, cujus tangentem, gravitatis centrum, et quadraturam te invenisse mihi scripsisti, atque etiam Geometris, quos hìc novi proponi voluisti, praeteritâ hebdomade ab ijsdem accepi. Duobus ego illam proposueram, subindicando ijs ipsam à te jam solutam; sed gratulari eandem quoque ab alijs quaeri. Cujus quidem quaestionis (quam sanè ingeniosam quisque
+judicavit) tangentem, quam unicè per ocium mihi quaerere atque invenire datum fuit, cum tangentibus aliorum duorum consentire deprehendi; et quod ad ejusdem quadraturam ac gravitatis centrum attinet, deprehendi simul eos in eandem solutionem incidisse, quamvis diversis vijs illam quaesivisse mihi visi sint. Adeò ut minimè dubitare queam, quin omnia etiam inventis tuis sint responsura.</p>
+<p><figure><graphic url="huyg003oeuv02ill33.gif"></graphic></figure></p>
+<p>Quae igitur ad tangentem hujus curvae spectant, illa sic se habent.</p>
+<p>Suppositâ <formula>AB ∞ a</formula>
+<lb/><formula>QL ∞ b</formula>
+<lb/><formula>QA ∞ c</formula>
+<lb/><formula>PA ∞ d</formula>
+<lb/><formula>AI ∞ x</formula>
+<lb/>et <formula>IC ∞ y</formula>: erit aequatio, exhibens quo pacto tangens PC sit ducenda, quando punctum C est datum, <hi rend="i">d</hi> ∞ 2<hi rend="i">xx - ax</hi>/2<hi rend="i">a</hi> - 3<hi rend="i">x.</hi> At si ipsa ex puncto P in producto axe prodire debeat, erit aequatio <figure rend="inline"><graphic url="huyg003oeuv02fi40.gif"></graphic></figure>. Ac denique si ipsa ex L, puncto extra axem dato, sit ducenda, aequatio erit <figure rend="inline"><graphic url="huyg003oeuv02fi41.gif"></graphic></figure>. Quae quidem construi potest,</p>
+<p>utendo tantum rectis lineis et circulis.</p>
+<p>&nbsp;</p>
+<p>Corollaria, [ex praece] dentibus<note n="#2"/> aequationibus resultantia.</p>
+<list>
+<label>1.</label><item>Cum <hi rend="i">x</hi> est ∞ ⅔ <hi rend="i">a</hi>, erit punctum C supremum punctum curvae, et CI maxima ejus latitudo; ita ut recta eandem ibidem tangens ipsi AB sit futura parallela.</item>
+<label>2.</label><item>Cum 2<hi rend="i">x</hi> est ∞ <hi rend="i">a</hi>, cadet punctum P in punctum A; sed quando 2<hi rend="i">x</hi> est minor quàm <hi rend="i">a</hi>, tum punctum P cadet inter A et B; at 2 <hi rend="i">x</hi> existente majore quàm <hi rend="i">a</hi> cadet P in productum axem.</item>
+<label>3.</label><item>Cum punctum P est ipsi B proximum, erit C punctum flexus, distinguens ejus portionem concavam à convexa, et fit <hi rend="i">x</hi> ∞ ⅓ <hi rend="i">a.</hi></item>
+<label>4.</label><item>Ex collatione aequationis <figure rend="inline"><graphic url="huyg003oeuv02fi42.gif"></graphic></figure> cum 2<hi rend="sup">do</hi> Corollario sequitur ex puncto quolibet, in producto axe dato, unam duntaxat tangentem duci posse; sed ex puncto quocunque in axe usque ad extremum punctum, è quo tangentem ducere licet, duas semper diversas duci posse, quarum una concavam et altera convexam portionem contingat. Ubi simul liquet, à parte maximae latitudinis hujus curvae non praeter unum punctum flexus reperiri. Atque haec quidem, quae à sinistra
+parte maximae latitudinis siunt; quae verò ad dextram hujus contingunt, ubi linea aliter est flexa, et tangentes facilius duci queunt, ipsa sic se habent.</item>
+</list>
+<p><figure><graphic url="huyg003oeuv02ill34.gif"></graphic></figure></p>
+<p>Suppositâ <formula>AB ∞ a</formula>
+<lb/><formula>BS ∞ d</formula>
+<lb/><formula>VB ∞ x</formula>
+<lb/>et <formula>VE ∞ y</formula>: erit aequatio, exhibens quo pacto tangens SE duci possit, puncto E existente dato, <hi rend="i">d</hi> ∞ 2<hi rend="i">xx</hi>/<hi rend="i">a</hi> - 3<hi rend="i">x.</hi> Sed, quando punctum S datum est, aequatio erit <hi rend="i">xx</hi> + 1½ <hi rend="i">dx</hi> - ½ <hi rend="i">ad</hi> ∞ 0. Quod verò aequationem concernit, quâ tangentem hanc, è puncto, extra axem dato, ducere licet, ipsius quidem atque superioris par ratio est.</p>
+<p>&nbsp;</p>
+<p>Hinc sequentia Corollaria emergunt.</p>
+<list>
+<label>1.</label><item>Cum <hi rend="i">a</hi> est ∞ 3<hi rend="i">x</hi>, seu <hi rend="i">x</hi> ∞ ⅓ <hi rend="i">a</hi>, erit tangens (ut supra) axi parallela.</item>
+<label>2.</label><item><hi rend="i">a</hi> nunquam minor esse potest quàm 3<hi rend="i">x</hi>, atque idcirco punctum S in axem cadere unquam potest.</item>
+<label>3.</label><item>Ab hac parte nullum est flexus punctum.</item>
+</list>
+<p>Rel[iqua ad]<note n="#3"/> quadraturam et gravitatis centrum hujus curvae spectantia, sunt hujusmodi.</p>
+<p><figure><graphic url="huyg003oeuv02ill35.gif"></graphic></figure></p>
+<p lang="la">Fiat BG ∞ GC; BM ∞ MO ∞ OC; ducanturque perpendiculares MR, GK, et OQ, secantes curvam in L, H, et N. Deinde, assumptâ HK ∞ ⅓ HG, vel NQ ∞ ⅛ NO, vel LR ∞ 1 ¼ LM, erit ▭ BW ∞ datae figurae BZLHNVCSB.</p>
+<p>2<hi rend="sup">do</hi>. Ducendo NT parallelam BO, erit ▭ BN ∞ portioni BZL HNOSB, adeoque ▭ TQ + ▭ OW ∞ reliquae portioni NVCSN; et ▭ TK ∞ portioni NVCXN.</p>
+<p>3<hi rend="sup">tio</hi>. NOS erit maxima latitudo curvae; L punctum flexus; et portio BZL ∞ portioni LHN.</p>
+<p>4<hi rend="sup">to</hi>. Sumendo CA ∞ ⅖ BC, erit A centrum gravitatis datae figurae BZLHNVCSB.</p>
+<p>Quibus cum abundè quaesitis tuis satisfactum putent, rogarunt ut vicissim tibi, in
+gratiarum actionem, tangentes, quadraturas, atque gravitatis centra trium sequentium figurarum invenienda proponerem.</p>
+<p>&nbsp;</p>
+<p>Esto AG diameter; FD semi-ordinata; AD ∞ <hi rend="i">x</hi>; DF ∞ <hi rend="i">y</hi>: sitque AG cognita et ∞ <hi rend="i">a.</hi></p>
+<p><figure><graphic url="huyg003oeuv02ill36.gif"></graphic></figure></p>
+<p>Proprietates.</p>
+<p>&nbsp;</p>
+<p>1 mae figurae.</p>
+<p><hi rend="i">aax</hi> ∞ <hi rend="i">y</hi><hi rend="sup">3</hi> + 2<hi rend="i">ayy</hi> + <hi rend="i">aay.</hi></p>
+<p>2<hi rend="sup">dae</hi> figurae.</p>
+<p><hi rend="i">y</hi><hi rend="sup">6</hi> ✱ - 3<hi rend="i">axy</hi><hi rend="sup">4</hi> - 2<hi rend="i">aaxy</hi><hi rend="sup">3</hi> + 3<hi rend="i">aaxxyy</hi> - 6<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">xxy</hi> <figure rend="inline"><graphic url="huyg003oeuv02fi43.gif"></graphic></figure>.</p>
+<p>3<hi rend="sup">tiae</hi> figurae.</p>
+<p><hi rend="i">x</hi> + <hi rend="i">y</hi> ∞ √√ <hi rend="i">ax</hi><hi rend="sup">3</hi>.</p>
+<p>&nbsp;</p>
+<p>Quantum ad constructionem centri gravitatis atque quadraturae harum trium figurarum spectat, asserunt illam omnino facilem esse; et quantum ad inveniendas tangentes, modum easdem è vestigio investigandi extare in Cartesio. His vale ac me amare perge.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>29 Octobris, 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName>. in S' Graven-hage. op t' pleijn.
+<lb/>cito cito port.</p>
+</div>
+</body>
+</text>
+</TEI>

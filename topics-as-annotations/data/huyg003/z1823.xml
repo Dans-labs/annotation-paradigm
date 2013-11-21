@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1823"/>
+<meta type="date" value="1670"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="witt001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1823">
+<div type="section">
+<head rend="h4">De motu corporum reflexo<note n="#1"/>
+<lb/>sive de Percussione.</head>
+<head>Hypotheses.</head>
+<p>1. Si corpora duo aequalia ac perfectè dura aequali velocitate lata sibi mutuo directè occurrant utrumque eadem qua advenit celeritate in contrariam partem reflecti.</p>
+<p>2. Si corpus majus occurrat minori quiescenti aliquam ei celeritatem dare eoque de sua celeritate aliquid amittere.</p>
+<p>3. Motum omnem et quietem corporum relatione quadam ad alia corpora considerari quae tanquam quiescentia spectantur, etsi forte alii motui communi et haec et illae obnoxia sint. Ideoque si quis navi vectus in ea globulos duos in se mutuo impellat eorum celeritates post occursum eodem modo se habituras partium navis respectu ac si stante navi, ijdem motus contigissent. Haec enim cum ex ipsa motus natura sequuntur, tum vero et experientia comprobantur siquidem nullis corporum motibus intra navem factis cognosci potest utrum quiescat navis an motu aequabili progrediatur. Nec magis ex motibus supra Terra contingentibus colligere licet utrum immobilis sit an moveatur diurno annuoque motu ut multis probat Galileus in dialogis de mundi Systemate.</p>
+<div type="section">
+<head>Propositio I.</head>
+<p>Si corpus durum occurrat corpori sibi aequali quiescenti omnem quam habebat celeritatem in hoc transferet ipsumque a contactu immotum manebit.</p>
+<p>&nbsp;</p>
+<p>Intelligatur quispiam navigio vectus secundum ripam fluminis sustinere manibus suis E, F<note n="#2"/>, corpora aequalia filis suspensa A et B. Adductisque aequaliter manibus efficere ut corpora moveantur versus se mutuo motu aequabili, A quidem celeritate AK, B vero celeritate BK, nimirum partium navis respectu, atque ita sibi occurrant in K puncto. Ipsa vero navis feratur interea celeritate KB dextram versus. Patet itaque globulum B quem in navi moveri fecimus celeritate BK sinistrorsum plane immobilem mansisse respectu ripae aut hominis in ripa consistentis quum navis pergat pari celeritate in partem dextram. Globulum vero A, qui in navi movebatur celeritate AK dextrorsum, jam duplo celerius, hoc est tota
+<figure><graphic url="huyg003oeuv07ill09.gif"></graphic></figure>
+celeritate AB dextram versus moveri, ejusdem hominis, ripae consistentis, respectu. Qui proinde si manibus suis G et H prehendisse ponatur manus socii navigantis E F quas admodum diximus motas simulque capita filorum quibus pendent globuli A, B, apparet ejus manum H immotam stetisse, G vero versus illam accessisse ac proinde globum B ab A eodem modo impelli debere ac si ipsum B immotum mansisset eique impegisset A celeritate AB.</p>
+<p>Atqui respectu navigantis, cum globuli A et B aequali uterque celeritate sibi occurrant necessario post occursum aequalibus rursum celeritatibus recedent ejusdem navigantis et partium navis respectu<note n="#3"/>, nempe globulus B celeritate KB dextram versus et A celeritate KA sinistrorsum. Sed et navis ipsa dextrorsum fertur celeritate KB. Itaque globus B respectu ripae hominisque in ea stantis dextrorsum movetur post occursum celeritate ipsius KB dupla, seu celeritate AB. Globus vero A motus omnis expers manet eodem respectu siquidem in navi eandem celeritatem habet sinistrorsum qua navis procedit in partem dextram.</p>
+<p>Itaque ostendimus in ripa stanti globulumque A in quiescentem B adigenti celeritate AB omnem hanc transferri in ipsum B simulque A ad quietem redigi, quod erat propositum.</p>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>

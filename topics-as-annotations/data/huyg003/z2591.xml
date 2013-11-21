@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2591"/>
+<meta type="date" value="1690-05-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2591">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 12 May 1690.</p>
+</div>
+<p>Ce matin madame vostre femme m'a envoyé l'imprimé du Chronological Automaton, que vous luy aviez adressè pour cela, comme je crois. Apparemment vous aurez eu la curiositè de voir cet ouvrage qui, a ce qui paroit par la description, ne represente que les apparences des choses celestes, et non pas ce qu'elles sont dans la veritè et par rapport au systeme entier, ainsi que ma machine<note n="#1"/>. Il faut pourtant que l'ouvrier ait de l'industrie, et quelque connoissance de l'Astronomie que je juge estre mediocre, parce qu'il met le mouvement des fixes ou des Equinoxes d'un degré en 100 ans, au lieu de 70 environ. Ce que j'y trouve de meilleur est l'indication des Eclipses, pour vu qu'elle soit un peu exacte. Mr. <persName key="hire005">de la Hire</persName> me mande<note n="#2"/>, qu'il a inventé une machine pour ce mesme effect, qu'il dit estre plus simple et plus correcte que celle de Mr. <persName>Romer</persName> que j'ay veu a Paris; et il m'a promis de m'en envoyer la description imprimée quand il en poura trouver l'occasion.</p>
+<p>Il me demande aussy la description de mon Automate Planetaire pour la faire imprimer, ainsi qu'ils ont fait de plusieurs petits ouvrages qu'ils ont trouvé de moy dans les Registres de l'Academie, mais je n'en ay encore rien pu avoir.</p>
+<p>Je vous prie derechef de me dire, si Meester ne vous a pas rendu les 4 Exemplaires, qui je luy ay confiez. Et s'il les a rendu, d'ou vient que milord <persName key="herb901">Pembrock</persName> et Mr. <persName key="wall057">Wallis</persName> n'ont pas eu les leurs. Pourquoy aussi le Dr. Stanley n'a pas fait tenir le sien a Mr. <persName key="boyl001">Boyle</persName>.</p>
+<p>Ayant besoin de voir quelque chose dans Salinas<note n="#3"/> autheur de musique, je l'ay cherché dans le Catalogue Alphabetique que vous avez laissé, mais ne l'y ay point trouvè, quoy qu'il me semble que vous l'ayez eu dans vostre partage. Si cela est je vous prie de le chercher dans le Catalogue que vous avez la et de m'en mander le numero.</p>
+</div>
+</body>
+</text>
+</TEI>

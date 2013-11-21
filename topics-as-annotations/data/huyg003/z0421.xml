@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0421"/>
+<meta type="date" value="1657-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="brun004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0421">
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName> <persName key="brun004">Brunoni</persName> S.D.</p>
+<p>Heros.</p>
+</div>
+<p>Patris Poemata<note n="#1"/> cum jam pene ad umbilicum perducta sint, neque quidquam supersit excudendum praeter Clarorum Virorum epigrammata<note n="#2"/> quibus frontem operis sui exornari cupit. Te quoque opera mea monitum voluit ut si quid in eam rem vel jam nunc hujuscemodo meditatus es, vel acceptis hisce etiamnum inchoaturus, id primo quoque tempore nobis mittas obiter inspiciendum. Volumen integrum ad vander Burgium<note n="#3"/> deferri curavi, quo te si Amstelodami esses ablegarem. Nunc revoca tibi in mentem quibus ex partibus illud conflatum sit. nosti enim quae Otiorum titulo<note n="#4"/>, quaeque seorsim postea Pater ediderit. Totum vero opus Corebloemen inscribere ei placuit, quasi inter aristas utiles (quotidiana negotia intellige) veluti inutiles flosculi succreverint, nec tamen plane invenusti. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

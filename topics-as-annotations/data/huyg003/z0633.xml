@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0633"/>
+<meta type="date" value="1659-07-04"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0633">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>4. Juillet 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>pour respondre a celle que vous m'auez faict l'honneur de mescrire le 19 du passé<note n="#1"/>, je commenceray par la communication que je veux vous faire de ce que porte la derniere lettre que j'ay receue de Monsieur le Prince Leopold de Florence, &amp; qui vous concerne; vous verrez que vostre reputation est allee jusques a eux, &amp; qu'ils vous estiment grandement, ce sont les propres paroles<note n="#2"/>.</p>
+<p>Ainsi vous pouuez juger que la dedicace<note n="#3"/> que vous luy ferez de vostre escrit de Saturne sera receue de son Altesse auec tout le bon accueil &amp; toute la faueur qui se puisse tesmoigner a vne personne que l'on estime.</p>
+<p>Ayant conferé quelques autres obseruations que j'ay eues de Leyden en 1652. Je trouue le Meridien de Leyde esloigné de celluy de Paris de 8′⅓ seulement. &amp; celluy de Brusselles de 8′¾. Si lors que mon Astronomie Philolaique a esté imprimee j'eusse de semblables obseruations, je n'aurois pas suiui celle de feu Monsieur Martinus Hortensius.</p>
+<p>Je suis tres-aise que vous ayez receu les 6. exemplaires du liure de Monsieur <persName key="pasc001">Paschal</persName><note n="#4"/>, &amp; que vous ayez rencontré l'occasion prompte<note n="#5"/> pour faire tenir en Angleterre ceux qui y estoient destinez.</p>
+<p>J'ay esté chercher trois ou quatre fois Monsieur Carcaui sans auoir pû le rencontrer, si vous luy escriuez je luy feray rendre la lettre<note n="#6"/> au lieu ou il se trouuera s'il est a la campagne.</p>
+<p>Je vous rends graces, Monsieur, de la bonté que vous auez eüe de commander a l'ouurier l'horologe que je vous ay prié de luy faire faire, je vous supplie treshumblement de vouloir tenir la main afin qu'elle soit bien faicte &amp; bien exactement.</p>
+<p>Monsieur Petit est comme le feu Pere <persName key="mers004">Mersenne</persName>, il propose tousjours plusieurs questions &amp; cependant il en resoult peu; &amp; si vous vous laissez aller a ses demandes &amp; questions &amp; que vous vouliez entreprendre d'y respondre vous n'en verrez jamais le
+bout, je vous donne cet aduis, que je vous prie de tenir secret. Je vous feray seulement icy vne question, A scauoir si le pendule reigle le mouuement des roues de maniere que le mouuement de celles cy demeure tousjours egal, comme le mouuement du pendule libre est tousjours egal pour le temps en ses reciprocations, encores qu'elles se facent par les portions d'arcs du mesme cercle plus grandes ou plus petites. ma raison de douter est, que selon la differente impulsion donnee a quelque pendule que ce soit, son mouuement sera plus ou moins viste, &amp; ainsi le pendule dans l'horologe receuant du mouuement des roües l'impulsion, par laquelle son mouuement continue, il n'y a pas lieu de doubter que la roue cheminant plus viste, fera aussi mouuoir plus viste le pendule. &amp; partant ce que l'on peut auoir du pendule ce me semble c'est quil peut entretenir l'egalité du mouuement des roues auparauant limitee &amp; determinee par la justesse du poids. j'auertiray a la rencontre Monsieur Petit de ce que vous desirez.</p>
+<p>Jay des tuyaux tout prests pour me seruir de vos verres, mais je suis en peine a present de placer la machine, n'ayant pas de lieu bien propre en cette maison. Je seray bien ayse de voir la Geometrie<note n="#7"/> de Monsieur des Cartes que Monsieur <persName key="scho197">Schotten</persName> a faict reimprimer auec ces belles inuentions des lignes courbes egales a des droites. Je suis de tout mon coeur &amp; tres veritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur, <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

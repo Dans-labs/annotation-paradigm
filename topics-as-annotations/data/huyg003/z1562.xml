@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1562"/>
+<meta type="date" value="1666-11-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="doub005"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1562">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 5 Nov. 1666.</p>
+</div>
+<p>Ie n'aurois pas estè si longtemps sans vous faire response<note n="#1"/> si je n'avois trouuè que l'escrire me faisoit mal à la teste. Ie fus fort aise d'apprendre de vous mesme l'amandement de vostre santè dont Mon Pere depuis m'a mandè<note n="#2"/> l'entier restablissement. I'espere que bientost j'en apprendray autant de celle de ma soeur<note n="#3"/>, que je plains de tout mon coeur d'avoir souffert si longtemps<note n="#4"/>.</p>
+<p>Pour moy je me porte bien Dieu mercy si non que je suis souvent 5 ou 6 jours sans faire ce que Monsieur van Leeuwen<note n="#5"/> sans se chagriner ne manque pas de faire tous les jours. I'ay appris avec joye la naissance de son second fils<note n="#6"/> et je vous
+prie de l'en feliciter de ma part quand vous le verrez. Il semble que Madame sa femme<note n="#7"/> soit à cet heure dans le bon chemin pour en 5 ou 6 ans luy faire avoir nombre egal de l'un et de l'autre sexe<note n="#8"/>.</p>
+<p>Vous m'avez appris le premier le mariage du Sieur Boreel<note n="#9"/> avec Amarante<note n="#10"/>, sur lequel j'ay fait compliment à mademoiselle sa seur<note n="#11"/>, qui dit qu'a la fin tout s'est passè au grè et contentement des parens, et que sans cela ledit Sieur n'avoit voulu conclure le marchè. Pour elle je n'ay pas entendu parler de personne depuis que je suis en France, dont la cause n'est autre que celle que vous touchez, car de la beautè et du merite il y en a, comme vous scavez abondamment.</p>
+<p>Ie m'estonne que vous ne scauriez entendre par vous mesme la raison pourquoy les carioles dont je vous ay envoiè<note n="#12"/> la figure pesent moins sur le cheval que celles ou les roues sont tout derriere. Il me seroit trop de peine de vous en faire une demonstration qui vous satisfit; cependant je vous en diray le fondement, qui est qu'en supposant que l'on leve les bouts des flesches A jusqu'en G, il est certain
+<figure><graphic url="huyg003oeuv06ill20.gif"></graphic></figure>
+que de la position AB elles vienent en GE; la droite GE coupant AB dans la perpendiculaire de l'axe CS; de sorte que l'homme qui estoit en F, n'est haussè que jusques en H par le dit mouvement de A en G. Mais si la roue estoit attachée en B, la flesche AB seroit venue en GB et l'homme F en K, le quel poinct K est deux fois
+si haut que H par dessus F, quand FB est double de FD. Et partant il y aura deux fois autant de peine a hauser le devant des flesches de A en G lors que les roües sont au derriere en B, que quand elles sont en C. C'est a dire que les dites flesches peseront deux fois autant sur le cheval au premier cas qu'a l'autre, car la pesanteur respond exactement en cela a la peine qu'il y a<note n="#13"/> hausser les bouts d'un mesme espace AG. Peut estre que cecy vous suffira, si non, pluribus coram quelque jour.</p>
+<p>Ie n'ay pas encore veu ce carosse a 6 portïeres dont vous parlez ni n'en ay pas ouy parler a personne qui sceut bien ce que c'est, et cela mesme me fait croire que l'invention ne vaut pas grand chose parce qu'autrement elle auroit fait plus de bruit.</p>
+<p>Ie voudrois avoir veu de l'ouurage de vostre vander Ulft<note n="#14"/>, ou que nous en eussions icy quelque chose pour le faire connoistre. Ce Werner<note n="#15"/> de qui j'ay un petit tableau<note n="#16"/>, a bien gagnè de l'argent en cette cour.</p>
+<p>I'avois demandè une copie de vos portraits de Netscher<note n="#17"/> a ma soeur, sur quoy je ne scay pas ce que le bon Dieu luy inspirera, car devant que de recevoir ma lettre je crois qu'elle tomba malade.</p>
+<p>La cousine Caron<note n="#18"/> l'est depuis 4 ou 5 jours, mais point dangereusement jusqu'icy. Mais son petit garçon<note n="#19"/> est tres mal et je doute fort s'il pourra eschapper.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="doub005">de Moggershil</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

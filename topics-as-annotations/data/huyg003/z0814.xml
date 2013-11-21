@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0814"/>
+<meta type="date" value="1660-11-25"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="cusa002"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0814">
+<div type="opener">
+<p>A Madame <persName key="cusa002">de Lorraine</persName>.</p>
+<p>A <placeName key="denha004">la Haije</placeName> ce <date>25<hi rend="sup">e</hi> nou. 1660</date>.</p>
+<p>Madame;</p>
+</div>
+<p>La cruauté que Vostre Altesse prend plaisir à m'inputer ne consiste qu'en pur respect; je la supplie une fois pour toutes d'en juger ainsi, et que voijant mes lettres sans response ie ne sçauroij m'enpescher d'imaginer quelles ne vous peuuent tendre qu'à inportunité, outre que ic ne voij gueres arriuer de choses icij dont il ij aijt moijen de fort regaler Vostre Altesse. Je suis fort marrij de veoir que de delà aussi les plaisans subjets ne naissent pas en abondance. Il est vraij, madame, que ce Prince<note n="#1"/> vous traicte quasi de mesme qu'on le traicte à Paris et ainsi l'une longueur
+cause assez legitimement l'autre, et ma patience s'ij accommode jusqu'à là. mais elle m'eschappe, quand ie voij qu'on m'escrit de Paris, que nostre bizarre Altesse<note n="#2"/> persisteroit tousiours à demander une des niepces du Cardinal<note n="#3"/>.
+sur quoij certain Prelat auoit dit à ceste Eminence quest Vechio in ogni modo vuol un pezzo di carne Mazarina.
+Je croij que Vostre Altesse entend si souuent de ces bruits, qu'elle me pardonnera bien que je luij debite franschement ce que j'en scaij. mon auteur est mon fils <persName key="huyg003">Archimede</persName><note n="#4"/>, qui est à Paris et l'a sceu de la bouche d'un autre Prelat son amij:
+J'auoij gourmandé ce garçon, de ce que passé à Mons, il auoit manqué de faire la reuerense à Vostre Altesse.
+mais il me repond, pour excuse assez raisonnable, qu'aijant eu grandissime enuie de se donner cest honneur, il en auoit esté destourné parce que le matin comme il deuoit partir, avec sa compagnie, il apprit que Vostre Altesse n'y estoit arriuée que le soir d'auparauant, et bien tard<note n="#5"/>; de forte que son office n'eust pû estre nommé qu'inciuilité.
+A Paris il trouue toute sorte d'accueil parmi les illustres, qui l'ont connu de reputation, et les Princes mesmes l'en carressent plus quil ne croit meriter.
+Entre autres regales on l'entretient de beaux concerts de musique, où il me semble qu'il ne manque que la belle presence de madame de Lorraine, de la petite Francisque<note n="#6"/> et la miene.
+Car pour madame la Princesse de Lislebonne<note n="#7"/>, comme elle en reuient toute rassassee, peut estre ne voudroit elle pas nous gratifier de tout le silence dont nous aurions besoin.
+Je me represente fort bien le grand auantage que ce bel esprit doibt auoir tiré de ce qu'on luij a faict entendre de beau en france, estant susceptible de toutes les bonnes choses, et promtement et adroitement: comme, entre autres il appert par la bonne nouuelle que Vostre Altesse me faict l'honneur de m'en donner. Car à vraij dire:</p>
+<lg type="poem">
+<l>C'est bien auoir compris sa petite grammaire</l>
+<l rend="; 1tab">Pour la premiere fois,</l>
+<l>Où un petit enfant enfante une grand'mere</l>
+<l rend="; 1tab">en moins de douze mois.</l>
+</lg>
+<p>que j'auroij enuie de m'estendre plus amplement sur ce beau subject nuptial! mais
+quand Vostre Altesse auroit la bonté de souffrir mon caquet, ie craindroij que l'illustre Espouse ne me fist donner sur les doigts, moij qui n'aij que trop osé tenter sa patience, quand parfois mon sot zele pour la musique m'a emporté a la supplier de faire taire le monde qui auoit l'honneur de l'entretenir.
+Madame, ne reuiendrons nous jamais plus à de ces conuersations? qu'est ce que Vostre Altesse nous en laisse esperer.
+Ce sont les questions que je faij journellemment au Parnasse d'Anuers<note n="#8"/>, et nous nous consolons par lettres du mieux qu'il nous est possible.
+Vostre Altesse void par ceste quatriesme page, que c'est d'irriter les causeurs. jen rougis veritablement et me haste de vous dire ce qui sera veritable tant que je seraij et que je suis plus qu'homme du monde.</p>
+</div>
+</body>
+</text>
+</TEI>

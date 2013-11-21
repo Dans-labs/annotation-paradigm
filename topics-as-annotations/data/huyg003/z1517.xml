@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1517"/>
+<meta type="date" value="1666-01-25"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1517">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 15. janvier 1666.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je ne vous eusse pas interrompu astheure, n'eût esté que l'annexe<note n="#2"/> du Chevalier Moray m'y eût obligé, pour satisfaire à laquelle ie vous diray, que par le discours de Monsieur Hook ie viens d'entendre, qu'il est persuadé, que l'Air aura moins d'operation sur les Montres de sa facon<note n="#3"/>, que sur les Pendules; et qu'il
+peut determiner leur mouuement en sorte qu'il demeurera tousiours le mesme, en quelque posture que soit la montre; de plus, qu'il peut entretenir le dit mouuement auec si peu de force, qu'il luy plaira, et quand vne plus grande seroit requise, qu'il leur en peut donner autant qu'il faudra<note n="#4"/>.</p>
+<p>Quand à sa machine pour tailler des verres<note n="#5"/>, ie trouue, que tant s'en faut qu'il l'ait quittée, qu'il en a aussi bonne esperance, que iamais, estant resolu de tacher de pousser cet' affaire about, tout aussi tost qu'il aura remis en ordre les choses pour cela necessaires.<note n="#6"/>.</p>
+<p>Monsieur de Son<note n="#7"/> travaille<note n="#8"/> tousiours à la Parabole, y meslant bien d'Hyperboles pour persuader les merveilles, que cete figure fera pour l'avancement des Telescopes. Nous en attendons l'Experience, pour voir, si cete figure est aussi propre pour la refraction qu'elle est pour la Reflexion.</p>
+<p>Quand aux Montres portatives du mesme Artiste<note n="#9"/>, il en a fait faire deux ou trois, dont il fera present à la Cour. La facon en est, qu'il y a un ressort bien delié, pour regler, au lieu de Pendule, le Balancier, qui, quoyque le dit resort ne soit pas la moitié si fort, que celuy, qui se trouue dans d'autres, sera 7. à 8. fois plus pesant, que celuy dans de Montres ordinaires, pour brider et commander les rouës en sorte, que le mouuement en soit rendu aussi esgal, que celuy des Pendules.</p>
+<p>Je suis tres aise que Signor <persName key="cass021">Cassini</persName> confirme par ses Observations<note n="#10"/> la tasche permanente en ♃, qui fut descouuerte icy par Monsieur Hook, il y a plus d'un an et demy, come il se peut voir dans la premiere<note n="#11"/> de nos Transactions Philosophiques, d'ou Monsieur Auzout l'allegua, il y a quelques mois, dans sa Lettre inprimée<note n="#12"/> à Monsieur L'Abbé Charles, sur le Ragguaglio di due nuove Osservationi etc<note n="#13"/>. pag. 43 que sans doubte vous aurez veuë. Nous auons fait inprimer icy, auec d'autres choses la dite confirmation de Cassini, dans nos dernieres Transactions<note n="#14"/>, à fin d'exciter encor d'autres pour tacher de la fortifier contre tels doubtes, comme vous voyez dans la lettre de Monsieur Moray: touchant quoy pourtant ie vous puis dire, qu'un fort bon Observateur icy m'a assuré, qu'il a pû voir un des Satellites tout proche du disque de ♃, les rayons du corps n'en ostans pas la veuë.</p>
+<p>Voila, Monsieur, ce que i'auois à vous dire sur les particularités, touchées par nostre bon Amy; à quoy ie n'ay rien à adjouster, sinon que nostre Societé ne recommencera<note n="#15"/> pas facilement ses Assemblees, que la Cour ne soit de retour à Whitehall. Lors qu'elle se rassemblera, vous ne manquerez pas, dieu aidant, de scavoir ce qui s'y passe, ou du Chevalier<note n="#16"/>, ou de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+<p>Pour les lettres, que l'on m'addresse, il ne faut que mettre</p>
+<p>A <persName key="olde010">H. Oldenburg</persName>.</p>
+<p>In the midle of ye Palmall, London.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>à la Haye.
+<lb/>12</p>
+</div>
+</body>
+</text>
+</TEI>

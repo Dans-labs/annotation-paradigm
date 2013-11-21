@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2820"/>
+<meta type="date" value="1693-09-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2820">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 10 Sept. 1693.</p>
+<p>Au <persName key="hosp010">M. de l'Hospital</persName>.</p>
+</div>
+<p>Ce n'est pas sans apprehender de vous estre importun, Monsieur que je vous ecris celle-cy 8 jours apres ma precedente. Toutefois je n'ay pas voulu manquer
+de vous faire scavoir que contre mon dessein j'ay meditè sur le Probleme de Mr. <persName>Bernoully</persName>, qui estant beau me rouloit par la teste et qu'à la fin j'ay trouvè la maniere de le resoudre<note n="#2"/>. C'est non seulement a fin que vous n'aiez pas la peine de me l'expliquer, comme je vous en avois priè, mais aussi pour vous faire voir que je n'ay pas estè sans profiter de l'honneur de vostre correspondance et enseignements. Je vous ay mandè que la solution de Mr. <persName>Jac. Bernoully</persName> estoit dans les Acta de Leipsich du mois de Juin, la quelle estant fort courte je la mets icy, parce que peut-estre vous ne l'aurez pas encore vuë. In data pofitione recta AB assignatum est punctum A, et quaeritur curva AC, in qua sumpto ubivis puncto C, ductaque
+<figure><graphic url="huyg003oeuv10ill155.gif"></graphic></figure>
+per illud recta tangente CD, abscissa AD sit ad tangentem DC in constanti ratione <hi rend="i">n</hi> ad 1. Solutio. Abscissa quavis AD centro D radio DC, qui sit ad abscissam AD ut 1 ad <hi rend="i">n</hi>, describatur arcus circuli, fiatque, ut aggregatum unitatis et dicti radij ad potestatem ± 2<hi rend="i">n</hi> elevati, ad eorundem differentiam, sic ipse radius ad rectam DB auferendam ex positione data AB. Dico si super B erigatur recta BC perpend. ipsi AB, secansque arcum circuli in C, fore punctum C in curva optata AC<note n="#3"/>.</p>
+<p>Je trouve cette mesme construction, par laquelle si <hi rend="i">n</hi> est ½, <hi rend="i">a</hi> quelque ligne prise à discretion et AD ∞ ½ <hi rend="i">x</hi>, on a comme <hi rend="i">x</hi>+<hi rend="i">a</hi> à <hi rend="i">x</hi>-<hi rend="i">a</hi> ou <hi rend="i">a</hi>-<hi rend="i">x</hi>, ainsi CD à DB. Pour y parvenir j'ay rencontrè une equation, où d'un costè estoit Elementum d'un trapeze hyperbolique, de l'autre Elementum d'un espace de la courbe dont l'equation est <hi rend="i">a</hi><hi rend="sup">3</hi>/<hi rend="i">aa</hi>/<hi rend="i">nn</hi>-<hi rend="i">yy</hi> ∞ <hi rend="i">v</hi>, et qui a sa quadrature dependente de celle de l'hyperbole<note n="#4"/>. Ensuite je trouve que la
+solution demande qu'on puisse diviser
+ou augmenter un trapeze hyperbolique en raison donnée<note n="#5"/>, ce qui se fait geometriquement lors que la raison de CD à DA est de nombre à nombre, mais par la Logarithmique lors que cette raison ne s'exprime que par des lignes<note n="#6"/>. Apparemment j'auray passè par le mesme chemin que vous, Monsieur, car je ne pense pas qu'il y en ait icy plusieurs differens. Au reste ce Probleme contient des choses remarquables et me paroit le plus beau, qu'on ait encore proposè pour la methode inverse des Tangentes. Je vois que Mr. <persName>Bernouilly</persName> raisonne sur l'utilitè de ces courbes<note n="#7"/>, dont je ne scay si vous avez aussi bonne
+opinion. J'ay trouvè depuis peu une autre courbe d'un usage qui n'est point douteux et bien d'une autre importance, laquelle je suis obligè par des raisons de tenir encore cachée<note n="#8"/>. En examinant de nouveau la quadrature qu'avoit donné Mr. <persName key="leib013">Leibnitz</persName> de la feuille de Des Cartes<note n="#9"/>, j'ay trouvè qu'elle estoit vraie en prenant <hi rend="i">y</hi> comme dans la vostre seconde<note n="#10"/>, de sorte que je luy fais reparation d'honneur<note n="#11"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

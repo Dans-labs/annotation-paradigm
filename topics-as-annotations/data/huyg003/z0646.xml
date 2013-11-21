@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0646"/>
+<meta type="date" value="1659-08-05"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0646">
+<div type="opener">
+<p><placeName key="luik_001">Leodij</placeName> <date>5<hi rend="sup">ta</hi> Aug<hi rend="sup">ti</hi> 1659</date>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Quod ominatus fueram cum ad Te libellum meum transmisi id reipsâ nunc experior, fore nimirum vt viam inuenires quam illi<note n="#1"/> in opere perficiendo ingressus sum. Fateor enim cum primum incepj occurrisse mihi cogitationes ijs similes quas ad me misistj<note n="#2"/>. Sed vt agam ingenue, aliâ demum ac faciliorj methodo vsus sum, quam sj porro pergas vt coepisti reperturum Te non dubito. Addis, non solum illum circulum adhiberj posse quj rectangulum ex duabus extremis includit sed alios quoque numero infinitos, de quo ne <hi rend="i">προπετῶς</hi> iudicium feram, rogo vt rem accuratius explices, et exemplo aliquo illustres, magno enim opere me obligabis si id feceris. Cartesio plurimum faueo, fuit enim acutus supra quam dici potest Geometra, sed <hi rend="i">συντ</hi> Ἀ<hi rend="i">δραστείᾳ λέγω</hi>, non ita multum debeo. Eram enim in locorum consideratione priusquam eius Geometriam vidissem. Nam quid tandem sunt loca nisj figurarum proprietates, quas ex analysi venarj ea demum Geometrae laus est, quae sane Cartesio in primis debetur. Quid vero ab illius methodo mea discrepet videbis in alio opere, immo in hoc ipso si quas antea tibi significaui propositiones 3<hi rend="sup">am</hi> et 6<hi rend="sup">tam</hi> inter se conferas. Si quid interim eâ de re scribendum mihj sit, et si quid vltra desiderem, id fiet sine vllius nedum viri illius magni reprehensione, sum enim minime omnium <hi rend="i">ϕιλόψογος.</hi> Ex his satis, vt opinor, perspicis opus non esse vt symbolis Cartesianis vtar: praeterquam enim quod scripta mea recudere ac reformare deberem, (quod quidem difficile foret et erroribus
+obnoxium) id nihil omnino vtilitatis adferret, nam licet plerumque in conclusionibus pari passu ambulemus, in constructionibus tamen saepe <hi rend="i">δὶς διὰ πασῶν</hi>, vt aiunt, differimus. Arbitror autem characteres meos non ita a Cartesianis abire vt negotium vel tironi exhiberi possint. De Typographo optime mones, et doleo nobis non esse felicioris ingenij artifices: Tu succurre, et consilium suggere quod in alio opere sequi debeam. Exemplum adiungo methodj meae in planis, non illud quidem alicuius momentj, sed tantum vt in eiusdem Analysim inquiras. Proponatur dato semicirculo
+<figure><graphic url="huyg003oeuv02ill155.gif"></graphic></figure>
+AFC inuenire in Diametro AC punctum E, a quo si in angulo dato ducatur EF, rectangulum AEC ad quadratum EF habeat rationem datam. Vnicum casum construo. Data sit ratio XO ad NO, angulus ONG. diuidatur XN bifariam in M et ex punctis M et N cadant in OG normales MD, NG. Tum facto in centro angulo CBS, aequali dato GNO, sumatur BS aequalis DG, et eidem ad rectos SI aequalis MD. Deinde producatur BS in K ita ut SK possit vtramque CB, BS<note n="#3"/>. Demum centro I, interuallo IK, describatur arcus KF, secans semicirculum datum in F puncto ex quo ducatur FE ad diametrum parallela BS. Dico rectangulum AEC ad quadratum EF, habere rationem datam XN ad NO<note n="#4"/>, esseque in angulo dato. Unde cum rectae MD, DG continuo variari possint, si rectae XO, NO varientur in eadem ratione, patet infinitos circulos<note n="#5"/> satisfacere proposito.</p>
+<p>Audi nunc aliud. Accepi a Clarissimo Gutiscovio nostro libellum Thomae Angli ex Albijs<note n="#6"/> (Chrysaspidem vocat) mole non magnum, sed qui magna promittat. Quadraturam nempe circulj et his <hi rend="i">παραπλήσια.</hi> Cum ab anno exercitationem<note n="#7"/> edidisset auctor, qua conatus fuerat ostendere spiralem primae reuolutionis aequalem esse semiperiferiae suj circulj, eum monui per amicum<note n="#8"/> hunc errorem olim a Guldino admissum et correctum esse. Ille nunc obfirmato animo in Guldinum inuehitur<note n="#9"/>, eumque ignorantiae arguit quod neglecta demonstratione vt putat Geometricâ, calculo arithmetico fidem habuerit. Miserer me Geometriae cum talia video, sed magis auctoris, qui quam in studijs sublimioribus famam adeptus est, hoc libello multum imminuit. Sed nihilne Geometrae vestri in meo reprehensione dignum adnotarunt? Si quid intellexisti sac me certiorem, atque insuper si quod Problema planum aut solidum habes cuius constructionem difficilem arbitraris, mitte sodes vt in eo methodj meae periculum faciam. Vale interim Vir praestantissime ab eo qui pleno affectu est</p>
+<div type="closer">
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

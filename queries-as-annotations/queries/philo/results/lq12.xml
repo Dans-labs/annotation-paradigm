@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><!DOCTYPE mql_results [
+  <!ELEMENT mql_results (mql_result)* >
+  <!ELEMENT mql_result ((mql_progress)?, status, (error)?, (warning)?, (table|sheaf|flatsheaf)?) >
+  <!ELEMENT mql_progress (#PCDATA)* >
+  <!ELEMENT status EMPTY >
+  <!ELEMENT error (error_source, error_stage, 
+                   error_message_db, error_message_compiler) >
+  <!ELEMENT error_source EMPTY >
+  <!ELEMENT error_stage EMPTY >
+  <!ELEMENT error_message_db (#PCDATA)* >
+  <!ELEMENT error_message_compiler (#PCDATA)* >
+  <!ELEMENT warning (#PCDATA)* >
+  <!ATTLIST mql_results >
+  <!ATTLIST mql_result  >
+  <!ATTLIST status 
+                success (true|false) #REQUIRED >
+  <!ATTLIST error >
+  <!ATTLIST error_source 
+                source  (compiler|db) #REQUIRED >
+  <!ATTLIST error_stage  
+                stage   (none|parse|weed|symbol|type|monads|exec) #REQUIRED >
+  <!ATTLIST error_message_db >
+  <!ATTLIST error_message_compiler >
+  <!ATTLIST warning >
+  <!ELEMENT table (theader, trow*) >
+  <!ELEMENT theader (theadercolumn)* >
+  <!ELEMENT theadercolumn (tcaption, ttype) >
+  <!ELEMENT tcaption (#PCDATA)* >
+  <!ELEMENT ttype EMPTY >
+  <!ELEMENT trow (tcolumn)* >
+  <!ELEMENT tcolumn (#PCDATA)* >
+  <!ATTLIST table >
+  <!ATTLIST theader >
+  <!ATTLIST theadercolumn >
+  <!ATTLIST tcaption >
+  <!ATTLIST ttype 
+     type (bool|string|integer|id_d|enum|list_of_integer|list_of_id_d|list_of_enum) #REQUIRED
+     enum_type CDATA #IMPLIED >
+  <!ATTLIST trow >
+  <!ATTLIST tcolumn >
+  <!ELEMENT sheaf (straw)* >
+  <!ELEMENT straw (matched_object)* >
+  <!ELEMENT matched_object (monad_set, (features)?, (sheaf)?) >
+  <!ELEMENT monad_set (mse)+ >
+  <!ELEMENT mse EMPTY>
+  <!ELEMENT features (feature)+ >
+  <!ELEMENT feature (#PCDATA) >
+  <!ATTLIST sheaf >
+  <!ATTLIST straw >
+  <!ATTLIST matched_object 
+            object_type_name CDATA #REQUIRED 
+            focus (false | true) #REQUIRED
+            marks (CDATA) #IMPLIED
+            id_d CDATA "nil"
+  >
+  <!ATTLIST monad_set >
+  <!ATTLIST mse
+            first CDATA #REQUIRED
+            last  CDATA #REQUIRED
+  >
+  <!ATTLIST feature
+            feature_name CDATA #REQUIRED
+            feature_type (string|integer|id_d|enum|list_of_integer|list_of_id_d|list_of_enum) #REQUIRED
+            enum_type CDATA #IMPLIED 
+  >
+  <!ELEMENT flatsheaf (flatstraw)* >
+  <!ELEMENT flatstraw (matched_object)* >
+  <!ATTLIST flatstraw
+      object_type_name CDATA #REQUIRED >
+]>
+
+<mql_results>
+   
+   <mql_result>
+      <mql_progress>
+         
+      </mql_progress>
+      <status success="true"/>
+   </mql_result>
+   
+   <mql_result>
+      <mql_progress>
+         
+      </mql_progress>
+      <status success="true"/>
+   </mql_result>
+   
+</mql_results>

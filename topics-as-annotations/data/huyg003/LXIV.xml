@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXIV"/>
+<meta type="date" value="1678"/>
+<meta type="sender" value="roqu005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXIV">
+<p>Quand uous ne uous seriez pas donné la peine de uenir ni de m'escrire Monsieur je n'aurais pas manqué de uous faire uoir toutes choses, s'il uous a dit la maniere dont ie repondis à celuy qui me l'a presenté, et comme je luy dis que je m'en remettois a tout ce que uous uoudriez uous aurez pû connoistre Monsieur, que ie ne negligeray iamais les occasions de uous faire connoistre que je suis auec beaucoup d'attachement</p>
+<div type="closer">
+<p>Votre tres humble seruiteur
+<lb/><persName key="roqu005">De la Roque</persName></p>
+</div>
+<p>J'ay differé à uous enuoyer un Journal parce que ie uoulois uous l'aller porter moy même. au reste M<hi rend="sup">r</hi>. il y a quelques personnes qui sont apres a suppeter l'affaire du P. Lana pour uoler en l'air. croiriez uous que ce fust une chose de Journal.</p>
+</div>
+<div type="para">
+<p>A Monsieur <persName key="huyg003">Hugens de Zulechem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

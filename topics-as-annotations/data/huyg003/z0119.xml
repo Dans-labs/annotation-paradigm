@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0119"/>
+<meta type="date" value="1652-01-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vinc027"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0118"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0119">
+<p><figure><graphic url="huyg003oeuv01ill82.gif"></graphic></figure></p>
+<p>Esto sphaera, cujus centrum <formula>M</formula>, et data proportio quae est lineae <formula>R</formula> ad <formula>S</formula>.</p>
+<p>Secta intelligatur sphaera per centrum plano, eaque sectio sit circulus <formula>ABCD</formula> cujus diametri se invicem ad angulos rectos secantes, sunto <formula>AC</formula>, <formula>BD</formula>.
+Dividatur <formula>AC</formula> in <formula>A</formula><note n="#1"/>, ut sit sicut <formula>R</formula> ad <formula>S</formula> ita <formula>CE</formula> ad <formula>EA</formula>. deinde producatur <formula>DB</formula>, et sit <formula>BF</formula> aequalis radio <formula>BM</formula>, et ad axem <formula>FB</formula> vertice <formula>F</formula> describatur parabola <formula>FG</formula> cujus latus rectum ipsi <formula>FB</formula> aequale.
+Porro junctis punctis <formula>E</formula>, <formula>F</formula>, describatur centro <formula>E</formula> radio <formula>EF</formula> circumferentia circuli <formula>FG</formula>. quae ubi parabolam descriptam proxime verticem secabit in <formula>G</formula>, inde ducatur <formula>GKL</formula>, parallela <formula>FD</formula>, et secetur sphaera plano secundum <formula>KL</formula> quod rectum sit ad planum <formula>ABCD</formula>.
+Dico portionem <formula>KAL</formula> ad <formula>KCL</formula> portionem, habere rationem quam <formula>R</formula> ad <formula>S</formula>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0578"/>
+<meta type="date" value="1658-06"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0576"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0578">
+<p>La Quadrature des Perles. de Monsieur <persName key="slus001">Sluse</persName>, par <persName key="mylo002">Cl. Mylon</persName>. En Juin 1658.</p>
+<p><figure><graphic url="huyg003oeuv02ill122.gif"></graphic></figure></p>
+<p>Si la Courbe A C <hi rend="i">h b</hi> K, à cette proprieté. A <hi rend="i">b</hi> estant son Axe, C <hi rend="i">d</hi>, <hi rend="i">hg</hi>, ses ordonnées. si C <hi rend="i">d</hi> est à <hi rend="i">h g</hi> comme le produit de A <hi rend="i">d</hi> en <hi rend="i">d b</hi> quarré au produit de A <hi rend="i">g</hi> en <hi rend="i">gb</hi> quarré. Je Dis que l'Espace plan A C <hi rend="i">h b</hi> A, est au rectangle de l'axe A <hi rend="i">b</hi> et de l'ordonnée du milieu <hi rend="i">h g</hi>, comme 2. à 3.</p>
+<p>Soient diuisées A <hi rend="i">g</hi>, <hi rend="i">gb</hi> en nombre egal et jndefini de parties egales aux points comme <hi rend="i">d.</hi> d'ou soient esleuées autant d'ordonnées <hi rend="i">d</hi> C.</p>
+<p>A Cause de la proportion enoncée par l'hypothese, quand la somme des ordonnées <hi rend="i">d</hi> C (ou son homologue, la somme des produits A <hi rend="i">d</hi> en <hi rend="i">d b</hi> quarré) representera l'espace plan A C <hi rend="i">h b</hi> A; Alors la somme d'autant de fois <hi rend="i">h g</hi> l'ordonnée du milieu (ou son homologue, la somme des produits A <hi rend="i">g</hi> en <hi rend="i">g b</hi> quarré c'est a dire des A <hi rend="i">g</hi> Cubes) representera le rectangle AI.</p>
+<p>Or les produits A <hi rend="i">d</hi> en <hi rend="i">d b</hi> quarré de suite sont les produits des termes qui sont vis a vis l'un de l'autre dans les deux progressions E, F, dont E contient les Nombres naturels depuis l'vnité jusques au plus grand nombre de la diuision jndefinie de A <hi rend="i">b</hi>, et la Colonne F contient leurs quarrez Naturels de suite d'un ordre retrograde.</p>
+<p>Je separe ces produits et en faits les Colonnes O, P, Q, R, S, T, U, X. dont chaque nombre est le produit de l'vnité par chaque nombre de la progression F. ainsi en la Colonne O. le Nombre 64 est le produit de 1. en 64. et aux Colonnes O, P, les nombres 49. sont les produits de 1. en 49. et de 1 en 49 et ainsi de suite.</p>
+<p>Alors chaque Colonne O, P, Q, R,<note n="#1"/> T, U, X, sera composée d'vne suite retrograde des quarrez Naturels en descendant toujours d'un moins.</p>
+<p>Donc les nombres de chaque Colonne O, P, Q, R, S, T, U, X, estant assembles, sont le tiers d'autant de fois le plus grand nombre de la mesme Colonne par la doctrine des Infinis. car la somme des quarrez est le tiers d'autant de fois le plus
+grand quarré. Et partant la somme de toutes ces Colonnes O, P, Q, R, S, T, U, X estant 2. la somme d'autant de fois leurs grands Nombres sera 6.</p>
+<p>Mais chaque somme d'autant de fois le plus grand nombre en chaqu'une de ces Colonnes O, P, Q &amp;caet. est vn plus grand Cube, et toutes ces sommes du plus grand Cube de suite depuis X jusques a O seront la suite des Cubes naturels depuis l'vnité jusques au plus grand de la diuision jndefinie. Et la somme de tous ces Cubes de suite est le quart d'autant de fois le plus grand, c'est a dire le quart du quarréquarré du plus grand nombre de la diuision jndefinie, par la doctrine des Infinis. donc ce plus grand quarréquarré sera 24.</p>
+<p>Or la somme d'autant de fois A<hi rend="i">g</hi> Cube qui est la huitieme partie d'autant de fois le plus grand Cube A <hi rend="i">b</hi>, (c'est a dire la huitieme partie de A<hi rend="i">b</hi> quarréquarré) est 3.</p>
+<p>Donc la somme de toutes ces Colonnes O, P, Q, R, S, T, U, X, c'est a dire des solides A <hi rend="i">d</hi> en <hi rend="i">d b</hi> quarré, c'est a dire l'Espace plan A C <hi rend="i">h b</hi> A, estant 2. la somme d'autant de fois A <hi rend="i">g</hi> en <hi rend="i">g b</hi> quarré, c'est a dire son homologue le rectangle AI est 3. donc jls sont entr'eux, comme 2. a 3. ce qu'il falloit demonstrer.</p>
+<p>&nbsp;</p>
+<p>Corollaire.</p>
+<p>&nbsp;</p>
+<p>Par vne semblable methode on trouuera la quadrature de la perle en laquelle l'ordonnée C <hi rend="i">d</hi> est a l'ordonnée <hi rend="i">h g</hi> comme A <hi rend="i">d</hi> en <hi rend="i">d b</hi> Cube à A <hi rend="i">g</hi> en <hi rend="i">g b</hi> Cube, car la figure A C <hi rend="i">h b</hi> A sera au ▭ A I comme 8. a 10. ou comme 4. a 5. en faisant vne semblable construction en laquelle les Colonnes O, P, Q, R &amp;caet. contiendront les Cubes naturels.</p>
+<p>Et ainsi des autres perles a l'Infiny.</p>
+<p><figure><graphic url="huyg003oeuv02ill123.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

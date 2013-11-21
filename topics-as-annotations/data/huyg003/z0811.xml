@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0811"/>
+<meta type="date" value="1660-11-19"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0811">
+<div type="opener">
+<p lang="it">Signor <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+<p lang="it">Non ordinario contento hò sentito dall'auuiso, che Vostra Signoria habbia riceuta la mia risposta, et che ella resti sodisfatta e della particolare mia affettuosa uolontà uerso di lei, e della stima non ordinaria che fò della sua uirtú; amendue questi miej sentimenti Lei confermo con ogni più adequata espressione, et desidero che Vostra Signoria alle occasioni con ogni confidenza maggiore mi esperimenti nell' opere a suo prò. Tralasciai di rimostrare nella lettera<note n="#1"/> che Lei scrissi il modo di sostenere il Cannochiale uicino all' Occhio per esser cosa a noi comunissima
+<figure><graphic url="huyg003oeuv03ill42.gif"></graphic></figure>
+e facile, mentre ci uagliamo solo, ó di due canne incrociate, et legate con una funicella, ó di due legni lauorati in tondo come si uede nella quì semplice figura, alzandosi piú ó meno l'incrociatura, e legatura secondo il bisogno richiede, et sappia che ottimamente serue. Procurerò di fare qual che studio sopra il comporre vetri puri, et atti al miglior uso della fabrica de gl' Occhiali et se mi sortirà il trouarne il modo, e ridurlo all' atto pratico, io glie ne auuiserò, acciò Vostra Signoria per quello che tocca alla materia, possa restare più sodisfatta. Intanto staró attendendo l'inuenzione del suo nuouo modo di Cannochiali, et doppo il suo ritorno in Olanda quelle opere che ella ne promette. Hauerà intanto in Parigi riceuta Vostra Signoria altra mia lettera nella quale io le auuisauo la comparsa della sua dotta risposta al Libretto del Diuini. Mi farà Vostra Signoria ben cosa grata ad auuisarmi quali persone degne da stimarsi nella Geometria et Astronomia habbia ritrouate in Parigi, doue Lei auguro felice stanza et appresso fortunato ritorno alla Patria, et con tutto l'affetto ogni altra più desiderabil felicità.</p>
+<div type="closer">
+<p lang="it">Al Piacere di Vostra Signoria Il Principe <persName key="medi012">Leopoldo</persName>.</p>
+<p lang="it">Di <placeName key="flore001">firenze</placeName> <date>19 Nouembre 1660</date>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it">Signor <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

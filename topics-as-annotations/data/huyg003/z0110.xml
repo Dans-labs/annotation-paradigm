@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0110"/>
+<meta type="date" value="1652-01-02"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0110">
+<div type="opener">
+<p>Clarissimo Viro D. <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Gratijs quàm plurimis de tuo libro aureo redditis, quid aliud Tibi magnificentius desiderare possum, quàm ut laboribus tuis nobilissimis nos beare pergas. Accurationem enim tuam quod attinet certè tum vel ipsae figurae, tum typus indicant; quiquevel ipsum librum non nisi leviter perlegerit, perpenderitque quo <seg org="pactotam" resp="#AD" type="corr">pacto tam</seg> paucis pagellis ea contineantur, quae in difficili adeò materiâ, tum doctissimos quosque hactenus latuere, vel si id invenire aggressi sint, conatus tamen eorum à Te eludantur, judicare utique debet à te non nisi magna quaeque esse exspectanda. Ad quae igitur speranda Deum ex animo praecor ut vitam Tibi longaevam ac incolumem elargiatur, inventisque faveat, quò et in boni publici usum atque commodum evulgare possis. Quare concludam cum adprecatione meà felicis Tibi Tuisque ineuntis anni auspicij agoque simul gratias pro dono, quod mihi sicut et reliqua jndustriae tuae monumenta in delicijs erit. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Leydae</placeName> <date>2 Januarij 1652</date>.</p>
+</div>
+<p>Dominus <persName key="guts001">Gutschovius</persName> habitat Lovanij, ubi est Matheseos professor, ac Medicinae Doctor.</p>
+</div>
+<div type="para">
+<p>Aen Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, ten huijse van Myn Heer <persName key="huyg001">van Zuijlichem</persName>
+<lb/>in S'gravenhage op t' plein.
+<lb/>Cito
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

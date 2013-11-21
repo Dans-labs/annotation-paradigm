@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2813"/>
+<meta type="date" value="1693-08-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2813">
+<div type="summary">
+<head rend="h4">Sommaire<note n="#2"/></head>
+<p>2 doutes dont je le quite. les deux sont fort belles je ne doute pas que la 3e ne le soit aussi<note n="#3"/>, collection des sommes paroit icy difficile<note n="#4"/>.</p>
+<p>que Bernoulli s'attribue la solution de la Beaunienne et de la Logarithmique.
+Lagni contre <persName key="roll901">Rolle</persName>. Manoeuvre des vaisseaux. qui est son antagoniste.</p>
+</div>
+<div type="opener">
+<p>Mr. <persName key="hosp010">le Marquis de l'Hospital</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 5 août 1693.</p>
+</div>
+<p>Depuis ma lettre, Monsieur, du 23 juillet, je me suis satisfait sur quelques uns des doutes sur lesquels je vous avois demandè de l'éclaircissement, ce que j'ay cru estre obligè de vous faire scavoir, a fin que vous perdiez moins de temps à me respondre, lors que vous me ferez cet honneur.</p>
+<p><figure><graphic url="huyg003oeuv10ill141.gif"></graphic></figure></p>
+<p>J'avois cru difficile de faire la collection des sommes dans vostre premiere maniere de rediger au quarrè la Feuille Cartesienne, mais l'aiant essaiè j'ay vu qu'elle se faisoit par vostre methode en posant <hi rend="i">x</hi> ∞ <hi rend="i">my</hi><hi rend="sup">2</hi>, par où l'espace ABC se trouve égal a <figure rend="inline"><graphic url="huyg003oeuv10fi232.gif"></graphic></figure> c'est-à-dire ½ <hi rend="i">xy</hi>-<hi rend="i">ayy</hi>/6<hi rend="i">x</hi><note n="#5"/>.</p>
+<p>Dans la seconde maniere j'ay vu que vous avez pris <hi rend="i">y</hi> pour
+BE et qu'alors la quantitè de 2<hi rend="i">axx</hi>/3<hi rend="i">y</hi>-<hi rend="i">x</hi><hi rend="sup">4</hi>/2<hi rend="i">yy</hi> est la vraie valeur de l'espace AEB<note n="#6"/>.</p>
+<p>Il resteroit à rendre raison pourquoy ce n'est pas celle de l'espace ACB. Cependant je trouve ces deux manieres extremement belles, et je crois que la troisieme le sera pour le moins autant.</p>
+<p>Je m'estois embarassè en cherchant la courbe qui a pour soutangente <hi rend="i">x</hi>-<hi rend="i">y</hi>, mais je l'ay trouvée depuis et je vois que cette courbe est une partie de la continuation de la vostre<note n="#7"/> dont la soutangente estoit <hi rend="i">x</hi>+<hi rend="i">y</hi>; et qu'en posant la proprietè de cette courbe telle en general, que DE partie de l'axe interceptée entre la tangente
+<figure><graphic url="huyg003oeuv10ill142.gif"></graphic></figure>
+et le commencement D, soit egale à l'appliquée HG; Toute la courbe alors est HAQD. dont la partie DQ jusqu'à la tangente QN perpend.<hi rend="sup">re</hi> sur GD, a ses soutangentes <hi rend="i">x</hi>-<hi rend="i">y</hi>, qui sont <hi rend="i">y</hi>-<hi rend="i">x</hi> dans la partie QA, depuis Q jusqu'à la perpend.<hi rend="sup">re</hi> DA.</p>
+<p>J'ai aussi trouvè<note n="#8"/>, en posant DA ∞ <hi rend="i">a</hi>, DG ∞ <hi rend="i">x</hi>, GH ∞ <hi rend="i">y</hi>, que l'espace ADGH est ½<hi rend="i">xy</hi>+¼<hi rend="i">yy</hi>-¼<hi rend="i">aa</hi>, et non pas comme il vient par vostre calcul, ½<hi rend="i">xy</hi>+¼<hi rend="i">yy</hi>, ce que vous reconnaitrez avec un peu d'attention. Mais la mesure generale des segmens DQH, DQ<hi rend="i">h</hi> est remarquable, qui sont tousjours egaux à ¼<hi rend="i">yy</hi>, c'est a dire au quart du quarrè de la perpendiculaire qui fait leur hauteur sur DG.</p>
+<p>Pour les autres difficultez que je vous avois proposees, Monsieur, j'attendray, s'il vous plait vos solutions, pour ne pas consumer trop de temps à les applanir
+par ma propre meditation, estant de plus incertain si j'y reussirois. Ces speculations sont si agreables et si attraiantes que j'ay bien de la peine à m'en abstenir et cependant elles font tort à des ouvrages d'une autre nature, que je dois au public il y a longtemps.</p>
+<p>J'ay vu à la fin les acta de Leipsich du moy de May. Et j'ay estè surpris de ce que Mr. <persName>Jo. Bernouilly</persName> s'y attribue<note n="#9"/> la solution du Probleme de Mr. <persName key="beau901">de Beaune</persName>, disant froidement que c'est luy qui l'a fait inserer au 34 Journal des Scavants de l'an 1692, sans faire mention de vous Monsieur. Comment est ce que je dois entendre cecy, comme aussi ce qu'il assure d'avoir donnè (jam olim) la dimension de la Ligne Logarithmique; et qu'il pretend scavoir celle de la Courbe de Mr. <persName key="beau901">de Beaune</persName><note n="#10"/>. Peut-estre il veut insinuer que pendant son sejour à Paris<note n="#11"/>, il vous a communiquè ces inventions, ce que je suis bien eloignè de croire.</p>
+<p>Monsieur <persName>de Lagny</persName><note n="#12"/> m'a envoiè depuis peu sa methode pour l'approximation des Racines<note n="#13"/>, que je vois luy estre disputée par Mr. <persName key="roll901">Rolle</persName><note n="#14"/>,
+mais à tort à ce qui me semble. Aiez la bontè de m'en mander vostre sentiment et aussi touchant le merite de l'Invention qui me semble avoir quelque chose de bon; de plus qui est vostre antagoniste et autheur du traitè de la Logistique<note n="#15"/>, sur qui vous avez tant d'avantage<note n="#16"/>.</p>
+<p>Item qui est autheur du Traitè de la manoeuvre des vaisseaux<note n="#17"/> dont j'aurai l'honneur de vous parler une autre fois<note n="#18"/>. Je suis avec respect etc.</p>
+</div>
+</body>
+</text>
+</TEI>

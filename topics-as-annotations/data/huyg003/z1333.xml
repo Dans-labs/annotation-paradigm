@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1333"/>
+<meta type="date" value="1665-02-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1333">
+<div type="opener">
+<p><persName key="slus001">Slusio</persName>.</p>
+<p>24 Febrier 1665.</p>
+</div>
+<p>Observationes Leida expecto, non habeo alias quae dignae sint Principi Leopoldo. lateris dolor. quid de transitu et loco cometae invenerim idemque a <persName key="wren002">Wrennio</persName><note n="#1"/> sic inveniri. Edo praecepta<note n="#2"/> nautis de usu horologiorum, qui jam experimento conprobatus. mittam exemplar si linguam nostram intelligit. de sympathia<note n="#3"/> mirabili horologiorum meorum recens detecta.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1780"/>
+<meta type="date" value="1669-11-26"/>
+<meta type="sender" value="math053"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dijon901"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1780">
+<div type="opener">
+<p>A dijon ce 26 Novembre 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Jay appris de Monsieur l'Abbé Mariote que uous series bien aise d'estre informé pleinement de cette Jris que iay ueu au pays. Je suis raui dauoir ceste occasion de uous tesmoigner combien ie Vous honore et prends plaisir de uous rendre service.</p>
+<p>Je vous diray donc que le 3<hi rend="sub">e</hi> ou 4<hi rend="sub">e</hi> de ce mois sortant enuiron a 4 heure du soir, ie vis vne demie Jris peu colorée entre le soleil et moy en telle sorte quelle auoit le soleil apparemment pour centre et auoit enuiron 21 degrés de demidiametre. Jl ne paroissoit que la Circonference dun quart de cercle colorée et ce du costé du nort et a ma droite lorsque ie regardois le soleil.</p>
+<p><figure><graphic url="huyg003oeuv06ill108.gif"></graphic></figure></p>
+<p>Du costé du sud il ne paroissoit rien ny aiant quasi point de nuée. Ledit quart finissoit par le haut au vertical du soleil en V et par le bas vers A il commenceoit a peu pres au parallele de la hauteur du soleil. On le deuroit appeler vne couronne que les latins appellent halo mais elle auoit les bigarrures de l'arc en ciel par le bas uers A. le reste en haut paroissant seulement dun blanc pasle.</p>
+<p>Voila tout ce que iay remarqué de ce phenomene. quelques personnes de cognoissance aiant troublé par leurs arrivee et discours lobseruation que ien voulois faire plus exacte.</p>
+<p>Vous scaues bien que nous auons icy commencé a reuoir la nouuelle estoile du col de la baleine dés le 28<hi rend="sup">e</hi> de Septembre<note n="#2"/>.</p>
+<p>Je voudrois auoir quelque autre observation pour uous lenuoier ie serois bien aise de vous tesmoigner par la combien Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="math053">Mathion</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens</persName>
+<lb/>A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

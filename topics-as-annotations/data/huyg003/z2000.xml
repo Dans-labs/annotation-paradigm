@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2000"/>
+<meta type="date" value="1674-12-19"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2000">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>Je prends cete bonne occasion, que Monsieur Walter<note n="#1"/> me presente, de vous envoyer les deux dernieres Transactions<note n="#2"/> ayant baillè le nombre 106, il y a quelque temps, à vn Italien, passant d'icy à Paris, appellé Benedetto Signori, que vous aurez vû sans doubte. Je ne vous entretiendray pas de ce qui se fait icy, le porteur de celle-cy estant capable de le faire mieux, particulierement sur le sujet d'un Quadrant de l'Invention de M. Hook, fourny d'un dioptre telescopique, et designé pour faire des observations plus exactes qu'aucun Instrument aye fait iusques icy; touchant quoy il a fait vn discours en Anglois assez ample<note n="#3"/>, qui sortira dans
+peu de iours hors de la presse et peut estre encore devant que M. Walter part d'icy, en quel cas il ne manquera pas de vous en apporter vn Exemplaire. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 9 Decembre 1674.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

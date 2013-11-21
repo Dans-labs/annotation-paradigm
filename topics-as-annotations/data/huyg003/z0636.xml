@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0636"/>
+<meta type="date" value="1659-07-08"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0636">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Mesolabum meum ad calcem perductum est eiusque aliquot exemplaria iam ad Te transmitterem nisi vererer ne domj non esses, cum ad eas quas ab aliquot septimanis ad Te scripsj<note n="#1"/> nihil omnino responsj<note n="#2"/> acceperim. fac igitur me certiorem, quaeso, quo et quâ viâ transmittj velis, vt censuram tuam subeat, quam prolixis etiam aliorum laudationibus semper anteponam. Vale Vir Praestantissime, meque ama, quem sincero affectu esse nosti</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>viij Julij MDCLIX</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> &amp;c<hi rend="sup">a</hi>. A la Haye.
+<lb/>VI.</p>
+</div>
+</body>
+</text>
+</TEI>

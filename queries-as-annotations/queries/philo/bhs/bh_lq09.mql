@@ -1,0 +1,32 @@
+// This query looks for examples of JD< complemented by a infinitive
+// construct with L in a bid to shed more light on the expression
+// L@DA<AT L@<W.T in Jes 50:4.
+
+// ident @(#)lq09.mql	1.1 04/02/27
+
+/*
+<metadata>
+<meta type="research_question">Isa 50:4</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-02-27"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query looks for examples of ידע complemented by a infinitive construct with ל in a bid to shed more light on the expression לָדַעַת לָעוּת in Jes 50:4.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [word FOCUS lexeme = "D</"
+      or lexeme = "D<H/"
+      or lexeme = "D<T/"
+      or lexeme = "JD<["
+      or lexeme = "MD</"
+   ]
+]
+[clause
+   [word FOCUS first lexeme = "L"]
+   [word FOCUS tense = infinitive_construct]
+]

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1148"/>
+<meta type="date" value="1663-09-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1148">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 14 Septembre 1663.</p>
+</div>
+<p>Voicy vostre Mistriss Tufton<note n="#1"/> que je vous renvoie apres l'avoir monstrée a Monsieur Couper<note n="#2"/> et a Lilly<note n="#3"/>, qui tous deux aussi bien que moy y trouuent a redire que vous y avez mis des couleurs trop fortes, tant aux ombres qu'au reste du teint. ce rouge des joues et ce jaune si eclatant en gastant toute la delicatesse. Dans le portrait de Mistriss Limmon<note n="#4"/> vous l'aviez mieux menagè, et il n'y avoit de l'exces que dans les ombres. deplus vous avez fait le nez trop gros vers enhaut et trop bossu, les yeux un peu trop rudes, parce que la paupiere d'enhaut s'ouure trop, ce qui tout ensemble fait que vostre copie ne ressemble pas fort a l'original. Les cheveux, habits et tout le reste sont tres bien faits. Monsieur Couper m'a donnè une adresse pour avoir du Carmin, mais estant sur nostre depart<note n="#5"/> et ayant encore
+beaucoup de choses a faire je ne scay si j'auray le temps d'y aller. J'ay corrigè ma copie d'apres Lilly<note n="#6"/> par 2 ou 3 fois sur l'original, apres quoy il ressemble beaucoup mieux maintenant que le sien. Je vous recommande cette lettre a la Cousine Constancia<note n="#7"/>, qui vient de Mistriss Faris.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zeelhem</persName>
+<lb/>In sgrauenhage.</p>
+</div>
+</body>
+</text>
+</TEI>

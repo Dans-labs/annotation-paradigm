@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2035"/>
+<meta type="date" value="1675-06-17"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2035">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 7 Juni 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je conois fort bien le Sr. Dominique, et ie me tiens assuré qu'il aura soin de vostre montre, que nous souhaitons fort de voir icy. Mylord Brounker estoit tresaise des nouuelles, que vous luy en mandastez par vostre derniere, et vous prie d'en nommer le prix, àfin qu'il se puisse acquiter de son devoir, et remettre l'argent à Paris au mesme temps qu'il vous assure de sa reconnoissance. Quant à M. Hook, c'est vn homme d'une humeur extraordinaire; je souhaiterois cependant, que vous escrivissiez trois mots à Mylord Brouncker<note n="#1"/> pour luy representer que vous n'auiez rien sceu de l'invention de M. Hook devant que vous auiez envoyé l'anagramme<note n="#2"/>, lequel vous disiez contenir vne invention nouuelle d'horologe; à quoy vous pourriez, s'il vous plait, adjouster, qu'une personne, qui a le premier appliqué le pendule aux horologes, et descouvert la figure cycloidale pour regler les vibrations, pourra facilement deviser quelque moyen pour suppleer le pendule par vn ressort commode<note n="#3"/>. Ce que ie conseille pour nulle autre fin,
+si non que ie desire de tout mon coeur que chacun recoiue ce qui luy est dû, et que les jalousies des beaux Esprits n'interrompent point leur amitié, et le commerce qui est si utile a l'accroissement des arts et des sciences. J'y offre tout ce qui depend de moy, et ie suis persuadé, que nostre President jugera de l'affaire avec candeur et sans aucune partialité, estant homme de beaucoup d'honneur et de grande sagacité.</p>
+<p>Monsieur Boyle vous saluë tres-humblement, et tesmoigne d'estre bien-aise d'auoir vostre approbation sur son livre. Quant à ces particularitez qui admettent des doubtes, il dit de n'en auoir rien dit positivement et d'auoir entretenu les mesmes soupcons, que vous declarez dans vostre lettre. Il fait imprimer à present vn petit traité, touchant les Effets des mouuemens mesme languides des corps; et vn autre touchant la production mechaniques des qualités sensibles. Auxquels il pourra adjouster vn discours sur l'imperfection de la doctrine des chymistes vulgaires<note n="#4"/>.</p>
+<p>Je prends la libertè de grossir cete lettre de mes transactions<note n="#5"/> du mois de May, croyant que ie vous ay desia envoyé toutes les precedentes.</p>
+<p>Si vous trouuez bon d'escrire à Mylord Brounker, ie vous prie de m'y nommer pas, pour des raisons, qu'il n'est pas à propos de dire icy. C'est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur H.O.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.
+<lb/>36 β</p>
+</div>
+</body>
+</text>
+</TEI>

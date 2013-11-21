@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0444"/>
+<meta type="date" value="1657-12-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0444">
+<div type="opener">
+<p>Domino <persName key="scho197">Fr. Schotenio</persName> Viro Clarissimo <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Binis tuis responsum debeo, quarum alterae<note n="#1"/> Domini Huddenij Heuratijque literas inclusas<note n="#2"/> ferebant, quas ecce tibi restituo, alterae à Domino <persName>van Loon</persName> mihi traditae<note n="#3"/>. His iteratò petis à me ut microscopij mei usum tibi commodem: quod equidem misissem tibi continuo si penes me habuissem. Verum illud mihi Dominus <persName>Vossius</persName><note n="#4"/> abstulerat paucis ante diebus, quàm te desiderare intellexi; neque adhuc repetere audeo, ne fortasse et ipse a me repetat Pappi<note n="#5"/> exemplar graecum manuscriptum, cujus mihi copiam fecit. Rogo itaque ut paucorum adhuc dierum moram perferas. nam fratris mei perspicillum ejus generis, quod tibi mittere decreveram, nequaquam tam bonum atque meum esse experior. Inventum nuperum Domini
+Heuraet de quo inaudisse scribis pulcherrimum sanè videtur. Sed praecisius scire velim ad quas lineas pertineat, namque etsi verisimile est aliarum quadraturam esse possibilem, aliarum vero non item; nullum tamen certum indicium reperiri crediderim earum quae quadraturam non subeant. Sunt parabolarum vel paraboloidum innumerae species de quibus Mersennus in praefatione mechanicorum<note n="#6"/> quae omnes per regulam ibi traditam quadrantur, cujus quidem regulae demonstrationem haud vulgarem inveni non ita pridem. Praeter istas verò nullam curvam novi cujus dimensio adhuc reperta sit. Nam quae ab Huddenio propositae sunt, uti et Slusiana illa, ipso docente Huddenio, non sunt pro novis habendae, sed ex ijs quas dixi paraboloidibus effictae. Quod si tamen hoc modo genitas (nam variae atque admodum intricatae proferri possunt) continuò ad rectilineum reducere novit Heuratius, subtile admodum, ipsoque dignum est repertum. Saepe quidem illum depraedicare te mihi nemini, et planè insigni ingenio esse vel ex ijs perspicio quae de Slusij curva rescripsit. Illud enim praeclarè quod et quadraturam et centrum gravitatis totius lineae et partium, ex ipsius lineae proprietatibus investigavit, nullius parabolae adscita consideratione. Idque ratione adeo subtili, praesertim in ijs quae ad centrum gravitatis attinent, ut methodum ipsius assequi, vel ex ijs quae tradidit, non vulgaris sit artificij.
+Magis apertè suam explicuit Clarissimus <persName key="hudd002">Huddenius</persName>, nam posteaquam ostendit unde ortum haberet Slusij linea, manifesta ac facilis evadit eorum omnium inventio, quae circa illam quaerenda proponebantur. Verum id ipsum reperisse eximium est. Nam me quidem fateor hoc non animadvertisse, Slusii curvam partem esse parabolae cubicae abscissae aliâ simplici parabolâ; quadraturamque ejus et centrum gravitatis nullo parabolae cubicae respectu adinveni. Existimo autem et ipsum Slusium nescivisse hanc suae originem esse lineae, quoniam alioqui de tertia illa vestra jure causari non potuisset quod pars esset curvae ab alijs pridem explicitae. Hoc autem ex ipso Domino <persName key="slus001">Slusio</persName> brevi resciscam; cui praecipua quaeque ex prolixa Huddenij epistola transcripta impertij,
+omissis tamen quae vel minimum offensae parere posse videbantur, ne ex contentione simultas tandem oriretur inter viros tam bene de studiis Geometricis merentes. Apologia quidem adversum nos nihil opus erat Domino <persName key="hudd002">Huddenio</persName>, cum neuter illum incusaverit, quasi ultrò larvam opposuisset curvae suae secundae, quo nobis molestiam crearet. Verum cum larvam dicebamus, illud quod res erat suspicabamur, nimirum ex alijs quibusdam satis notis lineis hanc efformatam esse, quod tamen quâ ratione facere instituisset ex aequatione illa aegrè deprehendi
+posset, nisi divinando fortasse atque omnia experiendo. Ignoratâ autem illâ lineae origine quadraturam aliunde haberi non posse non immerito arbitrabamur. At in Slusij curva aliter se res habebat, siquidem diversis vijs, ut eventus docuit eo perveniri poterat: ut proinde ille novam se lineam invenisse existimaverit, cujus dimensio ab aliarum dimensione non penderet, quaeque ideo contemplatione digna esset. Sin contra esse conscius sibi fuit, tum ipsum quoque larva tectam nobis adduxisse dicam.
+Centrum gravitatis primae lineae suae miratur <persName key="hudd002">Huddenius</persName> me non invenisse. Ego verò si ipse invenerit mirabor. Etenim nisi fallor, non rectè animadvertit quid hic à nobis exegerit. nam spatij quidem <figure rend="inline"><graphic url="huyg003oeuv02fi07.gif"></graphic></figure>Gf centrum gravitatis in diametro G <figure rend="inline"><graphic url="huyg003oeuv02fi08.gif"></graphic></figure> facile
+<figure><graphic url="huyg003oeuv02ill58.gif"></graphic></figure>
+reperitur, at nequaquam spatij fGS, vel ejus dupli fG<hi rend="i">r</hi> in diametro GS, quod nobis propositum fuit. Itaque vereor ne illud tantum invenerit.</p>
+<p>Tangentes alias quam ex punctis in peripheria curvarum non quaesivi, quoniam postulari nesciebam. nam quod Dominus <persName key="hudd002">Huddenius</persName> alteras quoque illas ad curvam Slusij addiderat, credebam id eum auctarij vice, ut alia multa corollaria, admensum esse. Nec tamen difficile fuisset aequationem dare quae tangentis ejusmodi constructionem complecteretur, sicut ab ipso factum videmus.</p>
+<p>Quod de delectu problematum scripseram, verum aequumque esse fatetur, sed ita, ut quodammodo stomachari interim videatur. Sed ego haec transeo, quoniam disceptationibus hujusmodi pejus adhuc tempus teri arbitror, quam inutilibus quaestionibus immorando. Neque ista omnia tanti sunt, ut propterea Huddenio minus amico utar, quem merito suo permagni facio, ac pridem summis Geometris accenseo. Eorum quae circa Parabolam noviter invenisse me significavi, alterum tibi aperiam, alterum adhuc certam ob causam celabo. Reperi itaque quomodo datae superficiei
+<figure><graphic url="huyg003oeuv02ill59.gif"></graphic></figure>
+conoidis parabolici circulus aequalis exhiberi possit. Et convexam quidem conoidis superficiem ad circulum baseos esse ut numerus ad numerum, quoties basis parabolae quae fit sectione per axem conoidis, commensurabilis est rectae tangenti ipsam in termino baseos atque ad axem terminatae. Ut si sit conoides cujus sectio per axem parabola ABC, cujus axis BD: fuerit autem basis AC commensurabilis tangenti AE. Dico superficiem quoque conoidis convexam ABC ad circulum cujus diameter AC, fore ut numerus ad numerum. Nempe si AE sit aequalis AC, erit dictae superficiei ad dictum circulum ea ratio quae 14 ad 9.</p>
+<p>Si vero AE sesquialtera AC, erit ea, quae 13 ad 6.</p>
+<p>Vale Vir Praestantissimè, et mihi quoque si quid habes rei novae impertire.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Com.</placeName> <date>28 Dec. 1657</date>.</p>
+</div>
+<p>Ecce perferuntur ad me Domini Slusij literae<note n="#7"/> quas operaepretium visum est tibi et per te Domino <persName key="hudd002">Huddenio</persName> ostendere, itaque illas una mitto.</p>
+</div>
+</body>
+</text>
+</TEI>

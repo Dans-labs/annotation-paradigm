@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0144"/>
+<meta type="date" value="1652-12-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0144">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Francisco à Schoten</persName> <persName key="huyg003">Christianus Hugenius</persName> S.</p>
+</div>
+<p>Ecce remitto tibi literas Domini <persName key="wall057">Wallis</persName><note n="#1"/> quas ante biduum mecum me ferre voluisti, ut Problema quod de Linea Curva proposuit accuratius perpenderem. Feci id
+quidem diligenter, et videtur sic responderi posse. Nimirum non cujusvis naturae lineas curvas existere, et hanc quam fingit planè esse impossibilem; quod facile est ostendere. Ponit siquidem lineam curvam AC quae istam habeat proprietatem, ut sumptis quotcunque partibus aequalibus in recta AT quae ab extremo axis AX perpendicularis exit, ductisque secundum acceptas partes lineis axi AX parallelis et in curva proposita terminatis, ut sit, inquam, ea quae ab axe prima est partis 1, qualium
+<figure><graphic url="huyg003oeuv01ill94.gif"></graphic></figure>
+tertia est 6, quinta 30, septima 140, nona 630, atque aliae deinceps tot partium quot obveniunt ex progressione quam statuit. Si igitur talis naturae est haec linea eaedem illae linearum proportiones contingerent, etiamsi ab initio partes majores in perpendiculari AT fuissent sumptae, sicut in parabola et alijs multis curvis haec se habere constat. Ponantur partes eae triplo majores sumptae; hoc est, pro prima linearum parellelarum sumatur quae fuit tertia, et consequenter pro tertia quae fuerat nona, et pro quinta quae fuisset decima quinta. Quia igitur prima nunc est partium 6, debebit tertia esse partium 36, ut locum habeat proportio 1, 6, 30, 140 &amp;c. Sed tertia quae prius erat nona est partium 630. Ergo 630 aequalia 36. Quod est absurdum. Quare patet lineam ejus proprietatis nullam dari. Quod si quis à principio lineam curvam non ponat, sed ductis lineis aequidistantibus ut prius, faciat primam partis unius, tertiam 6, quintam 30 &amp;c. et per harum terminos curvam quandam ducat ex vertice A, quaeratque longitudines 2<hi rend="sup">dae</hi>, 4<hi rend="sup">tae</hi>, 6<hi rend="sup">tae</hi> &amp;c. dicendum est eas determinatas non esse, quia diversae lineae curvae per puncta ista duci possunt, ctiam quae ad easdem partes cavae sint. Porro cum arithmeticè idem problema proponit Dominus <persName key="wall057">Wallis</persName> et in serie numerorum crescentium 1, 6, 30, 140, 630 &amp;c. quaerit, numeros interjiciendos inter binos quosque additum oportuit quâ conditione interjectos velit. Nam si simpliciter interjiciendos quaerit, possunt quilibet numeri interjici, si tantum praecedente majores et consequente minores sumantur ut 3, 16, 50 &amp;c. vel 2, 8, 100, 300. At si tales interjiciendi quaeruntur, ut interjectorum primus, 3<hi rend="sup">tius</hi> 5<hi rend="sup">tus</hi> 7<hi rend="sup">tus</hi> eodem modo se habeant ut 1, 6, 30, 140 &amp;c. quod sanè exigere ipsum
+existimo<note n="#2"/><note n="#3"/>, tum rursus ad impossibile deveniemus. Nam cum primus interjectorum debeat minor esse quam 6, erit interjectorum tertius minor quam 36, quintus minor quam 180, sed quintus interjectorum est qui cadit inter 630 et 2772. Ergo jam turbata erit series
+numerorum crescentium. atque ita patet conditionem adjectam impossibilem fuisse; quod etiam eâ ratione ostendi poterat, qua paulo ante in linea curva usi sumus. Haec sunt quae in praesentia mihi occurrunt, quibus te assensurum opinor. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> <date>26 Dec. 1652</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

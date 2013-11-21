@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2295"/>
+<meta type="date" value="1683-03-29"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="diere001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2295">
+<div type="opener">
+<p>Dieren ce 29 mars 1683.</p>
+</div>
+<p>Comme je n'ay point eu de response de vous sur mes deux precedentes je vous fais encore ce mot pour vous dire qu'apres demain nous allons à la Haye, et pour vous prier de faire haster mon tuyau et aussi les oculaires s'ils ne sont encore faits et ce pour la raison que je vous ay dite du peu de sejour que probablement nous serons là. Je croy que j'iray par Utrecht et ainsi seray a la Haye mercredy.</p>
+</div>
+<div type="para">
+<p>Voor Broer <persName key="huyg003">Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

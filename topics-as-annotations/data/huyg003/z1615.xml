@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1615"/>
+<meta type="date" value="1667-12-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1615">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 9 Decembre 1667.</p>
+</div>
+<p>Mon Pere m'avoit promis<note n="#1"/> une lettre de vostre part mais je ne l'ay point eue. Mandez moy je vous prie ou vous en estes dans la Microscopie, et si vous n'avez rien appris de ce que fait nostre Israelite<note n="#2"/>. Nostre verre de la verrerie<note n="#3"/> du faubourg Saint Antoine n'est pas encore prest, mais le sera bien tost. la question est s'il sera douè de toutes les bonnes qualitez qu'il doit avoir pour seruir aux lunettes.</p>
+<p>Ie fais estat que ni Mon Pere ni le frere Louis ne seront pas a la Haye<note n="#4"/>, au quels je vous prie de faire tenir ces lettres<note n="#5"/>. Ie vous recommande aussi bien fort de tesmoigner chez la Tante de Wilm<note n="#6"/>, dont mon Pere m'a fait scavoir le deces, le ressentiment que j'ay de cette perte, qui en effect est tresveritable. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName>, chez Monsieur <persName key="huyg001">de Zulichem</persName>
+<lb/>A la Haye.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

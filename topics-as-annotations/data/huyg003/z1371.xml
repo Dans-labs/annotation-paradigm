@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1371"/>
+<meta type="date" value="1665-04-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="auzo011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1371">
+<div type="opener">
+<p><persName key="auzo011">A. Auzout</persName>.</p>
+</div>
+<p>Gouttes de verre<note n="#2"/> se font à Paris<note n="#3"/>. Que je fais travailler pour Monsieur de Monmor<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

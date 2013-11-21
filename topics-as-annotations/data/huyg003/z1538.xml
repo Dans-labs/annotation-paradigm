@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1538"/>
+<meta type="date" value="1666-05-16"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1538">
+<p lang="it">Signor Cristiano Vgenio. Benche habbia lungo tempo taciuto<note n="#1"/> senza dare a Vestra Signoria con le mie lettere nuoue testimonianze della mia parrial volontà, non per questo deue da lei stimarsi in conto alcuno diminuita, poiche, come io non lascio di riguardare con estimazione sempre maggiore la sua virtù, cosi l'affetto mio, che da essa principalemente deriua, sempre piu' viuo in me si conserua, &amp; godo, che mi porgano adesso occasione di confermarglielo alcune Operette<note n="#2"/> date in luce dà questi nostri virtuosi, che qui aggiunte le mando. Ma'ben vorrei, che ella mi permettesse che io fussi sollecito esattore della ricompensa, con pregarla a farmi uedere nuoue sue opere, venendo acceso in tutti noi il desiderio di esse dalla sodisfazione, con cui si sono andate riscontrando con osseruazioni continue nelle apparenze di Saturno le di lei peregrine speculazioni, con che resto pregando Dio, che conceda a Vestra Signoria aggiunto ad una perfetta salute ogn' altro piu vero, e piu stimato contento.</p>
+<div type="closer">
+<p lang="it">Di <placeName key="flore001">firenze</placeName> 16. Maggio 1666.</p>
+<p lang="it">Al Piacere di Vestra Signoria Il Principe <persName key="medi012">Leopoldo</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it">Signor <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

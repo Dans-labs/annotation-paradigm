@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0559"/>
+<meta type="date" value="1658-12-27"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0559">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Redditae sunt mihi hac ipsâ horâ litterae Clarissimi Riccij, quibus se curaturum pollicetur, ut Tuae<note n="#1"/> tuto in manus Domini Hodiernae perueniant: idque per Dominum Caramuelem<note n="#2"/>, a quo eiusdem Astronomj quam ad Te transmisi Diatribam<note n="#3"/>, acceperat. Laudat mirificé Horologium tuum<note n="#4"/>, tam ipse, quam quotquot Romae eâ de re censere possunt. Addit etiam, Septem Apollonij Pergaej Conicorum libros ex Arabico versos, Principum Mediceorum curâ et sumptu breuj edendos<note n="#5"/>, quos ex autographo desumptos esse arbitror, de quo ad Te alias scripsisse meminj. Circa Problemata Parisiensia infeliciter operam lusisse videntur ij, qui praepoperâ<note n="#6"/> festinatione conceptus suos exposuerunt. Quod et Te scire arbitror.</p>
+<p>Vale Vir praestantissime hoc annj nouj auspicio, quem Tibi Tuisque faustum ac felicem precatur ex animo</p>
+<div type="closer">
+<p>Tui obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>27 10bris 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

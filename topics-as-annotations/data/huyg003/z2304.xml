@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2304"/>
+<meta type="date" value="1683-07-07"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2304">
+<div type="opener">
+<p>Nobilissime Vir</p>
+</div>
+<p>Miratus procul dubio fuisti nobiscum, quod Nob. D. Tschirnhaus per aliquot mensium spatium nec ad Nob. Virum, nec ad nos quicquam literarum dederit, sed mirari desines, ubi legeris <hi rend="i">hoc ideo factum</hi>, <hi rend="i">quod studijs ultra modum</hi>, <hi rend="i">et quidem ardentius ac unquam in vitâ suâ incubuit: fructus</hi> (<hi rend="i">inquit</hi>) <hi rend="i">harum meditationum suo tempore videbis</hi>. Monet insuper se optima frui sanitate, et, quod magis est, tali libertate, qua studia sua pro lubitu continuare potest: eam etiam habet conjugem, quae ipsi tantum otij ac placet concedit, amici favent, minus impedimento sunt, et omnia ex voto succedunt. Jam totus in eo est, ut absolvat Tractatum tibi haud ignotum<note n="#1"/>. Scripsit ad varios in Academia patronos, petijtque a me, ut Nob. V. per literas indicarem se brevi ad te responsionem daturum: carpit interim me, quod N.V. ejus matrimonium inconsiderate significarim<note n="#2"/>: metuit enim, si id resciscant, magnas ab adversarijs molestias. Ego vero abs te N.V. obnixe, ut illud tacitum, quantum potes, habeatur, peto: ignorant enim quantum commodi ipsi ex hoc statu in Germania accidat. Voluit denique, ut haec poemata Germanica von der Hr. Hofmans Waldauw<note n="#3"/> ad te mitterem, quo ea, data occasione, vel per alios traderes juniori
+Carcavi<note n="#4"/>; (cujus parens vestrae Academiae Director)
+ipsi degens Parisijs ea sancte promisit. Hisce valeto, et salutem N.V. à nostro Tschirnhauzio annunciari plurimam scito: ita et vovet</p>
+<p>&nbsp;</p>
+<p>Tuus ad quaevis paratissimus servus <persName key="gent015">Petrus à Gent</persName>.</p>
+<p>&nbsp;</p>
+<p>Fac brevi N.V. sciam hasce una cum libro rite tibi traditas.</p>
+<p>&nbsp;</p>
+<p>Amstel. 7 July 1683. Op de nieuwe Heere graft naast de hoek van 't Koningsplein aan de slinkerhand.</p>
+</div>
+<div type="para">
+<p>WelEdele Hooggeboren Heer, mijn Heer <persName key="huyg003">Christian Hugens Heer van Zulichem</persName>
+<lb/>à la Haye.
+<lb/>Met een boek getek. C.H.
+<lb/>port</p>
+</div>
+</body>
+</text>
+</TEI>

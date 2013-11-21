@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0188"/>
+<meta type="date" value="1654-04-11"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0188">
+<div type="opener">
+<p>Perillustris ac Generosissime Domine Domine colendissime. Salutem â Domino et obsequia mea paratissima.</p>
+</div>
+<p>Avidissimè sanè literas tuas expectaveram vel eam praesertim ob causam, ut iudicium tuum super libello meo intelligerem, quem aliunde didiceram iam ad te fuisse
+perlatum. Gratias tibi humanissimas, si seriò et non potius amicitiae causâ conatum meum probas. Absit tamen â me procul isthaec ignorantia, ut (quod dicere videris) gratias mihi debeat Pater Gregorius, quòd me primum autore quadraturam suam discet intelligere tantus Geometra, cuius ego non sum dignus discipulus nominari. Multoque magis illud avertant superi, tam debilibus inniti fundamentis quadraturam, ut eam obiectio Tua debilitet, multoque minus totam evertat. Equidem prorsus non video pensatis omnibus, quam ob rem falsa esse possit propositio 30, supposito quòd discursus Archimedis (quod ultro admittis) legitimè rationibus applicetur. Neque possum satis admirari, quod totum discursum dictae propositionis verum esse <seg org="fatcaris" resp="#AD" type="corr">fatearis</seg>, excepto eo, quod sequitur post (<hi rend="i">Hoc est;</hi>) cum illudipsum <hi rend="i">Hoc est</hi> nihil sit aliud, quàm consequentia Archimedis, quae etiam per Te rationibus applicari potest. Quod ut clarius perspicias, videamus quid intersit Archimedis inter meumque discursum. Sumit Archimedes Quotcunque numero quantitates in quatuor ordines distinctas, quae in certa proportione ad se mutuò singulae referantur, ut nôsti ex ipsomet Archimede. Sint tales quantitates: A, B, C; D, E, F; G, H, I; K, L, M; sumo deinde ego totidem rationes (quas quantitates esse, quae se excedere, et â se mutuò deficere, proindeque proportionem inter se habere possint, utique non negabis) quae easdem prorsus habeant conditiones, quas requirit in suis quantitatibus Archimedes, quasque ijsdem literis appellabo A, B, C; &amp;c. Ex eo ergo, quòd A sit ad B, ut D ad E; et ut B ad C ita E ad F; iterumque ex eo quòd sit A ad G ut D ad K, et B ad H ut E ad L, ac demum C ad I ut F ad M; ex eo (inquam) quòd dictae quantitates talibus proportionibus singulae referantur ad singulas, infert legitimè Archimedes: omnes quantitates, sive aggregatum quantitatum
+A, B, C, esse ad aggregatum quantitatum G, H, I; ut aggregatum quantitatum D, E, F ad aggregatum quantitatum K, L, M. Considera iam, ijsdem omnino verbis absolvi posse discursum meum, et nihil inter Archimedis et meum interesse, nisi quòd Archimedes assumat lineas, aut plana, aut corpora, ego autem pro terminis assumam rationes, inter quas proportiones aeque dantur ac inter alias quantitates, quibus utitur Archimedes. Quod manifestius adhuc apparet inventis denominatoribus rationum, qui lineae esse possunt, et in quibus formaliter locum habet discursus Archimedis; ut necessarium sit, eundem quoque discursum in rationibus valere, cum denominatores ipsissimam proportionum<note n="#1"/> rationum exprimant, ut ex denominatorum natura et officio constat. Non enim in eo fundatur discursus meus (ut Tu videris intelligere) quod quantitates 1, 2, 3 &amp;c: sint denominatores rationum simpliciter; sed quòd sint denominatores talium rationum, quae ita singulae ad singulas alterius ordinis proportionantur, quemadmodum proportionantur quantitates, quae assumantur ab Archimede in ordine ad inferendam consequentiam de aggregatorum proportione. Vnde manifestè sequitur, similem proportionem resultare in denominatoribus, qualis inter rationes ipsas invenitur. Existimo te iam videre, nil esse compertu facilius, quàm nihil virium habere obiectionem tuam contra meum <hi rend="i">Hoc est</hi>, Quod si porrò Geometricè potueris evertere, facile videbis, Archimedaeo quoque discursui â Te periculum imminere. De altero <hi rend="i">Hoc est</hi> (Theologicum intelligo) Tecum non agani, neque enim sub Demonstrationem mathematicam cadit, tametsi praesentiam Christi sub specie panis satis demonstret ijs, quorum oculi, uti Peregrinantibus in Emaus, aperiuntur ex misericordia eius, qui obstupescendo magis, quàm perscrutando miraculo praesentiam suam humanae Voci, voluntatique subiecit. In
+illo ergo <hi rend="i">Hoc est</hi> â te dissentiam semper dum vivam, non tamen dissidia tecum exercebo; tametsi illud unicum propemodum <hi rend="i">Hoc est</hi> totam Europam â se ipsa fecerit dissidere, vix unquam reducendam ad concordiam, nisi postquam secundum Evangelicam Christi prophetiam fuerit, Vnum Ovile, et Vnus Pastor.</p>
+<p>Sed haec fortasse sunt extra Rhombum, et plura quàm ferat illud: Sapienti Pauca. Dabis hoc amicitiae mutuae per haec illibatae, quae ipsa ut haec ad te scribere auderem te quasi annuente indulgere videbatur.
+Dominus Dominus <persName key="marc901">Marcus Marci</persName> officiosissimè resalutat, rogatque ut aenigma tuum sibi propositum paululum digneris elucidare, sibi enim domi Sphyngem non esse. His me favori Tuo et benevolentiae pristinae penitus commendo. Valetudinem tuam cura diligenter.</p>
+<div type="closer">
+<p>Perillustris ac Generosissimae Dominationis Tuae servus paratissimus <persName key="kinn013">Godefridus Aloysius Kinner de Löwenthurn</persName>.</p>
+<p><hi rend="i">Manu propriâ</hi>.</p>
+<p><placeName key="praag001">Pragae</placeName> <date>11 Aprilis 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Perillustri ac Generosissimo Domino, <persName key="huyg003">Christiano Hugenio</persName>. etc. Domino ac Patrono mihi colendissimo, observandissimoque.
+<lb/>Hagam Comitis
+<lb/>s Graven Haage.</p>
+</div>
+</body>
+</text>
+</TEI>

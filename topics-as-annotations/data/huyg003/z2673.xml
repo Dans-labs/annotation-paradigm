@@ -1,0 +1,47 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2673"/>
+<meta type="date" value="1691-04-09"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2673">
+<p>Voici Monsieur de quelle maniere je fis mon calcul, suivant la theorie que j'ai eu quelquefois l'honneur de vous expliquer, lors que vous me proposates il y a quelque temps de trouver l'Equation d'une courbe Geometrique, que vous connoissiez, par la proprieté que vous me donnates de sa quadrature.</p>
+<p><figure><graphic url="huyg003oeuv10ill27.gif"></graphic>
+<figDesc>CL=<hi rend="i">r</hi>
+<lb/>AF=<hi rend="i">x</hi>
+<lb/>FO=<hi rend="i">y</hi>
+<lb/>FD=<hi rend="i">v</hi>
+<lb/>OK=<hi rend="i">z</hi>=DR
+<lb/>KH=<hi rend="i">u</hi>
+<lb/>RS=<hi rend="i">β</hi></figDesc></figure></p>
+<p>Soit C le centre d'un quart de cercle ADSL, dont les lignes AFIG, LPGM sont tangentes en A et L. La proprieté de la courbe AOHN est telle, que d'un de ses point O tirant la ligne OFD parallele à ML, et par le point D la ligne BDRP égale et parallele a AG, l'espace AOF est toujours égal au rectangle AP.</p>
+<p>&nbsp;</p>
+<list>
+<item>OFIH=AG × RS</item>
+</list>
+<p>&nbsp;</p>
+<p>C'est-à-dire <hi rend="i">y</hi>+½ <hi rend="i">u</hi><note n="#2"/> × <hi rend="i">z</hi>=<hi rend="i">r β</hi>.</p>
+<p>Or l'Equation au cercle ADL est <hi rend="i">x</hi><hi rend="sup">2</hi>-2<hi rend="i">rv</hi>+<hi rend="i">v</hi><hi rend="sup">2</hi>=o. Donc par ma methode des tangentes<note n="#3"/> 2<hi rend="i">xz</hi>-2<hi rend="i">rβ</hi>+2<hi rend="i">vβ</hi>=o.</p>
+<p>Donc <hi rend="i">β</hi>=<hi rend="i">xz</hi>/<hi rend="i">r</hi>-<hi rend="i">v</hi>. Or <hi rend="i">v</hi>=<hi rend="i">r</hi>-√<hi rend="i">r</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi>.</p>
+<p>Donc <hi rend="i">β</hi>=<hi rend="i">xz</hi>/√<hi rend="i">r</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi>.</p>
+<p>On trouve donc <hi rend="i">zy</hi>=<hi rend="i">rxz</hi>/√<hi rend="i">r</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi>.</p>
+<p>Et par consequent <hi rend="i">y</hi><hi rend="sup">2</hi>=<hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>/<hi rend="i">r</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi>. Qui est l'Equation à la courbe AOH.</p>
+<p>Ce que je vien d'écrire suffira Monsieur s'il vous plait pour le present, car j'ai l'esprit encore trop abbatu pour faire une plus longue lettre. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="duil010">N. Fatio de Duillier</persName>.</p>
+<p>Ce 30 Mars 1691. S.V.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

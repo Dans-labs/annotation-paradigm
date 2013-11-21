@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0218"/>
+<meta type="date" value="1655-03-23"/>
+<meta type="sender" value="colv001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0218">
+<div type="opener">
+<p lang="la">Nobilissime Domine,</p>
+</div>
+<p>Vna cum microscopio accepi binos tuos tractatus mathematicos de Circuli magnitudine et ejus quadratura. prius oculis inspexi illudque mira et stupenda magnitudine arenulas nobis ostendit. Revera illud Plinij dictum: Natura nusquam magis tota quam in minimis, et in omnibus propemodum fidem superat. quis veterum vidit quae nos videmus. quis antiquorum Philosophorum in arcana naturae oculis corporis et mentis sic penetravit ut hujus saeculi sapientes? Jnter quos tu, Vir Praestantissime, merito haberis, et quem etiam, si fata supersint, posteritas admirabitur. Caeterum gratias tibi debeo ingentes pro dono praestantissimo: quod erit quasi anima et oculus musaei mei. Avidé expectabo Jllustrissimum Dominum Legatum Galliae<note n="#1"/>; ut post ipsius aspectum accedat aliquid ad Muselioli mei pretium. Kalthovius noster post festum Paschatis sperat Hagam excurrere, tui praesertim caussa. ut videat et audiat, quae ipse magnus artifex ignorat.</p>
+<p>Mitto <persName key="gali003">Galilaei</persName> tractatum, sed condonabis quod nec nitide scriptum sit, multisque erratis inspersum. Addidi etiam aliud manuscriptum ejusdem Galilaei, quod in compacto hoc libro circa finem invenies.</p>
+<p>Deus, pater omnium scientiarum, summum illud tuum ingenium foveat lumine suo, ut serus coelum, quod nunc telescopijs vides, adeas. Summo parenti tuo, et meo et Domini <persName>Vivienni</persName><note n="#2"/> nomine, salutem imperties.</p>
+<div type="closer">
+<p>Tuus omni officio et obsequio</p>
+<p><persName key="colv001">Andreas Colvius</persName>.</p>
+<p><placeName key="dordr001">Dordrechti</placeName> <date>9 Kal. Apr. 1655</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer, Mijn Heer <persName key="huyg003">Christiaen Hugens</persName>, ten huijse van d'Ed. Heer <persName key="huyg001">van Zulichom</persName>
+<lb/>s' Graven-hage.
+<lb/>met een pacxken.</p>
+</div>
+</body>
+</text>
+</TEI>

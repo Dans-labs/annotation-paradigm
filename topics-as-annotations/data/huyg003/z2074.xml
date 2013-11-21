@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2074"/>
+<meta type="date" value="1675-11-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2074">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> 8 Nov. 75.</p>
+<p>Monsieur,</p>
+</div>
+<p>Voicy les Transactions oú ie responds aux accusations de M. Hook. Je le fais auec autant de douceur que i'ay pû<note n="#1"/>. Et si Mylord Brouncker ne l'eut obligé de retracter plusieurs mots de calomnie et de mesdisance, qu'il auoit desia fait imprimer, sans pourtant en debiter des exemplaires, i'eusse esté contraint de le traiter plus severement. Ce livre d'Helioscopes etc. fut imprimé à l'insceu de nostre President, qui n'en fut informé que par accident; ce qui le fit seulement capable d'en faire changer et effacer les plus rudes passages, me laissant la liberté de respondre moy mesme au fait. Ce que vous pourrez faire de mesme, lorsque vous recevrez le dit imprimé d'Helioscopes, dont i'ay baillé un Exemplaire au jeune Monsieur Evelyn, qui est prest à faire le traject en France, et de vous saluër à Paris. Si vous trouuez à propos de faire inserer vostre vindication<note n="#2"/> (qui ne pourra pas estre separée de la mienne) dans le Journal des Scavans, vous ferez bien d'en envoyer vn Exemplaire au Seig. Hook mesme, avec son addresse, dans vne lettre cachetée; tout soubs mon couvert addressé comme de coustume à Monsieur Grubendol. Monsieur Dalence<note n="#3"/> m'en envoiera à moy vn autre exemplaire, comme de coutume; à sin que ie scache l'importance de vostre responce, aussi bien que nostre Calomniateur.</p>
+<p>Nous attendons à tout moment vostre montre d'or auec des minutes; et cela tant plus, que celle que nous avons est tout à fait en desordre, s'arrestant fort souvent, et nos ouvriers n'y pouvant remedier, à ce qu'on a informé</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur H.O.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.
+<lb/>3-6</p>
+</div>
+</body>
+</text>
+</TEI>

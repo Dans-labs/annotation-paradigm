@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0130"/>
+<meta type="date" value="1652-10-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0130">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> Clarissimo Viro D. <persName key="scho197">Francisco Schotenio</persName> S.D.</p>
+</div>
+<p>Hesterna die Antwerpia literas accepi cum ternis harum Exemplarijs pictarum thesium<note n="#1"/> quarum nos participes voluit Dominus <persName key="tacq001">Tacquet</persName>, cujus et Epistolam<note n="#2"/> mitto. de eo quod dicit ex falsis vera directè elici posse<note n="#3"/>, quid sit ex te scire velim, quaeve in hanc rem exempla afferri putes. In staticis est quod inquirere certius statui ab ipso autore; neque enim id capio quod de solido corpore in humidum immerso <seg org="afferit" resp="#AD" type="corr">asserit</seg>.
+Scis me hoc argumentum antehàc pertractasse. Nunc autem in dioptricis totus sum, et nuperrime elegans inventum obtigit, cujus ope telescopium multo quam cetera perfectius me constructurum arbitror, si modo artificem reperire queam experientem. Illud autem inventum est, quod radios ad punctum unum tendentes ope superficiei sphaericae ad aliud punctum propius vel longinquius cogi posse demonstravi, idque <seg org="praeciè" resp="#AD" type="corr">praecisè</seg>. Et consequenter quod venientes à puncto uno, simili superficie inflectere licet quasi à puncto veniant propiori vel remotiori. Haec autem Cartesius per superficies curvas antea ignotas artificiose molitus est, sed quae nulla ratione expoliri possent.</p>
+<p>Si leges motus ab ipso traditas adhuc defendis, hunc unum casum quaeso mihi expedi quem nescio qua de causa omisit.</p>
+<p><figure><graphic url="huyg003oeuv01ill85.gif"></graphic></figure></p>
+<p>Corpus A fertur versus B, simulque B versus A. Estque B duplo majus quam A, sed A duplo celerius movetur quam B. Quid fiet post occursum mutuum in C. Ego dico utrumque eâdem qua venit celeritate retro actum iri. Quod si tibi quoque videtur vide qui cum caeteris conveniat. Vult enim Cartesius corpus A nullo pacto movere posse B majus existens, si hoc quiescat. Quomodo igitur ipsum repellet sibi occurrens? nam hoc quidem multo videtur <seg org="diflicilius" resp="#AD" type="corr">difficilius</seg>. Ne te pigeat super hisce sententiam tuam depromere et Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> <date>29 Octob. 1652</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

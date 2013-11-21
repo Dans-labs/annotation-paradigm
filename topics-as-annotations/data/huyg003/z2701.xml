@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2701"/>
+<meta type="date" value="1691-09-26"/>
+<meta type="sender" value="meie015"/>
+<meta type="senderloc" value="breme901"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2701">
+<div type="opener">
+<p>Illustri Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="meie015">G. Meierus</persName> F.S.P.</p>
+</div>
+<p><note n="#1"/> Ex celeb: Leibnizii literis diu jam est quod intellexi, literas quibus ejus ad Te, Vir Illustris, spectantes incluseram, recte extraditas esse. Idem ille officium
+novissimis tabellariis à me exquirit, egoque Viro optimo devotus curas istas in me lubentissime recepi<note n="#2"/>. Aperuit in caeteris solutionum Geometricarum instituendas commutationes. Ego quemadmodum honori mihi duco tantis nominibus non innotuisse tantum sed et servitiis reddendis aliqua ulla ratione parem esse, ita vestris utriusque desideriis promptum me paratumque sisto. Vale, Vir Celeb: et rem eruditionis reconditae, ut facis, porro strenue promove, meque ama.</p>
+<div type="closer">
+<p>Dabam <placeName key="breme901">Bremae</placeName> die <date>Septembris mensis Sexta decima A. aerae Christianae CIƆIƆCXCI</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">C. Huygens</persName>
+<lb/>Seigneur de Zuylichem à L'Haye.
+<lb/>franco tot Amsterdam.</p>
+</div>
+</body>
+</text>
+</TEI>

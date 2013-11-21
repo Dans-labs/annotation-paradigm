@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0680"/>
+<meta type="date" value="1659-11-05"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0680">
+<div type="opener">
+<p lang="la">Clarissime Domine.</p>
+</div>
+<p>Leniuit non parum morbi mej acrimoniam epistola tua; maxime, vbi Theoremata<note n="#1"/> tam praeclara ac nitida perlegerem, Conoidum ac Sphaeroidum superficies inter se comparantia. Segetem fertilioris messis intueor. Ante octiduum subitanea apoplexiae affectio, cui pridem obnoxius vixi, extrema mihi an minitaretur, dum dubitat, vt parceret pectorj, stomachum repleuit. Capitis jnde vires, spiritibus
+inanes, cogunt studia seponere et quietj nonnihil indulgere. Exemplaria Systematis Saturnij, jam coepi cum Viennam, tum Romam destinare. Vereor vt succedat destinatio tertij exemplaris, Siciliam versus; ob querelas Praefecti Cursorum<note n="#2"/>, qui nostrorum ad nostros, consignandas litteras suscepit gratuito; cum exclusione ad alios. Conabor nihilominus vt Domino <persName>Cramuelo</persName><note n="#3"/>, si Romae degat communicetur liber, quem ad Gottignies mitto. ex quo quid vlterius fieri queat, intelligam.</p>
+<p>Miraris silentium meum de hypothesi tua annularj. Vnde scrupulum mihi superesse, suspicaris. Hypothesim jllam quam maxime probo, jngenioque tuo dignam censeo; quod jdem approbarunt iudicium Dominus <persName>Vendelinus</persName><note n="#4"/> nobilis Astronomus et Vir Illustris Dominus <persName>Nonnancourt</persName><note n="#5"/>, in vniversa Mathesi apprime versatus, quorum hîc familiari fruor consuetudine. Aliquid admirationis residuum mihi remanet circa phasim quandam, vmbrae similitudinem exhibentem, in Saturnj superficie. vt folio 16. vbi globus jnteger apparet, nullo limbo circundatus; medium tamen occupat, quaedam linearis opacitas. Folio 18 apparet eadem opacitas, sed jnfra medium. folio 55. signatur astrum omni opacitate carens. Hypothesis tua belle diuersitatem situs opacj explanat; quae vero jllius opacj causa existat, non docet. Si enim cingulum quod astrum circundat, sola superficie jlluminatum a Sole et Saturno asseratur, jta ut eius penetralia sicut luci jmperuia maiorem Astri partem opacare tenetur. quam phasis innuit. quodsi idem cingulum aliqua spissitudinis crassitie, tumidum affirmetur. Ille tumor erit jmpedimento quo minus astrum, vnquam, sine umbrae apparentia conspici possit. Verum totus hic discursus hypothesin tuam non arguit; licet aliquid vlterioris luminis optare videatur.</p>
+<p>Habes quod a me requisisti. Vale et memor viue</p>
+<div type="closer">
+<p>Tui quem nosti Amantissimum <persName key="vinc027">Gregorium a Sto Vincentio</persName>.</p>
+<p><placeName key="gent_001">Gandauj</placeName> <date>5 Nouembris 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

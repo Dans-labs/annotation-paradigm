@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0713"/>
+<meta type="date" value="1660-01-27"/>
+<meta type="sender" value="bodd011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0713">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Egregii vestri Systematis Saturnii Exemplar, sese accepisse hac inclusa<note n="#1"/> Clarissimus Hevelius mihi significavit, quam ut quid in ea contineatur scires, &amp; ut candidè meum officium praestarem Tibi mittere decrevi. Id quod vides Calendarium Amici nostri <persName key="nier005">Diderici Remberti filii</persName><note n="#2"/> donum est. Syllogen illam Tychonis<note n="#3"/> de qua Dominus <persName key="heve011">Hevelius</persName>, omnino mihi comparavi, quam cessante frigore Dantiscum mittere cogito, si quid autem una illic volueris mittere, vel curari, rogo demandes</p>
+<div type="closer">
+<p>Nobilitatis Tuae Promptissimo <persName key="bodd011">A. Boddens</persName>.</p>
+<p>Dabam <placeName key="leide001">Lugduni Batavorum</placeName> <date>27 Januarii 1660</date>.</p>
+</div>
+<p>Literas si quas digneris rescribere curabis deferri ten huijse van Elias Paulusz over de Leege werf in de kalander moolen.</p>
+</div>
+</body>
+</text>
+</TEI>

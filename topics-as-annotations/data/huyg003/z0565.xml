@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0565"/>
+<meta type="date" value="1659-01-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0565">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>16 Jan. 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je receus la vostre le lendemain du jour de la poste de sorte que je n'ay pu vous donner plustost l'advis que vous demandez touchant le pris des horologes. Ceux qui sont à contrepoids et vont 30 heures se vendent à 48 livres argent d'Hollande.</p>
+<p>A contrepoids et qui vont 8 ou 10 jours 60 livres.</p>
+<p>A contrepoids et qui sonnent allans 30 heures 80 livres, les mesmes allans 8 jours à 130 livres.</p>
+<p>A ressort pour 30 heures à 80 livres.</p>
+<p>A ressort avec sonnerie et pour 30 heures a 120 livres, a ressort pour 8 jours mais sans sonnerie a 130 livres.</p>
+<p>Voila la copie du billet de nostre horologer que j'ay encore cy devant envoyè à Monsieur Chapelain qui avoit dessein de faire venir un ouvrage, mais depuis il ne m'en a plus escrit.</p>
+<p>Je vous remercie fort de m'avoir enfin procurè les imprimez sur le subject de la Cycloide<note n="#1"/>, ou j'ay trouué une admirable invention<note n="#2"/> d'un certain <persName key="wren002">Wren</persName> Anglais, et beaucoup d'autres belles choses; sur les quelles j'ay trouué à propos d'escrire à Monsieur de Carcavij de qui je vous recommande la lettre cy jointe<note n="#3"/> dans la quelle il y a aussi quelque chose de mes inventions que peut estre vous trouuerez assez raisonnable. Pour ce qui est de vos verres je ne laisseray point eschapper d'occasion pour les vous envoyer, et mesme je n'attendray pas jusques a celle dont j'ay fait mention dans ma précédente<note n="#4"/> si auparavant il s'en offre quelqu'autre. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

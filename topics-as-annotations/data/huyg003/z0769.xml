@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0769"/>
+<meta type="date" value="1660-08-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="medi012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0769">
+<div type="opener">
+<p>Serenissimo Principi <persName key="medi012">Leopoldo ab Hetruria</persName>.</p>
+<p>Serenissime Princeps</p>
+</div>
+<p>Vigiliolas illas nostras<note n="#1"/>, quae in tuo nomine apparuerunt benigne a Celsitudine Tua exceptas fuisse abunde perspexi ex ijs literis, quas ad Doctissimum Heinsium nostrum crebro dare solet Vir Illustrissimus Carolus Datus. Neque id solum, sed et bene augurari de studiis meis Celsitudinem Tuam ex levi illo specimine<note n="#2"/> meque
+subinde iis ornare laudibus quibus ne in perpetuum indignus habear summopere mihi verendum sit. Non committendum itaque putavi quin de tam propensa erga me voluntate atque affectu gratias agerem Tuae Celsitudini, obnixeque rogarem, ut eam mihi quamlibet immerito perpetuam felicitatem esse patiatur. Certe patrocinio Tuo Princeps Celsissime vel maxime hoc tempore me indigere sentio, postquam validi adeo aduersarii<note n="#3"/> Scriptum<note n="#4"/> illud meum impetere mihique negotium facessere coeperunt, quorum factione ne vel in justa causa succumbere cogar, nominis Tui auctoritas facile impediet. Jam nunc in manus Tuae Celsitudinis venisse audio opusculum<note n="#5"/> quod collatis operis fabricarunt adversus systema meum Pater Fabri cum Eustachio illo Romano artifice, atque idem brevi quoque huc perlatum iri Clarissimus Datus spem fecit. Quo dum perveniat, meamque defensionem Celsitudo Tua viderit, non sinit aequitas ejus, ut quicquam contra me pronuntiatum iri metuam. Intellectis autem illorum objectionibus fortasse non difficile erit reperire quid ad illas respondeam. imo ut spero clarius quoque post ejusmodi ventilationem veritas Hypotheseos meae elucescet. Nihil admodum puto mihi objicient nisi de ipsarum fide observationum, atque id ipsum non video quam bene, nam si telescopiis suis comitem Saturni conspicere possunt, etiam reliqua phaenomena haud aliter se habere, atque a me descripta sunt, invenient. Si vero illum non vident, longe inferiora meis esse, quae ipsi habent, fateantur necesse est, atque adeo etiam in reliquis observationibus plus<note n="#6"/> nobis fidendum. In Anglia quidem et comitem jam pridem cernunt, et
+Saturni phases easdem prorsus quas ego (etiam meis nondum visis) delinearunt, nisi quod Zonam in Saturni disco obscuram paulo aliter collocant. Verum de his pluribus disserendi occasio erit, ubi quae moliti sunt adversarij inspexero. Interim mihi gratulor, quod et ipsi Celsitudinis Tuae judicium subire veriti non fuerint, a cujus nunc arbitrio totius nostrae controversiae exitus pendebit. Hoc est ab ore Judicis gravissimi, aequissimi atque intelligentissimi, qui ut diu nobis superstes maneat merito summum numen veneror.</p>
+<p>&nbsp;</p>
+<p>Serenissimae Celsitudinis Tuae Addictissimus et Obsequentissimus <persName key="huyg003">Chr. Hugenius Zulichemius</persName>.</p>
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> 13. Augusti 1660.</p>
+</div>
+</body>
+</text>
+</TEI>

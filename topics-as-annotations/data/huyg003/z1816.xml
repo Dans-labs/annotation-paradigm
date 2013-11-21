@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1816"/>
+<meta type="date" value="1670-09-30"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1816">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 20 Septembre 1670.</p>
+<p>Monsieur,</p>
+</div>
+<p>Ayant sceu, que vous auiez si bien recouvert vostre santé, que d'estre en estat de visiter vostre païs, i'ay voulu embrasser cete occasion d'un estudiant Polonois, qui va repasser en Hollande, que de vous tesmoigner la joye, que i'ay parmi quantité d'autres, de vostre reconvalescence, souhaitant de tout mon coeur, qu'elle s'affermisse de plus en plus pour vostre contentement propre, et pour le bien des belles sciences. Vous trouuerez cellecy accompagnee d'un present de Monsieur Wallis, asscavoir de la seconde partie de son <hi rend="i">Tractatus Geometricus de motu</hi><note n="#1"/>, qu'il m'a desiré de vous envoyer. Je ne doubte pas que vous n'ayez vû les Leçons Geometriques de Monsieur Barrow, dont i'envoiay à Monsieur Justel vn Exemplaire au mois de Juillet dernier<note n="#2"/>, qu'il aura sans doubte fait voir aux personnes capables d'en juger; ou vous trouuerez quelque chose, dans la Leçon XI, qui vous touche<note n="#3"/>.</p>
+<p>Vous aurez sceu, sans doubte, que Monsieur Hevelius a observé la nouuelle
+Estoile aupres du bec du Cygne, aussi bien que le Chartreux de Dyon<note n="#4"/>; comme aussi qu'il a fait l'observation de la phase presente de Saturne, par le moyen du Telescope, que ie luy avois envoyé d'icy<note n="#5"/>, de 50 pieds. Monsieur Hook l'a faite de mesme le 16. de ce mois (celle de Hevelius ayant esté faite le 26. Aoust) laquelle ne s'accorde pas mal auec l'autre. Je croy, que l'une et l'autre s'inprimera dans les Transactions d'Octobre<note n="#6"/>, que ie vous envoieray, pour en Juger. A present ie vous envoie auec ledit livre de Monsieur Wallis, les Experiences Nouuelles<note n="#7"/> de Monsieur Boyle touchant la Respiration, dont on inprimera la suite devant la fin du mois courant. Le mesme a aussi publié, depuis peu, plusieurs petit Traités<note n="#8"/> joints ensemble dans vn mesme livre, touchant l'Histoire des Qualitez particulieres, les Qualitez Cosmiques (qui dependent de la Constitution de l'Univers) la temperature des Regions soubterraines et soubmarines, et le Fonds de la mer; tout en Anglois. Et vn autre de la Societé Royale, appellé Monsieur Wray, a fait inprimer le <hi rend="i">Catalogus Plantarum Angliae in quo praeter Synonyma necessaria</hi>, <hi rend="i">facultates quoque summatim traduntur</hi>, <hi rend="i">vna cum Observationibus et Experimentis Novis Medicis et Physicis</hi>. C'est tout ce [que] i'ay à vous mander de nouuelles Philosophiques de ce païs-cy: Esperant que, quand vostre santé le permettra, vous nous ferez scauoir ce qui se passe de telles matieres au païs ou vous estez astheur; ce quoy faifant vous obligerez particulierement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur
+<lb/><persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+<p>Je vous prie, quand vous me faitez l'honeur de m'escrire par la poste, d'addresser vos lettres pour moy, de cete maniere;</p>
+<q rend="bq">
+<p>A Monsieur</p>
+<p>Monsieur <persName key="olde010">Grubendol</persName> à Londres.</p>
+</q>
+<p>Rien que cela, et tout me sera rendu plus surement, que si vous vous serviez de mon nom propre.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>,
+<lb/>A la Haye.
+<lb/>Auec vn pacquet. Par amy.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="VIII"/>
+<meta type="date" value="1640-08-10"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="VIII">
+<div type="opener">
+<p>Per illustri viro ac Domino</p>
+<p>D. <persName key="huyg001">Constantino Hugenio</persName> equiti, Zulichemi Domino, Celsiss. Princip. Auriaco à consilijs et secretis S.P.D.</p>
+</div>
+<p>Hodie Maronis VI. Caesaris II. Libros legere coepimus, authorum, ut publicus omnium consensus est, omni exceptione pariter et praedicatione majorum.
+Baudium item heroëm è voluntate tua caeteri legent, expressuri, aut fallor, facilè virum, qui facilitate ac puritate sermonis antiquorum nemini concedit<note n="#1"/>.
+hic (ut alia nunc taceam, quae nondum Libitina sacravit, et si loquar, deficiam turpiter, et adulationis insuper examen incurram necesse sit) vel suo probat exemplo, non adeò exhaustam esse Naturam, quin hoc saeculo pariat non infrequens optanda cuivis ingenia, primis certè quibusque paria.....</p>
+<div type="closer">
+<p>Scribebam <placeName key="denha004">Hagae Com.</placeName> IV. Idus Sectil. MDCXL.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

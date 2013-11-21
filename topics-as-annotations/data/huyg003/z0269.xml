@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0269"/>
+<meta type="date" value="1656-03-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0269">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Francisco Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Cum ad te scribere constituissem Ducquius operam suam obtulit qui tibi epistolam perferret; itaque et folijs istis ipsum onerare visum est quae nuper mihi perlegenda concesseras. Omnia ingenium tuum juxta atque Analyticae utilitatem commendant. In ponderandi methodo<note n="#1"/> animadverti, cum tria pondera investigas, pro primo unitatem poni, pro altero <hi rend="i">z</hi>, pro tertio <hi rend="i">y</hi>, atque inde à tertio seu majori <hi rend="i">y</hi> auferendo duos primos 1 et <hi rend="i">z</hi>, concludere te, reliquum <hi rend="i">y</hi> - <hi rend="i">z</hi> - <hi rend="i">i</hi> indicare debere librarum numerum omnium minimum qui à tribus ponderibus ponderari queat, eumque esse 5. Non video autem unde hoc deducas, nisi statuas primorum duorum ponderum summam efficere 4. adeoque secundum pondus esse 3, siquidem primum 1 esse posuisti. Quod si vero priora pondera 1 et 3 manere supponis, tertiumque requiris, pro eo <hi rend="i">y</hi> ponere licebit à quo prioribus 1 et 3 ablatis, concludes continuo residuum <hi rend="i">y</hi> - 1 - 3 esse. debere 5: hoc est, <hi rend="i">y</hi> ∞ 9. Sed hic jam illa conditio non adimpleta est, omnem librarum numerum inter 5 et 1 3 expendi posse. Tuum itaque est considerare quatenus hic Algebrae locus sit, quam equidem in prioribus duobus 1 et 3 recte adhibitam nemo negabit. De lusu aleae brevi aliqua concinnavero quae tibi mittam.
+Domino <persName key="kech001">Kechelio</persName> librum<note n="#2"/> suum si placet reddes, proque usu ipsius gratias ages meo nomine simul et chartulae<note n="#3"/> quam tibi mitto exemplar ipsi traditurus. Observationes inquam nostrae circa Saturnum quam viri quidam eximij<note n="#4"/>, in Gallia commoranti<note n="#5"/>, suasere ut publico non inviderem. Hujus item Clarissimo Golio exemplar<note n="#6"/> dabis, et si videtur Domino <persName>Heydano</persName> quoque, qui non invitus animadvertet novam <persName>Copernicani</persName> Systematis comprobationem, alteram Terram alteram lunam. Reliqua<note n="#7"/> ubi visum erit distribues. Hesterna die à Wallisio literas<note n="#8"/> accepi, quibus se libelli sui de quadratura editi bina exemplaria mittere significat, alterumque eorum tibi destinat, teque suis verbis salutari rogat. Caeterum praeter epistolam nihil ad me pervenit, quamvis diligentissimè inquisiverim. Quia autem in superscriptione nulla
+librorum facta est mentio, fortasse alia via deferentur. Si accepero continuo tuum tibi mittam. Vale.</p>
+<div type="closer">
+<p><date>10 Mart. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer, Mijn Heer <persName key="scho197">Fr. van Schoten</persName> Professor der Matematycken inde Universiteyt
+<lb/>Tot Leyden.
+<lb/>met vriendt.</p>
+</div>
+</body>
+</text>
+</TEI>

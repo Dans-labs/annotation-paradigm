@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1133"/>
+<meta type="date" value="1663-07-15"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1133">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 15. Julliet 1663.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous prie d'auoir agreable que Je vous asseure de mon affection et que Je vous tesmoigne limpatience que J'ay de vostre retour. Vostre personne est si chere a vos amis quils ont dela peine destre si longtemps priuez de vostre presence, vous Mobligerez Monsieur de croire que Je conserue pour vous et pour Monsieur vostre pere toute lestime et le respect dont je suis capable Et que Je souhaite auec passion que vous me fassiez naistre les occasions de vous fair cognoistre que je suis veritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="monm010">d'Montmor</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huggens</persName>
+<lb/>a Londre.</p>
+</div>
+</body>
+</text>
+</TEI>

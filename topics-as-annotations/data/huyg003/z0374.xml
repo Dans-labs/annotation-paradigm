@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0374"/>
+<meta type="date" value="1657~"/>
+<meta type="sender" value="ferm011"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0371"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0374">
+<p>Proposuit Dominus <persName key="ferm011">Defermat</persName> omnibus Arithmeticis per Dominum Digby<note n="#2"/>.</p>
+<p>Inuenire Cubum qui additus omnibus suis partibus aliquotis conficiat quadratum.</p>
+<p>Vt numerus 343 est Cubns a latere 7. omnes ejus partes aliquotes sunt 1. 7. 49. quae adjunctae jpsi 343. conficiunt numerum 400. qui est quadratus a latere 20.</p>
+<p>Quaeritur alius Cubus ejusdem naturae.</p>
+<p>Quaeritur etiam numerus quadratus, qui additus omnibus suis partibus aliquotis conficiat numerum Cubum.</p>
+<p lang="fr">Monsieur <persName key="fren024">Defrenicle</persName> a resolu ces questions, et Monsieur <persName>Martin</persName><note n="#3"/> qui en a les solutions les fait jmprimer a ce qu'on m'a dit.</p>
+</div>
+</body>
+</text>
+</TEI>

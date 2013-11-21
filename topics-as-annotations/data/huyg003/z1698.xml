@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1698"/>
+<meta type="date" value="1669-01-21"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1698">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 11. janvier 1669.</p>
+<p>Monsieur,</p>
+</div>
+<p>Par le dernier ordinaire ie vous envoiay<note n="#1"/> la Theorie du mouuement, faite par Monsieur Wren<note n="#2"/>, come il l'auoit presentée à la Societé Royale le 17<hi rend="sup">me</hi> de Decembre, apres que Monsieur Wallis leur auoit exhibé la sienne<note n="#3"/> au mois de Novembre precedent. Jeudy dernier<note n="#4"/> vostre lettre et vos autres papiers<note n="#5"/> touchant le mesme sujet furent leus en pleine Assemblee; ce qui efstant fait ie fus commandé d'abord, de vous remercier tres affectueufement de la bonté, que vous leur auez
+tesmoignée en leur faisant part de vos belles meditations sur vne matiere si importante à la Philosophie; et de vous assurer au mesme temps, qu'ils auront un soin particulier, non seulement de faire enregistrer vos communications, mais aussi d'en recommander la consideration à ceux de leur corps<note n="#6"/> qui ont travaillé et qui travaillent encore sur la mesme matiere, à fin d'en faire rapport à la Societé, et comme aussi pour satisfaire au defir, que vous tesmoignez de scauoir le sentiment de nos Philosophes sur cete Theorie là. Nous esperons, puisque il y a astheur tant de beaux Esprits, qui s'occupent dans vn si beau sujet, que cete matiere sera enfin solidement digéree et parfaitement establie; et nous souhaitons, que chacun de ceux, qui s'y appliquent, y apportent vne telle disposition, qui veuille conferer les labeurs des autres auec les siens à l'amiable et sans prejugé, pour quiter tout ce qui sera trouué contraire à la raison, et pour reconoistre et embrasser la verité par tout où Elle se presentera.</p>
+<p>Quoy que i'aye desia vû ce que Monsieur Gregory a respondu<note n="#7"/> a ce que vous auez fait inprimer dernierement<note n="#8"/> contre luy, il n'y en a pourtant rien d'inprimé encore, et ie ne scay pas, si on le trouuera à propos<note n="#9"/>, d'inserer cete response (qui est en latin, et fait 4. pages escrites à la main datée le 15 Decembre) dans les Transactions, vû que nous voudrions plustost estouffer que nourrir ces fortes de disputes entre deux personnes, qui sont et l'un et l'un et Membres de nostre Societé. Je ne doubte pourtant pas que Monsieur Gregory ne face inprimer fa replique par vne autre voye, que l'on ne pourra prevenir. Cependant il eft bien plus moderé dans cete derniere piece, que dans les precedentes<note n="#10"/>, et ne fait prefque rien que de raifonner à fa mode, fans faire beaucoup de reflexion à ce qui eft perfonel. S'il y ait eu aucune chose inprimee, qui vous concernast, dans les dernieres Transactions, ie n'eusse pas manqué de vous l'auoir envoyee. le Chevalier Moray, si ie ne me trompe fort, vous dira son sentiment<note n="#11"/> de toute la controverse; et vous vous pouuez assurer, que la Societé Royale conserue toute l'estime pour
+vous, que vous meritez, come ie fais de mesme, qui suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné serviteur
+<lb/><persName key="olde010">H. Oldenburg</persName> S.R.S.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>dans la bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

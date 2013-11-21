@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0354"/>
+<meta type="date" value="1656-11"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0353"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0354">
+<div type="opener">
+<p>Copie d'une lettre de Monsieur <persName key="mylo002">Mylon</persName> à Monsieur <persName key="scho197">Schoten</persName>.<note n="#1"/><note n="#2"/></p>
+<p>1656 Nov.</p>
+</div>
+<p>Dans <persName>Albert Girard</persName><note n="#3"/> qui à commentè Stevin<note n="#4"/> il y a une proposition de la raison de la superficie du Triangle sphaerique a toute la superficie de la sphere. Il a bien donnè au but, mais il ne demonstre pas.</p>
+<p>Monsieur <persName key="robe012">de Roberval</persName> en a trouuè la demonstration qui suit que vous trouuerez bien naturelle.</p>
+</div>
+</body>
+</text>
+</TEI>

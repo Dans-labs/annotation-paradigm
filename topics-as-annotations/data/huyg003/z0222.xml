@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0222"/>
+<meta type="date" value="1655-05-29"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0222">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Ex libris illis, quos in chartula annotaveras, et tibi nuper Harlemi emptos desiderabas, ut et <persName key="kepl901">Johannis Kepleri</persName> Astronomiam<note n="#1"/> à fratre tuo per litteras mihi expressam,
+nullos inveni à Domino <persName key="horn901">van Horne</persName><note n="#2"/>, medicinae nostro professore, emptos fuisse. Postquam enim ei dictam schedulam tradideram, illeque difficulter, prout adscripta praetia non vidit, emendi illos negotium in se sumere volebat, cum se quid constarent aut valerent ignarum profiteretur: idcirco ipsi author fui, ut ea in re pro arbitrio ageret, eosque, quos licèt ad iniustum praetium excurrentes, à vobis tamen notatos, videret, omnino vobis compararet. Is autem Harlemo reversus nudius quartus narravit mihi (sicut et ab alijs jam acceperam) se nullos alicui emisse libros, nisi illi qui eorumdem praetium exactè illi indicaverat, quandoquidem ad excessivum ita praetium omnes fere ascendisse asseverabat, ut vel eos ipsos, quos sibi, etiamsi vel ad injustum praetium excurrentes, emere constituerat, non tamen coëmerit.
+Porrò cum hìc apud Bibliopolas fermè omnes quaesiverim <persName key="kepl901">Kepleri</persName> dictam Astronomiam, ac tandem illam apud Hackium<note n="#3"/> invenerim, eandem praetio 3 florenorum comparavi, quam simul impraesentiarum Fratri tuo transmitto, sperans sic ejus vota expleturum. Mitto item literas, quas nuper Oxoniâ à Domino <persName key="wall057">Wallis</persName> accepi, tibique communicandas<note n="#4"/> duxi; praesertim cum et in illis, quae ad te pertinent,
+contineri deprehenderim. Quae autem in illis habentur atque Circuli Quadraturam concernunt, cum vix à me capiantur, quoniam priores<note n="#5"/>, quas olim ad me dedit, atque ad hasce intelligendas planè requiruntur (meque Tibi communicasse scio) penes me non reperio. Quas idcirco vel inter manus tuas, vel certè ipsarum apographum versari debere autumo, quippe aliàs deperditas existimo, neque ego sine illis hisce respondere quidquam valeo. Quapropter Te rogo, ut, quoniam Tibi speculationibus indulgere magis liberum est, vel ex prioribus istis literis vel earum apographo ea facilè es assecuturus, quae ad harum intelligentiam spectant, examinare haec grave non ducas, tuamque super ijs sententiam ad ipsum perscribas, aut si per me expeditum volis, litteras tuas tunc ad me mittas. In acceptis litteris mentionem facit Eclipseos praeteriti anni, quas non accepi aut vidi. Praeterea Loca Placa Apollonij, à Fermatio restituta, licèt videndi potestatem ultro lubens mihi offeras, amo tamen etiamnum illa me latere, donec post impressionem meorum legendi ea nactus fuero occasionem, ne alibi visa facilè quis credat me plagiarium aut ab aliquo adiutum fuisse, sed libero animo me dicere posse qualia à me eduntur ita quoque fuisse inventa. Quod ad 1<hi rend="sup">mam</hi> illam propositionem universalem attinet, consultò illam omisi. Quia multas figuras ad illam explicandam aut construendam requiri judicabam, quibus operis impensae plus justo accrevissent, nec facilè
+tunc Typographus aliquis id sibi imprimendum suscepisset, neque etiam ipsa illa propositio adeo elegantes proprietates prae se ferre, sicut maxima pars reliquarum, visa sit, negligi potius quàm adponi existimavi. Caeterum quantum ad Dominos Ordines, utrum scilicet in recognitionem nuperi utriusque nostri examinis obtulerint aliquid aut faciendum quidvis statuerint, ignoro planè. Ideoque quae circa haec resciveris quaeso lubens communices; unaque si placet, chartas meas, quas circa eandem rem penes te reliqui, transmittas, quia et hic unus aut alter amicus illas videre desiderat. Rem autem omnium gratissimam praestiteris, si modum quo Cardani regulae inventae fuerint perscribere haud graveris. Vale.</p>
+<div type="closer">
+<p>Dabam, festinante calamo</p>
+<p><placeName key="leide001">Lugd. Batav.</placeName> <date>29 Maij 1655</date>.</p>
+</div>
+<p>Intellexi et Dominum <persName>Golium</persName> similiter à supra dicto Domino <persName key="wall057">Johanne Wallis</persName> litteras accepisse, quibus se circuli quadraturam invenisse indicavit.</p>
+</div>
+<div type="para">
+<p>Aen Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, gelogeert ten Huijse van d' Heere, <persName key="huyg001">Constantinus Huijgens</persName>, Heere van Zuijlechem.
+<lb/>in S'Graven-hage op t' pleijn.
+<lb/>Cito port. met een packien.
+<lb/>No. 30.</p>
+</div>
+</body>
+</text>
+</TEI>

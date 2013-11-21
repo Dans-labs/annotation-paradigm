@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0372"/>
+<meta type="date" value="1657~"/>
+<meta type="sender" value="ferm011"/>
+<meta type="recipient" value="fren024"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0371"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0372">
+<p>Depuis peu Monsieur <persName key="ferm011">Defermat</persName> a escrit cecy a Monsieur <persName key="fren024">Defrenicle</persName>.</p>
+<p>Tout nombre non quarrè est de telle nature, qu'on peut trouuer jnfinis quarrez, par lesquels fi vous multipliez le nombre donnè, et si vous adjoustez l'vnitè au produit vienne vn quarrè.</p>
+<p>Exemple. 3 est vn nombre non quarrè, lequel multiplié par 1. qui est quarrè fait 3. et en prenant l'vnité fait 4. qui est quarrè.</p>
+<p>Le mesme 3. multipliè par 16. qui est quarrè fait 48. et en prenant l'vnité fait 49 qui est quarrè.</p>
+<p>Il y en a jnfinis qui multipliant 3. en prenant l'vnité font pareillement vn nombre quarrè.</p>
+<p>Je vous demande vne regle generale pour estant donnè vn nombre non quarrè, trouuer des quarrez qui multipliez par ledit nombre donnè en adjoustant l'vnitè fassent des quarrez.</p>
+<p>Quel est par exemple le plus petit quarrè qui multipliant 61. en prenant l'vnitè fasse vn quarrè.</p>
+<p>Item quel est le plus petit quarrè qui multipliant 109. et prenant l'vnitè fasse vn quarrè.</p>
+<p>Si vous ne m'enuoyez pas la Solution generale enuoyez moy la particuliere de ces deux nombres que j'ay choisis du plus petis pour ne vous donner pas trop de peine,</p>
+<p>Aprez que j'auray receu vostre response je vous proposeray quelqu'autre chose. Il paroist sans le dire que ma proposition n'est que pour trouuer des nombres entiers qui satisfassent a la question, car en cas de fractions le moindre Arithmeticien en viendroit a bout.</p>
+<p>A quoy Monsieur <persName key="fren024">Defrenicle</persName> a enuoyè l'ordre qu'il tient pour resoudre ces questions dont le calcul est extremement long.</p>
+</div>
+</body>
+</text>
+</TEI>

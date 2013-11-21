@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1616"/>
+<meta type="date" value="1667-12-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1616">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 9 Decembre 1667.</p>
+</div>
+<p>I'ay estè fort marri en apprenant la mort de la bonne Tante<note n="#1"/>, dont mon Pere m'escrit<note n="#2"/> quelques circonstances, apres m'avoir mandè auparavant celles de sa maladie. Si celle cy par hazard vous trouue encore<note n="#3"/> a la Haye je vous prie de tesmoigner bien mon regret a Mademoiselle Constance<note n="#4"/> et a Monsieur son frere<note n="#5"/> et ses soeurs<note n="#6"/>.</p>
+<p>Pour ce qui est de vostre Calesche<note n="#7"/>, il me semble qu'il y a une speculation plaisante a considerer ce que doibt faire vostre arc en se pliant, par ce qu'on peut douter si par ce mouvement vostre chaise se baissera ou se haussera. Car ses deux bouts lors qu'il plie doivent s'approcher tant soit peu, et se hausser par consequent pendant que d'un autre costè le milieu de la chorde descend. L'Experience vous fera veoir lequel des deux mouuemens prevaudra, les quels s'ils s'egaloient d'avanture, vostre Cariole seroit rude tout autant qu'une Carre ordinaire sans suspension.</p>
+<p>Il faut que le frere de Moggershill soit tousjours d'une grande authoritè en ce qui regarde la mode d'habits puis qu'il vous a presque fait accroire qu'on portoit en cette cour des manteaux par dessus des juste au corps, ce qui ne s'est jamais veu, et moins encore avec des chausses a culottes. Ie n'ay jamais veu Monsieur van Beuningen habillè de cette façon pendant qu'il estoit icy, et quand il l'auroit estè, il l'auroit estè seul. L'on fait le bas des manteaux presqu' aussi long que les chausses, qui sont ouvertes avec des garnitures comme autrefois, et des pourpoints avec cela, et non pas des camisolles, dont je crois que la mode passera a cet heure qu'on a deffendu l'or et toutes les estoffes ou il y en a.</p>
+<p>Envoiez moy ma toile<note n="#8"/> par la premiere occasion je vous prie, elle eust estè
+bien avec la viole que mon Pere m'a fait adresser par le cousin H. Becker<note n="#9"/>, qui l'a envoiée a Monsieur Schot a Rouën. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

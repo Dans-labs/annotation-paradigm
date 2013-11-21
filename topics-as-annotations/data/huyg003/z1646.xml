@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1646"/>
+<meta type="date" value="1668-06-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="doub005"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1646">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 29 Iuin 1668.</p>
+<p>Signor Fratello,</p>
+</div>
+<p>la renommee d'une calesche bleue dont vous estes inventeur s'estant repandue jusqu'en ce païs icy, et ne nous ayant appris que ses vertus mais non pas sa <seg org="sigure" resp="#AD" type="corr">figure</seg>, vous estes treshumblement suppliè de nous en donner quelque eclaircissement, non seulement pour satisfaire a nostre curiositè, mais afin qu'en imitant la construction, si elle se trouue preferable a une vingtaine d'autres qu'on a produites icy, nous puissions, en ce qui est des voitures, jouir des mesmes commoditez de la vie que vostre seigneurie, amen.</p>
+<p>I'avois creu que je me trouuerois mieux que je ne fais d'une cariole a 2 rouës que j'ay fait bastir et qui a fort bonne grace et autant de douceur qu'est capable d'avoir une machine a 2 roues, mais quoy qu'a la campagne elle soit assez commode, elle ne l'est pas assez sur le pavè de Paris, sur le quel il faut faire une demie lieue ou plus devant qu'on puisse sortir de la ville.</p>
+<p>Et outre cela le grand embaras de carosses et charrettes qu'on rencontre dans les rues donne trop de peine a mener soy mesme. Pour ces raisons donc et autres j'ay resolu de mettre le corps de ma calesche sur 4 rouës et pour cela je consulte tous les experts a <seg org="sin" resp="#AD" type="corr">fin</seg> de scavoir ce qui reussit le mieux dans la pratique, et je remarque toutes les differentes figures que je rencontre dans la ruë. Monsieur nostre Ambassadeur Extraordinaire<note n="#1"/> dit qu'ils chercheront tant qu'a la fin ils trouveront le Carosse, et en effect je vois qu'on commence d'en approcher bien pres.</p>
+<p>Si vous voiez Monsieur van Leeuwen je vous prie de luy dire que j'ay receu sa derniere<note n="#2"/> avec le catalogue<note n="#3"/> des livres manuscrits de Golius<note n="#4"/>, et que pour ne luy pouuoir encore mander de response positive, je suis obligè de differer celle que je luy dois jusqu'au prochain ordinaire.</p>
+<p>Je fus avanthier a Versaille ou je vis les grands preparatifs qu'on fait pour la feste<note n="#5"/> qui s'y fera dans 10 ou 12 jours. quand elle sera passée je vous en feray l'histoire mais succinctement a ma mode. adieu. Ie baise les mains a Madame vostre mere et a ma chere seur et qu'elle scache que je n'ay nullement oubliè ce que je luy ay promis.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="doub005">de Moggershil</persName> &amp;c. au Verhaut
+<lb/>A la Haye.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

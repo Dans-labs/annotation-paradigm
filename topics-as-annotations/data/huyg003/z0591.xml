@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0591"/>
+<meta type="date" value="1659-02-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0591">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>23 Febr. 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je suis bien aise d'avoir enfin trouuè cette occasion pour vous envoyer vos verres seurement. C'est Monsieur l'Abbè Brunetti que j'ay priè de s'en vouloir charger, et qui tout a cet heure s'en va à Rotterdam pour s'embarquer, de sorte que je n'ay pas le loisir de vous donner icy les instructions necessaires touchant la fabrique de tuyaux. Mais apres 4 jours je vous en escriray<note n="#1"/> amplement par la poste, laquelle lettre vous recevrez encore beaucoup plustost que cellecy. C'est icy le grand verre lequel vous a fait veoir la lune de Saturne lors que vous estiez icy, et je n'en ay eu aucun autre que depuis deux mois en ça, lors que je vous fis scavoir que le travail avoit bien succedè. les 2 autres doivent estre placez a 3 doigts de l'oeil et joignant l'un et l'autre. Je vous prie Monsieur d'agreer ce fragile present, et de le conserver avec soin afin que il vous fasse longtemps souvenir de celuy qui sera tousjours</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="huyg003">Chr. Huygens de Z.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

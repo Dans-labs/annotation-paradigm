@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1187"/>
+<meta type="date" value="1663-12-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1187">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 19 Dec. 1663.</p>
+<p>Monsieur</p>
+</div>
+<p>Ma derniere a estè du 9<hi rend="sup">e</hi> de ce mois<note n="#2"/>. Depuis j'ay receu la vostre du 26 Novembre<note n="#3"/> avec le journal du Pendule dont je vous rends graces treshumbles. Vous dites dans vos notes qu'a toutes les fois que B s'arresta, l'on avoit alterè le petit plomb coulant<note n="#4"/>, ce qui pourtant ne semble pas avoir lieu depuis le 3<hi rend="sup">e</hi> jusqu'au 30<hi rend="sup">e</hi> May car quoy qu'il se soit arrestè par 2 fois dans ce temps la, la difference journaliere a toujours continuè de mesme a scauoir de 5/11 de minute. J'espere que pour le nouveau voiage de Guinée et Jamaique vous aurez donnè ordre qu'on marque exactement tout ce qui arrive aux montres et tout ce qu'on y fait. Je m'estonne si Monsieur le Comte de Kincairdin a receu vostre lettre, comment il n'a pas encore respondu a de si agreables nouuelles. Le partage que nous fismes<note n="#5"/> du provenu de l'Invention de Longitudes en cas de succes, fut qu'a chacun en appartiendroit la moitiè luy l'ayant proposè ainsi, et moy ne luy voulant rien contester.</p>
+<p>J'attens avec impatience les observations de Monsieur <persName key="boyl001">Boile</persName><note n="#6"/> touchant le Diamant. Quelques uns ont dit icy qu'on avoit escrit de la que la mesme chose arrive a tous autres diamants, ce qui ne scauroit estre veritable puisque l'experience montre le contraire. Nous avons essaiè de faire l'experience de l'argent vif chez Monsieur de Montmor mais jusqu'icy sans succes ce qui arrive par ce qu'on n'y travaille qu'une fois chasque semaine. Hier pourtant le tube sembloit estre tres bien purgè, et le mercure ne laissa pas de descendre. Il y en a icy<note n="#7"/> qui croient que la chose ne peut reussir que dans des tuyaux fort estroits, s'imaginant de scavoir la cause du phenomene, c'est pourquoy je vous prie de me saire scavoir exactement quelle est la grosseur de ceux dont se servent Milord Brounker et Monsieur Boyle<note n="#8"/>, et si l'orifice est de mesme largeur que tout le reste. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant Seruiteur <persName key="huyg003">Chr. Hugens de Z.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

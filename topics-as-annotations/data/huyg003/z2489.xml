@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2489"/>
+<meta type="date" value="1687-10-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2489">
+<div type="opener">
+<p>8 Oct. 1687<note n="#4"/>.</p>
+</div>
+<p>Solution du Probleme proposè par M. <persName key="leib013">Leibnitz</persName><note n="#5"/> dans les nouvelles de la Republique des Lettres du Mois de Septembre 1687<note n="#6"/>.</p>
+<p>&nbsp;</p>
+<p>Trouver une ligne de descente, dans la quelle le corps pesant descende uniformement et approche egalement de l'horizon en temps egaux<note n="#7"/>.</p>
+<div type="section">
+<head rend="h4">Solution<note n="#8"/>.</head>
+<p>Si l'on vouloit que le corps pesant commencast a se mouvoir<note n="#9"/> dans cette ligne depuis le repos; elle seroit impossible. Mais si le corps est supposè avoir quelque mouvement, quelque petit qu'il soit, comme par exemple celuij qu'il acquiert en tombant de la hauteur perpendiculaire AB<note n="#10"/> alors la ligne courbe BC, qui est telle que le cube de BD prise dans le diametre depuis le sommet B<note n="#11"/>, soit egal au solide du quarrè de l'appliquée DC<note n="#12"/> et de la hauteur de 9/4 AB satisfera au probleme.</p>
+<p>Mais outre cette ligne BC il y a une infinitè d'autres du mesme genre et aisées a trouver, [comme BE, BF, BG par les quelles ce mesme corps, tombè du point A, approchera encore egalement de l'horizon ainsi qu'il est requis, mais plus lentement que par BC]<note n="#13"/>.</p>
+<p>Que si BD est double de BA, le temps de la descente par l'espace BC sera egal a celuy de la chute par AB.</p>
+<p>H.D.Z.</p>
+<p>&nbsp;</p>
+<p>Ces autres sont aisees a trouver, parce que par ex. si le poids tombe du point
+<figure><graphic url="huyg003oeuv09ill51.gif"></graphic></figure>
+K egalement haut avec A, sur le point H de la courbe BHC, il est certain qu'il continuera d'approcher egalement du plan horizontal moiennant pourtant qu'il reflechisse en H contre un plan LM. Car il acquiert la mesme vitesse par KH que par ABH. Placant donc le point H en B et HK depuis B en haut, on aura une descente egale par HC transposée. Mais a fin que la chute viene de A, il ne faut que placer une courbe proportionelle qui ait le mesme raport à la longueur AB, que la courbe HC a la longueur KH.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

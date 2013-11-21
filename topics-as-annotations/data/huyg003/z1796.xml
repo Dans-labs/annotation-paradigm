@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1796"/>
+<meta type="date" value="1670-03-17"/>
+<meta type="sender" value="vall027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1796">
+<div type="opener">
+<p>Ce 17 Mars 1670.</p>
+</div>
+<p>Si jauois receu le memoire a paris que ie viens de recepuoir ie naurois pas manque daller voir Monsieur Huguens de la part de Roy et parler par Monsieur Hujin mais nayant point este aduerti ie parleray au Roy pour auoir la permission daller a paris pour macquitter de cette commission et pour auoir lhonneur de vous voir et vous assurer que ie suis vostre</p>
+<div type="closer">
+<p>Humble serviteur
+<lb/><persName key="vall027">Vallot</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

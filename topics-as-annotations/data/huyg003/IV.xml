@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="IV"/>
+<meta type="date" value="1639-09-20"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="IV">
+<p>...Pergo. De Poësi tamen nihil dico; nam et silentium Constantinus pridem indixit, et utinam quae vellem loqui, per Christiani infelicitatem liceret? Infelicitatem inquam, nam ille ut ᾽Α<hi rend="i">μουσος</hi> plane sit, ut nascenti non riserit Musarum Pater, ut Musae non foverint gremio, nec Bellerophontaeo perfuderit ora liquore Calliope; caedat, qui volet, non ego. In Musicis sane Stephanus<note n="#1"/> qui diligentissime, quantum omninò videre possum, nobilissimos discipulos instituit) dici nequit, quantopere Christianum depraedicet, efferat, admiretur; Constantini, quod doleo, et mirari subit, longè parcius praeco. Quo hic redeam equidem non invenio, nisi ad illud, <hi rend="i">Non omnia possumus omnes</hi><note n="#2"/>. In Geographicis Sicilia nos, Graecia, et Macedonia tenent, quarum nunc regionum apud Justinum creberrima ferè mentio est. In temporum ratione notandâ, magnisque epochis, et periodis imperiorum observandis, cum Ennij Chronologiâ<note n="#3"/>, Carionis, sive Melanthonis potius Chronicon<note n="#4"/> comparamus: Atque ex eo nonnulla de Graecorum decrementis et Macedonum incrementis delibamus...</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae-Com.</placeName> XII Cal. Octobr. MDCXXXIX.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

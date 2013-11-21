@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0849"/>
+<meta type="date" value="1661-03-19"/>
+<meta type="sender" value="buot010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0849">
+<p>Probleme propose par Monsieur <persName>Chauueau</persName><note n="#3"/> le 10. mars 1661. Resolu par <persName>Buot</persName>.</p>
+<p>&nbsp;</p>
+<p>Estant donné les 2 droittes ED. DB trouuer le point A dans la droitte BD. dou tirant la droitte AE, le ▭ DBA soit au ▭ AED ‖ <hi rend="i">r</hi> | <hi rend="i">s</hi> ou BD. | DZ.</p>
+<p>Construction.</p>
+<p><figure><graphic url="huyg003oeuv03ill45.gif"></graphic></figure></p>
+<p>EBV. ut -<note n="#4"/>.</p>
+<p>ED | DZ ‖ BC | CE,</p>
+<p>EO | OB. et OP ⟂ sur EB. OC | CB ‖ EC | CV.</p>
+<p>CAV est ☉ descrit sur le diametre AV<note n="#5"/> coupant DB en A.</p>
+<p>Je dis que A est le point requis. du quel si on tire la - AE on aura le</p>
+<p>▭ DBA | ▭ DEA ‖ <hi rend="i">r</hi> | <hi rend="i">s</hi></p>
+<p>Preparation.</p>
+<p>QEAB est ☉ et ACP est -.</p>
+<p>&nbsp;</p>
+<p>Demonstration.</p>
+<p>&nbsp;</p>
+<p>A cause de la ressemblance des ∆ COP. CAV. CO | CP ‖ AC | CV.</p>
+<p>Donc le ▭ OCV ‖ ▭ ACP. mais par construction OC | CB ‖ EC | CV. donc le ▭ OCV (ou ACP). ‖ ▭ BCE et par la<note n="#6"/>. 35. 3. 3 les E.A.B.P. sont a la circonference du ☉ qui a son centre dans la ⟂ OP. et larc EP ‖ ◠ BP. et ∠ EAP ‖ ∠ BAC. et partant par la 3.6. BA | AE ‖ BC | CE, mais par construction ED | DZ ‖ BC | CE. donc BA | AE ‖ ED | DZ. et le ▭ BADZ ‖ ▭ AED Mais le ▭ ABD | ▭ AB. DZ ‖ DB | DZ. 1.6. donc le</p>
+<p>▭ ABD | ▭ AED ‖ DB | DZ. ou <hi rend="i">r</hi> | <hi rend="i">s.</hi> ce quil fallait demontrer.</p>
+</div>
+</body>
+</text>
+</TEI>

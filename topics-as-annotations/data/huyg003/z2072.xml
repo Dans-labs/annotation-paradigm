@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2072"/>
+<meta type="date" value="1675-11-11"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2072">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 1 Nov. 75.</p>
+<p>Monsieur,</p>
+</div>
+<p>J'ay receu vostre derniere, oú il y auoit iointe celle<note n="#1"/> a Myl<hi rend="sup">d</hi> Brouncker, qui vous rend graces tres humbles pour le soin que vous voulez bien prendre en luy envoiant auec la premiere bonne commodité vne seconde montre, qu'il aimera bien qu'elle soit d'or, pourvû qu'elle aye des minutes. Ne faitez donc, ie vous prie, aucun scrupule d'en envoier vne telle le plustost que vous pourrez auec sureté. Vous m'auez fait justice en ce que vous auez escrit audit Mylord touchant mon integrité en matiere de la controverse qui est entre vous et Hook touchant la nouuelle montre. Mais c'est vn homme (ce dernier) qui abonde tant de son sens propre, que c'est <hi rend="i">laterem lavare</hi>, de le vouloir detourner de l'opinion, dont il s'est preoccupé, principalement en matiere de la priorité de quelque invention. Je verray pourtant ce qu'il dira là dessus, et vous en donneray advis, comme</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre trèshumble et trèsobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Myl<hi rend="sup">d</hi> Brouncker vous prie de vouloir assigner la maniere de la quelle vous voulez que l'argent soit payé pour la montre que vous luy envoierez. il ne manquera pas de l'observer punctuellement.</p>
+<p>Monsieur, vous vous pouvez servir, s'il vous plait, pour l'envoy de la montre du pacquet qu'on envoye par la poste à Monsieur de Ruvigni, son secretaire m'ayant promis de me faire tenir ce qu'on y aura renfermé pour Myl<hi rend="sup">d</hi> Brouncker ou moy.</p>
+<p>Mylord Brouncker vous respondra par la prochaine ordinaire<note n="#2"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, à la bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

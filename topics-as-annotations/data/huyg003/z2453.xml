@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2453"/>
+<meta type="date" value="1687-03-18"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2453">
+<div type="opener">
+<p>Nobilissime Vir.</p>
+</div>
+<p>Miraberis forte, quod ad tuas<note n="#1"/> non respondeam et indicem quid factum sit de Epistola tua ad Nobiliss. Virum D. de Tschirnhaus<note n="#2"/>. Scias ergo me eam recte curasse, et ad locum destinatum amandasse: si quid porro restet, in quo meâ operâ indigeas, me semper paratum ad quaevis officia deprehendes. Visa tua epistola incesserat me cupido eam legendi, verum obseratam reserare nolui; non nempe permittit hoc aequitas. Si placuisset tibi aliter, mihi certe beneficium dederis. Vale Nobilissime Vir et fave</p>
+<div type="closer">
+<p>Tuo <persName key="gent015">Pet. Gentio</persName>.</p>
+<p>Raptim Amst. 18 Mart. 1687.</p>
+</div>
+</div>
+<div type="para">
+<p>Wel Edele, Hoogebooren Heer Mijn Hr. <persName key="huyg003">Christiaan Hugens Heer van Zelem</persName> etc. a la Haye.
+<lb/>pt</p>
+</div>
+</body>
+</text>
+</TEI>

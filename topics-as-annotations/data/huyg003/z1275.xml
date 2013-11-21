@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1275"/>
+<meta type="date" value="1664-11-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta resp="corpus" type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1275">
+<div type="opener">
+<p>a Pere.</p>
+<p>27 Novembre 1664.</p>
+</div>
+<p>Casembroot<note n="#1"/>. Privilege<note n="#2"/>. lunettes, privilege en france, incommoditè de ce qu'il en faut payer 40 ou 50 pistoles. freres luy escriront touchant Zulichem, moy a Thevenot<note n="#3"/>, Auzout<note n="#4"/> a Monsieur Chapelain<note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

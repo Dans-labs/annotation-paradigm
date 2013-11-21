@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2056"/>
+<meta type="date" value="1675-09-23"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2056">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 13. Sept. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous ayant plusieurs fois escrit depuis peu, et vous sollicité de la part de Mylord Brouncker, que vous luy vouliez envoier au plustost vne seconde montre, telle que vous jugeriez la plus satisfaisante, et n'y ayant recû nulle responce, ie commence à doubter si toutes mes lettres vous ayent este rendues. C'est pourquoy ie prends la liberté, y estant poussé par ledit Seigneur, de reiterer le contenu de mes precedentes, et de vous prier, de vouloir presser l'ouurier à finir une telle montre, et de prendre soin à la faire si nette et exacte, qu'elle puisse soustenir l'espreuve qu'elle subira icy par les plus intelligens dans cete matiere. Celle de Monsieur Hook va fort esgalement, et bat des secondes<note n="#1"/>. Mais neantmoins Mylord Brouncker a tousiours meilleure opinion de vostre facon; dans laquelle il voudroit bien estre confirmé par vne telle montre, qui ne s'arreste point (comme fait souvent celle qu'il a, sans qu'il y soit entré de la poudre), et qui aye ce remede appliqué, dont vous parlez dans vostre derniere du 10 Aoust<note n="#2"/>. Si vous en auez de faite pour vous, vous feriez bien, ce me semble, et ce seroit de vostre interest, de me l'envoier le plus promtement que vous pourrez, si vous la trouuez à vostre gré. Vous pourrez prendre celle-lá, à laquelle on travaille astheure à Paris pour ledit Mylord.</p>
+<p>Touchant M. <persName key="papi014">Papin</persName><note n="#3"/>, ie croy vous auoir desia mandè, que ie l'ay placé pour estre precepteur dans vne honeste maison icy a Londres<note n="#4"/>. C'est que i'ay deferé, outre son merite, à la recommendation que vous auez faite à son esgard à</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres-humble et tres-obeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1991"/>
+<meta type="date" value="1674-05-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1991">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 15 may 1674.</p>
+<p>A Monsieur <persName key="olde010">Grubendol</persName></p>
+<p>Monsieur</p>
+</div>
+<p>C'est avoir de la bontè que de continuer tousjours de m'escrire et de m'envoyer tout ce qui se fait de nouveau chez vous, non obstant un si long silence, et je me sens obligè par la a vous en faire scavoir la cause, qui n'est autre chose si non que j'ay veu que mes lettres ne servoient qu'a me mettre mal avec vos Messieurs dela, les vns ne prenant pas en bonne part la libertè dont j'usois a dire mes sentiments sur leurs ouvrages, et a leur faire des objections, les autres se formant d'autres sujets de mecontentements, ou je n'en attendois point du tout<note n="#2"/>.</p>
+<p>Je crois avoir receu tout ce que vous m'avez envoyè tant par la poste que par voie d'ami, c'est a dire, outre vos lettres et transactions le livre de Monsieur Boyle de la flame, et depuis peu celuy de Monsieur Hook du mouvement de la Terre prouvè par observations<note n="#3"/>. Je vous supplie de leur en faire mes treshumbles remercimens. Le premier contient quantitè d'experiences curieuses et nouuelles, parmi les quelles celles touchant l'explosion par le meslange des liqueurs ne me semblent pas les moins considerables, pouvant auoir d'autres usages, outre celuy d'expliquer le mouvement des muscles, suivant l'hypothese d'un de vos Messieurs de la Societé Royale. Les observations de Monsieur Hook sont tres belles et de grande consequence mais il faut les continuer, et voir si dans le cours d'une ou plusieurs années les parallaxes respondent entierement au mouuement de la Terre, a quoy nous travaillerons aussi de nostre costè, et le puits qui est dans nostre observatoire de 28 toises y servira utilement.
+Ce sera une conviction presqu'entiere des Anti-Coperniciens, car il ne leur restera qu'un subterfuge ridicule, de dire, que le centre la sphere des estoiles fixes change continuellement de place, par un mouuement annuel.</p>
+<p>Il y a longtemps que j'ay envoyè un exemplaire de mon livre a Milord <persName>Brouncker</persName><note n="#4"/>, par un Gentilhomme, que m'avoit indiqué mademoiselle Freser<note n="#5"/> et j'espere qu'il l'aura receu. Il n'y a rien de plus obligeant, que ce que vous me mandastes de sa part<note n="#6"/> en responce de mes excuses d'avoir oubliè de luy presenter ce livre. Pour ce qui est de sa demonstration de la cycloide, je m'asseure qu'il ne pretend pas que son authoritè (qui autrement est fort grande a mon esgard) me fasse receuoir pour vrayes des choses, qui sont de Geometrie.</p>
+<p>J'avois aussi envoyè l'estè passè vn des livres a Monsieur Sluse, et du depuis je luy ay escrit par trois fois<note n="#7"/>, sans que jamais il m'ait fait response, de sorte que je ne scay s'il est vivant ou non, et si vous me pouuez faire scavoir de ses nouvelles, vous me ferez grand plaifir. Je remarquay, lors que je vis vostre Journal, ou il y a de nos lettres sur le probleme d'Alhasen<note n="#8"/> que les mienes estoyent bien mal traduites, et je ne crois pas que ce soit de vostre latin, parce que je le connois d'ailleurs. Au reste j'ay trouvè, ayant eu occasion d'examiner encore le mesme probleme, qu'il y avoit un chemin infiniment plus court pour venir a sa solution, que tout ce que nous vous en avons escrit, et qui conduit aussi a une demonstration fort courte de la construction que j'en ay donnée. mais cela paroistra en son temps, et je ferois scrupule de vous fatiguer de nouveau sur ce sujet. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">de Grubendol</persName> A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

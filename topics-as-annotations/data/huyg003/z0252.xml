@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0252"/>
+<meta type="date" value="1655-12-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0252">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>30 Dec. 1655</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous auriez receu la nouvelle de nostre heureux retour en ces quartiers par l'ordinaire de la sepmaine passée<note n="#1"/> si on eust eu soin d'y portèr nos lettres à l'heure qu'il falloit. nous arrivasmes icy le 19<hi rend="sup">e</hi> du mois, ayant fait tout le voyage assez heurcusement, quoyque non pas sans incommoditè. les neiges et la glace nous ont bien souvent disputè le passage, et quelques fois l'apprehension des troupes qui s'acheminoyent vers les quartiers d'hyver nous a donnè envie de retourner sur nos pas. mais graces à Dieu nous avons eschappè tous ces dangers sans aucune sinistre avanture. Or puis que je suis dans la patrie c'est à vous Monsieur de veoir en quoy j'y puis vous estre utile et par ce moyen me donner occasion de recognoistre les soings et les peines que nous vous avons donnè sans cesse depuis 6 ou 7 mois qu'a durè nostre pelerinage. Je me tiendray heureux de pouvoir executer vos commandemens, et de tesmoigner que je suis etc.</p>
+<div type="closer">
+<p>Chr. H.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0285"/>
+<meta type="date" value="1656-04-25"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0285">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano hugenio</persName> <persName key="scho197">Fr. à Schooten</persName>. S.D.</p>
+</div>
+<p>Amstelodamo reversus offendi gratissimas tuas, 20<hi rend="sup">mo</hi> Aprilis ad me datas, et in musaeo meo adventum meum praestolantes. Quas ubi perlegi, comperi illa, quae de aleae ludo conscribere simulque communicare mihi voluisti, vernaculo sermone esse conscripta, ob illam scilicet rationem, quòd Latinis (uti scribis) vocabulis destituereris. Quoniam autem opere absoluto plaeraque à Te reperta dicis, quae si opus exigeret nullo negotio eadem Latinè reddere possent, optarem, ut Latinè haec mihi versuro, cui longè minus ista ex voto succedent atque multò futura sunt difficiliora, ea quae idem opus facilitare ac promovere queant à Te suppeditarentur. Quippe haec Tibi jam perspecta ac probè cognita non nisi familiara esse possunt, quae mihi utiquè difficilia et etiamnum ignota multum in vertendo facessere possent negotij. Quantum ad illa quae ibidem à Claritate Tua pertractantur, siquidem ipsa magis digna quin et prolixa nimis quàm ut sub una sectione comprehenderentur commodè deprehendi, consultum duxi illa eodem ordine atque eo ipso modo, quo à Claritate Tua ad me transmissa sunt, sub Appendiculae nomine (quale à Vietâ factum vidimus) operi meo accedere. Cartesij Regulam, amicabiles numeros inveniendi, quam Milonio promisisti, hìc adjunctam habes, unà cum literis ad ipsum destinatis. Quas rogo ut sub tuarum ductu transmittantur. Tractatum cui titulus, Wiskonstich Bewys van de Onnoselheijt van J. du Bois &amp;c.<note n="#1"/> quo nuper Ducquium nostrum, ut ad Te transferret, oneraveram, jam à Te receptum diu et perlectum credo. Confidens fore ut pro merito eum reprehendi ibidem agnoveris ac accuratè excussum. Alium verò ejusdem argumenti, sed magis prolixum<note n="#2"/> etiam venalem procul dubio Hagae vidisti, qui biduo aut triduo abhinc in lucem prodijt
+atque venalis extat. Auctor ejus est Dominus <persName>L. v. Velthuijsen</persName><note n="#3"/>, Ultrajecti Medicinae Doctor. qui acutè quoque atque ingeniosè (ni fallor) dictum du Bois<note n="#4"/> excepit ut et refutavit. Caeterum pro acceptis gratijs quàm plurimis redditis hisce me Claritati Tuae commendo, quam ut eruditis omnibus Deus Optimus Maximus quàm diutissimè servet incolumem obnixè praecor. Vale ac me amare perge.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>25 Aprilis 1656</date>.</p>
+</div>
+<p>Quid de Meybomij tractatu de Proportionibus<note n="#5"/> sentias, quem Te perlegisse audivi, quaeso simul ad me rescribas. Iterum Vale.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Men Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>in S'graven-Hage
+<lb/>op t' pleijn.
+<lb/>cito.
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1248"/>
+<meta type="date" value="1664-08-01"/>
+<meta type="sender" value="camp091"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1248">
+<div type="opener">
+<p lang="la">Clarissimo Viro <persName key="huyg003">Christiano Hugenio</persName> Domino suo Colendissimo <persName key="camp091">Mattheus Campanus</persName> S.P.D.</p>
+</div>
+<p>Magna tui nominis fama, Vir doctissime, has ut ad te literas scribam in causa est. Illa scilicet admirandi Saturnij Systematis prima tua, et nunquam satis laudata inventio, quae à doctissimis plerisque, ingenuisque Viris, ut primùm uisa, recepta est, licet à non nullis<note n="#1"/> fuerit incogitanter reiecta, monet animum meum ad te his meis literis certiorandum de ejusdem systematis tui ueritate, patefacta ope uitrorum noua quadam arte elaboratorum, prout in adiuncto fratris mei germani<note n="#2"/> libello<note n="#3"/> luculenter perspicies, quem meae in te observatiae et beneuolentiae argumentum tibi esse uelim. Incolumen igitur te seruet, benèque fortunet Deus. Romae Kalen. Augusti 1664.</p>
+<p>&nbsp;</p>
+<p>Tibi quoque mecum Admodum Reuerendus Pater Daniel Bartholus<note n="#4"/> Societatis Iesu Vir quidem omnigenae scientiae, Artiumque peritissimus, de quo mentio fit in libello salutem plurimam dicit.</p>
+</div>
+<div type="para">
+<p>Clarissimo Viro et Domino Colendissimo Domino <persName key="huyg003">Christiano Hugenio Zulichemio</persName> Stampa 25.
+<lb/>in Hollandia <placeName key="denha004">Hagae Comitis</placeName>.
+<lb/>15 /
+<lb/>franco per Mantua</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1997"/>
+<meta type="date" value="1674-08-17"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1997">
+<div type="comment">
+<head rend="h4">Extract.</head>
+</div>
+<div type="opener">
+<p>Paris le 7/17 of August 1674.</p>
+</div>
+<p>I am obliged to the civilitie of Mr. <persName key="hook001">Hooke</persName> for what he writes to y<hi rend="sup">u</hi> concerning my Book<note n="#2"/>. But he doth wrong me; saying I had notice of his contriving of a
+circular pendolo-watch. Sr. Robert Morray nor any body else did ever write to me of it, and I wonder how he can assure that Sr. Robert Morray should himself have told it him. I invented that circular Pendolo shortly after the other vz. in the year 1658. And in 1661 being at London in companie of divers gentlemen of the Royal Society, I did expound to Mr. <persName key="wren002">Wren</persName> all what belongeth to the sayd Invention, as I believe he doth remember. And yet I do not accuse Mr. <persName key="hook001">Hooke</persName> to have known it from him<note n="#3"/>, because it happeneth many times that one doth invent things which he did not know to have been invented before. Nor also must he accuse me, to have borrowed any thing of his invention which he says to have propounded a<hi rend="sup">o</hi> 1666. The thing I wonder at in this is, that he saith, he hath found that the weight of the circular Pendulo must move in parabolick surface, and hath determined the crooked line by which the weight is forced to turn in that surface. for I thought surely to have sirst found those two things, which do depend from what I have put in my booke, touching the motion circular or centrifugal and of the evolution of crooked line whereof no body yet had treated<note n="#4"/>. And I doe not know why we have seen nothing of it in the transactions, if so be that Mr. <persName key="hook001">Hooke</persName> had laboured with good succes about those new speculations specially where it was sufficiently known in England that I was ready to have these treatises printed.</p>
+<p>Concerning the Instrument to measure the descent of weighty bodies<note n="#5"/>, it is true Sr. Rob. Morray had sent me long agoes that which Mr. <persName key="hook001">Hooke</persName> had invented, but that which I have expounded in my book<note n="#6"/> is very much different from it, as may be seen comparing them together.</p>
+<p>I doe not wonder at what he sayth to have observed touching the insuffisience of the Pendulo's, to find the longitude, because he hath only seen the experience of those which the Earl os Kinkardin had caused to be made and such like, for they had yet very considerable defaults. The last form I have reported in my Book<note n="#7"/> is a great deale better and I am still in good hope of it, expecting that a
+tryal be made of it at sea, which without these unhappy warres, had been done by this time.</p>
+<p>His new way of Telescope by reflection<note n="#8"/> is very wel imagined, althoug the difficulty he moveth himselve doth not seeme a little one to me, namely to provide that the rays entring before doe not trouble the vision. Besides which there is the great obstacle in this manner of Telescopes, vz. the softnesse of the metal in comparison of Glasse, wherefore it doth not receive so perfect a polishing, neither is it able to keep it, so that I hope but little of it, for practice.</p>
+<p>I beseech y<hi rend="sup">u</hi> to communicate all this to Mr. <persName key="hook001">Hooke</persName>; and to let him know the reason why this answer cometh thus late.</p>
+<div type="comment">
+<p>Constantine Hugens. Extract and traslation of his son's (Christian Hugens) Letter to asserting his invention of the circular pendulum. The insuffisance of pendulum for finding the longitude. Hookes Reflecting circle. Entd. L.B. Suppl.<note n="#9"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

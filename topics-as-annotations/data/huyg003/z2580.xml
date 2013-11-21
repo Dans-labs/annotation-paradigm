@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2580"/>
+<meta type="date" value="1690-04-18"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2580">
+<div type="opener">
+<p><note n="#3"/> <persName key="hosp010">Le M. de l'hospital</persName> a <persName key="huyg003">Huygens</persName></p>
+</div>
+<p>J'ay toujours eu, Monsieur, vne estime tres particuliere pour les scauans ouurages, que uous nous auez donnez. Le traitté du centre d'oscillation<note n="#4"/> n'est pas a mon sens vn des moins ingenieux, et l'on y voit partout des marques de cette eleuation d'esprit qui vous met si fort au-dessus du reste des hommes; c'est
+pourquoy j'ay esté surpris que certaines gens<note n="#5"/> abusant de la pensée de Mr. <persName key="desc004">Des Cartes</persName>, que la mesme quantité de mouuement se conserue toujours dans la nature, ayent osé l'attaquer; je dis expressement, abusant, car quoi qu'il y ait beaucoup de rencontres, ou le mouuement semble se perdre, l'on peut neanmoins raisonnablement penser qu'il se communique aux corps inuisibles; mais cecy est vne question purement phisique que je ne pretens nullement approfondir. et je ne me sers que du principe du leuier pour prouuer la verité de vostre regle, comme vous verrez dans le petit ecrit<note n="#6"/> que je vous enuoie. Si vous en estes content vous me ferez plaisir de le faire inserer dans vos journaux de Holande, au reste Monsieur, nous attendons auec grande impatience vostre liure de dioptrique<note n="#7"/> et nous ne doutons point qu'il ne reponde parfaitement a la haute idée que nous en auons conceuë. Je suis, tres parfaittement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur
+<lb/><persName key="hosp010">Le Marquis de l'Hospital</persName>.</p>
+<p>A <placeName key="parij001">Paris</placeName> ce 18<hi rend="sup">e</hi> auril 1690.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

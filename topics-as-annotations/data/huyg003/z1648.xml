@@ -1,0 +1,48 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1648"/>
+<meta type="date" value="1668-07-02"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="gall047"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1647"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1648">
+<p>Maniere pour trouver par le moyen des Logarithmes la dimension de l'espace Hyperbolique compris entre la Courbe &amp; une de ses Asymptotes, &amp; deux lignes paralleles à l'autre Asymptote, la proportion de ces deux lignes estant donnée en nombres.</p>
+<p><hi rend="i">Le Logarithme de la difference</hi><note n="#2"/> <hi rend="i">de ces nombres estant tousjours ajoustè à</hi> 0,3622156868, <hi rend="i">la somme fera le Logarithme du nombre des parties que contient l'espace Hyperbolique à raison de</hi> 10000000000 <hi rend="i">semblables parties que contient le parallelogramme de l'Hyperbole, c'est a dire celuy qui est compris par deux lignes menées d'un point de l'Hyperbole &amp; dont chacune est parallele à une des Asymptotes</hi>. Par exemple, si les paralleles qui enferment l'espace Hyperbolique, sont entre elles comme 36 à 5, l'operation se fera ainsi,</p>
+<p><table>
+<row>
+<cell>1,5563025008.</cell>
+<cell><hi rend="i">Logarithme de</hi> 36.</cell></row>
+<row>
+<cell>0,6989700043.</cell>
+<cell><hi rend="i">Logarithme de</hi> 5.</cell></row>
+<row>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>0,8573324965.</cell>
+<cell><hi rend="i">Difference</hi>.</cell></row>
+<row>
+<cell cols="2"></cell></row>
+<row>
+<cell>9,9331492856.</cell>
+<cell><hi rend="i">Logarithme de la difference</hi>.</cell></row>
+<row>
+<cell>0,3622156868.</cell>
+<cell><hi rend="i">Logarithme qui s'ajouste tousjours</hi>.</cell></row>
+<row>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>10,2953649724.</cell>
+<cell><hi rend="i">Logarithme dont le nombre fait le contenu de l'espace hyperbolique qui est icy</hi> 1,9740810180.</cell></row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

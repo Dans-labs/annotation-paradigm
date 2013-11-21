@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0686"/>
+<meta type="date" value="1659-11-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="kinn013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="wenen901"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0686">
+<div type="opener">
+<p><date>28 Nov. 1659</date>.</p>
+<p><persName key="kinn013">Kinnero</persName> Viennam.</p>
+</div>
+<p>Non diu est cum libellum meum de Saturni Systemate ad te misi una cum epistola bene longa<note n="#1"/>, quam se curaturum vir utriusque nostrum studiosissimus Pater
+<persName key="vinc027">Gregorius à Sto Vincentio</persName> promisit, et spero tibi redditam esse. Non potui tamen quin nunc quoque ad te literas darem ne vacuus illuc a me veniret vir Nobilissimus Dominus <persName>Guisonius</persName> qui cum socio suo iter in Germaniam parat. non opus est ut multis eum tibi commendem, cum hoc uno satis commendatum habiturus sis quod disciplinarum optimarum et Philosophiae est amantissimus atque ea tantum gratia longinqua adeo itinera suscipit, ut cum viris virtute et scientia praeditis, tui nempe similibus, versetur. Si fortasse observationibus nostris Saturnijs minus fidis poterit ille de veritate earum te edocere. Vidit enim quid valeant<note n="#2"/> hic quo utor tubus, mecumque Saturnum Jovem Martemque nunc perigaeum observavit. Et quid novi circa hunc animadverterim tibi referet. Haec ad te obiter Vir Amicissime. neque enim multa huic epistolae committenda putavi cum sero admodum isthuc perventuram sciam, si modo perveniat. Vale et mei memor vive ejus nempe qui est</p>
+<div type="closer">
+<p>Tui Observantissimus <persName key="huyg003">Chr. Hugenius de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

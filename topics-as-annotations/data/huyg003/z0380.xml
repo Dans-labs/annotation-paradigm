@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0380"/>
+<meta type="date" value="1657-03-18"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0380">
+<div type="opener">
+<p>Clarissimo Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. a Schooten</persName>. S.D.</p>
+</div>
+<p>Ecce tibi, Vir Clarissime, tractatum tuum de Ratiocinijs in aleae ludo, à me Latinè versum, quem tibi remitto ut eum accuratè perlegere digneris. Cum enim impraesentiarum tractatum ultimum mearum exercitationum praelo subjicere inceperint, cui hìc tuus Appendicis loco eleganter est accessurus, quò omnigena in Mathematicis exercendi materia cuivis constet, permittes confido, ut versionem hanc meam illius, à te diligenter examinatam, coronidis loco operi meo subjungam. Quocirca rogo, ut ea, quae praefationis loco praemittere te velle antea dixisti, supplere non desistas, eaque porrò adjungere, quae tibi visa sunt, quò simul omnia post 3 aut 4 septimanas, ubi ad finem operis mei perventum fuerit, typographo tradantur. Belgicam descriptionem tuam, ubi similiter à te revisa ac ad umbilicum perducta erit, rogo ut perinde transmittere non grave ducas, ut illa non minus ornamento operi accedat. Caeterum responsum meum ad Fermatij
+quaestiones et Mylonij epistolam credo à te acceptum, et jam jam ad ipsum transmissum. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>18 Martij, 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van de Heer <persName key="huyg001">van Zuijlichem</persName> op 't pleijn in S'Graven-Hage.
+<lb/>cito port</p>
+</div>
+</body>
+</text>
+</TEI>

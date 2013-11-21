@@ -1,0 +1,57 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2736"/>
+<meta type="date" value="1692-02~"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2735"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2736">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill60.gif"></graphic></figure></p>
+<p>Subnormali BF àequalis est B<hi rend="i">e</hi> applicata in curva A<hi rend="i">e</hi>, et sic ubique, jam ½ <hi rend="i">yy</hi> sive ½ qu. BH aequatur spatio A<hi rend="i">e</hi>B ex Barovij theor.<hi rend="sup">a</hi><note n="#3"/>.</p>
+<p>Quaerimus hic, ex cognita quantitate spatii A<hi rend="i">e</hi>B, expressa per <hi rend="i">x</hi>, <hi rend="i">a</hi> et <hi rend="i">b</hi>, quaenam sit aequatio curvae A<hi rend="i">e</hi>, quae nempe exprimat relationem inter <hi rend="i">x</hi> et <hi rend="i">z</hi>, hoc est inter AB, et B<hi rend="i">e</hi>.</p>
+<div type="section">
+<head>Exemplum 4<hi rend="sup">m</hi> Hub. Huighenij Zelandi<note n="#4"/>.</head>
+<p>NB. Pono <hi rend="i">x</hi> pro illius <hi rend="i">y</hi>. Et ½ <hi rend="i">yy</hi> pro illius <hi rend="i">aψ</hi><note n="#5"/> ut ad Barovij theorema examinem.</p>
+<p>&nbsp;</p>
+<list>
+<item><figure><graphic url="huyg003oeuv10ill226.gif"></graphic></figure><note n="#6"/></item>
+</list>
+<p>9<hi rend="i">b</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi>+12<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">byy</hi>-12<hi rend="i">aax</hi><hi rend="sup">4</hi>-4<hi rend="i">x</hi><hi rend="sup">6</hi>=0. Hinc incepit<note n="#7"/>; eamque ita egregie ordinavit ut in quadrabilem ita simplicem perduceret.</p>
+<p>Subtang. <figure rend="inline"><graphic url="huyg003oeuv10fi243.gif"></graphic></figure>, subnormalis.</p>
+<list>
+<item><figure><graphic url="huyg003oeuv10ill227.gif"></graphic></figure><note n="#8"/>.</item>
+</list>
+</div>
+<div type="section">
+<head>[Exemplum 15.]</head>
+<p>Erat <figure rend="inline"><graphic url="huyg003oeuv10fi461.gif"></graphic></figure> non curtatum. Si <hi rend="i">x</hi>=o, fit <hi rend="i">y</hi>=o. Si <hi rend="i">x</hi>=aliquid, fit ½<hi rend="i">yy</hi>=aliquid.</p>
+<list>
+<item>15 curtatum: <figure rend="inline"><graphic url="huyg003oeuv10fi244.gif"></graphic></figure>; nusquam fit <hi rend="i">y</hi>=o.</item>
+<item><hi rend="i">a</hi><hi rend="sup">4</hi>+<hi rend="i">x</hi><hi rend="sup">4</hi>=<hi rend="i">y</hi><hi rend="sup">4</hi></item>
+<item>subtang. <figure rend="inline"><graphic url="huyg003oeuv10fi245.gif"></graphic></figure> subnorm.=<hi rend="i">z</hi></item>
+<item><figure><graphic url="huyg003oeuv10fi462.gif"></graphic></figure></item>
+<item><hi rend="i">x</hi><hi rend="sup">6</hi>=<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">zz</hi>+<hi rend="i">x</hi><hi rend="sup">4</hi><hi rend="i">zz</hi>; curva conveniens non curtato.</item>
+</list>
+</div>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#9"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill61.gif"></graphic></figure></p>
+<p>4<hi rend="i">x</hi><hi rend="sup">4</hi>-3<hi rend="i">aaxx</hi>=<hi rend="i">aazz</hi>-<hi rend="i">xxzz</hi>+2<hi rend="i">axxz</hi>-2<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">z</hi>; aequatio curvae EG quadrabilis<note n="#10"/>, cujus applicatae sunt subnormales curvae ADK usque ad D ubi subnormalis=o.</p>
+<p>Eaedem vero applicatae sunt etiam subnormales curvae EH, cujus aequatio initio pag. sequentis ponitur. Sic omnis curva ex duarum diversarum curvarum subnormalibus applicatas constitutas habet.</p>
+<p>Et hoc fundamento nititur Curtatio nostra. Nam ex Barovij Theoremate erit spatium AGPN aequalem ½ qu. NL. Et ex eodem erit spatium PEN=½ qu. NQ. Est autem totum spatium <figure rend="inline"><graphic url="huyg003oeuv10fi469.gif"></graphic></figure>, cum nempe <figure rend="inline"><graphic url="huyg003oeuv10fi470.gif"></graphic></figure> sive AE. Ergo cum posito AN=<hi rend="i">x</hi>, sit spatium AGPN=<hi rend="i">ax</hi>+<hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi399.gif"></graphic></figure>=½<hi rend="i">yy</hi> ubi <hi rend="i">y</hi> est NL: erit spat. <figure rend="inline"><graphic url="huyg003oeuv10fi471.gif"></graphic></figure> cum <hi rend="i">y</hi> est NQ.</p>
+<p>Haec vero est non curtata quadratura quam voco: illa vero <figure rend="inline"><graphic url="huyg003oeuv10fi472.gif"></graphic></figure> curtata; ex quibus eandem utrobique curvam GE quadrabilem inveniri necesse est.</p>
+<p>Curtatio nostra utilis ad formandas quadraturas ex quibus curva paucorum terminorum; ut patet comparatione hujus exempli cum illo quod pag. sequen.<note n="#11"/> ubi tamen curva eadem utrobique oritur.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2884"/>
+<meta type="date" value="1694-12-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2884">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 27 Décembre 1694.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a desia quelque temps que Mr. <persName>Craft</persName><note n="#3"/> m'a rendu la lettre dont vous l'aviez voulu charger pour moy<note n="#4"/>; et comme il doit vous ecrire demain, il vient
+de me prier de pouvoir vous envoier en mesme temps quelque mot de ma part; car pour faire response à celle que vous m'avez fait l'honneur de m'escrire du 4/14 Sept., je luy ay dit qu'elle contenoit trop de choses differentes pour que j'y puisse satisfaire presentement.</p>
+<p>Ce Mr. <persName>Craft</persName>, que je connoissois de reputation depuis l'invention du phosphore<note n="#5"/>, est veritablement, comme vous dites, un homme de merite et de bon sens, et qui a appris bien des choses par ses longues experiences en matiere de Physique. J'ay donc pris plaisir à l'entretenir plus d'une fois. Il m'a communiquè le dessein de la nouvelle manufacture, et m'en a apportè un echantillon, par lequel il semble que la chose pourroit avoir un bon succes. Toutefois j'ignore en quoy consiste le secret<note n="#6"/>, et à ce que je vois, c'est en Angleterre qu'il pretend commencer à le mettre en pratique, devant que d'en parler icy à personne. Lors que j'auray occasion de le servir, je le feray autant qu'il sera dans mon pouvoir.</p>
+<p>J'ay estè fort aise de la visite peu attendue<note n="#7"/> de Mr. <persName key="tsch002">Tschirnhaus</persName> au mois de Sept. dernier. Mais le malheur voulut, à cause du temps couvert, que je ne pus voir l'effect du verre brulant qu'il m'apporta d'environ 14 pouces. C'est un avantage de ces verres de bruler de haut en bas, parce que la matiere qu'on y expose se peut placer sur un charbon qui augmente la force du feu. Mais sans cela je ne scaurois croire que ses verres, quand ils seroient de 2 pieds, comme il dit en avoir, pussent egaler la force du miroir concave de 3 pieds, que nous avions à l'Academie de Paris, qui faisoit degouter les clous de fer en peu de temps<note n="#8"/>. Je me persuade au reste qu'on pourroit esperer de plus grands effects des miroirs concaves de verre, avec de la feuille derriere, comme une personne en fait icy à la Haye, qui sont d'une matiere claire et d'un poli tres beau. Mais il faudroit les faire de 3 ou 4 pieds, ce qui me semble tres possible, au lieu qu'ils ne sont jusqu'icy que d'un pied. Un petit miroir plat adjoutè aupres du foier pourroit reflechir les raions en bas pour brusler sur le charbon. Mr. <persName key="tsch002">de Tschirnhaus</persName> me dit à la haste quelque chose de ses inventions<note n="#9"/> qu'il extolloit fort; nous les verrons peut-estre expliquées quelque jour dans le Journal de Leipzich<note n="#10"/>. Ce que vous y avez dernierement mis, Monsieur, touchant la
+Paracentrique<note n="#11"/>, m'a paru bon, mais j'en suis demeurè aux sommes ou je trouvois quelque difficultè, c'est-à-dire à mon egard, parce que toute vostre methode ne me demeure pas presente à l'esprit quand j'ay discontinuè longtemps à m'y exercer. Et c'est pour cela que j'ay souhaitè que vous l'eclaircissiez par un traitè expres, depuis les fondemens<note n="#12"/>. Il y a mesme bien du temps que je n'ay rien fait en matiere de geometrie, à cause d'une certaine dissertation philosophique<note n="#13"/> que j'espere de mettre au jour dans peu. C'est pourquoy je ne scaurois encore repondre à vostre lettre du 4/14 Sept., par ce qu'il y a du calcul differentiel, qui demande que je l'etudie. J'admire cependant comment par un si etrange chemin vous estes parvenu à la construction de la <hi rend="i">Catenaria</hi>. Vous aurez vu sans doute le dernier livre de Craige<note n="#14"/>, où il y a à la fin une response à Mr. <persName key="tsch002">de Tschirnhaus</persName> qu'il s'est attirè par sa violente censure. Vostre calcul est beaucoup employè et louè dans ce traitè. Mr. <persName>Craft</persName> m'a dit que vous aviez achevè vostre machine arithmetique, qui doit estre une piece merveilleuse, et dont l'execution sans doute vous aura coutè bien de la peine, puis que celle qu'avait fait Mr. <persName>Pascal</persName> seulement pour les additions, luy avoit grandement usè et
+gastè l'esprit a ce que ses amis m'ont dit<note n="#15"/>. On pouvoit la faire incomparablement plus simple et plus commode, ce que je ne crois pas estre de mesme de la vostre. Je vous prie de me mander combien de chifres et par combien elle peut multiplier, et si elle est dans la perfection que vous souhaitez, sans estre sujette à manquer ni à se detraquer<note n="#16"/>.</p>
+<p><note n="#17"/> L'on m'a apportè un Traitè manuscrit d'un Mr. <persName>de Maroles</persName>, mort martir en
+France sur les galeres, où il y a des Problemes numeriques fort subtils, resolus de la maniere de Diophante<note n="#18"/>. Il avoit grand commerce avec le P. Billy<note n="#19"/>, et on doit me porter de leurs lettres reciproques. On a dessein d'imprimer le tout. Je n'ay jamais voulu m'amuser à ces sortes de questions, et toutefois j'aime à voir l'adresse que souvent ils demandent. Devant que finir et pour ne pas laisser cette page vuide je vous diray que dans l'invention de la Paracentrique de Mr.
+<figure><graphic url="huyg003oeuv10ill222.gif"></graphic></figure>
+Bernoulli, je trouve que c'est beaucoup d'avoir determinè certaines choses touchant cette courbe, et entre autres le point où elle finit, comme en cette figure vers A, ce qui ne me semble pas qu'on puisse inferer de vostre calcul. Aussi ne scay je pas si sa determination est bien vraie, et si la courbe n'a pas BA pour asymptote<note n="#20"/>. J'en voudrois bien scavoir vostre sentiment, et finissant icy je demeure en vous souhaitant tout bonheur dans la prochaine année, etc.</p>
+</div>
+</body>
+</text>
+</TEI>

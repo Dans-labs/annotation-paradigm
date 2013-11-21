@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1751"/>
+<meta type="date" value="1669-07-15"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1751">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>Dans l'inprimé cy-joint<note n="#1"/> vous trouuerez vne demonstration de Monsieur Wren, laquelle sans doubte vous ne deplaira point. Nous verrons desormais, si la chose y demonstrée se peut accommoder à la pratique.</p>
+<p>Le verre de 60. pieds n'a pas reussi comme l'Artiste<note n="#2"/> auoit esperé. Il travaille à un autre de la mesme longueur. Et puisque vous y faitez travailler de mesme, nous serons bien aises d'entendre le succes de vostre ouvrage.</p>
+<p>Le poids, dont se sert Monsieur Hook dans l'application du pendule à vne montre de poche, est si grand, que l'impression, qu'y fait la montre, n'y peut auoir aucun effet; joint que le mouuement est environ 1½ pied au dessus du poids.</p>
+<p>J'ay fait voir<note n="#3"/> à nos Messieurs la figure Geometrique<note n="#4"/>, que vous auez fait inprimer par vostre nouuelle maniere. Ils m'ont commandé de vous en rendre graces; et Monsieur Wren pense, que vous vous servez de la facon suivante: Prenant de la platine d'airain, aussi deliée que du papier, vous la couvrez auec du vernis propre à graver et faitez graver lá dessus (auec soin de ne fermer pas les lettres) auec de l'eau forte si penetrante que de percer la platine tout à fait. Ce qui estant fait, vous tournez la platine, la mettant sur vne autre qui soit espaisse, toute couuerte de l'ancre d'inprimeurs; et qu'ainsi vous la passez par la presse roulante selon la facon ordinaire. Il vous plaira nous dire lá dessus, si Monsieur <persName key="wren002">Wren</persName> a bien rencontré, ou non. La maniere du Chevalier <persName key="pett901">Petty</persName><note n="#5"/> est differente de celle-cy; luy n'estant pas en Angleterre, ie n'ay pas la permission de la communiquer à present.</p>
+<p>Touchant le grand miroir concave, il faudroit scavoir, de quelle espaisseur est
+le fer, qu'il fond, et de quelle largeur est le focus. Si ie ne me trompe, celuy de l'autre<note n="#6"/> du mesme Artiste estoit large d'un demi Louys d'or. Vous nous ferez la grace de nous mander toutes les particularitez de l'effet, que vous en aurez observées vous mesme.</p>
+<p>C'est vn horologe à ressort, qui se meut à l'aide d'une pierre d'aimant, et ce n'est qu'un essay, personne ne determinant encor rien la dessus. On le monstra l'autre iour<note n="#7"/> entre autres choses à l'Ambassadeur<note n="#8"/> de Venise, qui vint voir nostre Societé: On luy montra encore la maniere de peser l'eau dans l'eau; et d'espuiser l'air de l'eau ensorte que la liqueur tombe contre le fonds du verre, comme vne pierre ou quelque metal: ce qui est assez surprenant<note n="#9"/>.</p>
+<p>Le livre de Monsieur Malpighi est presque achevé d'inprimer. J'espere d'en envoyer un exemplaire à Monsieur Justel dans peu de temps. Nous n'auons pas encor veu celuy de Monsieur Redi touchant la Generation des Insectes: cependant Monsieur Magalotti<note n="#10"/> m'a promis de m'en faire venir vn exemplaire par la premiere commodité. Nos libraires sont fort paresseux et nonchalans en matiere du commerce des livres curieux, vû le petit nombre de ceux, qui y prennent plaisir, en comparaison des autres.</p>
+<p>J'espere, que vous aurez receu le pacquet<note n="#11"/> que ie vous ay envoié par la voye de Monsieur Bleswick de Delft, où il y auoit la theorie<note n="#12"/> de Monsieur Neile touchant le mouuement, le mesme se chargea d'un autre pacquet de livres pour Monsieur Justel, et ie ne doubte pas, qu'il ne soit heureusement arrivé à Paris. C'estoit le 18<hi rend="sup">me</hi> juin, que ie luy baillay ces pacquets là, y adjoustant la confutation de la Quadratura de Hobbs par Wallis<note n="#13"/>.</p>
+<p>Le Medecin du Prince de Toscane<note n="#14"/>, Signor Gornia<note n="#15"/>, me mande par sa lettre d'Amsterdam du 1 juillet, que son Altesse estoit alors preste pour partir en France. Messieurs Magalotti et Falconieri<note n="#16"/>, que sans doubte vous aurez vû cydevant, sont de sa suite; personnes d'esprit et de grande curiosité, qui seront tresaises de cultiver vostre amitié, come ie tacheray de le faire soigneusement, en qualité de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné serviteur <persName key="olde010">H. Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 5. Juillet 1669.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la bibliotheque du Roy à Paris.
+<lb/>26 β</p>
+</div>
+</body>
+</text>
+</TEI>

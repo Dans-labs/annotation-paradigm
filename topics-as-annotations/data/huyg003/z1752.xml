@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1752"/>
+<meta type="date" value="1669-07-01"/>
+<meta type="sender" value="wren002"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1753"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1752">
+<p>Generatio Corporis Cylindroidis Hyperbolici, elaborandis Lentibus Hyperbolicis accomodati, Authore <persName key="wren002">Christophoro Wren</persName> L.L.D. et Regiorum Aedificiorum Praefecto, nec non Societatis Regiae Sodali.</p>
+<p><figure><graphic url="huyg003oeuv06ill99.gif"></graphic></figure></p>
+<p>Sint Hyperbolae oppositae DB, EC, quarum Axis transversus est BC, Centrum A, et una ex Asymptotis GP; item per Centrum sit OM ducta ad angulos rectos ipsi BC. Quare si circumducantur Hyperbolae circa Axin OM, manifestum est, ex ea revolutione generari corpus <hi rend="i">Cylindroides Hyperbolicum</hi> cujus Bases sectionesque Basi paralellae sunt Circuli. Dico insuper, si idem corpus secetur per Asymptotum GP, erit sectio Parallelogrammum.</p>
+<p>Secetur per axin transversum sectione circulari BNC; item per O et M in Circulos aequales &amp; aequaliter a Centro distantes; item per Axin in figuram Geometricem cujus semissis est BDEC, in cujus plano erit Asymptotos GP, per quam ad rectos angulos planum BDE secetur in plano EHP<note n="#1"/>, jungantur denique HO.</p>
+<p>Quoniam triangulum OGH est rectangulum, Ergo Quadratum OH sive OD, minus Quadrato OG, est aequale Quadrato GH: et quoniam DO parallela est ipsi BA, et Asymptoton secat in G, erit (ex proprietatibus Hyperbolae, quae in <hi rend="i">Conicis</hi> demonstrantur) Quadratum OG unâ cum Quadrato AB aequale Quadrato
+OD, hoc est Quadratum OD minus Quadrato OG aequale Quadrato AB sive Quadrato AN. Ergo Quadratum GH aequale est Quadrato AN. Quare GH et AN aequantur et sunt ad angulos rectos ipsi GA: idemque demonstratur de omnibus aliis sectionibus Basi parallelis. Quare Cylindroides Hyperbolica rite secatur per Asymptoton in Parallellogrammum, quod erat demonstrandum.</p>
+<div type="section">
+<head rend="h4">Corollarium.</head>
+<p>Hinc patet, in superficie <hi rend="i">Cylindroidis</hi>, quamvis e duplici flexura constet, rectas nihilominus innumeras duci posse: Patet etiam, aliam esse hujus Corporis generationem, nimirum ex revolutione Parallelogrammi circa Axin manente angulo ad Axin aequali GAO, vel denique manente Linea Generatrice HR immobili, et massam volubilem formante aut secante. Et si acies Dolabri acutissima et rectissima ita disponatur ad Axin, sicut se habet Linea Generatrix, rotante interim Mamphure, manifestum est, Torno tam accuratas posse elaborari <hi rend="i">Hyperbolas</hi> quam <hi rend="i">Circulos</hi>, cum nihil aliud requiratur ad formandam <hi rend="i">Cylindroidem</hi> quam ad <hi rend="i">Cylindrum</hi>, nisi quod in Cylindris acies dolabri est Axi parallela, hic vero inclinata. Itaque notandum est, pro Inclinatione Anguli GAO, variari speciem Hyperbolae; adeoque facilius accommodatur ad datam Hyperbolam quam ut demonstratione opus habeat: At si manente angulo Generatrix magis ad Centrum accedat, exsurgit inde minor Hyperbola, sed priori prorsus similis<note n="#2"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

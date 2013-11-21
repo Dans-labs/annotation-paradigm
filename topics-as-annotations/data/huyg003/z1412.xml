@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1412"/>
+<meta type="date" value="1665-06-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="zuili001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1412">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> 3 Juin 1665.</p>
+</div>
+<p>Voicy l'un des livres que vous avez desirè, que je vous envoiasse.</p>
+<p>Je tascheray de avoir aussi l'autre de Monsieur Gool<note n="#1"/>, et vous le feray tenir, s'il n'arrive point de malheur a cettuy cy, que je vous recommande de bien conserver et de me le envoier, quand vous l'aurez leu.</p>
+<p>L'On n'entend encore rien de nostre flotte; on dit que celle d'Angleterre<note n="#2"/> ayant estè contrainte par le mauvais temps, de se retirer dans les ports, devoit ressortir dimanche passè.</p>
+<p>l'Affaire<note n="#3"/> de Dorp<note n="#4"/> a estè terminée avant hier par une suspension de 3 semaines: apres une bonne et longue reprimende.</p>
+</div>
+<div type="para">
+<p>Te bestellen ten huyse van <persName>Willem Vos</persName> Houtkoper tot Gorcum, om voort te zenden aan Myn Heer Myn Heer <persName key="huyg008">L. Huygens</persName> tegenwoordigh op huys tot Zuylichem.
+<lb/>Met een pack.</p>
+</div>
+</body>
+</text>
+</TEI>

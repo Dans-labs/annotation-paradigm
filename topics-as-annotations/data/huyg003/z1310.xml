@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1310"/>
+<meta resp="HI" type="date" value="1665-01-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="auzo011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1310">
+<div type="opener">
+<p><persName key="auzo011">Auzout</persName>.</p>
+<p>15 Janvier 1665.</p>
+</div>
+<p>Son pronostic<note n="#1"/> fondè sur les remarques de l'acceleration et retardation qu' enseignent les observations, car en ayant quelques unes on peut non seulement suppleer celles qu'on n'a pu faire entre deux, mais aussi predire les futures. Je luy envoie mes observations<note n="#2"/> par les quelles il verra comme ses dernieres predictions que je viens de recevoir s'accordent assez bien mais non pas encore tout a fait avec le cours de la comete. passage de l'equateur et de l'ecliptique quand. ne decrit pas justement un grand cercle. preuve<note n="#3"/>. En escrivant<note n="#4"/> a Monsieur Moray en Angleterre j'avois escrit que je crois qu'elle ne passeroit pas l'ecliptique, ce qui ne sera point vray, quoy qu'il ne la passera que peu de degrez. J'avois aussi remarquè dans la mesme lettre comme vous que le mouvement de la comete avoit estè le plus viste lors qu'elle estoit opposee au soleil et dans sa plus grande latitude, et j'adjoutay que pour cela croiois que c'estoit le mouvement de la terre in orbe magno qui faisoit paroistre la comete si viste et d'un cours si inegal, et je n'en doute presque point.</p>
+<p>Lettre de Campani<note n="#5"/> avec l'observation corrigee<note n="#6"/>. quant au diametre des planetes vous differez non seulement de moy mais aussi de Ricciolus, Hevelius et autres. je crois que vostre methode<note n="#7"/> est la mesme dont j'ay mesurè le diametre de
+mars depuis<note n="#8"/>, qui s'accordoit pourtant parfaitement avec ma premiere dimension<note n="#9"/>. de sorte que je ne doute point qu'il ny ait quelque mesconte dans les vostres. methode du cercle. qu'il n'importe pas quoyque le verre deviene de plus grande sphere et que la forme estant donnee imparfaite se perfectionne necessairement par le cercle. Sa dioptrique.<note n="#10"/> je l'.</p>
+</div>
+</body>
+</text>
+</TEI>

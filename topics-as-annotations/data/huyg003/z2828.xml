@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2828"/>
+<meta type="date" value="1693-10-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2828">
+<div type="summary">
+<head rend="h4">Sommaire<note n="#2"/></head>
+<p>Sa solution est a admirer a cause du chemin difficile. Bernouli se trompe en la condamnant comme fausse. puto posse reduci ipsius constructionem ad meam seu Bernoulianam. apparet quando futura sit geometrica curva nempe quando <hi rend="i">p</hi>-<hi rend="i">q</hi> vel <hi rend="i">q</hi>-<hi rend="i">p</hi> ad <hi rend="i">q</hi> ut numerus ad numerum: per logarithm. possunt aequalia trapezia hyp. abscindi. Una tantum datur curva quae satisfaciat, non duae ut putat. Fit enim aequatio ejus prima eadem quae Bernoulij, si ponatur 108 <hi rend="i">b</hi>, pro <hi rend="i">a</hi>, et dividatur per 432. ma construction. qualis curvae integrae. quomodo in circumferentiam abeunt. et in rectam. ma machine pour la description. Flexilis ambitum<note n="#3"/>. an habet quadraturam lineae <hi rend="i">y</hi>=<hi rend="i">aax</hi>/<hi rend="i">aa</hi>+<hi rend="i">xx</hi> ex quadratura hyperbolae<note n="#4"/>?</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 1 Oct. 1693.</p>
+</div>
+<p>J'ay esté etonnè, Monsieur, de voir que par le chemin que vous avez pris on pouvoit aussi parvenir à la solution du Probleme de Mr. <persName>Bernouili</persName>, et j'ay admirè vos excellents artifices, qu'il y a falu emploier, où il y a bien des choses, qui peuvent servir en d'autres occasions, et sur les quelles j'auray à vous consulter cy-apres quand j'auray le loisir de les examiner a fonds. Mr. <persName>Bernouilli</persName> se trompe assurement, quand il soutient que vostre solution n'est pas bonne, estant certain, que toutes vos deux equations s'accordent avec la siene<note n="#5"/>. Je dis toutes les deux, par ce que si dans la 1<hi rend="sup">re</hi>, l'on suppose 108 <hi rend="i">b</hi> ∞ <hi rend="i">a</hi>, et qu'on divise apres par 432, on
+trouve justement son equation. Ce que je m'estonne que vous n'aiez pas remarquè, Mons<hi rend="sup">r.</hi>, en luy faisant response, aussi bien que vous l'aviez decouvert dans la seconde. Il n'y a donc pas deux differentes courbes qui satisfassent au Probleme, comme vous aviez cru, mais vos deux constructions donnent la mesme, quoy que de differentes grandeurs. Je crois mesme qu'on les pourroit reduire à la mesme simplicité de la miene que vous verrez icy, qui resulte aussi de la solution de Jac. Bernouilli que vous avez vue dans les Acta du mois de Juin. Car pour ce qui est des trapezes Hyperboliques égaux que vostre construction demande qu'on puisse retrancher, cela se fait aisement par le moien de la Logarithmique, et pour venir à ma construction, il a falu y passer de mesme, comme vous pouvez juger par ce que je vous ay ecrit dans ma precedente. Cette construction donc<note n="#6"/> est comme s'ensuit.</p>
+<p><figure><graphic url="huyg003oeuv10ill174.gif"></graphic></figure>
+Soit donné dans la droite AB, le point A, et qu'il faille trouver la courbe AFC telle que quelque droite qui la touche, comme CD, retranche dans AB la partie AD, qui ait à CD une raison donnée.</p>
+<p>Constr. Supposant la Logarithmique quelconque FG, aiant l'asymptote AB, de quelque point qu'on y aura pris, soit appliquée la perpendiculaire FE. Et comme <hi rend="i">b</hi> à <hi rend="i">c</hi> ainsi soit FE à
+EA<note n="#7"/>. Puis aiant pris vers E quelque distance AD, et faisant comme <hi rend="i">c</hi> à <hi rend="i">b</hi> ou AE à EF, ainsi AD à une autre DC, on decrira avec celle-cy comme raion et du centre D, la circonference CH, et l'on appliquera IG egale à la mesme DC. Puis comme <hi rend="i">b</hi> à deux fois <hi rend="i">c</hi>, ainsi on fera IE à EK, qu'on prendra vers l<note n="#8"/>, et on appliquera derechef à la logar.<hi rend="sup">que</hi> la perpend. KL<note n="#9"/>; et comme la somme des lignes KL, EF à leur difference, ainsi on fera DC à DB, qu'il faut prendre vers le point A, si AD est plus grande que AE, ou du costè opposè si elle est moindre. Maintenant la droite BC perpend. à l'asymptote, coupera la circonf. CH, au point C, qui sera dans la courbe cherchée AFC.</p>
+<p>Je crois que vous aurez remarqué que lors que <hi rend="i">c</hi> est plus grande que <hi rend="i">b</hi>, la Ligne n'a pas une courbure simple, mais deux différentes, qui aboutissent à un mesme
+<figure><graphic url="huyg003oeuv10ill175.gif"></graphic></figure>
+point, comme ANM, MP<note n="#10"/>, laquelle derniere a l'asymptote AQ, la mesme que la Logarithmique. Lorsque ANM devient une demie circonf., il semble que cette MP devient une ligne droite et vous trouverez, comme je crois, que c'est celle que donne vostre construction dans le cas que <hi rend="i">b</hi> et <hi rend="i">c</hi> sont egales.</p>
+<p>Le chemin abregè que vous avez rencontrè apres avoir escrit vostre lettre est celuy que j'ay suivi, et sans doute aussi Mr. <persName>Bernoully</persName>, mais j'ay <hi rend="i">au</hi>/<hi rend="i">n</hi>-<hi rend="i">nuu</hi>=-<hi rend="i">dz</hi>/<hi rend="i">z</hi><note n="#11"/>, par ce que <hi rend="i">n</hi> est plus grand que <hi rend="i">nuu</hi>. Et pour ce signe
+de - devant <hi rend="i">dz</hi>/<hi rend="i">z</hi>, il ne doit point faire de peine, qui seroit+dans les cas que la
+<figure><graphic url="huyg003oeuv10ill176.gif"></graphic></figure>
+touchante CD est inclinée de l'autre sens que dans vostre figure<note n="#12"/>, c'est-à-dire dans celle-cy.</p>
+<p>J'avois dessein de vous envoyer la maniere que j'avois imaginee pour descrire mechaniquement ces courbes<note n="#13"/>, mais je vois qu'il y a à considerer quelque chose de plus dans les cas que <hi rend="i">c</hi> est plus grande que <hi rend="i">b</hi><note n="#14"/>, et je n'ay pas maintenant assez de temps
+de reste. Je differe donc aussi de vous respondre touchant ce que vous dites des quadratures par les series et touchant le livre de Monsieur <persName key="rena002">Renaud</persName>.</p>
+<p>J'ay envoié à Mr. <persName key="leib013">Leibnitz</persName> une feuille pour estre inserée au Journal de Leipsich<note n="#15"/>, où je fais voir seulement que j'ay resolu le Probleme de Mr. <persName>Bernoulli</persName> sans en dire d'avantage que ce que je vous en marquay dans ma precedente, a fin de laisser de l'exercice à ceux qui s'y voudront occuper. J'y ay aussi parlè de la courbe que je vous dis que j'avois trouvée, et j'ay adjoutè qu'elle sert à regler et rendre egal le mouvement de certains horologes, que j'ay nouvellement inventez, qui est tel que l'agitation de la mer ne scauroit luy nuire ni l'affoiblir, comme il arrive aux pendules, non obstant toutes les precautions. Je suis avec etc.</p>
+</div>
+</body>
+</text>
+</TEI>

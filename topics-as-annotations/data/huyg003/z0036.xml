@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0036"/>
+<meta type="date" value="1647-06-24"/>
+<meta type="sender" value="daub002"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0036">
+<div type="opener">
+<p>Monsieur.</p>
+</div>
+<p>Monsieur <persName>Hausman</persName> s'en allant en voz quartiers je l'ay voulu charger de ce peu de lignes pour vous dire que Monsr vostre second fils<note n="#1"/> qui est logé chez nous me donne une grande satisfaction, soit pour la diligence qu'il apporte à ses estudes, soit pour l'honnesteté de ses comportemens, sans vous flatter, Monsieur, je le regarde comme un nouvel Orient, qui ne tardera pas à envoyer ses lumieres par tout, Et quand je considere l'excellence de son Esprit joint la solidité de son jugement et le plaisir qu'il prend aux estudes de droit joint le temps qu'il y employe, je ne puis que je ne vous felicite, Je ne manque pas de luy donner de l'exercice, mais il ne manque pas aussy à y bien satisfaire, en toutes noz disputes aussy que publiques que particulieres, il est presque tousjours des acteurs, il soustiendra samedy prochain en particulier des theses sur le second livre du digeste, et dans trois semaines en public De matrimonio, et vostre troisieme<note n="#2"/> qui fait aussy fort bien, huit jours apres De legitimatione. lesquelles theses publiques ils vous envoyeront bien tost, Madame la Princesse m'ayant commandé de traduire ma Harangue<note n="#3"/>, en françois, je la luy envoye par mesme main, j'escris à S.A. que j'ay affecté exprés un stile qui sent fort le Latin, à fin de ne m'esloigner pas par trop de mes expressions ni de mes
+conceptions, sçachant d'ailleurs que toute translation quoy qu'on face a tousjours mauvaise grace, si ce n'est qu'on se donne carriere, ce que je n'ay pas voulu faire icy, Vous baisant treshumblement les mains je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="daub002">Dauber</persName>.</p>
+<p>A <placeName key="breda001">Breda</placeName> ce <date>24 Juin 1647</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur <persName key="huyg001">Huygens</persName>, Chevalier, Seigneur de Zülichem et de Mönikenlandt, Conseiller et premier Secretaire d'Estat de S.A. et Curateur de l'Escole Illustre d'Orange à Breda
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

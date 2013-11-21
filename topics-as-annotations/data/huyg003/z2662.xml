@@ -1,0 +1,183 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2662"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2660"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2662">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill11.gif"></graphic></figure></p>
+<p>Sit spatii DEGC ad qu. DN ratio invenienda. Dividatur DC bifariam in B, formeturque fractio numerica, cujus numerator sit ad denominatorem ut DB ad BA, quae fractio vocetur <hi rend="i">d</hi>. Eritque summa progressionis <hi rend="i">d</hi>+<hi rend="i">d</hi><hi rend="sup">3</hi>/3+<hi rend="i">d</hi><hi rend="sup">5</hi>/5+<hi rend="i">d</hi><hi rend="sup">7</hi>/7+<hi rend="i">d</hi><hi rend="sup">9</hi>/9 etc. bis sumpta aequaelis spatio DEGC, in partibus qualium quadr. DN est 1<note n="#3"/>.</p>
+<p>Sic si DC sit=DA fiet <hi rend="i">d</hi>=⅓ quia DB ad BA ut 1 ad 3. Eritque spat. DEGC=logar. 2, qualium quadratum AE est 1. Verus autem
+log. 2<note n="#4"/> existet si fiat ut 10000000000 ad inventum ductum in 10000000000, ita 434294481 ad alium.</p>
+<p><table>
+<row>
+<cell><hi rend="i">d</hi>=⅓</cell>
+<cell>=</cell>
+<cell>0,3333333333</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">3</hi>/3=1/81</cell>
+<cell>=</cell>
+<cell>0,0123456790</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">5</hi>/5=1/1215</cell>
+<cell>=</cell>
+<cell>0,0008230453</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">7</hi>/7=1/15309</cell>
+<cell>=</cell>
+<cell>653210</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">9</hi>/9=1/177147</cell>
+<cell>=</cell>
+<cell>56450</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">11</hi>/11=1/1948617</cell>
+<cell>=</cell>
+<cell>5132</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">13</hi>/13=1/20726199</cell>
+<cell>=</cell>
+<cell>482</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">15</hi>/15=1/215233605</cell>
+<cell>=</cell>
+<cell>46</cell></row>
+<row>
+<cell><hi rend="i">d</hi><hi rend="sup">17</hi>/17=1/2195 etc.</cell>
+<cell>=</cell>
+<cell>4</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>3465735900</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>2</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>0,6931471800</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>4342944819</cell></row>
+<row>
+<cell>log. 2 hyperb<hi rend="sup">cus</hi></cell>
+<cell></cell>
+<cell>6931471800</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>34743558552</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>4342944819</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>30400613733</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>17371779276</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>4342944819</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>13028834457</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>39086503371</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>26057668914</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell>log. 2 Tabul.<hi rend="sup">m</hi></cell>
+<cell></cell>
+<cell>3010299954/6/1854604200 logar. 2.</cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#5"/>.</head>
+<p>Si ratio ED ad GC ac proinde CA ad AD ut numeri ad numerum proxime minorem vel ad binario minorem, erit semper DB ad BA ut unitas ad numerum. Unde facile invenitur numeri dati logarithmus ex cognito log.<hi rend="sup">o</hi> numeri proxime minoris vel majoris, vel binario minoris aut majoris.</p>
+<p><table>
+<row>
+<cell>1/9 + 1/2187 + 1<note n="#6"/>/295245</cell>
+<cell>100000000/11111111</cell></row>
+<row>
+<cell></cell>
+<cell>45725</cell></row>
+<row>
+<cell></cell>
+<cell>338</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>11157174</cell></row>
+<row>
+<cell></cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>0,22314348 <hi rend="i">l.</hi> 5/4</cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#7"/>.</head>
+<p><table>
+<row>
+<cell>0,69314718</cell>
+<cell>l. 2</cell></row>
+<row>
+<cell>2</cell>
+<cell></cell></row>
+<row>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>1,38627436</cell>
+<cell>l. 4</cell></row>
+<row>
+<cell>0,22314348</cell>
+<cell>l. 5/4</cell></row>
+<row>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>1,60943784</cell>
+<cell>l. 5</cell></row>
+<row>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell cols="2">sicut 2,30258502 l. 10 ad 1,00000000 ita 1,00000000 log. 10 ad suum</cell></row>
+</table></p>
+<p>quadr. hyperbolae 0,4342944 etc. subtang. logisticae<note n="#8"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

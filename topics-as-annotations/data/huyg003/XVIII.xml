@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XVIII"/>
+<meta type="date" value="1644-08-11"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XVIII">
+<p>...Cartesianam Phijsicam mitto et Burgersdicianam. Illam Wendelini<note n="#1"/> Elzevirius necdum nancisci potuit. ipse eam non habeo, sed legi aliquando et probavi cum Cl. Heereboordio. Videtur satis commodus incipientibus fore Burgersdicius. Quae de Curtio, de Novo Testamento, de Homero praescribis, studiosè observabuntur...</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> IIV Id. Aug. MDCXLIV.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

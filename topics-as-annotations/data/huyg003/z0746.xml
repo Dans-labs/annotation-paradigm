@@ -1,0 +1,19 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0746"/>
+<meta type="date" value="1660-04"/>
+<meta type="sender" value="gott004"/>
+<meta type="recipient" value="vinc027"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0745"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0746">
+<p>Pater Ricciolus aliquid in lucem edidit<note n="#2"/> contra Systema Saturni a Domino <persName key="huyg003">Hugenio</persName> editum, sed quod illud sit, necdum videre potuj: alia parantur; sed necdum lucem vident.</p>
+</div>
+</body>
+</text>
+</TEI>

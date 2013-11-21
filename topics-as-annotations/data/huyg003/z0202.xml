@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0202"/>
+<meta type="date" value="1654-10-27"/>
+<meta type="sender" value="wyck005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="delft001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0202">
+<div type="opener">
+<p>Mijn Heer.</p>
+</div>
+<p>Hir benefens gehet met hertelicke danksegginge die kasse van het vergroet glas met ein klein glasgen, het welke in het deipste scotelken is geslepen dat ick hebbe, verhope dat het VE. deinen sall, wijders so daer iets is in mijn Huijs dat VE. deinen kan, sall dit altoos met mijn persoon sijn ten deinste van mijn heer ende de sijne: hijr op VE. commando verwachtende blijve mijn Heer</p>
+<div type="closer">
+<p>V wel Ed. deinstwilligen deinaer <persName key="wyck005">Johan de Wijck</persName>.</p>
+<p><placeName key="delft001">Delfft</placeName>, <date>27 octob. 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Huijgens</persName> sohne van den Ed. Heere <persName key="huyg001">van Zulichem</persName>, op het plein an de pooten
+<lb/>in 's Grauenhage.
+<lb/>met een pacgen.</p>
+</div>
+</body>
+</text>
+</TEI>

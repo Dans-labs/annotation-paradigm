@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1072"/>
+<meta type="date" value="1662-11-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="zuili001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1072">
+<div type="opener">
+<p>A Zulichem ce 9 Novembre 1662.</p>
+</div>
+<p>Vostre premier et second pacquet m'ont estè delivrez quoy qu'assez tard. dans le premier il n'y avoit pour tout qu'une lettre<note n="#2"/> du Sieur du Portail, et partant rien a quoy je deusse me haster de faire response.</p>
+<p>J'eusse pourtant escrit plustost pour vous informer de ce qui se passe icy, si je n'eusse creu tous les jours de m'en retourner moy mesme. Mais maintenant a cause de l'Exploit contre Herwyne<note n="#3"/> qui n'a pas encore voulu reussir, comme vous verrez par ce que j'en escris a mon Pere<note n="#4"/> je suis contraint de m'arrester icy plus longtemps que je n'avois creu. Par la mesme lettre vous connoistrez aussi l'estat du
+reste de nos affaires. J'ay estè a Bolduc comme je vous manday<note n="#5"/> que j'en avois le dessein et j'ay passè assez bien 3 ou 4 jours a Hanewyck<note n="#6"/>, ou Monsieur Crommon<note n="#7"/> avec sa femme<note n="#8"/>, mais non pas Mademoiselle de Geer<note n="#9"/> estoient arrivez peu auparavant. Vous scavez comme l'on s'y divertit quand ce cher Cousin y est, c'est pourquoy je ne vous en diray rien. Les fontanes alloient fort bien avec les petis seaux attachez a une chaine et il faut avouer que c'est un grand ornement en une maison de campagne. La Cousine Marie<note n="#10"/> ne se portoit pas trop bien, ainsi qu'elle fait la plus part du temps et avoit beaucoup a souffrir du Cousin Crommon a qui tout est permis.</p>
+<p>Il faut croire que Monsieur van Leeuwen ignore la methode de faire des garcons, et je m'imagine que quand il luy vient une fille il se fasche de mesme que nous faisions quand nous avions fait un mauvais verre.</p>
+</div>
+<div type="para">
+<p>Myn Heer
+<lb/>Myn Heer <persName key="huyg007">van Zeelhem</persName>, ten huyse vande Heer <persName key="huyg001">van Zuylichem</persName>.
+<lb/>In 's gravenhage.</p>
+</div>
+</body>
+</text>
+</TEI>

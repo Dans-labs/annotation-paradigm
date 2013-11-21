@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1332"/>
+<meta type="date" value="1665-02-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="camp091"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1332">
+<div type="opener">
+<p><persName key="camp091">Matteo Campani</persName>.</p>
+<p>24 Febrier 1665.</p>
+</div>
+<p>gratias de observatione, nescio an scripserim me praeterito autumno umbram similiter super annulo ♄ licet aegre conspexisse. quod abdicata priore sententia
+sua nostrae accesserit Pater <persName>Fabri</persName> etiam ex Patre <persName key="vinc027">Gregorio a St. Vincentio</persName><note n="#1"/> intellexeram cui id a Domino Gottignies perscriptum erat. de Torno fratris tui predicare non cesso. in Anglia quidam<note n="#2"/> machinam qua idem praestari posse sperat cogitavit et nondum sumpto experimento vulgare festinavit in libello<note n="#3"/> quem edidit de observationibus microscopicis. fundamentum hoc est. Ego autem plane in plane asseverare audeo sed annuli meliorem quendam usum praevideo et experimento aliquatenus jam comprobavi<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

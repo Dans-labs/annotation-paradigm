@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0165"/>
+<meta type="date" value="1653-10-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0165">
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName> <persName key="scho197">Francisco Schotenio</persName> Viro Clarissimo S.D.</p>
+</div>
+<p>Pro diligentia in comparanda Astronomia Belgica<note n="#1"/> gratiam habeo. Ducquius<note n="#2"/> eam mihi reddidit, simulque binas constructiones ad inveniendam Conchoidis
+<figure><graphic url="huyg003oeuv01ill111.gif"></graphic></figure>
+simplicissimae tangentem exhibuit, quas ingeniose sanè excogitasti, unam ex alia deducendo. Nam diverso quam ego calculo te usum animadvertere non potui. In Conchoide altera, quam primam vocamus, flexus punctum sequenti modo invenitur. Esto Conchoides QCN, descripta polo G et asymptoto AB; quam secet GAQ ad angulos rectos. Sit GR parallela AB, et aequalis duplae GA. Et vertice R axe RG parabola describatur RO cujus latus rectum ipsi GA aequale sit. Porro sumptâ ad duas AG, AQ tertia proportionali AE, positâque GF ipsi GE aequali, centro F, radio FR, circumferentia describatur quae parabolam secet in O. Atque hinc educta OC ipsi AB parallela ostendet in conchoide flexus punctum C. In quo si tangens ducatur LCZ ea ibidem secabit quoque conchoidem<note n="#3"/>.</p>
+<p>Haec universalis est constructio. at quando AQ non major est quam ut duplum possit ipsius AG, per trisectionem anguli expediri potest. Trisectio autem anguli ipsius <seg org="opc" resp="#AD" type="corr">ope</seg> Conchoidis quae proposita est. Adeo ut tunc quodammodo planum fiat Problema. Est autem omnino planum infinitis numero casibus quorum duos notabo. Nimirum cum AQ potentia dupla est ad AG<note n="#4"/>, sumenda tantum est AM ipsi AG aequalis, et ducenda MC parallela AB. Rursus cum AG ipsi AQ aequalis est oportet sumere GM aequalem lateri trianguli aequilateri in circulo cujus radius AG.</p>
+<p>Quali consideratione fuerim usus cum hoc Problema resolverem opinor me tibi subindicasse cum hic adesses. Non repetam itaque, sed alterius Problematis Constructionem tibi exscribam<note n="#5"/>, de linea intra Rhombi angulum accommodanda quam te desiderare dicebas. Novam autem demonstrationem eamque optimam hisce demum diebus adinveni. Vale.</p>
+<p>Domino <persName>Berckelio</persName> salutem dices meo nomine atque haec si visum fuerit imperties.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>. <date>23 Oct. 1653</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer De Heer <persName key="scho197">Fr. van Schooten</persName>, Professor der Mathematijquen inde Universiteijt
+<lb/>Inde Heeresteeg.
+<lb/>Tot Leijden.</p>
+</div>
+</body>
+</text>
+</TEI>

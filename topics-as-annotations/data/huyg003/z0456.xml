@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0456"/>
+<meta type="date" value="1658-02-04"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0456">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.P.</p>
+</div>
+<p>Literas tuas<note n="#1"/> Clarissimo Huddenio destinatas<note n="#2"/> misi nuper Amstelodamum, easque ab ipso rectè fuisse receptas rescivi postmodum. Salutavi etiam hìc plurimum tuo nomine Heuratium nostrum, qui utique et te resalutari voluit. Quod autem alterum tuum inventum concernit, de quo mihi non nisi subobscurè quaedam indicaveras, penitus fermè cum Heuratium adibam jam tunc exciderant mihi, ita ut inde scire non potuerit in quo illud ipsum propriè consisteret, minusque an ejus methodus<note n="#3"/> cum eodem hoc tuo invento responderit. Quocirca petijt ut quale illud tandem sit datâ occasione ei indicare haud gravatè duceres, quo desiderio tuo satisfacere posset. Vale ac me amare perge.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>4 Febr. 1658</date>.</p>
+</div>
+<p>Literas hasce alijs inserui, quas ad Nobilissimum ac Ornatissimum Juvenem Dominum Alexandrum de Villers<note n="#4"/> dedi, qui nuper in Cartesiana Methodo fuit discipulus meus. Est sanè ingenuus ac optimus juvenis, sed pro aetate quodammodo scrupulosus. Hanc ipsi occasionem parui, quò sibi amicitiam tuam<note n="#5"/> conciliandi amplecti teneretur. Iterum Vale.</p>
+</div>
+<div type="para">
+<p>Nobilissimo, Clarissimoque Viro-Juveni ac Domino <persName key="huyg003">Christiano Hugenio</persName>. Hagae-Comitis.
+<lb/>per amicum.</p>
+</div>
+</body>
+</text>
+</TEI>

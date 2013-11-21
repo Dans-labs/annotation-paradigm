@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2583"/>
+<meta type="date" value="1690-04-25"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2583">
+<div type="opener">
+<p><placeName key="white901">Whitehall</placeName> ce 25 d'Avril 1690.</p>
+</div>
+<p>Hier Fatio me vint apporter la lettre<note n="#1"/> qui va cy jointe pour vous, dans laquelle il vous rend compte de la composition et de la nature des liqueurs, qui s'enflament
+estant melées, et qu'a Monsieur <persName key="boyl001">Boyle</persName>. Comme je luy dis, que vous aviez dessein de faire un objectif de Telescope par le moyen duquel vous croyiez qu'il y auroit moyen de mieux decouvrir les petites Planetes et estoiles<note n="#2"/>, il me dit qu'il croyoit de scavoir de quelle maniere vous aviez dessein de vous y prendre, et me dit effectivement la maniere telle que vous me l'avez proposée, estant icy. Il adjousta que Mr. <persName key="hall901">Halley</persName> Secretaire de la Societé Royale icy<note n="#3"/>, lui avoit communiqué il y a desja quelque temps qu'il s'estoit servy d'un objectif de six pieds, ayant une ouverture fort grande, et que regardant le ciel avec ce verre il avoit decouvert partout autant d'estoiles a proportion, que l'on en voit dans l'Estoile qu'on appelle Poussinierè<note n="#4"/>. Si cela est vous en verrez un furieux nombre par celuy que vous avez dessein de faire, et dont il me tarde d'entendre le succes, mais je crains fort, que vous trouvant seul dans le laboratoire, l'ouvrage n'avancera pas bien viste. J'aimerois bien mieux de vous y assister que de traverser le canal de St. George pour aller en [Irlande]<note n="#5"/>. Le temps de nostre depart n'est pas encore fixé, et le manque des choses necessaires, sur tout celuy de l'argent le retarde encore, on espere qu'il y sera mis ordre. Par une lettre de Tien<note n="#6"/> j'apprens aujourdhuy que vous estes tourmenté du mal de dents et le frere de St. Annelandt de la goutte, l'un et l'autre me fache beaucoup.</p>
+</div>
+<div type="para">
+<p>Pour mon frere <persName key="huyg003">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

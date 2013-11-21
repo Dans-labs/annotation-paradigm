@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1938"/>
+<meta type="date" value="1673-05-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1938">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 8. May 1673.</p>
+</div>
+<p>Voicy, Monsieur, les Transactions du mois d'Avril<note n="#1"/> je ne doubte pas, que vous n'ayez receu toutes mes dernieres lettres, particulierement celles du 7 et 14<note n="#2"/> Avril; celle du 7<hi rend="sup">me</hi> contenant la responce<note n="#3"/> de Monsieur Newton à la vostre du 14<hi rend="sup">me</hi> janvier. J'espere, que nous aurons bientost icy vostre Traité des Pendules, qui, à ce qu'on m'a dit, est achevé d'estre imprimé. Je crois, que vous aurez vû les petits traitez de Monsieur Boyle, nouuellement sortis de la presse<note n="#4"/>; dont on a envoyé quelques Exemplaires à Paris. Vous ayant assez importuné cydevant des longes lettres, ie seray court icy, n'y adjoustant rien si non que ie demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName> a la Bibliotheque du roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

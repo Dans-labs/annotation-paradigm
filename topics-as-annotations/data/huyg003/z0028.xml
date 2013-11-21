@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0028"/>
+<meta type="date" value="1647-01-16"/>
+<meta type="sender" value="rene017"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0028">
+<div type="opener">
+<p>Amplissime domine, et cognate</p>
+</div>
+<p>Tardior sum in scribendo, non quia argumentum sed tempus deëst. Pro hac vice dicam quid sentiam, de studiis, moribus et jndole tui filij. Iuvenis ille sponte sua fertur ad omnia praeclarissima, horas suas bene impendit, et fructuosius etiam, si non nimiis audiendis adstringatur lectionibus, nam etsi fateor perpetuum studiosos debere esse mobile, tamen teneriores illae mentes si evagentur aut semper in seriis
+sese fatigant, nusquam se firmiter sistunt et pauca stringunt. Lectionem graecam<note n="#1"/> illi publice audiendam non puto, nec, si velis, cum fructu poterit. Hora decima melius posset collocari. Quod si igitur hac methodo procederet. Hora sexta plerumque surget, ad semi-octavam Iuris pridianas lectiones repetat et relegat: Hora octava Dauberum audiat, quem virum permagni aestimo, quia in illo multa simul conspirant ad promotionem juris et jnter reliquos Professores jnculpatissimâ vitâ studiosis praelucet. Nona destinetur audiendo Bornio qui hactenus tantum semel in philosophicis legit, est enim valetudinarius. Decima privatim exercitiis domesticis jn Ethicâ vel Oratoriá, ad quam videtur cum affectu quodam propendere. Vndecima Dauberus illum privatim cum Berckio<note n="#2"/> domi sua exercet; et quanquam illa historicae lectioni sit destinata, tamen salvo tuo judicio plus a Daubero qùam pro hoc tempore a Philemone discet. Pomeridiana secunda Pellius audiatur, ad 5<hi rend="sup">am</hi> deinde respiret, reliquas det Collegio juris privato vel mathematicis exercitiis: post coenam cum meo Frederico Iurisconsultum agit. Occasio tam prona in jure non est negligenda apud illum Professorem, qui jn antiquitates Romanas suos cum delectatione penitius jntroducit. Indoles eius mihi perplacet, nam supra suam aetatem et reliquos gravis est, nec peccat multiloquio nec jnconditis gestibus aliis malo est exemplo. Aliquoties illum jnvitavit Drossardus,<note n="#3"/> etiam alij, hodie Crockius, et nulli gravis, omnibus gratus a me pro merito suo aestimatur. Communicato cum DD. Curatore Riveto consilio, illi in subsellio professorali cum Baronibus, Stanhopia,<note n="#4"/> Hauwardo<note n="#5"/> tertium assignavi scamnum, ut siquando nostris vult jnteresse concionibus, habeat stabilem et honoratum locum. Vtinam eandem de reliquis spem concepere possem. Duo illi Roterodamenses prorsus moribus <hi rend="i">ἄγροιϰοι</hi> sunt, et vix ac ne vix quidem latine loqui sciunt. Dummodo tamen Pro-Regens aptus sit ad suam spartam cum jncolumitate ornandam, non despero de illorum profectu. Progredior paucis ad communia. D. Professores desiderant, ut vestra prudentia, Celsissimorum Principum favor nobis jmpetret proprium sorum, et tutos jn
+circumvicina loca pro studiosis excursus: Si accedat vectigalium jmmunitas, magnum habituri sumus confluxum. Omnia hactenus hic tranquilla.</p>
+<div type="closer">
+<p>Tuae Amplitudinis addictissimus omni affectu cognatus
+<lb/><persName key="rene017">L.G. van Renesse</persName>.</p>
+<p><date>16 Januarij</date> <placeName key="breda001">Bredae</placeName>.</p>
+</div>
+<p>Sigillum Illustris Scholae desiderat Waesbergius, ut secundum illud sibi typis curet confici, quo opus habet in edendâ Historiâ inaugurationis et alijs libris.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg001">Constantinus Huygens</persName>, Ridder, Heere van Zuylichem, Raet, ende Secretaris, van Sijne Hoogheijdt, Curator van de Illustre school ende Collegie van Orangien te Breda.
+<lb/><placeName key="denha004">s Graven-Hage</placeName>.
+<lb/>Per amys</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1049"/>
+<meta type="date" value="1662-08-18"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1049">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Mirum in modum delectarunt me literae tuae<note n="#1"/>, quibus te incolumem ad lares patrios tandem redijsse intellexi. Quod si mihi prius innotuisset, stimulum profecto non mediocrem admouerj sensissem ad suscipiendum iter illud de quo scribis: licet enim multis dotibus se commendet Hollandia, praecipuam tamen illam habeo quod te alumnum iactet, quem prae reliquis <hi rend="i">ἀξιοϑαυμάστοις</hi> quibus aduenarum
+oculos moratur, videre et complecti optassem; sed dilata tantum profectio est, et erit, vt spero, illa dies, qua hanc quoque alijs non paulo longioribus adijciam. Literas Parisienses<note n="#2"/> in quibus de penduli oscillationibus egisse te scribis, malo meo fato nullas accepi. De Experimentis Illustrissimj Boile ante annum<note n="#3"/> certior redditus eram ex Anglia a Viro Nobili<note n="#4"/> mihique amico, qui nuper me quoque de illis sententiam rogauit, et monuit multos esse qui contradicerent. Sed magnum pro illorum veritate apud me praeiudicium est, quod ea tibi placere intelligam. Liber<note n="#5"/> interim, quae Typographorum nostrorum <hi rend="i">ἀϕιλοϰαλία</hi> est, hic adhuc non prostat. Quapropter patiere te rogavi a Domino <persName>Vanderuekio</persName> nostro<note n="#6"/> vbi venalis sit, ab eo enim petij vt te indicante quamprimum ad me destinaret.</p>
+<p>Languent studia mea, vt solent: praeterquam enim quod nugas illas meas de infinitis solutionibus<note n="#7"/> in chartam conieci, nihil a me praestitum est, saltem quod te dignum existimem. Nuper tamen methodum tangentium<note n="#8"/> ex notâ applicatarum ad partes axis qualicumque ratione, quam ante plures annos inueneram, ad facilitatem maximam deduxj, ita ut inspectâ solum in terminis analyticis aequatione quae curuae proprietatem ostendit, fere absque calculo tangentem ducam. Vnam hic meâ methodo inuentam addo, in curuâ quam olim Clarissimus Gutiscouius mihi proposuit.</p>
+<p><figure><graphic url="huyg003oeuv04ill48.gif"></graphic></figure></p>
+<p>Jnter parallelas AB, DC iunctas normali AD, intelligatur curua DF talis naturae, vt sumpto in illâ quolibet puncto F, et iunctâ DF, si ad illam excitetur in F normalis FC occurrens DC in C, recta FC sit semper aequalis AD. Ex qua descriptione patet AB fore curuae Asymptoton. Tangens vero facile habetur in puncto dato vt F, demissâ enim normali FE, et producta CD in G, ita ut tres CE, CD, CG, sint in continuâ proportione, iuncta GF curuam continget. Nec multo operosior erit constructio in alia curua huic simili, in qua scilicet angulus DFC, rectus non supponeretur sed quilibet alius datur. Sed haec leuia sunt et
+tibi serio rerum istarum aestimatori non proponenda. Nihil igitur addam amplius, nisi esse me ex animo</p>
+<div type="closer">
+<p>Tui obseruantissimum</p>
+<p><persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>XVIII Augusti MDCLXII</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino
+<lb/>Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>
+<lb/>Hagam.</p>
+</div>
+</body>
+</text>
+</TEI>

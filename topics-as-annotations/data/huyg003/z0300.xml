@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0300"/>
+<meta type="date" value="1656-06-22"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0300">
+<div type="opener">
+<p>De <placeName key="parij001">paris</placeName> ce <date>22 Juing 1656</date>.</p>
+<p>Monsieur.</p>
+</div>
+<p>J'ay receu la lettre que uous m'auez fait l'honneur de m'escrire à la quelle Je n'ay pu respondre si tost que J'eusse desirè tant a cause d'un petit uoyage que J'ay
+fait dans l'une des terres de Monsieur <persName>le Duc de Liencourt</persName>, que pour la perte et l'affliction qui nous est suruenue par la mort de Monsieur le Mareschal <persName>de Schonberg</persName><note n="#1"/>, Je crois Monsieur que vous agreerez ces raisons de mon silence et que ie ne seray pas si malheureux que uous m'accusiez de negligence et d'auoir manqué a l'honneur et à la bienueillance que vous aues la bonté de me temoigner dans vostre lettre. Monsieur <persName key="ferm011">de fermat</persName> m'a enuoyé il y a desia quelques jours la solution de ce que uous auiez proposé touchant le parti des Jeux, et vous verrez par l'extrait que ie vous faits de sa lettre qu'il a la demonstration generalle de ces sorte de question, et conclurez certainement auec nous non seulement pour la resolution de ce probleme mais aussy pour quantité de plusieurs autres tres belles speculations que nous auons ueu de luy tant en ce qui concerne les nombres que pour la geometrie que c'est un des plus grands genies de nostre siecle, Je tasche il y a desia longtems d'en tirer ce que ie puis pour le donner au public, et J'en auois fait la proposition à Monsieur <persName key="scho197">de Schooten</persName> pour y employer les Elzeuirs mais les choses ne se trouuerent pas disposees pour nous procurer cette satisfaction.</p>
+<p>En ce qui concerne Messieurs Pascal et Desargues ce sont aussy deux personnages merueilleux, Il est uray que le dernier a un style un peu differend de celuy des autres geometres, mais comm' il ne les a pas beaucoup leu, que ses pensees sont à luy seul, et qu'il conçoit les choses plus uniuersellement qu'eux il faut l'excuser et profiter de ce peu<note n="#2"/> qu'il nous a donné, dont on tireroit beaucoup plus d'aduantage s'il estoit rengè dans un' autre ordre. le Premier auoit desia trouué la solution de uostre proposition et me doit donner au premier iour celle de toutes les autres qui sont dans l'extrait de cette lettre de Monsieur <persName key="ferm011">de fermat</persName>, c'est aussy luy qui a remarqué les deux lignes qui ont les mesmes proprietes dans le cercle et dans l'Ellipse que les asymptotes dans l'hyberbole, dont la construction est toute semblable.</p>
+<p>Car soit l'Ellipse <formula>AEB</formula>, dont le diametre soit <formula>ACB</formula>, et soit menee la touchante
+<figure><graphic url="huyg003oeuv01ill149.gif"></graphic></figure>
+<formula>DBE</formula>, couppee en <formula>D</formula> et en <formula>E</formula>, en sorte que le rectangle <formula>DBE</formula><note n="#3"/>, soit esgal au quart de la figure, ayant mené les lignes <formula>CD</formula>, <formula>CE</formula>, du centre <formula>C</formula>. elles auront les mesmes proprietes dans ces deux sections que les asymptotes dans l'hyperbole,</p>
+<p>Mais c'est trop uous inportuner, agreez s'il vous plaist que Je vous supplie treshumblement en finissant cette lettre de me faire la Grace de faire tenir la lettre que J'escris à Monsieur <persName key="scho197">de Schooten</persName> sur le suiet d'un escrit de Monsieur <persName>de Baulne</persName> qu'il a temoigné a Monsieur <persName key="mylo002">Mylon</persName> de souhester pour le ioindre a ce qu'il fait reinprimer de Monsieur <persName key="desc004">des Cartes</persName>. c'est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et obeissant seruiteur <persName key="carc010">De Carcauy</persName>.</p>
+</div>
+<p>Je n'ay point receu uos liures.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">de Zulichen</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

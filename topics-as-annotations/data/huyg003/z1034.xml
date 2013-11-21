@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1034"/>
+<meta type="date" value="1662-07-17"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1034">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 7. Juillet 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Ces trois semaines passees, J'ay esté si reglement empesché de Vous escrire, tous les Vendredis, comme Je me le suis proposé, que J'ay creu qu'il y a eu du sortilege. Et maintenant ce mot que Je vous fais ne seruira pas de responce a Vostre dernier<note n="#1"/>, puisque Je n'ay pas encore eu de Monsieur <persName key="brou051">Brouncker</persName> l'esclaircissement de sa demonstration<note n="#2"/> que vous m'auez demandé. il est a present tant occupé à voir bastir un Batteau pour le Roy d'une nouuelle methode qu'il n'a pas le loisir d'y penser. C'est Monsieur Kilpatrick<note n="#3"/> qui m'a fait la faueur d'entreprendre de vous rendre cellecy en main propre auec deux liures<note n="#4"/> dont vous ne serez pas mal satisfait. l'un vous fera voir que son autheur est assez curieux, l'autre si Je ne me trompe, vous fera rire plus d'une fois, deuant que vous l'ayiez tout parcouru ce que Je vous prie de faire; et de donner le contentement à Monsieur <persName key="hobb001">Hobbes</persName> d'escrire vostre sentiment au libraire, de ses deux propositions, comme il vous en coniure. mais escriuez moy en aussi une copie, de peur que Monsieur <persName key="hobb001">Hobbes</persName> ne nous cele ce que vous en direz. Je vous eusse enuoyé aussi une copie du dernier liure<note n="#5"/> de Monsieur <persName key="boyl001">Boile</persName>, n'estoit qu'il m'a dit vous en auoir luy mesme desia adressé une par un amy. Et pour vous faire voir que Je n'oublie pas
+ce que vous recommandez, Je vous enuoye icy la Table<note n="#6"/> de la compression de l'air dont Je vous auois parlé dans mes precedentes<note n="#7"/>, quoy qu'elle soit imprimee dans ce liure comme aussi l'autre de sa dilatation. Vous m'en direz Vostre opinion a Vostre commodité. Je medite un voyage pour 8. ou 10. Jours en Hollande ou Je me propose le contentement de vous voir comme un des plus grands. Mais que cela ne vous empesche pas de m'escrire si vous en auez le loisir, parce que ce ne sera pas encore d'un mois au plustost. Et Je fais estat aussi de faire une responce exacte comme a l'autre a Vostre derniere. Cependant vous sauez que Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.
+<lb/>auec deux liures par amy.</p>
+</div>
+</body>
+</text>
+</TEI>

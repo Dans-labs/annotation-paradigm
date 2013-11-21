@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0567"/>
+<meta type="date" value="1659-01-16"/>
+<meta type="sender" value="gast014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0567">
+<div type="opener">
+<p><placeName key="parij001">Paris</placeName> <date>16. Januier 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>C'est pour vous rendre compte des deux liures touchant les Horologes que vous me fistes l'honneur de me donner à la Haye il y a plus de deux mois. A mon arriuée j'en ay fait present aux deux personnes intelligentes dont je me souuiens que je vous parlay, et auxquels vous les auiez destinez. L'un, qui est Monsieur Pascal, que vous connoissez par reputation, vous en veut tesmoigner luy mesme sa reconnoissance, et vous dire l'estime qu'il fait de vostre ouurage. L'autre, qui est à Monsieur le Duc de Luynes<note n="#1"/>, n'ayant point l'honneur d'estre connu de vous, m'a chargé de vous en rendre pour luy de tres humbles actions de graces. Cependant Monsieur le Duc de Luynes, qui est aussi fort intelligent en tout ce qui regarde les Mathematiques, et est en particulier grand amateur d'horologes, aprés auoir leu auec estime et eloges vostre liure, et auoir éprouué depuis 4. mois l'utilité et commodité de vostre nouuelle inuention, parce qu'il a le premier horologe qui soit venu à Paris de cette sorte, il m'a ordonné de vous supplier tres humblement, Monsieur, d'auoir la bonté d'aider à Monsieur Elseuire<note n="#2"/> à choisir quattre de ces horologes de la maniere qu'il a marquée luy mesme dans un billet. Il croit auec raison qu'ils seront beaucoup meilleurs estant choisis de vostre main; et si le maistre<note n="#3"/> n'en auoit pas ce nombre de touts prests, il se promet de vostre courtoisie que vous luy parlerez comme il faut, afin qu'il y trauaille fidelement, et le plus proprement et promptement qui se pourra. Il y en doit auoir un pour Madame la Duchesse de
+Cheureuse<note n="#4"/> sa Mere, et les autres pour d'autres personnes de condition. Je puis vous dire, Monsieur, qu'il va un peu de vostre interest en cecy; puisque comme vous estes le seul à qui tout le public est obligé d'une si rare et si commode inuention, aussi toutes ces personnes scauront elles bien vous rendre la gloire qui vous en est si legitimement deüe. Elles vous auront en cecy une double obligation, et moy celle de me dire toute ma vie</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="gast014">Du Gast</persName>.</p>
+</div>
+<p>Monsieur Elseuire a tout ordre pour le payement.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

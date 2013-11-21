@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2097"/>
+<meta type="date" value="1676-09-15"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2097">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 15<hi rend="sup">e</hi> Sept. 1676.</p>
+<p>Monsieur</p>
+</div>
+<p>Je regrette exstremement que vous soyez demeuré si longtemps privé du contentement de voir ce Livre, qu'il y a tant de moiz, comme vous scavez, que ie vous garde. Presentement le secret. de M. L'Ambr. d'Angleterre qui est resté icij
+s'est chargé de le recommander à une personne de qualité, qui doibt passer la mer en peu de jours comme il me faict dire. Je ne scay pas encor qui c'est; mais ie m'en informeray pour luy donner moy mesme tant plus d'impression du soin que je souhaitte qu'il en veuille avoir.</p>
+<p>Je vous prie en suitte, de vouloir faire seurement porter la joincte entre les propres mains de vostre voysine, qui vous en aura obligation avec moy.</p>
+<p>Ma dernr. fut du 25<hi rend="sup">e</hi> Aoust j'espère que vous l'aurez recue et voudrez vous souvenir des Transactions qui me manquent. et puis de ce que produit de nouveau Mr. <persName key="boyl001">Boyle</persName>.</p>
+<p>Après tres humbles baisemains à ce grand personnage, je vous prie de luy dire que mon Archimede<note n="#2"/> nous a apporté une grosse pièce de Talcq<note n="#3"/>, ou, comme nous l'appellons, Moscovisch Thar, blanche et transparente comme de l'eau, en figure de lozange ◇ mais un peu brisée comme elles vienent toutes du pais d'IJslande, d'où elle est originaire. Ce qu'il y a de remarquable outre sa grande pellucidité au travers de trois poulces d'espaisseur, c'est que sa refraction est toujours double et, ce qui est plus estonnant, qu'elle se laisse fendre à tout sens, en long et de travers, qui vault bien la considération d'un esprit comme celuy de Mr. <persName key="boyl001">Boyle</persName>. Je ne scay si, peut-estre il en aura veu de mesme mais on vient d'envoyer une petite lamelle fendue d'une semblable petite pierre, trouvée en Champaigne, où elles ne sont pas rares.</p>
+<p>La refraction de cette lamelle est pareille à l'autre, et apparemment illud fissile de mesme. Je vous souhaitte toute prosperité et suis</p>
+<div type="closer">
+<p>Vostre tres humble et tres affectioné serviteur <persName key="huyg003">C. Huygens de Zuylichem</persName>.</p>
+</div>
+<p>Madame Temple<note n="#4"/> qui se prepare á revenir icy, aura bien la bonté de charger quelcun de ses gens, de ce que vous pourrez luy recommander pour moy.</p>
+<p>&nbsp;</p>
+<p>Resp. le 9 oct. 1676 et envoyé No. 128 de Transac. et le liv. de quatre To. Mr. <persName key="boyl001">Boyle</persName><note n="#5"/> et un pacquet de Mad. Braun<note n="#6"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

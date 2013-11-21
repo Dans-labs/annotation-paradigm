@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2862"/>
+<meta type="date" value="1694"/>
+<meta type="sender" value="vold004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2859"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2862">
+<p><figure><graphic url="huyg003oeuv10ill208.gif"></graphic></figure></p>
+<p>Sit AD ∞ <hi rend="i">x</hi> DB ∞ <hi rend="i">y</hi> AG ∞ <hi rend="i">z</hi> GB ∞ <hi rend="i">t</hi> et <hi rend="i">x</hi><hi rend="sup">3</hi>+<hi rend="i">y</hi><hi rend="sup">3</hi> ∞ <hi rend="i">nxy</hi></p>
+<p>erit <hi rend="i">z</hi>√2 ∞ <hi rend="i">x</hi>+<hi rend="i">y t</hi>√2 ∞ <hi rend="i">x</hi>-<hi rend="i">y t</hi> ∞ <hi rend="i">z</hi><figure rend="inline"><graphic url="huyg003oeuv10fi93.gif"></graphic></figure>.</p>
+<p>Sit curva COF, talis, ut ducta ex M recta ad punctum O, in quo GB secat curvam COF, sit in curvam normalis, posita GO=<hi rend="i">v</hi>, ponatur pro illa curva <hi rend="i">azz</hi>+<hi rend="i">bz</hi>+<hi rend="i">c</hi><figure rend="inline"><graphic url="huyg003oeuv10fi93.gif"></graphic></figure> ∞<hi rend="i">vv</hi><note n="#2"/></p>
+<p>Ex qua aequatione ut inveniatur GM, secundum methodum Leibn.<note n="#3"/> fiat <hi rend="i">azz</hi>+<hi rend="i">bz</hi>+<hi rend="i">c</hi> ∞ <hi rend="i">p</hi> et <figure rend="inline"><graphic url="huyg003oeuv10fi93.gif"></graphic></figure> ∞ <hi rend="i">q</hi>, erit<note n="#4"/> <figure rend="inline"><graphic url="huyg003oeuv10fi94.gif"></graphic></figure>, <hi rend="i">dz</hi><note n="#5"/> ∞ ∞ <hi rend="i">dp</hi> et <figure rend="inline"><graphic url="huyg003oeuv10fi95.gif"></graphic></figure> ∞ <hi rend="i">dq</hi><note n="#6"/> et <hi rend="i">pdq</hi>+<hi rend="i">qdp</hi> ∞ 2<hi rend="i">vdv</hi>, sive
+<figure><graphic url="huyg003oeuv10fi99.gif"></graphic></figure> adeoque <hi rend="i">dz</hi> ad <hi rend="i">dv</hi> ut 2<hi rend="i">v</hi> ad -2<hi rend="i">an</hi>√2, <hi rend="i">zz</hi> etc., sive OG ad GM.</p>
+<list>
+<item>Erit itaque GM=<figure rend="inline"><graphic url="huyg003oeuv10fi100.gif"></graphic></figure> ∞ <hi rend="i">z</hi> <figure rend="inline"><graphic url="huyg003oeuv10fi93.gif"></graphic></figure></item>
+</list>
+<p>adeoque -6<hi rend="i">az</hi><hi rend="sup">3</hi>-3<hi rend="i">bzz</hi>+<hi rend="i">annz</hi>+½<hi rend="i">bnn</hi> ∞-6<hi rend="i">z</hi><hi rend="sup">3</hi>+2<hi rend="i">nzz</hi>√2+<hi rend="i">nnz</hi>+<hi rend="i">na</hi>√2,-<hi rend="i">cn</hi>√2</p>
+<p>Unde <hi rend="i">a</hi> ∞ 1 <hi rend="i">b</hi> ∞-⅓<hi rend="i">n</hi>√2 <hi rend="i">c</hi> ∞-⅙<hi rend="i">nn</hi>. adeoque cum <hi rend="i">z</hi>√2 nequeat esse major, quam <hi rend="i">n</hi><note n="#7"/>, erit mutatis signis<note n="#8"/> -<hi rend="i">zz</hi>+⅓<hi rend="i">n</hi>√2,<hi rend="i">z</hi>,+⅙<hi rend="i">nn</hi><figure rend="inline"><graphic url="huyg003oeuv10fi101.gif"></graphic></figure> ∞ <hi rend="i">vv</hi> sive+<figure rend="inline"><graphic url="huyg003oeuv10fi102.gif"></graphic></figure>, in <figure rend="inline"><graphic url="huyg003oeuv10fi103.gif"></graphic></figure> ∞ <hi rend="i">vv</hi>. Hinc si <hi rend="i">v</hi> ∞ 0, ponatur, erit <hi rend="i">z</hi> ∞ <hi rend="i">n</hi>√½, aut <hi rend="i">z</hi> ∞-⅓<hi rend="i">n</hi>√2. Ex quo patet curvam COF rectam CF secturam in punctis C et F. Hinc erit spatium GCB ∞-½<hi rend="i">zz</hi>+⅙<hi rend="i">n</hi>√2, <hi rend="i">z</hi>+
++1/12<hi rend="i">nn</hi><figure rend="inline"><graphic url="huyg003oeuv10fi101.gif"></graphic></figure><note n="#9"/> et posito <hi rend="i">z</hi> ∞ o, erit spatium ABC, ut et AFE ∞ ∞ 1/12 <hi rend="i">nn</hi>, et ABG ∞ 1/12 <hi rend="i">nn</hi>+<figure rend="inline"><graphic url="huyg003oeuv10fi104.gif"></graphic></figure>, demtoque triangulo ABG ∞ ½ <hi rend="i">tz</hi>, ∞ ½ <hi rend="i">zz</hi> <figure rend="inline"><graphic url="huyg003oeuv10fi93.gif"></graphic></figure> erit spatium ABP ∞ ∞ 1/12<hi rend="i">nn</hi><figure rend="inline"><graphic url="huyg003oeuv10fi105.gif"></graphic></figure> Est autem <figure rend="inline"><graphic url="huyg003oeuv10fi93.gif"></graphic></figure> ∞ ∞ <hi rend="i">t</hi>/<hi rend="i">z</hi> ∞ <hi rend="i">x</hi>-<hi rend="i">y</hi>/<hi rend="i">x</hi>+<hi rend="i">y</hi> Hinc ABP ∞ 1/12<hi rend="i">nn</hi>, <figure rend="inline"><graphic url="huyg003oeuv10fi106.gif"></graphic></figure>, <hi rend="i">x</hi>-<hi rend="i">y</hi>/<hi rend="i">x</hi>+<hi rend="i">y</hi></p>
+<list>
+<item>ABP ∞ ⅙<hi rend="i">nny</hi>-⅙<hi rend="i">nxx</hi>+⅙<hi rend="i">nyy</hi>/<hi rend="i">x</hi>+<hi rend="i">y</hi> ∞ <hi rend="i">nnyx</hi>-<hi rend="i">nx</hi><hi rend="sup">3</hi>+<hi rend="i">ny</hi><hi rend="sup">2</hi><hi rend="i">x</hi>/6<hi rend="i">x</hi>, <hi rend="i">x</hi>+<hi rend="i">y</hi>.</item>
+<item>Est autem <hi rend="i">nyx</hi> ∞ <hi rend="i">x</hi><hi rend="sup">3</hi>+<hi rend="i">y</hi><hi rend="sup">3</hi> Hinc ABP ∞ <hi rend="i">ny</hi><hi rend="sup">3</hi>+<hi rend="i">nyyx</hi>/6<hi rend="i">x</hi>, <hi rend="i">x</hi>+<hi rend="i">y</hi> ∞ <hi rend="i">nyy</hi>/6<hi rend="i">x</hi><note n="#10"/>.</item>
+</list>
+<p>Nec dissimili ritu res se habet in caeteris casibus.</p>
+</div>
+</body>
+</text>
+</TEI>

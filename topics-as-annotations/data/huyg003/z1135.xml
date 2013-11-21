@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1135"/>
+<meta type="date" value="1663-07-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1135">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce 20 Juillet 1663.</p>
+</div>
+<p>Je vous envoyay par l'ordinaire passè<note n="#1"/> la recepte pour le pastel. Par celuy d'Hollande je n'ay rien receu, et par consequent point obligè a faire response. Il
+n'y a rien de nouveau icy que l'affaire de Monsieur le Chancelier<note n="#2"/> et Milord Bristol<note n="#3"/>, desquels ce dernier à accusè l'autre ce matin, dans la chambre haute, de high treason, mais a sa propre confusion, et peut estre sa ruine<note n="#4"/>. car desia auparavant il estoit disgraciè du Roy, et maintenant apres cette belle action selon toute apparence il va estre confinè dans la Tour.</p>
+<p>Milord Hollis<note n="#5"/> estant party il y a 3 jours, mon pere fera son possible pour le suivre au plustost, de sorte que dans peu nous pourrions plier bagage, ainsi soit il.</p>
+<p>N'oubliez pas je vous prie d'adresser cette response<note n="#6"/> a Monsieur van Leeuwen.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2053"/>
+<meta type="date" value="1675-09-02"/>
+<meta type="sender" value="gall047"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="fonta901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2053">
+<div type="opener">
+<p>A fontainebleau le 2 septembre 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay rendu compte à Madame<note n="#1"/> de l'entretien que j'eus dernierement auec vous touchant le sieur Thuret<note n="#2"/>. Elle m'a tesmoigné qu'elle vous estoit obligee de ce qu'en sa consideration vous voulez traitter fauorablement le dit sieur Thuret, et elle m'a chargé de terminer entierement auec vous cette affaire aussi tost que je seray à Paris, où j'auray l'honneur de vous voir la semaine prochaine.</p>
+<p>Cependant comme elle a appris que l'on auoit signifié depuis peu des deffenses au dit sieur Thuret de faire des montres de vostre nouuelle inuention, elle ma ordonné monsieur, de vous escrire de sa part, qu'attendu quil en acheue presentement quelques vnes qu'elle luy a commandée, elle vous prie de le laisser trauailler en liberté. Je vous puis assurer, monsieur, qu'elle a pour vous vne tres grande estime, et que son dessein n'est pas de rien faire pour le dit sieur Thuret à vostre prejudice: mais elle est persuadée que vous pouuez sans vous faire tort, accorder à sa recommandation quelque grace pour cet homme qui offre d'ailleurs de vous donner toute sorte de satisfaction. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="gall047">Galloys</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1905"/>
+<meta type="date" value="1672-08-08"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1905">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 29 juillet 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>Vous ayant escrit assez amplement le 8 et 18 de cemois<note n="#1"/>, et envoyé par la 1<hi rend="sup">re</hi> de ces deux lettres la copie de celle de Monsieur Sluse du 22 juin<note n="#2"/> et par l'autre, la copie de celle de Monsieur Newton<note n="#3"/> du 8 courant; ie ne vous importuneray de rien à present, si non que ie voudrais bien vous prier de vouloir bien examiner ce que Monsieur Newton a proposé et recommendé<note n="#4"/> dans ce journal 85<hi rend="sup">me</hi>, touchant sa doctrine de la lumiere, et d'en communiquer vos pensecs a</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Vous verrez par les lettres passées entre Monsieur Newton et le P. Pardies<note n="#5"/> que ladite theorie de la lumiere commence à gagner pied.</p>
+<p>On nous dit, que vous faites imprimer quelque Traité; vous m'obligerez de m'en dire le sujet.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName> dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

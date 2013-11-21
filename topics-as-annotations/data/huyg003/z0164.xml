@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0164"/>
+<meta type="date" value="1653-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0164">
+<p><figure><graphic url="huyg003oeuv01ill106.gif"></graphic></figure></p>
+<p>Haec universalis est Problematis Constructio. Verùm si fuerit AQ minor quam AG. centro A radio AG circulus describatur inque eo ponatur GK aequalis duplae EG inventae ut prius. et diviso arcu reliquo GHK in tria aequalia ponatur subtensae partis unius GH aequalis GM et ducatur MC parallela AB.</p>
+<p>Praeterea si AQ major quoque fuerit quam AG, ita tamen ut quadratum AQ non majus sit duplo quadrato ex AG. Caeteris ad <seg org="cundem" resp="#AD" type="corr">eundem</seg> modum compositis haec tantum erit differentia quod arcum KP qui ex semicircumferentia reliquus est tripartito secare oportet quarum una sit PH, et subtensae GH aequalem ponere GM. Manifestum est autem, quod si AQ ipsi AG aequalis
+<figure><graphic url="huyg003oeuv01ill107.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv01ill108.gif"></graphic></figure>
+fuerit, incidet E in G. Eritque tantummodo GM aequalis sumenda lateri trianguli aequilateri in circulo GHP descripti.</p>
+<p>Item si AQ duplum potest ipsius AG<note n="#2"/>, quod tum GM duplae tantum GA aequalis sumenda est. Denique ijs casibus omnibus planum fore problema quibus arcus KP vel KPG, erit ejusmodi, ut Plana Constructione trifariam secari possit. Qui sunt numero infiniti.</p>
+<p>Qua consideratione usus fuerim ad Resolutionem opinor me tibi subindicasse, cum hic adesses. Non repetam itaque. sed alterius Problematis Constructionem tibi exscribam, de linea magnitudine data intra rhombi angulum accommodanda, quam te desiderare dicebas. Novam autem demonstrationem eamque optimam hisce demum diebus adinveni.</p>
+<p>Si pro Rhombo quadratum fuerit datum, ad angulum exteriorem Constructio
+<figure><graphic url="huyg003oeuv01ill109.gif"></graphic></figure>
+Pappi nota est. Sed ad interiorem erit haec commodissima. Quadratis ex O et CG<note n="#3"/> ponatur aequale quadratum CD et super AD semicirculus describatur et ducantur FK, fk, ut in Rhombo factum fuit. Erit autem hujus brevior demonstratio, nam junctis KD, FD, ductaque FL perpendicularis in AD quoniam similia sunt triangula ACK, FLD, et FL ∞ AC, erit et FD aequalis KA. Est autem ex constructione quadratum CD aequale quadratis O et CA. Ergo addito utrimque quadrato CK erunt quadrata KC, CD hoc est quadratum KD hoc est quadrata KF, FD simul aequalia quadratis O et KA. Demptisque aequalibus
+<figure><graphic url="huyg003oeuv01ill110.gif"></graphic></figure>
+utrimque hinc quadrato KA inde quadrato FD, erit quadratum KF ∞ quadrato O. ideoque linea KF lineae O datae.</p>
+<p>Nam primum quod semicirculus super AD rectam GF secabit sic ostenditur. Etenim quia O major ponitur duplâ diametro quadrati AG, erit quadratum O majus octo quadratis ex AC, igitur quadratum CD majus novem quadratis ex AC. ac proinde CD major tripla CA. dimidia igitur AD hoc est radius semicirculi AfFD major quam AC hoc est AH, quare necessario secat lineam GF.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1459"/>
+<meta type="date" value="1665-09-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1458"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1459">
+<list>
+<label>1</label><item>Cometam, qui conspici caepit mense decembri A<hi rend="sup">o</hi>. 1664, motu suo proprio ac vero (nam alius est in caelo apparens) incessisse per lineam rectam, cujus inclinatio ad planum eclipticae fuerit circiter gradus 11<note n="#3"/>, quaeque illud planum secuerit in puncto paulo plus a sole distante quam tribus Orbis magni semidiametris.</item>
+<label>2</label><item>Ducto plano per lineam dictam itineris Cometae quod sit plano Eclipticae ad rectos angulos, communem utrique plano sectionis lineam inter Martis ac Telluris orbitas transire, paulo tamen illi propiorem; ac respicere gradus 21 Arietis ac Librae.</item>
+<label>3</label><item>Cometam aequabili motu incessisse in illa linea itineris sui, quam Keplerus Trajectoriam vocabat.</item>
+<label>4</label><item>Motumque eum paulo amplius quam sexcuplo celeriorem fuisse motu Telluris in Orbe magno sive annuo.</item>
+<label>5</label><item>Minimam cometae a Tellure distantiam fuisse majorem aliquanto quam dimidiam ejus quae inter Tellurem ac Solem, eamque minimam distantiam contigisse 28 Decembris<note n="#4"/>.</item>
+<label>6</label><item>Caudae longitudinem fuisse fere duplam intervalli inter Solem ac Tellurem, quod intervallum mihi est circiter terrae diametrorum 12000.</item>
+<label>7</label><item>Cum Cometae distantia a terris fuerit proxime eadem 10 Januarii quae 15 Decembris tamen posteriori harum observationum multo minus lucidum apparuisse ideoque videri revera lumine diminutum fuisse.</item>
+<label>8</label><item>Ac proinde suspicandum an non materia ejus igne suo arserit paulatimque consumta sit.</item>
+<label>9</label><item>Cum caput cometae magnis optimisque telescopijs spectatum instar exigui puncti semper apparuerit, non majori saltem quam 8 vel 10 secundorum scrupulorum latitudine; hinc minus illud fuisse colligo ad caudae amplitudinem comparatum quam sit arenae granulum ad sphaeram cujus diameter pedum 40.</item>
+<label>10</label><item>Fieri posse ut Cometa aliquis in terram impingat, sed facilius multo ut Terra per caudam cometae transeat.</item>
+</list>
+<p>Satis autem apparet in his omnibus <persName>Copernici</persName> systema me secutum etiamsi non moneam.</p>
+</div>
+</body>
+</text>
+</TEI>

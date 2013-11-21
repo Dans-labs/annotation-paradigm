@@ -1,0 +1,112 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1697"/>
+<meta type="date" value="1669-01-18"/>
+<meta type="sender" value="nula011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1697">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 18 de Janvier 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Depuis que ie me suis donne l'honneur de vous communiquer<note n="#3"/> ma pensee touchant l'ouuerture qu'on pourroit donner beaucoup plus grande aux lunettes,
+joignant ensemble plusieurs verres, aijant eu le loisir ie l'aij examiné selon la rigueur de la Theorie ou i'aij troue, que par le moijen du lautre verre mis au costè on pourroit bien concentrer quelques vns des raijons qui viennent d'un mesme point dans le mesme foijer, &amp; par consequent, gagner vn peu de lumiere, mais qu'en reuange la plus part des raijons s'esgarant de la &amp; paruenant neantmoins dans la pupille fairoient vn meschant effet rendant la vision fort confuse, &amp; aij recognu qu'il n'ij a rien a faire de ce coste la, tout de mesme comme vous m'auez fait l'honneur de m'escrire par la vostre du 11 de ce mois, la quelle i'aij eu le bonheur de recevoir a hier; Et aijant pour cela resolu de trauailler aux grandes, i'aij cru estre a propos auparauant de balancer les auantages qu'un verre pourroit auoir sur l'autre, de sorte puisque il ij a trois sortes de combinations seulement, lesquelles peuuent seruir pour des Objectifs, c'est a dire, conuexo conuexes, plano conuexes, &amp; concauo conuexes; i'aij cru que ie les deuois considerer tous trois. Et quoij que dans la premiere &amp; la derniere sorte on puisse infiniment changer les proportion des sphaeres, neantmoins aijant reconnu d'abord que <hi rend="i">les conuexo conuexes de quelle proportion qu'ils puissent estre sont plus imparfaits que les autres</hi><note n="#4"/> ie les aij roije de la liste de ceux lesquels i'auois propose d'examiner; J'aij donc commencè par les plano conuexes prenant la peine de calculer par chaque minute la longueur de leur foijer; &amp; posant pour des certaines raisons le radius de la Sphaere estre des 1 4974 parties &amp; la refraction du verre a l'air estre comme 10000 a 6676 i'aij troue la longueur des foijers estre comme s'en suit</p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell role="header">Arcus</cell>
+<cell role="header">longitudo foci</cell></row>
+<row>
+<cell></cell>
+<cell>1′</cell>
+<cell>30083</cell></row>
+<row>
+<cell></cell>
+<cell>5′</cell>
+<cell>30075</cell></row>
+<row>
+<cell></cell>
+<cell>10′</cell>
+<cell>30072</cell></row>
+<row>
+<cell></cell>
+<cell>40′</cell>
+<cell>30068</cell></row>
+<row>
+<cell>1<hi rend="sup">o</hi></cell>
+<cell>0′</cell>
+<cell>30063</cell></row>
+<row>
+<cell>1<hi rend="sup">o</hi></cell>
+<cell>30′</cell>
+<cell>30050</cell></row>
+</table></p>
+<p>Mais examinant les concauo connexes i'aij troue vne certaine proportion la quelle fait les distances des foijers estre de la sorte</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>1′</cell>
+<cell>30083</cell></row>
+<row>
+<cell></cell>
+<cell>5′</cell>
+<cell>30083</cell></row>
+<row>
+<cell></cell>
+<cell>10′</cell>
+<cell>30083</cell></row>
+<row>
+<cell></cell>
+<cell>40′</cell>
+<cell>30083</cell></row>
+<row>
+<cell>1<hi rend="sup">o</hi></cell>
+<cell>0′</cell>
+<cell>30082</cell></row>
+<row>
+<cell></cell>
+<cell>30′</cell>
+<cell>30079</cell></row>
+<row>
+<cell>2<hi rend="sup">o</hi></cell>
+<cell>0′</cell>
+<cell>30075</cell></row>
+<row>
+<cell></cell>
+<cell>30′</cell>
+<cell>30071</cell></row>
+<row>
+<cell>3<hi rend="sup">o</hi></cell>
+<cell>0′</cell>
+<cell>30065</cell></row>
+<row>
+<cell>4<hi rend="sup">o</hi></cell>
+<cell>0′</cell>
+<cell>30051</cell></row>
+</table></p>
+<p>D'ou i'aij conclu que ces sortes de verres seroient meillieures que les autres, puisque ils souffrent beaucoup plus grande ouuerture qu'un plano conuexe de mesme longueur. Et ie croij que la bonte des lunettes de Monsieur Campani par dessus les autres consiste plus tost, dans vne semblable proportion, que dans vne differente maniere de polir les verres, puis que il est fort indifferent, de quelle maniere on leur donne la figure pourueu qu'elle soit juste; Et pour des verres sphaeriques on peut esperer auec raison d'ij pouuoir reussir.</p>
+<p>Je vous enuoijeraij<note n="#5"/> la dite proportion auec sa demonstration quand ie sçauraij qu'ils vous plaira d'auoir la bonte de la vouloir examiner; Mais puisque par la dite recherche i'aij reconnu que l'imperfection des objectifs consiste en ce que leurs foijers tant plus qu'on les oure, deuiennent tant plus courts, il m'est venu dans la pensee, si coupant vn grand Obiectif en plusieurs anneaux de sorte que la difference de leur foijers ne soit sensible &amp; auancant ceux du milieu d'autant, que leurs foijers sont plus longs on pourroit gagner quelque auantage considerable; sur quoij ie vous prie tres humblement de m'escrire vostre auis, pourueu que vos occupations le permettent.</p>
+<p>Pour l'inuention que vous dites auoir troue de descouurir l'objectif beaucoup plus qu'a l'ordinaire i'en doute nullement, puisque i'aij trouue le mesme, car aijant examine les oculaires conuexes i'aij trouuè qu'au lieu de corriger le defaut des objectifs ils les redoublent par la mesme raison, mais les concaues peuuent courber les lignes tendans a des differens points dont les plus proches du l'axe sont les plus longs en maniere comme s'ils venaient d'un mesme point precisement; de sorte qu'il ij a vne certaine proportion la quelle fait que les raijons renuoijez par vn Objectif sphaerique soient courbes en sorte comme s'ils venoient d'un point mathematique. mais ie trouue qu'il faut que leur figure soit concauo conuexe, si ce n'est que l'Objectif estant plano conuexe, on ait tournè la surface platte en dedans, au quel cas ie croij que l'oculaire pourroit estre aussi plano concaue, mais ie n'aij pas pris la peine de l'examiner ne le croijant pas estre plus commode que les autres.</p>
+<p>Cependant ne voulant pas toujours estre attachè a la mesme speculation i'aij par la priere d'aucuns amis entrepris la critique de Philosophie de Monsieur des Cartes ou i'auoue d'estre estonnè de descouurir de fautes tout a fait indignes d'un si habile homme. Et puisque i'aij acheuè les deux premieres parties; ie souhaiterois fort que vous les pouuiez voir puisque ie defere plus a vostre iugement qu'a aucun autre; Mais ie n'ofe presque pas vous demander cette grace a caufe de vos continuelles &amp; plus nobles occupations, Toutefois i'ofe encor en finissant vous demander par faueur la veritable refraction du verre, puisque ie ne doute point
+<figure><graphic url="huyg003oeuv06ill81.gif"></graphic></figure>
+qu'elle ne vous soit connue pour corriger mon calcul en quoij vous obligerez infiniment</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant Seruiteur
+<lb/><persName key="nula011">F.G. Baron de Nulandt</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christiaen Huygens de Zuilichem</persName> etc.
+<lb/>a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

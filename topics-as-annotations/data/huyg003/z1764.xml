@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1764"/>
+<meta type="date" value="1669-10-12"/>
+<meta type="sender" value="pica018"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1764">
+<p>1669 Octobris die 12 vespere.</p>
+<p>Horologi ostendet</p>
+<p><table>
+<row>
+<cell>h. 11. 0.40</cell>
+<cell>h. 10.57</cell>
+<cell>Ps. mediceorum.</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>incipiet emergere e Jouis disco</cell></row>
+<row>
+<cell>h. 11.10.40</cell>
+<cell>11. 7</cell>
+<cell>totalis emersio</cell></row>
+<row>
+<cell>h. 11.20.40</cell>
+<cell>11.17</cell>
+<cell>distabit uno</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>sui corpusculo.</cell></row>
+</table></p>
+<p><figure><graphic url="huyg003oeuv06ill102.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

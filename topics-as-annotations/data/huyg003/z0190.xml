@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0190"/>
+<meta type="date" value="1654-04-19"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0190">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. à Schooten</persName>. S.D.</p>
+</div>
+<p>Perlectis elegantissimis tuis Theorematis, non potui satis admirari cum ingenij tui perspicaciam, tum in ijs demonstrandis subtilitatem summam. Eorum autem amoenitate quantopere captus fuerim, non est quod dicam, siquidem me ubique attentum et assiduum in ijs examinandis facile agnosces, ubi me omnia satis accuratè, pro viribus, hic illic annotasse, (licet levioris momenti) deprehendes. Quod sanè quàm difficulter in aliorum operibus examinandis à me impetrassem, conjicies utique, quum intellexeris me hoc demonstrandi modo ferè desuetum.
+In quo tum <seg org="sigurarum" resp="#AD" type="corr">figurarum</seg> continua inspectio plurimum defatigat imaginationem, tum intellectum item justa ac severa ratiocinatio. Id quod vel magno Cartesio impossibile omnino futurum fuisset, ipse enim mihi talia non semel est confessus, quin imo et offerenti recusavit. Quocirca licet ob plura impedimenta, quae mihi multum negotij facessunt, serius tua remittam, condonabis tamen spero postquam perpenderis, quanti aestimem eximiam tuam eruditionem, et inventorum praestantiam, quantumque in ijs ritè examinandis fuerim sollicitus, ac notandis illis, quae eruditionem tuam vel ullo modo labefactare viderentur. Quo fit, ut illa diutius fortè, quam par est, penes me retinuerim. Porrò quod attinet ad propositionem 17 (ubi de centro gravitatis agis portionis circuli, ad cujus demonstrationem parabolâ uteris) ut et propositiones 18 et 19, quas delendas ibidem judicas, dum earum in praefatione mentionem facere intendis, easque ex tuis Theorematis de Hyperbola &amp;c. elici posse asseris, vix scio an tibi ea in re author esse velim, dum demonstrationes satis sint elegantes, et meliores ab alijs vix speraverim. Nam nisi earum mentem commodè ac dilucidè planè illic explices, ut et regulae propositionis 20, (cum id illic loci multò difficilius judicem): non opinor propositiones alias omnino necessarias, quales sunt 18 et 19, satis cum fructu ab
+ullo percipi. Abundè autem defectum suppleri rectè, meâ sententiâ, iudicasti, si illustrium quorundam problematum constructiones ac demonstrationes eorum loco adieceris. Opus verò ipsum quàm maximè Danieli Elsevirio<note n="#1"/> heri commendavi, qui ubi cum cognato suo Joanne Elsevirio<note n="#2"/> sub vesperam Hagâ tunc redituro esset loquutus, hodiè manè mihi responsum dare fuit pollicitus. Dixit igitur se libenter suis typis mandare velle, ac pactum illud inire, quale antea cum suorum parentibus<note n="#3"/> inijsti. Sed respondi ego et alios Typographos Te Hagae adijsse, qui libenter itidem id opus essent suscepturi, sed te dixisse id malle Elseviriorum Typis, quia elegantiores, excusum iri. Quapropter me planè confidere, Te nullam figurarum expensam, aliamve ullam, ferre velle. Ad quod respondit, Joannem Elsevirium idcirco die Martis proximo Hagam venturum, ut ipsemet tecum loqueretur. Suaderem<note n="#4"/> itaque ut ad nullam figurarum expensam intelligeres, sed pro Autographo 50 exemplaria expeteres. Quod equidem, ut omnino confido, haud recusabunt. Pro annatotis<note n="#5"/> denique in dedicationibus gratias habeo. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>19 Aprilis 1654</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

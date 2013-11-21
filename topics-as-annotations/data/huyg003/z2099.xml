@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2099"/>
+<meta type="date" value="1677-02-15"/>
+<meta type="sender" value="leeu027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="delft001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2099">
+<div type="opener">
+<p>Delff den 15 feb. 1677.</p>
+<p>Mijn Heer</p>
+</div>
+<p>UEhdts. seer aengenamen van den 9 deser is mij wel geworden<note n="#1"/> t was mij lieff te verstaen dat mijne observatien in Vranckrijck aangenaem waren. Wanneer UEhdt. schrijven sal becomen hebben van mijn laeste luijsige observatien (die ick uijt het schrijven van UEds. Heer Vader verstaen heb dat UEldt. int frans soude oversetten en na Vranckrijck senden<note n="#2"/> soo versoeck ick off UEhdt. die goetheyt gelieft te hebben, omme het selffde antwoort te communiceren.</p>
+<p>Omme UEhdts. missive verder te beantwoorden, daer mede sal ick noch 2. a. 3. weecken wachten, omme redenen dat ick bij de observatien, die ick sedert eenigen tijt gedaen heb, (aengaende de levende schepsels in water) sal vermeerderen, met 2. soorten van water, die ick onder ander daeghlijcx van voornemen ben te observeren, afbreeckende blijve onder des naer presentatie van mijn geringen dienst</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>UEhdts. Dienstwillige Dienaer <persName key="leeu027">Antoni Leeuwenhoeck</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>WelEdele Heer d'Heer <persName key="huyg003">Chr: Huygens. van Zuylichem</persName> Hage.</p>
+</div>
+</body>
+</text>
+</TEI>

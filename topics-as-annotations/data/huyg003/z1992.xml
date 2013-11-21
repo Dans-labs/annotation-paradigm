@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1992"/>
+<meta type="date" value="1674-05-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1992">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 25 May 1674.</p>
+</div>
+<p>C'est a la priere de Monsieur de Nielle<note n="#1"/> que je vous escris cette seconde fois pour vous recommander l'affaire de son parent le pauvre Monsieur de la Landes.<note n="#2"/> qu'on laisse perir dans la prison et que l'on maltraite avec la derniere rigueur pour l'obliger a payer une taxe enorme qui le doit depouiller de son bien. Comme j'ay appris par les pieces du proces combien peu il a meritè sa condamnation je vous assure que j'en ay pitiè et que je vois a regret que dans nostre païs on excerce des injustices de la sorte. On nous assure que Monsieur le comte de Waldec peut tout dans cette affaire, c'est pourquoy vous estes suppliè de vouloir prendre la peine de luy escrire un mot en faveur du prisonnier, à qui peut estre dans son absence l'on fait souffrir plus qu'il ne scait. Je crois que sans entrer dans la discussion de la cause, vous pourriez seulement luy remonstrer que ceux qui intercedent pour Monsieur de La Lande sont des personnes qui meritent qu'il ait quelque consideration pour eux, et particulierement celuy qui m'a demandè cette lettre, qui comme vous scavez est connu aimè et estimè de tout ce qu'il y a d'honnestes gens a la Cour. Estant outre cela vostre ancien amy, je m'assure que vous voudrez bien avouer à Monsieur le Comte la part que vous prendrez a l'obligation qu'on luy aura de terminer une fois ou du moins de diminuer la misere de celuy dont il s'agit. Pour moy je vous puis dire en veritè que je souffre avec luy, et que cela seul m'obligeroit a tascher de le secourir quand je n'en serois pas requis d'ailleurs.</p>
+<p>Je vous prie d'en escrire aussi au frere de Zeelhem.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">de Zulichem</persName> &amp;c. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

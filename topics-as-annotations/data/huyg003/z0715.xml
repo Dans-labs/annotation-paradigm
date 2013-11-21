@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0715"/>
+<meta type="date" value="1660-01-30"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0715">
+<div type="opener">
+<p>A <placeName key="parij001">paris</placeName> ce <date>30<hi rend="sup">e</hi> Januier 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Estant allé voir Monsieur Bulliaut jl y a 3 Jours, Jl me donna vn Exemplaire de vostre systeme de Saturne<note n="#1"/> que vous Luy auiez Enuoyé pour moy depuis vn mois,
+cela me fait craindre que vous ne me croyez trop paresseux a vous en remercier. Je n'aurois pas manqué a vous en témoigner mes remerciments si je l'eusse receu plustost, J'estime trop ce present et la personne dont Je le tiens, J'auois bien sceu qu'il en estoit venu quelques Exemplaires en cette ville des Libraires a qu'ils auoient esté enleues incontinent; de sorte que n'en trouuant point d'autre J'emprunté celuy de Monsieur Chapelain par le moyen d'un de ses amis. Je le leus sans le quitter, car vous escriuez si bien que quand on ne chercheroit rien autre chose que la pureté et l'elegance jl ne faut que lire vos ouurages, ce qui me charma encor d'auantage, c'est l'histoire de vos obseruations, elles sont si bien faites et si bien suiuies qu'il me semble qu'on ne peut rien dire contre l'hypothese de l'Anneau que vous en tirez, L'orbite Elliptique de la petite Lune qui Elargit et Estrecit son Ellipse dans les mesmes temps que celle de l'Anneau, me semble vn argument asseurè pour le Conclure, J'espere que vous continuerez d'obseruer et que dans la suitte des temps tous les phenomenes se trouueront conformes a vostre hypothese, J'ay pensé que l'vmbre de l'Anneau pouuoit contribuer quelque chose a faire paroistre la petite bande noire sur le Corps de Saturne, pour respondre a ceux qui ont difficulté d'admettre que la superficie conuexe de L'Anneau soit polie et d'vne maniere a ne point reflechir de Lumiere aussi que ses bras ne seroient pas visibles hors la planette quand nostre oeil est dans le plan de l'Anneau a cause de son peu d'espaisseur; Ne Cessez point Monsieur a donner au public ces belles Lumieres, Descouurez tous les Jours de nouuelles beautés dans le Ciel, Conseruez moy Aussy l'honneur de vos bonnes graces puisque Je seray toute ma vie et de tout mon Coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur, <persName key="mylo002">Mylon</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> A la Haye en hollande.
+<lb/>12</p>
+</div>
+</body>
+</text>
+</TEI>

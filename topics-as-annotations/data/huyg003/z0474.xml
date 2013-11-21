@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0474"/>
+<meta type="date" value="1658-03-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0474">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="hein009">Nic. Heinsio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.</p>
+</div>
+<p>En tibi tandem Declamationum<note n="#2"/> Senecae, è Lipsiano scrinio exemplar manu scriptum<note n="#3"/> id ipsum, ut opinor quod me quaerere jusseras. Nec cessassem hactenus mittere ni scivissem, ad Clarissimum Gronovium<note n="#4"/> isthinc commodè curari non posse, obstructis glacie itineribus. Cujusnam aetatis aut praetij sit liber non mihi liquet, nisi quod ex literarum forma, prout ex te didici, conjecturam capio, altero tertiove abhinc saeculo exaratum esse. Sed sic quoque probus erit fortasse, et ad emaculandum autorem disertissimum aliquid, ut spero, conferet. Heri mihi à Capellanio<note n="#5"/> nostro literae allatae<note n="#6"/> sunt, in quibus hae quoque inerant ad te scriptae. His ante diem jovis proximum responsum mittere non possumus. a casu nupero an planè convalueris facito quaeso me certiorem, et Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> <date>14 Mart 1658</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

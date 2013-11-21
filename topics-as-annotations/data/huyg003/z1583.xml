@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1583"/>
+<meta type="date" value="1667-04-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1583">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 1 d'avril 1667.</p>
+</div>
+<p>I'ay estè aujourdhuy d'une partie de promenade avec quelques amis, dont je ne fais que revenir a cet heure qui est 8½ du soir, de sorte que j'avois quasi deliberè de
+n'escrire point pour cette sois, mais trouuant une lettre de la Signore Anna<note n="#1"/> qui me l'a envoiee pour ensermer dans la miene et que je suis obligè de faire tenir à la poste, j'y adjouste ce mot pour vous dire que j'ay receu vostre derniere du 24<hi rend="sup">e</hi> Mars<note n="#2"/> Mon Pere recevra par cet ordinaire ma lettre<note n="#3"/> de la semaine passée, qui est demeuree icy par la nonchalance d'un laquay de chez Monsieur Borel<note n="#4"/>, a qui le mien l'avoit donnee.</p>
+<p>Ie vous remercie des nouuelles que contient la vostre. Le Sieur Bruynesteyn<note n="#5"/> me fera grand plaifir de me communiquer quelque chose des experiences qu'il s'est proposees. et je le feray mettre dans les Nouuelles des Sçavants<note n="#6"/>, s'il trouue quelque chose de particulier et de remarquable.</p>
+<p>I'attens avec impatience le succes de vostre assaire d'Iselstein, qui assurement seroit tres bonne.</p>
+<p>Ie m'estonne que vous ne m'ayez rien escrit du desmelè<note n="#7"/> entre Monsieur le Prince et son gouverneur dont d'autres m'ont fait l'histoire.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens</persName>, chez
+<lb/>Monsieur <persName key="huyg001">de Zulichem</persName>
+<lb/>A la Haye.
+<lb/>12</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0771"/>
+<meta type="date" value="1660-08-19"/>
+<meta type="sender" value="brun077"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0771">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce <date>19. Aoust 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne uous escris que deux lignes pour uous dire que i'ay receu vostre lettre<note n="#1"/>, et que ie uous attend a Paris auec impatience: Vous pourrez me faire sçauoir uostre arriuée, a l'hostel de Luynes. J'ay receu une lettre<note n="#2"/> de son Altesse le Prince Leopol; Jl y<note n="#3"/> une page in folio qui uous regarde, et ie uous asseure que Son Altesse parle de uous auec une estime si grande qu'asseurement uous en serez tres satisfait quand uous la lirez. Je uous en aurois enuoyè une copie<note n="#4"/> si ie ne croiois pas que cette lettre ne uous pourroit pas trouuer en Hollande. Son Altesse n'a point receu de uos lettres, il a seulement receu uostre liure le quel il dit, estre admirable; Je n'ay pas le loisir de uous escrire dauantage; si uous n'estez pas encor parti, ie uous prie de faire mes tres humbles baisemains a Monsieur <persName>Vossius</persName> et de le supplier de ma part d'auoir la bontè de trouuer en quelque maniere qui ce soit ces figures de la Chine. J'ay le plus grand regret du monde qu'on l'aye trompè de la sorte: En fin il faut bien prendre garde a qui l'on se fie.</p>
+<p>Je vous supplie de croire que Je suis ueritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur l'abbe <persName key="brun077">Brunetti</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christianus Vgens de Zulichem</persName> a la Haye.
+<lb/>12</p>
+</div>
+</body>
+</text>
+</TEI>

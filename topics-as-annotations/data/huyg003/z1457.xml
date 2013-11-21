@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1457"/>
+<meta type="date" value="1665-09-11"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1457">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 1. Septembre 1665.</p>
+<p>Monsieur,</p>
+</div>
+<p>J'espere, que vous auez receu celle<note n="#2"/>, que ie vous escrivis, à l'instance du Chevalier Moray, il y a 3. ou 4. semaines, auec une piece d'une de nos Transactions philosophiques, que vous auiez demandée. Celle-cy n'est que pour vous addresser le petit billet<note n="#3"/>, cy joint, qui me fut enuoyé du mesme Chevalier, auec ordre de le despecher vers vous, et de vous prier, que vous prissiez la peine de vous enquêrir de telles des pieces mentionées là dedans<note n="#4"/>, qui ne sont pas inprimées; ce que vous pourrez faire, s'il vous plait, et de Monsieur Golius et des Elsevirs<note n="#5"/>. On pense, que le reste meritent d'estre inprimé de mesme, principalement la piece<note n="#6"/> d'Anderson<note n="#7"/>.</p>
+<p>Je souhaite tousiours la fin de la guerre et de la peste, d'une passion nonpareille, pour restablir l'estude et les bonnes correspondences. C'est de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> a la Haye.
+<lb/>12</p>
+</div>
+</body>
+</text>
+</TEI>

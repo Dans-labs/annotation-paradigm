@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0708"/>
+<meta type="date" value="1660-01-16"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0708">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>16. Januier 1660</date>.</p>
+<p>M. <persName key="huyg003">Chris. Hugens de Zulichem</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous enuoye le jugement<note n="#1"/> que j'ay fait sur le theme celeste que j'ay dressé sur la datte que vous m'auez enouyee. Je n'ay pas parcourru tous les points que les Astrologues ont accoustumé de traitter pource que mon opinion n'est pas que l'on puisse juger ny des freres, parens, seruiteurs &amp;c dont ils ont faict des reigles &amp; des aphorismes. Je regarde le temperament &amp; les choses qui s'ensuiuent. Je vous prie de me dire son nom &amp; sa qualité.</p>
+<p>J'ay receu vne lettre de Monsieur Heuelius par cet ordinaire qui<note n="#2"/> escrite le 9<hi rend="sup">e</hi> Decembre. il ne fait point d'autres objections a vostre Systeme que celles que je vous ay faictes<note n="#3"/>, aussi sont elles les seules. Il se plaint vn peu de vous de ce que vous n'auez pas rapporté de luy dans vostre liure tout ce qu'il croid que vous deuiez alleguer. Je le prieray dans la response que je luy feray bien tost de vous escrire et de vous dire franchement ses sentimens. Je vous enuoyeray par le prochain ordinaire
+le modele en crayon de l'horologe a pendule que Monsieur le Grand Duc a faict accommoder dans le vieux palais de Medici. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>Le Sieur Hanet ne comparoist point &amp; je ne peux retirer l'horologe.</p>
+</div>
+</body>
+</text>
+</TEI>

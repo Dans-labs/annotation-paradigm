@@ -1,0 +1,53 @@
+// Is T.A<:AFEH-L@K: in Jer 2:17 masculine or feminine? This query
+// looks for the expression <FH + preposition + suffix, in the first or
+// second person, in which the person and gender agree with those of
+// the suffix.
+
+// ident @(#)lq21.mql	1.1 06/01/17
+
+select all objects where
+
+[clause
+   [word
+      lexeme = "<FH[" and person = pers_first
+   ]
+   [word
+      psp = preposition and (
+	 paradigmatic_pron_suffix = 2 or
+	 paradigmatic_pron_suffix = 3 or
+	 paradigmatic_pron_suffix = 9
+      )
+   ]
+]
+
+go
+
+select all objects where
+
+[clause
+   [word
+      lexeme = "<FH[" and person = pers_second and gender = masculine
+   ]
+   [word
+      psp = preposition and (
+	 paradigmatic_pron_suffix = 4 or
+	 paradigmatic_pron_suffix = 10
+      )
+   ]
+]
+
+go
+
+select all objects where
+
+[clause
+   [word
+      lexeme = "<FH[" and person = pers_second and gender = feminine
+   ]
+   [word
+      psp = preposition and (
+	 paradigmatic_pron_suffix = 5 or
+	 paradigmatic_pron_suffix = 11
+      )
+   ]
+]

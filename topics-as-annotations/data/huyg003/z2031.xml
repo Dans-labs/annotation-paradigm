@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2031"/>
+<meta type="date" value="1675-05-20"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2031">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 10 May 1675.</p>
+</div>
+<p>Voicy, Monsieur, vn autre Journal Anglois<note n="#1"/> oú vous trouuerez la montre<note n="#2"/> de M. Leibnitz, comme i'auois mise la vostre dans la precedente, que ie vous envoiay le 19 Avril<note n="#3"/>; apres quoy ie vous ay addressé<note n="#4"/> vn jeune medecin Alleman, vous portant vostre mesure du pied Parisien, auec celle du pied Anglois marquee lá dessus, comme on l'auoit desiré par vn billet donné a Monsieur Fendekeller, Alleman aussi. J'espere, que vous aurez bien receu tout, et que vous m'en assurerez par deux mots, comme aussi de ce que Mylord Brouncker doit attendre de vostre montre, qu'il a si instamment desiré de vous par la main de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.
+<lb/>40 β</p>
+</div>
+</body>
+</text>
+</TEI>

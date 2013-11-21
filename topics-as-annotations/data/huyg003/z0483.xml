@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0483"/>
+<meta type="date" value="1658-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="wall057"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0483">
+<div type="opener">
+<p><date>1658 Aprili</date>.</p>
+</div>
+<p><figure><graphic url="huyg003oeuv02ill93.gif"></graphic></figure><note n="#2"/><note n="#3"/><note n="#4"/></p>
+<p>APE est Cissoides Dioclis. ACB circulus à quo genita est. semper nimirum AC ∞ EF. Dico spatium AVPEFB aequari triplo segmento CBT + ∆ <hi rend="sup">o</hi> ACB. ∠ MBH ∞ BAC. BM ∞ AB. triplum segmentum CBT + ∆ <hi rend="sup">o</hi> ACB ∞ sectori BKM + spatio HXMK. nam fegmentum CBT seu HMX ∞ spatio HXMK.
+∠ HZM ∞ 2 ∠ HBM. <hi rend="i">e</hi><note n="#5"/> sector ZHM ∞ ½ sectori BKM. <hi rend="i">e</hi><note n="#6"/> sector ZHM ∞ ∆ BHZ + spatio HXMK. auferantur aequalia hinc ∆ BHZ, inde ∆ ZHM. fit spatium HXMK ∞ segmento HMX.</p>
+<p>Ergo ostendendum quod spatium AVPEFB ∞ sectori BKM + spatio HXMK. si dicatur spatium cissoidis hisce minus esse; sit excessus horum Ω. Et inscribatur sectori BKM figura ordinatè, ut duplum omnium trilineorum KND sit minus quam Ω. et spatio Cissoidis figura inscribatur ex totidem trapezijs. Ostenditur trapezium EFGQ ∞ ∆ BKN + trapezio HN. est enim trapezium EG ad ∆ ACL ut FG + EQ ad CL, (quia eandem habent altitudinem) hoc est ut FA + AE ad AC. hoc est ut AF + FC ad AC. hoc est ut AB + BR.<note n="#7"/> RA. Ergo componendo, trapezium EG + ∆ ACL ad ∆ ACL ut 2AB ad AR. hoc est ut 2 quadratum AB ad quadratum AC. sive ut 2 quadratum BK ad quadratum BH. hocestut 2 ∆ BKN ad ∆ BHO. Sed ∆ BHO ∞ ∆ ACL. ergo trapezium EG + ∆ ACL aequale erit 2 ∆ BKN.
+<figure><graphic url="huyg003oeuv02ill94.gif"></graphic></figure>
+<note n="#8"/><note n="#9"/></p>
+<p>Et ablato hinc ∆ <hi rend="sup">o</hi> BHO, inde ∆ <hi rend="sup">o</hi> ACL, manet ∆ BKN + trapezium HN aequale trapezio EG. et similiter de caeteris. Ergo figura in sectore inscripta + trapezijs omnibus HN ∞ figurae in spatio cissoidis inscriptae. Sed figura in sectore assumens omnia KND, itemque trapezia HN assumentia omnia KND; ista omnia simul addita superant sectorem + spatio HXMK. Ergo figura in sectore + trapezijs HN hoc est figura in cissoide assumens spatium Ω, longe superabit sectorem + spatio HXMK. sed ipsum Cissoidis spatium + Ω aequatur ex hypothesi sectori BKM + spatio HXMK. Ergo figura in Cissoide ipso Cissoidis spatio major erit. quod absurdum.</p>
+<p>Dicatur jam spatium AEYGB majus sectore BDM + spatio IHMD sitque excessus Ω. Circumscribam jam sectori figuram. ut omnia DKN bis sumpta sint minora excessu Ω. Et ex totidem trapezijs circumscribam spatio Cissoidis. Sicut antea ostendetur trapezium EG ∞ ∆ BKN + trapezio HN. Ergo tota figura circumscripta Cissoidi aequalis circumscriptae sectori + omnibus trapezijs HN<note n="#10"/>. Sed ab his si demantur bis omnia trilinea DNK, residuum minus erit quam sector BDM + spatio IHMD. (nam primum auferendo omnia DNK à circumscripta figura sectori, relinquitur sector BDM: at eadem DNK auferendo à trapezijs HN, residua omnia simul, minora sunt spatio IHMD: quin additis rursus OHI, omnia simul aequantur demum spatio IHMD.) Ergo si ab his ipsis, à figura nimirum circa sectorem + trapezijs NH hoc est à figura circumscripta spatio Cissoidis, auferatur Ω, reliquum multo minus erit sectore BDM + spatio IHMD. sed spatium ipsum Cissoidis dempto Ω aequale dicebatur his ipsis. ergo Cissoidis spatium majus erit figura sibi circumscripta, quod absurdum.</p>
+<p>&nbsp;</p>
+<p>Hoc demonstrato quod spatium AEYGB ∞ 3 segmento B V C + ∆ A V B, facile ostendetur spatium infinitum AEYBG aequale triplo semicirculo A V B.</p>
+<p>Item quod spatium AEYB ∞ triplo segmento B V C<note n="#11"/><note n="#12"/><note n="#13"/><note n="#14"/></p>
+</div>
+</body>
+</text>
+</TEI>

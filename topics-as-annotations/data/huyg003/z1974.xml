@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1974"/>
+<meta type="date" value="1673-11-18"/>
+<meta type="sender" value="guis014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="avign901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1974">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>A l'occasion de quelques entretiens de philosophie que i'ay l'honneur d'auoir icy aueq des personnes de qualité, i'ay prié le R.P. Goudin<note n="#1"/> de me procurer la machine pneuphmatique de Monsieur Boyle vótre ami &amp; le mien; &amp; de la faire examiner à quelque intelligente personne, auant que de me l'enuoïer, de peur que la faute de l'ouurier me donna de la confusion dans l'execution des experiences. Sans mentir ie n'ay pas en cella ioüé d'un mediocre bonheur, quand il s'est adressé à vous, &amp; qu'en acceptant le parti Vous luy aïés temoigné de ne m'auoir pas entierement oublié. Depuis que i'eus l'auantage de vous aborder quelquefois à la Haye<note n="#2"/>, ie conceus Monsieur, des sentimens si releués de vous, que méme ie ne pùs pas etant à Rome vous en cacher quelque legere demonstration<note n="#3"/> sur le suiet de votre systeme de Saturne; &amp; ce qu'il y à de gens d'etude &amp; d'esprit en ces prouinces sáuent assez à quel point i'estime le vótre, &amp; que l'áquisition que le Roy à faite de vótre personne à la France surpasse á mon auis la conquete de Hollande. Ce seroit sans doute, Monsieur, porter trop
+loing ma curiosité, que d'ambitioner de sáuoir vótre vie, vos decouuertes &amp; vos desseins dans les sciences; J'oseray bien vous dire ingenúment que la passion de m'instruire est en moy si forte, que ie souhaiterois méme de penetrer jusqu'à la moindre de vos pensées. S'il y auoit en ce païs, Monsieur, quelque chose digne de vos recherches, ie prendrai la liberte de vous y offrir mes derniers empressemens; &amp; de vous asseurer qu'il n'y a personne au monde qui soit aueq plus d'estime &amp; de respet que moy</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="guis014">Guisony</persName>.</p>
+<p>A Auignon le 18<hi rend="sup">e</hi> 9<hi rend="sup">bre</hi> 1673.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

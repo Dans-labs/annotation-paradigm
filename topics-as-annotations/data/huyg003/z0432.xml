@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0432"/>
+<meta type="date" value="1657-12-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gobe019"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0432">
+<div type="opener">
+<p><date>Dond. 6 Decemb. 1657</date>.</p>
+<p>A <persName key="gobe019">Gobert</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Celle qu'il vous a pleu m'escrire du 20<hi rend="sup">e</hi> Avril m'a este enfin rendue, apres avoir estè plus longtemps en chemin que ne sont souvent les lettres qui viennent des
+Indes. Elle n'a pas laisse pour cela de m'estre tresagreable en me donnant des preuves si certaines de la continuation de vostre affection. Je vous rends graces treshumbles du present dont vous l'avez voulu accompagner, de ces airs dije si bien choisis parmy les quels il y en a d'extremement agreables, et la plus part encore inouis en ce pais, de sorte qu'en les copiant de la main je pourroij les debiter comme tresnouveaux. nous trouvons assez de belles voix pour les executer, mais non pas d'assez grands maistres pour faire des variations pour les seconds couplets a l'esgal de celles que vous m'avez fait entendre. Partant ce me sera tousjours une faveur insigne, si vous demeurez dans le dessein de m'en ecrire quelquesuns dans le livre que j'ay laissè entre vos mains. Mais il faut que soit lors que vous aurez du temps de reste, et mesme alors je crains que vous ne preniez trop de peine pour une personne qui ne vous est desia que trop redevable, et qui au lieu de vous requerir de quelque chose, devroit trouver des occasions pour vous rendre service, c'est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobligé Serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

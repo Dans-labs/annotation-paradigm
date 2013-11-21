@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1660"/>
+<meta type="date" value="1668-09-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1660">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 14 Septembre 1668.</p>
+</div>
+<p>Vostre relation<note n="#1"/> est ample belle et plaisante et je souhaiterois seulement qu'il y eust icy beaucoup de personnes a qui j'en pusse faire part. Il n'y a que les seules Madame de Buat et Mademoiselle Borel<note n="#2"/>, et encore cette derniere ne connoist guere le monde a la Haye. Mais depuis avoir receu vostre lettre je n'ay encore pu voir ni l'une ni l'autre, et ce ne sera qu'apres demain que je les regaleray de cette belle histoire, avec circonspection toutefois car il y a des endroits a passer. Ie trouue <hi rend="i">Ick</hi><note n="#3"/> fort bien placè a cette table, et tous vos divertissemens fort agreables si non que ces longues veilles me font peine, ayant essaiè dernierement<note n="#4"/> a cette feste de Versailles ce que c'est que d'estre 24 ou 30 heures sans dormir. Il y en aura une seconde le 20<hi rend="sup">e</hi> a ce qu'on dit, mais je n'ay nullement dessein de m'y trouver.</p>
+<p>Ie ne trouverois pas mauvais ce parti que vous dites pour la Cousine Constancia<note n="#5"/> s'il n'y a des obstacles essentiels d'ailleurs. Vous iriez apres cela chevaucher quand il vous plairoit et sans rien paier sur ce cheval de bois, outre les avantages du voisinage a <placeName key="voorb001">Voorburg</placeName>, qui jusqu'icy, au moins de mon temps ne nous a rien valu.</p>
+<p>C'est assez puis que Monsieur van Leeuwen a receu son argent<note n="#6"/>. pour le vostre vous le pourrez reprendre comme vous dites sur ma rente a vie, et pour cela il faudra que vous preniez la peine de m'envoier des quitances imprimees de deux demies annees, si tost que le 1<hi rend="sup">er</hi> d'octobre sera passè.</p>
+<p>Il me faudroit plus de loisir que je n'ay a present pour escrire a nostre belle soeur. Pour les baisemains a L.P.<note n="#7"/> je luy en envoie 2 millions, et qu'elle scache que je pense assez souvent a elle quoy que non pas tousjours en achevant mes lettres.</p>
+</div>
+<div type="para">
+<p>Pour mon frère
+<lb/>Louis.</p>
+</div>
+</body>
+</text>
+</TEI>

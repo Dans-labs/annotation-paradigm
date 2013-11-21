@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1098"/>
+<meta type="date" value="1663-02-16"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1098">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 6. Janvier 1663<note n="#1"/>.</p>
+<p>Monsieur</p>
+</div>
+<p>La responce que Je feray a present a vostre derniere du 2. du Courant ne fera pas longue. mais vous me le pardonnerez quand Je vous en auray dit la raison. J'ay enuie de vous enuoyer une ample description du nouueau vaisseau qu'a construit Monsieur le Cheualier <persName key="pett901">Petty</persName><note n="#2"/>, mais elle n'est point encore preste. et Je ne vous fais ce mot, que pour sçauoir quand vous pretendez estre à Paris, et par quelle adresse Je vous pourray escrire quand vous y serez. J'auois presque oublié de vous dire qu'on nous fait àcroire icy que nostre portugais<note n="#3"/> est bien receu a Amsterdam &amp; que l'on y est fort satisfait de ses propositions touchant la longitude &amp;c., et qu'on luy en a promis tout ce qu'il à demandé. Vous fçauez qu'il n'y a pas grande fuiet de croire que J'y adiouste foy: vous fcauez que Je fuis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant feruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>Je vous fouhaite bon voyage.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>A la Haye.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

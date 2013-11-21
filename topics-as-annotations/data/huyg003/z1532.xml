@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1532"/>
+<meta type="date" value="1666-04-11"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="scho254"/>
+<meta resp="corpus" type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1532">
+<div type="opener">
+<p>A Monsieur l'Electeur de Maijence</p>
+<p>11 Aprilis 1666.</p>
+<p>Monseigneur;</p>
+</div>
+<p>Il s'en est peu falu que cest honeste homme eust trouué mon Fils<note n="#2"/> parti.
+Il a pleu au Roij Tres Chrestien de me faire tant presser son depart par lettres de Monsieur <persName key="colb012">de Colbert</persName> qu'en fin il n'ij a plus eu moijen de m'en defendre, quelque repugnance que j'aije à perdre ce precieux Garçon de veuë auant mourir.
+Je luij aij donc ordonné d'informer de ce seruice Vostre Altesse Electorale auec tout ce qui se peut de franchise.
+Aussi Monseigneur a il jugé qu'il en auoit bon besoin, la methode du bon Pere Rheita n'estant pas de grande consideration aujourdhuij comme en peu d'années la science s'est rafinée à grands pas.
+Encor n'en sçait on pas tout ce qui se doibt sçauoir, et (comme il me semble que c'est Seneque qui parle des Cometes)
+quae in lucem eruet longioris aeui diligentia<note n="#3"/>.
+Je supplie tres-humblement Vostre Altesse d'auoir aggreable le peu de seruice qu'on a eu moijen de luij rendre en ceste petite occurrence, et de se vouloir asseurer que s'il ij en a de plus grandes de ma portée, où je puisse meriter l'honneur de ses commandemens elle me trouuera tousiours plein d'ambition de pouuoir acquerir la grace d'estre creu &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

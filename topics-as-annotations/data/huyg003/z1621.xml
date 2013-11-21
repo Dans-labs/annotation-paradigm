@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1621"/>
+<meta type="date" value="1668-02-01"/>
+<meta type="sender" value="mari086"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dijon901"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1621">
+<div type="opener">
+<p>de dijon le 1<hi rend="sup">er</hi> feburier 1668.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay creu que vous aggréeriez que je vous fisse part de quelques demonstrations<note n="#3"/> que j'ay trouuée sur le mouuement des pendules et des choses pesantes qui tombent vers le centre, j'auois fait autres fois quelques petits escrits pour rendre raison pourquoy les cordes de luy jmpriment leur mouuement dans celles qui leur sont en vnisson et en octaue lesquels je leus dans l'assemblée, mais vous m'aduertistes que Galilée auoit dit<note n="#4"/> la mesme chose, ce qui m'a donné la curiosité de le lire depuis quelque temps et j'ay trouué en effect que ses pensées estoient tellement conformes aux miennes sur ce suject, que vous pouuiez croire auec beaucoup de raison que j'auois emprunté de luy ce que j'en auois escrit, mais pour ce qui est du mouuement des pendules et des choses pesantes, quoy que mes propositions soient les mesmes que les siennes, il y a pourtant vne difference toute entiere entre les facons de demonstrer et l'ordre et suitte des propositions comme vous le pourrez juger facilement, s'il vous plaist de lire l'escrit cy joint car vous verrez que dans ma premiere proposition je donne (ou crois donner) la vraye cause de l'acceleration du mouuement, au lieu que Galilée se contente de la supposer et en faire vne definition, que dans ma 5<hi rend="sup">e</hi> je prouue ce qu'il prend pour principe et qu'il demande luy estre accordé au commencement de son traitté<note n="#5"/>, et que dans ma 8<hi rend="sup">e</hi> je donne la proportion du temps par le costé du
+quarre, auec le
+temps par les 2 costez de l'octogone, et par<note n="#6"/> celuy des 3 costez du dodecagone, ce qu'il n'a pas fait.</p>
+<p>Je fais vne abstraction aussy bien que luy de la resistance de l'air, car en la supposant je me suis encor rencontré dans ses mesmes sentiments auparavant que de l'auoir leu, et je crois que les poids qui tombent, augmentent leur vistesse jusques a vn certain point, passé lequel elles vont d'vn mouuement esgal, et voicy comme je determine ou commence ceste esgalité, je suppose qu'vn vent soufflant de bas en haut puisse soustenir vne boule de lieige en l'air, alors si le vent cesse ceste boule tombant augmentera sa vistesse jusques a ce qu'elle soit esgale a celle du vent qui la soustenoit et en suitte elle continuera sa descente auec vne vistesse vniforme puisque la resistance de l'air luy ostera precisement sa puissance naturelle de descendre et ne luy restera que la puissance acquise, je n'ay pas fait mes demonstrations bien exactes, ny dans toute leur estendue, parce que je scay que vous les suppléerez facilement et que j'aurois esté trop long, c'est par cette mesme consideration que je ne monstre pas la facon dont j'ay calculé les nombres enoncez en ma 8e proposition et que la conclusion est sans demonstration, et parce que je crains que ceste lettre ne soit aussy trop longue et qu'elle ne vous soit ennuyeuse, je la finis en vous asseurant de mes treshumbles respects et que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName>Mariotte</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huggens</persName>. Rue Viuien
+<lb/>A paris.</p>
+</div>
+</body>
+</text>
+</TEI>

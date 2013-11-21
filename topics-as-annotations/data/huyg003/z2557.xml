@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2557"/>
+<meta type="date" value="1690-01-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hire005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2557">
+<p>A Mr. <persName key="hire005">de la Hire</persName> de l'Academie Royale des sciences et Prof. de Mathematique a l'observatoire a Paris.</p>
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>18 janvier 1690. qu'il met la parallaxe du soleil horiz. le de 6″ seulement s'il en a quelque certitude. qu'il fait la Longitude entre Paris et le Cap de B. Esperance de 17½ degr. s'il en a d'autres observations que celle des jesuites?<note n="#1"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

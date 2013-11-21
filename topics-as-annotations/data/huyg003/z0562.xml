@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0562"/>
+<meta type="date" value="1659-01-06"/>
+<meta type="sender" value="pasc001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0562">
+<div type="opener">
+<p>De <placeName key="parij001">paris</placeName> le <date>6 Januier 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Jay receu le present que uous m'auez fait l'honneur de m'enuoyer, et qui m'a esté rendu par un gentilhomme francois<note n="#1"/> qui m'a fait le recit de la maniere la plus
+obligeante et la plus ciuile du monde dont uous lauiez receu chez uous. Jl m'a dit mesmes qu'jl nestoit point connu de vous<note n="#2"/>, et que c'estoit sur moy que toute cette obligation retomboit. Je vous assure Monsieur que jen ay eu vne surprise et une joye extreme, car je ne pensois pas seulement que mon nom fust uenu jusqu'a uous, et jaurois borné mon ambition a auoir une place dans vostre memoire. Cependant on me ueut faire croire que jen ay mesme dans uostre estime. Je n'ose le croire, et je n'ay rien qui le uaille, mais jespere que vous m'en accorderez dans vostre amitié, puisqu'jl est certain que si on peut la meriter par l'estime et le respect qu'on a pour uous, je la merite autant qu' homme du monde. Je suis rempli de ces sentiments la pour uous, et vostre derniere production<note n="#3"/> n'a pas peu adjousté aux autres. elle est en uerité digne de vous, et au dessus de tout autre. Jen ay esté un des premiers admirateurs. Et jay cru qu'on en uerroit de grandes suittes. Je voudrois bien auoir dequoy uous rendre. mais j'en suis bien incapable, tout ce que je puis est de vous enuoyer autant qu'jl vous plaira d'exemplaires du traitté de la Roulette ou L'anonime a resolu les problemes qujl auoit luy mesmes proposez; Je ne vous en mets jcy que quelques auantcoureurs<note n="#4"/>, car le paquet seroit trop gros pour la poste. Je minformeray de nos libraires de la uoye qujl faut tenir pour en enuoyer commodement. Ne croyez pas monsieur que je pretende par la m'aquiter de ce que je vous dois, ce nest au contraire que pour vous temoigner que je ne le puis faire, et que c'est ueritablement de tout mon coeur que je ressens la grace que vous m'auez faitte en la personne de ce gentilhomme car encore qujl vaille bien mieux que moy, neantmoins comme uous ne le connoissiez pas, je me charge de tout, et uous uous estes aquis par la l'vn et l'autre. assurez vous en pleinement et que je seray tout ma uie</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur, <persName key="pasc001">Pascal</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur <persName key="huyg003">de Huguens</persName> a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

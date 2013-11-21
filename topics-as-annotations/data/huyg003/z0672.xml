@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0672"/>
+<meta type="date" value="1659-09-28"/>
+<meta type="sender" value="tacq001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="antwe001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0672">
+<div type="opener">
+<p>Clarissime ac Nobilissime Domine.</p>
+</div>
+<p>Hodie ante meridiem tradidit mihi Segerus<note n="#1"/> noster nouum tuum Systema Saturnium. E vestigio percurri quantum licuit per illas temporis angustias, lecturus deinde accuratius pro argumenti dignitate ac merito. Quantum ex lectione ista cursoria potui perspicere, si peregrinae illae Saturni formae, quas vidi in Ricciolo<note n="#2"/>, et ex illo refers, in tubos minus idoneos referri debeant, rem acu mihi quidem videris attigisse. Alias certe magisque probatas planetae apparentias tuo illo annulo perpulchrè et eleganter praestas. Pulcherrimum inuentum et auctam nouo planeta Astronomiam tibi vehementer gratulor; quod verò me impertiri illo dignatus fueris, etiam gratias quam possum maximas adscribo. Vale.</p>
+<div type="closer">
+<p><placeName key="antwe001">Antuerpiae</placeName> <date>28. Sept. 1659</date>.</p>
+<p>Vester in Christo seruus <persName key="tacq001">And. Tacquet</persName> e Societate Jesv.</p>
+</div>
+<p>Domino <persName key="guts001">Gutschovio</persName> primo tabellario tuum munus transmittam.</p>
+</div>
+</body>
+</text>
+</TEI>

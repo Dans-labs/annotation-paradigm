@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2476"/>
+<meta type="date" value="1687-08-26"/>
+<meta type="sender" value="caze011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2476">
+<div type="opener">
+<p>A Amsterdam le 26. Aoust.</p>
+<p>Monsieur</p>
+</div>
+<p>Si vous auez eu la bonté de repasser la traduction que je vous ay laissée vous mobligerez infiniment de la faire remettre a M.<hi rend="sup">r</hi> Petit<note n="#2"/> par ce que je suis sur le
+point de faire imprimer tant en francois quen flamend. Je vous demande bien pardon Monsieur de tant de peyne que je vous donne, et de vous auoir ainsy detourné pour vne chose de si peu de concequence.</p>
+<p>Je nay point encore sceu des nouuelles de vos Pendules. Il y a quelques jours que jen parlay a Monsieur le Bourguemaitre <persName key="hudd002">Hudde</persName> qui me dit qu'il nen auoit encore rien appris, mais qu'il êtoit vray que la mere de celuy<note n="#3"/> qui en auoit eu la direction l'estoit venu trouuer mais qu'il n'auoit pas eu le loisir de luy parler. Si vous souhaittez que jen prenne quelques jnformations je le feray, et en cette occasion comme en toutte autre vous reconnoitrez quon ne peut pas être plus sincerement que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="caze011">Caze</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huygens de Zulikem</persName> a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

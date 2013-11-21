@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2034"/>
+<meta type="date" value="1675-06-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2034">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 8 juin 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Quoy que je sois demeuré en faute pendant quelque temps de faire responce a deux ou trois de vos lettres, je n'ay pas laissè d'avoir soin de la commission que vous m'avez donnée de la part de Milord Brouncker, et vous aurez dans peu de jours la montre de la nouuelle fabrique qu'il souhaite. Le Sieur Dominique<note n="#1"/>, un
+des Comediens Italiens m'a offert de s'en charger, qui part avec la troupe dans la semaine prochaine. Cette invention ne m'a pas coustè peu de peine et de soin a la mettre au point qu'elle est. quoy que l'ouvrage paroisse assez simple: et c'est en partie cela qui m'a empeschè de vous faire response, par ce que je voulois voir auparavant la chose bien confirmée par l'experience. Je ne doute pas qu'avec le temps elle ne se persectionne encore d'avantage et j'ay mesme quelques essais a faire pour cela dont je vous rendray compte cy apres.</p>
+<p>Le procedè de M. Hooke me paroit ni bon ni honneste de se vouloir faire autheur de tout ce qui se trouve de nouveau<note n="#2"/>, et particulieremment dans ce qui regarde cette invention il a mauvaise grace de dire qu'il l'a eue il y a longtemps, n'ayant rien produit lors que je vous ay envoiè l'anagramme que vous scavez, lequel je vous dis contenir une invention nouuelle d'horloge<note n="#3"/>. Ceux qui sont capables de trouver des belles inventions d'eux mesmes n'en usent pas ainsi.</p>
+<p>Je vous rends graces de vos derniers journaux<note n="#4"/> et a Monsieur Boyle du present de son liure<note n="#5"/> qui contient quantitè de belles experiences. Je suis tout a fait de son avis que toutes sortes de corps sont meslez dans l'air, par ce qu'il faut seulement qu'ils soient tres minces pour y pouvoir estre soustenues, quand ce seroit de l'or mesme, supposè l'agitation continuelle de cet element. Mesme dans le vuide de Mr. <persName key="boyl001">Boyle</persName> les parties de l'eau montent facilement, comme il paroit par l'experience, car elles vont faire des goutes au haut du recipient.</p>
+<p>En ce qu'il dit de l'experience de l'acier de Damas, je doute si c'est l'air qui le rend meilleur, parce que dans un corps metallique l'air ne semble pouuoir avoir effect que sur la surface<note n="#6"/>.</p>
+<p>Pour voir aussi si c'est l'air qui fait les esslorescences sur les marcassites<note n="#7"/>, il seroit bon de les enfermer dans le vuide, et la mesme chose se pourroit pratiquer dans plusieurs experiences qu'il allegue, car par fois on pourroit douter s'il ne sort pas quelque chose du dedans des corps qui fasse l'essect que nous attribuons a l'air.</p>
+<p>Je n'ay pas le temps de vous en dire d'avantage, mais seulement que je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">de Grubendol</persName> A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

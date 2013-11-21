@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0055"/>
+<meta type="date" value="1648-06-19"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0055">
+<div type="opener">
+<p><placeName key="denha004">Hage</placeName> den <date>19. Jun. 1648</date>.</p>
+<p>Mon frere</p>
+</div>
+<p>Desen schrijf ick alleen uijt last van Papa die wil hebben dat ick je schrijff als dat hij het seer vremt vint en qualyck neemt, dat geen van je beiden<note n="#1"/> eens een woort en schrijft om te weten hoe het met hem is daer je weet dat hij soo qualijck is dat de gansche reis van Borgondien der om achter gebleven is, gelijck ick je in mijn laeste geschreven heb. En in effect hij heeft seer qualijck geweest (nu ietwat beter) en nochtans niet soo sieck als wel <seg org="versust" resp="#AD" type="corr">versuft</seg> soo dat hij gansche halve dagen op sijn elleboogh lach sonder een woort te spreken. Dit heb ick voorleden dinsdach<note n="#2"/> all moeten schrijven, en heb hem wijs gemaeckt dat ick het al gedaen heb en had het nochtans vergeten. Daerom moet je je tot beterschap stellen of hij sou heel quaet werden. Ick gisse wel dat je al eens naer Antwerpen sult geweest hebben. Schrijft eens wat der af is ick salt swijgen. Oom den Admiral<note n="#3"/> met sijn vrouw<note n="#4"/> en Nicht Anne van Dorp<note n="#5"/> sijn voorleden sondach naer Brabant gegaen, ick denck dat se mogelyck te land weerom komen sullen. Adieu.</p>
+<div type="closer">
+<p>Vostre frere et seruiteur <persName key="huyg007">C. Huygens</persName>.</p>
+</div>
+<p>Gisteren waeren wij te Delft daer het kermis is en gingen met ons 34. gelijck eens de Stat inwandelen.</p>
+</div>
+</body>
+</text>
+</TEI>

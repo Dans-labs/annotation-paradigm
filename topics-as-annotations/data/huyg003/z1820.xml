@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1820"/>
+<meta type="date" value="1670-11-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1820">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ay bien receu la faveur de vos deux lettres, l'une du 15. Octobre par la main de Monsieur Morhovius, amateur de la philosophie Experimentelle; l'autre, du dernier Octobre, vn jour devant l'arrivee de Monsieur vostre Pere, que i'estois tres-aise de voir icy, et quantité d'autres personnes auec moy. J'ay mené ce professeur d'Holstein<note n="#1"/> à nostre Assemblee<note n="#2"/>, où il racconta l'experience, qu'il auoit veuë à Amsterdam, d'une certaine maniere de rompre vn verre par la force de la voix humaine, surpassant d'une octave le ton du verre qui se doit rompre<note n="#3"/>. On l'essayera icy à la premiere commodité, quoyque la chose nous vienne si bien attestée, qu'il n'y ait presque point de lieu de doubter de sa verité.</p>
+<p>Vous auez tres bien fait de ne vous auoir pas hazardé a voyager dans cete saison, estant si ieune convalescant, quoyque nous eussions esté ravis de vous voir, si l'estat de vostre santé l'eut permis. Et ie croy, que vos Medecins vous blameront fort de ce que vous feuilletez des traitez, comme ceux de Monsieur Wallis et Monsieur Barrow, qui demandent vne singuliere attention. le premier de ces deux personnes scavantes combat à present à Oxford auec vne sievre quarte, qui le traite rudement, a ce que ie viens d'entendre par sa lettre. Il vous salüe tres affectueusement, et dit, qu'il ne doubte pas, que vous ne vous satisfassiez vous mesme touchant son probleme du Centre de gravité de la Spirale; adjoustant avec cela, que la chose est embarassante, et demande application, et la lecture reiterée.</p>
+<p>On fait astheur imprimer icy les figures de Saturne comme elles ont apparuës a Monsieur Hevelius, et à Monsieur Hook<note n="#4"/>; dont ie vous envoieray vne copie, quand elles seront achevees d'inprimer. Il me souvient bien, que ie vous ay dit cydevant, que nous ne pouuions rien affirmer precisement de la Lunette de 50 pieds pour Saturne, par ce que nous ne l'auions examinée sur ce planete que legerement et à la haste, et dans vn meschant tube; mais non pas, que ie sache, qu'elle n'estoit bonne que pour la Lune<note n="#5"/>.</p>
+<p>Celle-cy viendra accompagnée de la seconde partie des Experiences de Monsieur Boyle touchant la Respiration<note n="#6"/>, qui ne vous desplairont pas, ie croy. Je pense, que Monsieur vostre Pere aura soin de vous envoyer ses autres petits traitez, dont ie fis mention dans ma precedente<note n="#7"/>, comme aussi de quelques echantillons de verre pour des lunettes, qu'on fait icy à Lambeth auec approbation.</p>
+<p>j'ay desia receu deux assez gros pacquets de lettres, pour Monsieur de Monceaux<note n="#8"/>, mais non pas auec l'addresse de Monsieur Grubendol, comme vous la luy auiezdonnée, et comme ie l'eusse souhaitée, mais auec celle de mon nom. Je ne manqueray pas de le servir icy à mon possible, et particulierement de le faire conoistre a Monsieur Wren, qui sera bien aise de l'entretenir sur le sujet de l'Architecture de la Perse etc.</p>
+<p>Je ne scay pas, Monsieur, si vous conoissez vn certain Docteur Leibnitzius<note n="#9"/> à Mayence, qui est conseiller de cet Electeur, mais auec cela se mesle fort de la philosophie, principalement des speculations de la nature et des proprietez du mouuement. Il pretend d'auoir trouué les principes mesmes des regles du mouuement, que les autres dit il, n'ont données que simplement, sans demonstrations <hi rend="i">a priori</hi>. Doubtant fort, si vous auez rien vû de luy sur ce sujet, ie vous feray part de ce qu'il m'a depuis peu envoyé dans vne lettre sur cete matiere ce que ie vous donneray dans ses propres paroles<note n="#10"/>;</p>
+<p>Je ne doubte nullement, Monsieur, que ie ne vous aye lassé aussi bien que moy mesme. Cependant, puisque le sujet est important a toute la physique, et mesme l'autheur semble auoir examiné tout ce qu'on a publié la dessus, i'ay crû, que vous seriez bien aise de voir ses meditations, vû principalement qu'elles divertissent l'esprit plustost que de le gener. Si vostre santé vous le permet de communiquer vos pensees sur le tout, ce pourra estre vne occasion d'esclaircir la matiere d'avantage. Mais ie ne presse rien; ie vous assure seulement, que ie suis du meilleur de mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur
+<lb/><persName key="olde010">H. Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 8 de Novembre 1670.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

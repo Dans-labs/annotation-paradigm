@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1925"/>
+<meta type="date" value="1673-03-02"/>
+<meta type="sender" value="wall037"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="delft001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1925">
+<div type="opener">
+<p><persName key="wall037">Hadrianus van der Wall</persName> <persName key="huyg003">Christiano Hugenio</persName>. S.D.</p>
+</div>
+<p>Post dierum aliquot absentiam commodum mihi Delphos reverso, eadem ipsa hora, Nobiliss. Hugeni, tradebantur in manum litterae, gratissimae quod tuae, gratiores etiam quod bonae nunciae primo in limine significarent vivere te et valere, qui pulchrum opus<note n="#1"/> ad finem jam perduxisses. Cui quoniam hederam nostram, qua tamen haud indiget, appendere omnino visum, eximiae benignitatis fuit, et plane tuae, studio haud vulgari curare, majorique quam vel ego, ut ea tota munda et, quantum pote, compta esset. Eadem humanitate petis instrui, et subministrari tibi arma quibus propugnes nostra atque defendas<note n="#2"/>; quod onus profecto impositum tibi minime velim, cum mage promptum sit et justius literulam unam mutasse, prout eam mutari oportere judicasti<note n="#3"/>. Hoc igitur non in eâ tantum facere malui, sed et circa alia quaedam diligentiam adhibere, uti representata cernes chartâ singulari. Tria verba cedere duobus jussi: quae enim de istis mones, magna mones ratione. Novi planetae, tuusque ille, hactenus <hi rend="i">ἀνόνυμος</hi>, ut Borbonij appellentur Gallicae gloriae quadamtenus interesse jure dici queat. Dilati enim in hoc aevum videntur et servati apud summum planetam, ut fierent munus regi summo; nomenque Borbonium
+immitteretur in possessionem vacuam siderei nominis quod esse voluit antiquitas sijmbolum perennitatis: ac veluti eadem stella terminus est sijstematis et quodammodò mundi nostri, atque sortita inter hebdomadis dies diem qui olim fuit quietis, ita tandem Augustissimus Monarcha post tot victorias suaviter conquiescat, et</p>
+<p>famam terminet astris.</p>
+<p>&nbsp;</p>
+<p>Finio, amicissime Hugeni, in hoc voto, cujus pars aliqua ut ad aures Christianissimae Majestatis referatur non ventis committam, sed prudentiae tuae cum mollia fandi tempora.</p>
+<div type="closer">
+<p>Dabam Delphis Batavorum. 2 Martij, 1673.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Chrestien Huijghens de Zulichem</persName>
+<lb/>A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

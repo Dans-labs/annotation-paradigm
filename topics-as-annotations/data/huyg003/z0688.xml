@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0688"/>
+<meta type="date" value="1659-12-04"/>
+<meta type="sender" value="tacq001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="antwe001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0688">
+<div type="opener">
+<p>Nobilis ac Clarissime Domine.</p>
+</div>
+<p>Guilielmus Hesius<note n="#1"/> Rector Collegij Societatis Jesv Gandaui me rogauit vt has ad te scriptas a se litteras<note n="#2"/> mitterem, quibus tuum tibi Systema nouum Saturnium gratulatur. Et eo quidem officio fungor perlibibenter<note n="#3"/>, quod iucundum mihi sit, et scribere ad te, et viro mihi amicissimo gratificari, quo docente ab annis 26 Philosophiam didici. Quia verò ea demum egregia laus est quae a laudato viro proficiscitur, et is tibi ignotus est, sic habeto, virum esse ingenio planè magno atque omnibus scientijs excellenter instructum, peritum etiam Mathematicae; quamuis illi sese dare per occupationes alias vix vnquam licuit. Orator est è Belgij clarissimis vnus, pari vtrobique eloquentiâ siue maternâ dicat linguâ, siue Latinâ. Haec ego aliquantò liberius de absente et ignaro, quae si a me scripta de se intelligat, nè ille mihi haud leuiter succensebit pro modestiâ suâ. Mihi interim gratissimum est, si te
+quamplurimi et quàm doctissimi laudent. Eadem tibi operâ Cylindricorum et Annularum librum quintum<note n="#4"/> mitto, quem diu pressum nunc visum est luci dare.
+Alterum adiunxi exemplar, quod velim Domino <persName key="scho197">Scotenio</persName> transmittas. Siquid erit, in quo mea vti opera placuerit promptum ad obsequia tua reperies. Vale.</p>
+<div type="closer">
+<p><placeName key="antwe001">Antuerpiae</placeName> <date>4. Decembris 1659</date>.</p>
+<p>Tuus in Domino <persName key="tacq001">And. Tacquet</persName> e Societate Jesv.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

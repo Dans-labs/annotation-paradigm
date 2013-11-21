@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1327"/>
+<meta type="date" value="1665-02-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="auzo011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1327">
+<div type="opener">
+<p><persName key="auzo011">Auzout</persName>.</p>
+<p>le 12 février 1665.</p>
+</div>
+<p>Ne m'avoit pas demandè les copies de sa lettre.<note n="#1"/> je la luy envoie et les autres aussi, tout ce qu'il y a du comete, n'ayant pu trouuer de copiste qui put lire vostre escriture. la comete a asseurement passè par dessus le bec du corbeau, et mon observation est tres certaine. J'ay dit<note n="#2"/> que le chemin du comete continuè retrorsum coupoit l'Ecliptique au 4<hi rend="sup">o</hi>. de ♎. c'est a dire en continuant ce chemin comme si c'estoit un grand cercle dont il differe peu.</p>
+<p>Je ne m'estonne pas que le Jesuite de Bordeaux<note n="#3"/> soit tombè<note n="#4"/> dans la mesme hypothese de la ligne droite puis qu'elle est dans le traitè de <persName key="kepl901">Kepler</persName> de Cometis<note n="#5"/> qui donne la methode.</p>
+<p>point priè de ne comuniquer a personne vos pensees.</p>
+<p>de trouuer la trajectoria recta de la comete en appliquant la regle sur les lignes qu'il appelle visorias, et il tache aussi de la poser tellement que le mouuement de la comete soit tousjours egal, mais quand il ne le peut trouuer il prend par contrainte le mouvement accelerè ou retardè, au lieu du quel et mieux a mon avis l'on pourroit courber un peu le chemin de la comete pour satisfaire aux lieux observez. J'attens aussi des observations exactes, et l'on<note n="#6"/> m'en a promis de Leyden il y a long
+temps. mes pensees a Thevenot<note n="#7"/>. Succes des pendules<note n="#8"/> a Mon Pere et Monsieur Chapelain.</p>
+<p>Il y a long temps que j'ay mandè la retractation du Pere Fabri<note n="#9"/>. derniere observation du Comete. en..</p>
+</div>
+</body>
+</text>
+</TEI>

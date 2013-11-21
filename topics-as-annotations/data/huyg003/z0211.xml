@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0211"/>
+<meta type="date" value="1654-12-26"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0211">
+<div type="opener">
+<p>Perillustri, Generosissimo Clarissimoque Domino <persName key="huyg003">Christiano Hugenio</persName>. <persName key="kinn013">Godefridus Aloysius Kinner</persName> Salutem et Felicitatem.</p>
+</div>
+<p>Nolim ita te praeteritas<note n="#1"/> accepisse, quasi per easdem veteri scientiae astronomicae dignitati voluerim vel in aliquo derogatum, praestantissime Hugeni. Averruncent â me superi calumniam illam. Quid enim vita civilis sine ordine ac revolutione temporum, sine scientia Solaris periodi, caeterorumque Planetarum, quae omnia astronomiâ docente didicimus? Accedit incredibilis animi voluptas in accurati systematis fabrica, aut rerum coelestium oculo nudo nequaquam apparentium per Telescopia contemplatione. Ego certè ex quo primum tubo lustravi Jovialium erronum gyros et variatas in dies vicissitudines, Lunarisque disci quoad macularum phases diversitatem, falcatam Venerem, et alia phoenomena contemplatus sum, non mediocri me voluptate delibutum scio. Nonigitur Ecclipseos nuperrimae observationem haud usque
+adeo Astronomicis praedictionibus concordem in astronomicae scientiae contemptum ad te miseram, sed ut constaret nondum eam artem ad optatam perfectionem devenisse. Astrologicae autem vanitati semper, fateor, infensus fui; neque eidem existimo apud hominem veri amantem locum esse posse. Misit tandem ad me diebus istis Reverendus Pater Theodorus Moretus Geometra insignis â Reverendo Patre Gregorio â Sancto Vincentio ad se transmissum ingeniosum tuum libellum, in quo laudando totus est; atque idcirco fortasle tardius eundem ego conspexi, quia non ante volebat ad me pervenire, quàm ex eodem solidam prius ipse voluptatem cepisset: summè eidem placuit sectio sphaerae in data ratione revocata ad dati arcûs tripartitionem. Certè in libello mole non magno multa observavi pulchra, ut iniuriam facerem singulis, nisi in eodem universa laudarem. Gratulor autem tibi egregiam in rebus Geometricis seu facilitatem seu felicitatem, et pro dono transmisso Tibi quàm possum maximas gratias ago: erit illud animi in me Tui tessera, quàm diu vivam. Plura in tui Theorematumve tuorum laudem non addo, nè existimes me plus amicitiae nostrae, quam veritati tribuisse.
+Judicio tuo de opusculis Domini Domini <persName key="marc901">Marci</persName> subscriberem fortassis et ipse, nisi reverentia in illum mea iuberet esse contentum dixisse, mihi arcanos eiusdem sensus per ingenij tenuitatem non satis patere. Expectabimus igitur â te de impulsuum impulsorumque natura deinceps certiora.
+<figure><graphic url="huyg003oeuv01ill130.gif"></graphic></figure>
+Ego de motu et ipse quaedam speculanda pridem aggressus sum, quae hactenus intermisi, quia altius rem â principiis video repetendam, ut celerem rei expeditionem mihi polliceri non ausim. Nolo apud Geometram literas meas sine linea comparere, ideoque non antè illam finiero, priusquam duo theoremata ad anguli sive arcûs tripartitionem spectantia subiunxero.</p>
+<p>Sit arcus ABC quicunque, subtensa AC producta extra circulum utcunque, è cuius puncto A erecta sit perpendicularis AD: Ducatur DE circulum contingens in B, perpendicularem verò BD<note n="#2"/> et productam AC, secans in D, E, ut BD, BE aequentur. Dico arcum BC totius ABC trientem esse.</p>
+<p>Alterum.</p>
+<p>Sit angulus trisecandus ABC cui subtendatur AC, constituatur super AC triangulum ADC, habens angulum ADC basi AC oppositum aequalem dato<note n="#3"/>, demissâque perpendiculari DE ex D in basin AC, sint duae EC, CD simul aequales ipsi AE. Dico angulum DBC esse tertiam partem totius ABC.</p>
+<div type="closer">
+<p>Vale Nobilissime Hugeni, et me amare porrò perge.</p>
+<p>Dabam <placeName key="praag001">Pragae</placeName> <date>26 Decembris 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Perillustri Nobilissimoque Domino <persName key="huyg003">Christiano Hugenio</persName> etc.
+<lb/>Domino mihi colendissimo observandissimoque
+<lb/>Hagam-Comitis.
+<lb/>S'Graven-Haage.</p>
+</div>
+</body>
+</text>
+</TEI>

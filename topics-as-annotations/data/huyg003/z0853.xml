@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0853"/>
+<meta type="date" value="1661-04-09"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0853">
+<div type="opener">
+<p>A <placeName key="gdans001">Dantzigt</placeName> le <date>9. Auril 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je me donneray l'honneur de vous escrire la presente, croyant que vous estes de retour a la Haye, Ce sera pour vous donner aduis que j'arrivay en cette ville
+le 15. du passé, &amp; que j'y suis encores a present logé chez Monsieur <persName key="heve011">Heuelius</persName>, qui a voulu que je demeurasse dans sa maison. Le peu de papier dans lequel je vous escris la presente, ne me donne pas le moyen de vous faire vne description de la valeur &amp; du merite de ce personnage, de son jndustrie &amp; de son esprit. Tout ce que je peux vous dire c'est que j'ay trouué auec luy cent fois plus que je n'auois pensé. &amp; de plus pour la societé c'est l'homme du monde le plus commode l'humeur la plus moderee &amp; egale qui se puisse voir. Je peux aussi vous asseurer quil a pour vous toute l'estime jmaginable, &amp; quil scait que vous n'estez pas du commun &amp; que vous excellez dans les choses que vous traictez.
+Vous deuez, Monsieur, pour vostre satisfaction vne visite a ce grand personnage, &amp; je vous supplie de croire que vous aurez vn singulier plaisir de le voir, &amp; les superbes &amp; magnifiques jnstrumens qu'il a, qui surpassent en exactitude ceux de Tycho; &amp; l'jndustrie &amp; assiduité auec lesquelles il obserue ne sont pas jmaginables. Si vos affaires vous permettent de venir icy l'esté prochain je seray de retour de Warsauie en cette ville le mois de Juillet qui vient, &amp; j'auray l'honneur de vous tenir compagnie au retour. Le 30e du passé nous obseruasmes icy tres exactement l'Eclipse de Soleil<note n="#1"/>, je consideray attentiuement la diligence &amp; la dexterité auec laquelle Monsieur <persName key="heve011">Heuelius</persName> faict de telles obseruations; lesquelles il fera encores plus exactement a l'aduenir par le moyen d'vne machine qu'il fera bien tost fabriquer. Vous m'obligerez si vous me communiquez ce que l'on aura obserué en Hollande &amp; particulierement ce que vous aurez en vostre particulier. Je vous supplie treshumblement si vous voyez Messieurs Golius &amp; Hudde comme aussi
+Messieurs Vossius &amp; Gronouius de les asseurer de mon treshumble seruice. Je vous supplie aussi de trouuer bon que je rende icy mes treshumbles respects a Monsieur vostre Pere, &amp; faictes moy la grace de croire que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>Monsieur <persName key="heve011">Hevelius</persName> me charge de vous saluer de sa part, &amp; de vous conuier de venir icy.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

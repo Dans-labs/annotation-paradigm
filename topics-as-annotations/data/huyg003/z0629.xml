@@ -1,0 +1,44 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0629"/>
+<meta type="date" value="1659"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0629">
+<p>In Saturni Systema.</p>
+<lg type="poem">
+<l>Omnia qui magni dispexit sidera Mundi,</l>
+<l rend="; 1tab">Viderat haec oculo debiliore Conon<note n="#1"/></l>
+<l>Attigit illa Conon miris adjutus ab alis,</l>
+<l rend="; 1tab">Attigit, &amp; visu nobiliore, meus.</l>
+<l>Perque vias Lunae, per, qua Cyllenius errat,</l>
+<l rend="; 1tab">Volvitur &amp; Veneri Martia flamma comes;</l>
+<l>Quique nitet famulos inter tot Iupiter ignes;</l>
+<l rend="; 1tab">Lumina falcigeri misit ad astra Dei:</l>
+<l>Et didicit vario quare mutabilis ore,</l>
+<l rend="; 1tab">Ludat in obscurâ mobilitate Senex:</l>
+<l>Quod frontem diadema premat, quo Circulus illi</l>
+<l rend="; 1tab">Aureus infaustum cingat honore caput:</l>
+<l>Quae noctes ibi Luna regat, quaeque, aemula nostrae,</l>
+<l rend="; 1tab">Expleat amissum Cynthia luce diem.</l>
+<l>Nec satis haec vidisse sibi miracula, testes</l>
+<l rend="; 1tab">Convocat, &amp; visis quaerit ubique novis.</l>
+<l>Noluit haec nostros fugerent arcana nepotes,</l>
+<l rend="; 1tab">Ignaros coeli nec sinit esse sui.</l>
+<l>Ampla satis Iuveni est, ut debita, gloria merces,</l>
+<l rend="; 1tab">Vocibus innumeris quam sua fama sonet;</l>
+<l>Gloria, sideribus quam convenit esse coaevam,</l>
+<l rend="; 1tab">Et tantum Coelo commoriente mori.</l>
+<l>&nbsp;</l>
+<l rend="; 2tab"><persName key="huyg007">Const. Hvgenivs C.F.</persName></l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

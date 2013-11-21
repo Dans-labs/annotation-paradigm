@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0133"/>
+<meta type="date" value="1652-11-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="tacq001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0133">
+<div type="opener">
+<p><persName key="tacq001">A. Tacquet</persName>.</p>
+</div>
+<p>Misit ad me Dominus <persName>Segherus</persName> exemplaria tria Propositionum tuarum Vir Clarissime doctarum herculè et dignarum ea magnificentia qua sunt expressa. quae Ego e vestigio distribui sicut fuerat imperatum. atque ecce à Schotenio nostro responsum. quod modò huc allatum est. nolui autem hoc incomitatum hinc ad te deferri, sed simul et pro munere tuo debitas gratias agendas censui et excusandam tenuitatem mei, quod dudum ad te eodem internuncio pervenit, neque merebatur ut tanto post tempore adhuc ejus meminisses. Rescivi equidem ex ijs, quae tunc ad Patrem Segherum rescripsisti<note n="#2"/>, non te piguisse tempus impendere quo pagellas meas percurreres; quale autem de ijs judicium tuum fuerit non penitus cognovi, nisi quod bonam quodammodo spem de autore concepisse testabaris, cui utinam quandoque respondeat. Non multi mihi posteriorem libelli partem examinare videntur, quos inter si Tu fueris Vir Clarissime lubens quodcunque statueris audiam. De Gotschovio aliunde comperi, quod <hi rend="i"><seg org="εζετασιν" resp="#AD" type="corr">εξετασιν</seg></hi> meam Quadraturae Gregorianae approbavit. Atque eo fine has literas<note n="#3"/> ad eum dedi, ut quae ab alijs accepi ipse mihi confirmet. Menses aliquot effluxere cum Patri Gregorio coram adfui, et multa sane disputavimus. inter quae vacillabat ad pleraque vir optimus, atque interdum non se sed discipulos totum opus contexuisse causabatur, aliquando in priori quidem quadratura errorem confiteri videbatur sed ut in reliquis spem haberet. Quantum autem ex verbis ipsius conjicere licebat sera erit expectatio responsi. et si denique prodeat, cujus sit futurum momenti, quivis puto vaticinari potest qui argumenta mea expenderit. Vale.</p>
+<div type="closer">
+<p><date>4 Nov. 1652</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

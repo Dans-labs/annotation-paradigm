@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2546"/>
+<meta type="date" value="1689-09-09"/>
+<meta type="sender" value="amste001vere01"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2546">
+<div type="opener">
+<p>Wel Edele Heer</p>
+</div>
+<p>Ingevolge d'affspraecke met d'Hr. <persName key="bloc029">van de Blocquerij</persName><note n="#1"/> genomen, gaen hier inne gesloten de originele Kaerten en Copia van de schristuure<note n="#2"/> bij VW. WelEd: opgestelt, raeckende 't geobserveerde met de bekende horologies, mitsgaders de Copia rescriptie en gedaghten van de Heer Proffr. <persName key="vold004">de Volde</persName><note n="#3"/>, over den inhoud van dien, en staet Vw. WelEd: dese nevens de horologies door Mons. <persName>de Graeff</persName> overhandight te worden die wij ten dien eijnde daer toe affgesonden hebben, willende vertrouwen dat hij genoeghsaeme informatie sal konnen geven op het geene vorder vereyscht sal zijn, om nogh naerder en perfecter instructie tot d'observatie der te verbeterende horologies op te stellen, die wij te zijnder tijdt met veel verlangen te gemoet sullen zien, omme des te eerder de naerder preuve te konnen nemen, blijven onderwijlen met respect</p>
+<div type="closer">
+<p>Wel edele Heer
+<lb/>Vw wel Ed. Ootmoedige Dienaren
+<lb/>De Bewinthebberen van de Oostind. Comp<hi rend="sup">ie</hi> ter Camer Amsterdam en uyt deselve
+<lb/><persName>Henr. Dequer</persName>
+<lb/><persName>A. Bernard</persName>.</p>
+<p>In <placeName key="amste001">Amsterdam</placeName> den 9 Septb. 1689.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

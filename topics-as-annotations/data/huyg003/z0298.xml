@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0298"/>
+<meta type="date" value="1656-06-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0298">
+<div type="opener">
+<p>Clarissimo viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Quod de folio isthic edito scribis cum titulo <hi rend="i">Specilla</hi> Circularia<note n="#1"/> miror quid sit. Meum certè non est, nam cur sine nomine proposuissem curve te inscio? Itaque te rogo atque obsecro ut si quod ejus exemplar nancisci possis confestim mihi mittas, si opus sit remissurus. Et scito non minus ad me pertinere quam ad Wallisium quae de specillis prodeunt, qui mihi nunc aemulus est telescopiorum causa et ob novi planetae repertum, quod suis si possit Anglis arrogare conatur. Ad ultimas meas nondum respondit neque de Quadratura libelli quos promiserat adhuc perlati sunt<note n="#2"/>, quod utrumque mihi permolestum est. De aleae ratiocinijs quae misi aequum est ut non
+ante aggrediaris quam tua absolveris. Quaestionem in ijs ultimam<note n="#3"/> quam non explicui, in Galliam ad Milonium miseram, qui nihil ad rem respondit. Ipse vero porro Fermatio proponendum curavit per Dominum <persName key="carc010">de Carcavy</persName>. Hunc an aliter quam de nomine noveris ex te scire velim et an aliquid memoratu dignum ab ipso profectum videris. Hoc enim acceptior mihi futura est ipsius amicitia, quam humanissimis literis obtulit. Etsi vel eo nomine expetenda esset quod mihi cum Fermatio commercium nectere promittat. Vale.</p>
+<p>Epistolam tuam heri meae inclusam ad Milonium misi.</p>
+<div type="closer">
+<p><date>2 Jun. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName>
+<lb/>Professor der Mathematycken inde Universiteyt
+<lb/>Tot Leiden.
+<lb/>Heeresteeg.</p>
+</div>
+</body>
+</text>
+</TEI>

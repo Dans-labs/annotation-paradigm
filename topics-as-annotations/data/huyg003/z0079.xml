@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0079"/>
+<meta type="date" value="1650-03-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0079">
+<div type="opener">
+<p><placeName key="denha004">Haye</placeName> ce <date>29 mars 1650</date>.</p>
+<p>Mon Frere</p>
+</div>
+<p>J'aij vû une lettre de M. <persName key="scho197">Schoten</persName> a Mon Pere sur le subject de vos vers, que vous avez fait a sa priere, sur l'effigie de M. <persName key="desc004">des Cartes</persName><note n="#1"/> qu'il va faire imprimer a cette heure que ce grand personnage est mort<note n="#2"/>, il semble qu'il a consulté quelquesuns
+qui ij ont trouvé a redire et l'ont voulu corriger en quelques endroits, mais mon Pere n'approuve pas leur corrections, que seulement en ce qu'au dernier vers, <hi rend="i">Omnia ut aspiciant quod saecula nulla tacebunt</hi>, ils ont substitué (<hi rend="i">quem</hi>) au lieu de (<hi rend="i">quod.</hi>) L'on ij mettra vostre nom avecq un J à fin. Mon pere a fait quantité de vers sur la mort du dit <persName key="desc004">des Cartes</persName>, que peut estre il vous envoije; ceux que j'aij enfermé icij dedans sont les miens<note n="#3"/>, que je vous envoije pour toute nouvelle, et demeure</p>
+<div type="closer">
+<p>Vostre tresaffectioné frere et serviteur <persName key="huyg003">Chr. Huijgens</persName>.</p>
+</div>
+<p>En me hastant a depescher cellecij j'aij par mesgarde pris le pot à encre en voulant mettre du sable sur mon escriture, c'est pourquoij cette lettre icij a fort mauvaise mine.</p>
+</div>
+</body>
+</text>
+</TEI>

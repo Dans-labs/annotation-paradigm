@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1605"/>
+<meta type="date" value="1667-10-08"/>
+<meta type="sender" value="greg020"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="padua901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1605">
+<div type="opener">
+<p>Patavii 28 Septembris 1667.</p>
+<p>Illustrissime et nobilissime Domine mihi semper plurimum colende.</p>
+</div>
+<p>Sperabam te vidisse Parisiis<note n="#1"/> et literas<note n="#2"/> ab illustrissimo equite Domino Roberto Murray tibi manu mea tradidisse, sed fortuna votis meis non arrisit, licet saepius aedes tuas frequentaverim ut te virum generis claritate et virtutis splendore celeberrimum noscerem et colerem, quo sane nihil mihi optabilius fuit; utcunque sit, quos nunquam vidimus, diligimus et colimus, me enim (qua omnes, fruuntur virtutis tuae et ingenii sublimitate) allicis et obstringis. cum literis Illustrissimi equitis, domesticis tuis tradidi opticam meam promotam<note n="#3"/>, quam novi pro humanitate tua serenâ fronte accepisse: hac spe fretus mitto denuo alium ingenioli mei partum<note n="#4"/>, quem obnixè peto, suscipias et purissimo, persectissimoque judicio tuo ponderes, mihique censuram tuam remittas, quam imprimis exspecto et vehementer a te peto; novi enim ego quam pulchrè et ingeniosè Gregorii a Sancto Vincentio magnum molle opus in hac eadem materia refutaveris<note n="#5"/>, et quam acutè de hoc eodem argumento tu ipse scripseris<note n="#6"/>; quamobrem spes una mihi refulgit per te posse me intelligere, quid in hoc opusculo boni probique sit, literas tuas placeat rescribere mihi Patavium in aedibus Domini Jacobi Cadenedi<note n="#7"/> philosophiae professoris ordinarii. Vale et tibi et sapientiae incremento diu felix vive.</p>
+<div type="closer">
+<p>Tui observantissimus cultor <persName key="greg020">J. Gregorius</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Illustrissimo et Nobilissimo Domino Domino <persName key="huyg003">Cristiano Hugenio a Zulichem</persName> nobili Hollando Haguae comitum.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2597"/>
+<meta type="date" value="1690-06-29"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2597">
+<p>Il y a desja quelque tems, Monsieur, que je vous ay mandé que j'auois receu vostre lettre et que je serois fort ayse de voir vos remarques et comme je n'ay point receu de reponce cela me fait craindre que ma lettre n'ait été perduë je vous y marquois que ce qui m'auoit donné lieu de faire ce petit escrit etoit que Mr. <persName key="bern071">Bernoully</persName> en voulant repondre aux objections de Mr. <persName key="cata001">l'Abbé Catelan</persName> trouoit aussy par son principe qui est tres veritable mais mal appliqué que vostre hypothese etoit fausse et comme personne n'y a répondu je croyois que vous ne seriez pas faché qu'on le fit voir qu'en examinant la chose du coté de la physique on tomboit aussy dans la regle que vous donnez pour trouuer le centre d'oscillation du pendule composé puis qu'à mon sens dans ces sortes de matiere on ne peut donner trop de preuues de la mesme verité ce qui paroist clair aux vns faisant quelque peine aux autres au reste Monsieur vostre jugement sera pour moy vn arrest dont je n'appelleray point. Vostre traitté de la lumiere n'est point encore jcy et je vous avouë que j'ay vne fort grande jmpatience de le voir et de l'admirer puisque c'est le sort de tous vos ouurages. Je suis auec vne estime tres particuliere</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="hosp010">Le Marquis de l'Hospital</persName>.</p>
+<p>A <placeName key="parij001">Paris</placeName> ce 29 juin 1690.</p>
+</div>
+<p>mon addresse est ruë neuue des bons enfans proche la place des Victoires chez Mr Le Comte <persName>de Ste. Mesme</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

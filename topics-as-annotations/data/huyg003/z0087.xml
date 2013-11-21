@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0087"/>
+<meta type="date" value="1650-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0087">
+<p>Quidquid sane dicatur meminisse utique oportet ex lineis superficiem non componi, neque solidum ex superficiebus. desiderarem equidem ut verbis comprehenderet ac determinaret istud suum et Cavallerij principium, nam ita mihi nunc vagum videtur atque exorbitans ut etiam falsa pro veris tandem irruptura sint, non sine magno Geometriae detrimento, et ne videar haec frustra metuere, non pigebit rem comprobare exemplo. Habet Toricellus<note n="#2"/> demonstrationem Theorematis Archimedei, quam absolvit tali <seg org="sigura" resp="#AD" type="corr">figura</seg>, qualem hic ex ipsius libro petitam apposui<note n="#3"/>.</p>
+<p><figure><graphic url="huyg003oeuv01ill72.gif"></graphic></figure></p>
+<p>Tangens <formula>BC</formula> aequalis est peripheriae circuli <formula>BD</formula>, unde et tangens <formula>IL</formula> aequalis peripheriae circuli <formula>OI</formula>. atque hac ratione (ut nosti) ostendit circulum <formula>DB</formula>, aequalem triangulo rectangulo <formula>ABC</formula>.</p>
+<p>Si huic demonstrationi acquiescis vide num et huic credendum sit quam jam subjungam.</p>
+<p>Esto semicirculus <formula>ABC</formula> et super eadem basi <formula>AC</formula>. triangulum isoscheles <formula>ADC</formula> habens crura duo <formula>AD</formula>, <formula>DC</formula>, simul aequalia peripheriae <formula>ABC</formula>. Porro sit eodem centro descriptus minor circulus <formula>HFI</formula>, et base <formula>HI</formula> triangulum <formula>HGI</formula> priori
+<figure><graphic url="huyg003oeuv01ill73.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv01ill74.gif"></graphic></figure>
+simile. manifestum igitur, crura <formula>HG</formula>, et <formula>GI</formula> aequalia fore peripheriae <formula>HFI</formula>; idemque contingere, ubicunque etiam descriptus fuerit semicirculus.</p>
+</div>
+</body>
+</text>
+</TEI>

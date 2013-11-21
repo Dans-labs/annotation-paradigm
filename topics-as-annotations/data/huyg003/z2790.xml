@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2790"/>
+<meta type="date" value="1693-02-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="bayl001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="rotte002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2790">
+<div type="opener">
+<p>a Mr. <persName key="bayl001">Bayle</persName> a Rotterdam 26 fev. 93.</p>
+</div>
+<p>Mon neveu Huygens<note n="#1"/> m'envoya Monsieur ces jours passez le billet, dans lequel vous le priez de vous faire avoir quelque memoire touchant la vie et les escrits de mon Pere, a qui vous vouliez faire l'honneur d'en faire mention dans vostre Dictionaire Critique<note n="#2"/>. Vous ne pouvez pas douter que je ne prenne tres volontiers ce soin, si vous continuez dans le mesme dessein apres avoir considerè ce que je vay dire, c'est que Mr. <persName>le Clerc</persName><note n="#3"/>, par Mr. <persName>Moetjens</persName> le libraire, m'a fait demander un pareil memoire,
+pour faire entrer mon Pere dans le Dictionaire de Moreri<note n="#4"/> dont il a entrepris une nouvelle Edition, et ou il doit parler de plusieurs
+personnes de marque de notre pays ce qui m'a fait penser s'il ne sembleroit pas qu'il y eust de l'affectation et de la superfluitè lors qu'on verroit a peu pres les mesmes choses touchant cette vie paroistre en mesme temps dans ces deux dictionaires. J'avois songè apres cela si en reprenant les fautes de Mr. <persName>Baillet</persName> dans sa vie de Mr. <persName key="desc004">Des Cartes</persName>, ou il me confond perpetuellement avec mon pere, et me fait Curateur de l'Academie de Breda lors que j'y estudiay et que je n'avois que 17 ans, si disje a l'occasion de cette critique, vous ne pourriez pas raporter quelques particularitez de sa vie. Mais voila Mr. <persName>Baillet</persName> luy mesme qui par Mr. <persName key="basn002">de Beauval</persName> m'a priè que je luy fisse un memoire des fautes qu'on luy avoit dit que j'avois trouvè dans son ouvrage<note n="#5"/>; dans l'intention, comme il semble de les redresser dans quelque nouvelle edition ou autrement, et d'echaper peut estre par la a vostre censure. En quoy m'estant trouvè obligè de le satisfaire c'est a vous Mr. à juger, s'il ne vous oste pas, par cette diligence tout sujet de rien dire a son desavantage, dans l'endroit ou vous parleriez de mon Pere et qu'ainsi cet article ne pourroit pas avoir ce pretexte<note n="#6"/>. S'il vous plaist de me mander vostre sentiment sur ces raisons de douter, j'y souscriray volontiers et feray tout ce que vous souhaiterez estant entierement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

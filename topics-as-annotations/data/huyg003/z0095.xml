@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0095"/>
+<meta type="date" value="1651-09-20"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0095">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>Ick sende VE met desen weder UE tractaet<note n="#1"/>, naer dat ick het selue wel hebbe doorlesen. bevalt mij uijttermaeten wel, jae sodanig, dattet (myns oordeels) wegens
+de subtijlheyt der vonden, kortheyt en claerheyt der demonstratien, als mede netheijt des stijls, wel tegens eenig werck in de Geometrie mach gestelt worden, ende met Archimedes wercken self wel mach werden vergeleecken. Wenste dat VEdl. het metten eersten in t' licht liet komen, om daer mede een ijder te betoonen, datter tot noch geen nader weghen tot deselue quadraturen en syn gevonden, ende dat VE de eerste van allen die van de Hyperbole, aengesien die van Pater Vincentius gemist is, hebt betoont. Kont het selue tractaet voor VE andre dingen, als een voorlooper, laten uijtgaen, ende overmidts het cort is, met een grootachtige letter in kleen formaet, als in 8vo., doen drucken: nademael daer aen niet meer te doen is, en de figueren curieus syn geteickent, ende haer in sodanig formaet seer wel sullen schicken. In t' doorlesen hebbe weijnig gevonden om verandert te worden, ten sy hier of daer een woort uijt te laten, by te doen, ofte te veranderen, waer door den sin mij klaerder gescheenen heeft. Het welcke ick dan overal met potloot hebbe aengeweesen. Ick verlang seer oft VEdl dat extractien<note n="#2"/> al hebt bekomen, wenste dat VE het gekregen hebbende t'selue dadelyck in handen van den Advocaet Walbeeck<note n="#3"/> geliefde te stellen, woont op de Pavillioene gracht, aldernaest den Predicant Stermond<note n="#4"/>. In t'welck doende VEdl mij sonderlinge sal verobligeeren, verblijvende die ick ben</p>
+<div type="closer">
+<p>Mijn Heer,
+<lb/>VE dienstwilligen en geaffectioneerden dienaer
+<lb/><persName key="scho197">Fr. van Schooten</persName>.</p>
+<p>Uyt <placeName key="leide001">Leyden</placeName> den <date>20 Septemb. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlichem</persName>
+<lb/>In S'Graven-Hage op t'pleyn.
+<lb/>port
+<lb/>met een kleen roleken geteeckent
+<figure rend="inline"><graphic url="huyg003oeuv01fi07.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

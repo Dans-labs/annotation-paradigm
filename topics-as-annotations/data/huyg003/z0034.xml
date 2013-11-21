@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0034"/>
+<meta type="date" value="1647-04-13"/>
+<meta type="sender" value="daub002"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0034">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Puis que Monsieur vostre fils s'en va durant ces vacations se deslasser et reculer un pas pour mieux sauter, j'ay creu le devoir accompagner de ces lignes pour rendre tesmoignage à la verité de ses comportemens, et vous dire Monsieur que depuis mes dernieres par lesquelles je vous assuray de sa diligence et de sa bonne conduite il a tousjours continué de mesme, rendu de jour en jour de plus grandes preuves de son bon esprit et des excellentes parties dont il est favorisé de la nature,
+et profité extremement en droit pour le temps qu'il y a estudié, de sorte que l'esperance y est toute entiere qu'il se rendra treshabile homme, Vous baisant treshumblement les mains je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="daub002">Dauber</persName>.</p>
+<p>A <placeName key="breda001">Breda</placeName> ce <date>13 Avril 1647</date>.</p>
+</div>
+<p>Avec vostre permission Monsieur <persName key="wilh013">de Willem</persName><note n="#1"/> et Madame sa compagne<note n="#2"/> trouveront icy mes treshumbles baisemains.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huygens</persName> Chevalier, Seigneur de Zülichem, etc. Conseiller et Secretaire d'Estat de Son Altesse et Curateur de l'Escole Jllustre d'orange.
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

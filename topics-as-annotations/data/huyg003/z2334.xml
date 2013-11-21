@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2334"/>
+<meta type="date" value="1684-05-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="tell018"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2334">
+<div type="opener">
+<p>A Monseigneur <persName>de Louvois</persName>.</p>
+<p>18 May 1684.</p>
+<p>Monseigneur</p>
+</div>
+<p>Je scay bien que ce n'est guere le temps maintenant de vous adresser des choses de cette sorte. Toute fois, je croirois manquer a mon devoir, si je ne vous presentois cet escrit<note n="#1"/> que je viens de publier touchant une maniere nouvelle et beaucoup recherchée de se servir des grands telescopes sans l'aide des tuyaux, qui dans les longueurs extraordinaires devenoient entierement intraitables. Je pense que cette invention sera d'autant mieux receue par les curieux en France<note n="#2"/> que
+j'ay sceu par des lettres de Mr. <persName key="cass021">Cassini</persName><note n="#3"/> qu'il est venu depuis peu de Rome, des verres excellents pour le Roy, jusques pour des lunettes de 140 pieds, dont il seroit tres difficile de tirer aucun usage sans cette nouvelle methode que je pratique tous les jours avec beaucoup de succes et de commodité et qui pourra nous aider a faire dans le ciel des nouvelles decouvertes. Que si je puis estre si heureux, Monseigneur, que par vostre moyen, dans quelque moment favorable, sa Majesté viene a avoir connoissance de cette production je le reputeray comme un grand avantage et comme un tesmoignage signalè de vostre bontè a la quelle me recommandant et attendant toujours l'honneur de vos ordres<note n="#4"/> je suis avec beaucoup de soumission et de respect</p>
+<div type="closer">
+<p>Monseigneur
+<lb/>Vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0607"/>
+<meta type="date" value="1659-04-09"/>
+<meta type="sender" value="witt001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0607">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>D' heer Professor <persName key="scho197">Schoten</persName> verstaen hebbende dat VEd: de goedtheijdt gehadt heeft van op sich te nemen<note n="#1"/> het opgestelde de locis planis solidisque te oversien, en te verbeteren, heeft mij toegesonden de figuren daer toe behoorende, op dat deselve int' oversien vant' voorszegde werck, in cas, ende voor soo veel VEd: daerinne noch ijets naer te sien staet, mede met opmerckinge gevisiteert, ende de faulten daerinne bevonden werden naer behooren geredresseert mogen werden: Ten welcken eijnde dat de voorszegde figuren hier nevens gaen, die ick ter eerster gelegentheijdt met VEd: remarques opt' voorszegde opgestelde wederom sal te gemoedt sien;</p>
+<p>Verblijvende</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>VEdelheijts oodtmoedige dienaer <persName key="witt001">Johan de Witt</persName>. <date>1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Heer <persName key="huyg003">Christiaen Huijgens</persName>.
+<lb/>Haeg den <date>9<hi rend="sup">en</hi> Aprilis 1659</date>.</p>
+</div>
+</body>
+</text>
+</TEI>

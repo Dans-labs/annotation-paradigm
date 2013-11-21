@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0564"/>
+<meta type="date" value="1659-01-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0564">
+<div type="opener">
+<p>14 Jan. dingsd.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+</div>
+<p>Weynich te voren het blaetie<note n="#1"/> ontfangen; en noch meer<note n="#2"/> historia<note n="#3"/> en noch een. wanneer gedruckt. daer hij en ick in genoemt<note n="#4"/>. Naemen verkeert<note n="#5"/>. waerom hij 't my niet doen weten. Wrens problema<note n="#6"/> kan hem exciteren. felix inventum
+<div type="comment">
+<head rend="h4">Voici la traduction de ce sommaire hollandais</head>
+<p>Reçu la feuille<note n="#7"/> il y a peu de temps; et encore plus<note n="#8"/> Historia<note n="#9"/> et encore une. Quand imprimé. Lui et moi y sommes nommés<note n="#10"/>. Noms fautifs<note n="#11"/>. Pourquoi ne me l'a-t-il pas fait savoir. Le problème de <persName key="wren002">Wren</persName><note n="#12"/> peut l'exciter. Felix inventum caeteris omnibus melius. Moi j'avais la démonstration tout de suite, et l'autre problème. Il y en a encore un autre du solidum circa axem. Mon théorème de la Parabole. Que je le fais connaître partout.</p>
+<p>Suis heureux d'apprendre ce que j'ai à espérer dans son ouvrage<note n="#13"/>, et le désire maintenant d'autant plus. Nous serons tous obligés envers van Gutschoven.</p>
+<p>Comment sans analyse est étonnant.</p>
+<p>Bullialdi Spiralia<note n="#14"/> etc.</p>
+</div>
+caeteris omnibus melius. Ick de demonstratie datelyck en het ander problema. voorts isser noch een in van 't solidum circa axem. mijn Theorema van de Parabola. dat ick 't overal bekent maeck.</p>
+<p>Ben blij te verstaen wat ick in sijn werck<note n="#15"/> heb te verwachten, en verlangh nu soo veel te meer. Gutschoven sullen wij altemael geobligeert sijn.</p>
+<p>hoe sonder analysis is wonder.</p>
+<p>Bullialdi spiralia<note n="#16"/>, quasi ipse judicare nequeas, puto mecum senties.</p>
+</div>
+</body>
+</text>
+</TEI>

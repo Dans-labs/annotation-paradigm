@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2889"/>
+<meta type="date" value="1695-02-21"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2889">
+<p>Je n'ay receu qu'a mon arrivée à paris Monsieur vôtre lettre du 27<hi rend="sup">e</hi> janvier et comme il n'y a que peu de jours ayant été longtemps en chemin je n'ai pû vous
+faire reponse plûtost. Je prens toute la part possible à vôtre incommodité et je souhaiterois bien que cela ne retardast point l'impression de vos excellens ouvrages. Ne ferez vous point paroître vôtre pendule? qui ne craint point les secousses de la mer<note n="#4"/>, il me sémble que cette invention meriteroit bien d'être publiée.</p>
+<p>Je ne doute pas qu'autrefois Mr Bernoulli le medecin n'eust accepté la proposition que vous me faites pour lui, mais a present qu'il est etabli à Basle s'y estant marié et s'etant fait passer docteur en medecine je ne scais s'il voudra prendre ce parti<note n="#5"/>. Il me sera cependant tres facile de vous eclaircir la-dessus car je n'ai qu'à le lui mander<note n="#6"/> et tans commettre en aucune sorte Mrs. les Curateurs je saurai positivement dans quel dessein il est: mais auparavant je crois qu'il seroit a propos que vous me fissiez sçavoir ce que vaut cette chaire de mathematique afin qu'il puisse prendre la-dessus de justes mesures ainsi j'attendrai vôtre reponse avant de rien faire.</p>
+<p>Je serois bien aise que vôtre derniere reponse parût<note n="#7"/> car Mr Renaud trouve toujours ici des partisans, et meme Mr Bernoulli le medecin m'a mandé qu'il
+etoit de son sentiment, et m'en a aporté des raisons<note n="#8"/> dont je vous ferai part si vous le souhaitez, je vous prie cependant de n'en point parler.</p>
+<p>Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>tres veritablement vôtre treshumble et tres obeissant serviteur <persName key="hosp010">le M. de l'Hospital</persName>.</p>
+<p>A <placeName key="parij001">paris</placeName> ce 21.<hi rend="sup">e</hi> fevrier.</p>
+</div>
+</div>
+<div type="para">
+<p>Holande
+<lb/>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem Seigneur de Zeelhem</persName> int noordeinde naast de Crabte A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1794"/>
+<meta type="date" value="1670-02-10"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1794">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 31 Janvier 1670.</p>
+<p>Monsieur,</p>
+</div>
+<p>Puis que vous le voulez ainsi, ie charge encore cete lettre de l'inprime, que voicy<note n="#1"/>. Ce semble estre vn autre Horrox qui a calculé<note n="#2"/> dans ce Journal les principaux Phenomenes du Ciel, qui se pourront observer en Angleterre cete
+annee. Il seroit à souhaiter, qu'on fit le mesme en d'autres païs, et qu'on s'entrecommunicât les Observations, faitez auec soin et exactitude.</p>
+<p>Je trouue par la vostre du 22 janvier que quoy que Monsieur Barrow a doctement escrit des Optiques, nous verrons pourtant vn jour, que ce que vous en auez escrit est encore tout different. On tient icy, qu'il a bien fait, mais qu'il y a bien de reste à adjouster; et c'est ce qu'on attend de vous, qui auez medité et travaillé beaucoup d'annees sur cete matiere. Ne tenez donc pas le monde scavant dans vne trop longue attente, et considerez que vous pourriez estre prevenu, ou au moins associé de quelcun, comme vous l'auez esté en d'autres sujets.</p>
+<p>Monsieur Wren vous saluë, estant bien aise que vous auez si bien consideré sa Machine, que d'y trouuer la mesme difficulté, quant à la prattique, qu'il y trouue luy mesme; ce qui pourtant ne l'empeschera pas, qu'il n'en face quelque essay, si les occupations publiques, où il est presentement engagé, le luy permettent.</p>
+<p>Quand vous aurez receu le livre de Monsieur Wallis <persName>De Motu</persName>, et la fueille, qui refute de nouueau la Quadrature de Hobbs, vous nous en direz vostre sentiment, de l'un et de l'autre. Le bon homme Hobbes, ne trouvant point d'approbateur de ce qu'il a fait, dans ce païs icy, il fait appel (dans la dedicace de sa derniere piece sur ce sujet au Prince de Toscane) aux Estrangers, et de peur d'y manquer de mesme, il en fait à la posterité.</p>
+<p>Nous sommes bien aises, que vostre Horologe à pendule dans le dernier voyage en Candie, a si bien reussi que de vous donner sujet de ne doubter quasi pas de son succes dans de voiages de long cours, où les erreurs sont plus grandes. Je ne scay pas, si nos Curieux icy en feront de nouuelles espreuues, veu principalement qu'il y a des personnes intelligentes icy, qui pensent que toutes les manieres iusques icy conuës et employées par d'autres ne sont pas capables de tenir la machine dans vne situation perpendiculaire; outre qu'ils ont trouué par des observations, soigneusement faites, que l'Air a vne telle influence sur le Pendule, qu'elle le fera parfois aller ⅛ d'une heure plus viste ou plus lentement en un seul iour; auquel defaut ils croyent pouuoir trouuer remede, quoy qu'ils fassent encor scrupule de s'en expliquer à nous.</p>
+<p>Monsieur Boyle est fort vostre serviteur, et dit, que pour fermer ses tuyaux où il met de l'eau, il se sert du meilleur ciment qu'il peut faire, n'ayant pas besoin en ce cas là de les fermer hermetiquement. Quant à ce qu'il a fait inprimer du changement des tasches dans de certaines pierres dures, il assure de l'auoir fait bonâ side, et que Monsieur Hook, entre autres, l'auoit vû, et mesme designé les tasches diversement placées en divers temps; laissant neantmoins au lecteur la liberté de le croire, ou de ne le croire pas. Je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné serviteur
+<lb/><persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>dans la Bibliotheque du Roy à Paris.
+<lb/>36 β</p>
+</div>
+</body>
+</text>
+</TEI>

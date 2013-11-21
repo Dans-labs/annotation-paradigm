@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0472"/>
+<meta type="date" value="1658-03-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0472">
+<div type="opener">
+<p><date>12 Martij 1658</date>.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+</div>
+<p>Versibus tuis Chronographicis quibus diluvij late grassantis aeram felicissime exprimis non voluptatem modo sed et admirationem mihi peperisti qui non ut scribis infra dignitatem sed supra vires meas Poesin hujuscemodi elegantias esse agnosco. Plane quò rarius in eo genere rotunda et non coacta epigrammata contingunt, eo pluris cum reperta sunt fieri illa aequum est. Fortè patri aderam
+cum epistola tua mihi traderetur itaque et ille plurimum tunc dexteritatem in his tuam collaudavit. In reliqua vero epistola cum pseudarij factam mentionem videret, idque quo pertineret ex me audisset; Vide sis inquit, Aristarche etiam atque etiam, necubi tute in errorem incideris. Hinc diligentius denuo coepi expendere quae superioribus literis circa quadraturam <hi rend="i">ἐξ ἀπαγωγῆς</hi> attuleras, sed prorsus ita ut dixi sese rem habere comperi. Quod, ne pluribus te morer, sequenti demonstratione
+<figure><graphic url="huyg003oeuv02ill77.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv02ill78.gif"></graphic></figure>
+perspicuum reddam. Binae quas exposuisti curvae sunt ACB, EFG<note n="#1"/>. quarum prioris haec est proprietas ut positâ AB diametro ∞ <hi rend="i">a.</hi> AD ∞ <hi rend="i">y</hi>, et DC applicatâ ∞ <hi rend="i">x</hi>, fiat <hi rend="i">ay</hi><hi rend="sup">3</hi> - <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ <hi rend="i">x</hi><hi rend="sup">4</hi>. Posterioris verò, ut ijsdem positis sit <hi rend="i">ay</hi><hi rend="sup">3</hi> - <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ <hi rend="i">aaxx.</hi> Hoc igitur constat solidum ex conversione curvae prioris circa axem AB esse ad cylindrum à rectangulo circumscripto eâdem conversione factum sicut area posterioris curvae ad circumscriptum sibi rectangulum, quare cum affirmes dictum solidum ad dictum cylindrum eandem rationem habere, quam habet circulus ad circumscriptum quadratum etiam area curvae posterioris ad circumscriptum rectangulum rationem eam habebit quae est circuli ad circumscriptum quadratum. et haec nimirum est <hi rend="i">ἀπαγωγὴ</hi> tua. Quae corruet si ostendero multo minorem esse rationem dictae areae ad □ circumscriptum. Ostendam autem hoc modo. Sumpta AD ∞ ¾ AB, fit
+<figure><graphic url="huyg003oeuv02ill79.gif"></graphic></figure>
+DC maxima applicatarum atque adeo altitudo rectanguli BO estque DC ∞ <figure rend="inline"><graphic url="huyg003oeuv02fi11.gif"></graphic></figure><note n="#2"/>, si pro AB statuatur unitas.</p>
+<p>Porrò sumpta AE ∞ ½ AB fit applicata EF ∞ ¼ AB sive subdupla AE: Et si per. F ducatur recta AFG ea tangit curvam in F.</p>
+<p>Quae quidem omnia vel perspecta tibi sunt vel nullo negotio vera esse deprehendes.</p>
+<p>Est itaque nunc trapezium AGNB majus area curvae ACBA. Sed trapezium AGNB ad ▭ BO minorem dico habere rationem quam circulus ad circumscriptum quadratum. Ergo multo minorem habebit area curvae ACB ad ▭ BO. Illud sic fiet manifestum. Quoniam AE est dupla EF, erit quoque GO dupla OA. unde quadratum AH aequale ∆<hi rend="sup">lo</hi> AGO. ideoque ▭ reliquum HB ∞ trapezio AGNB. Oportet igitur ostendere rationem ▭i HB ad ▭ BO, hoc est lineae HN ad ON minorem esse quam circuli ad circumscriptum quadratum. Dixi DC sive AO hoc est OH esse ad AB hoc est ON ut <figure rend="inline"><graphic url="huyg003oeuv02fi11.gif"></graphic></figure> ad 1. Ergo OH ad ON majorem habet rationem quam 5/16 ad 1, hoc est quam 5 ad 16. ac proinde HN ad NO minorem quam 11 ad 16. Atqui circulus ad circumscriptum quadratum majorem habet quam 11 ad 15, ac ferè eam quam 11 ad 14. Ergo &amp;c. Illud quidem quod de spirae ad cylindrum suum ratione adduxisti <hi rend="i">verum</hi> est, sed aequationum comparatione quali usus fueris adhuc ignoro, quod si explicasses, fortasse causam erroris detexissem, nunc eam tibimet quaerendam relinquo. ubi vero inveneris indica quaeso num alteram quoque <hi rend="i">ἀπαγογὴν</hi> quam ex cissoidis solido excogitasti eadem labe vitietur. Utriusque jacturam ut minus graviter feras alia tecum postea communicata efficiam. quam occasione hujus <hi rend="i">ἐλέγξεως</hi> adinveni. Vale Slusi Praestantissime et me ama</p>
+<p>&nbsp;</p>
+<p>Tui</p>
+</div>
+</body>
+</text>
+</TEI>

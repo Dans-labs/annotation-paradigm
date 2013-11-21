@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="L"/>
+<meta type="date" value="1666-12-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="L">
+<div type="opener">
+<p>Monseigneur,</p>
+</div>
+<p>Je viens de recevoir des mains de monsieur <persName key="carc010">de Carcavy</persName> le riche et beau présent dont il a plu au Roy d'honorer mon pere, et je ne perdray pas de temps à le luy faire tenir si tost que j'auray trouué à qui le confier seurement<note n="#1"/>. Cependant, Monseigneur, je ne puis m'empescher de vous assurer par ces lignes de la joye et satisfaction qu'il recevra de cette grace imprévûe, et sachant combien elle luy doibt estre pretieuse, tant pour la qualité du don que pour la grandeur de l'autheur, je pourrois vous exprimer une partie des ressentiments de gratitude qu'il en tesmoignera, sans crainte d'estre désavoué. Mais parce que je dois laisser à luy mesine de s'acquiter mieux de ce devoir, il me suffira de vous protester icy, Monseigneur, du ressentiment particulier que j'ay de l'honneur que fait cet <hi rend="i">illustre regale</hi> à un père qui m'est si cher; duquel vous aurez bien la bonté de croire qu'il participe réciproquement de son costé, et répute comme estant faicts à luy mesme les biens et faveurs qui me
+vienent incessamment de la part de Sa Maj<hi rend="sup">té</hi> et de la vostre, en considération desquels je suis obligé d'estre toute ma vie, Monseigneur, vostre tres humble et très obéissant serviteur, Chr. Huygens de Zuijlichem</p>
+<div type="closer">
+<p>A <placeName key="parij001">Paris</placeName> ce 18 décembre 1666.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

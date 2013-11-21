@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1645"/>
+<meta type="date" value="1668-06-22"/>
+<meta resp="HI" type="sender" value="voye010"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1645">
+<div type="comment">
+<p>Copie d'une lettre du Sieur <persName key="voye010">de la Voye</persName> a Monsieur <persName key="colb012">Colbert</persName>.</p>
+</div>
+<div type="opener">
+<p>Monseigneur</p>
+</div>
+<p>L'honneur que Vostre Grandeur m'a fait de me choisir pour faire l'experience des Longitudes par le moyen des Pendules, me fait prendre la liberte de luy tesmoigner par avance le succes presque assuré d'une invention si belle, et si utile a la navigation et a la construction exacte des cartes tant marines que terrestres.</p>
+<p>Je me sens a mesme temps oblige de luy tesmoigner les courtoisies et les bons traitemens que je recois journellement de Mon Seigneur l'Admiral<note n="#2"/> en consideration de la lettre qu'il a pleu a vostre Grandeur de luy escrire.</p>
+<p>L'affection et le zele que j'ay pour le service du Roy me fait prendre la liberté d'escrire a Vostre Grandeur que j'ay remarqué plusieurs choses essentielles qui manquent a la Marine que je luy deduiray amplement quand elle me sera la grace d'escouter</p>
+<div type="closer">
+<p>Monseigneur</p>
+<p>Son treshumble et tresobeissant serviteur <persName key="voye010">de la Voye</persName>.</p>
+<p>De Vignes a bord du St. Philippe Vaisseau admiral ce 22 de Juin 1668.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

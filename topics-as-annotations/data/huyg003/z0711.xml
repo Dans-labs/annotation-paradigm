@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0711"/>
+<meta type="date" value="1660-01-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0711">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>22 Jan. 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous m'avez fait un tres grand plaisir en m'envoyant le dessein<note n="#1"/> de l'horologe que Galilée avoit commencè. Je voy que le pendule y est aussi bien qu'au mien; mais non pas appliquè de mesme façon; car premierement il a substituè une invention beaucoup plus embarasée au lieu de se servir de la roüe, qu'on appelle de rencontre. Secondement il n'a pas suspendu le pendule d'un filet ou petit ruban, mais de sorte que toute sa pesanteur repose sur l'axe sur lequel il se meut, ce qui sans doute est la principale cause pourquoy sa maniere n'a pas bien succedè; car je scay par experience que le mouuement en devient beaucoup plus difficile, et l'horologe subject à s'arrester. Quoyque donc Galilée ait eu la mesme pensée que moy touchant l'usage du pendule cela est plustost à mon avantage qu'autrement, parce
+que j'ay effectuè ce dont il n'a pas sçeu venir a bout, et que je n'aye pourtant eu ny de luy ny de personne au monde aucun indiçe ny acheminement a cette invention. Si jamais on trouve le contraire que l'on me tiene pour plagiaire larron et tout ce qu'on voudra. Vous verrez dans une seconde edition du dit horologe<note n="#2"/>, plus ample que la premiere, une belle invention que depuis peu j'y ay adjoustè pour la derniere perfection<note n="#3"/>. C'est le fruit principal que l'on pouuoit esperer de la science de motu accelerato, que Galilée a l'honneur d'avoir traictée le premier: et je m'assure que les Geometres estimeront infiniment plus cette addition que tout le reste de cet automate. Je souhaite fort de veoir l'autre dessein<note n="#4"/> que vous me promettez, au quel je croy que le pendule sera attachè comme au mien, puis qu'il est d'un horologe qui va en effect.</p>
+<p>Je vous en auray de l'obligation si vous faites mention de moy dans vos lettres au Prince Leopold et a Monsieur Hevelius. Pour le premier je m'imagine tousjours qu'il voit à regret que j'aye produit le premier l'invention dont je viens de parler, et que ce que j'aij escrit dans la preface<note n="#5"/> il le prend comme s'il avoit estè dit pour luy. En quoy certes il auroit grand tort, puis que j'ay parlè en general. Monsieur Heinsius, qui a envoyè mon systeme au Seigneur Carlo Dati<note n="#6"/>, me soustient par quelques raisons que le pacquet ou il y avoit des lettres pour luy et pour moy doit avoir estè esgarè, et il a aussi escrit pour sçavoir ce qui en est. de sorte que j'espere d'en estre esclairè bientost, qui est tout ce que je pretens, car si l'on me repond ou non je ne m'en soucie pas beaucoup, et je scay que c'est des choses <hi rend="i">τῶν οὐϰ ἐϕ᾽ ἡμῖν.</hi></p>
+<p>Ce que vous pretendez touchant le Genethliaque n'est pas bien juste, et j'en ay desia fait informer la dame, qui n'est pas en cette ville. J'avois esperè de le recevoir par ce dernier ordinaire, et je vous prie derechef de l'achever s'il ne l'est pas encore.</p>
+<p>Vous m'escriviez dans votre penultieme<note n="#7"/> des nouuelles inventions en dioptrique qui seroient en Angleterre. Pour ce qui est de la multiplication de la lumiere par le moyen du tuyau rempli d'eau, je ne croy pas qu'elle surpasse celle que produit un verre convexe gros et large comme j'en ay dans une lanterne. l'effect du telescope d'un palme n'est pas assez determinè, de ce qu'il est dit decouvrir une armée de 6 lieues loin, car il faudroit sçavoir avec quelle distinction. mais pour moy je scay demonstrativement qu'une lunette d'un palme ou d'un pied ne peut faire guere plus d'effect qu'elles n'ont fait jusqu'icy.</p>
+<p>En beaucoup de jours je n'ay pu veoir Jupiter a cause des nuees ou brouillars,
+sinon avant hier au soir, à 11 heures. mais la clartè de la lune m'empeschoit de veoir aucune estoile proche de luy, tant que je regarday sans telescope, lequel ayant pris je vis une estoile assez grande eloignée de 48′ environ du costé d'orient. Je croy que c'est celle du genouil posterieur dont vous parles<note n="#8"/>, dont la longitude dans votre catalogue est 13.8′. ♍ quand j'auray un peu de loisir je feray le calcul selon vos tables pour veoir leur exactitude de la quelle je suis desia fort persuadè.</p>
+<p>Je vous rens graces derechef de la peine que vous prenez a faire la distribution de mes exemplaires.
+C'est assez que Monsieur <persName key="chan019">Chanut</persName> ait receu le sien et je ne voudrois pas qu'il prit la peine de m'escrire pour cela. Il y en avoit un pour Monsieur Huet<note n="#9"/> lequel je vous recommande encore, a scavoir de l'envoijer a Monsieur Chapelain. Je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur.</p>
+</div>
+<p>Avant hier il me vint veoir un Allemand nommè <persName>Joannes Joachimus Becherus</persName><note n="#10"/> qui se vante d'avoir construit un perpetuum mobile<note n="#11"/> a Mayence au depens de l'electeur, qui auroit desia allè 6 mois durant solis principiis mechanicis. Je n'en croy rien.</p>
+</div>
+</body>
+</text>
+</TEI>

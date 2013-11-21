@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0495"/>
+<meta type="date" value="1658-07-05"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0495">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Aliquot exemplaria Problematum nuper in Gallia propositorum heri accepi, quae licet aliâ viâ ad Te pervenisse mihi persuadeam, tamen comittere noluj quin meorum etiam Te participem facerem, tum quod omnem occasionem libenter amplector compellandj Te, quem merito Tuo magni facio, tum vt sententiam tuam exquirerem, sciremne num in illorum <hi rend="i">ἀναλύσει</hi> operam posueris. Ego iam a multo tempore eorum primum in Aduersarijs meis solutum habebam ad caetera autem animum hactenus non applicuj; faciam tamen si quid otij mihi supersit. Idem et te facturum arbitror, positum est enim operae pretium. Non illud intelligo <hi rend="i">χρύσεον</hi> quod infra te esse scio; sed gloriam quae Te sequetur si rem, vti spero, confeceris.</p>
+<p>Vale Vir Praestantissime meque vt facis ama</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>v Julij 1658</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

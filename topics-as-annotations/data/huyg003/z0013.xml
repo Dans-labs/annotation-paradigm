@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0013"/>
+<meta type="date" value="1646-10-12"/>
+<meta type="sender" value="mers004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0013">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>I' attens auec grand desir la demonstration de Mons. vostre fils sur la proportion des cheutes des corps pesans, car il l'aura peut estre prise d'un biais jndependent des supositions de <persName key="gali003">Galiléc</persName>.<note n="#2"/> L'on vient de me prester la vie de feu Mr. <persName>de Berulle</persName><note n="#3"/> Cardinal, in 4<hi rend="sup">o</hi><note n="#4"/> de belle jmpression, faisant l'un des plus jolies de l'Academie de Paris, si vous voulez stiler quelq'un de vos amis à la pureté de nostre langue on la trouuera la dedans.
+J'ay vu le resultat de l'assemblée de Pologne<note n="#5"/> pour les religions ils n'ont rien fait de bien considerable.</p>
+<p>Enfin ie viens d'aprendre que la Philosophie du Sr. Regius<note n="#6"/> est achevée, vous ferez que nous la verrons des premiers. Et en attendant ie veux enuoyer la regle
+<figure><graphic url="huyg003oeuv01ill05.gif"></graphic></figure>
+generale pour trouuer le centre de percussion de tous les sistemes de.....à Mr. vostre fils; soit donc le secteur quelquonque <formula>ABC</formula> pendu à l'axe <formula>DE</formula>, et qu'estant libre à se mouuoir il fut tiré de <formula>C</formula> en <formula>E</formula> ou vers <formula>E</formula>, voicy la regle.
+Comme la chorde <formula>BC</formula> est à l'arc <formula>BFC</formula>, ainsi 3/4 du rayon <formula>AF</formula> a vne 3e ligne droite prise depuis <formula>A</formula> vers <formula>F</formula>, soit qu'elle finisse entre <formula>A</formula> et <formula>F</formula> ou qu'elle descende plus bas que <formula>F</formula>.</p>
+<p>Si c'estoit pour trouuer le centre de grauite du sisteme, il faudroit dire que l'arc <formula>BFE</formula> a la droite <formula>BC</formula>, ainsi 2/3 du rayon <formula>AF</formula> à vne 3e ligne.</p>
+<p>Si c'estoit le triangle <formula>ABC</formula> dont on voulust trouuer le centre de percussion, il est bien plus difficile, il y pourra penser et consulterson Maistre la dessus. Car n'ayant point receu de vos lettres aux 2 ou 3 derniers voyages, i'ay peur que vous vous portiez mal.</p>
+<div type="closer">
+<p>Je prie Dieu de vous assister en tous vos besoins, et suis tousiours
+<lb/>Vostre tresobeissant seruiteur <persName key="mers004">Mersenne M.</persName></p>
+<p>ce <date>12 octobre 1646</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huygens</persName> sieur de Zuyllichem et Secretaire de Monsieur le Prince d'Orange au Camp de l'armee Holandoise.</p>
+</div>
+</body>
+</text>
+</TEI>

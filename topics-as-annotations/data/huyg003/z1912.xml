@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1912"/>
+<meta type="date" value="1672-09-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1912">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 27 septembre 1672.</p>
+<p>Monsieur</p>
+</div>
+<p>Je crois deuoir response a trois de vos lettres du 8<hi rend="sup">e</hi> et 18<hi rend="sup">e</hi> Juillet et la derniere du 5<hi rend="sup">e</hi> Sept. Ce sont en partie d'autres occupations, en partie mon indisposition, qui dans cette saison me vient donner d'ordinaire quelque attaque, qui m'ont kobligè de differer si longtemps a satissaire a ce deuoir. Dans la premiere de ces lettres vous auez eu la bontè de m'enuoier la derniere construction de Monsieur Sluse du probleme d'Alhasen auec le calcul dont il dit l'auoir tirée. Mais cela auroit estè bien difficile, a ce qui me semble, sans l'aide de ma construction<note n="#1"/>, qui est peù differente comme vous voiez puis qu'elle donne la <seg org="mesine" resp="#WR" type="corr">mesme</seg> hyperbole, determinée par les asymptotes, au lieu que Monsieur Sluse la construit par les ordonnées du diametre. Je voudrois au reste qu'il eust monstrè comment sa construction suit de l'aequation qu'il donne, car cela m'a donnè de la peine, et l'ayant reduite a vn cas fort simple, je n'ay pas trouuè vne bonne issue au calcul, ce qui me fait douter s'il n'y a pas quelque faute a la copie. Mais il y a longtemps que je ne songe plus a ce probleme et j'ay estè estonnè de voir par vostre derniere que Monsieur Sluse y auoit encor trauaillè de nouueau, quoy qu'en effect il n'a point perdu sa peine en cela, car son aequation vniuerselle est tres belle et scauante, et sa construction par la parabole fort bien trouuee quoy qu'un peu longue. Je ne scay si vous auez encor dessein de faire imprimer quelque chose de ce que nous vous auons communiquè sur ce sujet, si vous prenez cette peine, je vous prie de mettre la suite de nos speculations et decouuertes dans l'ordre qu'elles sont venues a vos mains<note n="#2"/>.</p>
+<p>Ce que vous auez mis de Monsieur Newton<note n="#3"/> dans vn de vos derniers journaux confirme encor beaucoup sa doctrine des couleurs. Toutefois la chose pouroit bien estre autrement, et il me semble qu'il se doibt contenter que ce qu'il a auancè passe pour vne hypothese fort vraisemblable. De plus quand il seroyt vray que les rayons de lumiere, des leur origine, fussent les vns rouges, les autres
+bleus &amp;c. il resteroit encor la grande difficultè d'expliquer par la physique, mechanique en quoy consiste cette diuersitè de couleurs. Ce que j'auois dit<note n="#4"/> de l'aberration des verres objectifs estoit asseurement mal entendu, et c'estoit en lisant les Transactions que j'auois fait cette note a la marge, que je deurois auoir examinée auant que de vous l'enuoier. Pour ce qui est des regles de Monsieur Wallis pour les Tangentes, dont vous auez voulu sçauoir mon opinion<note n="#5"/>, je trouue que la premiere ne differe point de celle de Monsieur de Fermat qui est expliquée dans Herigone<note n="#6"/>. Elle y est de la mesme façon comme la concoit Monsieur Wallis, mais a mon auis ni l'un ni l'autre n'en monstre le vray fondement que j'ay trouuè tout autre. La seconde methode ne m'estoit pas inconnue non plus, de la quelle Monsieur de Roberual se vante d'estre le premier inuenteur il y a longues années<note n="#7"/>, et je me souuiens qu'il nous l'a expliquée cy deuant dans nostre assemblée. Mais il y a vne autre methode meilleure et beaucoup plus compendieuse que tout cela pour les Tangentes, que j'ay expliquée<note n="#8"/> a la mesme assemblée, et qui est connue de Monsieur Sluse<note n="#9"/> et de Monsieur Hudde<note n="#10"/> il y a longtemps. A celle la il ne faut que voir seulement l'aequation qui exprime la nature de la ligne, et de cette aequation l'on en tire d'abord, et sans aucune peine, vne autre qui donne la construction de la tangente.</p>
+<p>J'ay receu par la faueur de Monsieur Vernon le recueil entier de vos transactions et les oeuures de Monsieur <persName key="boyl001">Boile</persName> qui me manquoient. Vous m'obligerez de me mander de temps en temps ce qu'il produit de nouueau, comme vous venez de faire, afin que j'en fasse venir des exemplaires. Mon traittè des pendules va estre imprimè bien tost et j'en ay desia vu la premiere seuille. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Je prens la liberté de vous recommander l'enclose à <persName>M. Vernon</persName>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">Grubendol</persName>
+<lb/>à Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

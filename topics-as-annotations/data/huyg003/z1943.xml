@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1943"/>
+<meta type="date" value="1637-07"/>
+<meta type="sender" value="perr053"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1942"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1943">
+<div type="opener">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Huygens de Zuylichem</persName>. Monsieur.</p>
+</div>
+<p>Quoi que je Vous aye dédié ce petit ouvrage des sa naissance &amp; des le moment même de sa conception, je pourroi, pourtant changer d'avis à present, puis que j'ai changé la resolution où j'étois alors de ne le pas rendre public. Ma pensée qui étoit excusable en ce tems-là où la chose se passoit seulement entre nous, pourroit ne l'être plus en celui-ci où j'y appelle tant de témoins; &amp; l'intention que j'ai toûjours euë de Vous honorer, pourroit dans la suite n'avoir pas l'effet que je desire. Je sai, Monsieur, quel est l'avantage qui me peut revenir en mettant un Nom aussi Illustre que le Vôtre à la tête de mon livre; mais je ne voudrois pas dans l'incertitude du succes, que cela Vous pût causer le regret d'avoir accepté une chose de si peu de valeur; je ne voudrois pas non plus par là Vous engager à sa défense, puis que je la veux bien abandonner moi-même. Mais toutes ces considerations ne sauroient me détourner de mon premier dessein qui n'est autre chose que de Vous donner en cette rencontre quelque marque de ma reconnoissance pour l'amitié que
+Vous m'avez toûjours fait paroître. Je veux en rendre ici un témoignage qui soit public, de même que je veux que tout le monde sache que je suis &amp; que Vous voulez bien que je me dise,</p>
+<div type="closer">
+<p>Monsieur,
+<lb/>Vostre tres-humble &amp; tres-obeissant seruiteur <persName key="perr053">P. Perrault</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

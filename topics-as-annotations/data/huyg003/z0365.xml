@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0365"/>
+<meta type="date" value="1656"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0365">
+<div type="section">
+<head rend="h4">Problema.</head>
+<p>Parabola data et puncto ducere ab eo rectam quae parabolae ad rectos angulos occurrat.</p>
+<p>Sit data parabola BA<note n="#2"/> et punctum C, sit autem non in axe datum, nam in eo si fuerit satis nota est constructio. Ducatur ex C in axem parabolae BG perpendicularis CF, et à vertice B sumatur BH dimidio recti lateris aequalis, et dividatur HF bifariam in K, sitque KL ad axem BK perpendicularis et aequalis quartae parti CF. tum centro L circumferentia describatur quae transeat per verticem parabolae B, ea parabolam secabit. secet igitur in A, et jungatur CA. dico hanc parabolae occurrere ad angulos rectos. Sit intersectio rectae CA et axis parabolae in puncto G, et ducatur AE quae sit dicto axi ad angulos rectos. Ostendendum est igitur
+<figure><graphic url="huyg003oeuv01ill174.gif"></graphic></figure>
+interceptam EG dimidio lateris recti aequalem esse: Hinc enim facile colligitur rectam per A ductam, quae cum CA rectos faciat angulos, parabolam contingere. Ducatur LS ipsi AE perpendicularis, occurrat autem eadem AE circumferentiae circuli in V; axis verò parabolae dictam circumferentiam secet in O. Constat igitur et AV bifariam dividi in S, et BO in K. Sed et KF ipsi KH aequalis est ex constructione. ergo et FO ipsi HB, quae dimidium est lateris recti. Quamobrem sumptâ FR aequali FO, erit
+<figure><graphic url="huyg003oeuv01ill175.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv01ill176.gif"></graphic></figure>
+tota OR aequalis recto lateri. Quia autem ex circuli proprietate rectangulum BEO aequale est rectangulo AEV, erit sicut BE ad EA ita VE ad EO, sed ut BE ad EA ita est EA ad latus rectum. Ergo ut EA ad latus rectum, hoc est, ad OR, ita VE ad EO; et permutando ut AE ad EV ita RO ad OE. Unde sicut OR ad RE ita AE ad duplam ES; apparet enim duplam ES prout requiritur acquari differentiae duarum AE, EV vel carundem summae. Ergo sumptis consequentium duplis, sicut AE ad quadruplam ES, sive quadruplam KL, hoc est, ad FC, ita OR ad duplam RE, hoc est FR ad RE. Est autem ut AE ad FC, sic GE ad GF. Ergo GE ad GF ut RF ad RE. Ac proinde GE ad EF ut RF ad FE. Itaque GE ipsi FR aequalis est. Haec autem aequalis est dimidiae OR, hoc est, dimidio lateri recto. Ergo et GE dimidio lateri recto aequalis erit. Quod erat ostendendum.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0768"/>
+<meta type="date" value="1660-08-08"/>
+<meta type="sender" value="brun077"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0768">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> le <date>8. Aoust 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Jl y a long temps que ie me suis donnè l'honneur de uous escrire<note n="#1"/> et de uous donner aduis de mon arriuée a Paris; mais comme ie uiens d'apprendre de Monsieur <persName key="gast014">du Gas</persName><note n="#2"/> que Monsieur <persName>Elzeuir</persName>, a qui i'auois escrit par le mesme ordinaire qu'a uous, luy mande qu'il est en peine de moy n'en ayant eu point des nouuelles depuis mon depart de Roterdam, i'ay resolu de uous escrire ces deux lignes par la uoye du mesme Monsieur <persName key="gast014">de Gas</persName>, craignant que les autres que i'ay enuoyées simplement par la poste soyent perdües, dont i'aurois grand regret. Je uous mandois par celles la le contentement que Monseigneur le Duc de Luynes auroit de uous uoüer en ces pays, ou ie luy auois dit que uous uiendriez auec les Ambassadeurs; et bien que la mort du feu Monsieur <persName>de Belair</persName><note n="#3"/> ayet causè pour ainsy dire une dispersion de plusieurs Geometres et Astronomes qu'y uenoit, on auroit trouuè pourtant le moyen de uous en faire uoir quelsques uns des plus estimez et principalement Monsieur <persName>Pascal</persName> qui a une estime toute particuliere pour uous; et quand il n'y auroit que Monseigneur le Dûc<note n="#4"/>, uous y auriez autant de satisfaction pour ces sortes de sciences, qu'auec les meilleurs Professeurs; Venez y donc le plus tost que uous pourrez; uous priant de me faire l'honneur de me le faire sçauoir de<note n="#5"/> que uous serez
+arriuè a Paris. J'auois mis une lettre pour Monsieur <persName>Vossius</persName>, dans celle que ie uous escriuois et ie uous suppliois d'auoir la bontè de la luy faire tenir, et d'en auoir la responce. Jl m'auoit fait la faueur de me dire qu'il m'auroit fait faire une copie de toutes les figures qu'il a de la Chine, et qu'il m'auroit fait aussy la faueur de me les enuoyer. Je luy escriuois donc que cette copie deuoit scruir pour Monseigneur le Duc de Luynes le quel suhaittoit de les uoir le plus tost qu'on pourroit, et que pour cela ie le priois de prendre encor un peintre a fin de les depescher uittement, sans espargner aucune despense, et de me faire de plus la faueur de me faire sçauoir a qui i'aurois pu enuoyer l'argent ou s'il uouloit que ie le luy fisse tenir par Monsieur <persName>Elzeuir</persName> de Leyden. C'est pourquoy Monsieur ie uous supplie
+tres humblement de luy faire sçauoir tout ce qui est arriuè et de luy faire mes tres humbles baisemains; et en cas que uous n'ayez receüe la lettre que ie luy escriuois ie uous prie de m'en aduertir afin que ie puisse luy escrire de rechef, uous suppliant cepandant de fair en sorte que cette copie soit faite sans retardement et de le prier de ma part et de l'assurer que ie luy en seray insiniment obligè. Je n'ay point de nouuelles a uous donner, si non que l'entrée de la nouuelle Reyne<note n="#6"/> dans Paris, se retarde tout iour, c'est pourquoy vous pourriez y arriuer a temps pour la uoir;</p>
+<p>Je suis Monsieur auec toute la passion imaginable</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur l'Abbé <persName key="brun077">Cosimo Brunetti</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christianus Vgens de Zulichem</persName>. a la Haye.
+<lb/>poste d'Hollande.
+<lb/>12</p>
+</div>
+</body>
+</text>
+</TEI>

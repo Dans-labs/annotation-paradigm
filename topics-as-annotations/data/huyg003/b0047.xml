@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0047b"/>
+<meta type="date" value="1648-04-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0047">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Estant venu de Breda icy a la Haye par occasion des vacances de Pasque j'y ay trouvè le livre de S. Vincentio<note n="#1"/> que j'avois fort souhaittè d'examiner à loisir, et d'autant plus parce que je voyois que tous les Mathématiciens à qui j'en avois parlè se trouvoyent empeschez a en venir à bout, n'osants dire absolument s'il a rencontrè la quadrature ou non.</p>
+<p>D'abord doncq j'ay appris ce qu'il entend per ductionem plani in planum, et après, commençant par la proposition 53, libri 10 de quadratura Circuli, j'ay trouuè bien de la difficultè en quelques propositions auxquelles il me renvoyoit. La dite 53<hi rend="sup">e</hi> est bien aysée a entendre; de là il faut venir à la 52 qui precede, qui est encor aysée: de là à la 44<hi rend="sup">e</hi> qui est obscure, mais parce qu'il faut que tout ce qui ayde à la démonstration soit vray et qu'au commencement de celle-cy il se sert de la proposition 43, je m'addressois à celle-là, et de là estant renvoyè au corollaire 2 de la 42, je me suis arrestè à la fin de cettuicy, là ou il dit Habita cubatura totius solidi ABQE ducto in APCB, eodem artificio obtinebitur cubatura solidi quod fit ex segmento PPZZ ducto in segmentum ZRRZ<note n="#2"/><note n="#3"/>. Il me semble que cecy cloche bien fort; et certes je ne comprens pas cet artifice dont il parle icy, car c'est bien autre chose de faire un cube esgal à toute la ungula parabolica qui est produite per ductionem parabolae ARB in seipsam, que de faire un cube esgal à la partie de la mesme ungula, produite per ductionem segmenti ZRRZ in seipsum. Que s'il y a quelqu'un de vos Archimèdes qui l'entende autrement, je seroy ravy d'en sçavoir leur advis: comme aussi leur jugement de tout ce grand livre qu'ils ont leu sans doute il y a long temps. Quant à moy je ne fais que venir icy, ne l'ayant jamais veu autrement que quelques fois chez Monsieur Pell<note n="#4"/> à Breda qui ne me l'a jamais voulu prester, ny m'en dire une sentence definitive encor qu'il l'ayt eu assez long temps. Pourtant j'y ay trouuè des choses assez jolies comme sont les cubatures ungularum cylindricae et parabolicae, encor que je ne les aye pas apprises de là toutes deux, car pour la première Monsieur Pell sçait bien que je la luy ay dite avant que le livre fust venu. Mais quant à la Quadrature, je vous asseure qu'à peine je me puis imaginer que l'Auteur mesme croye l'avoir trouuée, car donnant les moyens de
+cognoistre la proportion du Cercle à un rectiligne, pourquoy ne la faict il veoir aussi bien, car cela luy devoit estre plus aysè qu'à aucun autre de la supputer, ce me semble; au moins il y eust mieux employè sa peine qu'a ramasser toutes les sections coniques avecque leur proprietez, et beaucoup d'autres choses superflues.</p>
+<p>C'est une belle experience que celle de la vessie dans le vuide que vous avez communiquée à mon père<note n="#5"/>, mais je ne doute point, que ceux qui l'ont faite, avant que d'en veoir l'effect en ayent bien sçeu la cause, qui est l'air qui est restè dans la vessie qui est contraint de se dilater pour estre egalement distribuè par tout l'espace vuide, tant qu'il est possible. Je vous prie que quand vous en aurez fait d'autres de la sorte comme de la clochette et de la pesanteur de l'air, de m'en faire part, et de croire que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre très humble serviteur <persName key="huyg003">Chrestien Huygens</persName>.</p>
+<p>Ce <date>20 d'Avril 1648</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

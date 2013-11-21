@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1156"/>
+<meta type="date" value="1663-10-20"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1156">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>je n'ay jamais rien fait auec plus de joye que de vous proposer a Monsieur <persName key="colb012">Colbert</persName><note n="#1"/> comme vn des plus dignes objets de lestime et de la benesicence du Roy lors quil me fit lhonneur de me consulter sur les Gens de lettres eminens auxquels sa Majesté estoit resoluë d'en donner des marques solides. Pour vostre particulier je vous en touchay quelque chose il y a quatre ou cinq mois, et vous en auriés veu deslors l'effet si vostre voyage d'Angleterre nen eust point rompu les mesures. Aussi tost que j'ay sceu vostre retour j'en ay auerti Monsieur <persName key="colb012">Colbert</persName> qui a ordonné a Monsieur <persName>Dumetz</persName> lvn de ses Premiers Commis de vous mettre entre les mains le present<note n="#2"/> qui vous attendoit il y a si long temps. Il en a voulu prendre la peine luy mesme fur cet ordre et sur ce que je luy ay rapporté de vostre vertu. Car comme il n'en a pas vne ordinaire il a esté bien aise dauoir cette occasion de voir vne Personne aussi
+extraordinaire que vous. Vous estes si ciuil qu'il auroit sujet de se louer de vostre bon accueil quand je ne vous aurois point rendu de tesmoignage de son merite. Je ne suis point aussi en peine de la façon dont vous le traitteres. Pour le remerciment que vous aurés a en faire au Roy et a Monsieur <persName key="colb012">Colbert</persName> il
+est bon que nous nous voyons au plustost, afin que je vous die de quelle maniere cela se deura faire. Je vous diray seulement parauance quil faudra commencer par Monsieur <persName key="colb012">Colbert</persName> comme par le premier moteur de cette grace et que vous trouuerés bien preparé par moy sur ce que vous valés. Je suis auec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tres obeissant seruiteur
+<lb/><persName key="chap002">Chapelain</persName>.</p>
+<p>Ce 20. Octobre</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christianus Huggens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

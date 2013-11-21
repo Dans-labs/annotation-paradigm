@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1452"/>
+<meta type="date" value="1665-08-27"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1452">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Epistolam Astronomicam hisce adiunctam<note n="#1"/> Româ herj accepi a Clarissimo Riccio. Rogat autem, tam suo, quam amicorum qui illic coelestia curant, nomine, vt eam continuò ad te transmittam, quo nimirum accuratis illis telescopijs tuis obseruare possis, num euentus, auctoris<note n="#2"/> praedictionj responsurus sit. Quod ad me attinet, fateor me ijs instrumentis destitutum, quae tam propè coelum nobis admouent. Aliorum itaque experimentis stabo lubens; sed tuis praesertim, quorum <hi rend="i">ἀϰρίβεια</hi> mihi iamdiu nota est.</p>
+<p>Si quid igitur tibi otij erit, et si coelum faueat, quaeso vt hanc operam reliquis, quas Astronomiae promouendae hactenus impendistj, adiungere non graueris.</p>
+<p>Vale Vir Clarissime meque perenni affectu crede</p>
+<div type="closer">
+<p>Tuj Obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Leodicj <hi rend="sc">xxvii</hi> Augustj <hi rend="sc">ciɔiɔclxv</hi>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

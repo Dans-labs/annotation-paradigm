@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0478"/>
+<meta type="date" value="1658-03-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="monm010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0478">
+<div type="opener">
+<p><date>28 Mars 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>La vostre du 8<hi rend="sup">e</hi> de ce mois<note n="#1"/> m'a estè rendue avecq celle de Monsieur <persName key="chap002">Chapelain</persName>. Et je ne tiens pas aussi sa precedente<note n="#2"/> pour perdue, puis qu'il a eu la bontè
+de m'en envoyer la copie. Cependant je vous remercie bien fort de la peine que vous avez voulu prendre pour la recouurer en original et du soing que vous me promettez pour l'advenir. Je croy que les figures de Saturne que Monsieur <persName key="chap002">Chapelain</persName> vous a fait veoir dans ma lettre<note n="#3"/>, vous ont semblè bien extravagantes. Elles sont pourtant veritables, et dans celle que je luy envoye à cet heure<note n="#4"/> je luy decouure les raisons de ces estranges apparences. Mais il faut un peu d'estude pour les bien entendre. Je me recommande a vos bonnes graces et demeure de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionnè serviteur Chr.H. de Z.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

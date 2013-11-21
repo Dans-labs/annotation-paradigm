@@ -1,0 +1,94 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1696"/>
+<meta type="date" value="1668-12-27"/>
+<meta type="sender" value="wren002"/>
+<meta type="recipient" value="londe002roya01"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1695"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1696">
+<p>Dr. Christopher Wrens Theory concerning the same Subject<note n="#1"/>; imparted to the <hi rend="i">Royal Society December</hi> 17 last, though entertain'd by the Author divers years ago, and verified by many Experiments, made by Himself and that other excellent Mathematician Mister <hi rend="i">Rook</hi> before the said Society, as is attested by Many Worthy Members of that Illustrious Body<note n="#2"/>.</p>
+<div type="section">
+<head rend="h4">Lex Naturae de Collisione Corporum.</head>
+<p>Velocitates Corporum propriae &amp; maximé Naturales, sunt ad Corpora reciprocè proportionales.</p>
+<p><table>
+<row>
+<cell>Lex Naturae. {</cell>
+<cell>Itaque Corpora R, S habentia proprias Velocitates, etiam post Impulsum retinent proprias.</cell></row>
+<row>
+<cell>Lex Naturae. {</cell>
+<cell>Et Corpora R, S improprias Velocitates habentia, ex Impulsu restituuntur ad Aequilibrium; hoc est, Quantum R superat, et S deficit à propria velocitate ante Impulsum, tantum ex Impulsu abstrahitur ab R et additur ipsi S, et è contra.</cell></row>
+</table></p>
+<p>Quare Collisio Corporum proprias Velocitates habentium aequipollet Librae <seg org="ofcillanti" type="corr">oscillanti</seg> super Centrum Gravitatis.</p>
+<p><figure><graphic url="huyg003oeuv06ill80.gif"></graphic></figure></p>
+<p>Et Collisio Corporum improprias Velocitates habentium aequipollet Librae reciprocanti super bina Centra aequaliter huic inde à Centro Gravitatis distantia: Librae verò Jugum ubi opus est producitur.</p>
+<p>Itaque Corporum aequalium aequalium improprié moventium tres sunt casus.</p>
+<p>Corporum verò inaequalium improprié moventium (sive ad contrarias sive ad easdem partes) decem sunt omninò casus, quorum quinque oriuntur ex Conversione.</p>
+<p>R, S corpora aequalia, vel R corpus majus, S corpus minus.</p>
+<p><hi rend="i">a</hi> Centrum Gravitatis sive ansa Librae. Z summa Velocitatum utriusque Corporis.</p>
+<p><table>
+<row>
+<cell>R<hi rend="i">e</hi></cell>
+<cell>} Velocitas corporis. {</cell>
+<cell>R</cell>
+<cell>} ante impulsum Data</cell>
+<cell>} vel {</cell>
+<cell>S<hi rend="i">o</hi></cell>
+<cell>} Velocitas corporis. {</cell>
+<cell>S</cell>
+<cell>} ante impulsum Data.</cell></row>
+<row>
+<cell>S<hi rend="i">e</hi></cell>
+<cell>} Velocitas corporis.{</cell>
+<cell>S</cell>
+<cell>} ante impulsum Data</cell>
+<cell>} vel{</cell>
+<cell>R<hi rend="i">o</hi></cell>
+<cell>} Velocitas corporis. {</cell>
+<cell>R</cell>
+<cell>} ante impulsum Data.</cell></row>
+<row>
+<cell><hi rend="i">o</hi>R</cell>
+<cell>} Velocitas corporis. {</cell>
+<cell>R</cell>
+<cell>} post impulsum Quaesita</cell>
+<cell>} vel {</cell>
+<cell><hi rend="i">e</hi>S</cell>
+<cell>} Velocitas corporis. {</cell>
+<cell>S</cell>
+<cell>} post impulsum Quaesita.</cell></row>
+<row>
+<cell><hi rend="i">o</hi>S</cell>
+<cell>} Velocitas corporis.{</cell>
+<cell>S</cell>
+<cell>} post impulsum Quaesita</cell>
+<cell>} vel{</cell>
+<cell><hi rend="i">e</hi>R</cell>
+<cell>} Velocitas corporis. {</cell>
+<cell>R</cell>
+<cell>} post impulsum Quaesita.</cell></row>
+</table></p>
+<p>Regula. R<hi rend="i">e</hi>, S<hi rend="i">e</hi>, faciunt <hi rend="i">o</hi>R, <hi rend="i">o</hi>S: R<hi rend="i">o</hi>, S<hi rend="i">o</hi> faciunt <hi rend="i">e</hi>S, <hi rend="i">e</hi>R.</p>
+<p>Lege Syllabus<note n="#3"/> (quamvis disjunctus<note n="#4"/>) R<hi rend="i">e</hi> S<hi rend="i">e o</hi>R <hi rend="i">o</hi>S vel R<hi rend="i">o</hi> S<hi rend="i">o e</hi>S <hi rend="i">e</hi>R in Linea cujuslibet Casus, et harum quae scribitur in Schemate more Hebraico, ea indicat motum contrarium motui, quem notat cujusvis Syllabae scriptio Latina. Syllaba conjuncta quietem Corporis denotat.</p>
+<p>Calculus.</p>
+<p><table>
+<row>
+<cell>R+S∶S∷Z∶R<hi rend="i">a</hi></cell>
+<cell>R<hi rend="i">e</hi>-2R<hi rend="i">a</hi>=<hi rend="i">o</hi>R</cell>
+<cell>S<hi rend="i">o</hi>-2S<hi rend="i">a</hi>=<hi rend="i">e</hi>S</cell></row>
+<row>
+<cell>R+S∶R∷Z∶S<hi rend="i">a</hi></cell>
+<cell>2S<hi rend="i">a</hi>±S<hi rend="i">e</hi>=<hi rend="i">o</hi>S</cell>
+<cell>2R<hi rend="i">a</hi>±R<hi rend="i">o</hi>=<hi rend="i">e</hi>R</cell></row>
+</table></p>
+<p>Natura observat regulas additionis &amp; subductionis speciosae.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

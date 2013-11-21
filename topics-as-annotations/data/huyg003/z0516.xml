@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0516"/>
+<meta type="date" value="1658-09-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0516">
+<div type="opener">
+<p><date>19 Sept. 1658</date>.</p>
+<p><persName key="boul014">Bouillau</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'attens encore vostre responce a ma derniere lettre<note n="#2"/> par la quelle je vous priay de me faire scavoir le nom de l'autheur des problemes de la Cycloide, ou qu'il me voulust au moins assurer que tous les dits problemes estoyent possibles. Il ne s'en faut guere que je ne croye le contraire, a cause de vostre silence, et partant je n'ay pas voulu m'y attacher d'avantage, auparavant que d'avoir este premierement tirè de ce doubte. Seulement j'ay trouvè outre ce que je vous communiquay par
+<figure><graphic url="huyg003oeuv02ill106.gif"></graphic></figure>
+ma precedente, que le solide de la cycloide qui se fait en la tournant sur sa base AD, estant coupè en deux par le plan AEDG passant par AD; le centre de gravitè de l'une de ces moitiez, à sçavoir du solide AEDGC se trouve dans la perpendiculaire FC en faisant comme AF à FC ainsi cellecy à FH, et prenant FK esgale 133/216 de FH. Car alors K est le dit centre de gravitè. D'ou il est evident que si on mesne KL parallele à FA, le centre de gravitè du solide AECG (qui est celuy que le dernier imprimè nous propose) sera dans cette ligne KL. Mais je ne scay encore comment il la divise, et serois bien aise de scavoir si quelqu'un l'a trouvè. Monsieur <persName key="carc010">de Carcavy</persName> vous pourra dire ce qui en est, a qui j'en<note n="#3"/>.</p>
+<p>J'accompagne cellecy du petit traitè que j'ay fait de mon horologe<note n="#4"/> du quel j'envoye une exemplaire apres avoir mis fin a cette invention. C'est a cest heure que
+je m'en vay travailler tout de bon a l'edition du systeme de Saturne, et de mesme aux lunettes que je vous doibs,<note n="#5"/> desquelles vous vous puissiez promesner comme moy dans ce nouveau monde. Je suis</p>
+</div>
+</body>
+</text>
+</TEI>

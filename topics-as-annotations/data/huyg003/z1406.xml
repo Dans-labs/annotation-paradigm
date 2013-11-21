@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1406"/>
+<meta type="date" value="1665-05-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="thev001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1406">
+<div type="opener">
+<p><persName key="thev001">Thevenot</persName>.</p>
+<p>14 May.</p>
+</div>
+<p>Horologe a Monsieur de Monmor<note n="#1"/>. Remercier du verre. J'attens le livre<note n="#2"/> de Monsieur Auzout. Et de luy le traitè de Roberval des pendules Isochrones. J'ay trouvè la 2<hi rend="sup">e</hi> partie de ses relations<note n="#3"/>, fautes d'impression. Observations du dernier Comete de Lion<note n="#4"/>, je ne trouve pas encore d'hypothese pour son mouuement.</p>
+<p>qu'il sera bon d'attendre que l'Jnstruction<note n="#5"/> soit imprimée en Angleterre<note n="#6"/> augmentee, devant que la donner en francois. adjouteront aussi a la Relation de Holmes<note n="#7"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

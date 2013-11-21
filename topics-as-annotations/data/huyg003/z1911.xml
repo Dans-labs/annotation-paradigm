@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1911"/>
+<meta type="date" value="1672-09-23"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1911">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 23 Septembre 1672.</p>
+</div>
+<p>J'ay receu par le dernier ordinaire la lettre de change de 500 escus du Cousin Becker<note n="#1"/> a qui je m'en vay mander qu'elle a estè acceptée. Puis que pour 1200 ℔ l'on en recoit icy 1500 l'on y gaigne quelque chose de plus qu'on ne faisoit en temps de paix.</p>
+<p>Parmy la liste des cassez du magistrat d'Amsterdam j'ay veu le Sieur Hellemans Hooft<note n="#2"/> que je n'aurois pas creu estre du parti suspect. Le pere<note n="#3"/> de Mademoiselle H.<note n="#4"/> a esté bien adroit de se sauver comme il a fait mais il aura apparemment de la peine a se maintenir, puis que tout ce qui sent l'Arminianisme est en haine a la bourgeoisie, ce que je vois par certaines pieces que l'on m'a communiquées.</p>
+<p>Je ne scaurois deviner a qui vous aviez destiné le Bailleuschap de la Haye<note n="#5"/>,
+puis que ce n'estoit pas vous, comme vostre precedente m'a fait comprendre. Le frere de Moggershill ne l'auroit pas voulu a ce que je crois. Mais ne songe t-il pas aussi a se prevaloir de la presente conjoncture, terwijl onzen haen koning is<note n="#6"/>. Pour vous j'attens la bonne nouvelle que vous me promettez avec impatience<note n="#7"/>.</p>
+<p>La consultation ou Monsieur van Leeuwen a estè appellè luy est bien honora ble, et monstre qu'il doit estre tres bien dans l'esprit du maistre. l'Employ du frere de Zeelhem en cette occasion l'a estè de mesme, et tout cela me donne bonne esperance de vos affaires, qui se feront aut nunc aut numquam. Les affaires de dehors ne me contentent pas beaucoup encore, et ce secours Allemand avance si lentement pendant que la bonne saison s'ecoule, que je ne scais comment on pourra faire retirer les trouppes qui sont dans Utrecht, qui apparemment s'augmenteront encore en hyver, et ruineront tout le païs.</p>
+<p>Je souhaitte de tout mon coeur que l'operation a la quelle ma Tante<note n="#8"/> se résout puisse reussir.</p>
+<p>Ce que je vous ay mandé autrefois des cataractes qui se forment de l'humeur chrystallin, estoit eslon l'avis de quelques uns. mais d'autres disent au contraire que ce sont des pellicules qui s'engendrent entre le crystallin et la cornée. Il y a apparence qu'il s'en fait de l'une et de l'autre sorte, et l'exemple que vous alleguez confirme cette opinion, puis qu'il y en a qui voient clair sans user de loupes, dont il est constant par d'autres experiences que quelques uns ont besoin apres cette cure. Adieu saluez je vous prie tout le monde de ma part. Je m'en vay escrire un mot au Cousin Becker et puis entrer dans mon bain.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

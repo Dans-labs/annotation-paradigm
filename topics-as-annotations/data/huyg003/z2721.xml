@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2721"/>
+<meta type="date" value="1691-12-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2721">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>18 Dec. a Mr. <persName key="duil010">Fatio</persName>, que j'ay respondu a sa lettre et envoiè les Errata de Newton<note n="#1"/>. que M. <persName key="leib013">Leibnits</persName> m'a envoiè de sa methode &amp;c. qu'il aille prendre de mon frere l'Exemplaire de mon livre de la lum.re pour le donner a Mr. <persName>Bernard</persName>. Baisemains aux amis et a Mr. <persName key="lock001">Locke</persName> un compliment. que j'ay donnè quelque chose en matière de musique a Mr. <persName key="basn002">de Beauval</persName><note n="#2"/>. Fatio loge chez M. Tourton et compag.<hi rend="sup">e</hi></p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 18 Dec. 1691.</p>
+<p>Monsieur</p>
+</div>
+<p>Depuis que vous estes en Angleterre je n'ay receu de vos lettres que celle du 8/18 Sept.<note n="#3"/> à laquelle je respondis aussi tost, et vous envoyay les Errata de Mons.r Newton, apres en avoir pris copie. Je crois vous avoir escrit alors qu'il est à souhaiter que cet Illustre autheur fist faire une seconde Edition de son Livre, où tous ces Errata pourroient estre corrigez, et beaucoup de choses obscures eclaircies, et je vous recommande derechef de l'en vouloir soliciter, en luy faisant s'il vous plait mes tres humbles baise-mains. J'ay a la fin receu de Mr. <persName key="leib013">Leibnitz</persName> quelque parcelle de sa methode<note n="#4"/> pour le Probleme renversè des Tangentes. La Preface, qui est magnifique, à sa mode, contient 2 pages, et l'instruction une et demie seulement, mais il y a dans celle-cy, tant d'obscuritè que je n'en scaurois venir à bout<note n="#5"/>, de sorte que je l'ay priè de me l'expliquer plus clairement devant que je luy envoie vostre methode. Et comme vous estes encore moins versè que moy dans son calculus differentialis j'ay cru qu'il ne serviroit de rien de vous faire part de ce qu'il m'a envoiè, jusques a ce que j'aye cet eclaircissement. Habeo (dit il) diversas vias quibus magnum hoc problema in oblatis casibus aggrediar, sed hanc optimam esse judico (quoties ea uti licet) ut Problema Tangentium inversum revocetur ad
+quadraturas. Car quoy qu'il ait une autre methode plus absolue, <hi rend="i">quaeque non indiget alijs praecognitis</hi>, il arrive pourtant souvent que le calcul y monte trop haut, et pour cela il s'arreste à celle qui est par les quadratures comme estant plus commode.</p>
+<p>Or ce que je trouve a dire à cecy, comme je luy ay aussi remontrè, c'est que quand on a reduit le probleme a quelque quadrature inconnue, on n'a rien avancè si on ne scait comment trouver cette quadrature, ou comment demontrer son impossibilitè. Et je ne scay, si parfois on ne parviendroit pas à des quadratures impossibles, quoy que le problème de la tangente fust possible. Voicy l'une de ses Propositions, Quandocunque proprietas tangentium data exhibet valorem Subtangentialis per solam (ex indeterminatis) abscissam, vel per solam ordinatam, problema reducitur ad quadraturas. En quoy les racines sont aussi comprises.</p>
+<p>L'autre proposition est. Si valor subtangentialis detur per <hi rend="i">x</hi> et <hi rend="i">y</hi> simul, tunc non semper facile est reducere problema ad quadraturas, infiniti tamen sunt casus ubi res procedit, et generaliter hoc pronuntiari potest, Quandocunque valor subtangentialis est productum ex duabus quantitatibus seu formulis, quarum una datur per solam abscissam <hi rend="i">x</hi>; altera per solam ordinatam <hi rend="i">y</hi>, tunc problema reducitur ad quadraturas.</p>
+<p>Il y a quelque chose de bon icy en ce que les racines ne sont pas exceptées, mais vous voiez d'ailleurs quelle infinitè de cas se peuvent resoudre par vostre methode, qui ne tombent pas sous celles-cy, outre ceux qui se resolvent absolument par la vostre, et qui par celle de Mr. <persName key="leib013">Leibnitz</persName> aboutiroient à quelque quadrature peut estre inconnüe.</p>
+<p>Il met pour exemple de cette seconde Proposition, de chercher la courbe dont je luy avois cy devant donnè la soustangente<note n="#6"/> <figure rend="inline"><graphic url="huyg003oeuv10fi433.gif"></graphic></figure>. Il reduit ce problème à la quadrature de la courbe AH. c'est à dire a celle de son espace indefiniment pris, AHB; cette courbe s'exprimant par cette Equation <figure rend="inline"><graphic url="huyg003oeuv10fi435.gif"></graphic></figure>, ou <hi rend="i">aaxx</hi>-<hi rend="i">aazz</hi>+<hi rend="i">xxzz</hi> ∞ o, Et il donne ensuite cette quadrature, et par elle il trouve que la courbe cherchée, qui a sa soutangente <figure rend="inline"><graphic url="huyg003oeuv10fi433.gif"></graphic></figure>, s'exprime par cette Equation, <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ 4<hi rend="i">aayy</hi>-4<hi rend="i">aaxx</hi>. Or je sçavais fort bien cette quadrature de la courbe AH, qui est celle que je vous proposay<note n="#7"/> pour trouver par elle
+l'Equation de la courbe; et je scavois aussi que cette quadrature estant donnée, mon probleme estoit résolu<note n="#8"/>; mais je crus en le luy proposant qu'il le resoudroit
+<figure><graphic url="huyg003oeuv10ill50.gif"></graphic></figure>
+independamment, et qu'ainsi sa methode des tangentes renversée produirait la quadrature de la ligne AH. Mais cela a estè autrement, et il a falu qu'il cherchast cette quadrature. Je ne scay pas par quel moien, mais c'est ce qu'il devroit m'apprendre, pour me rendre sa methode de quelque usage.</p>
+<p>Vous connaissez cette courbe AH<note n="#9"/> dont l'espace AHB ∞=NP, quand NOK est un quart de inconference.</p>
+<p>J'ay donnè a mon frère de Zulichem un Exemplaire de mon traitè de la Lumiere<note n="#10"/>, que je vous prie Monsieur de luy demander, et de le faire tenir à Mons.r Bernard, dont le nom y est escrit à la premiere page. Je l'avois oubliè malheureusement lors que j'en fis la distribution<note n="#11"/> et il ne s'est guere falu que je n'aie encore une fois oubliè d'avoir chargè mon frere de cet Exemplaire. Si vous avez occasion de voir Mons.r Bernard<note n="#12"/> vous luy direz, s'il vous plaist, que je suis bien honteux de m'acquitter si tard de cette dette, ou bien vous le luy ferez sçavoir
+par d'autres. Vous m'obligerez aussi si vous voulez bien assurer de mes respects nos Illustres amis Monsieur <persName key="boyl001">Boyle</persName>, Monsieur <persName>Hamden</persName>, Monsieur <persName key="lock001">Locke</persName> que je suis faschè de n'avoir pas assez connu quand j'estois en Angleterre<note n="#13"/>, et a qui je suis obligè non uno nomine<note n="#14"/>. Je seray fort aise d'apprendre que vous vous portiez bien et que vous vous souveniez</p>
+<div type="closer">
+<p>Monsieur
+<lb/>de Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>J'ay donnè quelque chose en matière de Musique a Mr. <persName key="basn002">de Beauval</persName> que vous pourrez voir dan son Journal<note n="#15"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

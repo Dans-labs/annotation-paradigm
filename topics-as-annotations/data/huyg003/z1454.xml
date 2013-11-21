@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1454"/>
+<meta type="date" value="1665-09-04"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1454">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 4 Septembre 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Je me suis donne l'honneur de vous escrire des le mois passé<note n="#1"/> pour vous remercier des soings qu'il vous a pleu de prendre pour me faire preparer<note n="#2"/> vne horologe a pendule de vostre nouuelle Inuention Et pour vous prier de m'en vouloir mander le prix afin de vous l'enuoyer aussi tost. Depuis Je lay receuë en fort bon estat Et sans quelle ait receu de dommage par les chemins Et l'ayant faict ouurir et suspendre par Monsieur Turet<note n="#3"/> suiuant vostre auis en presence de Messieurs Petit, Auzout et d'autres Curieux, Je vous puis asseurer, Monsieur, quils ont tous beaucoup estimé et approuué cette nouuelle production de vostre esprit. Monsieur de Carcauy pareillement la veuë auec admiration Et ma donné de grandes Esperences de posseder bien tost vostre chere presence. Vous ne doutez pas que je n'en aye beaucoup de Joye par la profession que Je fais d'honorer vostre merite et vostre scauoir, Et par l'interest de la France qui commence a reprendre sur la Hollande les auantages quelle a eu sur nous lors qu'elle nous a enleué les Scaligers<note n="#4"/> et les
+Saumaises<note n="#5"/>, Je vous conjure Monsieur destre persuadé de mon affection Et de ma gratitude Et de croire quil ny a Personne qui soit plus veritablement que moy</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="monm010">de Montmor</persName>.</p>
+</div>
+<p>Je vous prie donc Monsieur de me faire scauoir promptement le prix et les frais de lhorologe afin que dy satisfaire au mesme temps. Je ne pretends pas macquiter par la de l'obligation que ie vous auray tousiours de vostre Ciuilité. L'horologe sarreste mais jl sera aise dy remedier a mon auis</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zuylichen</persName> A la Haye.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

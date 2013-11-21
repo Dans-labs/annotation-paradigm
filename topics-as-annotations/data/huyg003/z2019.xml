@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2019"/>
+<meta type="date" value="1675-03-29"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2019">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Ce fut en Aoust ou Septembre dernier que je vous envoijaij une sorte d'Apologie<note n="#1"/> de mon Archimede se defendant contre ce qu'il avoit pleu au bon Monsieur Hooke luy imposer<note n="#2"/>, de ce qu'il avoit eu connoissance de sa construction d'une Horologe à pendule circulaire, proposée par le dit Sr. Hook l'an 1666 chose que le dit Archimède avoit desjà inventée 8 ans auparavant, qui fut en 1658, comme en 1661 il l'avoit expliquée a Monsieur Wren et plusieurs autres membres de la Societé Royale. A present voyci ce qu'il m'escrit.</p>
+<p>‘Je ne scay si Monsieur Hook aura receu vostre Lettre<note n="#3"/> par laquelle vous luy avez faict part de ma defence contre ce qu'il m'impute, touchant la Pendule circulaire; mais ie voy que dans un escrit<note n="#4"/> qu'il vient de faire imprimer contre Hevelius, il s'attribue ceste invention, et m'accuse de l'avoir publiée, comme estant de moy, sans faire mention de luy. ne disant mot de tout ce que je vous ay mandé.’</p>
+<p>Vous voyez, Monsieur, que je suis icy reduit à prouver et justifier ma loijauté, à l'instance et pour l'intêret d'un enfant que j'ay un peu sujet de cherir. Je vous supplie de me sortir de ce pas, et en suite de scavoir un peu, à quel dessein Monsieur Hook en use ainsy envers un pere et un fils, qui desirent si fort de conserver le bien de son amitié, et honorent tant son beau scavoir. Il importe d'agir candidement par tout. Ainsi, sans faute, m'en verrez vous user en toutes choses de mon pouvoir et de vostre service, faictes moy la faveur de vous y fonder et de me croire</p>
+<div type="closer">
+<p>Monsieur,
+<lb/>Vostre treshumble et tres affectionné serviteur <persName key="huyg003">C. Huygens de Z.</persName></p>
+</div>
+<p>Mon fils me mande aussi, qu'il s'estonne de n'avoir receu aucune de vos nouvelles, sur ce qu'il avoit escrit<note n="#5"/> de sa nouvelle invention de pendule de poche, comme les françois la baptisent.</p>
+<p>Mes tres humbles baisemains, s'il vous plaist à vostre precieux phenix, monsieur Boyle.</p>
+<p>J'espere que Mademoiselle Brown vous aura faict rendre ma derniere du 13<hi rend="sup">e</hi> du courrant.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">Grubendol</persName> au Pallmail à Londres.</p>
+<p>&nbsp;</p>
+<p>[Const. Hugens to Old. concerning his son's invention of the circular Pendulum Ent<hi rend="sup">d</hi>. L.B. Suppl.]<note n="#6"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

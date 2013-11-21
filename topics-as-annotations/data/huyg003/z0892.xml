@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0892"/>
+<meta type="date" value="1661-09-21"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0892">
+<div type="opener">
+<p>Nobilissimo ac Clarissimo Viro, Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="heve011">Johannes Hevelius</persName> S.P.D.</p>
+</div>
+<p>Gratias habeo debitas, quod adeò varijs iucundissimis rebus me beare non nolueris; inprimis verò magnoperè nobis gratulor, observationem coniunctionis ♀ et ☉ Tibi esse concreditam Jeremiae Horroxij; quam si mihi transmittere velis, utique lubentissimè eam simul cum meê observatione ☿ quantocyus publici faciam iuris. Quapropter rogo Te etiam atque etiam, ut primâ quâque occasione istam-mihi transmittas: mea enim propediem praelo committenda est. A Clarissimo Patre Ricciolo iam pridem nil literarum obtinui, quo factum sit, sanè, ignoro. Laetor Anglos tandem perfecisse globum illum Lunarem, quem in meâ Selenographiâ satis
+clarè, ut opinor descripseram; profectò, mihi tantum otij non superfuit, à reliquis meis gravioribus negotijs, ut eundem ipsemet. construxissem. Si quis venalis sit pro mediocri pretio, quaeso exemplar mihi procures rogo, pecuniam lubens reddam: flagro enim videre, quâ ratione omnia adornaverint, num nomina nostra, an vero Riccioli Maculis imposuerint?<note n="#1"/></p>
+<p>Observationem meam Pareliorum, quamprimum aeri insculpta fuerit, unà cum fusiori, et pleniori descriptione lubens transmittam: arcus isti inversi, qui irides circumsolares contingebant, omninò sectiones circuli retulerunt: quemadmodum ipse clariùs ex schemate percipies.
+Dominus <persName key="boul014">Bullialdus</persName> noster qui 23 Augusti ex Poloniâ Dantiscum redijt, die 12 Septembris hinc iterum Berlinam profectus est, intra Mensem ut spero ad vos rediturus est: citiùs enim fieri haud poterit. Proposuit namque iter per Wittebergam, Dresdam, Lipsiam, Francofurtum et Coloniam instituere; faxit Omnipotens ut quàm felicissimè istud conficiat. quanquam optassem ut eius suavissimaâ conversatione diutiùs frui licuisset, nihil, crede, accidisset gratius. Vale Vir Nobilissime.</p>
+<div type="closer">
+<p>Dabam <placeName key="gdans001">Dantisci</placeName> <date>Anno 1661, die 21 Septembris</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo ac Clarissimo Viro, Domino <persName key="huyg003">Christiano Hugenio</persName>, amico plurimum honorando <placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

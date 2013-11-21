@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1230"/>
+<meta type="date" value="1664-05-01"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1230">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 1. de May 1664.</p>
+</div>
+<p>Voycy un eschantillon de cheveulx<note n="#1"/> que Toot<note n="#2"/> me recommande de vous envoyer et en mesme temps de faire ses excuses sur ce qu'il n'escrit pas ayant eu le
+mesme jour de ma lettre un acces de sa fiebvre tierce qu'il s'est attirée de nouveau à force de manger à ces nopces d'Amsterdam<note n="#3"/>.</p>
+<p>I'ay songé que si il Signor Padre fait le voyage d'Angleterre comme cela pourroit aisement arriver, ce pourroit estre une bonne occasion pour vous de venir icy, et auoir soing de vos affaires de Longituderie, en vous faisant releuer de garde par Tootbroer<note n="#4"/> qui pourroit se mettre dans le Pacquet-boate et passer en 24 heures. Il vaut la peine d'y songer. Ie prevoy que ce voyage la se fera indubitablement si l'Ambassadeur d'Angleterre<note n="#5"/> a son audience dans le temps qu'il semble qu'on la peut esperer suivant la derniere depesche del Signor Padre soit que le Roy accorde ou refuse la demande dudit Ambassadeur.</p>
+<p>Maitre <hi rend="i">Wilhem de Vioolmaker</hi><note n="#6"/> redemande le Violin qu'il a donné en gage al Signor Padre et il y a long temps qu'il m'a commandé de le luy rendre. L'ayant cherché dans toutes ses Garderobbes je ne le trouve pas, et cela me fait doubter s'il n'est pas quelque part parmy vos hardes, si cela est n'oubliez pas de me l'enseigner, ce peuvre garcon a payé sa debte et on ne luy rend pas son gage.</p>
+<p>Il me tarde fort de voir vostre tableau de miniature<note n="#7"/> de 20 pistoles, il doibt estre bien beau. Mais ce jeune homme<note n="#8"/> a 't il du dessein comme il en faut, ou l'a 't il fait apres quelque piece d'un bon maistre? Je croy qu'ayant moyen de communiquer auec un bon maistre vous aurez eu soin d'apprendre de luy quelques particularités touchant les couleurs et comment il les employe. En particulier je vous prie de scavoir un peu de luy de quel blanc il se sert, et combien de gomme il y adjouste en le broyant et le detrempant auec de l'eau. J'ay tiré de Blauet<note n="#9"/> touchant cette matiere de couleurs tout ce qu'il me sembloit qu'il se pouvoit scauoir de luy qui n'estoit que passablement grand maistre et vous en feray part à vostre retour.</p>
+<p>Je vous ay demandé souuent sans y auoir jamais eu de response si auec ces bonnes et longues lunettes d'approche que vous dites estre a Paris ils decouvrent des choses que nos ne voyons pas des nostres dans la Lune ou les planetes.</p>
+<p>On dit que Jacoba Bartolotti<note n="#10"/> est demandée en mariage et mesme se marie avec Bran Sorck<note n="#11"/>, frere de Monsieur de Berghen<note n="#12"/>.</p>
+</div>
+<div type="para">
+<p>Au frere <persName key="huyg003">Chrestien</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

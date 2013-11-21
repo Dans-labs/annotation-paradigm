@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0319"/>
+<meta type="date" value="1656-07-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="robe012"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0319">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Remarques vrayes. deux espaces qui ne servent point. lieu entier peut estre une droite. Hevelij hypothesis. Des questions de Fermat par Carcavy.</p>
+</div>
+<div type="opener">
+<p><persName key="robe012">Roberval</persName>.</p>
+<p>Monsieur,</p>
+</div>
+<p>Ayant examinè vos remarques sur des Cartes je les trouve tresbelles et veritables<note n="#2"/>. Et je m'estonne qu'il s'est laisse eschapper des fautes si grossieres en une matiere ou il a voulu monstrer ce qu'il scavoit par dessus l'antiquitè<note n="#3"/>. Je ne me suis pas donnè la peine de faire le calcul selon l'algebre, mais en considerant seulement la figure avec attention, j'ay veu que si l'on distingue les 2 lignes AB, CD, sur lesquelles il faut mener les droites CP, CO, qui font l'un des rectangles, d'avec les 2 autres AF, BF sur lesquelles tombent les droites CM, CN qui font l'autre rectangle (j'ay fait icy les 2 premieres plus grosses que les 2 autres). J'ay doncveu, que par toutes les intersections d'une grosse et d'une menue, il doibt passer deux
+<figure><graphic url="huyg003oeuv01ill159.gif"></graphic></figure>
+lieux et que par consequent le point C se trouve dans tous les espaces ou il y a un angle compris d'une grosse et d'une menue. Et quelquefois aussi dans les autres, desquels il y en a pourtant deux dans ce cas proposè, à scavoir les angles KCL, GFH, auxquels le dit poinct ne se trouve pas. Les angles d'incidence M, P, O, N, estant supposè droits. Et quand toutes les lignes donnees de position s'entrecoupent en un mesine point, il y peut avoir quatre espaces qui ne recoivent pas le poinct C. c'est pourquoij je ne comprens pas ce que vous dites que quand le point C ne se trouve pas dans l'un de ces espaces compris de deux lignes, il se trouve necessairement dans tous les autres. Quand aux 2 lieux entiers du point C, je croy qu'on le trouvera tousjours ainsi, pourvu que par un lieu entier on entende aussi quelquesfois une seule ligne droite; et c'est ce que fait un plan qui touche deux cones opposez. Vous voyez dans ma derniere figure un cas ou il doibt estre pris de cette facon. au reste la speculation de ce double lieu me semble tresexcellente. et j'ay escrit à Monsieur <persName key="scho197">Schoten</persName>, en luy envoyant vostre lettre, qu'il seroit tresbien de la mettre dans ses commentaires, car il est apres à faire imprimer de nouveau la Geometrie de des Cartes. Quand il m'aura fait responce je vous la communiqueray aussitost.</p>
+<p>Hevelius m'a envoyè son traictè qu'il a mis au jour de Saturni nativa facie, son hypothese est que Saturne à en effect 2 anses attachees aux costèz de cette facon <figure rend="inline"><graphic url="huyg003oeuv01fi63.gif"></graphic></figure> en quoy je ne pense pas qu'il ait trop bien rencontrè. Mais le pis est qu'avec cela il ne fait pas veoir la cause des diverses phases entre lesquelles il en marque une de cette forme <figure rend="inline"><graphic url="huyg003oeuv01fi64.gif"></graphic></figure> qui a mon advis ne scauroit estre deduite de sa dite hypothese.
+S'il avoit des meilleures lunettes d'approche il ne le verroit jamais trisphaericus, car c'est ainsi qu'il appelle cette derniere apparition.</p>
+<p>Je vous ay priè dans ma precedente de me expliquer vostre opinion touchant ces estranges phaenomenes, la quelle sans doute sera plus vraysemblable. Je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="huyg003">Chr. Huygens de Zul.</persName></p>
+</div>
+<p>Il y a longtemps que je n'ay point eu de nouvelles de M.<note n="#4"/>. Je ne scay ce que je doibs penser de ce que ny luy ny Monsieur <persName key="carc010">de Carcavy</persName> ne me respondent point depuis que je leur ay envoyè la solution de quelques questions en matiere des jeux de hazard, que Monsieur <persName key="ferm011">de Fermat</persName> m'avoit proposees. Entre autres il y avoit celle cy, de determiner quel est l'avantage de celuy qui jouant au piquet gage qu'il aura 3 as dans ses 12 premieres cartes, qui est assez dissicile.</p>
+<p>Si vous connoissez de Carcavy je vous prie de me dire a peu pres ce &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

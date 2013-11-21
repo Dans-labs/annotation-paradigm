@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1334"/>
+<meta type="date" value="1665-02-25"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1334">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>vous aués veu par mes dernieres<note n="#1"/> auec quelle joye jauois appris la confirmation de la solidité de vos horloges pour l'inuention des Longitudes et je ne vous la repeteray point icy inutilement. Ie vous diray seulement que j'en ay respandu la nouuelle partout et que pour la rendre encore plus publique j'ay communique vostre despesche a Monsieur Salo<note n="#2"/> Conseiller au Parlement afin qu'il en fist faire mention dans le Journal des Scauans qui par son soin et ses liberalités se debite icy toutes les semaines a la grande consolation des gens de lettres qui en tirent instruction et plaisir. Vous verres dans celuy<note n="#3"/> que je vous enuoye et qu'il m'a tres-volontiers donne pour vous quand je luy ay demandé, si vous y aués este bien traitté et si je me suis endormi pour vostre gloire.</p>
+<p>Ie ne m'endormirois pas dauantage pour vostre profit si jy voyois jour et si nostre Cour estoit disposee a reconnoistre vostre admirable descouuerte pour l'vtilité de la Nauigation, comme elle lestoit du temps du Cardinal de Richelieu, lequel ayant promis vne notable recompense a quiconque trouueroit le secret des longitudes fit donner a l'ignorant Morin<note n="#4"/> qui se vantoit den estre venu a bout, vne pension de deux mille francs sur l'Abbaïe de Chailli. Depuis on na plus songé a rien de pareil et comme sont presentement les choses je crains que vous n'ayés pour cela de nous que beaucoup dadmiration et de louanges. Je ne scay au reste si en Espagne on a de plus fauorables dispositions et pour men esclaircir j'ay chargé vn de mes Amis<note n="#5"/> qui est parti il y a huit jours pour Madrid de sen enquerir soigneusement quand il y sera et de me faire scauoir ce quil en aura appris afin qu'aussi tost je vous en auertisse.
+Vostre Ambassadeur<note n="#6"/> qui y est pourroit auec bien autant de succes faire la mesme diligence. Donnés moy part de vos desseins et m'informés exactement de tout ce qui fait a vostre honneur sur tout du detail que le Capitaine Holmes a promis a Monsieur Moray de luy donner par escrit de sa nauigation et de la fidelite de vos Pendules. J'en feray l'vsage qu'il faudra et vous n'aurés pas sujet de vous en repentir, car vos interests sont plus chers que les siens propres</p>
+<div type="closer">
+<p>Monsieur
+<lb/>à Vostre treshumble et tres obeissant Seruiteur <persName key="chap002">Chapelain</persName>.</p>
+<p>De <placeName key="parij001">Paris</placeName> ce 25. Feurier 1665.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

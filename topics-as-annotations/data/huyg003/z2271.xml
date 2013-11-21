@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2271"/>
+<meta type="date" value="1682-07-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="gorin001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2271">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 19 Jul. 1682.</p>
+</div>
+<p>Ayant fait partie avec le frere de S. Annelant et ma soeur<note n="#1"/> d'aller demain faire un tour a Amsterdam, ou nous resterons 2 ou 3 jours, je n'ay pas voulu manquer
+de vous informer devant mon depart touchant l'estat de la santè du frere de Zeelhem, qui dieu mercy se porte assez bien maintenant, et voudroit bien des apres demain entreprendre le voiage de Dieren, ce que pourtant nous luy deconseillons, puis qu'il se sent un peu la teste legere, quoyque beaucoup moins que dans le commencement. l'humeur qu'il avoit eue qui luy causoit de la surditè a une oreille, estant en suite tombée sur l'un des yeux luy a fait pendant quelques jours voir toutes choses doubles, mais cela est passè et la surditè en mesme temps, ce qu'il ne compte pas pour peu. Je viens de disner avec luy, et a l'heure qu'il est il se promene en carosse, comme il a desia fait ces 2 ou 3 jours.</p>
+<p>Mon pere part aujourdhuy de Buren a ce qu'il m'a mandè, et selon que nous comptons ses journees nous pourrions bien le rencontrer a Amsterdam Nienrode ou quelque part en chemin.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg008">L. Huijgens</persName> drossart der stadt Gorcum en des Landts van Arckel. Tot Gorcum.</p>
+</div>
+</body>
+</text>
+</TEI>

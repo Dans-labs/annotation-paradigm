@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1210"/>
+<meta type="date" value="1664-02-07"/>
+<meta type="sender" value="witt001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1210">
+<div type="opener">
+<p>Mijn Heere</p>
+</div>
+<p>Uyt UwEdls missive<note n="#1"/> vanden j<hi rend="sup">n</hi> deser loopende maendt hebbe ick met aengenaemheijdt ende sonderling contentement verstaen dat UwEdls horologien door preuve op zee genomen goede hope overlaeten om op groote voijagen tot het vinden vande lengte Oost- ofte Westwaerts te connen dienen, ende hadde oock al voor UwEdls vertreck derwaerts verwacht dat door de selve daerover requeste gepresenteert soude sijn geweest aende Heeren Staten generael; 'twelck tot noch toe niet geschiedt sijnde soo geve UwEd: in bedencken off sulcx alsnoch niet hoe eer soo liever sal dienen te geschieden, te meer om door UwEdls compaignon<note n="#2"/>, die desselfs discretie nu niet discretelyck schijnt te rencontreren, daerinne niet geprevenieert te worden; mijns bedunckens kan sulcx oock wel in UwEdls affwesen
+werden geëntameert, aengesien, alvorens daerop eenige positive dispositie schijnt te connen vallen, het werck ter preuve van die vande Oostjndische Compagnie, off van d'een off d'ander Admiraliteyt staet gestelt te werden. Doch ick referere mij desenaengaende tot UwEdls beter oordeel ende verblijve</p>
+<div type="closer">
+<p>Mijn Heere</p>
+<p>UwEd Oodtmoedigen dienaer, <persName key="witt001">Johan de Witt</persName> 1664.</p>
+<p>Haege den 7<hi rend="sup">en</hi> februari 1664.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Huygens de Zulichem</persName> Gentilhomme Hollandois à Paris.</p>
+</div>
+<div type="comment">
+<head rend="h4">Traduction</head>
+<p>Monsieur, j'ai appris avec plaisir et singulier contentement par votre lettre du 1<hi rend="sup">er</hi> courant que vos horloges, par l'épreuve prise sur mer, ont laissé bonne espérance de pouvoir servir dans de longs voyages à trouver la longitude vers l'orient ou l'occident, et déjà avant votre départ par delà j'avais attendu que vous en auriez présenté une requête a Messieurs les Etats-Généraux.
+Comme cela n'a pas eu lieu jusqu'à présent je vous donne en considération si cela ne devrait pas encore être fait le plus tôt possible, d'autant plus afin de n'y être pas prévenu par votre compagnon, qui ne semble pas répondre discrètement à votre discrétion.
+selon mon opinion, cette affaire peut être entamée très bien en votre absence puisque avant que quelques dispositions positives puissent être prises, il faudrait que l'invention sera soumise à l'épreuve de ceux de la Compagnie des Indes Orientales ou de quelque Amirauté.
+Mais quand à ceci je me refère à votre jugement meilleur, et je reste</p>
+<p>Vostre tres-humble serviteur</p>
+</div>
+</body>
+</text>
+</TEI>

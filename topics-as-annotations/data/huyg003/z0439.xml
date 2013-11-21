@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0439"/>
+<meta type="date" value="1657-12-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0439">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Huddenium esse Amstelodamensem:</p>
+<p>Methodum Huddenij describo:</p>
+<p>Ostendit itaque et tuam esse ex curvis desumptam quarum quadraturae et centra gravitatis ab alijs inventa. quod uti ego nescivi, ita te quoque nescivisse opinor, quoniam alioqui non dedignatus fuisset 3<hi rend="sup">am</hi>.</p>
+<p>Quod porro multis te excuset.</p>
+<p>Centrum gravitatis 1<hi rend="sup">ae</hi> quod me miratur non invenisse, neque ipse invenit.</p>
+<p>Praecipuum ait nos omisisse, tangentem nimirum ex puncto extra periferiam dato. non quod difficilis sit resolutio sed compositio, quam planam esse ait. Veluti in curva tua tum punctum extra circumferentiam est datum &amp;c. positis AB ∞ <hi rend="i">a</hi> &amp;c. aequationem ait esse &amp;c. Constructionem vero per circulos et rectas absolvi posse. quod equidem verum esse non dubito, quoniam curva ipsa ejus naturae est ut solidum problema ejus ope construi possit.
+Neque adeo difficilè id reperiri posse credo quam <persName key="hudd002">Huddenius</persName> existimat. Neglexeram autem hanc ipsius inventionem prioribus ad te meis<note n="#1"/> adjicere, quod praeter ea quae postulaveram hoc ille respondisse videbatur. Inventum meum de <seg org="supersicie" resp="#AD" type="corr">superficie</seg> Conoidis Parabolici. casus quosdam cum basi commensurabilis est. Alterum cur reticeam causa quaedam subest.</p>
+</div>
+<div type="opener">
+<p><date>20 Dec. 1657</date>.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+</div>
+<p>Significavi tibi antehac duo nova circa parabolam me deprehendisse; horum alterum tibi edam, alterum certa de causa adhuc reticebo. Inveni itaque quomodo dati parabolici conoidis superficiei circulus aequalis describatur. Convexamque illius
+<figure><graphic url="huyg003oeuv02ill53.gif"></graphic></figure>
+superficiem baseos rationem habere ad circulum quam numerus ad numerum; quoties basis parabolae per axem commensurabilis est tangenti ipsam ad terminum baseos, et ad axem usque productae. Ut si sit Conoides parabolicum cujus sectio per axem parabolae ABC axis DB. Sitque tangens AE commensurabilis basi AC. Erit quoque superficies convexa Conoidis ABC ad circulum circa AC sicut numerus ad numerum. nempe si ponatur EA aequalis AC, dico superficiei dictae ad dictum circulum eam esse rationem quae 14 ad 9, si vero AE sesquialtera basis AC erit praedicta ratio quae 13 ad 6.</p>
+<p><figure rend="inline"><graphic url="huyg003oeuv02fi06.gif"></graphic></figure> triduum est cum Saturnum denuo observare coepi longo telescopio meo. eamque ipsius phasin reperi quam fore praedixeram, quae planè Systema meum comprobat. Miror vero ubi morentur observationes Italicae quas tibi missum iri scripsisti, quamquam scio per te non stare, quo minus illas accipiam. Vale Praestantissime et ama</p>
+<div type="closer">
+<p>Tibi addictissimum <persName key="huyg003">Christ. Hugenium de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

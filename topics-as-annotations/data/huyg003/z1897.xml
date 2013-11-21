@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1897"/>
+<meta type="date" value="1672-06-22"/>
+<meta resp="HI" type="sender" value="slus001"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1896"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1897">
+<div type="opener">
+<p>Ren. Frans. Slusii spta ad H.O.d. 22 Junii 1672<note n="#3"/>.</p>
+</div>
+<p>Literis tuis admonitus temperare mihi non potui, quin faciliorem Problematis Alhazeniani constructionem quaererem<note n="#4"/><note n="#5"/>.</p>
+<p>Incidi autem nuper in sequentem, quâ breviorem cum dari posse vix credam, committere nolui, quin eam iudicio ac censurae tuae submitterem.</p>
+<p>Sint igitur puncta data EB, circulus cuius centrum A iunctis EA, BA secantibus circulum in F et C; fiant tres proportionales EA, FA, VA, et tres iterum BA, CA, XA: tum iunctâ VX ac productâ utcumque, vertice, X, latere transverso VX, ac recto ipsi aequali, describatur hyperbola XP, cuius applicatae ad diametrum VXG, parallelae sint rectae EB: illa enim satisfaciet proposito in casu
+<figure><graphic url="huyg003oeuv07ill43.gif"></graphic></figure>
+speculi convexi, ut ejus opposita in casu concavi. Si asymptotes desideres, facile reperiri possunt productâ VX, donec cum EB pariter producta concurrat in L, deinde bisectâ VX in I, ac sumptâ LD, aquali LI; iuncta enim DI erit asymptot<hi rend="i">ῶν</hi> una, in quam alia normaliter incidit ad punctum I.</p>
+<p>Sed fortasse tibi non erit ingratum intelligere, quâ viâ ad hanc constructionem pervenerim: scias itaque, me ex priore mea Analysi deduxisse hoc modo. Datis ijsdem quae prius, cadat in EB normalis AO, sitque punctum quaesitum P, ex quo in AO cadat normalis PR. Si AO sit <hi rend="i">b</hi>; EO, <hi rend="i">z</hi>; OB, <hi rend="i">d</hi>; AP, <hi rend="i">q</hi>; PR, <hi rend="i">e</hi>; AR, <hi rend="i">a</hi>; facile colligitur haec aequatio
+<figure><graphic url="huyg003oeuv07ill44.gif"></graphic></figure><note n="#6"/></p>
+<p>Hujus ultimae constructionem olim ad te misi<note n="#7"/>, alterius vero Clarissimus Hugenius. Primum autem, licet se statim in conspectum dedisset, fermè neglexeram, difficilioris constructionis esse praesumerem. Sed me vano timore delusum agnovi, cùm in hanc, quam ad Te mitto, constructionem desinere nuper sum expertus. Sit enim, brevioris calculi causâ,
+<figure><graphic url="huyg003oeuv07ill45.gif"></graphic></figure></p>
+<p>Fiet igitur <hi rend="i">ἀναλογισμῶς</hi>
+<figure><graphic url="huyg003oeuv07ill46.gif"></graphic></figure>
+qui ad aequationem faciliorem reduci potest, si posito <hi rend="i">kk</hi> + <hi rend="i">mm</hi> = <hi rend="i">pp</hi> fiat <hi rend="i">ky/p</hi> = <hi rend="i">a</hi>; fit enim tandem, quadratum ex <figure rend="inline"><graphic url="huyg003oeuv07fi08.gif"></graphic></figure> aequale <figure rend="inline"><graphic url="huyg003oeuv07fi09.gif"></graphic></figure>; quam aequationem constructioni superiori respondere
+animadvertes, si calculos applicueris; ac simul observabis, ad quamcumque linearum EA, AB, BE referatur analyseos summa, easdem semper haberi posse sectiones, quamvis longiore circuitu et aequationibus valde diversis.</p>
+<p>Ex hoc constructione <hi rend="i">ϰατ᾽ ἀναλογίαν</hi> deducere licet alterius Problematis effectionem, cùm scilicet quaeritur punctum à quo radius reflexus parallelus sit cuilibet
+<figure><graphic url="huyg003oeuv07ill47.gif"></graphic></figure>
+lineae datae. Ut si dato puncto luminoso B, circulo ex centro A, quaereretur radius reflexus parallelus rectae AE. Idem enim est, acsi, in alio Problemate, distantia punctorum A et E supponeretur infinita; quo casu tertia proportionalis ipsarum EA, FA, abiret in nihilum, et puncta A et V coinciderent. Itaque VX esset aequalis AX, et AE parallela PE.</p>
+<p>Applica igitur superiorum constructionem et Problema absolves; descriptâ scilicet (vertice X, latere transverso VX, vel AX, et recto ipsi aequali), hyperbolâ XP, cuius applicatae ad diametrum AX, parallelae sint rectae AE.</p>
+</div>
+</body>
+</text>
+</TEI>

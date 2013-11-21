@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2577"/>
+<meta type="date" value="1690-03-28"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2577">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> a l'obseruatoire le 28 [Mars] 1690.</p>
+</div>
+<p>Celle cy ne seruira, Monsieur, que pour uous marquer que j'ay receu la uostre dattée du 9<hi rend="sup">e</hi> du courrant<note n="#1"/> par laquelle j'apprens que uous estes en peine si j'auois receu uostre precedente du 18 Januier<note n="#2"/>. Mais comme je ne fais aucun doute que uous nayez receu la reponse que i'y ay faite<note n="#3"/> sur tous les articles que uous me demandiez, je ne uous repeteray point icy les mesmes choses qui ne seruiroient qu'a uous ennuyer. Il y eut un accident comme je uous ay marquay<note n="#4"/> qui mespeschât<note n="#5"/> de uoir cette lettre aussitost quelle sut arriuee icy. Je ne scache rien à ajouter a ceque je uous ay escrit si ce n'est que tous nos scauans sont dans une grande impatience de uoir uostre traitté de la lumiere et de la pesanteur. Pour mon particulier uous ne deuez pas douter de mon empressement la dessus, puisque uous deuez estre tres persuadé qu'il n'y a personne qui uous honore et qui uous estime
+plus que moy. Je connois tres bien uostre merite et celuy de uos ouurages pour ne les pas mettre au dessus de tous ceux de lantiquité en leur rendant justice. J'ay seulement une excuse a uous demander de n'auoir pas parlé auec autant d'exageration de uostre pendule que je connois qu'il le faut faire<note n="#6"/> dans la préface de mes tables; mais mon eloquence ne me permet pas de pouuoir en dire dauantage quoy que le peu de connoissance que j'ay dans ces matieres me fasse uoir qu'on n'a jamais rien fait pour l'astronomie qui puisse approcher de cette decouuerte. Jay fait sçauoir a M. Cassini ce que uous me marquiez pour ses tables des satellites de 4 mais il trouue toujours de nouuelles difficultez qui le retardent, et il ne peut pas se persuader que M. flamsted puisse rien faire de juste sur ce sujet sans auoir pris autant de precautions que luy, c'est aumoins ce que j'en puis conjecturer. Vous ne trouuerez peut estre pas mauuais que je uous fasse part de nostre derniere obseruation
+de l'eclipse de lune de 24 de ce mois le temps estoit tres serein. Jay trouue le commencement a 8<hi rend="sup">h</hi> 50′ 20″, la sin a 11<hi rend="sup">h</hi> 18′ 30″ et sa quantité de 5<hi rend="sup">d</hi> 36′. Jay fait un grand nombre dobseruations du passage de lombre par les taches mais je ne uous ueux pas estre importun si uous souhaittez de uoir ces sortes dobseruations iy joindray encore celles des années precedentes tant de soleil que de lune dans lesquelles le ciel nous a toujours presque esté fauorable. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="hire005">De la Hire</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

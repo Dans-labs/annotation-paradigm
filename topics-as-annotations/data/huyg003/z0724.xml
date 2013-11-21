@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0724"/>
+<meta type="date" value="1660-03-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0724">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>4 mars 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay estè estonnè de ce que vous me mandez touchant la response du Prince Leopold, n'ayant rien receu de sa part. Mais ayant estè veoir Monsieur l'Ambassadeur<note n="#1"/> j'ay bientost cognu d'ou est venu cet abus. Je luy avois parlè il y a quelque temps des 2 desseins des horologes que vous m'avez fait la faveur de m'envoyer et qui estoyent venus dudit Prince, ce que son Excellence a retenu comme si j'avois dit qu'ils avoyent estè envoyez directement a moy. Ne m'accusez donc pas Monsieur, et croyez que je ne manqueray pas de vous en donner avis si je reçois response, aussi bien que je vous ay fait ma plainte de ce qu'elle tarde si longtemps. Je voudrois bien sçavoir ce qui a fait changer de resolution a Son Altesse qui des aussi tost que le Sieur Carlo Dati luy avoit rendu mon livre, fit escrire par celluicy mesme a Monsieur Heinsius<note n="#2"/> que Son Altesse me feroit response lors qu'elle l'auroit leu. ce qui a tousjours fait croire a Heinsius que la lettre avec d'autres qu'il attendoit de Carlo Dati s'estoit perdue, jugeant de mesme que vous de la civilitè de Son Altesse.</p>
+<p>Quel est ce discours sur les experiences du vuide? est-il de vous, et y a t il quelque chose de plus dans la lettre de Monsieur Rinaldini que ce que l'on en a sçeu jusqu'a cet heure? vous m'obligerez de m'en informer.</p>
+<p>Pour ce qui est de l'aequation du temps je crains que nous n'en viendrons pas à bout en disputant par lettres. pourtant puis que vous n'avez pas refusè de m'interpreter au long le passage de Ptolemee je tascheray aussi de vous faire veoir que
+vous taschez en vain d'excuser son erreur. Il est vray que pendant les 94 jours apparents du premier intervalle il est escoulè 94 jours heures 0.25′.42″ de temps egal, (je dis selon vostre table) et que ainsi une horologe qui iroit de la vitesse du temps egal et moyen, et la quelle au commencement de l'intervalle auroit estè adjustee avec le soleil, c'est a dire qui montreroit 12 heures, au midy apparent du 4<hi rend="sup">e</hi> Novembre; que cette horologe au midy apparent du 6 Febrier monstrera heures 12, 25′42″. de mesme si on l'adjuste au 6 Febrier avec le soleil, on trouuera au midy apparent du 4 Novembre qu'il s'en faudra 25′42″ qu'elle ne soit parvenue a 12 heures. Les 94 jours apparents donc du premier intervalle sont surpassez des jours egaux escoulez en mesme temps de 25′42″ et au second intervalle les 271 jours apparents surpassent les jours esgaux, escoulez en mesme temps, des mesmes 25′42″. Qu'y a t il, je vous prie en cecy pour comparer entre eux les jours apparents du premier et second intervalle? Il est bien vray que lors qu'une quantité A excede B d'autant que B excede C, la difference de A et C est double de celle qui est entre A et B. Mais icy si l'on suppose A pour les jours apparents du dernier intervalle, et C pour ceux du premier, B ne peut representer chacune des deux quantitez du temps egal de l'un et l'autre intervalle, parce que ces quantitez sont si fort differentes; et partant c'est chose tres absurde et qui ne signifie rien que d'en tirer cette conclusion, que les jours apparents du dernier intervalle surpassent ceux du premier intervalle de 51′24″.</p>
+<p>A cet heure pour sçavoir quelle erreur il y auroit a craindre au mouuement de la lune, si on ne se servoit point de l'aequation du temps pourquoy voulez vous adjouster les <hi rend="i">deux</hi> differences, que l'on trouue en comptant son mouuement sur le temps egal et apparent, des <hi rend="i">deux intervalles.</hi> car selon Ptolemee l'on ne trouuera jamais de plus grande aequation de temps que de 33′20″. qui au mouuement de la lune ne peuuent importer que 18′, a sçavoir la moitiè des 36′ que vous dites. de sorte qu'il est vray qu'en adjoustant les deux differences l'on trouve 36′; mais ce n'est pas ainsi qu'il faut faire pour sçavoir la quantitè de l'erreur que l'on commettroit en negligeant l'aequation. Il me semble que cela est aisè à comprendre. Au reste Monsieur puis que j'estudie cette matiere, vous ne devez pas douter que je n'aye leu et considerè tres souuent ce que vous en avez escrit au libro 2. capite 7.<note n="#3"/> toutes fois l'aequation de Ptolemee non obstant vostre raisonnement me semble bien fondée, et que quand vous voulez que l'on face la reduction d'un punctum temporis apparentis ad tempus medium, c'est aussi dire une chose qui ne signifie rien, car l'on peut bien dire <hi rend="i">punctum meridiei apparentis esse cum solis locus apparens est in meridiano circulo</hi>, <hi rend="i">absolutè</hi>, <hi rend="i">sed meridies medius non item absolute dici potest</hi>, <hi rend="i">sed tantum respectu intervalli alicujus temporis</hi>, <hi rend="i">a quo tempus apparens</hi>, <hi rend="i">et medium simul numerare ceperint.</hi></p>
+<p>Je pense avoir oubliè de vous mander par ma precedente que l'inventeur du
+perpetuum mobile de Mayence<note n="#4"/> ou qui du moins se vante de l'avoir trouuè, m'en a envoyè les figures, qu'il a fait graver à Amsterdam en deux grandes planches. Mais l'explication n'y estant pas jointe, la quelle pourtant les lettres et chiffres qu'il y a adjoustees semblent promettre, je ne puis entendre le secret de l'invention. L'une (car il y en a deux diverses) est purement mechanique, et l'autre par quelque principe de Physique appliquè à une machine extremement embarassée<note n="#5"/>.</p>
+<p>Je croy que vous aurez desia veu le livre de Monsieur Wallis de la Cycloide<note n="#6"/> ou il y a beaucoup de belles choses. Il tesmoigne d'estre mal satisfait de Messieurs Pascal, Carcavy et Roberval.</p>
+<p>Vostre Prophetie<note n="#7"/> pour ce qui est de l'humeur de la dame ne se rencontre pas trop bien avec ce que l'on en tient communement, parce qu'elle a la reputation d'estre fort debonnaire et non pas contentieuse. pour ce qui est des accidents que vous lui pronostiquez il faut attendre ce qui en arrivera. Il est impossible cependant qu'elle ne se souvienne pas de vous, autant qu'a moy de n'estre pas</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="huyg003">Christiaan Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

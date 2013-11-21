@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0209"/>
+<meta type="date" value="1654-12-23"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0209">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. a Schooten</persName> S.D.</p>
+</div>
+<p>Actis gratijs quàm plurimis pro liberalitate, quam in communicandis erroribus, quos, à Te notatos efflagitaveram, ostendisti: visum fuit et ea, quae nuper Parisijs acceperam, communicare Tibi; Teque simul statum rerum, quae ibidem peraguntur edocere. Quod ad Ludovicum Elsevirium attinet, qui licèt certiorem me fecerit, se propediem hùc venturum, ut mecum loqueretur; ipsum tamen nondum vidi. Forte alia prae manibus habet, quae editionem istam minus promoveant. Id quod in causa fuit, dum pluribus curis impraesentiarum sum distractus, ut parum adhuc de ijs conscribendis, quae Tua Claritas commentarijs meis censet addenda, fuerim sollicitus. Etenim quantum ad determinationem laterum rectorum et transversorum Geometriae paginis 33, 34 et 35; ut et eorum, quae spectant ad originem explicandum immutandae et dividendae aequationis in duas alias paginis 89 et 90, etiamsi facilè ista supplere possem: tamen, quoniam Elsevirius intentum suum necdum mihi indicavit, utrum scilicet opera Cartesij pluribus accessionibus locupletari amaret, pluribusque figuris illustrare: visum fuit operam ante indicatam ea in re haud planè fuisse collocandam. Quomodo autem Regulae Cardani per Algebram inveniantur, puto id ex Stevino constare, qui plurium regularum originem in Algebra sua<note n="#1"/> demonstravit. Porrò ut tractatum tuum de Refractionibus praelo subjicias, planè Author sum: siquidem nos praeclara multa ac nova edocere potes, quae Dioptricam mirificè promoveant. Quod autem plura de motu malè à Cartesio afferri censes, eaque refutare studeas, vellem meliorem sanioremque de ipsius ingenij perspicacitate opinionem habeas, aliterque judices, ne ingratus erga tantum Virum, tamque praeclarè merentem videaris. Ipsum enim Domino <persName>Heidano</persName> dixisse scio, se demonstrationem suarum de motu regularum ex Algebrae penetralibus petijsse, diuque deliberasse utrum illas principijs suis intersereret; an verò easdem praetermitteret. Cum quo respondet etiam Domini <persName>de Raeij</persName> Sententia<note n="#2"/>, dicentis, parum nos, quantum ad earum veritatem aut falsitatem, referre; seque non nisi unam rem in tota ipsius Physica invenisse, ad quam una solummodò dictarum regularum utcunque videatur referenda. Cuius rei causa vel haec esse potest, ut motus, ad quos hae regulae sunt adhibendae, ita abstractae existant, ut nunquam tales in rerum natura reperiantur. Caeterum literas hasce inclusas<note n="#3"/>, quoniam illis mihi adhuc respondendum est, quaeso brevi unà cum Cavallerij Exercitationibus remittere mihi velis. Tu autem cura ut valeas.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>23 Dec. 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Mijn Heer, Mijn Heer <persName key="huyg001">van Zuijlechem</persName>.
+<lb/>op t' pleijn in S'graven-hage.
+<lb/>Cito. port.</p>
+</div>
+</body>
+</text>
+</TEI>

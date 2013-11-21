@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0401"/>
+<meta type="date" value="1657-08-14"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0401">
+<div type="opener">
+<p lang="la">Nobilissime Domine.</p>
+</div>
+<p>Noua ingenij et doctrinae Tuae <hi rend="i">τεϰμήρια</hi> vna cum litteris tuis nudiustertius<note n="#1"/> accepi. Macte hac animi virtute quâ tam feliciter methodum tuam ad vtriusque Problematis a me propositi solutionem promouistj: laudes, quibus nimium liberali manu me cumulas, Tibi totae debentur; quas interim quoniam a Te proficiscuntur laudato viro et harum artium peritissimo, magni facio. Atque vt exploratum habeas, quam prompto animo haec fortasse non aequis viribus. Tibi satisfacere cupiam, Problema tuum statim aggressus sum. quo successu Tu censebis. Sic igitur construo.</p>
+<p><figure><graphic url="huyg003oeuv02ill19.gif"></graphic></figure></p>
+<p>Ex puncto A cadat normalis AQ cuius dimidia pars sit AG quarta AF. Tum erecta normalis FI secetur bifariam in R, et vertice R axe RF descripta intelligatur parabola ARG, quae per punctum E transibit vt demonstrare non esset operosum. Hoc perfecit Cartesius, inquies. Ego vt quod res est fateor, licet Cartesij methodum omnibus alijs praeferendam esse viri incomparabilis autoritas mihi persuadeat, tamen illâ non vter, quoniam cum eius scripta ad manus meas peruenerunt, iam alterj mihi peculiarj assueueram. Ex meâ autem hoc vlterius sequitur. Diuidatur AE bifariam in O, et ducatur ON parallela HE, et OM parallela AQ, circa quas tanquam asymptotes describatur per punctum E Hyperbole YES. Dico cursus quodlibet eius punctum satisfacere proposito. Atque hoc ipsum esse arbitror quod Cartesium non vidisse ais, et quod mihi inuestigandum proponere voluisti. Alhazeni Problema non attigj tum quod veteribus et iam solutis minus, vt scis, afficiatur animus, tum quod calculus fortassis operosior foret et longioris, vt scribis, operae: eum tamen datâ occasione examinabo. Jnterim est quod mihj gratuler eximiam Tibj viderj Problematis delphicj constructionem per circulum et Ellipsim; Ego enim non vnâ sed plurimis specie differentibus hoc olim effecj. Et quoniam Te in omni Geometriae parte maxime versatum intelligo, extremum hunc, vir magne, mihj concede laborem, hoc tamen pacto ne in tua, vel publica potius, quibus desudas, commoda, vllo modo peccare videar. Figura curuilinea est, cuius axis AB omnes in angulo
+<figure><graphic url="huyg003oeuv02ill20.gif"></graphic></figure>
+recto applicatas bifariam diuidit: Eius autem hec est proprietas, quod applicatis quibuslibet CID, EVF, eam habeat rationem CD ad EF, quam solidum ex quadrato AI in IB, ad solidum ex quadrato AV in VB. Hic tria a Te peto, <hi rend="i">τετραγωνισμον</hi>, tangentem, centrum grauitatis. quae, scio, pro tuâ humanitate et doctrinâ facile praefortasse utraque diversa est ab stabis. Auide expecto Clarissimi Scotenij librum, et Tua de aleae ludo ratiocinia, in quibus argumenta reperturum me confido doctrinae non vulgaris. Siquid aliud in Geometricis vel philosophicis in Galliâ vel alibj prodeat in lucem, id mihj notum facere, quaeso ne graueris, et magnopere obligabis</p>
+<div type="closer">
+<p>Virtutum tuarum cultorum summum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>14 Augusti 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI.</p>
+</div>
+</body>
+</text>
+</TEI>

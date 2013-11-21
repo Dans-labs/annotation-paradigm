@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2738"/>
+<meta type="date" value="1692-02-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg023"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2738">
+<div type="opener">
+<p>Ad <persName value="huyg023">Hub. Hugenium</persName></p>
+</div>
+<p>Missis ante triduum litteris ad te meis, Vir eximie, nunc appendicem adjungo, quod adverterim errorem meum in exprimendis subnormalibus, quas voco, quem hic corrigendum duxi; ne forsan aliquid circa eas calculo investigans, frustra operam insumas. Itaque pro <figure rend="inline"><graphic url="huyg003oeuv10fi475.gif"></graphic></figure> scribe <figure rend="inline"><graphic url="huyg003oeuv10fi476.gif"></graphic></figure>; pro 2<hi rend="i">y</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi>/<hi rend="i">xx</hi> scribe <figure rend="inline"><graphic url="huyg003oeuv10fi477.gif"></graphic></figure>; pro <figure rend="inline"><graphic url="huyg003oeuv10fi453.gif"></graphic></figure> scribe <figure rend="inline"><graphic url="huyg003oeuv10fi478.gif"></graphic></figure>: pro <figure rend="inline"><graphic url="huyg003oeuv10fi479.gif"></graphic></figure> scribe <figure rend="inline"><graphic url="huyg003oeuv10fi480.gif"></graphic></figure>. Sola <hi rend="i">xx</hi>/<hi rend="i">a</hi> recte se habet. Causa erroris fuit quod solitus sim in Problemate inverso Tangentium, datas ponere subtangentes, non vero subnormales.
+<figure><graphic url="huyg003oeuv10ill64.gif"></graphic></figure>
+Atque ita incaute ex adversarijs meis<note n="#2"/> illas pro his tibi descriptas misi. Subtangentes voco ut in hac figura rectam BF, quae subjacet tangenti <hi rend="i">e</hi>F, sicut subnormalis BC subjacet rectae C<hi rend="i">e</hi> in curva perpendiculari.</p>
+<p>Examinavi porro reliqua omnia exempla tua pag. 6, atque adverti in quibusdam non admodum difficilem esse regressum, ut nempe ex data aequatione curva reperiatur quadratura ejus, praesertim si compendio quodam utamur<note n="#3"/>, quod tibi non ignotum esse existimo. Vale!</p>
+<div type="closer">
+<p>15 febr. 92.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0864"/>
+<meta type="date" value="1661-05-31"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0864">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce <date>31 May. 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous deuez sçauoir combien de satisfaction J'ay eüe en l'honneur de vostre conuersation, si du moins vous vous souuenez de ce que Je vous en ay tant de fois dit. Mais vous aurez de la peine à vous imaginer combien vostre lettre<note n="#1"/> m'a apporté de ioye: vous m'y faites voir non seulement que vous m'aimez, mais aussi que vous croyez que Je vous aime. En bonne foy, vous ne vous y trompez point de tout. Ce n'est pas moy seul qui suis rauy d'apprendre que vous estes heureusement arriué a la Haye. Tous ceux que vous m'auez nommez, et tout le reste de nostre Societé, y prennent autant d'interest que moy mais ces messieurs de Bronker, Neal, Slingsby<note n="#2"/>, et <persName key="boyl001">Boile</persName> sont satisfaits de la souuenance que vous auez d'eux, à un point, qui me donne presque de la jalousie. Voilà assez de cette sorte de langage. Je crois que nostre amitié, est desia si bien fondée, qu'il ne sera plus besoin de nous entretenir de ciuilitez. Agissons donc desormais d'une franchise sans façon. Mercredy dernier<note n="#3"/> Monsieur <persName key="digb001">le Cheualier Digby</persName> nous a entretenu une heure d'un discours,
+touchant La Vegetation<note n="#4"/>: dont Je vous enuoyeray copie, aussi tost qu'il sera imprimé. Nous trauaillons desia aux apprests pour les Telescopes. Vous sçaurez le progrez qu'on y fait. Souuenez vous de vostre promesse de publier les pieces que vous auez desia acheuees, du mouuement &amp;c. Et cependant puisqu'il ne se trouue point icy de copie de ce qui s'est passé entre vous et Eustachio de Diuinis enuoyez nous en deux ou trois, Et s'il y a quelque chose icy, que vous auez enuie d'auoir, faites le moy sçauoir. Je ne puis pas maintenant vous entretenir de nos petites affaires comme peutestre vous le desirez. une autre fois Je vous en rompray la teste. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName>Constantin</persName><note n="#5"/> <persName key="huyg003">Hugens de Zulicom</persName>, le Fils. A la Haye.
+<lb/>1 β
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

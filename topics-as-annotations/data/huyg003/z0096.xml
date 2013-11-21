@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0096"/>
+<meta type="date" value="1651-10-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vinc027"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="gent_001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0096">
+<div type="opener">
+<p><persName key="huyg003">Christ. Hugenius</persName> P. <persName key="vinc027">Gregorio à Sto. Vincentio</persName>.</p>
+</div>
+<p>Ex quo tempore scripta tua in lucem exire passus es, Vir Clarissime, tam illustri et specioso titulo quam est ipsum illud problema cujus inventionem pollicentur, puto tibi novum non esse, etiam eorum quos ne de nomine quidem novisti, literis interpellari. Plurimi enim sine dubio de tantis exhaustis laboribus gratulantur, et nonnulli fortè obscuriora quaedam sibi explicari cupiunt; nam et ipse nosti quam optimè, non cujusvis esse, ut quae diuturno studio perfeceris, ea protinus et suo quod ajunt, Marte intelligat. Ad me quod attinet, diu est cum primum libros tuos evolvere coepi. Nam continuò atque editi fuere, dono missi sunt patri meo à Domino <persName>Seghers</persName>,<note n="#2"/> quem tibi scio non ignotum esse, quum et Ordinis sit vestri, et pingendi arte inter primos celebris. Itaque et tum statim et sepe postea intelligere eos conatus sum, atque aliquoties difficultate et multitudine propositionum deterritus, desperavi; donec tandem <hi rend="i">Theorematum quorundam causa quae <seg org="conscripser am" resp="#AD" type="corr">conscripseram</seg> intelligens non parum mihi obstare posse si tua pro veris haberentur</hi>, majore cum cura et assiduitate singula sumpsi examinanda, et tantum profeci, ut pleraque omnia jam clara et aperta mihi videantur, tam quae de proportionalitate geometrica, quam quae de ductibus plani in planum, fuse tractasti. At in propositione
+39<hi rend="sup">a</hi> de quadratura circuli primum restiti, quod ejus demonstratio mihi non satis recte procedere visa sit. Et praeterea, etiamsi hanc propositionem ut veram admisero, et quadragesimam quoque quae sequitur, comperio, nisi omninò me calculus fallit, ex opinione tua proportionem diametri ad circumferentiam eam fore quae minimè congruit. Memoriae causa quaedam ad haec spectantia in chartam conjeci, quae nonnulli suadebant ut imprimenda darem. sed ego ea ne absolvere quidem volui, priusquam tibi scripsissem atque ex te compertum haberem, me non frustra collocaturum esse, quidquid in ijs ponam temporis et studij. Quaeso itaque ut resciscere liceat, quid etiamnum de conatu tuo sentias, et an nondum cujusquam antehàc admonitioni tantum dederis, vel accuratiori repetitione ipse sis assecutus, ut crederes te in errore versari, idque publice testatum facere velles. Fortasse enim id jam factum est, quod ego nesciam, ac tum nihil opus erit ea divulgari quae commentatus sum ego.
+At si nihil horum est, rogo te ut id quoque mihi perscribas atque ut ne aegrè patiaris à me publicae utilitatis, (ita enim arbitror) causam suscipi, etiam cum tua tibi nondum derelinquenda videbitur. Videbis me ab omni injuria alienum id tantum quod res est disputare et tuo praecipuè ipsius judicio cuncta committere. Id autem maximè desidero, ut priusquam sententijs dissideamus, mutua inter nos amicitia contrahatur; eam scio mihi prodesse posse, si literarum commercium tecum deinceps intercedere non graveris; et vicissim operam meam puto, si non alibi, at in prima saltem hac quam tractabimus quaestione non fore tibi inutilem. Atque hoc pace tua dixerim; quanquam enim perrarò ijs decipi contingat qui tantam in geometria peritiam adepti sunt, scis tamen id nequaquam <hi rend="i">ἐϰ τῶν αδυνάτων</hi> esse. de caetero omnino te existimare velim, nullam mihi ex hujuscemodi controversia gloriam quaeri, utpote quam brevi interire necesse sit ubi maximè quod intendi obtinuero; sed hoc tantum agere, ut ne imposterum calumnia duret, In ea scientia quam nos caeteris omnibus certiorem perhibemus, post annos quatuor nondum quid verum falsumve esset potuisse dijudicari. Vale.</p>
+<div type="closer">
+<p><date>6 Oct. 1651</date>. <placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Amplissimo doctissimoque viro, Domino <persName key="vinc027">Gregorio à Sto Vincentio</persName> P.J.
+<lb/>Gandavum.</p>
+</div>
+</body>
+</text>
+</TEI>

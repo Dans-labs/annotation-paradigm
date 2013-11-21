@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0058"/>
+<meta type="date" value="1648-07-28"/>
+<meta type="sender" value="daub002"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0058">
+<div type="opener">
+<p>Monsieur.</p>
+</div>
+<p>Vous apprendrez de Messieurs voz fils tout au long l'estat de nostre Escole et College Illustre. Vous verrez aussy des nouveaux tesmoignages de leur diligence et de leur sçavoir. J'aurois à adjouster beaucoup à mes precedentes touchant la continuation de leur assiduité, je diray seulement icy, qu'ils font de jour en jour de grandissimes progrez et que notamment ils se sont fait admirer de fraische date en leurs disputes publiques. Vostre aisné<note n="#1"/> vous pourra entretenir particulierement de son Hebreu, en quoy je le trouve desja bien avancé. Au reste Monsieur, Dieu m'avoit donné un fils, bien fait et fort en apparence, à qui suivant l'honneur que vous m'aviez fait j'avois fait donner vostre nom et celuy de mon pere, le faisant nommer Constantin Henrj, mais ma joye a esté courte, Celuy à qui nous sommes tous me l'a redemandé au bout de trois semaines, pour la volonté de qui nous devons avoir une parfaite resignation.
+Vous baisant treshumblement les mains et à Monsieur <persName key="wilh013">de Willhem</persName> je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="daub002">Dauber</persName>.</p>
+<p>A <placeName key="breda001">Breda</placeName> ce <date>28 juillet 1648</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huygens</persName> Chevalier Seigneur de Zulichem &amp; Conseiller et premier Secretaire d'Estat de S.A. et Curateur de l'Escole Illustre et College d'Orange
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

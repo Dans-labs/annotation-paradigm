@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0171"/>
+<meta type="date" value="1653-12-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="kinn013"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="praag001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0171">
+<div type="opener">
+<p>Nobilissimo Generosissimoque Viro Domino <persName key="kinn013">Aloisio Kinner à Löwenthurn</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Quoniam de statu valetudinis meae certior fieri cupis, Kinnere Nobilissime, scito me pristinae restitutum sanitati, nihilque jam aut corpori aut animo male esse, nisi quod doleo propter deperditas<note n="#1"/> literas tuas quibuscum et Opticum Theorema intercidisse intelligo, quo genere plurimum equidem nunc delector. Utinam modo ne ab opusculi tui consideratione prohibear quod sub praelo esse scribis. Cujus cum ad Patrem Gregorium exemplar mittes, mei quoque ut recorderis quaeso. Existimo autem reperturum te qua via ad ipsum perferatur, aut illum certè indicaturum, cum nihil sit ejus Societatis hominibus inaccessum aut invium. Quid novi circa Deliacum problema moliatur (nam et ab alijs idem intelligere memini) scire aveo, et per epistolam sciscitari propositum est. Quod si de Geometrica per plana constructione laborat, in cassum operam perdere arbitror. De motu atque arcu Coelesti singulos mihi tractatus commemoras J.M. Marci, quorum mihi neutrum vidisse contigit. Ergo Tu si quidem legisti hoc saltem significa, nunquid Cartesio in ijs quae de Iride assentiat. De motu vero hoc, an et impulsorum leges attigerit, in quibus definiendis plurimi malé decepti fuere hactenus, maximéque omnium Cartesius, ut aliquando ostensurum me confido. Scribit is, Si sphaera verbi gratia A impingat in sphaeram sibi aequalem B et quiescentem, habeatque A quatuor partes celeritatis; quod in B unam transferet cumque tribus resiliet reliquis. Ego vero demonstraturus
+<figure><graphic url="huyg003oeuv01ill121.gif"></graphic></figure>
+sum, omnem celeritatem transituram in B, mansuramque A motus omnis expertem, quod et alij sensere experimento inducti. Quid autem contingere debeat cum inaequales sphaerae sunt, ut si C subdupla sit magnitudine sphaerae D, cui quiescenti occurrat cum quatuor celeritatis partibus, quantum transire debeat in D quantumque ipsi C relinqui, hoc à nemine adhuc determinatum vidi convenienter, aut certe ut meis rationibus consentiret. Quid super his tu sentias Vir Subtilissime, quidve Excellentissimus Dominus <persName key="marc901">M. Marci</persName>, scire pervelim.
+Huic interim me commendari te intercedente desidero, et cum feret occasio Reverendo Patri Theodoro Moreto quam diligentissime. Quis autem ego ut Emeritis etiam Mathematum Professoribus tanto intervallo sejunctus innotuerim. Caeterum sicut
+Clarissimorum quos dixi virorum lucubrationes<note n="#2"/> tuo solius judicio fretus plurimi facio, ita nihil mihi sit gratum aequè, quam si ab ipsis Problemation aut simile quid tua opera legendum obtingat; atque inde velut ex ungue (quod aiunt) veteranos artis Geometricae agnoscam. Tractatus meus de refractione et Telescopijs ad finem jam perductus est. qui licet à plurimis exposcatur dubito an non in annum saltem premendus sit, subinde incrementi nonnihil accepturus: Quem nuperrime etiam Theoremate isto quod non ex infimis est locupletiorem reddidi. Si per lentes quotlibet etc. Sicut hoc novum est Theorema ita et reliqua sunt omnia, ex quibus magnam equidem voluptatem me coepisse fateor majoremque etiam percepturum scio cum Tibi atque alijs pari ingenio viris legenda offerre concedetur. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> <date>16 Dec. 1653</date>.</p>
+</div>
+<p>Nihil etiamnum editum esse à Patre Ainscom demiror, nec quae sit procrastinationis causa nimiae intelligo.</p>
+</div>
+<div type="para">
+<p>Perillustri Generosissimoque Domino Domino <persName key="kinn013">Aloisio Kinnero à Löwenthurn</persName>.
+<lb/>Pragam.</p>
+</div>
+</body>
+</text>
+</TEI>

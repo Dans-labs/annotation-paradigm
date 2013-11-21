@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0551"/>
+<meta type="date" value="1658-12-03"/>
+<meta type="sender" value="tacq001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="antwe001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0551">
+<div type="opener">
+<p>Clarissime Vir</p>
+</div>
+<p>Tradidit mihi Segerus noster Horologium tuum nouum<note n="#1"/>, quod legi et expendi non mediocri cum voluptate. Egregiè praestas motus perpetuitatem et vibrationum arcus aequales, et numerandi labore molestissimo obseruatores absoluis: adhuc insigni artificio aliter, quam fieri assolet, pondera appendis. Vnus tamen ille iam inde a principio mihi scrupulus inhaesit, quem etiam lectionem deinde prosequens a te ipso tibi obiectum comperi, pendulum tuum non tam suo quam automatis motu cieri. Cum enim pendulum liberum neque vibrationum arcus sortiatur aequales,
+neque motum per se continuet, vtrumque autem tui automatis beneficio consequatur: manifestum videtur illud agitari potius automatis motu artificiali, quam naturali suo. Quare cum horologium rotatatum quomodocunque dispositum varias inaequalitates ac mutationes subeat, vereor vt motus penduli tui eam motus aequalitatem aut maiorem obtineat, quam si liberum relinquatur. Neque enim potest penduli motus organi obtemperans motioni non easdem, quibus ipsum est obnoxium, mutationes subire. Remedium pagina 13 allatum dubitationem minuit quidem sed non tollit. Jllud inuento tuo fauet; quod, quia motio horologij tui ex artificiali rotarum, et naturali ipsius penduli, qui valde aequalis est, componitur, alia quaeuis horologia superet. Manet nihilominus mihi dubium an non plus inaequalitatis ex machina in motum penduli, quam aequalitatis ex motu penduli in machinam deriuetur, ac proinde vtrum tam exacta dimensio temporis hoc autumatae, quam liberis vibrationibus obtineatur. Sanè in pendulo libero inaequalitas vibrationum ex arcuum inaequalitate orta vix perceptibilis est, vt experimento non vno constat. Ricciolus in suo Almagesto nouo scribit se tribus noctibus a transitu Spicae per meridianum ad transitum Arcturi cum duobus exercitatissimis socijs bis numerasse vibrationes 3212, semel 3214, discrimine prorsus vtique contemnendo. Habes Vir Clarissime quid mihi in praeclaro tuo inuento fuerit dubitationis subortum; cui tollendae via certissima mihi illa videtur, vt Horologij fides ad transitus stellarum per meridianum examinetur. Laudo interim tibique gratulor nouum hocce et subtile monumentum ingenij tui.</p>
+<p>Problemata illa Angli<note n="#2"/> (vt aiunt) anonymi etiam ad me perlata ijs tamen soluendis animum non applicui, valetudine fracta ex sanguinis sputo saepius repetito, quo pene iam aliquoties extinctus fui. Nunc lentè imo vix conualesco. Tu viribus integer atque aeuo florens egregijs tuis inuentis augere Mathesim porro perge ad gloriam Dei; cui studia nostra conatusque omnes debentur iure infinito. Vale.</p>
+<div type="closer">
+<p><placeName key="antwe001">Antuerpiae</placeName>. <date>3. Dec. 1658</date>.</p>
+<p>Tuus in Christo <persName key="tacq001">And. Tacquet</persName>. S.J.</p>
+</div>
+<p>Alterum exemplar misi ad Gutschovium.</p>
+</div>
+<div type="para">
+<p>Clarissimo ac praenobili Domino Domino <persName key="huyg003">Christiano Hugenio a Zulichem C.F.</persName> <placeName key="denha004">Hagae Comitis</placeName>.
+<lb/>VI
+<lb/>5. Decemb.</p>
+</div>
+</body>
+</text>
+</TEI>

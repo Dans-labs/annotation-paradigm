@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0809"/>
+<meta type="date" value="1660-11-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0809">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="hein009">Nicolao Heinsio</persName> S.S.P.</p>
+</div>
+<p>Cum primum in hanc urbem venissem atque è vestigio Capelanium nostrum<note n="#1"/> adijssem, ostendit mihi quas a te paulo ante acceperat, quibus inter alia et de adventu meo certiorem faciebas, eaque insuper addebas quae nisi a studiosissimo mei atque amicissimo proficisci non poterant. sic etiam absentem tua me benevolentia prosequitur, imo praevenit. Ad eas vero literas nuper responsum<note n="#2"/> quod Capelanius dederat inclusi meis ad parentem literis<note n="#3"/>, nec dubito quin id acceperis, deque itinere a me prospere confecto fueris edoctus. Ignosces autem si per temporis angustiam prohibitus ipse hactenus nihil ad te scripsi. Illustrissimus Beuningius<note n="#4"/> cum
+reliquis Oratoribus nostris<note n="#5"/> ante dies tres huc advenit, ac confestim misit mihi fasciculos binos literarum, alterum a te<note n="#6"/> alterum a patre meo<note n="#7"/> inscriptos, promissaque Academicorum Florentinorum opuscula<note n="#8"/> ferentes, ipsiusque Serenissimi Principis Leopoldi literas<note n="#9"/>. Quantum ex Dati verbis<note n="#10"/> colligo, eodem tempore omnia isthuc perlata fuere, sed quaedam eorum ipse perlegere voluisti, atque hac ratione a reliquis separata venerunt<note n="#11"/>. Quantum tibi debeam qui toties jam literas Florentia missas ad me deferri curaveris, toties quasi meo nomine Clarissimo Dato responderis, saepe coram testatus sum, et ecce iterum hic testor. deinceps vero hac molestia ut spero te liberabo. dabo enim, quas ad Serenissimum Principem Leopoldum scripturus sum, recta hinc in Italiam perferendas, tum quia brevior est via, tum ut ea occasione Datum quoque compellem defungarque gratiarum actione, quas illi debeo sane maximas. Non aegrè feret autem vel ipse vel Princeps Serenissimus sero adeo me rescribere, si modo ultimas meas<note n="#12"/> quas Haga discedens dedi, quibusque de suscipiendo mox itinere mentionem feci, recte accepit.
+Cappellanio salutem ut jusseras dixi tuo nomine, cum die martis praeterita in aedibus Monmorij<note n="#13"/> una essemus, ut solemus singulis hebdomadis. Menagium nondum vidi, sed habebo brevi qui ad illum me deducat. Clarissimum Vossium quamprimum videbis, quaeso ut Brunetti nomine eum roges ut Chinicas picturas absolvi curet. Speraveram Beuningium illas allaturum, sed frustra ut video. de caetero salutem plurimam imperties tum ipsi tum alijs amicorum. Vale. Dabam Parisijs 19 Novembris 1660.</p>
+<p>Tabulas Graeciae Capelanus accepit.</p>
+</div>
+<div type="para">
+<p>Viro Clarissimo Domino Dan.<note n="#14"/> <persName key="hein009">Heinsio</persName>. Hagam.</p>
+</div>
+</body>
+</text>
+</TEI>

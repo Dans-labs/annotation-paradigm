@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0318"/>
+<meta type="date" value="1656-07-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="heve011"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0318">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Chartaceae figurae. directio ansarum. linca per medium. Anglorum conentiens observatio.<note n="#1"/></p>
+</div>
+<div type="opener">
+<p>Clarissimo Doctissimoque Viro Domino <persName key="heve011">Joh. Hevelio</persName>, <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Literas tuas humanissimas die ipso solstitij datas ante triduum accepi, simulque volumina duo alterum de Saturni facie quod per fratrem meum jam ante promiseras, qui mihi multa insuper de virtute atque insigni comitate tuâ rescripsit<note n="#2"/>. alterum epistolas 4 cruditissimas continens: quo dono nihil potuit mihi esse acceptius, quippe qui coelestium rerum observationibus et praesertim quae ad Saturnum pertinent avidissime nunc inhiem. Itaque gratias tibi ago ingentes Vir Clarissime quod maturè lucubrationum istarum exemplum ad me deferri curaveris. neque dubitare debes id unicè mihi in votis esse ut, quandoque oblato simili munere siquid attentione tua dignum proferre contigerit, gratum animum testari liceat. Equidem de ipsa hac materia, Saturni nimirum Phaenomenis, tractatum meum amplius accelerassem, nisi diligentius omnia circumspicienda esse docuissent observata hujus anni, quae non tam exactè quam putaveram hypothesi meae consentiunt. Nosti enim idem me tecum expectasse ut nempe sub finem aprilis aliquo modo brachia Saturno restituerentur. quod secus contigit. Quanquam autem et in hac predictione et in ea quae ad annum sequentem pertinet omnino tecum sentiam et periodum quoque mirabilis phaenomeni satis vero propinquum definivisse te existimem, de causa tamen plane diversum statuo, ideoque non inutile arbitror meam quoque sententiam quae adhuc in anagrammate latet, publicari aliquando, ut ex pluribus opinionibus eruditi quam deligant habeant.
+Etenim et doctissimus <persName key="robe012">Robervallius</persName> qui in <persName key="gass001">Gassendi</persName> locum successit<note n="#3"/>, suam mihi promittit<note n="#4"/> hypothesin<note n="#5"/>. Et in Anglia astronomi suam sibi peculiarem habere, asseverant<note n="#6"/>. Et hi quidem Saturni lunam non multo post quam a me detecta fuit illic quoque innotuisse probarunt detecto anagrammate quod mihi invicem mittebant confestim atque nostrum accepissent quo novi planetae indicium continebatur. Quin imo et eandem periodum dierum 16 assignaverant; adeo ut suspectam haberi observationem nostram ultra non debeat neque possit. Sed eximio planè telescopio opus est si quis oculatus testis fieri optat. qualeque nec apud Clarissimum Bullialdum, neque usquam alibi in Gallia aut in his regionibus inveni. atque ego non experientiae magis quam casui acceptum fero quod eorum perfectissimam fabricam deprehenderim. Quae autem ad theoriam omnis generis perspicillorum pertinent dudum ante theorematis complexus fueram, eaque non parum me adjuvere. Praeterito anno Saturnus mihi non ea figura qua vobis visus est nempe trisphaerica, sed hujusmodi potius <figure rend="inline"><graphic url="huyg003oeuv01fi32.gif"></graphic></figure>. Trisphaerica autem minoribus telescopijs spectabatur, manifesta visus deceptione, magisque a veritate aliena quam tibi existimari video. Sed neque nostram quam dedi figura vera est; sed paulo aliam mihi exhibitum iri spero quam primum 24 pedum telescopio illam explorare continget. Itaque non mirum est diversas utrique nostrum hypotheses fingi, cum tam dissimiles phases ad conciliandum nobis propositas habeamus. Vellem autem accuratius intelligere qua ratione putes tam exiguos representari posse laterones cum propriam Saturni formam facias hujusmodi <figure rend="inline"><graphic url="huyg003oeuv01fi63.gif"></graphic></figure>. nam si planum chartae pro eclipticae plano accipias hancque figuram ad id planum erectam statuas non apparet quomodo in tam exiguos orbiculos brachia illa contrahi possint undecunque
+tandem e terra in eodem plano existente spectentur. De caetero probabilior è duabus hypothesis ea mihi visa est quae secundum <persName key="kepl901">Cepleri</persName> systema
+explicatur. nam epicyclus <persName>Copernici</persName> non putandus est naturae convenire, quae simpliciore modo motus syderum ordinavit. Inclinationem porro ansarum tam hoc anno quam proximè elapso, aequatori fere parallelam inveni, talemque imposterum semper observatum iri crediderim. neque eclipticam secuturam nisi cum versus Cancrum, vel Capricornum Saturnus accesserit. Diametrum planetae apparentem alia via scrutatus sum, tantumque 17″ circiter deprehendi cum tibi amplius quam 39″ aestimetur. Sed nimis confidenter fortasse sententiam meam tibi expono Vir Clarissime, quae licet à tua dissideat non tamen eo minus fauturum te spero conatibus nostris quibus idem scilicet quod tuis agitur idemque propositus est scopus, nempe ut tandem veritas elucescat. Vale, coelestis scientiae decus ingens.</p>
+<div type="closer">
+<p>Datum <placeName key="denha004">Hagae Com.</placeName>
+<lb/><date>25 Jul. 1656</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

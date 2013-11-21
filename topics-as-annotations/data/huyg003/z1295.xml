@@ -1,0 +1,193 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1295"/>
+<meta type="date" value="1664-12-26"/>
+<meta type="sender" value="hook001"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1295">
+<p><table>
+<row>
+<cell role="header">The angles of Jnclination in the water, or of Refraction.</cell>
+<cell cols="2" role="header">The Angle of Jnclination in the air.</cell>
+<cell role="header">The signes<note n="#2"/> of y<hi rend="sup">e</hi> angles of Jnclination in the water, or of y<hi rend="sup">e</hi> angles of Refraction.</cell>
+<cell role="header">The signes<note n="#3"/> of the angles of Jnclination in the air found by the Jnstrument.</cell>
+<cell role="header">The signes<note n="#4"/> of those hypotheticall angles<note n="#5"/>.</cell>
+<cell cols="2" role="header">What the angle of Jnclination should haue been according to y<hi rend="sup">e</hi> proportion of the refraction of 30<hi rend="sup">o</hi>00′.</cell>
+<cell role="header"></cell>
+</row>
+<row>
+<cell>5</cell>
+<cell>6</cell>
+<cell>33</cell>
+<cell>8716</cell>
+<cell>11407</cell>
+<cell>11609</cell>
+<cell>6</cell>
+<cell>40</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>10</cell>
+<cell>13</cell>
+<cell>19</cell>
+<cell>17365</cell>
+<cell>23033</cell>
+<cell>23352</cell>
+<cell>13</cell>
+<cell>30</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>15</cell>
+<cell>20</cell>
+<cell>5</cell>
+<cell>25882</cell>
+<cell>34339</cell>
+<cell>34474</cell>
+<cell>20</cell>
+<cell>10</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>20</cell>
+<cell>27</cell>
+<cell>4</cell>
+<cell>34202</cell>
+<cell>45503</cell>
+<cell>45557</cell>
+<cell>27</cell>
+<cell>6</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>25</cell>
+<cell>34</cell>
+<cell>15</cell>
+<cell>42262</cell>
+<cell>56280</cell>
+<cell>56294</cell>
+<cell>34</cell>
+<cell>15</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>30</cell>
+<cell>41</cell>
+<cell>45</cell>
+<cell>50000</cell>
+<cell>66588</cell>
+<cell>66600</cell>
+<cell>41</cell>
+<cell>46</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>35</cell>
+<cell>50</cell>
+<cell>00</cell>
+<cell>57358</cell>
+<cell>76604</cell>
+<cell>76400</cell>
+<cell>49</cell>
+<cell>50</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>40</cell>
+<cell>58</cell>
+<cell>45</cell>
+<cell>64279</cell>
+<cell>85491</cell>
+<cell>85419</cell>
+<cell>58</cell>
+<cell>40</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>45</cell>
+<cell>70</cell>
+<cell>30</cell>
+<cell>70711</cell>
+<cell>94264</cell>
+<cell>94387</cell>
+<cell>70</cell>
+<cell>42</cell>
+<cell>} in Fresh water.</cell>
+</row>
+<row>
+<cell>10</cell>
+<cell>13</cell>
+<cell>35</cell>
+<cell>17365</cell>
+<cell>23486</cell>
+<cell>23759</cell>
+<cell>13</cell>
+<cell>44</cell>
+<cell>} Jn Salt water.</cell>
+</row>
+<row>
+<cell>20</cell>
+<cell>27</cell>
+<cell>43</cell>
+<cell>34202</cell>
+<cell>46510</cell>
+<cell>46756</cell>
+<cell>27</cell>
+<cell>52</cell>
+<cell>} Jn Salt water.</cell>
+</row>
+<row>
+<cell>30</cell>
+<cell>43</cell>
+<cell>10</cell>
+<cell>50000</cell>
+<cell>68412</cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell>} Jn Salt water.</cell>
+</row>
+<row>
+<cell>10</cell>
+<cell>14</cell>
+<cell>45</cell>
+<cell>17365</cell>
+<cell>25460</cell>
+<cell>25900</cell>
+<cell>15</cell>
+<cell>00</cell>
+<cell>} Jn Oyle of Turpentine.<note n="#6"/><note n="#7"/><note n="#8"/></cell>
+</row>
+<row>
+<cell>20</cell>
+<cell>30</cell>
+<cell>5</cell>
+<cell>34202</cell>
+<cell>50126</cell>
+<cell>50298</cell>
+<cell>30</cell>
+<cell>11</cell>
+<cell>} Jn Oyle of Turpentine.<note n="#9"/><note n="#10"/><note n="#11"/></cell>
+</row>
+<row>
+<cell>30</cell>
+<cell>47</cell>
+<cell>20</cell>
+<cell>50000</cell>
+<cell>73531</cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell>} Jn Oyle of Turpentine.<note n="#12"/><note n="#13"/><note n="#14"/></cell>
+</row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

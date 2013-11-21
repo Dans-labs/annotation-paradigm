@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0720"/>
+<meta type="date" value="1660-02-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="heve011"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="gdans001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0720">
+<div type="opener">
+<p>Amplissimo Clarissimoque Viro Domino <persName key="heve011">Johanni Hevelio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Legisse te librum meum de Saturni Systemate, Heveli Clarissime, è Bullialdi nostri literis<note n="#1"/> primum rescivi, deinde etiam ex ijs quas ad Juvenem Ornatissimum Abrahamum Boddenium<note n="#2"/> dedisti. Ex quibus simul non sine dolore didici, unum illud duntaxat exemplum te accepisse quod ipse curandum susceperat; unde magnopere vereor ne tria alia, quae mense Octobri misi, unà cum epistola<note n="#3"/> satis prolixa, in itinere interciderint. Naves aliquot ad Pillaviam tempestate perijsse accepi, in quibus forsitan illa fuerit cui exemplaria ista commissa erant. Sed jacturam parvi facio, illud vero molestissimè fero, si quicquam propterea detrimenti amicitiae nostrae accidit, dum falsò existimas pertinaciter hactenus me siluisse neque respondisse ad illas tuas<note n="#4"/> quibuscum unà pareliorum observationem misisti. Serius equidem quam oportuit, sed tamen gratias egi pro munere; de quo ne quid dubites, ecce apographum adjungo literarum illarum<note n="#5"/> quas deperditas opinor. Non tamen ob hoc solum ut dictis fidem habeas, sed et quod quae tunc ad te scribebam eadem nunc quoque te scire cupiam. Literas autem illas de verbo ad verbum descripsi, quod cognosces, si quis casus forsitan priores cum libris ad te detulerit. Quod utinam contingat, neque enim adhuc plane despero. Interim vero ne gravius mihi quam promeritus succense, sed in pristinam potius gratiam benevolentiamque recipe. Vale vir Eximie.</p>
+<p>&nbsp;</p>
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> 16 Februarii 1660.</p>
+</div>
+<div type="para">
+<p>Amplissimo Clarissimo atque Eruditissimo Viro Domino <persName key="heve011">Johanni Hevelio</persName>, Rei publicae Gedanensis Consuli dignissimo.
+<lb/>Danzic.</p>
+</div>
+</body>
+</text>
+</TEI>

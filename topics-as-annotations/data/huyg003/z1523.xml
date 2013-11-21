@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1523"/>
+<meta type="date" value="1666-02-25"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1523">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ai ceu par la lettre du 18 de ce mois que vous auiés receu ma response<note n="#2"/> à vostre precedente<note n="#3"/>, et que vous estiés demeuré satisfait des eclaircissemens et des auis que je vous y auois donnés touchant l'affaire<note n="#4"/> qui vous tient l'esprit suspendu il y a pres d'un an et qui apporte quelque trouble à vos estudes. Depuis j'ay sceu par nostre Ami Monsieur Carcaui qu'il vous auoit escrit<note n="#5"/> ou qu'il vous deuoit escrire des choses la dessus qui vous contenteroient pleinement et que le dernier entretien qu'il a eu auec Monsieur <persName key="colb012">Colbert</persName> sur cette matiere l'auoit authorisé pour vous donner moyen de calmer vostre trouble, et de vous mettre bientost en estat de venir enrichir nostre cour de vostre vertu. Apres de si positiues paroles je ne puis plus regarder l'affaire comme incertaine, et je suis plus que jamais persuadé que nostre Ami degagera des promesses enuers vous à souhait. Comme neantmoins je n'ay point eu de part primitive a tout cela, et que la connaissance que j'en ay ne m'est venüe que par luy je ne vous en respons pas auec la mesme assurance que si j'en auois esté le promoteur et le conducteur, et je ne m'engage qu'à le solliciter de temps en temps auec vigueur de faire executer ce qui ne reçoit plus de difficulté puis qu'on luy en a remis l'accomplissement et que la resolution en est si formelle. Croyés bien, Monsieur que je n'y manqueray point, et cependant armés vous de patience au cas qu'il en fait besoin, sur tout que vos
+Compatriotes ne se puissent figurer par aucune plainte que le retardement de vostre depart ait autre cause que de celle de quelque Ouurage que vous vouliés achever et a quoy faute d'auoir vos instrumens vous ne pourriés mettre fin a Paris. Quant à ce que je vous ay dit du regale<note n="#6"/> que vous aués fait à nostre Ami, je ne scais en quels termes je m'en suis expliqué, mais mon intention a esté seulement de vous l'alleguer en preuue que vous le luy faisies pour le faire souuenir que c'estoit de luy seul que vous attendiés l'acheuement de l'affaire afin de l'exciter d'autant plus a y tenir la main, car je ne scauois point qu'il vous eust prié de luy rien enuoyer, et je ne fis aucune reflexion sur les deux sortes de gratitude que vous me marqués ne doutant aucunement de celle que vous aués pour l'affection desinteressée que j'ay tousjours eüe pour une vertu comme la vostre dont on ne scauroit auoir plus de satisfaction que j'en ay. Qu'au reste ces trauaux et cet attirail à quoy je vous mandois qu'on vous destinoit<note n="#7"/> ne vous alarment point. Cela ne va au plus qu'à des machines pour obseruer le Ciel, et pour faire des Lunettes et des experiences à l'inuention et à la pratique desquelles estant jugé le plus propre de tous les hommes, il me semble auoir ouy dire que l'on vous vouloit attacher pour la gloire du Roy et pour son seruice; ce qui requeroit un spacieux logement que l'on n'auoit pas encore trouué. Le pis donc qui vous puisse arriuer de cela si j'ay bien compris ce que l'on m'en a dit, c'est que l'on vous occupera dans les choses de vostre inclination auec honneur et quelque sorte de direction et de presidence.
+Nous verrons par la suite si j'auray esté bien informé ou non. L'importance est d'user de ces vrayes ou fausses lumieres auec discretion et dans le dernier secret. Le Sieur Cassini est bien heureux dans ses descouuertes d'auoir tant d'illustres Approbateurs, vous plus que tous Monsieur qui lui deués tenir lieu de tous. Il est vray que ce qu'il a publié de la reuolution de Jupiter autour de son axe, de sa tache fixe, de ses joins [?] et de leur nombre, comme aussi des ombres de ses satellites sur son disque et de ses consequences qu'il en tire, sont de precieuses nouveautés<note n="#8"/> pour les Astronomes et qui releuent fort le merite des Lunettes de Campani, capables par la de donner beaucoup de jalousie aux vostres de la portée de 48. pieds desquelles l'auis m'a extremement resjouy aussi bien que l'esperance que vous me tesmoignés auoir de les rendre plus accomplies encore. Vous ne me dites rien de vostre Pendule maritime ni si l'on n'a point depuis Holmes<note n="#9"/> verifié sur les vaisseaux Hollandois ou Anglois la justesse de cet Instrument dans quelque voyage de long cours. Si cela se confirme ce sera une seconde Pierre Philosophale dont vostre Nom tirera une eclatante gloire pour l'eternité. Je le desire du meilleur de mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>comme Vostre etc.</p>
+<p>De <placeName key="parij001">Paris</placeName> ce <hi rend="sc">xxv</hi>. Feurier <hi rend="sc">m vi<hi rend="sup">c</hi> lxvi</hi>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur <persName key="huyg003">Christianus Huggens de Zulichem</persName>
+<lb/>A la Haye
+<lb/>en Hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

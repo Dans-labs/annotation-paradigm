@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0837"/>
+<meta type="date" value="1661-02-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0837">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName>, ce <date>11 Febrier 1661</date>.</p>
+</div>
+<p>Je n'ay rien eu ny de mon Pere ny de vous par ce dernier ordinaire et aussi je ne vous escris rien. ne croyez pas pourtant que c'est pour me revencher mais par ce que je n'ay pas le temps de vous rien mander ayant rodè tout ce jour avec le duc de Roanes<note n="#1"/> par toute la ville, qui vient seulement de me ramener a cet heure
+chez moy. Je vous ay acheté l'eventail de Callot et le portrait de Cosmus<note n="#2"/> de Medicis pour 2 escus<note n="#3"/>. voila ce que j'ay de plus important a vous faire scavoir. Mon Pere aura la bontè de me pardonner pour cette fois, et me fera bien tost scavoir comme j'espere si je dois venir en Hollande ou en Angleterre. Vale et ayez soin je vous prie de cette lettre a Heinsius<note n="#4"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName> chez Monsieur <persName key="huyg001">de Zulichem</persName> &amp;c. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

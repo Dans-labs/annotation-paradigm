@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0791"/>
+<meta type="date" value="1660-10-29"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0791">
+<div type="opener">
+<p>Vendredy au soir.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay fait la diligence aupres de Monsieur <persName>de Monmaur</persName>, il nous attendra demain a midy auec joye et sera rauy de vous voir et de vous embrasser. Vous passerés donc s'il vous plaist icy demain a cette heure la pour me prendre. Je suis sans reserue</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

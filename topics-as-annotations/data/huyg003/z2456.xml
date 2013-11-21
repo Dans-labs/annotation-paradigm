@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2456"/>
+<meta type="date" value="1687-05-03"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rotte002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2456">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>J'avois crû que je pourrois faire encore un tour à la Haye avant mon départ pour l'Angleterre, mais comme je n'y voi plus d'apparence Vous voulez bien, Monsieur, que je vous témoigne par une lettre la part que je prens à vôtre derniere
+douleur. Les pertones aussi utiles à l'état que Monsieur <persName key="huyg003">de Zulichem</persName> l'étoit pendant sa vie ne devroient jamais mourir. J'ai appris Monsieur que vôtre santé ne se retablissoit pas bien, et j'y suis d'autant plus sensible que je crain qu'elle n'ait été alterée en partie à mon occasion<note n="#1"/>. Je souhaitte Monsieur qu'elle se rétablisse entierement, et que du moins ce soit assez pour un coup que le chagrin que vous donne la perte d'un Pere.</p>
+<p>Je suis avec beaucoup de soumission</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vôtre tres humble et tres obeïssant seruiteur <persName key="duil010">N. Fatio de Duillier</persName>.</p>
+<p>De Rotterdam ce 3 Mai 1687.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huggens de Zulichem</persName> à La Haie.</p>
+</div>
+</body>
+</text>
+</TEI>

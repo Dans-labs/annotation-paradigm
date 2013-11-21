@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1114"/>
+<meta type="date" value="1663-05-14"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1114">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 14. May 1663.</p>
+<p>Monsieur</p>
+</div>
+<p>Ayant appris que vous estes a Paris et iugeant que le pacquet<note n="#1"/> que J'y ay enuoyé par un de mes compatriotes<note n="#2"/> vous aura esté rendu, Je ne me puis suggerer autre raison pourquoy Je n'ay point reçeu de vos nouuelles depuis que vous y estes, si non que vous ne sçauez pas par quelle adresse me faire tenir vos lettres. Ceci vous donne lieu de iuger que Je me flate: mais vous deuez croire aussi que l'amitié que Je vous porte et les auantages que Je reçois du commerce que nous auons, depuis quelque temps, entretenu m'en fait desirer la continuation auec passion. Mon nom est si bien connu a la poste, que les lettres qu'on m'adresse me sont tousiours rendues quand il ny à autre adresse desus que mon nom, et, A <placeName key="white901">Whitehall</placeName>. Nous commençons maintenant à trauailler a lestablissement de nostre Societé auec plus de
+vigueur que nous n'auons pû iusqu'icy, parceque la patente du Roy<note n="#3"/> qui l'erige en une Corporation auec plusieurs priuileges, nous a esté expediée depuis 5. ou 6. iours, comme necessaire a la rendre capable selon les loix du païs a receuoir donations et standi in iudicio, &amp;c. de sorte que nous nous appliquons aux autres moyens necessaires a la prosecution du dessein que nous nous sommes proposés comme la constitution de la Societé; ce qui touche le fonds requis pour fournir aux despens des Experiences &amp;c., et lestablissement des loix et ordres propres a la conduite du tout. Nous faisons estat de faire publier dans peu de temps un petit traitté<note n="#4"/> par lequel on sçaura tout ce qui concerne la Societé. Cependant on continue tousiours a faire des petites experiences, et a discourir des Choses Scientifiques comme vous auez veu, ne nous meslant que de choses de peu de frais et de trauail iusqua ce que nostre fonds soit augmenté, et que nous ayions des gens abiles establis en un College auec une subsistence<note n="#5"/> de 150. ou 200 liures sterlins de salaire, qui soubs le nom de Curatores<note n="#6"/>, auront le soin de tout ce qui leur sera enioint par la Societé, tant en matiere de mechanique qu'aux autres choses appertenantes a la Belle Philosophie, tells que Wallis, Wren &amp; autres que vous connoissez. J'ay creu que vous ne serez pas fasché d'apprendre ce que Je viens de dire, et cela suffira pour excuser l'importunité que vous donne à present</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur
+<lb/><persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> chez Monsieur <persName>Bailly</persName> au petit Moyse, rue du petit Bourbon
+<lb/>A Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

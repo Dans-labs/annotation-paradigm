@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0723"/>
+<meta type="date" value="1660-02-27"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0723">
+<div type="opener">
+<p>Monsieur <persName key="huyg003">Hugens</persName>.</p>
+<p>A <placeName key="parij001">Paris</placeName> le <date>27. Feurier 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne pus respondre l'ordinaire passé a celle que vous m'auiez faict la saueur de m'escrire le 12 du courrant, ce que je seray par la presente. Vous retiendrez s'il vous plaist les deux desseins que je vous ay envoyez de l'horologe commencee par Galilei<note n="#1"/>, &amp; de celle<note n="#2"/> que Monsieur le Grand Duc a fait raccommoder auec la pendule dans le vieil palais de Medicis a Florence; j'en ay retenu les copies que l'on m'a enuoyees de Florence, &amp; j'ay faict faire celles que vous auez. Vous pourrez escrire<note n="#3"/> a Monsieur le Prince Leopold les jnconueniens que vous trouuez en la composition de leur horologe. Je m'estonne que vous ne m'auez faict l'honneur de m'aduertir, que vous auez receu response<note n="#4"/> de Monsieur le Prince Leopold<note n="#5"/><note n="#6"/>, dont Monsieur de Thou m'a faict l'honneur de m'escrire. Vous ne deuiez pas douter que vous l'auriez, ces Princes sont trop ciuils &amp; trop genereux, &amp; ils sont trop d'estat des personnes de vostre merite, &amp; capacité extraordinaire. Je luy ay enuoyé depuis 2. mois vn discours sur les experiences du vuide, respondant a la lettre de Monsieur
+Rinaldini<note n="#7"/> Professeur a Pise.</p>
+<p>Je suis tres-aise que par vos experiences vous ayez recognu l'inegalité des jours apparens. Il est vray que si je n'auois point rejetté la moitié de l'equation du mouuement du Soleil de la mesure des aequations du temps, la Table page 9. ne differeroit en rien de celle de Mullerus page 280. sinon que cette table aussi bien que celle des Pruteniques<note n="#8"/> suppose l'Epoche des mouuemens <hi rend="i">tempore apparenti</hi>, &amp; moy je la pose <hi rend="i">Tempore medio;</hi> &amp; ainsi au regard des mouuemens de la Lune ils commettent vn erreur assez notable comme je l'ay expliqué libro 2. capite 7 pour ce qu'ils font &amp; prenent pour aequation du temps a vn point donné, la diference qui est
+entre deux points donnez apparens; ce que vous verrez clairement, si vous voulez bien examiner le lieu que je vous designe<note n="#9"/>.</p>
+<p>Touchant la question que vous me faites touchant la difference des jours apparens entr'eux, dans les deux jnterualles que vous marquez, &amp; le sens auquel l'ont pris <persName>Ptolemee</persName> &amp; <persName>Copernic</persName>, je vous renuoyrois a ce que j'en ay dit au lieu que vous me marquez, mais je veux pour vous complaire adjouster ce qui s'ensuit<note n="#10"/>. Ces deux autheurs ont pris les deux jnterualles dans lesquels les jours apparens different le plus l'vn de l'autre, Or depuis le 12 <figure rend="inline"><graphic url="huyg003oeuv03fi01.gif"></graphic></figure> jusques au 18 ♒ les jours apparens sont plus petits que les moyens de ′25.″42. &amp; si vous prenez l'autre jnterualle depuis le 18. ♒ jusques au 12. <figure rend="inline"><graphic url="huyg003oeuv03fi01.gif"></graphic></figure>, les jours apparens sont plus grands que les moyens, de 25.′42.″<note n="#11"/> &amp; cela selon ma table; &amp; ainsi vous voyez en prenant cet exemple;</p>
+<p>Datum tempus Apparens Nouembris 4. Meridie. Aequationem subtrahas 13.′8.″ tempus Medium Novembris 3. Hor. 23.′46.″52.</p>
+<p>Datum tempus apparens Februarii die 6. Meridie. Aequationem temporis addas 12.′34.″<note n="#12"/> ergo tempus medium Februarii die 6. Hor. 0.′12.″34.</p>
+<p>Interuallum temporis apparentis est Dierum 94., medii Dierum 94. Hor. 0.′25.″42., ergo dies medii excedunt apparentes ′25.″42.</p>
+<p>Sit datum tempus apparens Februarii die 6 meridie vt supra, &amp; Nouembris 4. vt supra, data sunt puncta media &amp; apparentia, subtrahur<note n="#13"/> numerus dierum a 1. Januarij ad Februarii 6. nempe 37. à dierum numero a 1. Januarij ad 4 Nouembris nempe a 308 erit interuallum dierum apparens tempus 271. auferatur vero terminus medii temporis Februarii 6. Hor. 0.′12.″34. a Nouembris die 3. Hor. 23.′46.″52, seu dies 37. Hor. 0.′12.″34. a diebus 307. Hor. 23.′46.″52. residuum erit medii temporis jnteruallum dierum 270 Hor. 23.′34.″18. ergo dies medii deficiunt ab apparentibus ′25.″42.</p>
+<p>Donc puisque dans le premier jnterualle les apparens sont plus petits que les moyens de ′25.″42 &amp; que dans le second les apparens sont plus grands que les moyens de 25.′42.″ les apparens du second jnterualle<note n="#14"/> surpasseront ceux du premier du double de ce que les apparens different des moyens, c'est a dire de ′51.″24. ou pour mieux dire la difference de l'inegalité des jours apparens du second &amp; premier jnterualles est double de la difference de l'jnegalité de ceux du second ou premier. comparez l'vn ou l'autre au moyen, car d'vn costé les apparens defaillent de ′25.″42. &amp; de lautre ils excedent d'autant<note n="#15"/>. Il ne faut pas que vous vous estonniez de la difference des jnterualles. pource que c'est en ces termes que se trouuent les plus grandes differences des aequations des jours par le concours des deux causes, c'est pourquoy <persName>Ptolemee</persName> &amp; <persName>Copernic</persName> les ont marquez plustost que les autres, pour ce quils sont plus euidens &amp; manifestes que les autres.</p>
+<p>Vous adjoustez, Je ne croy pas aussi que pour auoir le vray lieu de la Lune il ne faudroit jamais se seruir que de la moitié de ⅗ d'vn degré pour aequation au temps de Ptolemee, et partant je m'estonne de ce qu'il dit qu'en negligeant l'equation du temps cela importeroit quelques fois jusques a ⅗ d'vn degré. Je n'entens pas Monsieur ce que vous dites. pour ce qui est de Ptolemee, il dit que si l'on ne se seruoit point de l'aequation du temps, cela causeroit erreur dans le mouuement de la Lune de ⅗ d'vn degré, qui est de 36′. c'est a dire en comparant le mouuement moyen de la Lune du premier jnterualle a celluy du second.</p>
+<p>Dans le premier jnterualle il y a 94. jours apparens. si vous comptez le mouuement moyen de la Lune sur cet jnterualle vous en aurez pres de 14.′ moins qu'en comptant sur l'jnterualle de jours egaux. &amp; dans le second vous en aurez 14′ de plus en prenant seulement mes nombres, &amp; ce plus &amp; ce moins adjoustez ensemble font 28.′ qui dans lequation de Ptolemee sestendent a 36.′ Voyla Monsieur ce que je peux vous dire sur ce subjet.</p>
+<p>Je vous rends graces de ce que vous voulez scauoir ce que fera la personne pour la prophetie que j'ay enuoyee. Mais je vous prie aussi de m'informer si j'ay bien rencontré. Je suis de tout mon coeur.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="boul014">Boulliau</persName>.<note n="#16"/><note n="#17"/></p>
+</div>
+<p>J'ay faict rendre vostre lettre a M. Chapelain<note n="#18"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

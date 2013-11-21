@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0090"/>
+<meta type="date" value="1651-02-18"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0090">
+<div type="opener">
+<p>Clarissimo Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="vinc027">Gregorius a Sancto Vincentio</persName> S.D.</p>
+</div>
+<p>Litterae tuae, nescio quem querelarum odorem, qui inter amicos nonnunquam spirat, redolere visae sunt; quod non jndicarim tibi, solito vsus candore, quo loco, quaue pagina libellj tuj, aliquid a me repertum sit, in quo hallucinatum te credam: rogo, acquiescas responso a me dato: spero, aliud responsum me daturum, quo nullius damno, et a motis, et a mouendis doctrina, quae de quadratura est, difficultatibus vindicetur: quod, breuiore discursu expediri, nullatenus posse, facile iudicabit omnis, qui fundamenta mea noua, quibus hucvsque Geometria caruit, perspecta habet.</p>
+<p>Constructionem tuam, problematis, de sectione spherae secundum datam rationem, cuj et antiquos, et me jncubuisse recte comperistj; nec sine sensu voluptatis, nec admirationis legi. eademque occasione, intermissas a me pridem eiusdem tenoris cogitationes resumere coactus sum. Parabolae proprietas, non contemnenda est quam reperistj, soluendo problemati Archimedaeo oportunam: eademque opera, vtilem, diuidendae parabolae, secundum datam rationem. praefero constructionem tuam, illi, qua vtitur Dionysodorus<note n="#1"/>: minus etenim, a Geometrica effectione, semota est praxis, quae circulo parabolam dispescit, quam quae hyperbolae beneficio. Tentauj, dum parabolam contemplarer, problematis solutionem, De jnventione punctorum, quibus datus circulus datam parabolam secat; sed terruit me, partim varietas casuum, partim difficultas; et ad particulares casus, animum adiecj, quos libro de parabola jnseruj. Constructioni tuae, etsi non diffido, nihilominus promissam demonstrationem legere volupe erit. Finem imponam, vbi prius de libellis, quos ad me misisti, gratias egero; et ad vlteriores foetus enitendos, animos addidero. Vale meique memor viue.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandauj</placeName>. <date>18 Feb. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Viro <persName key="huyg003">Christiano Hugenio</persName>
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

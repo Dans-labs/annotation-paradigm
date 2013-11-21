@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0041"/>
+<meta type="date" value="1648-01"/>
+<meta type="sender" value="mers004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0041">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>i'ay oublié dans mon memoire pour le Canon, qu'il faut scauoir du Mtr. Canonier en quel lieu il croid que son boulet est arriué, lors que le bruit est ouy: par exemple, suposé que le bruit se fasse en D, et que la portée horizontale soit de 4 cent toises de D en B; pour moy ie croy que le boulet a du moins couru de D en C, euuiron ¼ de
+<figure><graphic url="huyg003oeuv01ill58.gif"></graphic></figure>
+DB, quand le bruit s'entend en D: car sans doute la bale sort deuant le bruit fait.</p>
+<p>Or il faudra que celuy qui sera à costé de B, hors du hazard, conte auec son horlosge à secondes de combien il entend plus tost le bruit, que le boulet ne frape B.</p>
+<p>Et semblablement combien le bruit est plus tost arriué à la portée de 45 degrez que le boulet: ie croy qu'il y arrivera 2 fois plus viste; c'est à dire que le boulet ne sera qu' à moitié de chemin, quand le bruit arriuera à l'oreille: i'entends du coup tiré à 45 degrez.</p>
+<p>J'ay experimenté qu' à cent toises de l'arquebuse, par exemple de D en B, la bale et le bruit arriuent justement ensemble: voyla le petit supplement de mon oubly. Mais vostre prudence, et industrie, et celle du Mtr. Canonier supleront le reste.</p>
+<div type="closer">
+<p>De rechef vostre tresobligé seruiteur
+<lb/><persName key="mers004">Mersenne</persName>.</p>
+</div>
+<p>Vous ne me parlez point des Climacteriques<note n="#1"/> <persName key="salm006">Salmasienes</persName><note n="#2"/> est ce qu'ils ne vous contentent pas?</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huygens</persName> Sieur de Zuyllichem et Secretaire de Monsieur le Prince d'Orange
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

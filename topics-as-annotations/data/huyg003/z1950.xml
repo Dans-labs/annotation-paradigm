@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1950"/>
+<meta type="date" value="1673-06-23"/>
+<meta type="sender" value="peti033"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1950">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Il ly a si long temps que je ne scay point de vos nouuelles que je ne puis differer dauantage sans uous enuoyer demander et minformer de uostre sante et de celle de monsieur vostre pere comme aussi de toute uostre illustre et chere famille que vous scauez bien que je honore infiniment et a laquelle je souhaite toute sorte de prosperité et de satisfaction dans lestat presant des affaires et les diuerses conionctures et mouuements des lieux et des personnes ou il sont et vous mobligerez infiniment Monsieur de me dire ce que uostre prudence uous permetra du bon estat ou il sont auec son Excelence dont je ne doute point apres les attaches et les liesons dont jay este si bien informé neantmoins comme je scay bien que les grands princes ne sont pas tousiours bien memoratif des obligations quils ont a leur anciens et veritables seruiteurs et quil ne succede pas tousiours aux affections de leurs ancestres jay suiet daprehender quelque changement dans la coniuncture des affaires presantes.</p>
+<p>Dieu veulle quil ny en aye que de bien en mieux et que Monsieur uostre pere et toute la famille sont consideree comme leur merite affections et seruices le requierent au reste on ma dit despuis peu que uous auie donne quelque chose au public, uous mobligeray insiniment de men faire part pour me diuertir dans mon indisposition qui me retient encore au lit et si Monsieur duclot<note n="#1"/> n'a la bonté de men tirer ayant plus de confience en luy quen personne je crains bien dy estre encore long temps et uous mobligeray de luy tesmoigner le desir que jay de le consulter sur quelque remede et sil aprouuera pour cette fois les eaux de bourbon dont il me detourna lannee passee. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="peti033">P. Petit</persName>.</p>
+<p>rue st. nicaise ce 23<hi rend="sup">e</hi> juin 1673.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huggeins de Zulichem</persName> a la bibliotheque du Roy rue de Viuien A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

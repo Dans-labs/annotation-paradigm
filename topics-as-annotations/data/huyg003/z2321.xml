@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2321"/>
+<meta type="date" value="1683-09-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="tell018"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2321">
+<div type="opener">
+<p>Monseigneur</p>
+</div>
+<p>J'ay creu que mon absence ne devoit pas me dispenser de vous offrir mes treshumbles respects et mon obeissance, apres avoir appris, que le Roy vous avoit
+conferè la surintendence des Bastimens, et par consequent aussi le soin de l'Academie des Sciences, dont j'ay l'honneur d'estre. J'estois sur le point de m'en retourner en France, apres avoir demeurè quelque temps en ce pais pour cause de ma santè, lors que la nouvelle de la mort de Monseigneur Colbert<note n="#2"/> estant venue m'a fait differer mon voiage. Je ne scavois pas quel changement il en pourroit arriver en ce qui est de cet etablissement. Mais ayant sceu que le soin en estoit remis entre vos mains Monseigneur, qui estimez les Arts et les inventions utiles, et que mesme vous plaisez a en prendre connoissance, autant que vos infinies occupations vous le permettent, je me suis persuadè que nos affaires en iroient encore mieux que par le passè. J'ay mesme esperè, connoissant vostre bontè et generositè envers ceux qui peuvent meriter quelque part en vos bonnes graces, et jouir de vostre protection, que ma condition pourroit devenir un peu meilleure qu'elle n'a estè dans les dix sept ans que j'ay estè a sa Majestè, pendant lesquels non seulement j'ay veu donner une plus ample pension a quelqu'un de mes Collegues qu'a moy, mais encore retrancher de la miene pour le temps que j'ay estè absent, quoy que je ne l'aye estè qu'avec permission, et pour le recouvrement de ma santè, et que d'ailleurs j'aye emploiè ce temps au travail et aux estudes accoutumees. Il me semble Monseigneur qu'il n'est pas injuste, qu'ayant quitè mon pais natal, et les avantages que j'y aurois pu pretendre, pour estre a un si grand Roy, sa bontè et liberalitè me tiene lieu de ce que j'ay laissè. Mais le tout dependra de vostre faveur et bienveillance. C'est pourquoy je vous la demande uniquement; et en attendant les ordres, qu'il vous plaira de m'envoier
+je me diray avec beaucoup de respect</p>
+<div type="closer">
+<p>Monseigneur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Huijgens de Zuijlichem</persName>.</p>
+</div>
+<p>Entre autres choses ou je me suis appliquè pendant mon sejour en ce pais, j'ay fait construire la machine Planetaire dont je me souviens d'avoir eu l'honneur
+de vous entretenir; qui a son mouvement d'elle mesme, et qui me semble preferable a ce que l'on a fait jusqu'icy en ce genre<note n="#3"/>. J'espere Monseigneur que vous la trouverez telle et que vous ne la jugerez pas indigne de la veue du Roy.</p>
+<p>&nbsp;</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 16 Sept. 1683.</p>
+</div>
+</body>
+</text>
+</TEI>

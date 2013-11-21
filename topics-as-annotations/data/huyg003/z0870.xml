@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0870"/>
+<meta type="date" value="1661-06-28"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0870">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce <date>28. juin 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Voycy ce que Monsieur <persName key="boyl001">Boile</persName> vous a promis<note n="#1"/>. comme Je vous ay franchement auerty qu'il ne tenoit point a moy qu'il ne vous l'ait enuoyé plus tost, aussi faut il que pour sa iustification, Je vous dise, qu'il l'a gardé 15. iours dans sa poche sans auoir l'occasion de me le mettre entre les mains. Dans peu de iours vous sçaurez ce que Monsieur le Mylord <persName key="brou051">Brunker</persName> a trouué<note n="#2"/> en faisant des experiments pour
+trouuer la raison du reculement des Canons et autres engyns à feu, qui est fort iolly et surprennent. Sçachez que toute nostre Societé dans la quelle il y a plusieurs naturalistes des plus scauants ne peut pas, en toute l'Angleterre, trouuer le moyen d'empoisonner une playe<note n="#3"/> la semaine qui vient nous aurons quelques experiments touchant la compression de l'eau. Je suis icy interrompu, en sorte que Je ne puis rien adiouster d'auantage sinon que Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble tresobeissant &amp; tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.
+<lb/>1 β
+<lb/>12 st.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

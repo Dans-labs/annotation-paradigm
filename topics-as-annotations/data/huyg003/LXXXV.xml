@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXXXV"/>
+<meta type="date" value="1676"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXXXV">
+<div type="opener">
+<p>ce lundy matin.</p>
+</div>
+<p>J'ay parlè a Monsieur <persName>Galois</persName> de vostre affaire Monsieur, et je l'ay trouvè fort disposè a vous y servir.
+J'ay eu aussi en suite occafion de parler de vous a Monsieur <persName key="colb012">Colbert</persName> a qui j'ay rendu temoignage de vostre merite et de vostre scavoir, et j'ay suject d'esperer que ce ne sera pas sans effect.
+Je vous demande pardon si je ne puis vous aller rendre mes devoirs.
+Vous aurez la bontè d'excuser un reconvalescent et qui a tout plein d'affaires, comme sont d'ordinaire ceux qui sont prests de faire voiage.</p>
+<div type="closer">
+<p>C'est Monsieur Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

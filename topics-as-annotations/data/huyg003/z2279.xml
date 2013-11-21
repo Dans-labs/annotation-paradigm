@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2279"/>
+<meta type="date" value="1682-10-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gall047"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2279">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Saison avancée. Machine plan. Conjonction. Tschirnhaus. Que fait on pour la pendule sur mer. Abbè Catelan. response. globes. et dans l'observatoire.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 1 Oct. 1682.</p>
+<p>A Monsieur L'Abbè <persName key="gall047">Gallois</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a environ un mois que je me suis donnè l'honneur d'escrire a Monseigneur Colbert<note n="#1"/>, touchant mes affaires et mon voiage; et comme je ne puis gueres douter que ma lettre n'ait estè rendue, je ne scaurois m'imaginer pourquoy il ne me fait pas la grace de m'envoier response, sur tout puis que la saison est desià bien avancée et que le voiage deviendra de plus en plus difficile s'il faut que je le fasse devant l'hyver. J'avois adjoutè a ma lettre la figure exterieure et la description de ma machine Planetaire, qui estant si belle et si accomplie, et m'ayant couté tant de peine et de travail un an durant, je ne scaurois croire que Monseigneur n'en fasse l'estime qu'elle me semble meriter. [Je n'en serois pas venu a bout a Paris. parce que absolument il me falloit un ouvrier aussi habile que celuy que j'ay employé icy]<note n="#2"/>. Je viens d'en eprouver l'utilité et la justesse par la grande et rare conjonction des trois Planetes superieures, que j'avois fort bien preveue, sans consulter des Ephemerides ni des Tables, scavoir la conjonction de Mars et de Jupiter, entre le 16<hi rend="sup">e</hi> et 17<hi rend="sup">e</hi> Sept. Celle de Mars et Saturne entre le 21<hi rend="sup">e</hi> et 22<hi rend="sup">e</hi> Septembre. Ayant en suite eu le plaisir d'observer les trois planetes le 16 Septembre a 4 heures, dans cette situation.</p>
+<p><figure><graphic url="huyg003oeuv08ill94.gif"></graphic></figure></p>
+<p>Le 19<hi rend="sup">e</hi> Septembre a 4 heures dans cellecy, les distances de ♂ à ♃ et à ♄ estant egales, et chacune d'environ 1 degré 34 minutes.</p>
+<p><figure><graphic url="huyg003oeuv08ill95.gif"></graphic></figure></p>
+<p>Le 22<hi rend="sup">e</hi> Septembre a 5 heures on m'a rapportè les avoir vu ainsi<note n="#3"/>
+<figure><graphic url="huyg003oeuv08ill96.gif"></graphic></figure></p>
+<p>Et pour la conjonction de Jupiter et de Saturne mon automate la promet vers le 13 de ce mois d'Octobre ce qui sera comme je crois a peupres ainsi. Monsieur Tschirnhaus m'estant venu voir comme il alloit s'en retourner en son pais, m'a dit entre autres choses, que l'on travailloit plus que jamais a Paris a l'avancement de l'Astronomie, qu'il avoit veu les globes de 12 pieds de diametre que l'on faisoit pour le Roy<note n="#4"/>, et que lon avoit aussi commencè le globe celeste a l'Observatoire ou les spectateurs seront placez au centre. Vous ne devez pas douter Monsieur que je n'aye grande envie de voir toutes ces belles choses, comme aussi d'apprendre ce que c'est que cette machine par la quelle on me mande qu'on pretend d'asseurer le mouvement des pendules sur mer, dont je puis dire que je ne suis plus en peine, et qu'apres les experiences que j'ay faites nouvellement j'ose promettre des horologes aussi justes que nos longues pendules, par le moyen de mon invention du ressort spirale, qu'il est aysé de garantir contre les plus grands mouvements de la mer. Le mesme Monsieur Tschirnhaus me dit, qu'il avoit estè receu dans nostre Academie des Sciences<note n="#5"/>, avec quelque promesse de pension ou gratification dont j'ay estè fort aise, luy voyant l'esprit propre a l'estude des belles choses et les intentions les meilleures du monde, outre que par quelques echantillons qu'il m'a fait voir de ses speculations en geometrie, il paroit en scavoir beaucoup.</p>
+<p>J'ay sceu par la derniere lettre que j'ay receu de Mr. <persName key="roqu005">l'abbé de la Roque</persName><note n="#6"/>, que
+celle que je vous escrivis<note n="#7"/> il y a quelques mois vous avait esté rendue et que vous vouliez me faire response mais j'excuse volontiers ce retardement en considerant vos continuelles occupations. Il me manda aussi, que Mr. <persName key="cata001">l'abbé Catelan</persName> vouloit donner une Replique a ce que j'ay respondu a ses ineptes objections, et j'ay sceu depuis qu'en effect cette replique avait esté imprimée<note n="#8"/>, dont je ne scay pourquoy il ne m'envoie point un exemplaire, l'en ayant priè il y a longtemps. Je vous prie Monsieur, comme vous le voiez assez souvent, de luy en faire souvenir, car j'ay grande envie de voir ce qu'aura pu dire ce merveilleux Geometre. Je vous supplie aussi tres humblement de m'honorer d'un mot de reponse a cellecy, afin que je ne demeure pas plus longtemps dans l'incertitude. Que s'il est besoin de me rendre en cette occasion de bons offices aupres de Monseigneur Colbert j'ose me promettre, apres en avoir eu si souvent des preuves, que vostre bonté sera la mesme a mon esgard qu'elle a tousjours estè. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

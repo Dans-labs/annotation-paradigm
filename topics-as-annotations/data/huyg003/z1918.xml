@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1918"/>
+<meta type="date" value="1672-12-23"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1918">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ay besoin pour l'interest dvn homme de qualite de mes Amis dapprendre au vray de vous si des Allemans pretendus Ingenieurs ayant proposé à Monsieur Colbert de fournir vn Secret pour leleuation des eaux par le moyen dvne pompe si haut que lon voudroit et principalement pour vuider les vaisseaux qui feroient eau par cette pompe a nestre jamais sujette a estre rendue inutile par le sable et les pierres du list qui bouchent ordinairement les autres et font ainsi perir les vaisseaux, Monsieur Colbert les auoit renuoyés a vous afin de uoir si leur inuention estoit solide et tout a fait certaine, et que vous lauiés examinée trouuée infaillible, et leur en auies donne vne attestation authentique de vostre main sur laquelle ils en auoient obtenu vn Priuilege du grand Sceau pour en faire leur profit<note n="#1"/>. Cet eclaircissement importe a mon Ami. Je vous le demande Monsieur et vous le demande de vostre main pour lempescher destre affronte si cest vne fourbe comme j'en ay grand soupçon ou pour le laisser y entendre si la chose est tres vraye comme ces gens lassurent. Vous obligerés</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="chap002">Chapelain</persName>.</p>
+<p>Ce 23 Dec. 1672.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huygens</persName></p>
+</div>
+</body>
+</text>
+</TEI>

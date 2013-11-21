@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1797"/>
+<meta type="date" value="1670-04-10"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1797">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 10 Avril 1670.</p>
+</div>
+<p>Cellecy ne sert que d'enveloppe à l'enclose<note n="#1"/> du Frere de Moggershil qu'ayant veue je ne croy pas qu'il faille vous mander des nouvelles, ny courir sur son marché. Selon vostre derniere<note n="#2"/> al Signor Padre vous estes à Paris depuis Lundy<note n="#3"/> au Soir; dont nous sommes icy tres aises, veu par les dernieres du Frere qu'il luy tardoit beaucoup de vous voir arriver. Selon le dernier avis de Charras<note n="#4"/> nous avons
+subject d'esperer sa guerison, s'il y avoit moyen de le transporter icy sans doubte cela y contribueroit beaucoup. Nous attendons de scavoir ce que vous aurez resolu la dessus ensemble par le prochain ordinaire.</p>
+<p>Vous scavez que Monsieur <persName>Romf</persName> m'avoit envoyé une Carte de Rome par un Gentilhomme Suisse qu'il m'a mandé estre party de Paris depuis le 4<hi rend="sup">e</hi> Mars. Mais comme il ne paroist pas et que vraysemblablement ma Carte est eclipsee j'ay prié Monsieur Romf il y a quinze jours de m'achepter une autre estampe de la mesme Carte et de me l'envoyer par la voye du Sieur Verstraten marchand d'icy qui doibt arriver la semaine prochaine. Le dict Sieur Romf qui maintenant in amore est totus selon toute apparence aura oublié ma commission, c'est pourquoy je vous prie en ce cas de m'achepter une semblable carte et de payer a Monsieur Romf ce qu'il a debourssé pour l'autre si Domino Christiano<note n="#5"/> lequel j'en avois prié ne l'a point fait, je vous le rendray punctuellement. Don Sebastiano<note n="#6"/> partit Lundy apres disner. La soeur et le beaufrere<note n="#7"/> avec les soeurs de Leu l'allerent conduire, je dis luy et le cher Frere<note n="#8"/>. Elles sont au desespoir à cause de certains Hemistiches Latins que le dit Frere auroit escrit aux vitres de sa chambre insinuant aux dites soeurs quoy qu'Enigmatiquement un voyage d'Italie dont il pourroit avoir formé le dessein. J'en seray esclaircy plus avant. le cher Anton ou Toton en a pris copie pour les faire interpreter a Monsieur du Tour et cela estant fait elles prendront leurs mesures pour la pleurerie. Je salue de tout mon coeur nostre bon Frere malade. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">Louis Huygens de Zuylichem</persName>
+<lb/>a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

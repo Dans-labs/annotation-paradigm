@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2611"/>
+<meta type="date" value="1690-08-24"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="leib013"/>
+<meta type="senderloc" value="voorb001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2611">
+<div type="opener">
+<p>A <placeName key="voorb001">Voorburg</placeName> ce <date>24 Aoust 1690</date>.</p>
+</div>
+<p>J'ay receu Vostre tresagreable du 15/25 Jul. Elle en enfermoit une pour Mr. <persName>Spener</persName>, qui n'est point venu encore la querir. Peut estre m'aura-t-il cherchè en vain à la Haye, ou je ne demeure plus, mais a une maison de campagne à une lieue de là tant que dure la belle saison. J'ay pourtant laissè Vostre lettre au logis de de mon frère de Zuylichem, à fin qu'on la luy donnast s'il venoit la demander.</p>
+<p>Je vous ay escrit du 9<hi rend="sup">e</hi> Fevr.<note n="#3"/> de cette année en vous envoiant un Exemplaire
+de mon livre de la Lumiere. Je recommanday le pacquet à Mr. <persName>van der Heck</persName>, Agent de Mr. <persName>le Duc de Hanover</persName>, mais comme vous n'estes revenu de vostre voiage d'Italie que depuis 6 semaines, ce pacquet pourra estre restè entre les mains de celuy à qui Mr. <persName>van der Heck</persName> l'aura adressè, de quoy je vous prie de vous informer. Je vous rends grace de vos nouvelles d'Italie, où je voudrois avoir estè avec vous. Je souhaite fort de voir ce Vitruve de Mr. <persName key="auzo011">Auzout</persName>, qui a raison de reprendre Mr. <persName>Perrault</persName> en plusieurs choses, par exemple en la construction de la Balliste, où il nous a forgè une machine de sa teste<note n="#4"/>, qui n'est point praticable, au lieu de la vraye qu'on voit dans Heronis Belopoiecia<note n="#5"/> commentez par Bernardinus Baldus<note n="#6"/>. J'ay estè bien aise d'apprendre des nouvelles du P. Berthet, que j'ay connu a Paris et que je trouvois fort à mon grè. Je voudrois bien scavoir pour quelle raison il est sorti de la Societè des Jesuites. J'admire ce que vous dites de sa traduction des Opera de François en Italien, en conservant le chant. Je ne croiois pas que Mr. <persName>Viviani</persName> fust encore
+vivant, n'ayant pas ouy parler de luy depuis qu'il nous envoya à Paris<note n="#7"/> un petit ouvrage posthume de Galilee, qui ne me fut rendu que 2 ans apres par le caprice de certaines gens. Qu'est ce que pourra contenir de nouveau ce traité de Locis Solidis?</p>
+<p>Je n'ay rien dit des couleurs dans mon Traitè de la Lumiere, trouvant cette matiere tres difficile; sur tout a cause de tant de manieres differentes dont les couleurs sont productées. Mr. <persName key="newt011">Newton</persName>, que je vis l'estè passè en Angleterre<note n="#8"/>, promettoit quelque chose là dessus, et me communiqua quelques experiences fort belles de celles qu'il avoit faites. Il semble, Monsieur, que vous aiez aussi meditè sur ce sujet, et apparemment ce ne sera pas en vain.</p>
+<p>J'ay vu de temps en temps quelque chose de Vostre nouveau calcul Algebraique dans les Actes de Leipsich, mais y trouvant de l'obscuritè, je ne l'ay pas assez etudiè pour l'entendre, comme aussi parce que je croiois avoir quelque methode equivalente<note n="#9"/>, tant pour trouver les Tangentes des Lignes courbes où les regles ordinaires ne servent pas, ou fort difficilement, que pour plusieurs autres recherches. Mais sur ce que vous me dites maintenant de l'usage de Vostre Analyse et Algorithme dans les Lignes que des Cartes excluoit, j'ay envie de l'etudier à fond si je puis, en
+repassant sur tout ce que vous en avez donnè dans les dits Actes. Je vois qu'entre autres utilitez de Vostre nouvelle invention vous mettez Methodus Tangentium inversa, qui seroit encore de grande importance si vous l'avez telle que la proprietè ou construction des Tangentes estant donnée, vous en puissiez deduire la proprietè de la Courbe. Comme si du point C de la courbe ECF, ayant menè la perpendiculaire
+<figure><graphic url="huyg003oeuv09ill82.gif"></graphic></figure>
+CB ∞ <hi rend="i">y</hi> sur ladroite donnée AD, dans laquelle soit donnè le point A et AB ∞ <hi rend="i">x</hi>; la tangente estant CD, et BD alors egale à <hi rend="i">yy</hi>/2<hi rend="i">x</hi> - 2<hi rend="i">x</hi>; si vous pouvez trouver l'Equation qui exprime la relation de AB à BC, ou bien quand BD est 2<hi rend="i">xxy</hi>-<hi rend="i">aax</hi> / 3<hi rend="i">aa</hi>-2<hi rend="i">xy</hi> estant <hi rend="i">a</hi> une ligne donnée<note n="#10"/>. Si vostre methode sert icy et aux autres choses que vous dites, vous pouvez estre tres seur quel en sera mon jugement, et vous m'obligerez fort aussi bien que tous les geometres en l'expliquant clairement et dans un traitè expres.</p>
+<p>Dans ma lettre qui accompagnoit le traitè de la Lumiere<note n="#11"/> je vous faisois response à la tresobligeante que vous m'aviez escrite il y avoit longtemps, au sujet de vostre probleme des corps egalement descendants que j'avois resolu. J'y avois aussi touchè quelque chose des Orbes Elliptiques des Planetes, dont vous aviez donnè vos pensées dans les Acta de Leipsich, pour sçavoir si vous n'aviez pas rejettè les Tourbillons de des Cartes apres avoir vu le livre de Mr. <persName key="newt011">Newton</persName>. Je demandois aussi vostre jugement sur ce que j'ay escrit au traitè de la Pesanteur touchant le mouvement des corps qui sentent la resistance de l'air, ayant vu que vous aviez aussi entamè cette matiere. Mais j'attens avec impatience vos remarques sur tous
+les sujets differents que mon livre contient scachant que je ne scaurois avoir un juge plus competent, ni plus portè a me faire justice. Je suis avec toute l'estime possible etc.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1308"/>
+<meta type="date" value="1665-01-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1308">
+<div type="opener">
+<p><persName key="slus001">Slusio</persName>.</p>
+<p>5 Janvier 1665.</p>
+</div>
+<p>Escrit en Angleterre sur ce qu'il vouloit scavoir de Hobbes<note n="#1"/>, point eu response la dessus, escrit derechef<note n="#2"/>. Graces du soin des lettres. Campani me montre une autre voie<note n="#3"/>. Palinodiam canere Fabrium. observationem denuo mittere. Observatio mea cometae<note n="#4"/>. telescopia parum juvant.</p>
+</div>
+</body>
+</text>
+</TEI>

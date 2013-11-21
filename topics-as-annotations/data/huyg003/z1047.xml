@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1047"/>
+<meta type="date" value="1662-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hobb001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1046"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1047">
+<p>Censura missa ad bibliopolam<note n="#2"/> <persName key="hobb001">Hobbij</persName> uti ipse petierat.</p>
+<div type="opener">
+<p>1662. Augusti.</p>
+</div>
+<p>In duplicatione cubi <persName key="hobb001">Hobbiana</persName> quae una cum Problematibus Physicis<note n="#3"/> edita est recte satis se habent omnia usque ad versum illum pagina 117. <hi rend="i">Ergo ducta</hi> X T <hi rend="i">et producta incidet in</hi> Z. Hoc enim ex praemissis non sequitur, neque verum est. Recte autem sic dixisset, <hi rend="i">Ergo ducta</hi> X T <hi rend="i">et producta usque in rectam</hi> Y P, <hi rend="i">ipsa quoque bifariam secabitur a recta</hi> a T<note n="#4"/>. Hinc vero nunquam efficietur XT productam incidere in Z; neque illud proinde, punctum X esse in circumferentia circuli YZV, unde reliqua pendet demonstratio.</p>
+<p>Videtur autem autori imposuisse quod producta XT tam prope incidit in Z ut oculis discrimen notare nequiverit. Sed mirum est non animadvertisse illum vitiosam esse demonstrationem, in qua nulla fieret mentio ejus quod in constructionem problematis adsumptum fuerat, nempe <hi rend="i">quod</hi> AS <hi rend="i">aequalis ponebatur semidiagonali</hi> AI. Hoc enim necessario demonstrationem ingredi debuerat si bona esset.</p>
+<p>Porro calculi arithmetici usum ad explorandam geometricam constructionem injuria rejicit. graviterque errat dum hac in re sententiam suam probare conatur.</p>
+<p>Ad quadraturam circuli quod attinet, vitium in demonstratione manifestum est
+pagina 130, ubi dicitur, <hi rend="i">Quoties ergo</hi> eg <hi rend="i">est in</hi> ef <hi rend="i">toties est</hi> co <hi rend="i">sinus arcus</hi> Bo <hi rend="i">in recta</hi> ct, <hi rend="i">et toties ipse arcus</hi> Bo <hi rend="i">in arcu</hi> BD<note n="#5"/>.</p>
+<p><figure><graphic url="huyg003oeuv04ill47.gif"></graphic></figure></p>
+<p>Non enim in arcubus quibusvis haec proportio vera est licet arcus BS sit ⅓ arcus BD sicut et recta Bi ⅓ rectae BF.</p>
+<p>Alteram demonstrationem non expendi cum scirem non posse hac prima meliorem esse, siquidem aliunde mihi constet falsum esse id quod probandum suscipitur arcui nimirum BD aequalem esse rectam BF. Ostendi enim in ijs quae de Circuli Magnitudine edidi<note n="#6"/> BF semper majorem esse arcu BD, quando VX aequalis est radio semicirculi BDG. Quando autem XG eidem radio aequalis est, semper rectam BF minorem esse arcu BD.</p>
+<p>Quod Wallisius scripserit rationem 5 ad 12 superare rationem 1 ad 3 ratione 1 ad 12, non est credibile per errorem hoc eum fecisse, sed quod pro additione rationum eam quoque habuerit quae fit addendo fractiones quae quantitatem rationum secundum ipsius et aliorum multorum sententiam exprimunt.</p>
+<p>Non ignorat enim aliam et magis usitatam geometris rationum additionem seu
+compositionem, secundum quam ratio 1 ad 3 una cum ratione 5 ad 4 constituunt rationem 5 ad 12. Et praestaret quidem mea sententia non aliam agnoscere additionem rationum. ne res duae diversissimae eodem nomine vocentur.</p>
+</div>
+</body>
+</text>
+</TEI>

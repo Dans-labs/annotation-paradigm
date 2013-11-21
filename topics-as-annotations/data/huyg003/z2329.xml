@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2329"/>
+<meta type="date" value="1684-02-16"/>
+<meta type="sender" value="cass021"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2329">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 16 feurier 1684.</p>
+<p><note n="#1"/> Monsieur</p>
+</div>
+<p>Je vous rends mille graces Monsieur de l'honneur que vous m'auez fait par votre lettre du 3 de ce mois, de me communiquer vos nouuelles inuentions, et vos obseruations. Je les ay aussitost conferees auec un plaisir extraordinaire a celles que j'auois faites vers le mesme temps, pour satisfaire promptement a vos demandes, et voicy ce que j'ay trouué.</p>
+<p>Le satellite exterieur de Saturne au temps de vostre obseruation du 21 de mars<note n="#2"/> aprochoit de sa plus grande digression occidentale, comme je trouue non seulement par la Theorie, mais aussi par les obseruations faites le mesme jour, et deux iours auant et deux apres, lors que les satellites estoient a peu pres en cette configuration.</p>
+<p><figure><graphic url="huyg003oeuv08ill114.gif"></graphic></figure></p>
+<p>il est donc hors de doute que celuy que vous vistes le 21 a gauche du vostre<note n="#3"/> estoit le satellite exterieur, mais il faut que ie vous auoüe, que ie ne fis pas tant de reflexion a ce satellite ce jour la que dans les deux autres obseruations.</p>
+<p>Le 13 de May<note n="#4"/> a 8<hi rend="sup">h</hi> 50′ je marquay la configuration de ♄ en cette maniere
+<figure><graphic url="huyg003oeuv08ill116.gif"></graphic></figure></p>
+<p>Vostre satellite se voyoit a droite, mais je ne trouue pas que l'estoille qui estoit a gauche fut le satellite exterieur, qui deuoit estre encore a droite et inuisible.</p>
+<p>Le 23 de May<note n="#5"/> je n'obseruay pas les satellites de Saturne mais ie les auois obseruez le 14 du mesme mois a 9.<hi rend="sup">h</hi> 52 a peu pres en cette configuration
+<figure><graphic url="huyg003oeuv08ill118.gif"></graphic></figure></p>
+<p>Ce qui s'accorde auec vostre observation du 23, qui represente la situation que le premier satellite deuoit auoir a l'egard de la precedente apres deux reuolutions de ce satellite, qui s'acheuent en 9 jours o<hi rend="sup">h</hi> 54′. Vostre obseruation s'accorde aussi a celle que j'auois faite le 21 de mars, 63 jours auant; qui donnent 14 reuolutions, un peu moins.</p>
+<p>Pour ce qui est de la tache de Jupiter il est longtemps que je ne l'ay pas obseruee. la Bande a la quelle elle estoit adherente s'est allargie extraordinairement depuis un an, mais dun costé seulement, estant plus mince de l'autre, et la reuolution de Jupiter fait paroitre tantost la partie plus large, tantost la plus estroite. La Tache selon la Theorie auroit du paroitre au millieu de Jupiter le 12 de ce mois a 9 heure du soir ce qui peut seruir dEpoque pour la chercher, emploiant la reuolution 9.<hi rend="sup">h.</hi> 55.′52.″</p>
+<p>Le verre du Sr. Campani de 34 pieds porte l'ouuerture de 3 poulces et l'oculaire de 3 poulce ½ Celuy de Mr. <persName>Borelli</persName> de 40 pieds porte presque la mesme ouuerture et l'oculaire de 4 poulces. le Sr. Campani a enuoye 4 obiectifs tres excellents de 72, de 90, de 104, et de 140 pieds. la rigueur de la saison a empeché jusqu'a present de l'eprouuer au Ciel, nous le ferons presentement. et vostre inuention Monsieur de faciliter l'usage des grands verres sera fort a propos, si vous auez la bonte de me la communiquer, comme vous me faites esperer. Je vous en ay bien de l'obligation, et si vous le trouuez agreable je la donneray au journal<note n="#6"/> de la maniere que vous l'enuoirerez. Vostrepresence me seroit bien encore plus agreable, mais si vous tardez a venir, jose vous prier de l'enuoier, car je suis persuade que si elle vous satisfait, elle est quelque chose d'excellent, et qui merite d'estre mise en vsage. Je me rejouis aussi auec vous de la maniere que vous auez trouuee de faire des grands Telescopes, et comme il est long temps que vous y trauaillez, et que vous en connoissez le fin mieux que personne, je ne doute point qu'elle ne reussisse. Jay en fin une reconnoissance toute particuliere de la part que vous auez voulu me faire de vos applications si utiles et de la continuation des marques de vostre amitie qui m'oblige de estre perpetuellement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="cass021">Cassini</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

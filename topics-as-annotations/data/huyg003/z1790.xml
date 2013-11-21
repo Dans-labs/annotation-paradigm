@@ -1,0 +1,19 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1790"/>
+<meta type="date" value="1669"/>
+<meta type="sender" value="dula010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1790">
+<p>Aequatio solida in numeris radicem habens planum +<hi rend="i">y</hi><hi rend="sup">3</hi>+30<figure rend="inline"><graphic url="huyg003oeuv06fi19.gif"></graphic></figure><hi rend="i">y</hi>-28Π0. Nam per Cardani Regulam fit +<hi rend="i">y</hi>Π+<figure rend="inline"><graphic url="huyg003oeuv06fi23.gif"></graphic><graphic url="huyg003oeuv06fi26.gif"></graphic></figure> et quoniam binomii ex binomio +196+3000<figure rend="inline"><graphic url="huyg003oeuv06fi19.gif"></graphic></figure> non potest extrahi radix quadrata neque etiam ex binomio +14+<figure rend="inline"><graphic url="huyg003oeuv06fi24.gif"></graphic></figure> radix cubica extrahi poterit, cum vna pars nempe 14 est rationalis, quadratum vero alterius partis nimirum +196+3000<figure rend="inline"><graphic url="huyg003oeuv06fi19.gif"></graphic></figure> est irrationale, per Schotenij regulam sequitur nullam ex dicto binomio radicem cubicam extrahi posse.</p>
+<p>Haec tamen aequatio radicem habet planum ut facillime ostendam si opus est +30<figure rend="inline"><graphic url="huyg003oeuv06fi19.gif"></graphic></figure>Π+<figure rend="inline"><graphic url="huyg003oeuv06fi25.gif"></graphic></figure>.</p>
+</div>
+</body>
+</text>
+</TEI>

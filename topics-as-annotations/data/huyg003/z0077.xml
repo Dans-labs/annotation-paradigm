@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0077"/>
+<meta type="date" value="1650-03-16"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="genev001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0077">
+<div type="opener">
+<p><placeName key="genev001">Geneue</placeName> <date>16 mars [1650]</date>.<note n="#1"/></p>
+<p>Mon Frere,</p>
+</div>
+<p>J'ay leu vos vers avec l'admiration qu'ils meritent estants veritablement beaux et bien polys. Mon Pere m'en envoya aussi une copie dans un petit billet lequel ayant leu devant sa lettre, je n'avois garde de croire si non que ce fust de sa façon. J'ay monstré ceux de Mon pere et de Mr. <persName>d'Aumale</persName> a plusieurs personnes d'icy qui, concordi judicio disent touts que ceux de Mon pere sont excellents et que ceux de d'Aumale ne valent rien, et j'en juge de mesme. Vous jouissez de toutes les nopces et de tout ce qu'il y a de resjouissances par dela pendant que je suis tourmenté icy a suivre un gros Comte<note n="#2"/> qui comme un cheval retif ne va ny en avant ny en arriere, dieu scait le plaisir que c'est. Il est vray que le desir d'aller en Italie commence presque à me passer comme l'on perd l'appetit à trop jeusner, et pourtant s'il me tarde encore quinze jours, il y aura bien du malheur si je l'attens d'avantage. Ibimus, ibimus.</p>
+<p>Enfin Crommon se marie et presque en mesme temps la dame<note n="#3"/> a laquelle il en avoit fait a croire icy, qui fait pourtant un party bien plus avantageux que n'auroit esté celuy de Crommon. Il pourroit bien arriver que je serois des nopces. <hi rend="i">Het succes met de naeste</hi>.<note n="#4"/> Adieu.</p>
+</div>
+</body>
+</text>
+</TEI>

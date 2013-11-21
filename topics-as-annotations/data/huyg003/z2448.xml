@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2448"/>
+<meta type="date" value="1686-12-17"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2448">
+<div type="opener">
+<p>Nobilissime Vir</p>
+</div>
+<p>Constitutum mihi est literas mittere ad D. de Tschirnhaus, ut ejus postulato faciam satis: quoniam vero ex tuis<note n="#1"/> intellexi, quas 28 Octob. ad me dedisti, Vir. Nob. velle Meditationes Tschirnhausij perlegere et expendere, et tunc ad eum Epistolam exarare in quâ dubio procul habebitur de illo Tract. sententia tua, meum esse judicavi N.V. per epistolam convenire ex<note n="#2"/> expiscari, num Auctorem nostrum perlegerit, et expenderit; quod si factum literas suas meis jungere poterit, ut proxime die veneris Lipsias amandentur. Si quid habes, quod ipsum scire desideras, quaeso mihi indica. Vale hisce.</p>
+<div type="closer">
+<p>Tuus omni studio <persName key="gent015">Petrus à Gent</persName>.</p>
+<p>Raptim Amst. 17 Decemb. 1686.</p>
+<p>Achter de Groote Hal in de witte poort.</p>
+</div>
+</div>
+<div type="para">
+<p>Wel Edele Geboren Heer Mijn Heer <persName key="huyg003">Christiaan Hugens, Heer van Zelem</persName> In 's Gravenhage.
+<lb/>pt.</p>
+</div>
+</body>
+</text>
+</TEI>

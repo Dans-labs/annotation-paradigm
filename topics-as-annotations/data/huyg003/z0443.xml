@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0443"/>
+<meta type="date" value="1657-12-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0443">
+<div type="opener">
+<p>A Monsieur <persName key="boul014">Bouillaut</persName></p>
+<p><date>26 Dec. 1657</date>.</p>
+</div>
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>De mon observation de Saturne et sa figure que je luy envoye, et du satellite qu'il ne suit pas le plan de l'anneau qui environne ♄.
+Defence afin qu'il ne decouure pas mon Hypothese. De l'horologe du Grand <seg org="Due" type="corr">Duc</seg>.
+Que peut estre l'invention leur est venue d'icy, si c'est la mesme, ce que je desire de scavoir.
+Du grand horologe a Sceveling. Et si l'on n'en fait pas encore a Paris.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>26 Dec. 1657</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Un gentilhomme de chez Monsieur l'ambassadeur<note n="#1"/> de qui je ne scay pas le nom, m'apporta avant hier de vos nouvelles, et me demanda de vostre part si je n'avois pas observè la conjonction qui s'est faite de Saturne et Venus, le 14 Novembre a ce que dit mon almanac. J'advoue que je n'en ay rien sceu; mais quand je ne l'aurois pas ignorée, le mauvais temps toutefois qu'il a fait pendant tout ce mois passè, m'auroit empeschè de la remarquer. Si à Paris vous avez estè plus heureux, je seray bien aise que vous m'appreniez le vray temps de cette rencontre. L'eclipse derniere m'est aussi eschappée, le ciel estant tout a fait couvert. Le 17 decembre j'ay veu Saturne avecq ma grande lunette pour la premiere fois apres qu'il a passè le soleil, et me suis resjoui en le trouuant justement de la forme que j'avois predite, suivant mon Hypothese de l'anneau. Vous scavez quelle est cette Hypothese, et
+<figure><graphic url="huyg003oeuv02ill57.gif"></graphic></figure>
+quand vous l'auriez oubliée, la figure de ce dernier phenomene vous la pourroit derechef apprendre, l'anneau qui environne le globe de Saturne, se montre, comme vous voyez en forme d'ellipse assez estroite, mais qui s'est elargie pourtant de beaucoup depuis sa derniere occultation de sorte qu'a cettheure on voit le ciel au travers. le satellite ne semble pas suivre toujours la plan de cet anneau qui est parallele à l'Acquateur, mais quelque autre; ainsi qu'il en arrive de mesme à nostre lune. Je m'estimerois heureux de vous avoir encore pour temoin de ces observations, et espere tousjours que le printemps vous nous pourra ramener. Cependant je vous supplie de ne communiquer à personne ce que vous scavez du monde Saturnien, ny mesme de faire voir la figure que je viens de vous tracer, jusques à ce que j'auray publiè tout le systeme. Monsieur <persName>Jannot</persName> me monstra dernierement ce que vous luy aviez escrit touchant l'horologe à la quelle Monsieur le grand Duc faisoit travailler, qui devoit, quant à l'effect, ressembler à la miene. Si depuis l'on vous en a mandè d'autres particularitez, vous m'obligerez fort de me les apprendre, afin que je puisse scavoir s'ils se servent aussi du pendulum. Il y eust hier un an justement que je fis le premier modelle de cette sorte d'horologes: Et au mois de Juin j'en commencay à monstrer la construction a tous ceux qui m'en requeroyent. dont peut estre quelqu'un en aura donnè advis en Italie. Quoyque aussi sans miracle il s'est pu faire que quelqu'autre ait eu la mesme pensee que moy. dans fort peu de jours
+nous verrons une fort grande de ces horologes au clocher du village qui est proche de la mer, à une demie lieue d'icy<note n="#2"/>. le pendulum sera de 21 pied: et pesera environ 40 ou 50 livres. Mandez moy je vous prie si l'on n'en fait pas encore à Paris, ou par vostre instruction ou par celle de quelqu' autre. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionnè serviteur <persName key="huyg003">Chr. Huijgens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

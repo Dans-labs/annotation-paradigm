@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1637"/>
+<meta type="date" value="1668-04-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1637">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 27 Avril 1668.</p>
+</div>
+<p>J'ay bien fait a ce que je vois de ne haster pas trop l'ouurage de ma Cariole, en attendant tousjours les corrections et changements que l'experience vous obligeroit de faire. car voila la despence des courroies sauvée par l'avis que vous me donnez des bastons qui me semblent devoir reussir fort bien pourveu qu'ils n'ostent point la douceur.</p>
+<p>Monsieur Franchine<note n="#1"/> m'a fait il y a quelque temps la description d'une machine
+<figure><graphic url="huyg003oeuv06ill44.gif"></graphic></figure>
+presque semblable a la vostre comme elle est a cet heure, mais n'ayant pas l'invention des bastons ronds, il avoit rencontrè un grand inconvenient en ce que ses bastons avec le temps s'affaissoient et baissoient trop.</p>
+<p>Il avoit des aissieux courbez ainsi qui permettoient a la chaise de descendre plus bas qu'elle ne scauroit dans vostre maniere, et en cas que vous trouuiez trop de versabilitè, il ne seroit
+pas mauuais peut estre d'adjouter cecy à vostre invention. Il y a plus de 8 jours que je n'ay eu le loisir d'aller voir ce que fait mon menuisier et charron, dont je suis bien faschè, car le beautemps sera passè en partie devant que je me puisse servir de ma calesche.</p>
+<p>L'on travaille icy dans nostre jardin a faire une fontaine dont l'invention est dudit Franchine et qui est fort belle, c'est que de l'egout de la fontaine chez Monsieur <persName key="colb012">Colbert</persName>, qui demeure icy pres, nous en ferons une qui jettera deux fois plus d'eau, et cela tousjours et a la mesme hauteur, que la siene. Ie ne scay si vous devinerez bien comment cela se fait, c'est a dire sans y adjouter l'aide d'aucune autre force, que celle de l'eau mesme, et point d'autre eau aussi que celle dudit egout<note n="#2"/>.</p>
+<p>Je viens de montrer a Monsieur <persName key="colb012">Colbert</persName> les Experiences du Vuide, et a Madame sa femme et fille<note n="#3"/>, dont il a estè fort satisfait. J'ay perdu la matinee à ajuster bien toutes choses pour cela et l'apresdinee s'en est allee a faire ces experiences et a discourir en suite avec quelques uns des spectateurs parmy les quels Monsieur de Chevreuse<note n="#4"/> gendre de Monsieur Colbert estoit le plus scavant.</p>
+<p>Cela m'empesche de pouuoir escrire cette fois a Mon Pere, et a ma soeur auxquels vous presenterez s'il vous plait mes respects. Et faites souuenir a Mon Pere qu'il ne m'a pas mandè son sentiment touchant le poeme de la peinture<note n="#5"/>, comme il m'avoit promis<note n="#6"/>, et que j'en suis en peine.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.
+<lb/>XII</p>
+</div>
+<p><figure><graphic url="huyg003oeuv06ill45.gif"></graphic></figure></p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0949"/>
+<meta type="date" value="1661-12"/>
+<meta type="sender" value="ferm011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0948"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0949">
+<p><figure><graphic url="huyg003oeuv04ill06.gif"></graphic></figure></p>
+<p>Soit la courbe de Diocles BCRG<note n="#2"/>. et BDF, de l'autre costé du cercle, qui a cette proprieté connué, qu'en prenant quel conque point au cercle, comme N, ou Q, les quatre lignes AO, ON, OB, OM, sont continuellement proportionelles, et de mesme les quatre lignes AP, PO<note n="#3"/>, PB, PR. or cette courbe s'estend de deux costes a l'infini et la droite HAE, qui touche le cercle en A, est son asymptote. la proposition est que tout l'espace GRBDF, compris entre la courbe et l'asymptote, estendue à l'infini est triple du cercle generateur, ACBD. J'ay aussy la mesure des solides, des centres de grauite des portions et de tout le reste.</p>
+<p>Monsieur Frenicle auoit proposé à Monsieur Wallis.</p>
+<p lang="la">Inuenire in numeris duo triangula rectangula ita constituta ut laterum circa angulum rectum differentia sit eadem, et quod in altero est maius duorum laterum circà rectum, sit in reliquo hypothenusa.</p>
+<p>Monsieur Wallis respondit que la question se reduisoit a trouuer un certain triangle en nombres qu'il ne croyoit pas possible, Monsieur Frenicle luy fist response que ce triangle estoit possible et le luy exhiba, mais que pour cela la question ne seroit pas resolue.</p>
+</div>
+</body>
+</text>
+</TEI>

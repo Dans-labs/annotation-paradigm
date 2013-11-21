@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1969"/>
+<meta type="date" value="1673-08-14"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1969">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 4 Aoust 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay envoyé vostre lettre<note n="#2"/> enclose dans celle du 10 juillet<note n="#3"/> à Monsieur Wallis et ne manqueray iamais de contribuer tout ce que ie pourray pour maintenir vne mutuelle bienveillance entre les personnes illustres par tout. C'est pourquoy ie vous prie aussi de ne prendre pas mauvais que i'ay imprimè ce que Monsieur Newton a respondu<note n="#4"/> à vostre derniere, vû principalement que ie l'ay fait sans vous nommer pour eviter des reflexions, que l'on pourroit faire la dessus. La matiere estant importante, et ce discours de Monsieur Newton y apportant encore quelque lumiere, on l'a crû à propos de le publier par la presse à fin de donner tant plus d'occasion aux scavans d'y mediter.</p>
+<p>C'est encor la raison qu'on a fait imprimer la lettre de Monsieur Flamstead<note n="#5"/>
+nouvellement escrite à Signor Cassini à fin d'exciter les Astronomes par tout à faire des observations semblables. Vous m'obligerez de faire voir ces transactions audit Sieur Cassini avec mes humbles baisemains. Je ne doubte pas, que vous n'ayez receu le livre de Monsieur Boyle touchant la Relation entre la Flamme et l'Air etc.<note n="#6"/>; comme aussi ce que ie vous envoiay de la part de Mylord Brouncker<note n="#7"/> dans ma lettre du 23 juin<note n="#8"/>, qui ne vous fut pas encor baillée, lors que vous m'escrivistez la vostre<note n="#9"/> du 10 juillet<note n="#10"/>. Vous trouuerez dans cet imprimé la description d'un nouveau livre de Monsieur Boyle<note n="#11"/>, dont sans doubte il vous envoiera aussi vn Exemplaire, aussi tost qu'il sera de retour en ville. Nous aurons de luy vn troisiesme<note n="#12"/> dans quinze iours, traitant de la nature positive ou privative du Froid, auec plusieurs autres choses; où il examine tous les argumens, dont M. <persName key="gass001">Gassendi</persName> se servit pour prouver la nature positive du Froid, les trouvant non concluans, sans pourtant determiner la question. Vous aurez l'occasion d'en juger dans peu de temps.</p>
+<div type="closer">
+<p>Je suis
+<lb/>Monsieur,
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.
+<lb/>46 β</p>
+</div>
+</body>
+</text>
+</TEI>

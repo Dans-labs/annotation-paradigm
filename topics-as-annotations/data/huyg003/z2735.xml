@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2735"/>
+<meta type="date" value="1692-02-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg023"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2735">
+<div type="opener">
+<p>Viro et Geometrae eximio <persName key="huyg023">Huberto Huighenio</persName> <persName key="huyg003">Chr. Hugenius</persName></p>
+<p>S.P.</p>
+</div>
+<p>Ex ijs, quae ad me misisti, satis perspicio egregie te versatum in rebus geometricis et analitico calculo. Vix tamen eo, quo speras, te perventurum puto; certe operam meam frustra hic tibi venditarem. Ex datis quadraturis invenis, ut video, aequationes curvarum linearum, ad quas illae pertinent, quarum exempla<note n="#2"/> aliquot
+examinavi et recte se habere comperi, unde et de caeteris nihil ambigo. An autem eadem methodo hic utaris, qua ego<note n="#3"/> (quae nempe ex Barovij Theoremate<note n="#4"/> quodam pendet) ignoro. Sed insigni industria saepe usum te adverto in ejusmodi quadraturis formandis, unde aequationes curvarum oriantur, quae paucis terminis constent; nisi forsan aliunde, ut fit, quadraturas istas erueras<note n="#5"/>. Nam contraria via ex aequatione ad quadraturam pergere, etsi nonnumquam contingat, vix id in tuis illis concedi crediderim, nec Tschirnhausio se hic jactanti fidem<note n="#6"/> habeo. Evenit quidem mihi, ut cum aequationem curvae 15<hi rend="sup">ti</hi>.<note n="#7"/> exempli tui celebri geometrae proposuissem<note n="#8"/>, ille quadraturam ejus, qualis tua est, invenerit, cum et ego meam
+haberem<note n="#9"/>, sed suspicor a posteriori, ex collectis tuo modo exemplis, id eum praestitisse. Quamquam autem innumeras curvas quadrabiles ita invenire liceat, non inde sequitur talem quadraturam effici posse, cui curva quaedam, quam tibi quadrandam proponis, conveniat. Ac proinde non video, quo pacto pag. 9<note n="#10"/>, ex solutione problematis tui a posteriori, concludas omnium curvarum quadraturas haberi posse. Nam ex. gr. cum aequatio circuli sit 2<hi rend="i">ay</hi>-<hi rend="i">yy</hi> ∞ <hi rend="i">xx</hi>, an putas quadraturam talem aliquam excogitari posse pag. 6.<hi rend="sup">a</hi> vel 8.<hi rend="sup">a</hi> ut inde haec aequatio nascatur. Hoc ex tuis nequaquam efficitur, et frustra te fatigares. Recte autem affirmas totum quadraturae negotium hinc pendere, ut ex data linea tua BC (quam brevitatis gratia subnormalem vocare soleo, quia normali in curvam ductae subjacet) inveniatur aequatio curvae, ad quam pertinet. Si enim subnormalis haec
+<figure><graphic url="huyg003oeuv10ill58.gif"></graphic></figure>
+BC detur <figure rend="inline"><graphic url="huyg003oeuv10fi238.gif"></graphic></figure>, possisque hinc curvam propriam invenire, jam constat te quadraturam circuli habiturum<note n="#11"/>, utque proinde pag. 12, ad septimam potestatem literae <hi rend="i">y</hi> adscenderent nil opus fuerit. Caeterum hoc problema eximium jam diu geometras peritissimos exercet, nec putandum est, ipsum semper solutionem admittere. Vellem tantum hoc definiri posset, an subnormalis data ad curvam geometricam pertineat an ad alîus generis aliquam, an denique ad nullam. Habemus quidem rem confectam<note n="#12"/> finitis casibus, ubi subnormales dantur absque radicalibus quantitatibus, ut si sit subnormalis<note n="#13"/> <figure rend="inline"><graphic url="huyg003oeuv10fi452.gif"></graphic></figure><note n="#14"/> vel <figure rend="inline"><graphic url="huyg003oeuv10fi239.gif"></graphic></figure><note n="#15"/>, reperientur aequationes curvarum geometricarum, quibus hae conveniunt. Aliis vero casibus non succedet; ut, si detur subnormalis <figure rend="inline"><graphic url="huyg003oeuv10fi453.gif"></graphic></figure><note n="#16"/>, hic cessat regula. Rursus alijs casibus alia methodo ad quadraturas res deducitur, ut si detur subnormalis <hi rend="i">xx</hi>/<hi rend="i">a</hi><note n="#17"/>, vel <figure rend="inline"><graphic url="huyg003oeuv10fi454.gif"></graphic></figure><note n="#18"/>, invenitur, ad prioris curvae quaesitae puncta designanda, hyperbolae quadraturam requiri; ad posterioris, tum circuli tum hyperbolae. Horum aliquid an tibi compertum sit scire velim. Item quo modo pag. 10. solutionem secundae propositionis tuae, cum quadratura per <hi rend="i">x</hi> datur, ad quadraturas Hyperbolae aut circuli deducas, et an semper eo devenias, etiamsi curva quaesita sit geometrica? Velut cum datur quadratura ista:</p>
+<p><hi rend="i">aψ∞</hi> <figure rend="inline"><graphic url="huyg003oeuv10fi242.gif"></graphic></figure><note n="#19"/>, ubi curvae aequatio est <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ <hi rend="i">ddyy</hi>-<hi rend="i">ccxx</hi>, eadem quae in tuo 15<hi rend="sup">o</hi>. casu<note n="#20"/>. Non intelligo etiam quali calculo ex quadraturis pag. 8 elicies aequationes curvarum pag. 9. Ad haec omnia ut mihi rescribas etiam atque etiam a Te peto. Tum ut de te ipso docere velis, qui sis, et ex qua Huygheniorum familia, nam non esse eandem, nostra armorum insignia ostendunt. Vale!</p>
+<p>&nbsp;</p>
+<p>Dabam Hagae Com. 12 Feb. 1692.</p>
+</div>
+</body>
+</text>
+</TEI>

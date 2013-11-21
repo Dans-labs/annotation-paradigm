@@ -1,0 +1,45 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1715"/>
+<meta type="date" value="1669-03-18"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="gall047"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1715">
+<div type="opener">
+<p>A Monsieur <persName key="gall047">Galois</persName> pour le Journal.</p>
+<p>18 mars 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Ie vous envoie dans le papier cy joint<note n="#2"/>, comme j'avois promis, les propositions principales touchant la communication du mouuement qui se fait dans la rencontre des corps<note n="#3"/>.</p>
+<p>Vous verrez que celle qui sert en cecy de regle generale s'accorde en substance avec celle que Monsieur Wren a donnée<note n="#4"/> au public dans le dernier Journal de la Societè Royale d'Angleterre, et c'est ce qui en doit confirmer la veritè, puis que l'on se rencontre bien plus facilement dans le vray chemin que dans les routes qui s'en escartent.</p>
+<p>Ie scay qu'on pourroit douter si je n'ay pas formè ma Theorie sur celle de Monsieur Wren dont je viens de parler.</p>
+<p>C'est pourquoy a fin d'oster ce scrupule je vous diray, qu'il y a environ 16 ans, que je trouvay ces theoremes, comme je vois par les lettres que j'escrivis alors<note n="#5"/> la dessus a Monsieur Schooten et par ses responses<note n="#6"/> qu'il ma faites, qu'en 1660<note n="#7"/>, estant à Londres, je donnay a Monsieur Wren et Rook la determination qu'ils me demanderent de quelques cas de cette repercussion des corps, la quelle ils reconnurent avec plaisir qu'elle s'acordoit parfaitement bien avec leurs experiences, car pour de regle ils avouaient de n'en avoirpas encore pour ces sortes de mouuements.</p>
+<p>Ie vous diray aussi que Messieurs de la Societè Royale m'ayant priè depuis peu de leur communiquer ce que je pourrois avoir meditè touchant le sujet du
+mouvement, et ayant cnvoiè la dessus a Monsieur Oldenbourg, Secretaire de la Societè, mes 4 premieres, dont la generale estoit une, propositions avec leur demonstrations, il me renvoya<note n="#8"/>, aussi tost qu'il les eut receues une copie escrite de la Theorie de Monsieur Wren, telle que vous la voiez imprimee, et m'assura qu'elle avoit estè presentée à la Societè Royale il y avoit 15 jours, de sorte qu'il paroit assez que nous avons fait chacun a part nos recherches.</p>
+<div type="section">
+<head rend="h4">Regles du mouuement dans la rencontre des corps.</head>
+<p>1. Quand un corps dur rencontre directement un autre tel corps, egal a luy mesme qui est en repos, il luy transporte tout son mouvement, et demeure immobile apres la rencontre.</p>
+<p>2. Mais si cet autre corps egal est aussi en mouuement, et qu'il chemine dans la mesme ligne droite, ils font un echange reciproque de leurs mouuements.</p>
+<p>3. Un corps, quelque petit qu'il soit et quelque peu de vitesse qu'il ait, en rencontrant un autre plus grand qui soit en repos, luy donnera quelque mouuement.</p>
+<p>4. La regle generale pour determiner le mouuement qu'acquierent les corps durs dans leur rencontre directe, est celle cy.</p>
+<p>Soient les corps A et B, des quels A soit portè avec la vîtesse AD; et que B aille a sa rencontre, ou bien vers le mesme costè avec la vîtesse BD, ou que mesme il soit en repos, le point D estant le mesme que B:</p>
+<p>&nbsp;</p>
+<p>ayant trouvè dans la
+<figure><graphic url="huyg003oeuv06ill86.gif"></graphic></figure>
+ligne AB le point C centre de gravitè des corps A, B, il faut prendre CE egale à CD; et l'on aura EA pour la vistesse du corps A apres la rencontre, et EB pour celle du corps B, et l'une et l'autre vers le costè que montre l'ordre des points EA, EB. Que s'il arrive que le point E tombe en A ou B, les corps A ou B seront reduits au repos.</p>
+<p>5. La quantitè du mouvement qu'ont deux corps durs se peut augmenter ou
+diminuer par leur rencontre, mais il y reste tousjours la mesme quantitè vers le mesme costè, apres qu'on a soustrait la quantitè du mouvement contraire.</p>
+<p>6. La somme des produits faits de la grandeur de chaque corps dur, multipliè par le quarrè de sa vitesse, est tousjours la mesme devant et apres leur rencontre.</p>
+<p>7. Un corps dur qui est en repos recevra plus de mouuement d'un autre, plus grand ou moindre que luy, par l'interposition d'un tiers de grandeur moyenne, que s'il en estoit frappè immediatement: et le plus de tous par un qui soit moyen proportionel<note n="#9"/>.</p>
+<p>Une loy admirable de la Nature, que je puis verifier en ce qui est des corps spheriques, et qui semble estre generale en tous les autres soit que la rencontre soit directe ou oblique, et que les corps soient durs ou mols, est que le centre commun de gravitè de deux, trois ou tant qu'on voudra de corps, avance tousjours egalement vers le mesme costè en ligne droite, devant et apres leur rencontre.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

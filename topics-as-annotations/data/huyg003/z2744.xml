@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2744"/>
+<meta type="date" value="1692-03-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2744">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Windisgras. Longitudes. Eysenschmidt. Approbation ou objections. Plus qu'il ne faut de geometrie pour la physique. Tschirnhaus promesse sera vaine. Formes des quadratures. Remarques. Table Regle de Fatio.</p>
+</div>
+<div type="opener">
+<p>15 Mars 1692.</p>
+</div>
+<p>Je vous suis fort obligé de ce que vous temoignez de prendre interest à ma santé, qui depuis ma derniere a encore beaucoup souffert de la migraine pendant cette longue<note n="#3"/> gelée.</p>
+<p>Vous avez trop bonne opinion de mes forces à approfondir les matieres de Physique. Vous voulez m'animer à cette estude, à quoy contribueroit beaucoup, si je scavois que les essais, que j'en ay donnè dans mes derniers traitez, sont dans vostre approbation<note n="#4"/>. Il n'y a jusqu'icy que le seul Mr. <persName key="papi014">Papin</persName> qui m'ait envoiè des objections, que je crois avoir bien resolues<note n="#5"/>.</p>
+<p>J'ay vu l'extrait du traitè de Mr. <persName>Eysenschmid</persName> dans les Acta<note n="#6"/>; il m'en semble qu'il bastit sur un fondement fort peu seur, scavoir les differentes mesures qui ont estè faites du globe terrestre. Car on scait combien different entre eux les observateurs qui ont travaillè sous le mesme climat. On observe d'ailleurs que Jupiter est elliptique<note n="#7"/> dans le sens de Mr. <persName key="newt011">Newton</persName> et de moy, et la raison le veut, au lieu qu'il n'y en a point pour la figure elliptique de Mr. <persName>Eysenschmid</persName>. Je souhaite fort d'apprendre par la relation de ceux qui sont allez avec mes horloges au Cap de bonne Esperance, si le retardement de leur mouvement (qui comme vous scavez a la mesme cause que nostre pretendue figure de la Terre) sera confirmé de mesme que je l'ay remarquè dans le voiage precedent<note n="#8"/>. Ces observateurs se trouverent malades, lorsque les vaisseaux qui les devoient ramener passoient au Cap<note n="#9"/>, ce qui retardera leur retour peut estre d'un an entier;
+et il faudra attendre jusques là pour scavoir le succes de la mesure des longitudes, parce qu'en allant vers là, ils n'ont pas pu se regler sur les horologes, pour n'avoir pas eu le loisir d'examiner leur mouvement par le soleil<note n="#10"/>. Il est vrai qu'il y a un homme en ce pais<note n="#11"/>, qui a proposé à Mrs. les Estats son invention pour les longitudes, et que j'ay esté emploiè avec d'autres pour l'examiner. Mais il n'avoit rien de bon ni de nouveau, et il n'y a eu personne qui ne l'ait condamnè. Cependant de puissantes recommandations de quelques ignorants luy ont fait avoir 2000 fr.<note n="#12"/> de la Compagnie
+des Indes Orientales malgré elle, lequel argent est assurement tres mal emploiè. Il pretendoit se servir des observations de la Lune, et avoit eu commerce avec le professeur Wasmuth qui estoit un visionaire.</p>
+<p>Mr. <persName key="tsch002">de Tschirnhaus</persName> ayant promis avec tant d'assurance de donner la quadrature de toute ligne courbe proposée, ou de prouver qu'elle est impossible, ne s'est il trouvè personne qui l'ait mis à l'epreuve en luy proposant quelque courbe geometrique un peu composée? Je crois assurement qu'il se trouveroit court, ayant un peu examinè cette matiere depuis quelque temps. Je vois qu'on peut en supposant autant qu'on veut de quadratures, trouver les courbes à qui elles convienent<note n="#13"/>, mais d'aller de l'équation à la quadrature, je n'y vois pas moyen, si non en quelques cas simples<note n="#14"/>. Il y a des remarques à faire, mais elles ne vont guerre loin, de sorte que je doute mesme si lorsque vous m'avez donné<note n="#15"/> la quadrature de la courbe <hi rend="i">y</hi><hi rend="sup">4</hi>-8<hi rend="i">aayy</hi>+16<hi rend="i">aaxx</hi> ∞ o, que je vous avois proposée<note n="#16"/>, vous ne l'avez pas trouvée, Monsieur, dans quelque Table de quadratures que vous eussiez faites. Cela me paroit plus vraisemblable depuis qu'un certain
+mathematicien de Zelande m'a envoiè un petit traitè<note n="#17"/>, où il y a une telle Table, qui contient entre autres cette mesme courbe et sa quadrature<note n="#18"/>.</p>
+<p>Mr. <persName key="duil010">Fatio</persName> me mande<note n="#19"/> qu'il veut bien que je vous fasse part de sa methode des tangentes renversée, mais je ne scay pas maintenant si vous le souhaitez, ou si vous avez besoin, que je vous l'explique, de quoy vous m'informerez, s'il vous plait. Il croit que Mr. <persName key="newt011">Newton</persName> scait sur cette matiere et tout ce que luy et tout ce que vous, Monsieur, en avez trouvè, et encore bien d'avantage, et que mesme il en publiera quelque traitè<note n="#20"/>. Je suis avec passion &amp;c.</p>
+<p>J'ay eu soin de vostre lettre à Mr. <persName>le Comte de Windisgras</persName><note n="#21"/>, aussi-tost que je l'eus receuë.</p>
+</div>
+</body>
+</text>
+</TEI>

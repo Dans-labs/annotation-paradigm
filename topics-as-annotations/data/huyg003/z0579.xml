@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0579"/>
+<meta type="date" value="1659-02-01"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="wenen901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0579">
+<div type="opener">
+<p>Perillustri, Nobilissimo et Clarissimo Domino <persName key="huyg003">Christiano Hugenio à Zulichem</persName>, <persName key="kinn013">Godefr. Aloys. Kinner</persName> S.P.D.</p>
+</div>
+<p>Anni iam labuntur, quòd neque Tuae ad me neque meae ad te literae peruenerunt<note n="#1"/>: neutrius autem id culpâ factum existimo, inuiolatâ utrinque interim fide atque amicitiâ persistentibus. Jd quod de me tibi certò polliceri possum; si quidem nihil hucusque magis, quàm ubi degeres, qui successus scriptorum tuorum, quis demum reliquus personae tuae status, intelligere desiderabam. Donec tandem epistola Gregorij â Sancto Vincentio felicissimae rei nuncia cum gratiosissimo munusculo tuo<note n="#2"/> ad me ueniens nihil simile cogitantem ad insperatam coëgit laetitiam. Gratias tibi habeo maximas, Hugeni Praestantissime, pro tam insigni mei memoria; et uti de praeclarae nouae huius inuentionis per orbem uniuersum approbatione non est cur ambigas, ita omnino tibi de me persuasum habe, me in honore tuo laudeque promouendis isthîc impigrè uersari. Cuperem verò ex te intelligere, uideantne iam lucem Dioptrica tua, Humidis innatantia, Ephemerides Lunae Saturninae aut alia quaepiam ingeniosissimarum tuarum cogitationum; nam ego, ex quo â literarum commercio cessamus, nihil tuarum rerum uidi praeter unam epistolam Româ ab amico ad me destinatam, quae nouam Saturni Lunam<note n="#3"/> detegebat. Ego in ocio quasi nunc ago; et quid mirum? in Aula enim uiuo ubi propria ocij sedes. Cogitare tamen ab anno quaedam coepi de horologijs hydraulicâ arte animatis, quae tamen plus
+delectationi priuatae, quàm usui publico seruire possunt. Operae precium scilicet est, accommodare se vanitati atque genio saeculi huius, quod nugae potius quàm solidae speculationes delectant. Salutat te perhumaniter Dominus <persName>Marcus Medicus</persName><note n="#4"/>, apud quem nobis conuersantibus frequentissimè tertius ades, sed non audis tamen laudes, quae ab libellum de magnitudine circuli<note n="#5"/> aliaque tua proferuntur. Vale, Vir Nobilissime, mei memor uiue, gratissimumque literarum commercium, nisi molestum est, rursus instaura.</p>
+<div type="closer">
+<p><placeName key="wenen901">Viennae</placeName> in <placeName key="AT">Austria</placeName> <date>1 Februarij 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

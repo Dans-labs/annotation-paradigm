@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0056"/>
+<meta type="date" value="1648-06-20"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0056">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>Ick sende VE volgens u begheerte de <persName key="arch901">Archimedes</persName><note n="#1"/>, die ick onlancks tot Haerlem gekocht hebbe, hebbe het ghelt dat VE mij gestuert heeft met het problema wel ontfanghen, VE daer voor bedanckende. Vorders sende ick VE hier 3 problemata, die mij onlangs sonder solutie van Parijs sijn toegesonden, dewelcke mijns bedunckens niet swaer en syn. Doch hebbe daer na noch niet gesocht, also ick gheene tijt daer toe gehadt en hebbe. VE sal die lichtelick vinden, souckende die bij gelegentheijt, ofte lust daer toe hebbende, dewijl VE ongelijcke swaerder gesolueert heeft.
+Hier mede eindighende, ende VE beveelende in de bescherminge des Alderhoochsten, verblijve</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>VE. Onderdanighen en dienstwillighen dienaer <persName key="scho197">Frans van Schooten</persName>.</p>
+<p>Vit <placeName key="leide001">Leijden</placeName> den <date>20 Junij 1648</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Mijn Heer <persName key="huyg001">van Zuilechem</persName>, Raedt ende Secretaris van sijn Hoocheijt, om voort te bestellen aen Mons<hi rend="sup">r</hi>. <persName key="huyg003">Christianus Huygens</persName>
+<lb/>in S'gravenhage.
+<lb/>port
+<lb/>met een bouck.</p>
+</div>
+</body>
+</text>
+</TEI>

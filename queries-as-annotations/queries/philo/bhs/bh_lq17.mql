@@ -1,0 +1,27 @@
+// This query looks for clauses with an object consisting of a single
+// noun directly followed by a complement with the same noun in it.
+
+// ident @(#)lq17.mql	1.1 04/03/26
+
+/*
+<metadata>
+<meta type="research_question">objects and complements</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-03-26"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query looks for clauses with an object consisting of a single noun directly followed by a complement with the same noun in it.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [phrase phrase_function = Objc
+      [word as w1 FOCUS first and last part_of_speech = noun]
+   ]
+   [phrase phrase_function = Cmpl
+      [word FOCUS lexeme = w1.lexeme]
+   ]
+]

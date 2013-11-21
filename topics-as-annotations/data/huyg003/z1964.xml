@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1964"/>
+<meta type="date" value="1673-07-14"/>
+<meta type="sender" value="gill038"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1964">
+<div type="opener">
+<p>Viro doctissimo salutem dat litterarum amans.</p>
+</div>
+<p>Licet neque de facie neque de nomine tibi notus sim, vir nobilissime, nihilosecius ad credendum adductus sum tibi non ingratum fore, si quam in 5<hi rend="sup">a</hi> propositione 4<hi rend="sup">ae</hi> partis libri tui<note n="#2"/> habeo difficultatem, illam tibi salutato proponerem. Verum cum non adeo felix sim vt te domi reperiam, Epistola ista meas vices gerens quaenam sit mea difficultas, exponat; cum deberes probare lineam <hi rend="i">aee</hi> + <hi rend="i">bff</hi> + <hi rend="i">cgg</hi>/<hi rend="i">ad</hi> + <hi rend="i">bd</hi> + <hi rend="i">cd</hi> esse aequalem pendulo simplici, hanc aequalitatem supponis et ex hac suppositione probas aequalitatem motus, et ex aequalitate motus concludis aequalitatem linearum<note n="#3"/>; perinde est ac si diceres, motus est aequalis quia lineae sunt aequales; lineae autem sunt aequales quia motus est aequalis; ex eoque magis apparet circulus quod si eadem aequalitas supponatur inter <hi rend="i">aee</hi> + <hi rend="i">bff</hi> + <hi rend="i">cgg</hi>/<hi rend="i">ad</hi> + <hi rend="i">bd</hi> + <hi rend="i">cd</hi> et quamlibet aliam lineam semper idem calculus reperiatur, eodemque modo probatur linea illa esse aequalis cuilibet lineae; neque minus a veritate mihi videris abhorrere qui lineas <hi rend="i">a.b.c.d.x.</hi> perinde atque earum extremitatum motum acceleratum, inter se referri existimaveris, cum hae lineae vel in eodem vinculo reserantur sicut quadrata motus accelerati vt facile probatur ex eo quod singula puncta soluta semper redeant ad eandem altitudinem unde descenderant conjuncta quandoquidem in disjunctione nulla pars neque intendit neque remittit motum; His solutis caetera optime cohaerent. Si hoc quid responsi non fastidis me tibi maximo beneficio devincies semperque</p>
+<div type="closer">
+<p>Vir Clarissime
+<lb/>Tibi paratissimus ero <persName key="gill038">Gillet</persName>.</p>
+<p>Data Lutetiae pridie id. Jul. anno. <hi rend="sc">ciƆiƆclxxiii</hi><note n="#4"/>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens</persName> à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,5 @@
+//get the surface from of the complete text in the right order
+
+GET OBJECTS HAVING MONADS IN ALL
+	[Verse GET book,chapter,verse]
+GO

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2573"/>
+<meta type="date" value="1690-03-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2573">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Eodem<note n="#1"/> a mon frere de Zuylichem. Pour recommander la lettre de Fatio. que je luy envoie 4 Exemplaires par Meester qui doit partir avec Mil. Portland. De l'impertinente lettre de dewilm. De l'affaire d'Amsterdam accommodée. des lettres dont a este trouvé saisi J. Hol, qu'on a imprimees, qu'on ne demesle pas bien cette affaire. que j'espere que le voiage d'Irlande ne sera pas necessaire.</p>
+</div>
+<div type="opener">
+<p>A frere <persName key="huyg007">Huygens</persName>.</p>
+</div>
+<p>J'ay perdu de temps a escrire une longue lettre a Mr. <persName key="duil010">Fatio</persName><note n="#2"/> pour respondre a une que jay reçuë de luy, ainsi il ne m'en reste que pour vous recommander cette lettre, pour la quelle il m'envoie seulement l'adresse que j'y ay mise dessus. J'ay donnè à Meester qui partira dans peu avec Mil. Portland, 4 exemplaires reliez,
+qu'il m'a promis de vous faire tenir, ils sont pour Mil. <persName key="herb901">Pembrok</persName>, Mr. <persName key="wren002">Wren</persName>, <persName key="wall057">Wallis</persName>, et <persName key="duil010">Fatio</persName>, de qui l'exemplaire aura estè donnè au Dr. Stanley. J'ay vu l'admirable lettre du Cousin de Wilm<note n="#3"/> avec ce que vous en dites au frere de St. Annelant et a ma soeur. A t'on jamais vu une pareille impertinence. Je crois que le frere luy aura envoiè et sa lettre et la vostre, au moins je le luy ay conseillè. L'affaire d'Amsterdam<note n="#4"/> s'est accommodée comme vous scavez mais ces lettres qu'on a imprimees icy qui ont estè trouvees sur ce J. Hol<note n="#5"/> sont quelque chose d'estrange et que l'on ne scauroit pas bien developper encore, non plus que cette interception des lettres au Roy, que l'on dit a cette heure avoir estè rendues. Il me
+tarde de scavoir ce que deviendra vostre voiage d'Irlande et souhaiterois qu'il n'en fust pas besoin.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zuylichem</persName>,
+<lb/>Secretaris van Sijne koninglijcke Majesteyt
+<lb/>Tot Londen.</p>
+</div>
+</body>
+</text>
+</TEI>

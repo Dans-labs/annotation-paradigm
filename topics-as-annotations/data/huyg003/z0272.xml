@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0272"/>
+<meta type="date" value="1656-03-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="wall057"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0272">
+<div type="opener">
+<p>Clarissimo Eruditissimoque Viro Domino <persName key="wall057">J. Wallisio</persName> <persName key="huyg003">Christ. Hug.</persName> S.D.</p>
+</div>
+<p>Priores literas tuas<note n="#2"/> Vir Praestantissime quibuscum una pagellam de Circuli Quadratura mittebas, Parisijs accepi, idque tibi pridem significassem.
+Verum usque adeo irrequietam atque occupatam ea in urbe vitam egimus ut non satis officij meminisse licuerit; multoque minus studiorum hujuscemodi quae otium et solitudinem poscunt.
+Eodem verò tempore ab alio Viro Nobili<note n="#3"/> eadem ista vestra pagella Londino mihi missa est, simulque Hobbij Philosophia nova<note n="#4"/> quam ubi primum examinare concessum est continuo paralogismum eum animadverti quo parabolicae lineae rectam aequare contendit calculoque refutavi.
+Deinde alia quoque notavi quae nihilo rectius se habebant, autoremque ingenio minimè defurato praeferebant.
+Quin te miror eum dignum judicasse quem tam prolixè refelleres, etsi non sine voluptate elenchum tuum perlegi, doctum equidem atque acutum.
+Alteras à te literas jam triduo habui verum libros de Quadratura quos adjunxisse scribis adhuc expecto idque supra quam credi possit mihi molestum est.
+Caeterum quia in superscriptione Epistolae nulla librorum mentio facta est credo fortasse alia via venturos. neque adhuc omnem spem deposui.
+Si accepero summa cum attentione evolvam, libereque tibi judicium perscribam meum hoc enim te expetere existimo.
+Mitto cum his observationem nostram de Saturni noviter detecto comite, quam Astronomis vestris exhibeas velim; continet ea explicationem aenigmatis ejus quod praecedenti epistolac subjunxeram. litterae enim transpositac erant, <hi rend="i">Admovere oculis distantia sidera nostris UUUUUUU</hi>, <hi rend="i">CCC RR HNBQX</hi>,
+quae haec verba efficiunt: <hi rend="sc">saturno lvna sva circunducitur diebus sexdecim horis quatuor</hi>. sed has horas nunc comperi auferendas.
+Quid vero tuo anagramma significetur avidè expecto. teque rogo ut explices. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

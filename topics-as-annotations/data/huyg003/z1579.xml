@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1579"/>
+<meta type="date" value="1667-03-02"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1579">
+<div type="opener">
+<p lang="it">Signore <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+<p lang="it">Il libro d'alcunj saggi d'Esperienze<note n="#1"/> fatte nella nostra Accademia, e che si sono presentemente date alla stampa, mi porgono giusto motiuo di sodisfare al mio desiderio, con inuiarne à Vestra Signoria vn Exemplare in segno della stima, con che riguardo la sua persona, e la sua virtu.</p>
+<p lang="it">Io mi accerto così bene, che Vestra Signoria sia per vederlo con applicazione, e con gusto, che desidero, che ella si contentj di dirmi con ogni sincerità, e con quella confidenza, che ella sa di poter hauere meco, non solo il suo parere, ma il giudizio ancora, che ne daranno cotesti virtuosj, e tanto accreditati in simili materie, certa di farmj piacere ben grande; e confermandole col solito mio singolare affetto il contento, con che incontrerò sempre tute le occasionj che sieno di sua sodisfazione; le auguro dal Cielo ogni più perfetta prosperità.</p>
+<div type="opener">
+<p lang="it">Di firenze 2 Marzo 1667 ab Incarnazione</p>
+<p lang="it">Il Cardinale <persName key="medi012">de Medici</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it">Signore <persName key="huyg003">Cristiano Vgenio</persName> Parigi.</p>
+</div>
+</body>
+</text>
+</TEI>

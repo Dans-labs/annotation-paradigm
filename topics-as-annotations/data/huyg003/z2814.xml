@@ -1,0 +1,58 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2814"/>
+<meta type="date" value="1693-08~"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2813"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2814">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill143.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure></p>
+<p><formula>x-y : y = dx : dy</formula></p>
+<p><formula>xdy - ydy = ydx</formula></p>
+<p><formula>xdy + ydx = 2ydx + ydy</formula></p>
+<p><formula>xy - ½yy = 2DTNL</formula><note n="#3"/></p>
+<p><formula>½xy - ¼yy = DTNL</formula></p>
+<p><formula>¼yy = spat. DLNK</formula></p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#4"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill144.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p><formula>(Eg)(gh)</formula></p>
+<p><formula>y-x : y = dx : dy</formula></p>
+<p><formula>ydy - xdy = ydx</formula></p>
+<p><formula>ydy = ydx + xdy</formula></p>
+<p>collige summas sed vide quae sint verae.</p>
+<p><figure><graphic url="huyg003oeuv10ill145.gif"></graphic></figure>
+<note n="#5"/><note n="#6"/><note n="#7"/></p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#8"/>.</head>
+<p><formula>ydy - xdy = ydx</formula> collige summas sed cautè.</p>
+<p><formula>½aa - ½yy = <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure>ydy ; sp. AS h = <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure>xdy ; spat. AD gh = <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure>ydx</formula></p>
+<p><formula>½aa - ½yy - sp. AS h = sp. AD gh</formula></p>
+<p><figure><graphic url="huyg003oeuv10ill146.gif"></graphic></figure></p>
+</div>
+<div type="section">
+<head rend="h4">§ IV<note n="#9"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill147.gif"></graphic>
+<figDesc>Fig. 3.</figDesc></figure></p>
+<p><formula>y+x : y = dx : dy</formula></p>
+<p><formula>ydx = xdy + ydy</formula></p>
+<p><formula>ydx - xdy = ydy</formula></p>
+<p><figure><graphic url="huyg003oeuv10ill148.gif"></graphic></figure>
+<note n="#10"/><note n="#11"/></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

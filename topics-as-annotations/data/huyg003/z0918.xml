@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0918"/>
+<meta type="date" value="1661-11-13"/>
+<meta type="sender" value="thev001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0918">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Jattens auec jmpatience le retour de Monsieur de Zwilicom<note n="#1"/> et la lettre que vous aues donnée a Monsieur vostre Frere, cependant Je me donne lhonneur de vous ecrire ces lignes pour vous donner auis que Monsieur Wren a ecrit vn discours<note n="#2"/> sur le sistheme de ♄ ou il est parlé de vous. Jen ay receue vne copie<note n="#3"/> que Je vous enuoiray si vous aues curiosité de la veoir.</p>
+<p>Monsieur le Prince Leopold ma fait lhonneur de m'enuoier 8 copies de l'Apollonius de florence<note n="#4"/>. Je m'imagine que vous en<note n="#5"/> encores plustôt que nous par la
+voie de la mer. Je vous prie Monsieur de preuenir Monsieur de Zuelhem<note n="#6"/> vostre pere et Monsieur vostre frere en ma faueur et de les asseurer que Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="thev001">Theuenot</persName>.</p>
+</div>
+<p>Lon a<note n="#7"/> attend icy la responce d'Espagne<note n="#8"/> pour se resoudre a demeurer en paix ou a rentrer en guerre.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugeens</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

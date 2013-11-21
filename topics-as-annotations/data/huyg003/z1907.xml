@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1907"/>
+<meta type="date" value="1672-08-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1907">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 26 Aoust 1672.</p>
+</div>
+<p>Je vois que puis qu'il n'y a plus rien a faire a Zulichem vous faites fort souvent de voyages a Amsterdam, et en effect il y fait bien plus beau et la compagnie y est meilleure. J'espere que par vos premieres vous me ferez quelque relation de ce que vous y avez fait et vu. Entre autres je souhaiterois bien scavoir comment se portent le Seigneur d'Oort et son Epouse en of het houwlick al wel tiert<note n="#1"/>.</p>
+<p>J'ay veu un imprimè dont le titre est Brilleman<note n="#2"/> qui dechire estrangement tous ceux qui ont estè du parti contraire a celuy de Prince. J'y ay trouvè le Pere de Mademoiselle H.<note n="#3"/>, dont je suis marry, car ces choses font grande impression sur l'esprit du peuple et a ce que vous m'avez mandè il a desia couru risque d'en estre attaquè.</p>
+<p>J'ay veu aussi le Groten en Witten duyvel<note n="#4"/>. de tous ces raisonnemens je n'en crois pas la moitiè, car ce ne sont que des soupçons et tres peu de preuves. S'il
+y a d'autres escrits pourtant de cette sorte, vous me ferez plaisir de m'en envoier.</p>
+<p>Le pauvre Ruwaert<note n="#5"/> est bien mal dans ses affaires, a ce que j'apprens par la derniere lettre de mon pere, puis que la populace veut qu'il soit coupable sans s'en rapporter a ses juges. Il me tarde a voir a quoy aboutira ce proces.</p>
+<p>Est-il vray qu'on paye le deux-centieme denier 5 fois ceste année.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

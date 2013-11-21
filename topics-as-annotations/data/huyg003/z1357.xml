@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1357"/>
+<meta type="date" value="1665-03-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="auzo011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1357">
+<div type="opener">
+<p>A Monsieur <persName key="auzo011">Auzout</persName>.</p>
+<p>26 Mars.</p>
+</div>
+<p>que ma lettre du 12<hi rend="sup">e</hi> mars<note n="#1"/> ne luy a pas estè rendue. qu'il la veuille chercher a la Poste. ce qui s'est passè entre le Pere Fabri et moy, et de sa palinodie.</p>
+</div>
+</body>
+</text>
+</TEI>

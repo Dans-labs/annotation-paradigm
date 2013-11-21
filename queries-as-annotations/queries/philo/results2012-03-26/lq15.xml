@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><!DOCTYPE mql_results [
+  <!ELEMENT mql_results (mql_result)* >
+  <!ELEMENT mql_result ((mql_progress)?, status, (error)?, (warning)?, (table|sheaf|flatsheaf)?) >
+  <!ELEMENT mql_progress (#PCDATA)* >
+  <!ELEMENT status EMPTY >
+  <!ELEMENT error (error_source, error_stage, 
+                   error_message_db, error_message_compiler) >
+  <!ELEMENT error_source EMPTY >
+  <!ELEMENT error_stage EMPTY >
+  <!ELEMENT error_message_db (#PCDATA)* >
+  <!ELEMENT error_message_compiler (#PCDATA)* >
+  <!ELEMENT warning (#PCDATA)* >
+  <!ATTLIST mql_results >
+  <!ATTLIST mql_result  >
+  <!ATTLIST status 
+                success (true|false) #REQUIRED >
+  <!ATTLIST error >
+  <!ATTLIST error_source 
+                source  (compiler|db) #REQUIRED >
+  <!ATTLIST error_stage  
+                stage   (none|parse|weed|symbol|type|monads|exec) #REQUIRED >
+  <!ATTLIST error_message_db >
+  <!ATTLIST error_message_compiler >
+  <!ATTLIST warning >
+  <!ELEMENT table (theader, trow*) >
+  <!ELEMENT theader (theadercolumn)* >
+  <!ELEMENT theadercolumn (tcaption, ttype) >
+  <!ELEMENT tcaption (#PCDATA)* >
+  <!ELEMENT ttype EMPTY >
+  <!ELEMENT trow (tcolumn)* >
+  <!ELEMENT tcolumn (#PCDATA)* >
+  <!ATTLIST table >
+  <!ATTLIST theader >
+  <!ATTLIST theadercolumn >
+  <!ATTLIST tcaption >
+  <!ATTLIST ttype 
+     type (bool|string|integer|id_d|enum|list_of_integer|list_of_id_d|list_of_enum) #REQUIRED
+     enum_type CDATA #IMPLIED >
+  <!ATTLIST trow >
+  <!ATTLIST tcolumn >
+  <!ELEMENT sheaf (straw)* >
+  <!ELEMENT straw (matched_object)* >
+  <!ELEMENT matched_object (monad_set, (features)?, (sheaf)?) >
+  <!ELEMENT monad_set (mse)+ >
+  <!ELEMENT mse EMPTY>
+  <!ELEMENT features (feature)+ >
+  <!ELEMENT feature (#PCDATA) >
+  <!ATTLIST sheaf >
+  <!ATTLIST straw >
+  <!ATTLIST matched_object 
+            object_type_name CDATA #REQUIRED 
+            focus (false | true) #REQUIRED
+            marks (CDATA) #IMPLIED
+            id_d CDATA "nil"
+  >
+  <!ATTLIST monad_set >
+  <!ATTLIST mse
+            first CDATA #REQUIRED
+            last  CDATA #REQUIRED
+  >
+  <!ATTLIST feature
+            feature_name CDATA #REQUIRED
+            feature_type (string|integer|id_d|enum|list_of_integer|list_of_id_d|list_of_enum) #REQUIRED
+            enum_type CDATA #IMPLIED 
+  >
+  <!ELEMENT flatsheaf (flatstraw)* >
+  <!ELEMENT flatstraw (matched_object)* >
+  <!ATTLIST flatstraw
+      object_type_name CDATA #REQUIRED >
+]>
+
+<mql_results>
+   
+   <mql_result>
+      <mql_progress>
+         
+      </mql_progress>
+      <status success="true"/>
+      <sheaf>
+         <straw>
+            <matched_object object_type_name="book" focus="false" id_d="1">
+               <monad_set>
+                  <mse first="1" last="28735"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="chapter" focus="false" id_d="93503">
+                        <monad_set>
+                           <mse first="16365" last="17413"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="94443">
+                                 <monad_set>
+                                    <mse first="17256" last="17266"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="clause" focus="false" id_d="32221">
+                                          <monad_set>
+                                             <mse first="17256" last="17261"/>
+                                          </monad_set>
+                                          <sheaf>
+                                             <straw>
+                                                <matched_object object_type_name="phrase" focus="false" id_d="70256">
+                                                   <monad_set>
+                                                      <mse first="17260" last="17261"/>
+                                                   </monad_set>
+                                                   <sheaf>
+                                                      <straw>
+                                                         <matched_object object_type_name="word" focus="true" id_d="17261">
+                                                            <monad_set>
+                                                               <mse first="17260" last="17260"/>
+                                                            </monad_set>
+                                                            <sheaf>
+                                                            </sheaf>
+                                                         </matched_object>
+                                                         <matched_object object_type_name="word" focus="true" id_d="17262">
+                                                            <monad_set>
+                                                               <mse first="17261" last="17261"/>
+                                                            </monad_set>
+                                                            <sheaf>
+                                                            </sheaf>
+                                                         </matched_object>
+                                                      </straw>
+                                                   </sheaf>
+                                                </matched_object>
+                                             </straw>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+            <matched_object object_type_name="book" focus="false" id_d="773685">
+               <monad_set>
+                  <mse first="236000" last="265734"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="chapter" focus="false" id_d="868378">
+                        <monad_set>
+                           <mse first="240901" last="241318"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="868686">
+                                 <monad_set>
+                                    <mse first="241072" last="241090"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="778758">
+                                          <monad_set>
+                                             <mse first="241072" last="241072"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="778776">
+                                          <monad_set>
+                                             <mse first="241090" last="241090"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+            <matched_object object_type_name="book" focus="false" id_d="1036149">
+               <monad_set>
+                  <mse first="313000" last="338369"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="chapter" focus="false" id_d="1131526">
+                        <monad_set>
+                           <mse first="333236" last="333398"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="1133545">
+                                 <monad_set>
+                                    <mse first="333328" last="333334"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="phrase" focus="false" id_d="1109406">
+                                          <monad_set>
+                                             <mse first="333332" last="333333"/>
+                                          </monad_set>
+                                          <sheaf>
+                                             <straw>
+                                                <matched_object object_type_name="word" focus="true" id_d="1056482">
+                                                   <monad_set>
+                                                      <mse first="333332" last="333332"/>
+                                                   </monad_set>
+                                                   <sheaf>
+                                                   </sheaf>
+                                                </matched_object>
+                                                <matched_object object_type_name="word" focus="true" id_d="1056483">
+                                                   <monad_set>
+                                                      <mse first="333333" last="333333"/>
+                                                   </monad_set>
+                                                   <sheaf>
+                                                   </sheaf>
+                                                </matched_object>
+                                             </straw>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+            <matched_object object_type_name="book" focus="false" id_d="1268795">
+               <monad_set>
+                  <mse first="373200" last="381266"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="chapter" focus="false" id_d="1296936">
+                        <monad_set>
+                           <mse first="373652" last="374728"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="1296971">
+                                 <monad_set>
+                                    <mse first="373719" last="373737"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="clause" focus="true" id_d="1276944">
+                                          <monad_set>
+                                             <mse first="373719" last="373726"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="clause" focus="false" id_d="1276945">
+                                          <monad_set>
+                                             <mse first="373727" last="373727"/>
+                                          </monad_set>
+                                          <sheaf>
+                                             <straw>
+                                                <matched_object object_type_name="word" focus="true" id_d="1269323">
+                                                   <monad_set>
+                                                      <mse first="373727" last="373727"/>
+                                                   </monad_set>
+                                                   <sheaf>
+                                                   </sheaf>
+                                                </matched_object>
+                                             </straw>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="chapter" focus="false" id_d="1296941">
+                        <monad_set>
+                           <mse first="377665" last="378286"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="1297170">
+                                 <monad_set>
+                                    <mse first="378268" last="378286"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="1273882">
+                                          <monad_set>
+                                             <mse first="378286" last="378286"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+            <matched_object object_type_name="book" focus="false" id_d="1298000">
+               <monad_set>
+                  <mse first="381400" last="386667"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="chapter" focus="false" id_d="1314339">
+                        <monad_set>
+                           <mse first="382761" last="383272"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="1314447">
+                                 <monad_set>
+                                    <mse first="382917" last="382931"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="1299518">
+                                          <monad_set>
+                                             <mse first="382917" last="382917"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="chapter" focus="false" id_d="1314341">
+                        <monad_set>
+                           <mse first="383682" last="384198"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="1314498">
+                                 <monad_set>
+                                    <mse first="384085" last="384103"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="1300704">
+                                          <monad_set>
+                                             <mse first="384103" last="384103"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="chapter" focus="false" id_d="1314342">
+                        <monad_set>
+                           <mse first="384199" last="384785"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="verse" focus="false" id_d="1314514">
+                                 <monad_set>
+                                    <mse first="384396" last="384409"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="1300997">
+                                          <monad_set>
+                                             <mse first="384396" last="384396"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                              <matched_object object_type_name="verse" focus="false" id_d="1314528">
+                                 <monad_set>
+                                    <mse first="384701" last="384731"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="1301332">
+                                          <monad_set>
+                                             <mse first="384731" last="384731"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+      </sheaf>
+   </mql_result>
+   
+</mql_results>

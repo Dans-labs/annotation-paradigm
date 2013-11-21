@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1951"/>
+<meta type="date" value="1673-06-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1951">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 24 juin 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Je receus il y a trois jours la vostre du 2 juin, et j'ay estè bien aise d'y apprendre l'arrivée de mes exemplaires, de la distribution des quels je vous suis beaucoup obligè. Mais que veut dire que vous presterez le vostre a milord Brounker? aurois je fait une si lourde faute de ne luy en enuoier point, a qui je deuois avoir songez des premiers? Je vous ay pourtant envoyè 12 exemplaires et je ne scaurois me remettre a qui j'ay destinè le douzieme exemplaire que je vous ay envoyè, si Milord Brounker n'a pas estè du nombre. Quoy qu'il en soit je vous prie treshumblement, Monsieur, en cas qu'il n'y en ayt point eu pour luy, de l'asseurer que j'en ay beaucoup de confusion et que je ne manqueray pas de luy en envoier un par la premiere occasion, dont je pouray m'aviser. Il se pourroit faire, que j'eusse oubliè encore d'autres de mes amis, puisque j'ay estè assez estourdi, pour ne pas songer au president de la Societé Royale et vous m'obligerez s'il vous plait de m'en advertir.</p>
+<p>Pour ce qui est de la demonstration que vous avez mise dans vostre Journal touchant l'isochronisme de la cycloide<note n="#2"/> il n'y a pas moyen d'y rien comprendre de la maniere qu'elle y est, de sorte qu'il faut bien attendre qu'on l'explique d'avantage, et mesme les figures qui y sont, et dont pourtant il n'est fait aucune mention, semblent indiquer que cette explication n'est que differée. Je me souviens que lors que j'eus communiquè chez vous par lettres l'invention de cette proprietè de la cycloide, Milord Brounker m'en envoya une demonstration<note n="#3"/>, et puis une autre meilleure<note n="#4"/>, mais qui ne laissoit pas d'avoir encore quelqu'obscuritè pour moy, et ce sera cette derniere a ce que je puis juger qu'il aura voulu publier dans vostre Journal, c'est pourquoy, s'il en est besoing je rendray tousjours tesmoignage que dès ce temps la il l'a trouvée. Mais a mon avis il ne s'agit pas en cecy de l'honneur de Milord Brounker, puisque ce n'est pas grande chose pour luy d'avoir fait la demonstration d'une proposition desia
+trouvée<note n="#5"/>, ce que d'autres ont fait aussi comme le P. Pardies<note n="#6"/>, de qui je ne puis m'empescher icy, de vous dire, que je regrette extresmement la perte. Le principal, et ce qu'il y a de plus difficile dans ces choses de Geometrie, c'est de les trouver comme scavent tres bien ceux qui s'en meslent.</p>
+<p>Je ne scavois point, que Monsieur Hook avoit fait construire une pendule circulaire ni jamais on ne m'en a rien mandè mais bien de l'instrument que vous dites pour mesurer les temps des cheutes des corps<note n="#7"/>, Lorsque je vous envoyay ou a Monsieur le Chevalier Moray la cycloide divisée en tierces minutes<note n="#8"/>. Monsieur Wren poura se souvenir, qu'estant a Londres (je ne scay si c'estoit a mon voyage de l'an 1663 ou a celuy d'auparavant)<note n="#9"/> comme apres l'assemblée de la Societé Royale nous estions a faire collation a un cabaret la aupres avec plusieurs de ces Messieurs, je luy fis entendre cette invention d'horologe<note n="#10"/>. De sorte que Monsieur Hook ne doibt pas soupçonner que je l'aye empruntée de luy. Mais parce que vous dites, que le temps des circuits, dans celuy qu'il auoit fait faire estoit reduit a l'egalité, je serois fort aise de scavoir de quelle maniere il s'y est
+pris, car je ne pense pas que la proprietè de la paraboloide, dont je me suis servi pour cet effet, luy fust encore connue, la quelle depend de ces evolutions des lignes courbes, dont j'ay traittè dans mon livre de l'Horologe<note n="#11"/>.</p>
+<p><figure><graphic url="huyg003oeuv07ill02.gif"></graphic>
+<figDesc>Page 38 des ‘Excerpta ex Adversariis’ de CHRISTIAAN HUYGENS.</figDesc></figure></p>
+<p>Quand est ce que nous verrons la demonstration de la methode des Tangentes de Monsieur Sluse?<note n="#12"/> C'est cette mesme que je vous ay mandè que Monsieur Hudde et moy avions aussi<note n="#13"/>. C'est pourtant Monsieur Hudde, qui m'en a monstrè la pratique, et j'en ay cherchè du depuis l'origine et demonstration a ma façon, la quelle en cas qu'elle soit differente de celle de Monsieur Sluze, je pourray donner aussi.</p>
+<p>Je ne croyois pas, que vous envoyeriez a Monsieur Newton ce que je vous ay escrit par ma derniere<note n="#14"/> touchant les refractions car je n'ay point fait de replique a sa responce<note n="#15"/> et ainsi il n'estoit pas besoin, qu'il vist ce que je vous mande. C'estoit assez qu'il sceust, que je ne veux plus disputer. L'on m'a envoiè de Hollande quelques observations de ce Leeuwenhoeck<note n="#16"/>, dont vous nous faites mention
+dans ce dernier journal<note n="#17"/> comme aussi la description de son microscope, qui ne consiste qu'en une seule petite lentille, mais tres petite. Je ne scay si Monsieur Wallis et vos autres geometres ont examinè la Mechanique du P. Pardies, car apparemment ils vous auroient adverti, qu'il y a la dedans quelques demonstrations qui ne concluent pas fort bien, et mesme quelques paralogismes. Il avoit asseurement de meilleures choses a donner, et entre autres un petit traitè des Refractions qu'il m'a fait voir, et de belles speculations touchant le son et les flutes, trompettes &amp;c. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Je n'ay pas maintenant assez de temps pour faire response a la lettre de Monsieur Wallis<note n="#18"/> qui m'accuse à tort comme j'espere de luy faire avouer.</p>
+</div>
+</body>
+</text>
+</TEI>

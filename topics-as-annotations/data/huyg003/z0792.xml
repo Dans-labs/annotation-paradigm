@@ -1,0 +1,54 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0792"/>
+<meta type="date" value="1660-10"/>
+<meta type="sender" value="peti033"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0792">
+<p>Obseruatio Declinationis Magneticae 1660.</p>
+<p>&nbsp;</p>
+<p>Anno 1660 Mense Junio circa solsticium in plano Lowideo exquisite horizontali, delineatis pluribus Azymuthis ante &amp; post Meridiem Sole existente in ijsdem altitudinibus &amp; jteratis etiam pluries in diuersis diebus ijsdem Observationibus ope quadrantis aerei sex pedum diametri, tandem ducta fuit exactissimè linea Meridiana Parisijs in meis aedibus citra luparam: cui applicatis saepius &amp; vicissim binis Pixidibus jnstructis suis acubus Magnete Vinari jllitis, alterâ septem alterâ decem digitorum longitudinis, obseruata fuit jllarum Declinatio ad Orientem constantissime Vnius gradus cum 10 Minutis circiter.</p>
+<p>Die vero 14 Mensis Octobris sequentis, Ante Meridiem, cum litterati plures &amp; Mathematicarum Professores, hujus rei explorandae caufâ me jnuisissent, nec fidem dictae lineae Meridianae praebere tenerentur, cum prae manibus esset experimentum, me ipso jnstigante, observatae fuerunt altitudines Solis cum ipsius Azymuthis, quibus, applicatis ijsdem acubus, emerserunt Declinationes Magnetis
+jnfrascriptae, minores aliquantulum superiori, cui tamen meo judicio fidendum magis est quam istis utpote circa solstitium aestiuale ductâ lineâ meridianâ, cum Parallaxis et Refractio nullae, aut exiguae, locus jtem Solis &amp; ejus declinatio certiores &amp; minus variantes.</p>
+<p><table>
+<row>
+<cell role="header">Altitudines Solis Ante Merid. Octob. 14.</cell>
+<cell role="header">Anguli Azymuthales ad Meridianum.</cell>
+<cell role="header">Anguli Azymuthales ad Acum Magneticum.</cell>
+<cell role="header">Declinatio Acus a Meridianâ.</cell>
+</row>
+<row>
+<cell>18. 5′</cell>
+<cell>52. 36′</cell>
+<cell>53. 40′</cell>
+<cell>1. 4′</cell>
+</row>
+<row>
+<cell>18. 45′</cell>
+<cell>51. 30′</cell>
+<cell>52. 30′</cell>
+<cell>1. 0</cell>
+</row>
+<row>
+<cell>19. 50′</cell>
+<cell>49. 31′</cell>
+<cell>50. 30′</cell>
+<cell>0. 59′</cell>
+</row>
+<row>
+<cell>20. 40′</cell>
+<cell>47. 59′</cell>
+<cell>49. 0′</cell>
+<cell>1. 1′</cell>
+</row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1455"/>
+<meta type="date" value="1665-09-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="monm010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1455">
+<div type="opener">
+<p>A Monsieur <persName key="monm010">de Montmor</persName>.</p>
+<p>10 Septembre.</p>
+</div>
+<p>le prix de son horologe marin 270 livres d'Hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

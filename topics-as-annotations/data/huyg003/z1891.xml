@@ -1,0 +1,72 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1891"/>
+<meta type="date" value="1672-07-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1890"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1891">
+<div type="opener">
+<p>Paris July 1. 1672.</p>
+</div>
+<p>Problema Alhazeni.</p>
+<p>&nbsp;</p>
+<p>Dato circulo, cujus centrum A<note n="#2"/> radius AD, et punctis duobus B.C.; invenire punctum H in circumferentiâ circuli dati unde ductae HB, HC, faciant ad circumferentiam angulos aequales.</p>
+<p>Ponatur inventum, ductaque AM recta, quae bifariam secet angulum BAC, ducatur ei perpendicularis HF, itemque BM, CL. Jungatur porro AH cui perpendicularis sit HE rectaeque BH HC occurrant AM in punctis K, G.</p>
+<p><table>
+<row>
+<cell>Sit jam AM∞<hi rend="i">a</hi></cell>
+<cell>Quia ergo aequales anguli KHE et CHZ sive EHG</cell></row>
+<row>
+<cell>MB∞<hi rend="i">b</hi></cell>
+<cell>estque EHA angulus rectus, erit ut</cell></row>
+<row>
+<cell>AL∞<hi rend="i">c</hi></cell>
+<cell>KE ad EG ita KA ad AG, quia vero</cell></row>
+<row>
+<cell>LC∞<hi rend="i">n</hi></cell>
+<cell>BM ad MK ut HF ad FK erit ut</cell></row>
+<row>
+<cell>rad. AD∞<hi rend="i">d</hi></cell>
+<cell>BM + HF ad HF ita MF ad FK</cell></row>
+<row>
+<cell>AF∞<hi rend="i">x</hi></cell>
+<cell><hi rend="i">b</hi> + <hi rend="i">y</hi> - - - - - <hi rend="i">y</hi> - - - <hi rend="i">a</hi> - <hi rend="i">x</hi> - - <hi rend="i">ay</hi> - <hi rend="i">xy</hi> / <hi rend="i">b</hi> + <hi rend="i">y</hi></cell></row>
+<row>
+<cell>FH∞<hi rend="i">y</hi></cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>add. FA <hi rend="i">x</hi><note n="#3"/> fit KA <hi rend="i">ay</hi> + <hi rend="i">bx</hi> / <hi rend="i">b</hi> + <hi rend="i">y</hi>.</cell></row>
+</table></p>
+<p>Rursus, quia CL ad LG vt HF ad FG, erit permutenda et dividendo</p>
+<p>CL-HF ad HF vt LF ad FG</p>
+<p><figure><graphic url="huyg003oeuv07ill34.gif"></graphic></figure></p>
+<p>quâ ablatâ ab AF ∞ <hi rend="i">x</hi> fit GA ∞ <figure rend="inline"><graphic url="huyg003oeuv07fi02.gif"></graphic></figure>. Est autem EA ∞ <hi rend="i">dd</hi>/<hi rend="i">x</hi>, quia proportionales FA, AH, AE. ergo EA-GA, hoc est EG, <figure rend="inline"><graphic url="huyg003oeuv07fi03.gif"></graphic></figure><note n="#4"/>. Et KA-EA hoc est, KE ∞ <figure rend="inline"><graphic url="huyg003oeuv07fi06.gif"></graphic></figure>.</p>
+<p>Sed diximus quod
+<figure><graphic url="huyg003oeuv07ill35.gif"></graphic></figure></p>
+<p>Unde invenitur
+<figure><graphic url="huyg003oeuv07ill36.gif"></graphic></figure></p>
+<p>Et quia <hi rend="i">n</hi> ∞ <hi rend="i">bc</hi>/<hi rend="i">a</hi> fit
+<figure><graphic url="huyg003oeuv07ill37.gif"></graphic></figure></p>
+<p>Est autem
+<figure><graphic url="huyg003oeuv07ill38.gif"></graphic></figure></p>
+<p>Ergo
+<figure><graphic url="huyg003oeuv07ill39.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv07ill40.gif"></graphic></figure></p>
+<p>quae aequatio est ad hyperbolam.</p>
+<p><figure><graphic url="huyg003oeuv07ill41.gif"></graphic></figure></p>
+<p>Vnde porro non difficulter invenitur sequens constructio.</p>
+<p>Jungatur BA, AC<note n="#5"/> et applicato seorsim ad utramque quadrato radii AD, fiant inde AP, AQ, et junctâ PQ, dividatur ipsa bifariam in R, et per punctum R ducantur RD<note n="#6"/>, RN sese ad rectos angulos secantes quarumque RD<note n="#7"/> sit parallela AD quae dividit bifariam angulum BAC. Erunt jam RD<note n="#8"/>, RN asymptoti oppositarum hyperbolarum quarum altera per centrum A transire debet, quaeque secabunt circumferentiam in punctis H quaesitis. Transibunt autem hyperbolae per puncta P, Q.</p>
+<p>Ratio constructionis apparet ductis P<hi rend="i">γ</hi> et Q<hi rend="i">ζ</hi> perpendicularibus in AM. fit enim A<hi rend="i">γ</hi> ∞ <hi rend="i">add</hi> / <hi rend="i">aa</hi> + <hi rend="i">bb</hi> siue <hi rend="i">p</hi>. et A<hi rend="i">ζ</hi> ∞ <hi rend="i">ap</hi>/<hi rend="i">c</hi>. Item P<hi rend="i">γ</hi> ∞ <hi rend="i">pp</hi>/<hi rend="i">c</hi>, et Q<hi rend="i">ζ</hi> ∞ <hi rend="i">pb</hi>/<hi rend="i">c</hi>.</p>
+<p>Quare AO ∞ <hi rend="i">pc</hi> + <hi rend="i">pa</hi> / 2<hi rend="i">c</hi>, et OR ∞ <hi rend="i">pb</hi>-<hi rend="i">pn</hi> / 2<hi rend="i">c</hi>. Unde caetera facilia.</p>
+</div>
+</body>
+</text>
+</TEI>

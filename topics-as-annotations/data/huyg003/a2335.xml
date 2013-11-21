@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2335a"/>
+<meta type="date" value="1684-05-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vege004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a2335">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 24. Maj. 1684.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous dois encore des remercimens de m'avoir communiquè le project de Mr. <persName>de Frijbergen</persName> touchant un nouvel usage de la poudre à canon, ayant differè <hi rend="spat">de</hi>
+m'acquiter de ce devoir jusqu'a ce que je pusse vous communiquer en revenche la nouvelle invention de se servir des telescopes<note n="#3"/> sans avoir besoin de tuyau, ni de machine embarassante pour les dresser. L'on a voulu que je fisse imprimer la description que j'en ay faite et je vous en envoie deux exemplaires, dont vous aurez la bontè d'en faire tenir un à Monsieur <persName key="full003">Fullenius</persName><note n="#4"/> qui verra par là que je me souviens de luy quoyqu'il semble m'avoir oubliè. Pour ce qui est du dessein de Mr. <persName>de Frijberguen</persName><note n="#5"/> il n'est pas tant hors d'esperance de succes a mon avis que l'on diroit d'abord et il y a 7 a 8 ans que je fis voir a Mr. <persName key="colb012">Colbert</persName> une machine que j'avois fait construire dans cette mesme intention, et qui fut enregistrée dans nostre academie. L'effect en estoit qu'avec une petite quantitè de poudre, comme il en faut pour remplir un dè a coudre, elle estoit capable d'elever quelques seizecent livres à la hauteur de 5 pieds, et cela sans cette impetuositè ordinaire qu'on luy voit, mais d'une force temperée et egale. quatre ou cinq laquais que Mr. <persName key="colb012">Colbert</persName> fit tirer a la chorde attachee a cette machine furent elevez fort facilement en l'air. Toutefois il se rencontre quelque difficultè a renouveller continuellement cette force, et
+puis que nous avons des moteurs plus commodes, comme sont le vent et les eaux courantes, je ne vois pas qu'il y ait grand avantage a poursuivre ou perfectionner cette invention. Si vous avez appris depuis vostre derniere ou en est Mr. <persName>de Frijbergen</persName><note n="#6"/>, je seray bien aise d'en estre instruit, comme aussi de l'estat de vostre santè a la quelle je m'interesse comme estant de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0091"/>
+<meta type="date" value="1651-02-26"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0091">
+<div type="opener">
+<p lang="la">Nobilissime Domine S.D.</p>
+</div>
+<p>Euclidem, de quo mihi scribis, praesentem esse existimo, cum alium in catalogo, qui Graecè àc Latinè editus esset, reperire non potuerim. Si quidem hunc illum ipsum puto, de quo in Catalogo fit mentio pagina versâ librorum Mathematicorum, et qui a Dominatione Vestrâ expetatur. Enim enim in 4<hi rend="sup">to</hi> editum, ac anno 1625 Parisijs Graecè-Latinè impressum constat<note n="#1"/>, nec alium aliquem Claudij Hardij<note n="#2"/> operâ Euclidem editum novi. Eum igitur si visum fuerit, retinere tibi poteris, quandoquidem alium mihi facilè aliquando sum comparaturus. Gratulor intelligere, Dominationem Vestram in studijs nostris excolendis ac promovendis magis ac magis pergere, eamque illa magno semper affectu amplecti, ac summâ voluptate prosequi, quorum profectus,
+quibus omnes beare potes, indies à Vobis expectamus. Mitto duo exemplaria iam recens excusa, introductionis meae<note n="#3"/>, quorum, tria chartâ maiori impressa, unum mihi servavi, ac alterum Tibi destinavi, tertiumque Domino <persName>Meibomio</persName><note n="#4"/>, ijs quippe, quos Geometriae Methodo Domini <persName key="desc004">des Cartes</persName> excolendae omnino se addixisse, certò scio. Alterum igitur, si placet, reservare Tibi poteris, alterumque, si molestum non fuerit, ipso Meibomio mittere, unà cum salute meâ. Doleo, ob exemplarium penuriam, mihi concessam, me parciùs quàm optarem
+ea impartiri; cum aliàs Parenti, ac Fratri vestro, mihi multum colendis, omnique observantiâ semper prosequendis, acceptae amicitiae ac benevolentiae <seg org="gtatitudinis" resp="#AD" type="corr">gratitudinis</seg> ergo, exemplaria mittere non omisissem. Vale.</p>
+<p>festinanter.</p>
+<div type="closer">
+<p>Vir eruditissime, Tui amantissimus et studiosissimus cultor <persName key="scho197">Fr. à Schooten</persName>.</p>
+<p><placeName key="leide001">Leydae</placeName> <date>26 Febr. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, ten huijse van Mijn Heer, Mijn Heer <persName key="huyg001">van Zuylechem</persName>
+<lb/>in S'Graven-Hage op t'plein.
+<lb/>port.
+<lb/>met een packje. St. 3.</p>
+</div>
+</body>
+</text>
+</TEI>

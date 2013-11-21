@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2708"/>
+<meta type="date" value="1691-11-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gous001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="groni001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2708">
+<div type="opener">
+<p>A Mr. <persName key="gous001">Gousset</persName>, Professeur dans l'Universitè de Groningue.</p>
+<p>A <placeName key="denha004">la Haye</placeName> le 2 Oct.<note n="#1"/> 1691.</p>
+<p>Monsieur</p>
+</div>
+<p>Je laisse ouverte la lettre que j'envoie a M. Papin, croiant qu'il veut bien que vous ayez le plaisir de participer a nostre commerce puisque vous prenez la peine d'y aider en nous faisant tenir reciproquement nos pacquets. Et quant aux demandes sur lesquelles vous demandez mes solutions, je vous diray pour ce qui est de celle qui regarde la distance du Soleil selon moy de 12000 diametres de la Terre, que cet intervalle que j'avois etabli dans mon Systema Saturnium sur quelque vraisemblance s'est trouvè confirmè par les Observations de Mr. <persName key="cass021">Cassini</persName> et de Mr. <persName key="pica018">Picard</persName><note n="#2"/> faites non pas directement sur le Soleil, mais sur la Planete de Mars dans son Perigée qui nous approche bien d'avantage et dont la distance estant connue fait connoitre celle du ☉ et de toutes les Planetes, puisque la proportion des orbites des Planetes entre elles est connue dans le systeme copernicien. Ces Mrs. trouvoient par là cette distance d'icy au soleil l'un d'environ de 10000 diametres Terrestres l'autre d'environ de 12000, comme elle estoit aussi par mon raisonnement. Toutefois vous devez sçavoir Monsieur qu'il s'en faut beaucoup que ces conclusions pour la distance de Mars ne soient aussi certaines ni si determinées que celles qui mettent la Lune a 30 diam. de la Terre. Il y auroit environ ce nombre que vous dites des roulements du vortice de la lune dans le cercle qu'elle fait autour du soleil, mais cela ne peut guere servir a confirmer la proportion des distances, car quel roulement peut on concevoir sur quelque chose qui na rien de solide non plus que celle qui roule.</p>
+<p>Quant a la difficultè que vous avez trouvè en ce que j'oste si peu de sa rondeur a la Terre, qu'un point sous l'Equateur n'est pas plus eloignè du centre qu'un point sous le Pole que dans la raison de 578 a 577, et que toutefois je veux que le niveau decline vers le nord en ces pais ou plutost à Paris de 5 min. 54″. il semble
+d'abord que vous ayez quelque raison de douter. Cependant c'est le calcul qui confirme ce que j'ay dit, et il prouve que precisement avec cette figure de la Terre le niveau doit incliner de ces 5 min. 54 sec. Mais quand cet angle seroit encore plus grand, il arriveroit tousjours et necessairement que la surface de l'eau seroit perpendiculaire au fil d'un plomb suspendu, et qu'ainsi le baissement du niveau ne seroit point apperceu du tout, puisque la ligne du niveau est de mesme perpendi.<hi rend="sup">e</hi> à ce fil de plomb.</p>
+<p>Dans vostre revolution de 6915 annees 343 jours, qui remettroit les Planetes a la situation ou elles estoient a son commencement, je ne scay pas ce que vous appellez la mesme situation, car ces astres ayant autant qu'on a pu connoitre des temps periodiques incommensurables, il n'arrivera jamais que seulement deux d'entre eux se retrouvent ensemble a un mesme point du Zodiac ou ils ont estè auparavant; quand mesme il n'y auroit point d'anomalie, et avec elle le calcul devient d'autant plus infini. On pourroit demander dans quel temps elles retourneront toutes ensemble à 10 ou a 1 degrez pres a leur premier lieu, mais la chose ne merite pas qu'on s'amuse a un si long calcul que cela exigeroit.</p>
+<div type="closer">
+<p>Je suis avec beaucoup d'Estime
+<lb/><hi rend="sc">Mons<hi rend="sup">r</hi></hi> &amp;c.</p>
+</div>
+<p>Je vous felicite de vostre vocation a Groningue. Je ne scay pas en quelle facultè vous estes employè, c'est pourquoy j'ecris la superscription suivant vostre formule.<note n="#3"/></p>
+</div>
+</body>
+</text>
+</TEI>

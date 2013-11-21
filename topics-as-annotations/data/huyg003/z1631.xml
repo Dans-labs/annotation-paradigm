@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1631"/>
+<meta type="date" value="1668-03-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="doub005"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1631">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 23 Mars 1668.</p>
+</div>
+<p>Vostre derniere n'ayant point d'adresse dessus a manquè d'estre perdue et ne me fut apportée que vendredy dernier<note n="#1"/> au soir apres que j'eus desia envoiè mes lettres. Je fus bien aise d'y trouuer le dessein exacte du moulin pour le quel il y a plus d'un an<note n="#2"/>, comme je crois, que je vous persecute. Je vous prie de remercier bien fort Monsieur van Leeuwen<note n="#3"/> de ma part du soin qu'il a voulu prendre à me procurer cette satisfaction et de luy offrir mes treshumbles services. Je crois qu'on est dans une grande attente par de la de l'issue de la negotiation<note n="#4"/> de nostre ambassadeur extraordinaire<note n="#5"/>, et elle n'est pas moindre icy, mais a ce qui me semble toutes choses se disposent plus a la guerre qu'a la paix quelque bonne opinion que Monsieur van Beuningen en ait eue au commencement.</p>
+<p>Je pars demain a 4 heures du matin pour Saint Germain ou se fera le baptesme de Monsieur le Daufin avec beaucoup de magnificence. L'on a couvert avec des toiles toute la cour du vieux chasteau qui sera tapissée par tout et ornée de colomnes, avec quantitè de lustres, de sorte qu'elle ressemblera a une grandissime salle, qui sera petite encore pour le monde qui s'efforcera d'y entrer. les chevaliers de
+l'ordre<note n="#6"/> y seront tous avec leur habits et robbes de Ceremonie, et les maitres des Requestes avec les leurs. L'on ne scait pas encore quel sera le nom du Daufin, que chacun veut deviner. Je crois qu'il y aura une furieuse presse parce que je ne connois personne qui n'y veuille aller.</p>
+<p>Adieu. L'on m'appelle pour soupper chez Monsieur de Carcavy.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="doub005">de Moggershil</persName>
+<lb/>A la Haye.
+<lb/>au Verhout
+<lb/>XII</p><note n="#7"/>
+</div>
+</body>
+</text>
+</TEI>

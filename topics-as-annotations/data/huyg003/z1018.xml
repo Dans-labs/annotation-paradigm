@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1018"/>
+<meta type="date" value="1662-05-27"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1018">
+<div type="opener">
+<p>Nobilissimo <persName key="huyg003">Christiano Hugenio</persName> <persName key="heve011">J. Hevelius</persName> S.</p>
+</div>
+<p>Percepisti sine dubio, amice multùm honorande miserandam cladem meam domesticam<note n="#1"/>, ob quam, profectò, citius promissis stare haud potui: hincque non solum facile me excusabis, sed et condolebis vicem meam: cum optimè intelligas, quid adversi exinde rebus meis familiaribus, studijsque subortum fuerit. Mercurium meum inter tot variasque animi sollicitudines nunc tandem prognatum, Veneremque Horroxij feliciter bono publico exortum (sed e contrà occidente, et quidem magno meo damno, meâ dulcissimâ Venere) Tibi nuper per doctorem Peltzium<note n="#2"/> transmisi, quos aequi bonique consulas rogo, donec aliquid dignius habeam, quod Tibi exhibere possim. Tibi autem cumprimis referendum habet Orbis eruditus, quod Venus Horroxij lucem viderit<note n="#3"/>, et tali praestanti et gratissimo munere eum donare haud nolueris; profecto et sera Posteritas id debitâ gratiarum actione agnoscet. Quae cum perlegeris, rogo sententiam Tuam de ijs omnibus nobis libere exponas, facies non solùm rem gratissimam, sed me vicissim nunquam non experieris Tui Studiosissimum. Valetudinem Tuam fac cures diligenter, ut quantocyus quaedam de praeclaris Tuis lucubrationibus denuò obtineamus.</p>
+<div type="closer">
+<p>Dabam Dantisci Anno 1662 die 27 Maij.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo <persName key="huyg003">Christiano Hugenio</persName>
+<lb/>Hagam Comitis.
+<lb/>amico honorando</p>
+</div>
+</body>
+</text>
+</TEI>

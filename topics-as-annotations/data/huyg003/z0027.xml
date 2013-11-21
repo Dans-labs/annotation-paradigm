@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0027"/>
+<meta type="date" value="1647-01-12"/>
+<meta type="sender" value="mers004"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0027">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'escris fort amplement à Monsieur vostre fils, et ie luy enuoye la fin du volume des mouuemens, ou de la philosophie demonstrée que j'ay achetée pour vous et pour luy en 2 volumes que i'ay mis entre les mains de Mr. <persName key="tass006">Tassin</persName> pour vous l'enuoyer à la j<hi rend="sup">e</hi> occasion.
+Et parceque vostre fils sera raui de voir les centres de percussion, i'ay icy mis les 3 caihers<note n="#1"/> qui apartiennent à ce suiet, et que vous remetterez aysement en leur place, quand vous aurez tout le Liure, qui pourra servir d'exercice à vostre braue geometre pour long temps, et de tout vous m'en direz vostre aduis.
+Il sera bon que Mr. <persName key="desc004">des Cartes</persName> iette l'oeil dessus quand vous l'aurez resceu et puis vous m'en escrirez vostre jugement.
+Nous attendons icy la quadrature du Cercle de vostre voisin qui est jmprimé à Anuers par le Jesuiste Vincentio.
+Je vous donne à penser si elle sera bien examinéc par vostre fils et par ses maistres et princhipalement [?] si Mr. <persName key="desc004">des Cartes</persName> la void l'un des premiers, son jugement me pourra estre <seg org="decisis" resp="#AD" type="corr">decisif</seg>.
+Faites que le Sieur Tassin donne cent sols, qui est demie pistole pour les 2 volumes.</p>
+<p>Mr. <persName>Gobert</persName> m'a promis toute sorte de sollicitation et de diligence enuers Ballard. C'est chose estrange qu'en vn si grand Royaume, nous n'ayons que ce seul jmprimeur de Musique et a peine y a il vne ville en Italie où il n'y en ayt quelqu'un. Vous estes de ce costé la encore plus pauure que nous, car entre tant de villes qui jmpriment bons et mauuais liures, vous n'en auez point pour la pauure Musique. Elle sera a ce que ie voy tousiours miserable en cest pays francois aussibien qu'en la Turquie.</p>
+<p>J'attends la relation du concert du Mariage, ie ne scay si nous en verrons quelque eschantillon. Vostre Geometre verra si luy ou quelqu'un pourra trouuer la proportion de la circonference d'une ellipse auec celle du cercle et de la surface du spheroide auec celle d'une sphere, on y trauaille icy, mais si l'on en viendra à bout, hoc opus hic labor. Si le P. Jesuiste Vincent ouure la clef de la quadrature du cercle dans son liure, cela seruira aux dites questions.</p>
+<p>La plus grande dificulté que j'aye rencontré dans la Musique, est que quoy et quant et pourquoy la voix qui est l'une des plus basses qu'on puisse prendre, ou plusieurs voix ensemble font oûtre leur propre ton, vn autre son en haut à la douzieme ou double quinte. Ce qui ariue aussi aux grosses chordes d'une viole touchée. Car si dans vn grand silence vous vous mettez en vostre Cabinet auec grande attention, touchant doucement ou faiblement, main lesuée de l'archet, vous entendrez tousiours vn son à l'écho qui accompagne le naturel, à la douzieme en haut, et souuent vn
+autre à la disseptiesine qui est le diton replique sur la quinzième disdiapason ditonus, ce que fait aussi la voix toute seule qui est grosse et basse. Par exemple si vous prenez <hi rend="i">vt</hi> pour la plus basse de vostre voix ou <hi rend="i">re</hi> ou <hi rend="i">mi</hi> et que vous le tirez long temps
+<figure><graphic url="huyg003oeuv01ill52.gif"></graphic></figure>
+par exemple 4 ou 5 mesures, vous entenderez la douzieme et dixseptieme en haut, mais si faibles qu'il y faut vne grande attention, et dans nos choeurs, lors qu'on chante bas, l'on entend tousiours vne douzieme qui resonne en haut, mais la dixseptieme ne peust souir. Et si tost qu'on hausse la voix d'un ou 2 tons l'on n'entend plus que le ton naturel non plus que sur les cordes de la viole qui sonnent plus haut ni<note n="#2"/> ayant que les grosses qui feront cela.</p>
+<p>Certes puisqu'à bon droit l'on vous peut appeller pere ou patron de la Musique, cette difficulté mérite que vous ne la laissez pas au monde, et que pour vous mesme elle ne soit demonstrée par qui que ce soit, si clair que chacun en voye la raison. Vous l'auez proposée fort amplement dans mes Physico-mathematiques page 354 prop. 5. Sera il dit que j'aye tranché toutes les dificultéz harmoniques, et que ie ne seray point aydé pour les 3 ou 4 difficultés qui restent, et que ie propose dans cette 5 proposition. Ne permettez point que prochain [?] siecle vous ayde et qu'elles demeureront sans la vraye solution; que ie priseray plus que tout le reste de l'harmonie.</p>
+<p>Excusez si cette deesse m'a transporté si loin, et me tenez tousiours pour</p>
+<div type="closer">
+<p>Vostre tresaffectioné seruiteur <persName key="mers004">Mersenne M.</persName></p>
+<p>Ce <date>12 du nouel an 1647</date> à <placeName key="parij001">Paris</placeName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

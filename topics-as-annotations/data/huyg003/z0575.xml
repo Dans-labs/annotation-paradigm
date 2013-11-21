@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0575"/>
+<meta type="date" value="1659-01-31"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0575">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>31. Januier 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je fais response a la vostre du 16 du passé<note n="#1"/> qui ne me fut rendue que le 26. pour ce que le pacquet de Monsieur de Thou auoit esté esgaré au bureau de la poste de cette ville. J'ay rendu a Monsieur Carcaui la lettre<note n="#2"/> que vous luy auez escrite, je croy qu'il me la fera voir apres qu'il l'aura leue &amp; consideree.</p>
+<p>Je vous rends treshumbles graces de ce memoire de vostre horologer touchant les prix des monstres<note n="#3"/>. L'ami qui m'en demande vne, l'ayant veu en desire aujourdhuy vne sonnante qui va 30. heures pour 80. liures de Hollande c'est pourquoi je vous prie d'en vouloir commander vne de ce prix la; &amp; de vouloir vn peu la voir &amp; considerer, &amp; la faire emboitter &amp; emballer comme je vous l'ay desia escrit, afin qu'elle soit bonne &amp; bien conseruee.</p>
+<p>L'inuention de Monsieur <persName key="wren002">Wren</persName> Anglois est certainement belle, &amp; la consideration de toutes les parties de la cycloïde &amp; de ses proprietez descouurira plusieurs belles choses.</p>
+<p>J'estois a l'endroit de cette lettre lors que cet amy est venu me trouuer &amp; me dire, qu'ayant repensé a l'horologe &amp; a la priere que je vous ay faicte cy deuant de luy en faire faire vne sans sonnerie et de 30 heures, il croid qu'elle sera faicte a present, &amp; l'impatience dans laquelle il est d'en auoir, luy faict reprendre son premier dessein de l'auoir non sonnante. Il faut aussi s'il vous plaist que toutes les minutes &amp; secondes y soyent comme a la vostre &amp; aux autres. J'ay faict rendre la lettre<note n="#4"/> que'vous auez escrite a Monsieur Petit, Monsieur Miron<note n="#5"/> qui ma chargé de vous presenter ses tres humbles baisemains, a pris ce soin la. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur, <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

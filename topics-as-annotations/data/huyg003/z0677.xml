@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0677"/>
+<meta type="date" value="1659-10-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vinc027"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0677">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Epistola cum Systemate ad Kinnerum. Alterum ad Gottignium Romam. Tertium ad Hodiernam in Sicilia quod Caramuel curabit lubens. Theoremata de Superficie Conoidum et Sphaeroidum. Ut de suis inventis mittat quod promisit.</p>
+</div>
+<div type="opener">
+<p><date>30 oct. 1659</date>.</p>
+<p>Patri <persName key="vinc027">Gregorio a Sto Vincentio</persName>.</p>
+<p>Vir Clarissime</p>
+</div>
+<p>Mitto exemplaria Systematis Saturnij quae ad Dominos <persName key="kinn013">Kinnerum</persName> et de Gottignies te curaturum suscepisti.
+Fretus humanitate tua tertium quoque adjunxi, <persName>Johanni Hodiernae</persName> destinatum, quod, si fieri possit, una cum altero illo Romam perferri optaverim, ubi si traditum fuerit Domino <persName>Caramueli</persName><note n="#1"/> magno scientiarum atque ipsius Hodiernae fautori, inde quin tuto in Siciliam perventurum sit, non est dubitandum. Quod scribis opusculum meum<note n="#2"/> te cum voluptate percurrisse, gaudeo sane, num vero hypothesin istam plane approbes non addis, unde scrupulos fortasse aliquos tibi restare suspicor; quos tamen si mihi ostenderis, puto me non difficulter removere posse. Ecce tibi porro quae de Conoidum et Sphaeroidum superficiebus theoremata<note n="#3"/> pollicitus sum quae eadem quoque literis ad Dominum Kinnerum quas<note n="#4"/> tibi commendo, inclusi. Memento autem quid vicissim mihi pro his rependere promiseris scitoque nec magis cupido ejusmodi rerum aut magis sincero aestimatori illa te mittere posse. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

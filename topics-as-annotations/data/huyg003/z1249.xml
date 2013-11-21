@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1249"/>
+<meta type="date" value="1664-08-06"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1249">
+<div type="opener">
+<p>De <placeName key="parij001">Paris</placeName> ce 6. Aoust 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>je respondis il y a quinze jours<note n="#1"/> a vostre lettre par la voye de la poste de Hollande et mis ladresse a la Haye ches vous sans marquer la rue que j'ignorois et qui ne me sembloit pas necessaire estant aussi connus que vous estes en ce païs la. Je mis dans le paquet vne response a Monsieur Heinsius que je vous priois d'enuoyer a Messieurs Elzeuirs a Amsterdam pour la luy faire tenir. Je suis en peine maintenant si vous aures receu ce paquet par lequel je vous donnois auis que sa Majesté vous deuoit bien tost fauoriser d'vne nouuelle grace.</p>
+<p>Depuis j'ay este consulté par celuy qui en estoit chargé de la suscription de la lettre qui accompagneroit la lettre de change et je ne doute point quelle nait este enuoyée a la Haye par luy sous vostre nom. Mais comme vous ne m'en faites rien scauoir je crains ou que le paquet ne vous ait point esté rendu ou que lon l'ait porté a quelque autre du mesme nom. Ie vous prie de faire encore diligence pour cela dans vostre famille et de m'informer de tout par vn mot de vostre main que pour plus de seureté vous ferés s'il vous plaist passer sous l'enueloppe de Monsieur van Beuning à Monsieur Vossius qui loge au Pauïllon Royal dans la rue de
+la Monnoye pres du Pont neuf. J'apprendray aussi volontiers ou vous en estes de vos Estudes. Je suis auec ma passion ordinaire</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeïssant seruiteur, <persName key="chap002">Chapelain</persName>.</p>
+<p>De <placeName key="parij001">Paris</placeName> ce 6. Aoust 1664.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christianus Huggens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

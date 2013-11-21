@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1581"/>
+<meta type="date" value="1667-03-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="doub005"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1581">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 11 Mars 1667.</p>
+</div>
+<p>Le Sieur Verstraten<note n="#1"/> m'a delivrè Scaligeriana<note n="#2"/> dont je vous remercie. car je suis bien aise de l'avoir, tant pour le lire tout entier que pour le pouuoir prester a mes amis, les exemplaires estant encore rares en cette ville. Ledit Verstraten partit hier et vous apportera vostre perruque et la laine pour ma soeur<note n="#3"/>. Il m'a remboursè de l'un 55 livres et 20 de l'autre, dont je luy ay envoiè quitance. Il faut esperer qu'il passera plus heureusement<note n="#4"/> que la voiture de nostre cassette tant et si justement regrettee.</p>
+<p>Mon Pere me mande que vous approuvez assez les chaises a 4 roues comme je vous en ay grifonnè une dans ma derniere<note n="#5"/>. Si vous avez envie de reformer la vostre suivant cette invention je vous en envoieray le dessein et le devis plus au juste.</p>
+<p>En recompense vous me communiquerez ce que vous apprendrez touchant la forme des petits moulins<note n="#6"/> lors que vous aurez passè aux lieux ou il y en a.</p>
+<p>Depuis ma derniere ou j'avois mis quelque chose de la maniere qu'on s'habille icy, j'ay veu qu'on s'est mis a porter du drap gris pour des habits de campagne. Les just'aucorps sont de longueur mediocre; avec des camisoles dessous de quelque belle estoffe comme toile d'or ou d'argent avec des passements d'or et argent, de soie noire, ou autres selon la fantasie. Et des canons attachez aux chausses avec des rubans. et des bas de laine gris ou balncs. les camisolles ne sont guere plus longues que des pourpoints mais fermees. Adieu nous sommes a decouper une teste d'un Suisse qu'on nous a portée toute fraiche ce matin apres l'execution faite. L'on a du commencement quelque aversion pour ces sortes de spectacles<note n="#7"/> mais cela passe quand on s'y est trouuè quelque fois.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="doub005">de Moggershill</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

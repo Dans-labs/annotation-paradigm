@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2098"/>
+<meta type="date" value="1676-11-12"/>
+<meta type="sender" value="goes004"/>
+<meta type="recipient" value="magl001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2098">
+<div type="opener">
+<p>Clarissimo Doctissimoque Viro Domino <persName key="magl001">Antonio Magliabechi</persName> <persName key="goes004">Milhelmvs Goesivs</persName> S.P.D.</p>
+</div>
+<p>Vndecimo Septembris respondi binis litteris Tuis, quas decimo-quarto, &amp; decimoseptimo Florentia ad me dedisti, quibus &amp; meae erant insertae ad Ducem Serenissimum. Post iis item, quibus rogatus ut Epistola Antonii Monforte<note n="#3"/> perveniret ad manus Christiani Hugenii Constantini filii, iis significavi me protinus eam tradidisse non Filio, cum quo mihi nulla intercedebat familiaritas, sed Patri, ea tamen lege, ut redderet filio quod &amp; factum fideliter. Nam paucis interiectis diebus, venit ad me filius, significans eam se epistolam perlegisse, de cuius tamen determinationibus suam mihi non aperuit sententiam. Propositionum autem autorem aiebat se ignorare, &amp; ipsas eius generis esse, ut non admodum difficulter illarum solutio investigari possit, &amp; ut ex solutione unarum ex his, pateret aditus ad solutionem reliquarum. Sed exhibuit simul mihi tres propositiones alias, manu sua exarateas, quas putabat plusculum difficultatis continere, &amp; propterea plusculum etiam operae &amp; acuminis requiri ad illarum dissolutionem. Ipsum autem autographum ad Te mitto<note n="#4"/>, ut de illo statuas quidquid Tibi visum fuerit. Delectabuntur forte eo quaestionum genere, qui subactum in Mathematicis habent ingenium; verum ego me harum rerum rudem fateri cogor, qui in prima Iuventute aliis rebus animum meum applicavi, &amp; novas nunc hac provecta aetate auspicari cum aliarum iactura, vix consultum videtur. Attamen si in hisce, aliisve mea opera Tibi
+utilis esse possit, rogo enixissime, ut idipsum ad me perscribere ne graveris. Reipsa enim comperies, neminem esse, qui pluris faciat <persName key="magl001">Antonium Magliabechi</persName>, quam &amp;c.</p>
+<div type="closer">
+<p>Hagae 12 Novemb. 1676.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

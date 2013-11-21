@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0225"/>
+<meta type="date" value="1655-06-23"/>
+<meta type="sender" value="brer010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0225">
+<div type="opener">
+<p>Nobilissimo &amp; Praestantissimo Viro <persName key="huyg003">Christiano Hugenio</persName>, <persName key="brer010">Gulielmus Breretonius</persName> S.P.D.</p>
+</div>
+<p>Quod te frequentioribus literis non salutaverim, sed per tres hosce postremos annos<note n="#1"/>, incultam nostram amicitiam reliquerim, in causâ, hoc fuit, Mathematicorum nempé nostratium altum quasi silentium, undé nihil quod tibi gratum esset ad manûs meas pervenit; neque defectum istum ex propriâ penu supplere potui; quum ob alia negotia, eaque nimium necessaria, mihi non licuit tantum Divae Mathesi cultum praebere, quantum illa postulat. Jam veró quum duas nactus sim novas circuli quadraturas, utramque ad te mittendam censui; ut ex te posteá intelligam, an harum autores feliciores evaserint magno illo &amp; prolixo Jesuitâ<note n="#2"/>, quem hâc in parte, scopo suo excidisse, iamdudum demonstrâsti. Hoc tamen omninó moneri te oportet, quod Hobbius, iam post impressum librum<note n="#3"/>; quadraturae suae non tantum tribuit, quantum in ipso libro. Neque ipsi displicet, si quid ipsi, placidé &amp; solidé opponatur; verum Sciolorum obtrectationes &amp; frivolas responsiones vix lectu dignas putat.</p>
+<p>Fratres tuos Ludovicum &amp; Philippum, unâ cum Eyckbergio &amp; van Leuwen, vt meo nomine salutes, rogo, &amp; quod reliquum est cum me Vale.</p>
+<div type="closer">
+<p><placeName key="londe002">Londini</placeName>, <date>Junij 13/23 1655</date>.</p>
+</div>
+<p>Si quando ad me rescribere tibi libuerit, literae (si videbitur) hoc modo inscribantur.</p>
+<p>For <persName key="brer010">William Brereton</persName> Esquire,
+<lb/>Leave these with Mr. <persName>John Tailor</persName>
+<lb/>a Silkman at the white-horse
+<lb/>in Laurence-lane in <placeName key="londe002">London</placeName>.</p>
+<p>&nbsp;</p>
+<p>et mihi vicissim (si placet) scribas quomodo ad te postea mittendae sunt literae<note n="#4"/>.</p>
+</div>
+<div type="para">
+<p>Nobilissimo &amp; Praestantissimo Viro <persName key="huyg003">Christiano Hugenio</persName>.
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

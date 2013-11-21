@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2094"/>
+<meta type="date" value="1676-09-05"/>
+<meta type="sender" value="dier018"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2094">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Puisque vous m'avez tegmoingné de prendre quelque fois du plaisir a remarquer des paralogismes: je vous envoye une demonstration de la Rêgle de mons Descartes dans son discours de l'arc-en-ciel<note n="#2"/>, que j'ay receue de Leyde<note n="#3"/>, dans laquelle j'ay trouvé deux grandes fautes. la premiere est, que l'inventeur de cette grande operation se sert d'un Ellipse pour faire voir les lignes qui marquent la refraction dans un cercle, quod est, simplicia demonstrare per magis composita. La seconde est, qu'il n'a pas bien placé un des points brulants de cet Ellipse au bout de la perpendiculaire FH in H, au lieu que ce point devroit estre mis en L, comme j'espere que vous jugerez avec moy. Je mettray cependant aussi a votre censure mon invention sur ce mesme suject &amp; la solution d'une de vos questions, sur laquelle je ne vous avois pas entierement satisfaict, sur l'esperance que je n'auray pas commis les mesmes beveues, dont j'ay volu taxer mon operateur. Au reste, Monsieur, je me dispense des compliments envers vous, dont la reputation est establie si generalement, que l'assurance particuliere de mes respects &amp; de mon estime vous pourroit paroistre une conqueste de peu de prix. mais puisque votre vertu surpasse encor vôtre science; j'espere que vous prendrez de bonne part, que je cherche des occasions pour vous montrer, que je suis veritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="dier018">S: Dierquens</persName>.</p>
+<p>1676.
+<lb/>a la Haye le 5 Septemb. 1676.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Huguens de Zulichem</persName>, à la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0135a"/>
+<meta type="date" value="1652-11-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0135">
+<p>Primum, in Algebra saltem verum ex falsis non elicitur, ea enim nihil est praeter hujusmodi argumentationem. Numerus exempli gratia quem quaero per 2 multiplicatus debet efficere 6. ergo 6 per 2 si dividatur orietur meus quaesitus numerus. Nihil autem hic falsi ponitur. nam signum quod pono, scribitur loco vocabuli (numerus) sed non supponitur illud signum esse numerum quaesitum.</p>
+<p>In regula falsi non magis. Ponamus regulam falsi duplicis positionis; quid hic falsi ponitur, nimirum numerus aliquis dices pro numero quaesito, qui non sit verus. Imo verò quid opus est ponere illum qui non sit esse quaesitum numerum. Mihi nihil aliud hic contingere videtur, nisi hoc, quod numeri duo ponuntur simpliciter quos ita multiplicare et dividere &amp;c oportet sicuti de numero quaesito praescribitur. deinde ex excessibus quibusdam defectibusque inventis certam per regulam numerus quaesitus elicitur. Non autem necesse est ut eos pro numero quaesito habeas, nihilo quidem magis quam signum in algebra, de quo modo dicebam.</p>
+<p>Ad syllogismum priusquam respondeam, videndum est quid sit ex falsis verum directè elicere. mihi sic intelligendum videtur. Ex falsis verum elici quando positâ falsâ aliquâ hijpothesi tanquam si vera esset, aliquid verum esse ea retentia ita demonstratur, ut persuadeat nobis ea demonstratio istud verum esse,
+licet hijpothesin ipsam habeamus pro falsa. Quemadmodum factum videtur in Archimedis quadratura parabolae &amp;c. Nam si quis tali hijpothesi utatur: Quod omnis figura curvilinea in easdem partes cava, si basin et altitudinem cum rectangulo aequalem habet, sit ejus rectanguli subsesquialtera, atque ea retenta ostendat parabolam trianguli inscripti esse sesquitertiam, ille non videtur mihi ex falsis verum in Geometria elicuisse. Quandiu enim hijpothesin illam pro falsa habebo, non ero persuasus illius hominis demonstratione quod parabola reapse inscripti trianguli sit sesquitertia. Quare nihil veri ille mihi quidem elicuisse videtur. atque eodem modo se res habet in syllogismo quem proponis. videlicet, omnis lapis est animal; omnis homo est lapis. Ergo omnis homo est animal.</p>
+<p>Sed de Archimede videri posset quod ex falso verum elicuerit. Ponit enim omnia gravia parallelis lineis deorsum ferri quod falsum, atque ita tamen demonstrat quadraturam parabolae, quae omnino vera est.</p>
+<p>Putarunt multi errasse Archimedem inter quos et Lucas Valerius<note n="#4"/> qui tamen postea<note n="#5"/> sententiam mutavit, et Archimedem defendere tentavit. Mihi autem Archimedis demonstratio fidem quidem facere non potest quandiu hijpothesin ipsius ut falsam considero, verum cum pro ejusmodi eam habeo, quasi non revera in terra hoc contingere statuat, quod ponit, sed imaginatione tantum ideam loci formet ubi gravia ad idem planum perpendiculariter descendere conentur, tum omnino mihi argumentatione sua approbat quod parabola trianguli inscripti est sesquitertia. nam quod de magnitudine ejus aliquo in loco idem ubique verum est.</p>
+<p>Haec autem non amplius falsa hijpothesis sed imaginaria videtur.</p>
+</div>
+</body>
+</text>
+</TEI>

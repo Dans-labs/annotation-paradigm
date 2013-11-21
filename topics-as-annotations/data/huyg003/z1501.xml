@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1501"/>
+<meta type="date" value="1665-11-28"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1501">
+<div type="opener">
+<p>Nobilissimo atque Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName>name&gt; <persName key="heve011">Joh. Hevelius</persName> S.P.D.</p>
+</div>
+<p>Quod munere mihi longè gratissimo, libello videlicet tuo<note n="#2"/> de Longitudinibus investigandis, commercium literarium aliquandiu inter nos intermissum<note n="#3"/> redintegrare, simul Epistolam<note n="#4"/> Clarissimi Domini Auzotij ad Abbatem Charles iussu eius, cum alijs quibusdam iucundissimis transmittere volueris, pergratum sanè accidit, operam rursus daturus sum sedulam, quò Tibi et Domino Auzotio reciprocum meum affectum suo tempore declarare possim. Nuper ex Epistolâ<note n="#5"/> quâdam ad Dominum Petitum datâ cognovi, Eum in quibusdam cumprimis in motu Cometae diurno planè mihi adversari; quapropter meum erit ad ea debite et decenter respondere; id quod etiam propediem facturus sum<note n="#6"/>. Interea rogo ut iudicium tuum paullulùm suspendas, donec observationes meas genuinas videris ac probè examinaveris; non dubito, quin experiaris, me Cometae loca quà longitudinem, quà latitudinem et tramitem, cousque quo illum haud adspernendis Organis assequutus sum, exquisitissime observasse ac determinasse; atque sic nequaquam aberrasse; sed e contrariò Clarissimum Dominum Auzotium haud parùm eâ in parte exorbitasse. Quò autem à 14 Februarii ubi Cometam
+ampliùs nudis oculis Sextantibus scilicet et quadrantibus rimari haud potuimus: utrùm ad secundam, an verò ad primam Arietis Stellam cursum tandem suum direxerit, tum quantâ velocitate vel tarditate id Tibi postmodum, omnibusque alijs Viris Eruditis, ex observationibus tam Clarissimi Auzotij quàm meis inter se invicem ritè collatis diiudicandum relinquam. De Cometâ posteriori simul observationes meas cum descriptione quâdam proferam; ex quibus pariter videbis, quousque praedictiones Clarissimi Auzotij admitti possunt. Quod superest, si quaedam de utroque Cometâ ab Anglis impetrasti, vel ipsemet notatu digna Instrumentis, sive Telescopijs annotasti, nisi ea priùs in lucem proferre constituisti, mihi quantocyùs communices, rogo, facies rem mihi multò gratissimam.</p>
+<p>Saluta meo nomine, quàm officiosè Clarissimum atque doctissimum Dominum Vossium, cuius benevolus erga me affectus abundè iam mihi cognitus est.</p>
+<p>Valete et mihi porrò favete.</p>
+<div type="closer">
+<p>Dabam Dantisci Anno 1665, die 28 Novembris styli novi.</p>
+</div>
+<p>Postscriptum.</p>
+<p>A Clarissimo Domino <persName key="olde010">Henrico Oldenburg</persName> datâ occasione quaeso inquiras, an literas meas<note n="#7"/> die 12 Septembris viâ ordinariâ per Antwerpiam rectà transmissas, nec non alteras, die 29 eiusdem mensis cum fasciculo, Nauclero quodam Gedanensi, cuius nomen mihi excidit, commissas acceperit? Maximè nos Tibi obstringes. Vale iterum.</p>
+</div>
+<div type="para">
+<p>Nobilissimo atque Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> amico honorando <placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

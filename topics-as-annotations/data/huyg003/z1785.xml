@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1785"/>
+<meta type="date" value="1669-12-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1785">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 27 Decembre 1669.</p>
+</div>
+<p>Vous serez promptement expediè cette fois icy, car vos 4 livres de terre noire sont desja parties<note n="#1"/>, et arriveront presqu'aussi tost que cette lettre. I'y ay joint l'exemplaire que j'avois du livre de l'Abbè de Villeloin, n'en ayant point trouvé chez Leonard<note n="#2"/>, qui dit que tout a estè vendu il y a longtemps, n'en ayant estè imprimè que 300 exemplaires. Mon Pere recevra aussi par le mesme porteur une Campanine, et le portrait de Madame Laura en poursfil, que luy envoie Monsieur de Vaurose. Le dessein et la peinture sont miserables l'une et l'autre, ainsi que vous verrez.</p>
+<p>J'ay paiě pour ces derniers 4 livres de crayon un escu et l'autre fois 4 livres 10 sous de sorte que vous me demeurez redevable de quelque chose par dessus l'escu d'or que j'ay receu. Je me suis informè de la marchande<note n="#3"/> du Pont Neuf, dont les habits et le visage sont tout teints de sanguine, touchant la maniere de scier la terre noire. Elle n'y fait point d'autre façon que de la marquer et entamer avec un mechant cousteau assez avant pour la pouvoir fendre apres cela suivant ces rayes. Et pour cela les grosses pieces sont fendues premierement en morceaux
+plats comme vous voiez que je vous en envoie. Il y auroit sans doute plus de menage a les sier, mais ils ne s'en mettent point en peine, parce que la matiere leur couste fort peu.</p>
+<p>Le prince de Brandenbourg<note n="#4"/> est assurement un tres bon party pour la damoiselle que vous dites.</p>
+<p>L'on ne parle pas beaucoup icy jusqu'a cet heure de la guere d'Hollande, j'espere qu'on n'en viendra pas la. Mais quand ce seroit, je pense qu'on sera encore bien aise de me retenir icy dans le poste ou je suis, ou je ne suis emploiè en rien qui aie quelque chose de commun avec la guerre.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zelem</persName> &amp;c. chéz Mr. <persName key="huyg001">de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2491"/>
+<meta type="date" value="1690"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2489"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2491">
+<p>Problema <persName key="leib013">Leibnitsii</persName> de aequali descensu in curva, superius resolutum, etiam hoc modo invenitur<note n="#2"/>.</p>
+<p><formula>√ra + rx ∶  √ra = √z<hi rend="sup">2</hi> + u<hi rend="sup">2</hi> ∶  z</formula></p>
+<p><formula>ra + rx ∶  ra = z<hi rend="sup">2</hi> + u<hi rend="sup">2</hi> ∶  z<hi rend="sup">2</hi></formula></p>
+<p><formula>rx ∶  ra = u<hi rend="sup">2</hi> ∶ z<hi rend="sup">2</hi></formula></p>
+<p><formula>√rx ∶  √ra = u ∶ z</formula></p>
+<p><formula>√x ∶  √a = u ∶ z</formula></p>
+<p><formula>z√x - u√a = o</formula></p>
+<p><formula>x√x / 3/2 - y√a = o</formula></p>
+<p><formula>2/3 x√x = y√a</formula></p>
+<p><formula>4/9 x<hi rend="sup">3</hi> = y<hi rend="sup">2</hi>a</formula></p>
+<p><formula>x<hi rend="sup">3</hi> = 9/4 ay<hi rend="sup">2</hi></formula></p>
+</div>
+</body>
+</text>
+</TEI>

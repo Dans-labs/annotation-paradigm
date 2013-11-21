@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2221"/>
+<meta type="date" value="1680-03-23"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2220"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2221">
+<p>23 de mars 1680<note n="#1"/>.</p>
+<p>Theoreme.</p>
+<p>&nbsp;</p>
+<p>Si une section conique couppe une autre section conique en quatre points, et que leur axes soient paralleles, ou a angles droits l'un a l'autre, ces quatre
+<figure><graphic url="huyg003oeuv08ill65.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv08ill66.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv08ill67.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv08ill68.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv08ill69.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv08ill70.gif"></graphic></figure>
+points seront dans la circonference d'un cercle. Les hyperboles opposees sont contees pour une section.</p>
+<p>D'ou s'ensuit que si une section conique couppe une parabole en quatre points, ayant leur axes paralleles ou à angles droits l'un a l'autre, la somme des perpendiculaires qui tombent des points d'intersection sur l'axe de la
+<figure><graphic url="huyg003oeuv08ill71.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv08ill72.gif"></graphic></figure>
+parabole d'un et d'autre costè seront egales ou l'une perpend. d'une costè aux trois de l'autre.</p>
+</div>
+</body>
+</text>
+</TEI>

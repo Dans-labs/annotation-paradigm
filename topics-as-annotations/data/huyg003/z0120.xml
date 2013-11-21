@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0120"/>
+<meta type="date" value="1652-02-06"/>
+<meta type="sender" value="tacq001"/>
+<meta type="recipient" value="segh007"/>
+<meta type="senderloc" value="leuve001"/>
+<meta type="recipientloc" value="antwe001"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0120">
+<div type="opener">
+<p>Beminden Broeder in den heere</p>
+</div>
+<p>Ick bedancke VE grootelyckx van het boexken<note n="#2"/> dat VE my gesonden hebt. Ick hebbe daer veele schoone inuentien in bemerckt de welcke my noch veel meer andere doen verwachten van dit verstant. Verwachte d'occasie om VE te dienen, ende beuele my seer in uwe goede gebeden.</p>
+<div type="closer">
+<p><placeName key="leuve001">Leuuen</placeName>. <date>6 febr. 1652</date>.</p>
+<p>VE Dienaer in Christo <persName key="tacq001">And. Tacquet</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Charissimo Fratri in Christo <persName key="segh007">Danieli Segers</persName> Societatis Jesu religioso Antuerpiae.</p>
+</div>
+</body>
+</text>
+</TEI>

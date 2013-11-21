@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1985"/>
+<meta type="date" value="1674-01-29"/>
+<meta type="sender" value="regn016"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="lyon_001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1985">
+<div type="opener">
+<p>A Lyon ce 29<hi rend="sup">e</hi> Janvier 1674.</p>
+<p>Monsieur</p>
+</div>
+<p>Jay a vous remercier de vre beau traitté des pendules que Monsieur Mathion<note n="#1"/> me fit tenir auec dautres pour Messieurs Ausout Ricci et Campani<note n="#2"/>. Je vous en rans mille graces cest un ouurage digne de vous et que personne que vous ne pouuoit faire. Jenuoyay a Monsieur Ausout les 3 Exemplaires que Jauois receu pour luy et ces deux Messieurs. Il ma escrit quil les a receu et qu'il a fait tenir a Messieurs Ricci &amp; Campani ceux qui êtoint pour eux; Je l'auois prié de tirer reponse de ces Messieurs et de me les enuoyer; mon dessein etant de vous les faire rendre par Monsieur Mathion et dy joindre en meme temps mes ciuilités. Mais comme Je m'imagine que ces Messieurs auront pris dautres voyes pour vous escrire je nay pas voulu differer daduantage a le faire, et a vous temoigner les ressantimans que J'ay de vos bontez et le cas que ie fais de votre merite. Le Public vous a les dernieres obligations des veritez que vous luy apprenez qui auoint eté impenetrables a tout aultre que vous. Votre Reigle des pendules Isochrones est merveilleuse; la resolution lineaire ou lEffection geometrique en est aisée quand il ne sagit que de deux poids, voicy celle que iay trouuées soit que les poids
+<figure><graphic url="huyg003oeuv07ill72.gif"></graphic></figure>
+B, C, passéz a une verge, mobile autour du point A, soint ou de meme part comme en la 1<hi rend="sup">ere</hi> figure, ou depart et d'autre du point A comme en la 2<hi rend="sup">e</hi> figure.</p>
+<p>Car au 1<hi rend="sup">er</hi> cas: menéz BD, et CE perpendiculairement et de differante part sur la verge; et que BD soit a CE reciproquement comme le produit du poids C multiplié par sa distance CA est au produit du poids B multiplié par sa distance BA;
+Joignez DE couppant la verge en F; AF sera la longueur du pendule Isochrone, conformement a uos reigles. Et au cas de la 2<hi rend="sup">e</hi> figure menez de meme part les perpendiculaires BD, CE; faisant que BD soit a CE reciproquement comme le produit du poids C multiplié par sa distance CA, est au produit du poids B multiplié par sa distance AB; Joignez DE et la continuez alinfiny, au cas que ces produits soint Inegaux, elle rancontrera la verge comme en F, du costé du poids le plus fort. Et AF sera la longueur du pendule Isochrone, conformement a vos reigles.</p>
+<p>D'ou il est manifeste que votre reigle a lEgart de deux poids peut etre conceüe et enoncée en cette maniere.</p>
+<p>au 1<hi rend="sup">er</hi> cas. Comme laggregé des momans (Jappelle momant le produict dun poids par sa distance) des poids, qui est BD + CE, est au momant BD du poids C le plus esloigné du centre A; ainsy BC la differance des distances soit a BF, quil faut adjouter a AB la distance du poids B le plus proche du centre A, pour auoir AF longueur du pendule Isochrone.</p>
+<p>Et au 2<hi rend="sup">e</hi> cas comme la differance des momans des poids B, C, qui est GD est au plus petit des momans scauoir EC, ainsy soit laggregé des distances BA + AC, ou GE, soit a CF quil faut adiouter a AC distance du poids le plus fort, pour auoir AF longueur du pendule Isocrone</p>
+<p>ce qui ayant eté practiqué a lEgart de deux poids le peut etre ensuyte alEgart de trois et de dauantage.</p>
+<p>Je ne doute point Monsieur que vous nayez eu toutes ces veues; mais votre proposition est faite en des termes si generaux et si beaux que vous auez eu raison de n'en point choisir dautres, et ce que Jallegue icy n'est que pour vous faire voir que ie my suis arresté. tout votre ouurage est si merueilleux que vous deuez etre persuadé que tous ceux qui le verront ladmireront; a mon sens lapplication de la cycloïde au pendule lEuolution de cette ligne et les centres dagitation dans les corps sont les derniers efforts de lEsprit humain. Je vous supplye de me continuer lhonneur de votre affection et de me croire</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeïssant serviteur <persName key="regn016">De Regnauld</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huguens</persName> de lAcademie Royalle des Sciences A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

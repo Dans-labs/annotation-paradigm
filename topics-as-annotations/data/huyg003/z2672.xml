@@ -1,0 +1,79 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2672"/>
+<meta type="date" value="1691-04-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2672">
+<div type="opener">
+<p>Ce 3 Avr. 91.</p>
+</div>
+<p>J'oubliay hier<note n="#3"/> Monsieur parmy l'embaras de l'enterrement de vous prier de me restituer devant vostre depart, la lettre que cy devant vous avez eu la bontè de me faire<note n="#4"/> en m'expliquant vostre methode de trouver les Lignes courbes par la proprietè de leur Tangentes. Je vous aurois aussi demandè d'y vouloir joindre quelque de ce que vous avez depuis adjoutè a cette methode, ou si cela vous donneroit trop de peine, d'expliquer seulement les deux exemples que vous en avez donnez dans les courbes que je vous avois proposées comme aussi a Mons.<hi rend="sup">r</hi> Leibnitz<note n="#5"/>.
+<figure><graphic url="huyg003oeuv10ill26.gif"></graphic></figure>
+Comme vous avez tous deux penetrè fort avant cette matiere, j'aime bien mieux de profiter de vos decouvertes, que de me donner la peine d'y travailler sur les fondements contenus dans vostre lettre, a quoy mesme je pourrois ne pas reussir. Il vous souviendra au reste que dans la derniere lettre que je vous montray de Mons.<hi rend="sup">r</hi> Leibnitz<note n="#6"/>, il vous proposoit un echange de son secret, au cas que dans le probleme que je viens de dire il y eust des racines composees dans l'Equation de la Tangente, pour avoir la vostre, dont vous vous estes servi dans mes deux courbes. Et il vous souviendra de plus, que longtemps auparavant je vous avois proposè une ligne courbe AON dont j'avois la quadrature<note n="#7"/>, estant telle que AG estant perpendiculaire sur son asymptote GM, tout espace AOF, retranchè par une ligne OF, parallele a l'asymptote, estoit egal au rectangle BL, partie du quarrè AGLC, lorsque BP passoit par le
+point D, auquel OF continuée rencontre le quart de circonference GDC, et que mesme par cette quadrature donnée vous trouvastes l'equation de la courbe. Or a cause qu'il pourroit arriver que j'eusse a prouver ce fait a Mons.<hi rend="sup">r</hi> Leibnitz, je vous supplie Monsieur de me permettre, et de me donner moien en faisant response a ce billet, de pouvoir alleguer vostre temoignage pour confirmation de ce que je viens de dire, estant seulement besoin de designer la courbe par son equation que vous trouvastes <hi rend="i">xxyy</hi>∞<hi rend="i">aayy</hi>-<hi rend="i">aaxx</hi>. Vous ferez plaisir et obligerez beaucoup</p>
+<p>&nbsp;</p>
+<p>Vostre tres h. et tres ob. serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+<p>&nbsp;</p>
+<p>Pour Monsieur <persName key="duil010">Fatio de Duillier</persName>.</p>
+<p>&nbsp;</p>
+<p><note n="#8"/> <hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>=Fluxion de l'Espace AOF</p>
+<p><hi rend="i">a</hi><figure rend="inline"><graphic url="huyg003oeuv10fi10.gif"></graphic></figure>=Fluxion du rectangle BL<note n="#9"/>. Donc <hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>=<hi rend="i">a</hi><figure rend="inline"><graphic url="huyg003oeuv10fi10.gif"></graphic></figure></p>
+<p><hi rend="i">a</hi><hi rend="sup">2</hi>-2<hi rend="i">az</hi>+<hi rend="i">z</hi><hi rend="sup">2</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi>; dont la Fluxion donne</p>
+<p>-<hi rend="i">a</hi><figure rend="inline"><graphic url="huyg003oeuv10fi10.gif"></graphic></figure>+<hi rend="i">z</hi><figure rend="inline"><graphic url="huyg003oeuv10fi10.gif"></graphic></figure>=-<hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>. Et prenant les valeurs de <figure rend="inline"><graphic url="huyg003oeuv10fi10.gif"></graphic></figure> on aura</p>
+<p><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>/<hi rend="i">a</hi>=-<hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>/-<hi rend="i">a</hi>+<hi rend="i">z</hi>. Et <hi rend="i">ay</hi>-<hi rend="i">zy</hi>=<hi rend="i">ax</hi>. Or <hi rend="i">z</hi>=<hi rend="i">a</hi>-√<hi rend="i">ax</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi>.</p>
+<p>Ainsi <hi rend="i">ay</hi>-<hi rend="i">ax</hi>=<hi rend="i">ay</hi>-<hi rend="i">y</hi>√<hi rend="i">a</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi><note n="#10"/>.</p>
+<p>Et <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>=<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure>-<hi rend="i">y</hi><hi rend="sup">2</hi><hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>-<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure> sera sa Fluxion.</p>
+<p>Dans cette equation on peut substituer les valeurs des Racines <hi rend="i">ax</hi>, ou <hi rend="i">ay</hi>, ou <hi rend="i">xy</hi>.</p>
+<p><table>
+<row>
+<cell>Par exemple on aura</cell>
+<cell><hi rend="i">a</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure>-<hi rend="i">y</hi><hi rend="sup">2</hi><hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>-<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure></cell>
+<cell>I</cell></row>
+<row>
+<cell>ou bien</cell>
+<cell><hi rend="i">a</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure>√<hi rend="i">a</hi><hi rend="sup">1</hi><hi rend="i">x</hi><hi rend="sup">2</hi>+<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">xx</hi>+<hi rend="i">y</hi><hi rend="sup">2</hi><hi rend="i">xx</hi>+<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure></cell>
+<cell>II</cell></row>
+<row>
+<cell>ou bien</cell>
+<cell><hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure>√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure>-<hi rend="i">y</hi><hi rend="sup">2</hi><hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>-<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure></cell>
+<cell>III</cell></row>
+</table></p>
+<p>Dans le 1<hi rend="sup">er</hi> Exemple il est aisé de reconnaitre les Generateurs <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>. Et comme c'est là la quantité meme qui est sous le Signe Radical, il est à presumer que cette Racine tient lieu de <hi rend="i">ax</hi> qui paracheveroit le quarré <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>. Et effectiv<hi rend="sup">t</hi> on trouvera que ces trois Generateurs rendent l'Equation marquée I.</p>
+<p>La même chose se doit entendre de l'Equation II.</p>
+<p>De même dans la III Equation, il faut voir si sa Generatrice n'est pas <hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>==<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>. Et dans la IV Equation ci dessous il faut voir si-<hi rend="i">yx</hi>+√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+2<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">xy</hi>=<hi rend="i">ax</hi>?</p>
+<p>De cette maniere on parviendra à la veritable Generatrice, si elle a produit la Fluxion proprosée par ces sortes d'Enveloppemens.</p>
+<p>Et ceci donne une clef considerable pour trouver les Fluentes ou Generatrices, quand leurs Equations sont simples en elles mêmes, quoi que leurs Fluxions soient mêlées de Racines par accident.</p>
+<p><table>
+<row>
+<cell><hi rend="i">ax</hi>=√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi></cell>
+<cell><hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>+2<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">xy</hi>+<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+2<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">xy</hi></cell>
+<cell></cell></row>
+<row>
+<cell><hi rend="i">ay</hi>=√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>+<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi></cell>
+<cell><hi rend="i">ax</hi>+<hi rend="i">xy</hi>=√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+2<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">xy</hi></cell>
+<cell></cell></row>
+<row>
+<cell><hi rend="i">xy</hi>=√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi></cell>
+<cell>-<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>-<hi rend="i">axy</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>+<hi rend="i">a</hi><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>√<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+2<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">xy</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure>-<hi rend="i">y</hi><hi rend="sup">2</hi><figure rend="inline"><graphic url="huyg003oeuv10fi12.gif"></graphic></figure><figure rend="inline"><graphic url="huyg003oeuv10fi09.gif"></graphic></figure>-<figure rend="inline"><graphic url="huyg003oeuv10fi12.gif"></graphic></figure><hi rend="sup">2</hi><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi11.gif"></graphic></figure></cell>
+<cell>IV.</cell></row>
+</table></p>
+<p><note n="#11"/> Mr. <persName key="huyg003">Hugens</persName> de la Haye 3 avril 1691, le lendemain de l'Ensevelissement de Mr. Ellys Esq.<hi rend="sup">e</hi> à N.F. à la Haye.</p>
+<p>Il me redemande la lettre où je lui avois expliqué autrefois ma Methode inverse des Tangentes et souhaite ce que je puis encore avoir ajouté à cette methode.</p>
+<p>Ou qu'au moins je lui explique les deux Exemples que j'ai donnés dans les courbes qu'il avoit proposées à Mr. <persName key="leib013">Leibnitz</persName> et a moi.</p>
+<p>Il rend temoignage aux progrès que Mr. <persName key="leib013">Leibnitz</persName> et moi avons fait en cette matiere, desquels il aime mieux profiter que travailler sur les fondemens contenus dans ma Lettre, et peut estre sans succès.</p>
+<p>Sur l'Echange que Mr. <persName key="leib013">Leibnitz</persName> proposoit de son secret, pour avoir une solution du probleme susdit de Mr. <persName key="huyg003">Hugens</persName>, s'il y avoit des racines composées dans l'Equation de la Tangente.</p>
+<p>Probleme que Mr. <persName key="huyg003">Hugens</persName> m'avait proposé il y a longtemps et dont je luy avois donné la Solution pour retrouver l'Equation de certaine Courbe par la propriété de sa Quadrature. Cette courbe avait pour Equat.<hi rend="sup">n</hi> <hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">x</hi><hi rend="sup">2</hi>. Mais la propriété de sa Tangente contient une Racine incommensurable complexe, si on y substitue la valeur de <hi rend="i">xy</hi> ou de <hi rend="i">ay</hi>, ou de <hi rend="i">ax</hi>, etc.</p>
+<p>Mr. <persName key="huyg003">Hugens</persName> demande que je lui laisse alleguer à Mr. <persName key="leib013">Leibnitz</persName> mon Temoignage sur ce fait.</p>
+<p>J'ai ajouté ici ma solution ou mon Analyse de ce Probleme de Mr. <persName key="huyg003">Hugens</persName>.</p>
+<p>NB. Remarque considerable sur les Racines complexes.</p>
+</div>
+</body>
+</text>
+</TEI>

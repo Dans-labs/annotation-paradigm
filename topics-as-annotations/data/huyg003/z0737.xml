@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0737"/>
+<meta type="date" value="1660-04-02"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0737">
+<div type="opener">
+<p lang="la">Clarissime Domine.</p>
+</div>
+<p>Tela praevisa minus ferire creduntur; quare vt minus feriant, haec amico, amicè scribere cogor. Verba subiungam a meo Gottignies Roma missa<note n="#1"/>.</p>
+<p>&nbsp;</p>
+<p>Monsieur Voila le Cartel de Vostre defie.</p>
+<p>Fundamentum, incredulitatem generans, conijcio versarj in eo, quod in libro tuo, dicatur, alia figura a te visum Saturnum, tubo 12 pedum longitudinis: alia vero dum vtereris tubo, ad 22 pedes extenso. aiunt enim tubos omnes, eandem formam obiecti visi, debere exhibere. Sed tibi facile erit, hoc euertere. Haec habebam, quae te, nisi aliunde jnnotuerint, potius recrearent, quam moerore afficerent; vt video, res agetur: quis praestantiore tubo, in arenam descendet. Et Controuersia quae maioris momenti doctrinam continet, in Consectarij locum euadet. Vale interim et viue menor</p>
+<div type="closer">
+<p>Tui quem nosti amicissimum G.A.S. <persName key="vinc027">Vincentio</persName></p>
+<p><placeName key="gent_001">Gandavi</placeName> <date>2: Aprilis 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

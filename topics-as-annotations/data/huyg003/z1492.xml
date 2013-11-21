@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1492"/>
+<meta type="date" value="1665-11-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1492">
+<div type="opener">
+<p><persName key="slus001">Slusio</persName>.</p>
+<p>6. Novembre 1665.</p>
+</div>
+<p>quae sit refractionis proportio in vitro. proximè sesquialtera, major quam 114 ad 76 sive 3 ad 2. minor quam 115 ad 76. ut mittat quam primum poterit observationes<note n="#1"/> Cassini de umbris Jovialium.</p>
+</div>
+</body>
+</text>
+</TEI>

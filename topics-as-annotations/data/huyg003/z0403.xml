@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0403"/>
+<meta type="date" value="1657-09-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0403">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Ellipsis constructio - libros mitto - quis lineae inventor.</p>
+</div>
+<div type="opener">
+<p><persName key="slus001">Slusio</persName> S. D</p>
+<p><date>3 Sept. 1657</date>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Equidem indies magis magisque suspicio eximiam illam ingenij tui aciem, qua tam celeriter atque accuratè reconditissimos quosque mathematum recessus perlustras ut nihil te effugiat. Erat nempe hoc ipsum quod Cartesium latuerat quod jam animadvertisti. neque ego fortasse unquam reperissem. Sed primus mihi indicavit doctissimus Robervallius, acerrimus Cartesij scriptorum examinator ut qui non aemulus solum sed et inimicus esset capitalis. Is igitur monuit me semper binos locos integros esse in quos caderet punctum quaesitum in Pappi problemate isto; loci integri appellatione designans, lineam rectam, circulum, vel coni sectionem, inter quas hyperbolae binae oppositae, unum locum efficerent. Eaque ita se habere inveni. Quare et opposita hijperbolae isti quam descripsisti, proposito satisfacit.</p>
+<p>De quaesitis circa lineam curvam quam proposuisti priusquam respondeam,
+interrogare libet quis primus eam excogitaverit; videtur enim non temere sed insigni artificio inventa, quae et quadrari se patiatur, et gravitatis suae centrum determinari.</p>
+<p><figure><graphic url="huyg003oeuv02ill22.gif"></graphic></figure></p>
+<p>Vera ejus figura est hic adscripta, quanquam circa eandem diametrum AB, innumerae, ut scis, describi possint. Si sumatur AC aequalis ⅓ AB, et ducatur DCE ad angulos rectos, invenio partes AD, AE, extrorsum curvari, DB vero et EB introrsum. Divisa item AB bifariam in F, et ducta normali KFG, si ejus dupla statuatur FH, et jungatur HB, ea continget lineam in B. Ut autem tangens ducatur ad quodlibet datum curvae punctum, ut L, cadat LM perpendicularis in AB: et sumatur dimidiae AM aequalis MN. Et ut BN ad NM ita sit BM ad MO, et jungatur OL; ea erit tangens in puncto L quaesita.</p>
+<p><figure><graphic url="huyg003oeuv02ill23.gif"></graphic></figure></p>
+<p>Quadraturam spatij linea tua comprehensi, sic expedio.</p>
+<p>Ducta KFG quae secet AB bifariam et ad rectos angulos in F, curvae autem utrinque occurrat in K et G, junguntur AK, KB, AG, GB. Dico spatium curva inclusum esse sesquitertium rhombi AKBG.</p>
+<p>Centrum gravitatis denique ut inveniatur, sumatur AQ aequalis
+tribus quintis totius AI<note n="#1"/>. Eritque Q centrum gravitatis plani à curva comprehensi.</p>
+<p>Itaque jam praestiti quae tria postulaveras, <hi rend="i">τετραγονισμὸν</hi>, centrum gravitatis et tangentem. quorum priora duo cum satis difficilia sint repertu, ego bonae fortunae acceptum fero, quod tam cito consecutus sim, utrumque enim eodem die quo tuae mihi redditae sunt perspexi. Certa autem methodus ad hujusmodi problemata non videtur mihi ulla esse cum praeter analyticam scientiam, peculiari insuper inventione aliqua opus sit. Caeterum ad hujus lineae quadraturam quadraturae<note n="#2"/> parabolae mihi utilis fuit. ad gravitatis vero centrum indagandum, theorema quoddam quod apud Guldinum reperi <hi rend="i">ἀναπόδειϰτον</hi>, sed tamen verissimum.</p>
+<p>Duplicationem cubi per Ellipseos et circuli intersectionem absolvi posse paulo ante quam haec scriberem, deprehendi sed nequaquam compendiosa constructione. Scribe mihi quaeso numquid commoda satis tibi evenerit, et sinito me quaerere.</p>
+<p>Librum Schotenij<note n="#3"/>, et Poemata Patris mei<note n="#4"/>, una cum his accipies. nescio an videris quae de quadratura circuli tradidit J. Wallisius Oxoniensis professor in libro de Arithmetica infinitorum inscripto. Ex Gallia aliquamdiu nihil literarum accepi, in quibus Geometricum quid inesset. quod sane mea culpa accidit. Sum enim indiligens si quisquam alius literarij commercij cultor, nisi ubi cum tui similibus intercesserit. Vale et me ama</p>
+<div type="closer">
+<p>Tui studiosissimum atque amantissimum <persName key="huyg003">Chr. Hugenium de Z.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

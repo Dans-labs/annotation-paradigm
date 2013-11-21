@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0279"/>
+<meta type="date" value="1656-04-15"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0279">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Exemplaires. Question des dez. Regle de Descartes. [Chr. Huygens.]</p>
+</div>
+<div type="opener">
+<p>Monsieur</p>
+<p>A <placeName key="parij001">Paris</placeName> ce 15<hi rend="sup">e</hi> Auril 1656.</p>
+</div>
+<p>Je vous<note n="#1"/> tres obligé de vos jmprimez touchant la Lune de Saturne, Je les ay distribuez aux personnes a qui vous les auiez destinez qui m'ont prié de vous en
+remercier et de vous faire leurs baisemains, Monsieur <persName key="boul014">Bouillaut</persName> a obserué ce Planette le mois passé Il l'a veu tout rond mais jl n'a pû apperceuoir son Satellite, jl faut que sa lunette ne soit pas si bonne que la vostre, il en recommancera les obseruations vers la fin de ce mois pour en voir renaistre les bras. on trauaillera aprez Pasques a L'jmpression de ses ouurages qui sont 1<hi rend="sup">o</hi>. vn traitté des Spirales<note n="#2"/> ou jl demonstre directement les propositions d'Archimede. 2<hi rend="sup">o</hi>. sa response a Setus Wardus<note n="#3"/> Anglois qui auoit escrit<note n="#4"/> contre son Astronomie. 3<hi rend="sup">o</hi>. quelques opusscules geometriques<note n="#5"/>. Il m'a dit que Monsieur <persName key="ferm011">Defermat</persName> a trouuè des <hi rend="i">Nombres dont les parties aliquotes sont des Nombres quarrez</hi>. Je ne vous asseureray pas si cèst precisément cette proposition n'ayant pû voir Monsieur <persName key="carc010">Decarcaui</persName><note n="#6"/>, a qui Monsieur <persName key="ferm011">Defermat</persName> en a escrit, quoyque J'aye estè plusieurs fois chez luy, si vous auez quelque chose differente de ce que je vous enuoye<note n="#7"/> vous me ferez plaisir de m'en faire part, je la communiqueray a nos Messieurs. Et on la fera tenir a Monsieur <persName key="ferm011">Defermat</persName> qui sera raui de conferer auec vous puisque vous trauaillez tous deux sur les nombres, Ayant fait recit a ces Messieurs, de vos beaux traittez jmprimez, ils en ont fait icy chercher par tout, et n'en pouuant trouuer chez nos Libraires, jl vous prient de faire en sorte qu'ils en ayent deux exemplaires par le moyen de quelque marchand qui les pourra mettre dans vne bale de marchandise, si vous prenez cette peine vous m'en adresserez le paquet. Je les payeray a qui vous m'ordonnerez. Le
+zele que j'ay pour la Geometrie m'oblige a vous faire cette demande pour Eux, vous asseurant que JE suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeïssant seruiteur
+<lb/><persName key="mylo002">Mylon</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">De Zulichem</persName>
+<lb/>A la haye En hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

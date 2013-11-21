@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0273"/>
+<meta type="date" value="1656-03-29"/>
+<meta type="sender" value="colv004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0273">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>A la vostre du 18. de ce mois, mon Pere eut plûtôt répondu, n'eut été son indisposition, par la quelle il a été empêché de pouvoir manier la plume.
+Mais ne pouvant plus dilayer le remerciement qu'il vous doit, pour l'envoy des observations a l'entour de la Lune de Saturne, il m'a commandé de vous envoyer ce petit mot, ayant livré a Monsieur <persName key="page011">Paget</persName>,<note n="#3"/> Ministre Anglois, un exemplaire de vos Observations Saturnines, lequel vous remercie aussi tres-affectueusement, et vous envoye cet epigramme<note n="#4"/>.
+Monsieur <persName key="kalt002">Kalt-hof</persName>, se rejouit aussi des bons effets de sa platine et vous offre pour l'avenir son service, en semblables matieres.
+Je crois que ses lunettes sont en mains de l'Electeur de Mayence, tellement que nous ne sommes pas si heureux en cette ville, de voir au Ciel, ce que vous y voyez.
+Si nous pouvions avoir seulement un ver concave, et convexe, nous mettrions bien ordre pour le reste du fabrique des lunettes.
+Nous remettant au reste a vostre discretion, esperant a voir en bref vos excellentes observations, que vous avez fait au Ciel.
+Priant Dieu de vous maintenir en bonne santé par longues années, pour le bien public, Je m'estimerai heureux de me nommer, toute ma vie, apres avoir presenté mes tres-humbles baisemains, comme aussi de la part de mon Pere, a Monsieur Vôtre Pere, et a vous,</p>
+<div type="closer">
+<p>Monsieur,</p>
+<p>Vôtre tres-humble, et tres-obeïssant serviteur <persName key="colv004">N. Colvius</persName>.</p>
+<p>De <placeName key="dordr001">Dordrecht</placeName>. le <date>29. Mars. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer, Mijn Heer <persName key="huyg003">Christiaen Huygens, de Zulichem</persName>.
+<lb/>S'Graven-Haghe.
+<lb/>Port.</p>
+</div>
+</body>
+</text>
+</TEI>

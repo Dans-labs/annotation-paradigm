@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1154"/>
+<meta type="date" value="1663-10-17"/>
+<meta type="sender" value="conr041"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="viry_901"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1154">
+<div type="opener">
+<p>Mécredy 17 Octobre.</p>
+</div>
+<p>J'ay appris, Monsieur, par le dernier billet que J'ay receu de Monsieur Chapelain, que vous estes dans mon voisinage. Si Je l'eusse seû plustost, Je n'eusse pas manqué d'envcyer savoir de vos nouvelles; &amp; Je vous en irois demander moymesme aujourd'huy, sans la crainte que J'ay de vous détourner de vos importantes occupations. Si néanmoins, par le beau temps qu'il fait, vous estes d'humeur à vous divertir par la promenade, &amp; que vous n'ayiez point de voiture, Je vous en offre vne, qui sera preste à toutes les heures qu'il vous plaira. Mandez-moy, s'il vous plaist que je vous l'envoye demain matin pour venir disner icy, &amp; pour faire en suite tout ce que vous desirerez; &amp; vos ordres seront suivis.</p>
+<div type="closer">
+<p>Je vous donne le bon-Jour, Monsieur, &amp; suis tout-à-vous</p>
+<p><persName key="conr041">Conrart</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour
+<lb/>Monsieur <persName key="huyg003">Huggens</persName>, chez Monsieur <persName key="perr052">Perraut</persName><note n="#1"/>
+<lb/>A Viry.</p>
+</div>
+</body>
+</text>
+</TEI>

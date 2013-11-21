@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0307"/>
+<meta type="date" value="1656-06-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0307">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>De hyperbolicis quis autor. de motu. refutatio.</p>
+</div>
+<div type="opener">
+<p lang="la">Clarissimo viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Libros <persName key="wall057">Wallisij</persName> quos ad me miserat cum diu miratus essem ubinam delitescerent tandem forte fortuna reperi apud Bibliopolam Anglum<note n="#1"/>, qui non mihi sed Patri meo missos credens in reditum<note n="#2"/> ipsius illos asservabat. Bina igitur tradidit exemplaria, quorum cum alterum tibi ab autore destinatum sit, mittendum putavi, etsi jam pridem te emisse librum istum significasti. Quid tibi videatur, scire velim; nam meam sententiam exponere etiamnum praematurum est, vix enim obiter quae ad novam quadraturam pertinent pervolvi. Multum tamen profecisse eum non opinor neque
+id admodum mihi placet, aut magnum geometram sapit quod in demonstrando inductione utitur.</p>
+<p>Epistolam à <persName key="stev015">Stevinio</persName><note n="#3"/> quod mecum communicandam duxeris, gratissimum fecisti. Miratus sum illud de immenso praetio telescopiorum, nimirum mille florenis Romae venire quae ne hoc quidem praestent quod nostra pedum 12, quibus Saturni lunam primum conspeximus. At haec ipsa, prae illis quae postea construxi 24 pedum longitudine, vilia censeri possunt. Quibus si lunam aut reliquos Planetas inspicias, non amplius dubites eximium esse usum sphaericarum lentium, quod ille ignotus autor sibi demonstrandum sumpsit, accurato certè ratiocinio. At ego experientia rectius quam numeris sententiam ipsius firmari crediderim, quia non satis constat quid pro puncto mechanico in dioptricis sit habendum, nisi oculos consulamus. Vidi in eadem epistola quae propius ad me spectant, apparari nimirum refutationem exetaseos meae in Cyclometriam Vincentianam. Quod sanè et Pater meus Bruxellis agens intellexisse se scribit; adeo ut librum Ainscomij<note n="#4"/> nunc indies expectem. Cum verò eruditorum suffragijs pridem mihi parta sit victoria non existimo opus fore ut denuo respondeam. Quod ultimis literis<note n="#5"/> rursus dissuades de edendis motus regulis quae Cartesio adversentur, non possum non in bonam partem interpretari, cum et illius et mea causa id abs te fieri animadvertam. Sed alij viri egregij quibus Cartesianae non satissaciunt regulae nostras summopere expetunt, meque contra hortantur ut illas aliquando producam. atque ego de veritate earum plane certus sum. Igitur Cartesij potior apud me causa esset quam vel veritatis vel utilitatis publicae vel meimet ipsius, si illius respectu propria
+inventa supprimere in animum inducerem. Credo te vereri, ne malevolis, qui tantopere nunc ipsum oppugnant, ansam praebeam, quo possint reliqua ipsius placita in suspicionem adducere. Sed ne metue; datâ enim operâ istis occurram, moneboque in antecessum super hisce motus legibus minimè fundata esse caetera physicae Cartesianae dogmata. Quamobrem ne dehortare amplius, neve libertatem impedire tenta in rerum causas et veritatem inquirentibus. Ipse Cartesius sibi semper eam permisit, neque alijs, si viveret ademptam vellet: Imo id unicè desiderare solebat ut scripta sua ad examen revocarentur. Vale Vir Amicissime.</p>
+<div type="closer">
+<p lang="la"><placeName key="denha004">Hagae Com.</placeName> <date>28 Jun. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Myn Heer <persName key="scho197">Fr. van Schooten</persName> Professor der Mathematycken in de Universiteyt
+<lb/>Tot <placeName key="leide001">Leijden</placeName>.
+<lb/>Inde Heeresteegh.</p>
+</div>
+</body>
+</text>
+</TEI>

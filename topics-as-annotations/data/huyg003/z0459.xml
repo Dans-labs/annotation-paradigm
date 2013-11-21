@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0459"/>
+<meta type="date" value="1658-02-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0459">
+<div type="opener">
+<p>le <date>14 Febr. 1658</date>.</p>
+<p>A Mr. <persName key="chap002">Chapelain</persName></p>
+</div>
+<p>Que je n'ay pas receu la siene<note n="#1"/>, j'envoye les deux figures de Saturne<note n="#2"/>, descris le systeme de Hodierna. J'excuse le retardement du mien sur l'horologe &amp;c. de la nouuelle academie chez Monsieur <persName key="monm010">de Montmor</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

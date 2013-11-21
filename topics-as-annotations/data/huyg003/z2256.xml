@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2256"/>
+<meta type="date" value="1682-02-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hire005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2256">
+<div type="opener">
+<p>A Monsieur <persName key="hire005">De la Hire</persName>.</p>
+<p>19 fevr. 1682.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous suis fort obligé de ce que vous avez bien voulu me donner de vos nouvelles et de celles de nostre Academie ou je prends beaucoup de part. Et je me rejouis de voir que le Roy et monseign.<hi rend="sup">r</hi> Colbert prennent son avancement encore plus a coeur, que par le passè, dont ces voiages &amp;c. sont d'indubitables marques. Il n'y a non plus de doute qu'ils ne soient de grande utilitè a l'Astronomie.</p>
+<p>Mais je souhaiterois bien d'estre informè touchant les personnes qui ont estè choisies pour aller faire ces observations eloignees<note n="#1"/>. Vous m'auriez aussi fait plaisir de me faire scavoir quelque chose de ce qui s'est traitè de plus remarquable dans nostre assemblée depuis le temps de mon absence, et si on ne l'a pas accreue de quelques personnes, pour remplir les places vacantes. Je ne doute pas que vostre demeure a l'observatoire ne contribue beaucoup au bien de l'astronomie, scachant quelle est vostre exactitude et diligence. Je vous recommande sur tout de faire mettre en estat le grand quart de cercle pour les hauteurs meridienes s'il ne l'est pas encore et de songer ensuite à determiner les lieux des estoiles fixes par le moyen de ces hauteurs et des differ. des asc. droites. Comme depuis peu j'ay estudiè d'avantage en Astronomie que par le passè a l'occasion de la machine planetaire<note n="#2"/>,
+dont j'escris au long a Mr. <persName key="gall047">l'Abbé Gallois</persName><note n="#3"/>, je reconnois aussi de plus en plus le besoin que l'Astronomie a de cette correction des lieux des estoiles qui sert de fondement a tout le reste.</p>
+<p>Pour ce qui regarde la proposition que vous faites touchant l'echange de nos apartements a l'observatoire je ne vois pas que vous alleguiez aucune raison pourquoy vous preferiez le mien au vostre, ni mesme que vous en puissiez avoir. car il y a autant a observer du costé d'occident que d'orient et d'ailleurs il y a assez d'endroits pour l'un et pour l'autre dans tout ce bastiment, et mesme pour l'exposition du couchant que l'on apprehende en estè a cause de la chaleur elle doit estre icy sans incommoditè vu l'epaisseur extraordinaire des murailles. Je ne vois donc pas jusqu'icy en quoy le changement vous pourroit estre utile si non en ce voisinage de l'apartement de Mr. <persName key="pica018">Picard</persName>, duquel aussi bien vous n'estes gueres esloignè maintenant. Et comme j'ay appropriè mes chambres a ma commoditè, j'espere que vous ne voudrez pas insister a me demander de prendre en leur place celles que Mr. <persName>Romer</persName> a laissées, qui a dire la veritè ne me paroissent pas si bien ordonnées. Cependant si vous souhaitez d'y faire des observations vous pouvez librement vous en servir pendant mon absence.</p>
+<p>Je vous supplie de dire a Mess<hi rend="sup">rs</hi> de nostre Academie que je leur suis tres obligè de leur souvenir et de les asseurer que je suis comme a vous</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

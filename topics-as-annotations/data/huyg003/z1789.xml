@@ -1,0 +1,55 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1789"/>
+<meta type="date" value="1669"/>
+<meta type="sender" value="dula010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1789">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je vous supplie de ne point parler de l'Escrit que je vous donnay hier attendu que la precipitation m'a fait manquer au calcul contre mon ordinaire. car au lieu de</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">ry</hi><hi rend="sup">2</hi>-2<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">ry</hi><hi rend="sup">3</hi>+3<hi rend="i">cdy</hi><hi rend="sup">4</hi></cell>
+<cell></cell>
+<cell>+2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">ry</hi><hi rend="sup">2</hi>-2<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">ry</hi><hi rend="sup">3</hi>+3<hi rend="i">cdy</hi><hi rend="sup">4</hi></cell>
+<cell></cell></row>
+<row>
+<cell>mettre</cell>
+<cell>+<hi rend="i">cdk</hi></cell>
+<cell>jay escrit</cell>
+<cell>+2<hi rend="i">cdk</hi></cell>
+<cell>et le pre-</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>+2<hi rend="i">k</hi><hi rend="sup">4</hi>-4<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">y</hi>+2<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi></cell>
+<cell></cell>
+<cell>+4<hi rend="i">k</hi><hi rend="sup">4</hi>-8<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">y</hi>+4<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi> et le premier</cell>
+<cell></cell></row>
+</table></p>
+<p>mier estant posé il vient vne aequation dont tous les termes se detruisent enfin pour la duplication du cube, mais pour les deux autres cas le raisonnement est vtile, et donne les autres moyennes proportionnelles qui ne sont point entre des extremes dont l'vn soit double de l'autre, mais je ne vous donneray point la peine dexaminer d'auantage d'escritz, je mettrai les autres deux cas en nombres auant de les faire voir. Jespere que vous me ferez bien la grace de supprimer mon papier et puisque j'ay reconnu ma faute en un moment je ne croys pas qu'on en puisse tirer aucun auantage d'vne chose que je retracte des a present, peut estre que vous aurez la bonte de me le rendre. cependant je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres affectionné seruiteur <persName key="dula010">Dulaurens</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens</persName> a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

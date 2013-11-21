@@ -1,0 +1,806 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1174"/>
+<meta type="date" value="1663"/>
+<meta type="sender" value="holm011"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="1173"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1174">
+<p>An Account of the going of two watches at Sea, from the 28<hi rend="sup">th</hi> of April to the 4<hi rend="sup">th</hi> of September 1663.</p>
+<p>&nbsp;</p>
+<p>The watches were wound up every day at 12 of the Clock at Noon, the distinction of the greater watch is A; the lesser B. and their difference was always observed at 12 the next day.</p>
+<p><table>
+<row>
+<cell role="header">1663.</cell>
+<cell role="header">At Day.</cell>
+<cell role="header"></cell>
+<cell role="header">Minutes.</cell>
+<cell role="header">Parts, wherof 11 in a minut.</cell></row>
+<row>
+<cell>April</cell>
+<cell>29</cell>
+<cell>At 12. B before A.</cell>
+<cell></cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>30</cell>
+<cell cols="2"></cell>
+<cell>8</cell></row>
+<row>
+<cell>May</cell>
+<cell>1</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>2</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>3</cell>
+<cell>B stood, and was set by the other.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>4</cell>
+<cell>B. before A.</cell>
+<cell></cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>5</cell>
+<cell cols="2"></cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>6</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>7</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>8</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>9</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>10</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>11</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>7</cell></row>
+<row>
+<cell></cell>
+<cell>12</cell>
+<cell>The Bullet fell off from the pendulum of B, &amp; could not be adjufted till the 18.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>18</cell>
+<cell>when it was set a going</cell>
+<cell>0</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>19</cell>
+<cell>B. before A.</cell>
+<cell></cell>
+<cell>5</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell role="header">1663.</cell>
+<cell role="header">At Day.</cell>
+<cell role="header"></cell>
+<cell role="header">Minutes.</cell>
+<cell role="header">Parts, wherof 11 in a minut.</cell></row>
+<row>
+<cell>May</cell>
+<cell>20</cell>
+<cell>B. before A.</cell>
+<cell>0</cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>21</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>22</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>23</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>24</cell>
+<cell></cell>
+<cell>0</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>25</cell>
+<cell cols="2"></cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>26</cell>
+<cell cols="2"></cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>27</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>28</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>29</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>30</cell>
+<cell>B. stood, but was oyled and set going with the watch A. June 3</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>June</cell>
+<cell>3</cell>
+<cell cols="3"></cell></row>
+<row>
+<cell></cell>
+<cell>4</cell>
+<cell>B. before A.</cell>
+<cell></cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>5</cell>
+<cell cols="2"></cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>6</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>7</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>8</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>9</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>10</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>11</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>12</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>13</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>7</cell></row>
+<row>
+<cell></cell>
+<cell>14</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>15</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>16</cell>
+<cell>B. stood about 2 hours, and was set going adjusted with A. 16 June.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>17</cell>
+<cell>B. before A.</cell>
+<cell></cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>18</cell>
+<cell cols="2"></cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>19</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>20</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>21</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>22</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>23</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>24</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>10</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell role="header">1663.</cell>
+<cell role="header">At Day.</cell>
+<cell role="header"></cell>
+<cell role="header">Minutes.</cell>
+<cell role="header">Parts, wherof 11 in a minut.</cell></row>
+<row>
+<cell>June</cell>
+<cell>25</cell>
+<cell>B. before A.</cell>
+<cell>3</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>26</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>7</cell></row>
+<row>
+<cell></cell>
+<cell>27</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>28</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>29</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>30</cell>
+<cell></cell>
+<cell>5</cell>
+<cell>1</cell></row>
+<row>
+<cell>July</cell>
+<cell>1</cell>
+<cell></cell>
+<cell>5</cell>
+<cell>5</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>B. stood a little in the afternoon, and set a going again at 6 of clock adjusted with A.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>2</cell>
+<cell>B. before A. at 12</cell>
+<cell></cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>3</cell>
+<cell cols="2"></cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>4</cell>
+<cell cols="2"></cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>5</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>6</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>7</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>8</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>9</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>10</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>11</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>7</cell></row>
+<row>
+<cell></cell>
+<cell>12</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>13</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>14</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>15</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>16</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>17</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>18</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>19</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>20</cell>
+<cell></cell>
+<cell>5</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>21</cell>
+<cell></cell>
+<cell>5</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>22</cell>
+<cell></cell>
+<cell>5</cell>
+<cell>7</cell></row>
+<row>
+<cell></cell>
+<cell>23</cell>
+<cell></cell>
+<cell>5</cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>24</cell>
+<cell></cell>
+<cell>6</cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>25</cell>
+<cell></cell>
+<cell>6</cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>26</cell>
+<cell></cell>
+<cell>6</cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>27</cell>
+<cell></cell>
+<cell>6</cell>
+<cell>10</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell role="header">1663.</cell>
+<cell role="header">At Day.</cell>
+<cell role="header"></cell>
+<cell role="header">Minutes.</cell>
+<cell role="header">Parts, wherof 11 in a minut.</cell></row>
+<row>
+<cell>July</cell>
+<cell>28</cell>
+<cell>B. before A. at 12</cell>
+<cell>7</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>29</cell>
+<cell></cell>
+<cell>7</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>30</cell>
+<cell></cell>
+<cell>7</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>31</cell>
+<cell></cell>
+<cell>7</cell>
+<cell>9</cell></row>
+<row>
+<cell>August</cell>
+<cell>1</cell>
+<cell></cell>
+<cell>8</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>2</cell>
+<cell></cell>
+<cell>8</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>3</cell>
+<cell></cell>
+<cell>8</cell>
+<cell>7</cell></row>
+<row>
+<cell></cell>
+<cell>4</cell>
+<cell></cell>
+<cell>8</cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>5</cell>
+<cell></cell>
+<cell>9</cell>
+<cell>5<note n="#2"/></cell></row>
+<row>
+<cell></cell>
+<cell>6</cell>
+<cell></cell>
+<cell>9</cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>7</cell>
+<cell></cell>
+<cell>9</cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>8</cell>
+<cell></cell>
+<cell>10</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>9</cell>
+<cell></cell>
+<cell>10</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>10</cell>
+<cell></cell>
+<cell>10</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>11</cell>
+<cell></cell>
+<cell>10</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>12</cell>
+<cell></cell>
+<cell>11</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>13</cell>
+<cell>B. adjusted with A. at Lisbone.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>14</cell>
+<cell>B. before A.</cell>
+<cell>0</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>15</cell>
+<cell></cell>
+<cell>0</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>16</cell>
+<cell></cell>
+<cell>0</cell>
+<cell>9½</cell></row>
+<row>
+<cell></cell>
+<cell>17</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>1</cell></row>
+<row>
+<cell></cell>
+<cell>18</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>19</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>8</cell></row>
+<row>
+<cell></cell>
+<cell>20</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>0</cell></row>
+<row>
+<cell></cell>
+<cell>21</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>22</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>23</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>24</cell>
+<cell></cell>
+<cell>3</cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>25</cell>
+<cell>Watch B. stood from 9 of clock at night till 10.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>26</cell>
+<cell>B. before A.</cell>
+<cell>0</cell>
+<cell>3</cell></row>
+<row>
+<cell></cell>
+<cell>27</cell>
+<cell></cell>
+<cell>0</cell>
+<cell>6</cell></row>
+<row>
+<cell></cell>
+<cell>28</cell>
+<cell></cell>
+<cell>0</cell>
+<cell>9</cell></row>
+<row>
+<cell></cell>
+<cell>29</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>1</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell role="header">1663.</cell>
+<cell role="header">At Day.</cell>
+<cell role="header"></cell>
+<cell role="header">Minutes.</cell>
+<cell role="header">Parts, wherof 11 in a minut.</cell></row>
+<row>
+<cell>August</cell>
+<cell>3</cell>
+<cell>B. before A. </cell>
+<cell>1</cell>
+<cell>4</cell></row>
+<row>
+<cell></cell>
+<cell>31</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>7</cell></row>
+<row>
+<cell>September.</cell>
+<cell>1</cell>
+<cell></cell>
+<cell>1</cell>
+<cell>10</cell></row>
+<row>
+<cell></cell>
+<cell>2</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>2</cell></row>
+<row>
+<cell></cell>
+<cell>3</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>5</cell></row>
+<row>
+<cell></cell>
+<cell>4</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>8</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>August</cell>
+<cell>19.</cell>
+<cell>We being in the Latitude of 39<hi rend="sup">d</hi> 10<hi rend="sup">m</hi> and distant from our departure at Lisbone 60 Leagues or 180 miles, which makes 4<hi rend="sup">d</hi> 45<hi rend="sup">m</hi> departure of Longitude, J found the watches to be a quarter of an hour before the Sun.</cell></row>
+<row>
+<cell>August</cell>
+<cell>22.</cell>
+<cell>We being in the Latitude of 41<hi rend="sup">d</hi> 7<hi rend="sup">m</hi> and to the Westward of our departure 78 Leagues or 234 miles, which makes 5<hi rend="sup">d</hi> 2<hi rend="sup">m</hi> (45 miles making one degree), the watch was a quarter of an hour and 5 minutes before the Sun.</cell></row>
+<row>
+<cell>August</cell>
+<cell>24.</cell>
+<cell>We being in the Latitude of 43<hi rend="sup">d</hi> 22<hi rend="sup">m</hi> and to the Westward of our departure 112 Leagues or 336 miles, and 44 miles making one Degree, which makes 7<hi rend="sup">d</hi> 37<hi rend="sup">m</hi> and then J found the watches to be before the Sun half an hour.</cell></row>
+<row>
+<cell>August</cell>
+<cell>26.</cell>
+<cell>We being in the Latitude of 46<hi rend="sup">d</hi> o<hi rend="sup">m</hi> and from our first meridian 136 Leagues or 408 miles, which makes 9<hi rend="sup">d</hi> 22<hi rend="sup">m</hi> (44 miles answering to one Degree), J found the watches to be before the Sun three quarters of an hour.</cell></row>
+<row>
+<cell>August</cell>
+<cell>29.</cell>
+<cell>We being in the Latitude of 47<hi rend="sup">d</hi> and from our first meridian 105 Leagues or 315 miles, J found the watches to be before the Sun halfe an hour; 41 miles making one degree of Longitude in the Latitude of 47<hi rend="sup">d</hi> o<hi rend="sup">m</hi> which makes 7<hi rend="sup">d</hi> 41<hi rend="sup">m</hi> difference of Longitude.</cell></row>
+<row>
+<cell>September.</cell>
+<cell>1.</cell>
+<cell>We being in the Latitude of 49<hi rend="sup">d</hi> 6<hi rend="sup">m</hi> and departed from my first meridian 22 Leagues or 66 miles (39 miles making one Degree of Longitude) J found the watches to differ little from the Sun.</cell></row>
+<row>
+<cell>September.</cell>
+<cell>5.</cell>
+<cell>Jt being very hazy weather that Jcould not try the watches with the Sun from the first untill the 5<hi rend="sup">th</hi> September, and then J found the watches to be after the Sun almost halfe an hour; the Sun making 12, and the watches but halfe an hour past 11 of the Clock.</cell></row>
+</table></p>
+<p>August 13<hi rend="sup">th</hi> we came out of Lisbone, and there J adjusted the watches, and set them going according to the course of the Sun at Lisbone, and these Observations J took coming home, being far Westward, with a Ring Diall when the Sun &amp; Opportunity presented.</p>
+</div>
+</body>
+</text>
+</TEI>

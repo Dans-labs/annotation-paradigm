@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1549"/>
+<meta type="date" value="1666-06-29"/>
+<meta type="sender" value="lome005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="brien901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1549">
+<div type="opener">
+<p>Ce 29<hi rend="sup">me</hi> Juin.</p>
+</div>
+<p>Monsieur Denis<note n="#1"/> qui est vn de mes bons amis et vn physicien illustre qui enseigne dans des conferences publiques la belle philosophie, a souhaité d'estre connu de vous, et ma demandé pour cela de vous l'adresser. Je le fais Monsieur auec joye, ne doutant point que vous ne consentiez volontiers a vne connoissance qui ne vous separera point des delices de vostre cabinet.</p>
+<p>Mais ne scauroit on auoir l'honneur de vous voir? Je ne puis sortir de la maison de six semaines, n'est ce pas en vser bien librement que de vous parler ainsy.</p>
+<p>Je brusle du desir de lire vostre dissertation<note n="#2"/> sur l'anneau de Saturne.</p>
+<p>Adieu mon tres cher Monsieur Je suis tout a vous. Je vous supplie de faire mes compliments a Monsieur vostre pere quand vous luy escrirez. Je suis autant a luy que jamais. Je le supplie de le croire. Mais ie crains bien qu'il ne m'ait tout a fait oublié.</p>
+<div type="closer">
+<p><placeName key="brien901">Brienne</placeName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

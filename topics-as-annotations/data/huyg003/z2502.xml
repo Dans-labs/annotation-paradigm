@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2502"/>
+<meta type="date" value="1687-10-31"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="hetlo001"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2502">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce dernier Oct. 1687.</p>
+</div>
+<p>Le frere de Rotterdam<note n="#1"/> qui est icy present, vient de recevoir une lettre de Mr. <persName>van Hoste</persName><note n="#2"/> du 29<hi rend="sup">e</hi> de [ce] mois, dans la quelle il mande ce qui sensuit touchant het Leen verheffen de Zeelhem.</p>
+<p>Uyt de Ingeleyde Citatie sal UEd. konnen sien dat het releveren van de heerlijckheyt van Zeelhem geen langer uijtstel vereyscht bij dien sullen UEd. daer over ordre te stellen.</p>
+<p>La citation dit</p>
+<p>Van wegen den Hoogh Welgeb. Heer Stadhouder der Ed. Leensaets van Curingen worden bedaeght ad jmam in den selven Ed. Leensaet die heeren Erfgenamen ende Representanten van wijlen den Heer <persName key="huyg001">Huygens heere van Zeelhem</persName>, om sien reelijck geprocedeert te werden op en tegens die selve Heerlijckheyt van Zeelhem ende allen appenderende Leengoederen deur faute van relief.</p>
+<p>Le frere luy mande pour response que nous souhaiterions bien que ce Relief se pust differer encore un mois ou 3 semaines jusqu'a ce que nous eussions vu a qui seroit la Seigneurie de Zeelhem, mais si cela ne se peut qu'il nous mande si on le peut faire au nom des heritiers puis que la citation s'adresse a eux. Et qu'en ce
+cas nous luy envoierons aussi tost le pouvoir requis ou a luy ou a Cools<note n="#3"/> nostre Meyer et Receveur. Nous ne doutons pas que vous n'approuviez ce que nous avons fait en cecy, et en parlerons au frere de S. Annelandt. Nous attendons aussi vostre response touchant le project du partage que je vous envoiay avant hier.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zeelhem</persName> &amp;c.
+<lb/>op de Loo.</p>
+</div>
+</body>
+</text>
+</TEI>

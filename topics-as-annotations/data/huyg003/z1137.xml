@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1137"/>
+<meta type="date" value="1663-07-20"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1137">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Quamuis missam ad te Florentia Timauri Antiatis<note n="#3"/> apologiam<note n="#4"/> aduersus Historiae Trochoidis dicam, an cycloidis? ante aliquot annos editae<note n="#5"/> auctorem<note n="#6"/>, plane mihi persuad eam; officij tamen mej esse duxj, si forte secus accidisset, exemplar offerre quod nudiustertius accepj. Res ipsa quidem mererj non videbatur haec certamina; sed cum <persName key="torr901">Torricellius</persName><note n="#7"/> plagij accusaretur ab historico<note n="#8"/>, discipulorum intererat Magistri candorem atque integritatem tuerj. Quod an a Timauro praestitum sit ipse dispicies: ego quidem ita sentio, nisi <persName key="torr901">Torricellij</persName> literas, quas adhuc asseruarj dicit, exhibeat Historicus, caussam eius profligatam esse. Liberé tamen fatebor apud te omnino alienum esse me ab hisce <hi rend="i">λογομαχίαις</hi>; sed etiam publicé interest, vt sua cuique laus tribuatur.
+Et quemadmodum <persName key="torr901">Torricellius</persName> si aliorum inuenta pro suis venditasset, excusationem non mereretur, ita reprehensione non carerent ij, qui viros optimos plagij accusant, cum in easdem secum cogitationes forte inciderunt, <hi rend="i">ϰαὶ ταῦτα μὲν δὴ ταῦτα</hi>. Tu vir Praestantissime perge orbem literatum tuis <hi rend="i">εὑρήμασιν</hi> ornare, meque quo soles affectu semper prosequere.</p>
+<p>Dabam Leodij 20 Julij 1663.</p>
+<p>Tui obseruantissimus</p>
+<p><persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> &amp;c.
+<lb/>A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

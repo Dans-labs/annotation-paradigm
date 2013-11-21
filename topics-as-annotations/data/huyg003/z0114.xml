@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0114"/>
+<meta type="date" value="1652-01-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0114">
+<div type="opener">
+<p>Monsieur Mon frère, a <placeName key="londe002">Londres</placeName>.</p>
+</div>
+<p>Vos lettres de la facon qu'estoit celle que nous leusmes hier<note n="#1"/> peuvent fort contenter mon Pere, qui vous exhorte seulement de continuer, en luy faisant avoir de semblables toutes les semaines. Il paroit que vous vous evertuez, ut praestes caeteris animalibus, qui se sont embarquez avec vous. Mademoiselle Z. dit que nul Prophete est estimé en sa Patrie, aussi cela est il tres vray, et c'est une des belles et notables sentences de l'Evangile. Quand je parle d'Animalibus, j'entens ceux qui le sont, et je vous prie escrivez moy en gros quelle vie ils mesnent la.</p>
+<p>Mon Pere veut que je vous envoye un exemplaire de mon petit livre, peutestre que Monsieur <persName>Johnson</persName><note n="#2"/> ou quelqu'autre vous scaura dire a quel Mathematicien vous le pourez donner. Pere Gregorius m'a a la fin repondu, et je receus hier sa lettre pleine de civilités<note n="#3"/>, mais par la quelle il est evident, qu'il n'est pas fort pres a faire replique a mes objections. Une autre lettre qui venoit du Pere Sarasa<note n="#4"/> qui est avec luy, estoit de mesme argument et plus ample encore. Je commence a estre fort conneu parmi les Reverends Peres, et le seray encore d'avantage quand Pere Seghers aura distribué les Exemplaires qu'il a demandé pour envoyer en Espagne, et autre part aux hommes Scavans de sa Compagnie et connoissance. La Harangue<note n="#5"/> de Monsieur <persName>Cats</persName><note n="#6"/> a esté imprimée icy et depuis encore en Flamend<note n="#7"/>. Les Estats l'ont voulu supprimer en faisant defense de la vendre. On la trouve bien froide icy partout et qui sent son bon homme.</p>
+<div type="closer">
+<p>Le <date>19e Janvier 1652</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

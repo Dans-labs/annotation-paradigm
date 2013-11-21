@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2594"/>
+<meta type="date" value="1690-06-02"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2594">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 2<hi rend="sup">e</hi> juin.</p>
+<p><persName key="hosp010">Le M. de l'Hospital</persName> a <persName key="huyg003">Huygens</persName>.</p>
+</div>
+<p><note n="#2"/> J'ay receu, Monsieur, vostre reponce, et Mr. <persName key="hire005">de la Hire</persName> qui m'est venu voir m'a montré vne lettre oú vous luy mandez à peu prés les mesmes choses ce qui m'a donné occasion d'écrire ce que je vous ay enuoyé sur les centres d'oscillation est la reponce que Mr. <persName key="bern071">Bernoullj</persName> fait à Mr. <persName key="cata001">l'Abbé Catelan</persName><note n="#3"/> jnserée dans les journaux de lipsic vous y verrez, Monsieur si uous vous donnez la peine de le lire qu'il conclut à la fin, de son principe qui paroist assez naturel, que vostre hypothese n'est pas vraye puisque selon son raysonnement le centre de grauité ne remonte pas au mesme endroit d'où il etoit descendu et comme j'ay crû que cela pouroit faire quelque peine aux personnes qui liroient cet endroit et mesme leur laisser quelque doutte j'ay taché d'éclaircir la chose autant qu'il m'a ete possible afin que la mesme verité etant prouuée par des voyes differentes parut encore plus dans son jour. je vous seray tres obligé si vous voulez bien m'enuoyer vos remarques vous deuez conter que je n'appelleray point de vostre jugement car je scais fort bien que vous pouuez décider en juge souuerain sur toutes ces matieres je croirois seulement qu'il ne faudroit pas laisser sans replique ce que dit Mr. <persName key="bern071">Bernoully</persName> &amp; qu'il seroit avantageux de luy faire voir que son principe bien entendu confirme ce que vous auez auancé et prouué d'une maniere sans comparaison plus sauante &amp; plus geometrique. je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="hosp010">Le Marquis de l'Hospital</persName>.</p>
+</div>
+<p>mon adresse est chez Mr. le Comte <persName>de Ste. Mesme</persName> ruë neuve des bons enfans proche la place des Victoires.</p>
+</div>
+</body>
+</text>
+</TEI>

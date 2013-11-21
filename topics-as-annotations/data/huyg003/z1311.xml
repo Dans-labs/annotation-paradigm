@@ -1,0 +1,96 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1311"/>
+<meta type="date" value="1665-01-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1311">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Depuis sa derniere escrite il aura receu la miene avec les observations du Comete. Voicy celles que j'ay fait depuis. ne decrit pas uu grand cercle. je luy envoie la division promise pour la machine de Monsieur Hook. quoy quelle soit pour la pendule reglè par la Cycloide il y n'y<note n="#1"/> point de difference considerable. Journal des scavans de Paris.
+Vaissean de Petty semble devoir estre lent a tourner. quelle est sa vitesse. J'ay encore examiné la methode de l'Equation des jours et trouve que veritablement elle ne cause point d'erreur, mais toutefois dans l'exemple qui en est donnée l'on s'est ecartè de la regle qui est bien couchée et en ce faisant l'on obscurcit la chose et donne occasion d'errer.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 16 Janvier 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Depuis vostre derniere escrite du 22 Decembre<note n="#2"/> vous aurez receu la miene du 2 janvier<note n="#3"/> avec mes observations du Comete<note n="#4"/> jusqu'a ce jour la. Je vous
+envoieray toutes les autres lors qu'il cessera de paroistre, ce qui sera bientost. Cependant je vous diray que le 3 janvier environ midy il a passè l'equateur entre le 44 et 45esme degrè depuis Aries. Et qu'environ a cet heure icy il passe l'Ecliptique pres du 28 degrè d'Aries. Il ne descrit pas justement dans le ciel un grand cercle, par ce que s'il estoit ainsi, sa route continuée de l'autre costè ou il a commenie d'estre vu, devroit couper l'Equateur entre le 44 et 45 degrè depuis Libra, la ou elle le couppe seulement au 40<hi rend="sup">o</hi>, ce qui est considerable. Jl avance dorenavant moins qu'un degrè par jour et n'ira pas loin de l'autre costè de l'Ecliptique la quelle j'avois creu qu'il ne passeroit point du tout.</p>
+<p>J'ay encore examinè la methode que vous m'avez envoiée<note n="#5"/> pour l'Equation du temps, et trouue que veritablement elle ne cause point d'erreur, mais toutefois dans l'exemple l'on s'est ecartè contre toute raison du precepte qui est bien couchè, et suivant le quel il falloit faire comme s'ensuit.</p>
+<p>Dans quelque meridien inconnu le 3<hi rend="sup">e</hi> Juin:</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>h.</cell>
+<cell>m.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>L'heure du jour observée est.</cell>
+<cell>9.</cell>
+<cell>13.</cell>
+<cell>00</cell>
+</row>
+<row>
+<cell>Le Temps egal dans le premier meridien selon le montre I est</cell>
+<cell>8.</cell>
+<cell>14.</cell>
+<cell>24</cell>
+</row>
+<row>
+<cell>Au quel il faut adjouter l'Equation de la Table du 3 Juin, a scavoir</cell>
+<cell>0.</cell>
+<cell>16.</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>La somme est l'heure du temps apparent au premier meridien</cell>
+<cell>8.</cell>
+<cell>30.</cell>
+<cell>25</cell>
+</row>
+<row>
+<cell>Mais l'heure du-temps apparent dans le second meridien estoit</cell>
+<cell>9.</cell>
+<cell>13.</cell>
+<cell>00</cell>
+</row>
+<row>
+<cell>Donques l'heure du temps apparent dans le second meridien excede l'heure du temps apparent du premier meridien de</cell>
+<cell>0.</cell>
+<cell>42.</cell>
+<cell>45<note n="#6"/></cell>
+</row>
+<row>
+<cell></cell>
+<cell>d.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>Et partant le second meridien est d'autant plus vers l'Est que le premier meridien ce qui estant reduit en degrez vienent</cell>
+<cell>10.</cell>
+<cell>38′</cell>
+<cell>45″</cell>
+</row>
+</table></p>
+<p>Dans vostre exemple le calcul revient a mesme chose mais l'on y considere la difference du temps, egal sous l'un et l'autre meridien ce qui n'est point fondè en raison, car il est question de scavoir combien il est plus tard soubs le dernier que soubs le premier meridien a l'heure du jour c'est a dire du temps apparent.</p>
+<p>Voicy la division<note n="#7"/> que je vous avois promise<note n="#8"/> pour le cercle qui est dans la machine de Monsieur Hook, pour mesurer les descentes des corps. Je suppose que le pendule soit reglè entre les Cycloides, mais il y a si peu de difference
+quand l'axe du pendule n'est pas plus grand que je l'ay pris, que la mesme division convient aussi bien au pendule simple.</p>
+<p>J'attens avec impatience les observations microscopiques que vous me promettez. Vous me mandez<note n="#9"/> bien le part du vaisseau nouueau du chevalier <persName key="pett901">Petty</persName><note n="#10"/>, mais non pas s'il reussit de mesme en grand qu'en petit. Je voudrois scavoir combien il excede les vaisseaux ordinaires en vistesse et s'il tourne aussi facilement &amp;c.</p>
+<p>Mon Pere m'envoie par sa derniere le premier eschantillon d'une nouuelle gazette Française qu'on appelle le Journal des Scavants<note n="#11"/>. Elle seroit pour faire scavoir toutes les semaines les Livres nouueaux considerables qui se mettent au jour, et le sommaire de leur contenu. Les nouuelles decouuertes en Physique et Inventions de Mechanique, decisions celebres des Tribuneaux seculiers et Ecclesiastiques, et en fin tout ce qui se passe dans l'Europe, digne de la curiositè des gens de lettres. Il me semble que le dessein est tres bon et utile et pourveu qu'il ne soit point gastè par la faute de ceux<note n="#12"/> qui l'entreprennent j'en espere le succes.</p>
+<p>Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

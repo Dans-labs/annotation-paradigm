@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0094"/>
+<meta type="date" value="1651-06-30"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0094">
+<div type="opener">
+<p><persName key="scho197">Fr. à Schooten</persName>, Nobili ac rarae eruditionis Juveni-Viro, D. <persName key="huyg003">Christiano Hugenio</persName> S.P.D.</p>
+</div>
+<p>Negligentiae me forte accusabis Praestantissime Domine, Juvenum Ornatissime, utpote qui tuis, 13 May ad me missis, longo hoc intermisso tempore, nihil adhuc responsi dederim. Sed excusabis spero, cum intelliges me meorum transmigratione plura seponere debuisse, quae velut deperdita penes me tamdiu latuêre, donec mihi animus curis omnibus ac negotijs esset solutus. Quapropter postquam me studijs rursus accinxi, statim mihi in mentem venit, ut, quae de hoc loco, quem plane solidum ante credideram (quippe calculo deceptus) non satis distincte conceperam, ea accuratius examinare ac cum tuis conferre susciperem. Planum igitur illum esse vel nemini dubium videri poterit, qui tum Analysin vestram, tum demonstrationem hanc
+<figure><graphic url="huyg003oeuv01ill81.gif"></graphic></figure>
+meam planè est percepturus, quam itaque hìc subiungam.</p>
+<p>Datis positione puncto A, et lineâ BD, in eaque puncto C; invenire E punctum, unde si ducatur EA ad datum punctum A, et ED ad datam positione lineam BD in angulo D, aequali dato AFB, sit rectangulum sub abscissâ DC et aliâ datâ AG aequale quadrato AE.</p>
+<p><hi rend="i">Constructio</hi>. Ductâ AG parallel â BD, agatur ex C ipsi AF parallela CI, donec secetur ab AG, productâ in I, et inveniatur inter IA, AG media proportionalis AL. Deinde, descripto super AG per 33.3<note n="#1"/> circuli segmento AHG, quod capiat angulum AHG aequalem dato AFB, describatur ex ejus centro K circulus MELP, transiens per punctum L. Dico, si in ejus circumferentiâ utcunque sumatur punctum E,
+et ab ipso ad datum punctum A agatur EA, et ED ad positione datam DB in angulo dato D seu F, hoc est, ipsi AF parallela, rectangulum sub abscissâ CD et datâ AG aequari quadrato AE.</p>
+<p><hi rend="i">Demonstratio</hi>. Producantur enim FA, EA ad circumferentiam in M et P, et IG ad rectam ED in N, demissaque ex K in HA perpendiculari KO, jungatur HG. Quoniam igitur triangulorum AHG et ANE anguli ad H et N aequales sunt, et angulus ad A utrique communis: erit etiam tertius ad G tertio ad E aequalis, et triangulum AHG simile triangulo ANE. Quare erit per 4. 6 ut AH ad AG, ita NA ad AE, ac proinde per 16. 6 rectangulum EAH aequale rectangulo NAG. Deinde quoniam KO perpendicularis est ad HA, erit per 3. 3. HO aequalis OA, ut et EO aequalis OP. Quibus ab invicem subductis, relinquitur EH aequalis AP. Similiter cum KA per constructionem perpendicularis sit ad ML, erit et MA per 3. 3. aequalis AL. Hinc, cum per 35. 3 rectangulum EAP, hoc est, AEH aequale sit rectangulo MAL siue quadrato AL, et quadratum quidem AL per constructionem et 17. 6 aequale sit rectangulo IAG; erit quoque rectangulum AEH aequale rectangulo IAG. Aequalia igitur sunt bina rectangula EAH et AEH binis rectangulis NAG et IAG. Sunt autem bina rectangula EAH et AEH per 2. 2 simul aequalia quadrato totius AE. Bina vero rectangula NAG et IAG per 1. 2 simul aequalia rectangulo sub totâ IN, hoc est, abscissâ CD et datâ AG. Aequale ergo est rectangulum subabscissâ CD et datâ AG quadrato ex AE. Quod erat faciendum.</p>
+<p>Eâdem fermè ratione reliqui casus ad hujus imitationem construi ac demonstrari possunt, sed haec Tibi ostendisse sufficiant. Vale.</p>
+<div type="closer">
+<p>Tibi addictissimus</p>
+<p><persName key="scho197">Fr. à Schooten</persName>.</p>
+<p><placeName key="leide001">Leydae</placeName> <date>Ultimo Junij 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName>, op t'plein
+<lb/>in S'graven-hage.
+<lb/>port</p>
+</div>
+</body>
+</text>
+</TEI>

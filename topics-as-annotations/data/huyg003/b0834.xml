@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0834b"/>
+<meta type="date" value="1661-02-07"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0834">
+<div type="opener">
+<p>Lundy matin</p>
+</div>
+<p>N'ayant pu auoir des hier vostre response pour la partie de Monsieur Ampiou je viens dapprendre de luy qu'elle ne pourra sexecuter qu'apres demain
+Mecredy<note n="#1"/> a cause qu'il en desire faire Monsieur de Monplaisir<note n="#2"/> Lieutenant de Roy dArras son Amy et le mien et vn des plus honnestes hommes du monde. Si donc Monsieur vous pouués Mecredy luy faire cette grace comme je l'espere, il vous ira prendre entre onze heures et midy ou plus tost mesme ou vous enuoyera son carosse pour me venir prendre ensuitte afin d'aller ensemble chés luy. Mandés moy je vous prie entre cy et midy aujourdhuy si vous pouués accomplir cette partie la Mecredy et en ce cas soyes sil vous plaist ches vous Mecredy matin depuis dix heures jusqua midy</p>
+<div type="closer">
+<p><persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0140"/>
+<meta type="date" value="1652-12-15"/>
+<meta type="sender" value="guts001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leuve001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0140">
+<div type="opener">
+<p>Clarissimo Viro D. <persName key="huyg003">Christ. Hugenio</persName> <persName key="guts001">Gerardus Gutschovius</persName> S.D.</p>
+</div>
+<p>Ex quo secundas tuas recepi Hugenij ingeniosissime unice ex alijs ortae occupationes, quod ad eas non responderim in causa sunt: quod vero ad primas quoque nihil responsi dederim, et de scripto vestro praestantissimo et subtilissimo, a te, ad me misso, sententiam meam non adscripserim, ante Christi Domini Natalitia prolixiori epistola exspectabis: unâ quid in vitris seligendis, terendis, poliendis ipse
+sciam, vel exercitio repererim, vel observaverim. Dico ante 24 huius, illud enim tempus selegeram (utpote tum negotijs quibus nunc distringor expeditis) ut secundas tuas vidi, ad illas respondendum: nunc vero scribo ut ultimas vidi, ne me tergiversantem amplius inhumanius, aut saxi instar immobilem credas: et ut scias mihi nihil tam in votis esse, aut inter rara et secreta reconditum, quod imposterum totum tuum futurum non sit: exspecta igitur tantillum dum tantum otij nactus fuero, ut animum erga te meum expleam: et me totum tuum reperies. Vale.</p>
+<div type="closer">
+<p><placeName key="leuve001">Lovanij</placeName> 15 <date>10<hi rend="sup">bris</hi> 1652</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Domino Domino <persName key="huyg003">Christ. Hugenio de Zulehem</persName>
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

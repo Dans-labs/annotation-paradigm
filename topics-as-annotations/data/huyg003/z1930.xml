@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1930"/>
+<meta type="date" value="1673-04-17"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1930">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 7<hi rend="sup">me</hi> Avril 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Pour executer la promesse que ie vous fis dans ma lettre du 10 Fevrier<note n="#1"/> dernier ie vous envoye la responce<note n="#2"/> de Monsieur Newton sur les considerations, que vous auiez la bonté de mettre dans la vostre du 14 janvier<note n="#3"/> touchant sa nouvelle theorie des couleurs. Je veux croire, que vous ne la lirez pas sans plaisir, et qu'elle vous donnera occasion de mediter davantage sur cete belle et importante matiere. Je vous puis assurer, que Monsieur Newton est vne personne de grande candeur, comme il est homme qui ne dit légerement des choses qu'il avance.</p>
+<p>Je ne doubte pas que vous n'ayez aussi receu la mienne du 10 Mars<note n="#4"/> auec le nombre 91. des Transactions, où il y a entre autres choses, la methode de Monsieur Sluse pour tirer des tangentes à toutes sortes de lignes courbes sans calcul; dont i'attends tous les iours la demonstration<note n="#5"/>. Je ne veux pas vous interrompre davantage a present, mais vous assurer que ie suis tousiours</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Monsieur Newton a esté plusieurs semaines absent de Cambridge; sans cela vous eussiez bien plustost receu sa responce.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

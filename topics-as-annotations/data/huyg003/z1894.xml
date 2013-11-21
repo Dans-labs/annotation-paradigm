@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1894"/>
+<meta type="date" value="1672-07-08"/>
+<meta type="sender" value="pard024"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1894">
+<p>Je vous envoye Monsieur les cayers que vous avez bien eu la bonté de vouloir examiner.</p>
+<p>En sortant de chez vous je vis chez Monsieur <persName>l'abbé Picard</persName> le crystal qui fait deux refractions, et il me semble qu'il n'est pas si malaisé que je m'estois imaginé, d'expliquer cét effet. Je suis fort trompé si l'on ne peut démonstrer que si l'on taillait plusieurs pieces de verre en rhomboide et qu'on les mit simplement l'une sur l'autre pour en faire un rhomboide total, il s'y feroit deux refractions. Pour en faire l'experience plus aisément, j'ay mis deux glaces dans l'eau qui estoient inclinées l'une vers l'autre a peu pres de l'angle aigu de ce crystal, et j'ay vu double un objet qui estoit au fond de l'eau. Je suis</p>
+<div type="closer">
+<p>Vostre treshumble serviteur <persName key="pard024">Pardies</persName>.</p>
+<p>Vendredy 8 Juillet 1672.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

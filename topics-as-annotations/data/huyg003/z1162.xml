@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1162"/>
+<meta type="date" value="1663-11-08"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1162">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 8 Novembre 1663.</p>
+</div>
+<p>Je vous dis dans ma derniere<note n="#1"/> que j'allois payer van Dalen de l'argent del Signor Padre et que vous pourriez luy en faire la restitution. Si vous aymez mieux pourtant que moy je le donne, pourveu que bientost vous me le fassiez rauoir ici par lettre de change ou en espece dans un pacquet un peu gros, je le veux bien, mandez le moy. Le payement de ce fripon n'est pas si pressé.</p>
+<p>L'horologe de milord <persName key="brou051">Brouncker</persName> sera bien tost fait. a qui faut il le consigner, et qui en fera le payement?</p>
+<p>L'horologe de Monsieur <persName key="boul014">Bouillaut</persName> n'est pas encor payée. Toot<note n="#2"/> a negligé jusques icy de faire receuoir l'argent à Amsterdam, et dit quelques jours devant son depart qu'il y auoit un compte entre Chieze et luy et que de ce qu'il luy devoit il auoit dessein de le payer, mais ayant la teste pleine de vent de Zelande<note n="#3"/> il n'en a rien fait, cela n'est pas bien pourtant.</p>
+<p>J'attendray donc cet Agenda par l'ordinaire prochain. j'espere qu'il sera tel comme je l'auois demandé c'est a dire pour mettre du papier dedans et non pas auec des fueilles pour escrire auec de l'argent dessus.</p>
+<p>Mademoiselle vander Nisse<note n="#4"/> est icy depuis sept ou huict jours. Watervliet<note n="#5"/> et Monsieur d'Odyc<note n="#6"/> s'evertuent fort dans sa Cour et ce dernier auec tout l'empressement et toute assiduité possible, et neantmoins ses affaires sont encore fort incertaines.</p>
+<p>La Cousine Eiberg<note n="#7"/> a ce dit on un galand<note n="#8"/> qui luy en veut tout de bon. Il est de Groeningue et deputé icy dans la Chambre des Comptes.</p>
+</div>
+<div type="para">
+<p>Pour Mon frere <persName key="huyg003">Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

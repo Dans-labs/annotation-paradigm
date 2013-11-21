@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2697"/>
+<meta type="date" value="1691-09-18"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2697">
+<div type="opener">
+<p>8/18 Sept. 1691.</p>
+<p>Monsieur</p>
+</div>
+<p><note n="#1"/> Je suis parti de la Haye avec une si grande precipitation que je n'ai pû trouver un moment pour aller à Hoffwyck recevoir vos ordres pour l'Angleterre. Cela n'empêchera pas Monsieur que je ne puisse les recevoir ici. Monsieur le Docteur
+<persName>Bernard</persName><note n="#2"/> a été avancé à un Benefice, qui lui vaut 300 pieces par an. Sa charge de Professeur d'Astronomie dont les appointements sont de 150 pieces est devenue vacante par là; ceux qui se presentent pour la remplir sont Monsieur <persName key="hall901">Halley</persName> et Monsieur <persName>Gregory</persName>. Je verrai bientôt Monsieur <persName key="newt011">Newton</persName>, puis qu'il doit venir ici en fort peu de jours. Vous m'obligeriez sensiblement Monsieur de m'envoier les Errata de son livre<note n="#3"/> que je Vous ai laissez et desquels malheureusement je n'ai point gardé de Copie. Je suis avec beaucoup de respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="duil010">N. Fatio de Duillier</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> chez Monsieur <persName>Tourton</persName> &amp; Compagnie, ce 8/18 7<hi rend="sup">bre</hi> 1691.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zeelhem</persName> à<note n="#4"/></p>
+</div>
+</body>
+</text>
+</TEI>

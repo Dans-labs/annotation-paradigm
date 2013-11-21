@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0491"/>
+<meta type="date" value="1658-06-15"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0491">
+<div type="opener">
+<p>Clarissimo Nobilissimoque Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Quandoquidem harum Thesium copia<note n="#1"/> Hamburgo ab Autore<note n="#2"/> mihi transmissa est, qui me rogavit, ut exemplar hocce tibi destinatum ad Te amandari curarem: deesse nolui, quin hoc levi officio desiderio ejus obtemperarem. Ipse autem juvenis est ornatissimus ac generosus, Patricius Hamburgensis, qui prout in literis haud paucos fecit progressus, inter alia sua studia in Mathesi quoque operam navavit. Triennium est, quòd hìc Leydae similes de Luna ejusque Maculis Theses<note n="#3"/> sine Praeside defendit. Quicquid autem illarum sit, tuo duxi relinquendum judicio; quod ipsum cum sit accuratissimum facile dignoscere poterit, quid in ijsdem Thesibus ab ipso praestitum sit. Caeterum quam ob rationem ita Lipstorpio nostro insurgat, ac juvenis adhuc non vereatur ipsius labores omnino proscribere non video. Certè in eo parum providum existimaverim, ut qui in alterius honoris detrimentum,
+aleatorum more, et suum omnino periclitandam<note n="#4"/> duxerit. modestiam ego potius laudaverim. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>15 Junij, 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van de Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>in S'Graven-hage op t' pleijn.
+<lb/>cito port</p>
+</div>
+</body>
+</text>
+</TEI>

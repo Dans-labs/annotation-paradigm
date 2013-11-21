@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0902"/>
+<meta type="date" value="1661-09-18"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0902">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce <date>18. Septembre 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Tout ce que vous me dites dans vostre derniere du 16. a esté communiqué a vos amis icy. Tout le monde est de vostre aduis en ce qui touche les filets de Linus.
+Monsieur <persName key="boyl001">Boile</persName> dit qu'il a autrefois fait le mesme experiment que vous proposez. Et que la phiole ne se cassa pas. Mais il auouë aussi, que cela ne contribue pas beaucoup a l'esclaircissement de la chose. parce qu'on ne peut point dire, que sil n'y eust eu que de l'air dans la phiole, elle se seroit cassee. Et J'adiouste que si elle se seroit cassee, le mercure y estant, on l'auroit peu attribuer presque autant à la pesanteur du mercure dans l'un experiment, comme a la faculté elastique de l'air dans l'autre. Neantmoins nous sommes resolus de faire faire cet experiment du mercure dans quelque temps, entre plusieurs autres de la mesme nature. Jl est vray que la lune de Monsieur Wren est trop petite. Mais il s'en va faire une autre beaucoup plus grande pour la Societé, et qui sera encore plus conforme à la veritable. Je suis rauy que vous trauaillez à ces traittez, qu'on desire tant. C'a esté auec grande satisfaction que nos Messieurs en ont appris la nouuelle. Quant à l'acceleration des corps tombans de haut en bas, Quelques experiences, rapports et reigles qu'en ayent fait plusieurs autheurs, il semble encor manquer quelque chose à l'entiere satisfaction. Et l'on a donné en tasche à Monsieur le Mylord <persName key="brou051">Brunker</persName> de repeter les experiences qu'on a desia faites, examiner les reigles qu'on a dressees, et faire quelques nouueaux experiments dont on a desia es bauché une partie, et rapporter le tout, auec tout ce qu'il luy plaira d'y adiouster sur le suiet. Jl s'y est soubmis, et je crois que vous en attendrez quelque chose de considerable aussi bien que nous. Jauois grande enuie de m'estendre d'auantage sur toutes ces choses, mais Je me trouue obligà de m'aller coucher, afin que Je me puisse leuer demain de
+grand matin pour faire un petit voyage de deux iours.</p>
+<p>Je vous enuoyeray la derniere piece de Monsieur <persName key="boyl001">Boile</persName>, appelle le Chimiste Sceptique<note n="#1"/>, par l'adresse que vous me donnez. desormais Je vous prie ne craignez point de mennuyer par la longueur de vos lettres. Sçachez que tant plus longues elles sont. d'autant plus augmentez vous la ioye et les obligations de tous ceux qui les voyent, aussi bien que de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>Monsieur <persName key="boyl001">Boile</persName> m'a chargé de vous dire que la ciuilite dont vous usez enuers luy l'oblige infiniment.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> à la Haye.
+<lb/>1 β
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

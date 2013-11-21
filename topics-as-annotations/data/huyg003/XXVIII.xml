@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXVIII"/>
+<meta type="date" value="1649-10-09"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="hend050"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXVIII">
+<div type="opener">
+<p>Monseigneur;</p>
+</div>
+<p>En suitte de l'assignation qu'il vous a pleu nous donner, je vous envoije non pas le plus cher de mes Fils, car je les aijme esgalement, mais, j'ose dire, le plus precieux des quatre, en ce qu'il excelle sur le reste en force d'esprit et de sçavoir, et je m'asseure que ceux qui le sonderont aveq cognoissance trouueront qu'il n'en manque point en aucune sorte de science dont un jeun 'homme de sa condition doibt estre pourveu. Ie l'estime cependant bien heureux, de ce qu'il luij est permis de faire son premier apprentissage au grand liure du monde soubs l'honneur de vos directions. Ie vous supplie tres-humblement Monseigneur, de les luij departir aux occasions, et au reste vous preualoir de son petit seruice comme vous auez droict de le faire de celuij du Pere, qui vous demeure tres-particulierement obligé de ceste grace, et taschera de la recognoistre par tout ou il sera capable de faire paroistre par ses tres-humbles seruices, qu'il est,</p>
+<div type="closer">
+<p>Monseigneur,
+<lb/>Vostre tres-humble, et tres-obeïssant seruiteur
+<lb/><persName key="huyg001">C. Huijgens</persName>.</p>
+<p>A <placeName key="denha004">la Haije</placeName> le 9<hi rend="sup">e</hi> octobre 1649.</p>
+</div>
+<p>Ie ne dissimule pas, Monseigneur, pour où il y pourroit auoir occasion d'en parler, que je donne ce Garçon pour tres-expert non seulement en l'estude de droict, qu'il vient d'achever, mais aussi es langues Françoise, Latine, Grecque, Hebraïque, Syriaque et Chaldaïque. Mathematicien au reste par eminence, et Musicien, et Peintre; et pour conclusion du plus doux naturel qui se puisse veoir. I'espere que vous trouuerez que ce n'est pas la seule affection paternelle qui le dit, et prie qu'on ne l'importune pas de boire, ce qu'il n'entend pas.</p>
+</div>
+</body>
+</text>
+</TEI>

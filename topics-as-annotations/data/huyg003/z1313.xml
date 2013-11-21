@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1313"/>
+<meta type="date" value="1665-01-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="ruij008"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1313">
+<div type="opener">
+<p>22 Januarii 1665.</p>
+</div>
+<p>Rogo ne in malam partem interpretetur moram in rescribendo<note n="#2"/>. literis multorum respondere debuisse qui de cometa, et voluisse expectare ut viderem an nihil dignum animadversione in cometa telescopijs detegeretur. quia contigit Cysato<note n="#3"/>, quid videtur, non puto aliud allaturus<note n="#4"/> aliorum observationes nisi Romae forte habitat. Campani tubis, qui Systema nostris Saturnium adeo manifesto comprobavit ut qui contra scripsere<note n="#5"/> jam palinodiam<note n="#6"/> canant umbras satellitum Jovialium detexit.</p>
+</div>
+<div type="para">
+<p><persName key="ruij008">Hugoni Ruijsch</persName> Philosophiae Doctori et Professori in Academia Ultrajectina tegen over de Domsteegh</p>
+</div>
+</body>
+</text>
+</TEI>

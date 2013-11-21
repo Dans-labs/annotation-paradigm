@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0623"/>
+<meta type="date" value="1659-06-06"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0623">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>6. Juin 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay enuoyé vn extrait de vostre lettre du 14. du passé<note n="#1"/> a Monsieur le Prince Leopold de Florence, afin que Son Altesse Serenissime veist la sincerité &amp; candeur auec laquelle vous auez agi en la publication de vostre inuention du pendule de l'horologe. J'ay creu que je ne pourrois expliquer si nettement &amp; si clairement vostre pensée en Latin, que vous mesme l'auez fait en François. Je croy que vous en serez bien aise; &amp; si vous desirez vous donner l'honneur d'escrire a ce Prince, vous esprouuerez en luy vne benignité &amp; courtoisie nonpareille, vous pouuez luy enuoyer vos lettres par la voye de Francfort, en 14. jours elles arriuent a Venise. &amp; le 4<hi rend="sup">e</hi> jour ensuiuant elles sont rendues a Florence. Ces Princes de Florence estiment tout ce quil y a de gens d'esprit &amp; de scauoir, &amp; ne doutez pas qu'ils ne facent estat de vous tel que vous le meritez.</p>
+<p>Je vous remercie de la part que vous m'auez faicte de vostre obseruation de la derniere Eclipse de Lune, je voudrois bien que vous eussiez marqué si c'est la fin de la veritable vmbre que vous auez obseruee, ou bien de la Penumbre. &amp; je regrette bien que vous n'ayez esté plus diligent a obseruer cette Eclipse des le leuer de la Lune.</p>
+<p>Pour la distance des meridiens de Paris &amp; d'Vranibourg que jay posee dans mes Tables de 48.′ il est vray que je l'ay mise trop grande de 8′ ou de 9.′ au plus, &amp; c'est l'obseruation de <persName>Martinus Hortensius</persName><note n="#2"/> que jallegue sur laquelle je me suis fondé qui m'a fait errer; car depuis ayant comparé plusieurs obseruations de Monsieur Heuelius auec les miennes nous auons trouué tout au plus vne heure 6. ou 7. minutes de difference entre nos Meridiens de Paris &amp; Dantzigt, &amp; il m'a asseuré que par plusieurs bonnes obseruations l'on a cy deuant verifié que la distance d'Vraniburg &amp; de Dantzigt estoit de 28.′ &amp; ainsi entre Vraniburg &amp; Paris il ny auroit que 39′ de difference. I'ay appris depuis l'edition de mon liure que Monsieur Hortensius ne scauoit pas bien obseruer. Si j'eusse eu la cognoissance de Monsieur Heuelius, je n'aurois pas commis cette erreur.</p>
+<p>Pource qui est de l'equation du temps dont je me suis serui, &amp; que j'ay establie dans mon Astronomie; je peux vous asseurer qu'elle est bien fondee, &amp; que mes Tables conuiennent mieux auec le ciel que toutes les autres. et cette derniere ny conuient pas mal, car mes Tables representent la fin a 9. heures 36. a Paris ayant pris la distance d'Vranibourg de 40′. &amp; mon obseruation marque la fin a 9. heures 29′ &amp; ainsi mes Tables ne differeront du ciel que de 7′. Si vous prenez la fin de l'Eclipse lors que la ☾ sort de la veritable ombre, nos Meridiens ne sont esloignez que de 9′. Je voudrois bien encores que vous eussiez pris la hauteur de la ☾ ou de quelque estoile. J'escris a Monsieur Heuelius &amp; je luy enuoye mon obseruation pour auoir la sienne s'il a pû la faire.</p>
+<p>Vous deuez auoir a present receu les 6. exemplaires<note n="#3"/> de la Geometrie de Monsieur <persName key="pasc001">Paschal</persName><note n="#4"/> que j'ay enuoyez a Monsieur de Thou pour vous les remettre entre les mains. je l'ay<note n="#5"/> ay donnez au Sieur <persName>Gaultier</persName><note n="#6"/> qui a esté autresfois a son seruice, &amp; qui est retourné en Hollande pour vne condition qu'on luy a procuree a ce qu'il m'a dit aupres d'vn Prince. Je vous diray bien tost des nouuelles de l'effect des verres que vous m'auez fait la grace de me donner. Je salue tous nos amis &amp; je demeure de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>Je vous supplie de me faire scauoir si l'edition de vostre Saturne est bien auancee.</p>
+<p>Je vous demande s'il vous plaist des nouuelles de l'horologe que je vous ay demandee.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

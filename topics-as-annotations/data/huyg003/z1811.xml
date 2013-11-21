@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1811"/>
+<meta type="date" value="1670-06-16"/>
+<meta type="sender" value="mout015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="lyon_001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1811">
+<div type="opener">
+<p>A lyon le 16 Juin 1670.</p>
+<p>Monsieur</p>
+</div>
+<p>Cest avec un extreme deplaisir, que J'ay appris la nouvelle de vostre indisposition par celle qu'il a pleu a Monsieur vostre frere mescrire de vostre part<note n="#1"/>. J'ay veu pareillement l'accueil obligeant avec lequel vous avez receu un ouvrage<note n="#2"/> si imparfait que le mien, lequel vous avez bien daigné parcourir, nonobstant vostre incommodité, ce qui n'est pas un petit temoignage de vos bontez. Le titre de vostre livre<note n="#3"/>, dont vous mavez fait part avec une affection si cordiale, est tres excellent au jugement du Reverend Pere Bertet<note n="#4"/>, a qui je lay fait voir suivant vos ordres, &amp; je ne doubte point, qu'il ne soit encor plus ravissant, lors qu'il paroistra dans l'Esclat &amp; la majesté de ses belles demonstrations: Mais il est necessaire, que vous teniez autant que vous pourrez vostre esprit dans la tranquillité &amp; sans application, depeur d'interesser davantage vostre santé, qui est extremement chere a tous ceux, qui ont connoissance de vostre merite &amp; vertu. Plaise a la divine bonté de vous la fortisier de bien en mieux. Je le desire passionnement, &amp; suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur
+<lb/><persName key="mout015">G. Mouton</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Huijgen de Zuijlichem</persName>
+<lb/>A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

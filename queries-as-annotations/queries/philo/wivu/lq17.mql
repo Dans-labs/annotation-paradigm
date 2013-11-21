@@ -1,0 +1,15 @@
+// This query looks for clauses with an object consisting of a single
+// noun directly followed by a complement with the same noun in it.
+
+// ident @(#)lq17.mql	1.1 04/03/26
+
+select all objects where
+
+[clause
+   [phrase function = Objc
+      [word as w1 first and last psp = noun]
+   ]
+   [phrase function = Cmpl
+      [word lexeme = w1.lexeme]
+   ]
+]

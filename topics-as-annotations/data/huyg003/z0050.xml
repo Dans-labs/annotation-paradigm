@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0050"/>
+<meta type="date" value="1648-05-15"/>
+<meta type="sender" value="mers004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0050">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je veux vous faire part d'une visée qu' a eüe vn de nos gens d'icy pour la duplication du Cube, vous verrez si elle est vraye. Il supose donc que le quarré, ou plus tost le Cube <formula>ABCD</formula> estant 1, et le quarré <formula>EDFG</formula> estant double du quarré <formula>ABCD</formula>, parce que <formula>ED</formula> est égal à la diagonale <formula>AD</formula>, si l'on inscrit le triangle jsoscele <formula>DHF</formula>, et que sur <formula>FH</formula> comme sur le costé, on fait le cube <formula>IFKL</formula>, que ce cube sera quadruple du premier cube <formula>ABCD</formula>: de sorte qu'il ne restera plus qu'à trouuer le cube moyen proportionel entre le cube <formula>IL</formula> et le cube <formula>AD</formula> pour auoir les 2 cubes moyens proportionnels entre 1 et 8. Vous m'aprendrez vostre auis sur cela.</p>
+<p><figure><graphic url="huyg003oeuv01ill62.gif"></graphic></figure></p>
+<p>Sa visée estoit que la moyenne proportionelle entre <formula>ED</formula><note n="#1"/> et <formula>CD</formula> donnoit le costé du cube moyen proportionel entre le cube <formula>AD</formula> 1, et le cube <formula>IL</formula> 4, mais ie croy que vous la trouuerez fausse.</p>
+<p>Je viens d'aprendre vne
+nouuelle assez estrange de Pologne, qui est que si vn gentilhomme tüe vn autre gentilhomme, s'il peut s'euader pour 24 heures, on ne peut le faire mourir, et s'il satisfait à la partie interessée, qu'il est encore suiet pour la Justice à demeurer sous terre sans aucune lumiere que de 5 chandelles l'espace d'un an et 6 semaines, en sorte que s'il se fait tirer de ce trou pour peu de temps que ce soit, et qu'on le scache, il est tenu de recommencer tout de nouueau à se rendre sous terre tout le temps de l'an et 6 semaines, et s'il ne veut subir cette penitence, il est permis a tous de le tuer par tout où on le trouuera. Mais si le gentilhomme tue le paysan d'un autre gentilhomme, il en est quitte pour 50 francs qu'il met sur le corps, et s'il tue son propre paysan, on ne luy en dit rien.</p>
+<p>Il y a aussi dans la mesme ville en Lituanie des Chrestiens, des Turcs et des Payens qui exercent librement leur religion.</p>
+<p>Je viens de recevoir la lettre de Monsieur vostre pere, et il y a trop peu de temps pour luy escrire à ce voyage, c'est pourquoy ie vous prie de luy faire mes excuses, et puisque vous auez maintenant le beau temps de luy faire souuenir des obseruations du canon. Croyriez vous qu'on m'a auiourdhuy dit qu'il y a vn Couleuure qui porte de blanc en blanc vne lieue et qui a 40 pieds de long? Je n'y croy rien si ie ne le voy. Je vous prie de penser à la dificulté qui suit.</p>
+<p>Ascauoir s'il n'est pas necessaire qu'une bale egale ou vn missile egal estant poussé plus viste au commencement aille plus loin: par exemple, quelque arme à feu que ce soit, suposé que les forces ou la poudre luy jmprime vne vitesse de [?] 2, n'irat il pas tousiours [?] aussi loing.</p>
+<p>Et neanmoins on m'obiecte [?] qu'un canon fort court, par exemple de 2 pieds, chargé d'une egale quantité de poudre qu'un autre long de 10 pieds ou bien de 20 pieds chasse le boulet plus loing, et non moins [?] la mesme charge de la poudre donne vne egale vistesse au commencement. si ma mauuaise lettre vous empesche Mr. vostre père, lequel ie salue mille fois vous y aydera et i'essayeray selon son desir à vous envoyer la lettre du Sieur Pascal, qui est un autre Archimede. Je suis cependant</p>
+<div type="closer">
+<p>vostre treshumble seruiteur <persName key="mers004">Mersenne M.</persName></p>
+<p><date>15 May 1648</date>.</p>
+</div>
+<p>Permetterez vous qu'on jmprime le petit traité que vous m'auez enuoyé il y a long temps de la chorde ou chaine tendue egalement? mais il faudroit aiouster la demonstration de ce que ie vous escriuois sur cela.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestien Huijgens</persName> fils de Monsieur le Secretaire de Monsieur le Prince d'Orange
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

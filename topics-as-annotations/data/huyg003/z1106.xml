@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1106"/>
+<meta type="date" value="1663-04-06"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1106">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 27. March 1663.</p>
+<p>Monsieur</p>
+</div>
+<p>Ce mot n'est que pour vous donner auis, que vostre derniere du 2<note n="#2"/> m'ayant fait iuger que vous seriez à Paris dans peu de iours, J'y ay enuoyé la responce<note n="#3"/> de vos precedentes<note n="#4"/> que Je vous auois promise, auec la figure du vaisseau du cheualier <persName key="pett901">Petty</persName>. mais auec ordre au jeune homme<note n="#5"/> qui porte le pacquet qu'il le mette entre les mains de Monsieur vostre pere en cas que vous n'y soyiez point arrivé. Jl a aussi un present a vous faire d'un liure dont il est l'autheur qu'il appelle Optica promota<note n="#6"/>, qui traitte de la Dioptrique, et de l'Astronomie, dont Je ne veux rien dire pour vous en laisser le iugement entier. Apres l'auoir leu, et conferé auec le jeune homme si au moins vous le voyez mandez m'en vostre sentiment. Seulement en tout cas, vous y apprendrez que J'ay eu raison de vous dire, touchant la publication de vos traittez, ce que J'ay dit dans le pacquet enuoyé à Paris. Je ne vous aurois point escrit à cette heure n'estoit qu'une persone venue
+d'Hollande depuis 8. iours m'a dit, vous auoir veu<note n="#7"/> a là Haye. Vous scauez au reste que Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>a la Haye.
+<lb/>jβ
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

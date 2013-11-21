@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1852"/>
+<meta type="date" value="1671-11-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1852">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 5 Novembre 1671.</p>
+</div>
+<p>J'achetay hier le livre de Perspective<note n="#1"/> que vous demandez<note n="#2"/>. Je crois que cette Partie vaut mieux que les deux autres que je regarday en mesme temps. Je m'estonne comment ils font de si grands livres d'une chose qui se pourroit enseigner en peu de feuilles. Les figures y sont en quantité, mais mal faites. L'un des Mrs. Heuft part bientost, qui s'en chargera volontiers. Il couste 10 livres francoises.</p>
+<p>Dans la lettre a mon Pere vous verrez mon opinion touchant les verres not spherical<note n="#3"/> du Sieur Smitwick et quelle ne differe pas beaucoup de la vostre.</p>
+<p>J'observay hier au soir Saturne que je n'avois veu de 10 ou 12 jours, et je trouvay ses bras si fort diminuez que c'estoit tout ce que je pouvois faire que de les appercevoir, tellement que je leur ay dit adieu pour cette fois. Et voila ma prediction verifiée laquelle je fis au mois d'Aoust, aussitost que les bras commencerent a paroitre; car je dis<note n="#4"/> que ce ne seroit qu'une interruption de la forme ronde, qui reviendroit vers la fin de l'an. Cela confirme bien encore mon hypothese de l'anneau, qui ne nous devient maintenant invisible que parce qu'il n'est plus que tres obliquement esclairè par les rayons du soleil. L'année qui vient, si tost qu'on commencera de voir Saturne, les bras paroistront<note n="#5"/>, mais fort faibles et deliez, contre que j'avois creu il y a 12 ou 13 ans.</p>
+<p>Que ie scache a quoy aura abouti la blessure de Monsieur van der Myle.</p>
+<p>Le frere Louis ne me mande pas s'il a receu la boete ou est sa perruque. Je voudrois, en cas qu'il ne l'ait point recue, qu'il me marquast le jour qu'elle est partie d'icy, qu'il verra dans une de mes lettres<note n="#6"/>, afin que je puisse l'alleguer en demandant raison de ce pacquet au maistre des Carosses. Adieu.</p>
+<p>&nbsp;</p>
+<p>Je m'informeray un peu à Monsieur Chapelain de ce qui est de la pension de Monsieur Heinsius<note n="#7"/> et si je puis je l'y serviray.</p>
+</div>
+<div type="para">
+<p>Pour mon frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

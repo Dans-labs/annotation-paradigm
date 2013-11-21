@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0375"/>
+<meta type="date" value="1657-03-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0375">
+<div type="opener">
+<p lang="la">Viro Clarissimo Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.D.</p>
+</div>
+<p>Ecce tibi à <persName>Milonio</persName> nostro literas<note n="#1"/>, itemque pagellam<note n="#2"/> quam me quoque inspicere voluit quam ubi commodum erit remittere te mihi velim, propter quaesita Domini <persName key="ferm011">Fermat</persName>.
+Ego cum nuper Constructionem tuam universalem <persName>Milonio</persName> mitterem subdubitabam an rectè se haberet, atque illi autor fui ut ad examen revocaret, quod et fecisse videbis.
+Verum non tu sed ille deceptus est, quod non animadverterit aequationem quadratoquadraticam quam invenit divisionem recipere, sive tua illa cubica <formula>z<hi rend="sup">3</hi> + pzz - aqz - aar</formula> pro divisore capiatur sive <formula>z - p</formula>.
+Omnino igitur sibi constat constructio tua, et profecto pulcherrima est et <persName key="desc004">Cartesiana</persName> melior
+neque id inficiari potes. Epistolarum <persName key="desc004">Cartesij</persName> volumen alterum indies expectare nos <persName>Milonius</persName> jubet sed in quo pauca quae ad Mathematicas. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Com.</placeName> <date>9 Mart 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Myn Heer <persName key="scho197">Fr. van Schooten</persName> Professor der Mathematycken inde Universiteyt Tot Leyden.
+<lb/>inde Heeresteegh.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0630"/>
+<meta type="date" value="1659"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0630">
+<p><persName key="hein009">Nicolai Heinsii</persName>, D.F., Ad Auctorem Systematis.</p>
+<lg type="poem">
+<l>Laudibus Hugeni pars addite magna paternis,</l>
+<l rend="; 1tab">Quem totum Vranie vindicat una<note n="#2"/> sibi.</l>
+<l>In cunis placiti reptare per avia coeli,</l>
+<l rend="; 1tab">Astra tibi puero volvere ludus erat:</l>
+<l>Astra minus patrijs non trita penatibus olim;</l>
+<l rend="; 1tab">Cognita natali non minus astra solo.</l>
+<l>Iamque eadem populis mirantibus astra recludis,</l>
+<l rend="; 1tab">Perspicua ingenij lumine facta tui.</l>
+<l>Qualis sidereo radiatus in aethere Titan</l>
+<l rend="; 1tab">Oppositam nocti spargit ubique facem.</l>
+<l>Ardue stellantis salve metator Olympi,</l>
+<l rend="; 1tab">Qui superâ nobis das regione frui:</l>
+<l>Per quem, discussâ dubiae caligine mentis,</l>
+<l rend="; 1tab">Inserimur liquido cominus<note n="#3"/> ora polo.</l>
+<l>Devocat in terras, magico sine carmine, Lunam</l>
+<l rend="; 1tab">AEqua Syracosio cui manus arte seni.</l>
+<l>Ecce Iovis genitor tenebroso carcere per te</l>
+<l rend="; 1tab">Et fugit, &amp; laetam rursus oberrat humum.<note n="#4"/></l>
+<l>Macte ausis<note n="#5"/> studioque; Deos qui vindice chartâ</l>
+<l rend="; 1tab">Asseris: inventi qui facis astra tui.</l>
+<l>Nunc sua Saturno cum vincula demseris ipsi;<note n="#6"/></l>
+<l rend="; 1tab">Saecla tuum terris<note n="#7"/> aurea munus eunt.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

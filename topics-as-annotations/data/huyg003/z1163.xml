@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1163"/>
+<meta type="date" value="1663-11-08"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1163">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 29. doctobre 63.</p>
+<p>Monsieur</p>
+</div>
+<p>Voycy un abbregé<note n="#1"/> du Journal que m'a donné le Capitaine<note n="#2"/> qui a eu le soin des horologes a pendule pendant un Voyage d'icy a Lisbonne. Vous l'entendrez aussi bien de cette facon comme si l'eussiez eu tout au long. J'en attendray vos sentimens auec quelque sorte d'impatience. n'y perdez point de temps. pour vous y obliger, Je vous diray qu'hier Monsieur <persName key="boyl001">Boile</persName> rapporta dans nostre Assemblee<note n="#3"/>, qu'il auoit tellement epuisé l'air du Mercure, sans autre façon, que la seule repetition de l'experience de <persName key="torr901">Torricelli</persName> en y mettant tant soit peu d'eau. que le mercure demeura suspendu a la hauteur de 75.<note n="#4"/> poulces, dix ou douze heures de suitte. faites nous part de ce qui se fait là ou vous estes, de curieux. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble tresobeissant et tresaffectionné seruiteur
+<lb/><persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>Monsieur <persName key="brou051">Brouncker</persName> et <persName key="boyl001">Boile</persName> vous baisent les mains.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>.
+<lb/>Au petit Moyse, rue de petit Bourbon
+<lb/>A Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

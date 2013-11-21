@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0062"/>
+<meta type="date" value="1649-04-28"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="rive002"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="breda001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0062">
+<div type="opener">
+<p>Monsieur.</p>
+</div>
+<p>Cest honest homme Précepteur<note n="#1"/> des deux petits Cadets de la maison d'Ostfrize<note n="#2"/>, qui sont icij s'en va cercher où les faire loger au Collège d'Orange. Il a esté deliberé si on les enuoyeroit à Breda, ou à Leiden, mais enfin mes considerations, appuyées du respect de celles de Madame, ont preualu en faueur de nostre Escole Illustre, que des gens de ceste sorte peuuent illustrer de leur presence. Outre qu'il m'a semblé que ces jeusnes seigneurs qui, pour partage de cadets<note n="#3"/>, doibuent finalement estre dressez au mestier des Armes, pourroyent trouuer en ce lieu là leur compte ad utramque militiam, et qu'en particulier la conuersation de monsieur <persName>de Haulteriue</persName> et des officiers de la Garnison leur pourroit faire grand bien, et commencer à les desniaiser de l'Air de leur pais. J'ay donc ordre de vous les recommander, et par auance de vous prier d'assister ce porteur à trouuer les departemens où ils pourront estre accommodez aueq leur suitte, qui ne sera que d'un Gouuerneur, un Precepteur, un Page, un Valet de Chambre et deux lacquais. Quand mon fils sortira, qui sera aux vacances, ils pourront estre accommodez de sa chambre, qu'on me dit estre des meilleures. Monsieur <persName>d'Asperen</persName> n'est pas encor reuenu, et quand ores
+il le seroit, nous auons icy l'Assemblée nouuelle de Hollande, qui doibt passer necessairement, auant que nous fassions rien. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble seruiteur <persName key="huyg001">C. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>28<hi rend="sup">e</hi> Apuril 1649</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="rive002">Riuet</persName>, docteur en Theologie, Curat<hi rend="sup">r</hi>. de l'Escole Illustre et College d'Orange
+<lb/>à Breda.</p>
+</div>
+</body>
+</text>
+</TEI>

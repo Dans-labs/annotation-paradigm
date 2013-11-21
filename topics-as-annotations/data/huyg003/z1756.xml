@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1756"/>
+<meta type="date" value="1669-08-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1756">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 28 Aoust 1669.</p>
+</div>
+<p>Ie crois avoir receu la pluspart des lettres de mon Pere et des vostres, comme encore les dernieres du 22 de ce mois. Et j'ay en chemin quelques responses quoyque non pas a toutes, voyant qu'elles sont arrestees en chemin.</p>
+<p>I'ay envoiè entre autres une exacte description a Mon Pere et assez longue de l'invention de mon clavier mobile qu'il m'avoit demandee.</p>
+<p>I'ay envoiè vostre perruque par Monsieur van der Mijle<note n="#1"/> qui est parti il y a 15 jours. Elle est dans une boëte cachetée avec l'inscription pour vous. Envoiez moy mon argent par quelque voiageur de connoissance quand il s'en presentera.</p>
+<p>I'ay aussi envoiè a mon Pere des yeux de verre pour mettre a mon masque de plastre<note n="#2"/>, par un gentilhomme d'icy que je luy ay recommandè par lettre. Et dans une autre, j'ay enfermè les verres d'une petite lunette qu'il attendoit.</p>
+<p>Ie vous remercie de vos nouuelles et j'ay bien de la joye d'apprendre par toutes les lettres del Signor Padre que tout le monde par dela se porte bien. Ie n'ay pas le temps de faire autre depesche maintenant que cellecy, ayant encore a mettre au net, un assez long discours<note n="#3"/> que je doibs lire cette apresdinée dans nostre assemblée. C'est touchant la cause de la pesanteur.</p>
+<p>C'est beaucoup fait a vous, d'avoir peu faire le calcul des aages, dont vous dites estre venu a bout. Mais a fin que ce calcul fust exact il faudroit avoir une table qui marquast d'année en année combien il meurt des personnes de 100 qu'on suppose, et il faut que vous l'ayez suppléée par quelque moyen comme j'en scay pour cela, ou autrement vous ne scauriez determiner au vray, combien doibt vivre une personne de 6, 16 ou 26 ans &amp;c. et encore moins de quelque aage moyen entre ceux la. comme vous l'avez entrepris de vous et de moy. Ie crois donc que vous n'en decidez qu'a peu pres.</p>
+<p>Ce que je puis conclure de certain par les donnez de la table c'est que qui gageroit qu'un enfant nouveau nè (ou conceu comme vous dites, mais il me semble que l'Anglois ne parloit pas des conceus car comment en peut on tenir registre) vivra a 16 ans, prendroit le mauvais party et hazarderoit 4 contre 3. De mesme qui gageroit qu'une personne de 16 ans vivra jusqu'a 36, il hazarde tout de mesme 4 contre 3.</p>
+<p>J'ay envie de suppleer la table comme j'ay dit et resoudre les problemes qu'on peut proposer en cette matiere qui est assez subtile. Vostre methode ne scauroit estre la mesme que la miene, et je seray bien aise de la voir. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

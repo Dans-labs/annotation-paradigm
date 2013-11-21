@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0109"/>
+<meta type="date" value="1651-12?"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0109">
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName> Patri, S.D.</p>
+</div>
+<p>Parvum quidem offero, sed cujus exilitatem<note n="#2"/> magna ex parte me supplere posse existimavi, si gratum animum tuique observantissimum hic in principio testarer, atque hujus verissimam demonstrationem, demonstrationibus reliquis adjicerem.
+Quin potius, ne solicitus quidem esse debui, propter exiguam molem minus tibi acceptum fore, cum quotidiè animadvertamus, parvulam filiorum progeniem maximè avis caram esse.
+Itaque unum petiisse suffecerit, quod etiam nunc peto rogoque: Ut nepotum tuorum nomine, quo saepe alia levioris notae molimina mea, benignè appellare solitus es, hunc quoque industriae meae partum complectaris quemque ego exposui, tu prae caeteris lubens tollas, Vale!</p>
+</div>
+</body>
+</text>
+</TEI>

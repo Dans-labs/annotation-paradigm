@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1076"/>
+<meta type="date" value="1662-11-17"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1076">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 7 Nouembre 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Quelque iustice qu'il y auroit à vous reprocher vostre silence, Je n'en veux rien faire, quoy que ce soit moy qui ay escrit le dernier<note n="#1"/>. Toutes fois Je me sers fort volontiers de l'occasion qui se presente a vous faire une ligne ou deux, parceque ce sera une espece de chastiment que vous allez souffrir. Ce n'est pas que l'affaire vous donnera beaucoup de peine: Mais la besogne qu'elle semble vous tailler vous tournera un peu l'estomach. L'impertinence insuperable de Monsieur <persName key="hobb001">Hobbes</persName> s'opiniastre encore tant dans sa duplication du Cube et sa Quadrature du cercle, qu'il ne se contente pas de la refutation<note n="#2"/> que vous luy auez enuoyee. Jl y a fait une responce<note n="#3"/> qu'il a fait imprimer, dont J'ay adressé une Copie a Monsieur Bruce<note n="#4"/> pour vous faire tenir. Vous ne deuez pas doubter qu'il n'attende vos animaduersions là dessus. Si vous trouuez qu'il vaille la peine d'y repliquer enuoyez moy Copie de ce que vous trouuerez a propos de dire. Jl est maintenant temps de refueilleter vos precedentes pour voir s'il y a quelque chose que Je n'ay point touché aux miennes parce que c'est mon dessein de satisfaire a tout ce que Je vous doibs. il est vray que Monsieur Bronker a esté ce temps passé tant occupé qu'il n'a pas eu la commodité de me fournir ce qui tombe a son partage pour payer nostre debte. mais maintenant Je l'y feray songer. Vous scauez bien que nous attendons auec grand impatience Vostre Dioptrique et autres pieces dont vous nous auez donné lieu
+desperer la publication. dites en des Nouuelles a</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble tresaffectueux et tresobeissant Seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>Nous n'auons point encore veu icy Horoxius<note n="#5"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

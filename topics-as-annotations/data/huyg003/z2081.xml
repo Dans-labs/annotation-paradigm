@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2081"/>
+<meta type="date" value="1675-12-23"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2081">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 13 Dec. 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>J'ay enfin receu la montre d'or et l'ay baillé aussi tost à Mylord Brouncker, qui vous en rendra conte au plustost<note n="#1"/>. Cependant il vous saluë et vous rend graces tres-affectionées du soin, qu'il vous a plû d'en auoir. Il vous remboursera de l'argent par vne lettre d'eschange, que vous recevrez au premier iour.</p>
+<p>Je ne doubte pas, que le fils de Monsieur Evelyn<note n="#2"/> ne vous aye fait la reverence, et baillé de ma part l'imprimé de M. Hook touchant les Helioscopes<note n="#3"/> etc. oú vous verrez dans le Post-script<note n="#4"/> ce qu'il pretend contre vous aussi bien que contre moy, quoyqu'il ait esté obligé de retracter quantité de fausses accusations, dont il m'auoit chargé sans aucune raison.</p>
+<p>J'ay envoyé par ce mesme ordinaire a Monsieur Dalencé<note n="#5"/> le Nomb. 119.<note n="#6"/> des Transactions, sans vous en envoyer vn Exemplaire puisque vous voulez vous servir de celuy lá, come vous m'auez mandé cy-devant.</p>
+<p>Depuis peu il est sorti de la presse l'ornithologie<note n="#7"/> de feu M. Willughby<note n="#8"/>,
+qui estoit de la Soc. Royale; digerée par M. Rajus<note n="#9"/>, homme fort scavant et de grande exactitude, compagnon au defunt dans tous ses voyages. C'est vn ouvrage tres-beau, et surpassant ce que Gesner<note n="#10"/> et Aldrovandus<note n="#11"/> avoient donné dans cete matiere là. J'espere que ledit M. Rajus advancera à digerer et suppleer ce que le defunt M. Willughby à laissé dans l'Histoire des Poissons et insectes<note n="#12"/>, oú il estoit tres-curieux.</p>
+<p>Si l'Histoire des Eaux minerales de France<note n="#13"/>, faite par Monsieur du Clos, est achevée d'imprimer, i'espere que nous en recevrons bientost des Exemplaires icy; comme encore le livre de vostre Academie touchant l'Analyse Chymique des Plantes<note n="#14"/>.</p>
+<p>Monsieur Grew nous a donné depuis peu vn autre livre sur l'Anatomie des Troncs des Plantes<note n="#15"/>, auec son raisonnement sur la vegetation, fondé là dessus. Le livre est en Anglois, mais i'espere qu'il sera traduit en latin par l'Autheur mesme. Celuy de l'Histoire des oiseaux est escrit en latin.</p>
+<p>Apres auoir escrit ce que dessus, je viens de receuoir la lettre d'eschange cyjointe pour les 25 louys d'or. Myld Brouncker vous priant de luy vouloir envoyer le plus promptement que vous pourrez vne autre bonne montre d'or auec vne main de minutes, laquelle sera pour luy mesme, l'autre estant pour son Altesse royale. Monsieur, tant plus grande despesche que vous ferez à m'envoier cete autre montre, tant plus vous confulterez auec vostre propre credit. Cependant vous ferez faire trois ou quatre autres montres d'argent, de mesme auec des mains de minutes; et Myld Brouncker respondra, sur ma parole, du payement de toutes, qui se pourront envoier par apres selon que les occasions seures se presenteront. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1976"/>
+<meta type="date" value="1673-12-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1976">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 7 Decembre 1673.</p>
+</div>
+<p>Des personnes que je considere beaucoup<note n="#1"/> et dont l'amitiè m'est extremement chere m'ont priè d'escrire en Hollande en faveur de leur parent Monsieur de la Lande<note n="#2"/>, demeurant en ce païs la depuis 30 ans et, depuis dix ans a Naerden, ou il a estè arrestè prisonnier lors que dernierement Monsieur le Prince a repris cette ville; sous pretexte d'avoir assistè ou servi d'interprete aux officiers François pendant qu'ils y estoient les maistres, et a estè jugè en suite par nos officiers qui y sont maintenant en garnison et condamnè a une amende de 60 mille livres. Mais ayant appellè de leur sentence à Messieurs les Estats d'Hollande il y a estè receu, et obtenu surseance de l'Execution. Je me remets a ceux qui vous rendront cette lettre de vous informer plus particulierement touchant cette affaire, dont peut estre vous aurez desia connoissance pour avoir estè a l'assemblee lors qu'il en a esté parlè. Je vous diray seulement que je souhaite fort de la voir terminee au plustost a la satisfaction de l'appellant dont je suppose l'innocence, croiant qu'on ne luy en veut que parce qu'il a de l'argent et que ceux de sa nation trouvent peu d'azile chez nous dans la conjoncture presente. Je vous recommande d'autant plus d'en vouloir entreprendre la protection et de parler en sa faveur a ceux que vous connoissez des Messieurs de la Cour d'Hollande aux quels je crois que l'affaire aura estè renvoiée. Enfin je vous prie d'y agir de mesme que si elle me regardoit, et de croire que vous ne scauriez me faire plus grand plaisir que
+de me faire recevoir des remercimens des bons effects de ma sollicitation.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">Hugens de Zulichem</persName> Grand Bailly de Gorcum et du païs d'Arkel, A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

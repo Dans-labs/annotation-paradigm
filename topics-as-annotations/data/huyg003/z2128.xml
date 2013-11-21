@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2128"/>
+<meta type="date" value="1678-06"/>
+<meta type="sender" value="monf011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2128">
+<p><note n="#1"/> Ex datis quatuor lineis trapezium efficere aream datae aequalem habens.</p>
+<p><figure><graphic url="huyg003oeuv08ill13.gif"></graphic></figure></p>
+<p>Datae quatuor lineae vocentur <hi rend="i">a</hi>, <hi rend="i">b</hi>, <hi rend="i">c</hi>, <hi rend="i">d</hi>. Area data cui aequalis esse debet area Trapezii <hi rend="i">t</hi>, diagonios <formula>BD</formula> <hi rend="i">y</hi>. Ex his ad aequationem, quae diagonion explicat, unde determinationem area[e] trapezii accipit, sic devenimus.</p>
+<p>Semissis summae laterum trianguli <formula>ABD</formula> est <hi rend="i">c</hi> + <hi rend="i">d</hi> + <hi rend="i">y</hi>/2 differentiae inter hanc semissen, et singula latera, <hi rend="i">d</hi> + <hi rend="i">y</hi> - <hi rend="i">c</hi>/2. <hi rend="i">c</hi> + <hi rend="i">y</hi> - <hi rend="i">d</hi>/2. <hi rend="i">c</hi> + <hi rend="i">d</hi> - <hi rend="i">y</hi>/2 quae mutuo ductu efficiunt 2<hi rend="i">ccdd</hi> + 2<hi rend="i">ccyy</hi> - <hi rend="i">y</hi><hi rend="sup">4</hi> - <hi rend="i">d</hi><hi rend="sup">4</hi> + 2<hi rend="i">dd</hi> - <hi rend="i">c</hi><hi rend="sup">4</hi>/16 quadratura areae trianguli <formula>ABD</formula> eàdemque ratione quadratura areae alterius trianguli <formula>BDC</formula> invenitur 2<hi rend="i">aabb</hi> + 2<hi rend="i">bbyy</hi> - <hi rend="i">y</hi><hi rend="sup">4</hi> - <hi rend="i">b</hi><hi rend="sup">4</hi> + 2<hi rend="i">aa</hi> - <hi rend="i">a</hi><hi rend="sup">4</hi>/16 Atqui trapezium divisum est in haec duo triangula, erit, (suppositis brevitatis gratia loco 2<hi rend="i">ccdd</hi> - <hi rend="i">d</hi><hi rend="sup">4</hi> - <hi rend="i">c</hi><hi rend="sup">4</hi>, <hi rend="i">h</hi>, et loco 2<hi rend="i">cc</hi> + 2<hi rend="i">dd</hi>, <hi rend="i">k</hi> nec non pro 2<hi rend="i">aabb</hi> - <hi rend="i">b</hi><hi rend="sup">4</hi> - <hi rend="i">a</hi><hi rend="sup">4</hi>, <hi rend="i">s</hi> et pro 2<hi rend="i">bb</hi> + 2<hi rend="i">aa</hi>, <hi rend="i">g</hi>) aequatio inter + <hi rend="i">t</hi> et √<hi rend="i">s</hi> + <hi rend="i">gyy</hi> - <hi rend="i">y</hi>4/16 + √<hi rend="i">h</hi> + <hi rend="i">kyy</hi> - <hi rend="i">y</hi>4 / 16. Sublataque asymmetria fit<note n="#2"/></p>
+<p><table>
+<row>
+<cell><hi rend="i">y</hi><hi rend="sup">4</hi> ∞ 2<hi rend="i">ghyy</hi> + 2<hi rend="i">fh</hi></cell></row>
+<row>
+<cell>- 2<hi rend="i">gf</hi> - <hi rend="i">ff</hi></cell></row>
+<row>
+<cell>+ 32<hi rend="i">gtt</hi> - <hi rend="i">hh</hi></cell></row>
+<row>
+<cell>+ 32<hi rend="i">ktt</hi> - 32<hi rend="i">htt</hi></cell></row>
+<row>
+<cell>+ 2<hi rend="i">kf</hi> + 32<hi rend="i">ftt</hi></cell></row>
+<row>
+<cell>- 2<hi rend="i">kh</hi> + 256<hi rend="i">t</hi><hi rend="sup">4</hi></cell></row>
+<row>
+<cell>_____</cell></row>
+<row>
+<cell><hi rend="i">kk</hi> + <hi rend="i">gg</hi> + 64<hi rend="i">tt</hi> - 2<hi rend="i">kg</hi></cell></row>
+</table></p>
+<p>Si vero speciebus sequentes valores tribuantur, <hi rend="i">a</hi> 13, <hi rend="i">b</hi> 5, <hi rend="i">c</hi> 20, <hi rend="i">d</hi> 16, fiet <hi rend="i">h</hi> aequalis ipsi <hi rend="i">f</hi>, ac aequatio in hanc breviorem mutabitur</p>
+<p><hi rend="i">y</hi><hi rend="sup">4</hi> ∞ 32<hi rend="i">gttyy</hi> - 256<hi rend="i">t</hi><hi rend="sup">4</hi> 32<hi rend="i">ktt</hi> + 64<hi rend="i">ftt</hi>/<hi rend="i">kk</hi> + <hi rend="i">gg</hi> + 64<hi rend="i">tt</hi> - 2<hi rend="i">kg</hi> ubi si pro <hi rend="i">g</hi>, <hi rend="i">k</hi> et <hi rend="i">f</hi> projuxta valores restituantur, et pro <hi rend="i">t</hi>, assumatur 126, totaque aequatio eveletur, ac juxta dictas regulas corrigatur expliceturque, emerget 144 pro <hi rend="i">yy</hi>, et diagonios <formula>BD</formula> erit 12, Hinc si supra diagonon <formula>BD</formula>, utrumque triangulum <formula>BAD</formula>, <formula>BCD</formula>, constitui intelligantur, ita ut trapezium <formula>ABCD</formula> efficiant, quaesito satisfactum est<note n="#3"/><note n="#4"/><note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

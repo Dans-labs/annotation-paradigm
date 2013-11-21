@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2599"/>
+<meta type="date" value="1690-07-17"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="utrec001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2599">
+<div type="opener">
+<p>7 Juli 1690.</p>
+</div>
+<p><note n="#1"/> Monsieur</p>
+<p>&nbsp;</p>
+<p>Quand je partis d'Angleterre je n'aurois pas crû devoir étre en Hollande plus d'un mois sans avoir l'honneur de Vous voir. Mais comme nôtre Compagnie avoit dessein de s'arrêter à Vtrecht et qu'au lieu de prendre terre a Rotterdam nous vinmes débarquer à Helvoetsluys, nous avons continué nôtre voiage directement ici sans nous arrêter à voir aucune ville de Hollande. J'ai demandé en cette ville de vos nouvelles Monsieur autant que je l'ai pú; mais on m'a dit que Vous ne demeuriez pas à la Haye presentement, mais dans quelque village qui n'en est pas bien éloigné. Cela m'a fait perdre la pensée que j'avois d'aller pour quelques jours à la Haye, où je ne pourrois étre qu'assez tristement si vous n'y étiez pas. Nous sommes dans le dessein de demeurer encore quelques mois à Vtrecht. Il seroit difficile que pendant tout ce temps là je ne pusse pas trouver quelques jours Monsieur pour Vous aller assurer de mes respects. Si j'étois plus libre il y a longtemps que cela seroit fait. Mais je suis chargé de deux jeunes Anglois de qualité, avec qui je dois voiager dans quelque temps, qui ne me laissent pas tout à fait Maitre de moi même. Je croi qu'il ne Vous est pas malaisé Monsieur de juger de l'impatience que j'aurois d'étre prez de Vous: Assurement
+il ne tiendra pas à moi qu'elle ne soit bientost satisfaite. Je suis avec un profond respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="duil010">N. Fatio de Duillier</persName>.</p>
+<p>A Vtrecht chez Monsr. d'Uzy Payeur des Cadets, tout joignant l'Eglise Françoise ce 7/17 Juillet 1690.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zeelhem</persName> a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2806"/>
+<meta type="date" value="1693-05-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2806">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 20 May 1693.</p>
+</div>
+<p>Je ne suis pas encore bien guery, Monsieur d'une maladie, qui m'a fort maltraitè pendant 3 semaines par des douleurs du costè du foie et de la bile. Ce qui fait que je n'ose pas encore examiner tout ce que vous avez eu la bontè de m'expliquer dans vostre lettre que je reçus avant hier. Cependant je n'ay pas voulu manquer de vous envoier ces feuilles de nostre Journal<note n="#2"/>, puis que vous ne les
+avez pas encore vues. Quant aux deux lignes courbes dont je vous avois proposè les soutangentes <hi rend="i">aay</hi>+<hi rend="i">xyy</hi>/<hi rend="i">ax</hi>-<hi rend="i">xy</hi>-<hi rend="i">ay</hi> et <hi rend="i">x</hi><hi rend="sup">3</hi><hi rend="i">y</hi>/3<hi rend="i">x</hi><hi rend="sup">3</hi>+3<hi rend="i">aay</hi>-2<hi rend="i">xyy</hi> la premiere est l'hyperbole, et son aequation <hi rend="i">aa</hi> ∞ <hi rend="i">ax</hi>-<hi rend="i">xy</hi>, l'autre a <hi rend="i">x</hi><hi rend="sup">3</hi>-<hi rend="i">xxy</hi>+<hi rend="i">aay</hi> ∞ 0 pour aequation. Ces soutangentes sont deguisées<note n="#3"/> d'une maniere qu'elles ne tombent point sous les regles que j'ay, et je puis tousjours les deguiser ainsi. Pour les deguisements traitables je vous communiqueray avec plaisir ce que je scay pour les demesler<note n="#4"/>. J'ay admirè que l'invention de la Courbe de Mr. <persName key="beau901">de Beaune</persName>, qui ne tombe point dans mes regles, vous a estè plus aisée que celle des courbes que je vous ay proposées cy-devant. Tout cela augmente la haute estime avec la quelle je suis</p>
+<div type="closer">
+<p>Monsieur etc.</p>
+</div>
+<p>J'ay songè depuis ma derniere que les 3 manieres differentes<note n="#5"/>, dont vous avez trouvè la quadrature de la Feuille, estoient peut estre 3 applications d'une mesme methode selon les differentes valeurs de <hi rend="i">y</hi> parce qu'il y a quelque difference à chacune.</p>
+</div>
+</body>
+</text>
+</TEI>

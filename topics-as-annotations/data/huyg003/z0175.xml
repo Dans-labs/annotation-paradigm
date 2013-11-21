@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0175"/>
+<meta type="date" value="1654-01-15"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0175">
+<div type="opener">
+<p><persName key="vinc027">Gregorius a Sancto Vincentio</persName> Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> salutem precatur.</p>
+</div>
+<p>Et Ego jndecorum judico Vir Clarissime, vltra iusti temporis moram, producj silentium, inter amicos; quanquam difficile existimem, interuallum statuj posse, cuius terminos praetergredj, inciuile decerni debeat. hucusque extendi passus non fuissem; si promissa e Bohemia mihi facta, sibi constitissent. Patris Aynscomij lucubrationes, secundo interruptae fuerunt; morbo valetudinem eius ita affligente, vt ab interitu vix abesset: Vnde septem mensium spatio, a Geometricis vacare coactus est. Viderunt quidem e nonnullis, quibus Censura librorum indulgetur, primum ac secundum librum<note n="#1"/>; posteriores autem necdum Vlli credidit. Volupe mihi fuit in
+litteris tuis memoriam admixtam cernere, Domini <persName key="kinn013">Aloysij Kinnerj</persName>, cum quo non est infrequens mihi litterarum commercium; exspectauj a mense, exemplar libellj sui, quae mora causa fuit, tam serae scriptionis meae, tardiorisue responsi ad tuas. Eius viri Genius, Jngenium, Jndolesque per litteras mihi jnnotuit, quibus sua communicauit: aliunde nihilominus a discipulo quondam meo<note n="#2"/>, qui Mathematicas disciplinas Olomucij, in Morauia, ac Pragae docuit, de meliore nota commendatus fuerat. Silesius est, nobili ortus familia, vt eius lucubrationes docebvnt. credo <seg org="cum" resp="#AD" type="corr">eum</seg> Ecclesiasticam sortem meditari; Theologicis enim studijs dat operam. Quod Mezolabium vniuersale meditet, intellexerit jdem, a discipulo meo Patre Theodoro Moreto, cuj in delicijs est. Aduerto cogitationes tuas eo subinde, quoque ferrj: animos laudo; vtinam et addere augereque possem. Eadem mihi Sparta excolitur, longe tamen diuerso, ab ijs tenore, quos materiam jllam tractasse reperj.</p>
+<p>Problema Deliacum, censeo expedirj non posse, nisi Vniuersalis Mezolabij adminiculo. Conica Patris Claudij Richardj<note n="#3"/> necdum prodiere, sudant nihilominus sub praelo; scilicet primi quatuor libri. Virum ex Hispania Deo fauente post trimestre exspecto; qui de materia residuorum Apollonij librorum, quae Hinc jnde collegit, publici juris faciet, per eundem Typographum. Sed quo fine Clarissimus Golius, Vester, Apollonianos Manes, tam arcta premit arcula, quasi auiculam pixide inclusam conseruans? quis Jllo aptior censerj potest, qui Apollonij Scripta posteritatj tradat? vtinam aliquid momentj authoritas mea apud Clarissimum jllum virum jnuenire posset. Verum tibi non desunt, quorum authoritatis pondus, atque momentum, apud eundem jmperij locum habere queant. Telescopiorum tractationem tuam, libenter si mihi tantisper vita superstes fuerit perlegam, cum in lucem prodierit;
+modo in principijs a placitis Descartianis discrepare aduertam; quae mihi non parum displicent, jmo jmprobantur. Jn omnibus raro quisque, aeque felicj successu fruitur. Vale Vir Clarissime, quem ita [?] annare opto, vt aeternum perennare valeas.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandauj</placeName> <date>15. Januarij 1654</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

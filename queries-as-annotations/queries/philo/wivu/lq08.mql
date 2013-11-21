@@ -1,0 +1,28 @@
+// This query looks for clauses with an infinitive absolute in the role
+// of object. See Gesenius-Kautzsch 113d.
+
+// ident @(#)lq08.mql	1.1 04/02/27
+
+select all objects where
+
+[clause
+   [phrase function = Objc
+      [word verbal_tense = infinitive_absolute]
+   ]
+]
+
+go
+
+// We allow for a second form in which the infinitive absolute is the
+// predicate of an object clause. This parsing is required if the
+// infinitive has an object or a complement.
+
+select all objects where
+
+[clause clause_constituent_relation = Objc
+   [phrase function = Pred
+      [word verbal_tense = infinitive_absolute]
+   ]
+]
+
+go

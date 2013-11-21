@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2209"/>
+<meta type="date" value="1680-01-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2209">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 11 Jan. 1680.</p>
+</div>
+<p>Depuis ma derniere<note n="#2"/> j'ay esté malade tout de bon l'espace d'un mois entier, qu'il a falu garder la chambre. Monsieur Galois pendant ce temps m'estant venu voir, je luy recommanday vos affaires, et je le trouvay de luy mesme fort disposè a vous procurer du bien<note n="#3"/>, m'assurant qu'il n'obmettroit point d'occasion pour cela et qu'il avoit mesme conceu quelque moyen pour l'effectuer. Je n'avois pas encore
+receu alors vostre penultime, ou estoit le second morceau de vostre composition, de sorte que je ne luy ay pas proposè l'expedient au quel vous aviez pensé de solliciter vostre affaire sous un nom inconnu<note n="#4"/>. Mais je ne suis pas aussi d'avis d'en parler, parce que je sçay fort bien le mechant effect que cela feroit aupres du patron s'il venoit par apres à le connoistre.</p>
+<p>Je vous rends graces de la recrue<note n="#5"/> du phosphore, et des nouvelles instructions. Mais j'ay a vous dire que je les ay pratiquees en vain, car ni la poudre a canon ni deux papiers frottez l'un contre l'autre apres les avoir imbus de cette composition, n'ont jamais voulu s'allumer quelque fortement que j'aye appris<note n="#6"/>. Je n'ay rien produit que bien de la fumeur et de l'odeur assez mal agreable au nez. Cela fait que je m'estonne de ce que vous me mandez d'avoir bien reussi a cette experience, et il faut qu'en chemin la vertu de la drogue ait diminué, car assurement la poudre que j'ay emploiée estoit bonne, fine et seche.</p>
+<p>Pour ce qui est des effects de vostre characteristique je vois que vous persistez a en estre persuadè, mais, comme vous dites vous mesme, les exemples toucheroient plus que les raisonnements. C'est pourquoy je vous en demande des plus simples, mais propres a convaincre mon incredulité, car celuy des lieux, je l'avoue, ne me paroit pas de cette sorte. Ce que vous promettez des tangentes sur des equations embarassees de racines me paroit beau, mais voions aussi de cela s'il vous plait un petit exemple, ou marquez seulement l'equation de la courbe et le dernier resultat du calcul qui donne la construction de la tangente<note n="#7"/>. Touchant ce que vous me demandez a l'egard du raisonnement de Mr. <persName key="desc004">des Cartes</persName>, ou il explique les refractions, je vous diray que je n'en ay jamais estè satisfait, par plusieurs raisons trop longues a mettre icy. Mr. <persName key="ferm011">Fermat</persName> pour prouver la mesme regle qu'avoit donnee des Cartes, suppose que le rayon de lumiere doit emploier le moins de temps qu'il est possible, et de plus que ce rayon chemine plus lentement dans le verre ou l'eau que dans l'air. Mais moy, je ne suppose que ce dernier et dela je demontre la mesme regle des refractions, et aussi cette proprietè que le rayon emploie le moindre temps<note n="#8"/>. L'irregularitè que Mr. <persName key="newt011">Newton</persName> a remarquè aux refractions nuit plus aux lunettes a mon avis que le defaut qui accompagne les verres spheriques a cause de la figure.</p>
+<p>Pour les moulins a vent que vous avez en vue d'emploier pour vuider l'eau des mines, je crois que cela est pratiquable, et que la chaisne avec des seaux est le meilleur moyen. Mais la profondeur de 100 toises est bien grande et c'est à vous
+a examiner si la richesse des mines peut recompenser les fraix de ces machines qui comme vous sçavez coustent beaucoup. Je me souviens qu'un Seigneur Escossais m'a dit autrefois qu'avec de chaines comme cela il vuidoit l'eau de ses mines de charbon, qui n'avoient pas moins de profondeur que celles dont vous parlez. Il me semble pourtant qu'il n'y emploioit que des chevaux, ce qui devoit aller bien lentement. La description de mon niveau sera mise dans le Journal qui suivra celuy de lundy prochain<note n="#9"/>, et je vous l'envoieray dez qu'elle sera imprimée. Je vous souhaite une heureuse année et demeure etc.</p>
+</div>
+</body>
+</text>
+</TEI>

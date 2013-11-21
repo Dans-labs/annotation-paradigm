@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0330"/>
+<meta type="date" value="1656-09-02"/>
+<meta type="sender" value="colv001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0330">
+<div type="opener">
+<p>Clarissime Vir,</p>
+</div>
+<p>Bina Lentium paria, Domino <persName key="page011">Pageto</persName> et mihi destinata, iam dudum est, quod accepimus. Haesimus ambo per aliquot dies Amstelodami, ego inaugurationis filij mei<note n="#1"/> gratiâ; quae facta 20 Augusti in Ecclesia Gallo-Belgica Amstelodamensi. Statim à reditu meo tubum confici curavimus, adjuvante nos Kalthovio. Tantum
+die Lunae aut Martis proximâ ejus experiundi dabitur copia. Haec est caussa quod tàm tardé tibi agimus gratias, majores post experimenta acturi, pro tàm magnifico dono, per quod aulas caeli poterimus inspicere. quod si fortè aliquid deficiat, ob incuriam Tubi-tactoris, ad te tuamque benevolentiam nobis recurrendum erit. Et haec etiam erat caussa nostri silentij. Amstelodami emi Telescopij historiam<note n="#2"/> à P. Borello<note n="#3"/> conscriptam cui additae sunt observationes tuae saturninae. Quis ille author sit nescio. Excerpta plurima sunt ex alijs authoribus. A te majora, procul dubio, prodibunt. Deus te conservet per multos annos, in nostri saeculi et nationis decus.</p>
+<p>Vale praestantissime Domine, et me semper ama.</p>
+<div type="closer">
+<p><placeName key="dordr001">Dordraci</placeName> <date>2 Sept. 1656</date>.</p>
+<p>Tuus omni officio</p>
+<p><persName key="colv001">A. Colvius</persName>.</p>
+</div>
+<p>Salutat te Dominus <persName key="page011">Pagetus</persName>, et debito tempore gratias acturus.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Huijgens, van Zulichom</persName>.
+<lb/>S' Graven-Haghe.</p>
+</div>
+</body>
+</text>
+</TEI>

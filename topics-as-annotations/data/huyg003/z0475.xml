@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0475"/>
+<meta type="date" value="1658-03-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0475">
+<div type="opener">
+<p><date>22 Mart. 1658</date>.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+</div>
+<p>Vera, egregia, et ingeniosa est ultima haec <hi rend="i">ἀπαγογὴ</hi> tua et plane perspicua. praecedens verò meritò a me condemnata: neque enim adducor ut credam brevitatis studio te <hi rend="i">rationem eandem</hi> pro <hi rend="i">aequè nota</hi> scripsisse. Nimium bene nosti quam longe diversum haec sonent apud geometras, nec sciens volensque otio meo tuoque voluisses abuti. Sane Aequationum comparatione quam me quaerere voluisti reperta non propterea minus falsa tua assertio mihi visa fuisset. Illam verò quaerere supervacaneum erat, quoniam jam alia breviori via <hi rend="i">ἄτοπον ϰαι ἀδύνατον</hi> esse theorema tuum animadverteram. Nempe citra ullam solidi ex secunda linea orti contemplationem, inveneram prioris lineae aream dimidiam esse circumscripti circuli.
+<figure><graphic url="huyg003oeuv02ill82.gif"></graphic></figure>
+ideoque non esse ad circumscriptum ▭ lum, sicut circulus ad circumscriptum quadratum, quod ex tua sententia sequebatur. Sciebam itaque data ratione curvae hujus datam fore circuli quadraturam, ac praeterea illi rationi similem esse sciebam rationem cylindri ad inclusum curvae posterioris solidum. Ergo illud quoque non ignorabam aequè notam esse rationem circuli ad ambientem quadratum, atque dicti solidi ad dictum cylindrum. Sed hoc te intelligi voluisse cum eandem esse rationem diceres nonquam mihi in mentem venit. Neque enim certus eram te errare non posse. ut ut summa quaeque de ingenio ac perspicacia tua sentirem. Sed jam nimius in his sum, quae tamen planè omittenda non videbantur, ne culpam longè gravissimam temerariae reprehensionis levem ducere viderer aut subirem immeritus. De Cissoidis solido infinito quod me doces insigne est admodum uti et tota haec methodus comparandi inter se solida. Num vero et aliam quandam hujus lineae proprietatem adhuc elegantiorem animadverteris rogo ut me certiorem facias. Nam si ignoras; pro tua illa hanc tibi rependam. Vale vir nobilissime, meque eodem semper affectu credas</p>
+<div type="closer">
+<p>Tui observantissimum.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1968"/>
+<meta type="date" value="1673-08-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1968">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 10 Aoust 1673.</p>
+</div>
+<p>Hier on me dit pour tres asseuré que la milice Angloise estoit retournée et debarquée en Angleterre, d'ou je puis bien juger que l'alarme qu'on a eu chez nous n'aura pas durè longtemps<note n="#1"/>. Asseurement ils n'auroient pas trouvè leur compte de tenter la descente tant que Monsieur de Ruyter avec la flotte estoit la aupres et en estat de les combattre et je crois qu'il a fait fort sagement de se tenir dans le poste avantageux ou il estoit.</p>
+<p>Je felicite ma soeur de ce qu'elle en a estè quite pour la peur, derriere sa Pingue<note n="#2"/>, aussi c'auroit esté un coup trop malheureux qui l'auroit choisi parmi ce grand nombre de monde. Comment vont ses autres affaires?<note n="#3"/> Je prens en quelque façon pour bonne nouuelle quand on ne m'en mande rien; mais je voudrois une fois les voir terminees.</p>
+<p>Le nouveau traitè<note n="#4"/> dont vous parlez a estè aussi tost sceu icy, par quelques lettres interceptées a ce qu'on dit.</p>
+<p>Apparemment cela n'avancera pas la paix, a la quelle il me sembloit que les choses se disposoient. Mais je veux croire que vous autres Patres conscripti ne resolvez rien qui ne soit bien et a l'avantage de la patrie.</p>
+<p>J'ay envoiè vos chapeaux par Anvers. Vous ne m'avez pas mandè de quelle sorte vous les desiriez, c'est pourquoy j'ay pris un castor et un vigogne, pour la somme de 28 livres avec l'estuy. Ils devoient partir hier.</p>
+<p>Apres demain je dois tenir au baptesme un enfant de Monsieur Romf. Si j'avois
+pris avec moy l'eguière et bassin d'argent que Mon Pere me donna a mon dernier voiage cela me serviroit maintenant a en faire quelque pillegift<note n="#5"/>. car a dire la veritè je n'abonde point en finance a cause de quelque frais extraordinaires qu'il a fallu faire<note n="#6"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

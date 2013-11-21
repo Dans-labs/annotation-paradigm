@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0348"/>
+<meta type="date" value="1656-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="guts001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0348">
+<div type="opener">
+<p>S.D.</p>
+</div>
+<p>Ainscomij Expositionem in Quadraturas Patris à Sto Vincentio te vidisse non dubito, Vir Clarissime, atque inspexisse ea quibus ex professo Exetasin meam eo in libro lacessivit. Quare et hanc responsionem nostram tibi exhibendam credidi, ne bonam causam tacendo me deseruisse existimares. Nam de Exetasi quid sentias, etsi ex te ipso intelligere mihi non contigit, saepius tamen ex aliorum relatu comperi te quamoptimè sentire<note n="#1"/>. Quod tuam quoque inter caeteras autoritatem<note n="#2"/> in epistola ista<note n="#3"/> adhibui, quam adversario opponerem, id spero te non invito me fecisse. Imo tua referre arbitror ut sciant eruditi vanissimis commentis nunquam te assensum praebuisse. Vale.</p>
+<p>Alterum horum Exemplarium quaeso ad Dominum <persName key="tacq001">Tacquetum</persName> deferri cures.</p>
+</div>
+</body>
+</text>
+</TEI>

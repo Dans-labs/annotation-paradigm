@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1534"/>
+<meta type="date" value="1666-04-19"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="beri006"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1534">
+<div type="opener">
+<p>A Monsieur <persName key="beri006">De Beringhen</persName>.</p>
+<p lang="fr">A <placeName key="denha004">la Haije</placeName> ce 19 Avril 1666.</p>
+<p>Monsieur;</p>
+</div>
+<p>Quelqu' asseurance et quelques preuues que j'aije de vostre bonne volonté enuers moij et les miens, je ne puis m'empescher de vous recommander le Pelerin<note n="#1"/> qui vous rendra ce mot. Il n'est pas le plus cher de mes enfants, car je les aijme esgalement: Mais j'aij accoustumé de le nommer le plus precieux de touts, et je doibs croire que le Roij en ayant ouij parler ainsi a eu la bonté de me le faire
+demander
+par Monsieur <persName key="colb012">de Colbert</persName><note n="#2"/> en des termes si benings et si obligeants, que j'aij trouué ne m'ij pouuoir opposer de bonne grace. Cependant la tendresse de mon coeur est telle, que je doibs vous confesser à vous, Monsieur, qui sçauez que c'est d'estre Pere, que c'est auec beaucoup de ressentiment que je me voij priué auant mourir de la conuersation de ce garçon que j'aij subjet d'estimer à un haut point, pour les excellentes qualitez dont Dieu l'a douë, et qu'il couure toutes soubs une modestie qui ne vous deplaira pas. Je sçaij toutefois, qu'un vraij Pere doibt preferer le bien de ses enfans à sa propre satisfaction, et tasche de prattiquer cela auec le plus de constance, que la Pieté et la Philosophie me peuuent suggerer. Il me reste, Monsieur, de prier mes amis, de considerer ce jeusne estranger comme l'enfant d'un Pere qui est tout à eux. J'ose vous en parler ainsi, à Monsieur le Marechal de Grammont<note n="#3"/>, et a Monsieur de Lionne<note n="#4"/>. Obligez moij, s'il vous plaist, de n'estre pas mal volontiers de la partie. Ce sera un grand surcroist
+des obligations que je vous aij, et dont je tascheraij tousiours de m'acquitter en vous tesmoignant par mes seruices et à tous ceux qui ont l'honneur de vous appartenir que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

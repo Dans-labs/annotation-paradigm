@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2055a"/>
+<meta type="date" value="1675-09-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="thur013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a2055">
+<p>A la recomma[n]dation de Madame Colbert je donne permission au S. Thuret de fabriquer faire fabriquer en son nom vendre et debiter les montres de mon invention avec le ressort en spirale appliquè au balancier; à la charge d'y mettre la marque que j'ay establie pour cet effect suivant le privilege que le Roy<note n="#2"/> m'a accordè. fait a Paris ce vintuniesme Septembre 1675<note n="#3"/>.</p>
+<div type="closer">
+<p><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

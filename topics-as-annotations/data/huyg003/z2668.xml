@@ -1,0 +1,130 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2668"/>
+<meta type="date" value="1691"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2667"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2668">
+<p>Chifre envoiè à Mr. <persName key="leib013">Leibnitz</persName> le 26 Mars 1691<note n="#4"/> et à Mr. <persName>De Beauval</persName><note n="#5"/> le 27 Mars.</p>
+<div type="section">
+<head rend="h4">I<hi rend="sup">e</hi> Partie.</head>
+<p><table>
+<row>
+<cell></cell>
+<cell>s.c.a.p.s.s.e.f.ae.u.a.g.c.q.c.s.i.e.a.</cell>
+<cell>Si catena ad parietem suspensa sit ex filis aequalibus, utrimque annexis, gravitate carentibus, quarum capita sint in eadem altitudine, <hi rend="i">deturque angulus inclinationis filorum et catenae positus</hi><note n="#6"/><hi rend="i">:</hi></cell></row>
+<row>
+<cell></cell>
+<cell>d.a.i.f.e.c.p. <hi rend="i">hae 7 literae desunt in Leibnitziano</hi>, <hi rend="i">additae in Beauvallino</hi>.</cell>
+<cell></cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>1.</cell>
+<cell>p.i.t.i.d.q.c.p.</cell>
+<cell>Possumus invenire tangentem in dato quolibet catenae puncto<note n="#7"/>;</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>2.</cell>
+<cell>r.ae.c.v.c.e.p.</cell>
+<cell>rectam aequalem catenae vel cuilibet ejus portioni;</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>3.</cell>
+<cell>r.c.i.v.</cell>
+<cell>radium curvitatis in vertice.</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>4.</cell>
+<cell>c.ae.s.c.e.r.c.c.a.</cell>
+<cell>circulum aequalem superficiei conoidis ex revolutione catenae circa axem;</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>5.</cell>
+<cell>c.e.l.l.c.e.c.c.d.</cell>
+<cell>constructionem et longitudinem lineae, cujus evolutione curva catenae describitur<note n="#8"/>;</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>6.</cell>
+<cell>m.s.c.e.p.c.</cell>
+<cell>mensuram sectoris cui evoluta pro centro.</cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">II<hi rend="sup">e</hi> partie.</head>
+<p><table>
+<row>
+<cell>p.c.i.p.p.q.c.a.h.
+<lb/><hi rend="i">xxyy</hi>=<hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">aayy</hi>
+<lb/><hi rend="i">xxyy</hi>=4<hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">x</hi><hi rend="sup">4</hi>.</cell>
+<cell>Puncta catenae inveniri possunt posita quadratura curvae alterutrius harum:
+<lb/><hi rend="i">xxyy</hi>=<hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">aayy</hi><note n="#9"/>, <hi rend="i">xxyy</hi>=4<hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">x</hi><hi rend="sup">4</hi><note n="#10"/>;</cell></row>
+<row>
+<cell cols="2"></cell></row>
+<row>
+<cell>v.d.d.c.g a.a.i.p.c.p.
+<lb/><hi rend="i">Hoc in gryphis quos dedi deest</hi>.</cell>
+<cell>(vel data distantia centri gravitatis ab axe in portionibus curvae prioris<note n="#11"/>. <hi rend="i">hoc in gryphis quos dedi Leibnitzio et Beauvallio non est additum sed postea per literas</hi><note n="#12"/> <hi rend="i">ad Leibnitsium misi</hi>.</cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">III<hi rend="sup">e</hi> partie.</head>
+<p><table>
+<row>
+<cell>1.</cell>
+<cell>s.u.a.c.t.a.p.a.q.i.a.e.d.c.p.e.v., i.s.t.i.c.c.<note n="#13"/> a.a.q.<note n="#14"/> i.a.a; e.e.h.c.ae.i.a.c.c.a.a.; h.i.p.a.p.d.d.t.c.i.i.h.p.</cell>
+<cell>Si, ut axis catenae totius ad partem axis quae inter applicatam ex dato catenae puncto et verticem, ita sit tangens in capite catenae<note n="#15"/> ad aliam, quae huic ipsi applicatae addatur; et ex his compositae aequalis inclinetur a capite catenae ad axem<note n="#16"/>, huic inclinatae parallela a puncto dato ducta, tanget curvam in ipso hoc puncto. <hi rend="i">vid. pag.</hi> 87<note n="#17"/>.</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>2.</cell>
+<cell>u.t.i.c.c., d.a., e.a.a., i.s.a.d.c.l.</cell>
+<cell>Ut tangens in capite catenae, demta applicata, est ad axem, ita subtangens ad dimidium catenae longitudinem. <hi rend="i">vid. p.</hi> 82 <hi rend="i">et</hi> 87<note n="#18"/>.</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>3.</cell>
+<cell>a.i.q.a.a.r.c.i.v.</cell>
+<cell>Atque ita quoque applicata ad radium curvitatis in vertice. <hi rend="i">vid. ibidem</hi><note n="#19"/>.</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>4.</cell>
+<cell>s.c.c.e.c.r.c.a.ae.e.c.c.r.e.m.p.i.d.r.c.i.v.e.p.a.q.i.v.e.t.</cell>
+<cell>Superficiei curvae conoidis ex catenae revolutione circa axem aequalis est circulus cujus radius est medius proportione inter duplum radium curvitatis in vertice et partem axis quae inter verticem et tangentem. <hi rend="i">vid. pag.</hi> 16<note n="#20"/>.</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>5.</cell>
+<cell>u.r.e.a.e.d.i.t.e.a.a.q.s.i.<hi rend="i">r.c.i.v.</hi><note n="#21"/> a.c.c.e.c.d.</cell>
+<cell>Ut rectangulum ex applicata et differentia inter tangentem et applicatam ad quadratum subtangentis, ita <hi rend="i">radius curvitatis in vertice</hi><note n="#22"/> ad curvam cujus evolutione catena describitur. <hi rend="i">vide pag.</hi> 17<note n="#23"/> <hi rend="i">ubi patet evolutam CR aequari rectae AW</hi>, <hi rend="i">positis proportionalibus CA</hi>, <hi rend="i">AI</hi>, <hi rend="i">AW. Est autem AI</hi>=<hi rend="i">curvae seu AK</hi>.</cell></row>
+</table></p>
+<p><figure><graphic url="huyg003oeuv10ill15.gif"></graphic></figure></p>
+<p><table>
+<row>
+<cell cols="2"></cell>
+<cell><hi rend="i">Unde AW seu CR</hi> = <hi rend="i">cc</hi>/<hi rend="i">r</hi>. <hi rend="i">Est autem r seu radius curvitatis</hi> = <hi rend="i">ad</hi>/ <hi rend="i">b</hi>-<hi rend="i">a</hi><note n="#24"/> <hi rend="i">ut videre est pag</hi>. 87. <hi rend="i">Itemquec</hi>=<hi rend="i">ds</hi>/<hi rend="i">b</hi>-<hi rend="i">a utibidem. Unde sit cc</hi>/<hi rend="i">r</hi> = <hi rend="i">dss</hi>/ <hi rend="i">ab</hi>-<hi rend="i">aa ut in hac</hi> 5<hi rend="sup">a</hi> <hi rend="i">proportione</hi>.</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>6.</cell>
+<cell>s.c.e.p.c.e.ae.r.e.l.c.d.e.c.e.s.e.e.s.r.c.i.v.</cell>
+<cell>Sector cui evoluta pro centro est, aequatur rectangulo ex longitudine catenae dimidia et composita ex sextante evolutae et semisse radii curvitatis in vertice. <hi rend="i">vid. pag.</hi> 17<note n="#25"/>.</cell></row>
+</table></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

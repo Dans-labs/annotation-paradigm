@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LVI"/>
+<meta type="date" value="1671-09-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="albe083"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LVI">
+<div type="opener">
+<p>29 Sept. 1671</p>
+<p>Pour M. le duc <persName key="albe083">de Chevreuse</persName>.</p>
+</div>
+<p>AC, AG ∞ 2/3 AB. CZ vel EG [il y a deux lettres G dans la figure] ∞ 1/13 EF vel CG. BD ∞ 1/6 AB.</p>
+<p><figure><graphic url="huyg003oeuv22ill20.gif"></graphic></figure></p>
+<p>Quaeritur momentum gravitatis particulae HK respectu axis DL, comparatum cum momento partis OLNFME [il y a deux lettres L dans la figure]. Respondeo proximè ut 5384 ad 72344 salvo errore calculi.</p>
+<p>Solida ex circumvolutione sunt inter se ut momenta gravitatis<note n="#1"/>. Ut sciatur in qua ratione planum ECI secet sphaeram AB, quaeroarcum cujus subtensa AC, tum ejusarcus triplum, tum hujus tripli arcus subtensam dimidiam, quam ponendo ab A ad O, fit NB [il y a deux lettres N dans la figure] ad BO ut sphaera AB ad portionem EIB, ut constat ex solutione problematis hujus de sphaerae sectione in data ratione, quam dedi cum theorematibus de Circuli magnitudine<note n="#2"/>.</p>
+<p>AB 100000 AC 66666 ½ AC 33333 s.[sinus] 19.28`<hi rend="sub">3</hi>/58.24. s. 85128 AO.</p>
+<p><figure><graphic url="huyg003oeuv22ill21.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

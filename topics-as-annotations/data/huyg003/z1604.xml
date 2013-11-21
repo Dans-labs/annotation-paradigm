@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1604"/>
+<meta type="date" value="1667-10-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1604">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 7 Octobre 1667.</p>
+</div>
+<p>Ne manquez pas je vous prie de me dire comment vostre Campanine<note n="#1"/> a reussi. J'en ay bonne esperance depuis que je scay que vostre Menard polit de la bonne maniere. Il faut que l'ouuerture du diafragme entre les oculaires soit de cette
+<figure><graphic url="huyg003oeuv06ill28.gif"></graphic></figure>
+grandeur icy si vos oculaires sont aussi bons que ceux de la veritable Campanine de la quelle j'ay pris soigneusement toutes les mesures.</p>
+<p>Je vous renvoie vostre petite lentille que je trouue d'egale bontè avec la miene, de sorte que le poli ne semble pas l'avoir gastée de rien. Ie ne m'estonne pas que vous n'ayez pu faire bien tourner la petite forme apres l'avoir enchassee dans une autre piece de bois, car cela est impossible, et vous devriez pour bien faire ne vous point servir de bois mais faire une vis au derriere de la forme pour l'attacher sur le tour, comme je faisois a celuy de ma table. Pour la convexitè de vostre lentille il est vray qu'elle est tant soit peu moindre que de celles que j'ay faites dans la forme de fer, ce qu'il faut attribuer au changement qui est arrivè a celle de cuivre qui s'est usée par le travail.</p>
+<p>I'ay estè dans la rue S. Iacques a toutes les boutiques demander l'Aldrovandus<note n="#2"/> que Monsieur Bischop souhaitte. mais je n'ay pas trouuè seulement un libraire qui le<note n="#3"/> cogneust. Monsieur de Carcavy m'assure qu'il l'a quelque part parmy ses livres qui sont entassez les uns sur les autres dans une chambre ceans faute de place. mais il ne faut pas esperer qu'il s'en veuille defaire, et moins a cet heure qu'il scait qu'il est rare, car il estoit avec moy quand je le cherchay chez les libraires. I'ay donnè commission a quelques uns de me le procurer s'ils peuvent. Ie serois ravi de faire ce plaisir a Monsieur Bisschop, a qui je vous prie de faire mes treshumbles baisemains comme encore a Monsieur Heinsius.</p>
+<p>&nbsp;</p>
+<p>Fratri <persName key="huyg007">Zelemio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

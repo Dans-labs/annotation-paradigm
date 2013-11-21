@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0315"/>
+<meta type="date" value="1656-07-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="robe012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0315">
+<div type="opener">
+<p>A Mr. <persName key="robe012">de Roberval</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>20 Jul. 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je viens de recevoir vostre lettre du 6e de ce mois. Vous n'auriez pas estè si longtemps sans avoir des mienes si j'eusse eu quelque digne subject de vous entretenir: a moins de quoy je veux pas vous donner la peine de me respondre. Il y a quelques temps que j'ay quitè toute autre speculation pour m'attacher uniquement a cette matiere de la Percussion dont je pense vous avoir dite autrefois que des Cartes l'avoit traitèe si malheureusement. J'ay achevè mon petit ouvrage depuis peu de jours, par lequel je pretens de faire veoir qu'il n'a pas estè impeccable non plus dans la Phisique que dans la Geometrie. Je communiqueray à Monsieur <persName key="scho197">Schoten</persName> ce que vous m'avez escrit au long<note n="#1"/> pour prouver ce dernier, et apres l'avoir aussi examinè moy mesme je vous feray scavoir nos sentiments. Je tiens a beaucoup d'honneur que vous avez voulu faire connoistre mon nom à une assemblee si illustre, qu'a estè vostre auditoire. Quant à la veritè de ma relation touchant la lune de Saturne, j'espere que doresnavant vous ne l'aurez plus pour suspecte puis que ce n'est plus moy seul qui l'ayt veue. presque en mesme temps on s'en est appercu en Engleterre, et mesme remarque sa periode de 16 jours. <hi rend="i">C'est ce que le Professeur Wallis m'a escrit d'Oxford</hi>, <hi rend="i">et me le demonstre par l'explication d'une anagramme</hi><note n="#2"/><note n="#3"/> <hi rend="i">qu'il m'envoya aussi tost que je luy eus envoyè le mien</hi>, <hi rend="i">qui contenoit cette observation</hi>.</p>
+<p>Hevelius n'a pas d'assez bonnes lunettes pour veoir cette nouvelle estoile qui pourtant m'a aussi depuis peu envoijè une autre anagramme qui cache quelque nouveau phaenomene de Saturne. Je seray ravy de veoir vostre hypothese pour ce qui est des anses de cette planete, laquelle je suis bien assurè qu'il ne ressemblera pas à la miene, puis qu'elle ne souffre pas que Saturne fasse le tour sur son centre en si peu d'heures que la miene semble requerir.</p>
+<p>Un disciple du Pere Gregorius à Sancto Vincentio nomme Pere Ainscom m'a envoyè un traictè<note n="#4"/> dont il est autheur, lequel il oppose a tous ceux qui ont escrit contre la Quadrature dudit Pere Gregorius. J'ay estè fort faschè de veoir<note n="#5"/> dans ce livre une lettre de Monsieur <persName key="desc004">des Cartes</persName><note n="#6"/> qui vous fait injure aupres de ceux qui ne
+scavent pas que vous estiez si grands enemis. Quand je respondray à ce Jesuite je allegueray une lettre du mesme des Cartes dans la quelle il ne condamne pas seulement la dite quadrature mais d'avantage asseure que tout le grand volume du Pere Gregorius ne contient rien de bon qu'on ne scauroit mettre en une page ou deux. afin qu'ils ne se sient pas trop sur l'authoritè qu'ils opposent à la vostre. Je suis</p>
+<div type="closer">
+<p>Monsieur</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

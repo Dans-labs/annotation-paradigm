@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0019a"/>
+<meta type="date" value="1646-11-28"/>
+<meta type="sender" value="phil033"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0019">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ay bien reçu celles<note n="#1"/> dont il vous a plu me faire la faveur de m'escrire touchant Monsieur vostre fils, auquel Je tascherai par tous moyens à luy faire paroistre, tant par les heures particulières que Je luy donnerai que par tous autres services qu'il me sera possible à luy rendre, combien J'estime à honneur, les recommandations qu'il vous plaist me faire, esperant que vous en aures du contentement, ce qui me sera un plaisir extreme; comme Je desire d'estre passionnement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="phil033">J. Philemon</persName>.</p>
+<p><placeName key="breda001">Breda</placeName> <date>28 de IX bre. 1646</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur <persName key="huyg001">de Huygens Chevalier Seigneur de Zuijlichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2495"/>
+<meta type="date" value="1687-10-21"/>
+<meta type="sender" value="vege004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leeuw001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2495">
+<div type="opener">
+<p>de Lewarde ce 21/11 Octobre 1687.</p>
+<p>Monsieur</p>
+</div>
+<p>Depuis que ie nay eu l'honneur de vous veoir i'ay informé Monsieur <persName>de Freybergue</persName> de toutes les choses curieuses que vous auez eu la bonté de me dire. Cela lá engagé en escrire une fort honnest lettre dont ie vous en envoy un extrait<note n="#1"/> auec la tres humble priere que ie vous fais de sa part et de la mienne de vouloir satisfaire a sa curiosité et a la mienne, en nous apprenant ce que cest que ceste maniere de cheminée<note n="#2"/> dont la fumée semble navoir pas d'issuë. Nous vous supplions encore Monsieur de nous apprendre quand vostre liure des Academiciens<note n="#3"/> doit estre imprimé, et chez qui nous en pourions auoir des exemplaires, ce qui nous y sollicite est que nous nous promettons le plaisir, dy veoir les productions de vostre bel esprit, et les decouuertes que vous faites dans les secrets de la nature et de la science. Monsieur <persName>Freyberg</persName><note n="#4"/> comme vous le verrez souhaitte ardemment de veoir celuy qui par un dé plein de poudre [peut] faire lever 1600 ℔ de pesenteur ce qui luy paroist comme incroyable<note n="#5"/>.</p>
+<p>Je ne dois pas oublier que Monsieur <persName key="full003">Fullenius</persName> ma tres recommandé de vous faire ses tres humble baisemains. Et ie vous prie lors que vous verrez Messieurs d'Ablancourt et de Burnet<note n="#6"/> de les asseurer que iay beaucoup de respect et de veneration pour eux. Jay aussy pour vous les mesmes sentiments, puis que Je suis parfaittement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="vege004">Vegelin de Claerbergen</persName>.</p>
+</div>
+<p>P.S. On doit bien craindre qu'on n'attente a la vie de cest illustre Monsieur <persName>Burnet</persName> dans un siecle où les personnes injustement irritez ne font ny scrupule ny conscience de se seruir des scelerats pour faire un mauuais coup et en verité Monsieur il deuroit prendre guarde a luy de ne se hazarder pas a rentrer de nouit ny a manger chez des personnes quil ne connoist pas bien.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">de Huijgens Seigneur de Zulichem</persName> à la Haye.
+<lb/>par faveur de Monsieur le Professeur <persName>Tronchin</persName><note n="#7"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

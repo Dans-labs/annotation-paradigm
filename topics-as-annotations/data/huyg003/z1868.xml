@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1868"/>
+<meta type="date" value="1672-02-22"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1868">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 12/22 Fevrier 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>La vostre agreable du 13<hi rend="sup">e</hi> courant me fut rendue hier ayant bien de la joye de vous y trouuer en bonne sante. Estant presque las d'escrire, apres avoir transcrit
+moy mesme la lettre de Monsieur Sluse<note n="#1"/> touchant le Probleme d'Alhazen, à fin que vous l'eussiez correctement copiée, ie me trouue obligé de remettre a vne autre fois la responce aux particularitez contenues dans la vostre. Cependant vous accepterez l'imprimé cy-joint<note n="#2"/>; et puisque i'ay pris la peine de transcrire la lettre de Monsieur Sluse, vous ne vous rebuterez point de me mander vos pensees la dessus.</p>
+<p>Nos Messieurs pensent auoir trouué vne matiere pour le miroir de Monsieur Newton, capable d'un poli assez beau et uni, et la maniere de donner ce poli sans gaster la figure spherique. Et pour les autres inconveniens: ils sont tels, que l'advancement de cete sorte de Telescopes ne s'en accrochera point, i'espere. Et il y a un autre de nostre societé qui pretend d'auoir trouué vne voye de perfectioner les Telescopes etc. au dela (de beaucoup) de l'invention de Monsieur Newton<note n="#3"/>. Dont, peut estre, vous aurez des nouuelles plus particulieres cy-apres. Ces choses detournent Monsieur Smethwick<note n="#4"/> de sa facon de travailler des verres non-spheriques, comme il les appelle; croyant qu'il sera beaucoup surpassé par ces nouueaux pretendans. Le temps esclaircira tout. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestian Huygens de Zulechem</persName>, à la Bibliotheque du Roy à Paris.
+<lb/>38 β</p>
+</div>
+</body>
+</text>
+</TEI>

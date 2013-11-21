@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2695"/>
+<meta type="date" value="1691-09-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="voorb901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2695">
+<div type="opener">
+<p>Hofwijck à la Haye ce 4 Septembre 1691.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a 3 jours que je me donnay l'honneur de vous escrire une assez longue lettre. A peine une demie heure apres que je l'eus envoiée à la poste, je trouvay avec plaisir ce que jusques là je n'avois pu penetrer, scavoir la Reduction de la Construction de la Catenaria à la quadrature de l'Hyperbole, de sorte que je souhaitois fort de faire revenir ma lettre pour y adjouter cela, mais comme je demeure icy à ma maison de campagne, à une lieue de la Haye, le courier auroit estè parti devant que j'eusse pu contremander celuy que j'en avois chargè. Je n'ay donc pu m'empescher de vous escrire cette autre, non seulement pour vous epargner la peine de me montrer ce qui en cecy m'avoit semblè trop difficile, comme je vous en avois priè, mais aussi pour vous faire voir la Construction qui m'est venue, asin que je puisse scavoir si je n'ay pas tenu la mesme route que vous, Monsieur, dans cette recherche; ce que je croiray estre ainsi, si j'apprens que vous ayez rencontrè la mesme construction, devant que d'aller à la vostre par les Logarithmes. C'est une merveille comment quelque fois en un clin d'oeil on s'apperçoit de ce qu'on n'a sçu voir auparavant quoy qu'en estant fort proche.</p>
+<p>J'avoue qu'il y a eu du hazard et du bonheur à mon egard, et c'estoit beaucoup de sçavoir que la chose estoit possible: c'est pourquoy j'admireray d'autant plus vostre methode, si elle vous a conduit d'abord à faire cette decouverte, aussi bien que Mr. <persName key="bern071">Bernoulli</persName>, sans que vous sçussiez rien l'un de l'autre, quant à ce point de recherche. Ma construction est telle: que CS, RV se coupent à angles droits en B, qui soit le sommet de la Chainette, BC le parametre, à qui soit prise egale BM.
+Pour trouver la longueur de quelque appliquée AE à un point A dans l'axe, il
+<figure><graphic url="huyg003oeuv10ill39.gif"></graphic></figure>
+faut mettre CR egale à CA, et sur CR mener la perpendiculaire RS, qui rencontre l'axe en S. Puis appliquer ST à angles droits à l'axe BS de la Parabole BT, dont le sommet soit B, le foier M. Alors, si de la courbe parabolique BT on oste la droite RS, ou bien RT, qui est tangente de la parabole en T, le reste sera egal à l'appliquée AE<note n="#3"/>. Cette construction differe beaucoup de celle de Mr. <persName key="bern071">Bernoullij</persName> sans que je me puisse imaginer pourtant, par quelle autre voie la siene a estè trouvée hors celle que j'ay suivie.</p>
+<p>Ce seroit une belle chose qu'une methode pour connoitre, quand l'equation d'une Courbe est donnée, si sa dimension se peut reduire à celle de l'Hyperbole ou du Cercle, et j'avois cru que vous et Mr. <persName key="bern071">Bernoullij</persName> aviez eu quelque telle invention. C'est ce qui m'a fait faire bien du chemin en vain, sans m'appercevoir
+du veritable, qui est fort beau et sans beaucoup de detour, comme je crois que vous le scavez fort bien.</p>
+<p>Avant hier me vint voir icy le Sr. Weigelius<note n="#4"/>, professeur à Jena, qui m'entretint
+de ses grands desseins pour l'avancement des sciences et qui paroit extremement satisfait de certaines demonstrations qu'il pretend avoir de l'existence de Dieu et de la Providence. Je l'iray voir à la Haye, où il dit avoir un coussin rempli de ressorts et autres curiositez qu'il veut me montrer. Il dit qu'il a l'honneur de vous connoitre, depuis le temps que vous estudiez en mathematiques sous luy. J'aimerois bien mieux voir icy son disciple, a qui je suis etc.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Tres humblement</p>
+</div>
+<p>P.S. Devant que de fermer cette lettre, j'ay considerè les paroles de Mr. <persName>Bernoully</persName>, dans ce qu'il a donnè dans les Acta, touchant la Catenaria, où il dit: <hi rend="i">Hujus autem et praecedentis Constructionis demonstr ationem lubens omitto</hi>, <hi rend="i">ne Celeberrimo Viro primae inventionis palmam vel praeripiam</hi>, <hi rend="i">vel inventa sua super hac materia plane supprimendi ansam praebeam</hi><note n="#5"/>. D'où il semble qu'il avoit envoiè ses decouvertes à Mrs. de Leipsich pour vous estre communiquées. Car si son intention eust estè qu'elles fussent tenues secrettes, jusqu'à la publication generale, comment vous pouvoit il <hi rend="i">praeripere palmam primae inventionis</hi>, (de quoy il a cru se garder en ne decouvrant pas ses deux demonstrations) ou vous donner sujet de supprimer vos inventions. Je veux croire pourtant, puis que vous m'en assurez<note n="#6"/>, Monsieur que vous n'avez point vu la construction de Mr. <persName>Bernoully</persName>, devant que de donner la. vostre; mais il se pourroit qu'il seroit venu à vostre connaissance (puis que le memoire de Mr. <persName>Bernouilly</persName> estoit à Leipsich depuis le mois de Decembre et qu'il n'en avoit pas recommandè le secret) qu'il l'avoit à la quadrature de l'hyperbole; ce qui me paroist d'autant plus vraisemblable, que l'invention de cette construction ne semble pas dependre de vostre methode, mais d'une remarque particuliere qui ne s'offre pas facilement d'elle mesme. Il est vray aussi que lorsqu'au mois d'Octobre 1690<note n="#7"/> vous me racontastes sommairement vos decouvertes touchant cette courbe, vous adjoutiez <hi rend="i">supposita ejus constructione</hi>, de sorte que vous n'aviez pas encore alors cette construction. Vous auriez pu prevenir tous ces doutes, qui en tout cas ne vous peuvent pas faire grand tort, en donnant
+vos inventions sous la couverture du chifre, comme je vous l'avois conseillè plus d'une fois<note n="#8"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

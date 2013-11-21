@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1413"/>
+<meta type="date" value="1665-06-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gouf011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1413">
+<div type="opener">
+<p><persName key="gouf011">Duc de Roannes</persName>.</p>
+<p>le 3 Juin.</p>
+</div>
+<p>Il est vray que je suis tresmauvais correspondant<note n="#1"/>. je vous ay pourtant escrit 2 lettres<note n="#2"/> si je ne me trompe, et pour ce qui est des nouuelles de mon horologe j'ay creu qu'il n'estoit pas necessaire que je vous en donnasse puisque elles ont estè publiees dans le Journal des Scavants<note n="#3"/> que vous ne pouvez manquer d'avoir veu. J'en envoieray une<note n="#4"/> dans peu a Monsieur de Carcavi et a Monsieur de Montmor. de sa chaise Roulante. sur sa proposition de ma cariole.</p>
+</div>
+</body>
+</text>
+</TEI>

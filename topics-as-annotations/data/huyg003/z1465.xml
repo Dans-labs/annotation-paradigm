@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1465"/>
+<meta type="date" value="1665-09-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1465">
+<div type="opener">
+<p>A Monsieur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Excuses de ne l'avoir remerciè plustost de l'envoy des Philosophical Transactions. quil veuille envoier ma lettre<note n="#1"/> a Monsieur Moray. que j'ay receu ses lettres et celle d'Auzout imprimees<note n="#2"/> a Paris. Ie fais les mesmes souhaits pour la paix que luy. nulla salus bello.</p>
+</div>
+</body>
+</text>
+</TEI>

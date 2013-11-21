@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0788a"/>
+<meta type="date" value="1660-10-15"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="dati010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0788">
+<p>Dies decimus quartus nunc agitur, Vir Clarissime, quod Hugenii nostri Apologiam<note n="#1"/> ad Te misi<note n="#2"/>, una cum eius ad Serenissimum Principem Leopoldum ab Hetruria literis<note n="#3"/>. Postea Hugenius hinc in Gallias profectus est<note n="#4"/>, menses duos tresve domo abfuturus. Ante profectionem tradita illi a me est Serenissimi Principis epistola<note n="#5"/>, quam longe acceptissimam habuit, nec responsione sua fraudandam duxit, ut hic vides<note n="#6"/>. Golium nudius tertius in Vossianis aedibus habui obvium; cui aurem de Symbolis Pithagoricis Arabum denuo velli. Respondit libellum diu se frustra quaesivisse non sine magno labore: ac demum invenisse, ac describendum amico tradidisse. Nunc in eo se esse, ut Latinam Arabico exemplari addat versionem, qua confecta, se omnia in manus meas ad Te mittenda traditurum. Non desinam porro hominem urgere, ut promissi fidem liberet. Hugenius negat se quicquam luci commisisse, praeter Systema Saturni<note n="#7"/>, ac Circuli Quadraturam<note n="#8"/>, Dissertationemque de Pendulo<note n="#9"/>, quam auctiorem habet in promptu mox edendam<note n="#10"/>. Dioptrica etiam se brevi editurum pollicetur. Scripsit praeterea nescio quid libelli Mathematici vernaculo sermone<note n="#11"/>, quod Schotenius inter Opuscula sua Belgica<note n="#12"/> promulgavit. Plura proxime. Clarissimus Bullialdus nudius tertius<note n="#13"/> ex Galliis huc advenit, iter Gedanum moliturus, ut Hevelium conveniat. Vale, meum decus.</p>
+<div type="closer">
+<p>Dabam festina manu, <placeName key="denha004">Hagae Comitis</placeName> <date>MDCLX. a.d. XV. Octobris</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2618"/>
+<meta type="date" value="1690-09-06"/>
+<meta type="sender" value="gous001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2618">
+<div type="opener">
+<p><note n="#1"/>Monsieur</p>
+</div>
+<p>Je m'aquite avec un grand plaisir de la commission que mon Cousin<note n="#2"/> me donne de vous faire rendre sa lettre<note n="#3"/>; non seulement par ce que j'ay beaucoup d'estime pour luy, mais aussi par ce que vous estes celui de qui il tient une grande partie des choses qui m'obligent a l'estimer, &amp; que vous tenez un rang eminent dans la republique des lettres. Cette espece de commerce avec vous, Monsieur, me flatte agreablement, &amp; c'est ce qui m'oblige a vous prier de me vouloir addresser vos responses. Il ne me faut point d'autre suscription que celle de mon nom avec la qualité de ministre françois. Je ne croy pas auoir l'honneur d'estre connu de vous sinon par cette lettre, &amp; par une visite que j'ay eu l'honneur de vous rendre avec Monsieur <persName>d'Ablancourt</persName><note n="#4"/>, laquelle vous devez avoir oubliée. Cependant il y a peu de persones qui exaltent plus volontiers que je fais vostre rare savoir, &amp; j'en parle souvent a ceux qui ont quelque disposition pour le gouster. Avant que de sinir, Monsieur, je vous dirai ingenument que mon Cousin m'a fait part de ce qu'il touche dans sa lettre, et j'en prendrai occasion de vous supplier de me vouloir envoyer vostre reponse ouverte si elle ne parle d'autre chose plus secrete, Je vous en aura une grande obligation. Je suis,</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName>Gousset</persName>.</p>
+<p>a Dordrect le 6<hi rend="sup">e</hi> Septembre 1690.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christien Huygens de Zulichem</persName> chez Monsieur <persName key="huyg001">de Zulichem</persName>
+<lb/>a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

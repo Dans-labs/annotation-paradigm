@@ -1,0 +1,49 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1914"/>
+<meta type="date" value="1672-11-21"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1914">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 11 novembre 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>Lorsque la vostre du 27 septembre estoit sur le chemin de Paris à Londres, Monsieur Vernon estoit sur le chemin de Londres à Paris, de sorte que ie ne pouvois pas luy bailler la lettre, que vous auiez mise sous mon couvert pour luy. J'en feray ce que vous m'ordonnerez, ou en la gardant iusques à son retour en Angleterre, ou en vous la renvoiant à Paris.</p>
+<p>J'ay pris la liberté de communiquer à Monsieur Sluse les lignes de vostre lettre qui le touchent; le croiant estre si genereux, qu'il ne prendra pas en mauvaise part la franchise philosophique de ses amis, entre les quels ie vous crois estre au premier rang.</p>
+<p>Quant à ce que vous ditez des regles de Monsieur Wallis pour les Tangentes ie le conois si bien, que ie suis persuadé, que bien que Monsieur Fermat eut vne de ces methodes lá devant luy, qui soit semblable à la premiere des siennes, Monsieur Wallis pourtant se ne l'adtribueroit pas, si elle n'estoit purement de luy mesme et autrement deduite. Et quoyque Messieurs Sluse, Hudden et Roberval, et vous, ayez des methodes pour le mesme sujet, que vous ayez expliqueez à vos amis en particulier, elles ne sont pourtant pas encor conuës au monde. Vous n'ignorez pas, Monsieur, que par fois les bons Esprits, qui scauent et prennent le vray chemin pour descouvrir des veritez, s'y rencontrent heureusement ensemble, ce qui ne doit prejudicier à personne des Inventeurs.</p>
+<p>Monsieur Newton s'est encor plus amplement expliqué sur sa theorie des couleurs, à l'occasion de quelques objections, qu'vn scavant Anglois<note n="#1"/> y auoit fait contre. Peut estre, que cete explication sera imprimée dans peu de temps, pour donner occasion a d'autres encor de la considerer davantage<note n="#2"/>.</p>
+<p>Je vous envoye vn pacquet bien gros y ayant les Transactions de deux mois ensemble<note n="#3"/>; oú vous trouverez, entre autres choses, des Experiences sur la vipere
+repetées à Florence en faueur de Signor <persName key="redi901">Redi</persName><note n="#4"/>; comme aussi la responce de Monsieur Wallis<note n="#5"/> au livre de Monsieur Hobbes, qui porte le titre, <hi rend="i">Lux Mathematica</hi><note n="#6"/> etc. Monsieur Kersey<note n="#7"/>. fait imprimer icy vn Systeme d'Algebre en Anglois<note n="#8"/>. Monsieur Barrow fait imprimer<note n="#9"/> les 4 premiers livres d'Apollonius, auec ses demonstrations directes: Auxquelles Monsieur Bernhard<note n="#10"/> d'Oxford adjoustera les 3 posterieurs, tirez des deux manuscripts de cete université, asscavoir de Ben musa et d'Abdelmelech, bien meilleurs que l'Edition d'Eciles<note n="#11"/> et Borelli<note n="#12"/>, un de ces manuscripts estant mesme enrichi des notes d'Eutocius. A tout cela sera joint l'Archimede du mesme Barrow, auec vne trentaine de ses lecons mathematiques qui regardent ces sciences en general.</p>
+<p>Monsieur Boyle nous donnera bientost plusieurs petits Traitéz; de la Flamme et de l'Air; de la Positive ou Relative legerété des corps soubs l'Eau; de la Pression du ressort de l'Air sur des corps soubs l'Eau; auec vn Discours Hydrostatique contre quelques objections du Docteur More dans son Enchirid. Metaphysicum<note n="#13"/>.</p>
+<p>Nous sommes tres aises d'entendre, que vostre Traité des Pendules est enfin sous la Presse; esperants que vous ne manquerez pas de mettre aussi au public vos autres meditations, touchant la Dioptrique, le mouuement etc.</p>
+<p>Permettez moy de vous demander, si vous auez vû le traité de Signor <persName key="redi901">Redi</persName> <hi rend="i">de Figuris Salium</hi><note n="#14"/> que nous n'avons pas encor icy. Comme aussi, si le Discours
+de Monsieur Picard, de la mesure de la Terre<note n="#15"/> sera bien tost achevé d'imprimer en petit, puis qu'il n'y a pas moien de l'auoir en grand.</p>
+<p>Je vous envoye la phase de Saturne, come Monsieur Hevelius dit l'auoir veu le 19. octobre 1672. où il adjouste ces paroles;</p>
+<p>Ego Astronomis Parisiensibus necdum adstipulari possum, Saturnum omninò rotundum reverâ extitisse; concedo tamen, illis ita apparuisse, sed tubo breviori, 17 vel 20 pedum; tum Saturno in crepusculo existente. Nuper d. 19. Octobris, cum utique ob aëris summam injuriam fieri nequiverit, faciem Ejus Tubo 55 ped. sum contemplatus; annulus feré adhuc tenuior apparuit quam anno praeterito, prout ex adjuncto schemate videbitis.</p>
+<p>&nbsp;</p>
+<p>Saturnus observatus telescopio 55. ped.</p>
+<p>A 1672. d. 19 Oct. Gedani in 27<hi rend="sup">o</hi> ♓, et maximâ latit. Merid.</p>
+<p><figure><graphic url="huyg003oeuv07ill53.gif"></graphic></figure></p>
+<p>à Joh. Hevelio.</p>
+<div type="closer">
+<p>Je seray bien aise d'entendre vostre sentiment dessus cete remarque, qui suis
+<lb/>Monsieur
+<lb/>Vostre tres-humble et tres-obeissant serviteur <persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à
+<lb/>Paris.
+<lb/>46 β</p>
+</div>
+</body>
+</text>
+</TEI>

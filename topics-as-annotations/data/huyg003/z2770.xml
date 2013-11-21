@@ -1,0 +1,50 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2770"/>
+<meta type="date" value="1692-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2768"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2770">
+<p>Quaeritur punctum E, in logistica ubi maxima ejus curvitas; item radius EG et
+<figure><graphic url="huyg003oeuv10ill81.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure> punctum G, unde descripta circuli circumferentia sit maxima earum quae logisticam in E intus contingant: fit EL=√½<hi rend="i">aa</hi>; LN=½<hi rend="i">a</hi>; EG=3EN.</p>
+<p>EB logistica.</p>
+<p>QM asymptotos ejus.</p>
+<p>QE tangens EL perpendicularis ad asympt.</p>
+<p>QL=<hi rend="i">a</hi> subtang.; EN perp. QE; RK=<hi rend="i">a</hi>; EL=<hi rend="i">x</hi>; BM perpend. RB.</p>
+<p>LV=LN; KT=KM.</p>
+<p>Erunt puncta V, T ad logisticam oppositam cujus eadem asymptotos QM, sed subtangens erit ½<hi rend="i">a</hi>; quia omnes LV, KT etc. proportionales sunt aeque ac EL, BK, etc.<note n="#2"/>.</p>
+<p><figure><graphic url="huyg003oeuv10ill82.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p>Si autem BK=2EL [fig. 2] sit KT=4LV; unde si GH=2LV fit GL vel GK=½LK.</p>
+<p>&nbsp;</p>
+<p>Et quia eadem ratio LV ad GH quae LE ad KB erit subtangens logisticae VT ad subtang. logisticae EB ut LG ad LK<note n="#3"/>.</p>
+<p>&nbsp;</p>
+<list>
+<item>Ratio OB [fig. 1] ad BP:<hi rend="i">xx</hi>/<hi rend="i">a</hi>+<hi rend="i">a</hi> ad <hi rend="i">a</hi><note n="#4"/>.</item>
+</list>
+<p>&nbsp;</p>
+<list>
+<item>ratio BP ad NM:½<hi rend="i">a</hi> ad ½<hi rend="i">a</hi>+<hi rend="i">xx</hi>/<hi rend="i">a</hi>; heac secundum methodum</item>
+</list>
+<p>nostrum in libro de Evolutione curvarum<note n="#5"/>.</p>
+<p><table>
+<row>
+<cell>ratio OB ad NM sive EG ad GN:</cell>
+<cell>½<hi rend="i">xx</hi>+½<hi rend="i">aa</hi> ad ½<hi rend="i">aa</hi>+<hi rend="i">xx</hi></cell></row>
+<row>
+<cell></cell>
+<cell><hi rend="i">xx</hi>+<hi rend="i">aa</hi> ad 2<hi rend="i">xx</hi>+<hi rend="i">aa</hi></cell></row>
+</table></p>
+<p><figure><graphic url="huyg003oeuv10ill237.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

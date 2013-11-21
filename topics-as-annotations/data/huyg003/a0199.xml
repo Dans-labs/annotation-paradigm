@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0199a"/>
+<meta type="date" value="1654-10-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0199">
+<p>Eclipseos solaris quae hac contigit<note n="#1"/> aestate observationes mihi Praga mittuntur à Domino <persName key="kinn013">Kinnero</persName><note n="#2"/> atque invicem quae hisce in locis factae sunt exiguntur. Epistolam ipsius tibi ecce exhibeo, ut videas quam male de Universo Astronomiae studio ominetur, et an merito id faciat. Fieri enim potest ut perperam calculum subduxerint Romani Mathematici et à nostris dissentiant. In primis scire desidero an exacta fuerit Northollandi Rustici<note n="#3"/> praedictio quae in Astronomico ipsius opere<note n="#4"/> consignata est, quoniam summam in Eclipsibus istis diligentiam adhibuisse videtur. Ego cum nupera haec contingeret eram in Pago Spa, ubi solis conspectum nubila impediente, sed tenebras alioqui nullas animadvertimus. Credo apud vos quoniam serenus aer fuit non otiosos fuisse siderum spectatores. quare quidquid habes quaeso mihi impertire, ut Kinneri desiderio satisfaciam.</p>
+<p>Emi ante dies aliquot Introductionem Philosophiae<note n="#5"/> Domini Raey<note n="#6"/> recens ut
+videtur editam in qua caetera quidem egregie pro instituto sed de motu quod Regulas Cartesianas praeter primam omnes falsas esse nondum perspexerit miror. Ego longe alias regulas in ea materia inveni quarum demonstrationes jam scribere aggressus sum. Et omnino vera inveni quae de contemplationis hujus difficultate et momento Galileus prodidit dialogo<note n="#7"/> 4<hi rend="sup">o</hi>. pagina 264. 265. et pagina ante appendicem.</p>
+<p>Siquid adhuc novae rei in lucem is hic prodijt quod ad studia nostra pertineat aut si quid ipse memorabile reperisti aut ab alijs tibi missum est, ne mihi significare graveris. Item quam prope liber de locis Planis<note n="#8"/> ad umbilicum perductus sit et ante omnia ecquid prospera ipse valetudine perfruaris. Vale.</p>
+<div type="closer">
+<p><date>7 Octobris</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

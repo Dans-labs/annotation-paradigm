@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1650"/>
+<meta type="date" value="1668-07-11"/>
+<meta type="sender" value="peti033"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1650">
+<div type="opener">
+<p>Mercredy 11 Juillet 1668.</p>
+</div>
+<p>Ma santé ne me permettant pas encores de vous aller voir, J'enuoye scauoir des nouuelles de la vostre &amp; de celle de toute vostre Jllustre famille de Hollande que je vous prie d'asseurer tousjours de mes Respects. je vous supplye aussi de me faire la faueur de m'enuoyer vostre liure de Magnitudine Circuli<note n="#1"/> que Je nay point encores eu &amp; que je desirerois bien voir maintenant en gardant la chambre, Et si ma priere nest point jnciuile Je vous en demande encores vn pour vn jeune homme de condition de Mes amys qui est Monsieur de Garibal beaufrere de Monsieur de la renie<note n="#2"/>, qui ma dit lauoir cherché chez tous les libraires sans le pouuoir trouuer &amp; quun de ses amys lauoit asseuré que vous en auiez plusieurs &amp; que vous luy en auiez mesme donne vn. Ce questant je me promets de vous cette mesme grace 1<hi rend="sup">e</hi> pour Moy comme dit lespagnol. 2<hi rend="sup">e</hi> pour luy si vous en auez deux a donner. je ne vous parle pas de vostre cahier de ljnuention du pendule<note n="#3"/> quil desire aussi fort auoir. si vous en auez cest vn garson qui le merite. Je vous prie de croire que Je suis entierement a vous</p>
+<div type="closer">
+<p><persName key="peti033">Petit</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour
+<lb/>Monsieur <persName key="huyg003">Huygens</persName> rue viuien a la bibliotheque du Roy.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1537"/>
+<meta type="date" value="1666-05-07"/>
+<meta type="sender" value="limo010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1537">
+<p>Comme j'ay parlé<note n="#2"/> a Monsieur lambassadeur<note n="#3"/> de la bonté de vos lunettes, Monsieur, il a grand enuie de voir ce qui se pourra voir presentement, la lune est vn peu auancée<note n="#4"/> c'est pourquoy si dez ce soir il faisoit beau et que vous en eussies la commodité, son Excellence se rendroit ches vous à l'heure qu'il vous plairra; j'attendray vostre reponse, Monsieur, et je vous prie de croire que je suis</p>
+<div type="closer">
+<p>Vostre tres-humble et tres obeissant seruiteur <persName>Sainct Disdier</persName>.</p>
+<p>Vendredy 7.<hi rend="sup">me</hi> de may.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0521"/>
+<meta type="date" value="1658-09-28"/>
+<meta type="sender" value="vlie013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0521">
+<div type="opener">
+<p>Nobilissimis Viris <persName key="huyg003">Christiano</persName> &amp; <persName key="huyg008">Ludovico Hugeniis</persName> <persName key="vlie013">Janus Vlitius</persName> S.P.D.</p>
+</div>
+<p>En vobis tandem oden meam, jam dudum vobis destinatam<note n="#1"/>, Amicissimi Heroes, amanuensis vero inopia hactenus non descriptam: nam cum ad plures pertineat, singulis eam describere, nausea impedijt: quin etiam impossibile mihi sit, idem exemplar vel bis describere. Semper aliud atque aliud occurrit, quod tum praeferam prioribus cogitatis<note n="#2"/>. Tametsi nec multum id referebat, cum non artem, sed affectum meum ea testatum amicis reddere volui: quem si agnoscitis, ut facitis candidè, caetera susque deque habebo. Quod illustrem parentem, et Catsium<note n="#3"/> avunculum in transitu veluti libaverim tantum, id praestare putavi, quam gregarijs (si ita loqui licet) amicis tantos senes ascribere, aut parum de ijs dicere, qui integra volumina merentur. Neque eo ut excusetis dico, sed ut ne videat <hi rend="i">ὁ δεῖνα</hi>, neque intelligat eo opus esse. Valete, Fratres Suavissimi, et Vlitium vestrum amare pergite nominis vestri observantissimum.</p>
+<p>Dabam raptim e grabato, quo hactenus crus me astringit. <hi rend="sc">iii</hi> Kal. Oct. <hi rend="sc">cIɔIɔclviii</hi>.</p>
+<p>Si licet, Nucis nostrae epicedium, (nam eam et vidistis et delibastis puto) vel inspectum, vel non, Heinsio Heroi mittendum rogo curate. Si et Wallius vos visat, videat et Oden quatenus et ad se spectat, monitusque semel hoc agat. Valete.</p>
+</div>
+<div type="para">
+<p>Myn Heeren Myn Heeren Jonkheeren <persName key="huyg003">Christiaen</persName> ende <persName key="huyg008">Lodewyck Huygens van Zuylechem</persName>, &amp;c. Haghe et Breda.
+<lb/>IIII</p>
+</div>
+</body>
+</text>
+</TEI>

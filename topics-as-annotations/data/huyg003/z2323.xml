@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2323"/>
+<meta type="date" value="1683-09-28"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2323">
+<div type="opener">
+<p>Nobilissime Vir</p>
+</div>
+<p>En tandem prolixas satis nostri Tschirnhausij epistolas<note n="#1"/>, in eum credo finem exaratas, quo et tuum sibi et Collegarum, quin et Regis favorem conciliaret, et in dicaret, quid ad vasta illa studia sumptuum requiratur, quo sapientiae templa serena omnes possent intrare. Petijt à me, ut tibi has literas (negabat enim Cl. virum suam scripturam adeo expedite posse legere) describerem, id quod negotium libentissime et tui et Nob. amici gratia in me suscepi. Miraberis procul dubio praestantissima inventa, neque opem denegabis in ijs, quae in tua sunt potestate. Si quid meae preces possent apud te valere, idem amico Nob. oro. Tuam Ego nudius tertius accepi<note n="#2"/>, ex quibus favorem et animum erga ipsum intellexi. Plura vetat hora. Quare finem facturus meque teque Deo et tuae benevolentiae commendo.</p>
+<div type="closer">
+<p>Raptim Amstel. 28 Septemb. 1683.</p>
+<p>Tuus ad quaevis paratissimus Servus <persName key="gent015">Pet. à Gent</persName>.</p>
+</div>
+<p>Fac sciam brevi has tibi rite traditas esse.</p>
+</div>
+<div type="para">
+<p>Wel Edele Gebooren Heer Mijn Heer <persName key="huyg003">Christiaan Hugens, Hr. van Zulichem</persName>
+<lb/>In 's Gravenhage.</p>
+</div>
+</body>
+</text>
+</TEI>

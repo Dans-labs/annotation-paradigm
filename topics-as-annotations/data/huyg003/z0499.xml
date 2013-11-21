@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0499"/>
+<meta type="date" value="1658-07-19"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0499">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>19. Juillet 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous enuoye vn fueillet<note n="#1"/> de la part de celluy qui propose le problème de la Cycloïde, qu'il a adjousté a son premier escrit. Jl y en a aussi vn pour Monsieur <persName key="scho197">Schotten</persName> que je vous supplie de luy faire tenir &amp; de le saluer de ma part. Monsieur <persName key="mylo002">Milon</persName> qui me les a mis entre les mains vous presente &amp; a Monsieur <persName key="scho197">Schotten</persName> ses treshumbles baisemains. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

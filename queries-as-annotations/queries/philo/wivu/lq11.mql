@@ -1,0 +1,17 @@
+// This query tries to find constructions analogous to L@DA<AT L@<W.T
+// >ET-J@<;P D.@B@R in Jes 50:4. The goal here is to identify which
+// phrase type L@<W.T is most likely to have.
+
+// ident @(#)lq11.mql	1.1 04/02/27
+
+select all objects where
+[verse
+   [phrase
+      [word lexeme = "B" or lexeme = "K" or lexeme = "L"]
+      [word verbal_tense = infinitive_construct]
+   ]
+   [phrase]	// parallel to L@<W.T
+   [phrase
+      [word first lexeme = ">T" or lexeme = ">T=="]
+   ]
+]

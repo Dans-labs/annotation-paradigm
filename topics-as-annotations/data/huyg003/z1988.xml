@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1988"/>
+<meta type="date" value="1674-03-12"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1988">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 2 mars 1674.</p>
+<p>Monsieur</p>
+</div>
+<p>Voicy encor vne fois mon Journal<note n="#1"/>, que ie vous envoye pour acheuer vne centurie, et pour essayer, si ie suis capable de vous resveiller, qui me devez, pour parler franchement, cinq ou six lettres<note n="#2"/>. Vous semblez tout à fait oublier l'interest que vous auez dans la Societé royale, ou vous prenez en mauvaise part (ce que pourtant ie ne voudrois pas facilement croire) que l'un ou l'autre de ce corps lá prend la liberté de parler auec franchise de quelques particularitez, que vous mettez au public. Quoy qu'il en soit, vous pouuez estre assuré, que nos Messieurs ne manquent pas d'auoir la mesme estime qu'ils ont tousiours euë de vostre merite, et qu'aux occasions ils en rendent tesmoignage, qui ne peut que vous contenter.</p>
+<p>Je receus l'autre iour vne lettre de Monsieur votre Pere<note n="#3"/> de la Haye, qui me parle d'un certain chariot sans rouës et sans cahos, qu'on pretend mettre en pratique à Paris; et il dit auec cela, que le modelle de ce chariot vous en auoit fait esperer quelque chose; que cependant ce n'estoit pas traineau ny chose semblable: ce qui me rend le probleme assez estrange, et partant fort desireux de scauoir de vous les particularitez de sa structure, demeurant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tressobeissant serviteur <persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName> à la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

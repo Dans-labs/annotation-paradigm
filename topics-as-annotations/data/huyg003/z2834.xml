@@ -1,0 +1,69 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2834"/>
+<meta type="date" value="1693-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2833"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2834">
+<p><figure><graphic url="huyg003oeuv10ill187.gif"></graphic></figure></p>
+<p>AG=<hi rend="i">x</hi>; DG=<hi rend="i">z</hi>. AG:GC=1:<hi rend="i">θ</hi><note n="#2"/>; Bernoulio<note n="#3"/> AG est <hi rend="i">n</hi>. GC est 1</p>
+<p><table>
+<row>
+<cell>CG</cell>
+<cell></cell>
+<cell>DG</cell>
+<cell></cell>
+<cell>FG</cell>
+<cell></cell>
+<cell>GH</cell></row>
+<row>
+<cell><hi rend="i">θx</hi></cell>
+<cell>:</cell>
+<cell><hi rend="i">z</hi></cell>
+<cell>=</cell>
+<cell><hi rend="i">dx</hi></cell>
+<cell>:</cell>
+<cell><hi rend="i">zdx</hi>/<hi rend="i">θx</hi></cell></row>
+</table></p>
+<p><table>
+<row>
+<cell></cell>
+<cell><hi rend="i">θx</hi> GC</cell></row>
+<row>
+<cell></cell>
+<cell><hi rend="i">θdx</hi> ½ FG<note n="#4"/></cell></row>
+<row>
+<cell></cell>
+<cell>- - - - -s.</cell></row>
+<row>
+<cell></cell>
+<cell><hi rend="i">θx</hi>-<hi rend="i">θdx</hi> FB vel HB.</cell></row>
+<row>
+<cell></cell>
+<cell><hi rend="i">zdx</hi>/<hi rend="i">θx</hi> GH</cell></row>
+<row>
+<cell></cell>
+<cell>- - - - -a.</cell></row>
+<row>
+<cell></cell>
+<cell><hi rend="i">θx</hi>-<hi rend="i">θdx</hi>+<hi rend="i">zdx</hi>/<hi rend="i">θx</hi>GB, ex <hi rend="i">θx</hi>=GC, BC=<hi rend="i">θdx</hi>-<hi rend="i">zdx</hi>/<hi rend="i">θx</hi></cell></row>
+<row>
+<cell>CG GD</cell>
+<cell>BC</cell></row>
+<row>
+<cell><hi rend="i">θx</hi>:<hi rend="i">z</hi></cell>
+<cell>=<hi rend="i">θdx</hi>-<hi rend="i">zdx</hi>/<hi rend="i">θx</hi>:<hi rend="i">θzdx</hi>/<hi rend="i">θx</hi>-<hi rend="i">zzdx</hi>/<hi rend="i">θθxx</hi>BN=DE=0</cell></row>
+</table></p>
+<p><hi rend="i">zdx</hi>/<hi rend="i">x</hi>=<hi rend="i">zzdx</hi>/<hi rend="i">θθxx</hi>; <hi rend="i">θθxx</hi>=<hi rend="i">zx</hi>; <hi rend="i">θθx</hi>=<hi rend="i">z</hi>. Cum hoc ita est, tunc DE=0; hoc est inde tunc retrograditur curva per CV; quod semper fit cum ratio abscissae AG ad tangentem GC est majoris ad minus. Nunquam si contra.</p>
+<p><hi rend="i">θx</hi> tangens:<hi rend="i">θθx</hi> sive <hi rend="i">z</hi> subtangens=1:<hi rend="i">θ</hi><note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0074"/>
+<meta type="date" value="1650-02-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0073"/>
+<meta type="type" value="poem"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0074">
+<p>Epitaphe de M. <persName>Scarron</persName>,<note n="#1"/> pour M. <persName>d'Aumale</persName>.<note n="#2"/></p>
+<lg type="poem">
+<l>Cij gist et fait honneur aux morts</l>
+<l>Scarron le grand autheur burlesque;</l>
+<l>L'esprit qui fut tousiours grotesque</l>
+<l>Enfin s'est mocqué de son corps.</l>
+<l>&nbsp;</l>
+<l>Apres tant de rude souffrance</l>
+<l>Il s'est couvert d'un autre estuij,</l>
+<l>d'Aumale l'a logé chez luij,</l>
+<l>Qu'on ne le cherche plus en France.</l>
+<l>&nbsp;</l>
+<l>Mais las! destin puis que ta loij</l>
+<l>Depuis l'heure à Scarron fatale</l>
+<l>A mis son esprit dans Aumale,</l>
+<l>Que n'est celuij d'Aumale en moij!</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

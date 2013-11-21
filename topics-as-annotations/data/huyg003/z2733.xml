@@ -1,0 +1,47 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2733"/>
+<meta type="date" value="1692-02-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2733">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 5 fev. 1692.</p>
+<p>Monsieur</p>
+</div>
+<p>Un tres facheux rhume qui me tient depuis 15 jours avec des continuelles douleurs de teste, m'a empeschè de vous faire response jusqu'a cette heure, que ce mal commence à se passer. Monsieur <persName key="newt011">Newton</persName> serait bien heureux si vous vouliez entreprendre cette seconde Edition de son ouvrage, qui serait tout autre chose avec vos eclaircissements et additions, qu'il n'est a present. Mais il ne faudroit pas que ce travail nuisit a vostre santè. Pour la depense, cela me paroit etrange qu'en ce païs la il n'y a pas d'imprimeurs qui veuillent hasarder a leur frais l'impression des livres de cette importance. On en trouveroit assurement icy. Cette maniere de souscriptions n'est pas aisée dans des ouvrages qui se doivent debiter par toute l'Europe; car l'Angleterre avec ce païs icy n'en fourniroit pas assez.</p>
+<p>Je suis bien aise de ce que je ne vous ay pas envoié de copie de l'Escrit de Mr. <persName key="leib013">Leibnitz</persName>, car je me serois attirè un grand proces. Je luy avois mandè<note n="#2"/>, comme vous scavez<note n="#3"/> Monsieur, que ce qu'il m'avoit communiquè ne valoit pas a beaucoup pres, ce que j'avois de vous pour donner en echange. La dessus il m'a escrit<note n="#4"/> un long debat, ou il soutient que ce qu'il m'a envoiè est tres considerable, et adjoute defense bien expresse de ne vous en rien communiquer, et que pour moy je pourray le recompenser en luy faisant part de quelque secret semblable. Au reste il est presque dans la mesme disposition que vous, croiant de pouvoir decouvrir avec un peu d'estude ce qui luy manque de vostre Regle, comme vous ne faites pas de difficultè de venir à bout de la sienne. Ce peu de lumiere que vous dites avoir receu de Mr. <persName key="newt011">Newton</persName> en ces matieres me fait croire qu'il sçait tout ce qu'a Mr. <persName key="leib013">Leibnitz</persName> et d'avantage et j'espere qu'il en fera part au public dans le livre qu'il a prest a estre imprimè a ce que vous avez dit à mon frere<note n="#5"/>. Pour
+l'invention du calculus differentialis, il me semble, en considerant le lieu que vous citez de Mr. <persName key="newt011">Newton</persName>, qu'il reconnoit la luy mesme que Mr. <persName key="leib013">Leibnitz</persName> s'estoit rencontrè à avoir la mesme chose a peu pres que luy. J'espere que vous aurez fait les corrections necessaires dans le traite de Craige, dont je vous seray fort obligè. Mon frere trouvera facilement quelque occasion pour me le faire tenir, ou bien me l'apportera luy mesme. Puisque Mr. <persName key="newt011">Newton</persName> néglige de donner les demonstrations de ses séries pour les approximations, vous feriez fort bien Monsieur de nous donner les vostres, car cette matiere qui paroit maintenant assez obscure merite bien d'estre rendüe intelligible, estant le dernier effort de la Geometrie dans ces mesures de quantitez plus qu'irrationelles. J'ay sceu il y a desia du temps par les lettres de mon frere, la mort de l'Illustre Mons.r Boyle. apparemment on trouvera encore quelque traitè non achevè parmi ses papiers car il ne cessoit d'escrire. Je voudrais bien voir l'Oraison funebre que luy a faite Mr. <persName>l'Evesque de Salisburie</persName><note n="#6"/>. Je suis contraint de finir après vous [avoir] assurè que je suis avec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>A Monsieur</p>
+<p>Monsieur <persName key="duil010">Fatio</persName>,</p>
+<p>chez Mons.r <persName>Tourton</persName> et Compagnie</p>
+<p>A <placeName key="londe002">Londres</placeName>.</p>
+<p>&nbsp;</p>
+<p><note n="#7"/> Mr. <persName key="huyg003">Hugens</persName>, à la Haye 5 Fevrier 1692. A.F.N. Londres.</p>
+<p>Son Rhume l'a empêché de me repondre plutot.</p>
+<p>Son sentiment sur l'Edition nouvelle que je pourrois faire de Mr. <persName key="newt011">Newton</persName>.</p>
+<p>Il s'étonne qu'il faille l'imprimer par souscriptions, et croit que l'Angleterre et la Hollande n'en fourniroient pas assés.</p>
+<p>Mr. <persName key="leib013">Leibnitz</persName> seroit mécontent si une Copie de son Ecrit m'eut été envoiée par Mr. <persName key="huyg003">Hugens</persName>.</p>
+<p>Celui ci lui avoit mandé que ce que Mr. <persName key="leib013">Leibnitz</persName> lui avoit communiqué ne valoit pas à beaucoup près ce que Mr. <persName key="huyg003">Hugens</persName> avait de moi pour donner en échange.</p>
+<p>Défense que fait Mr. <persName key="leib013">Leibnitz</persName> de me communiquer ce qu'il avoit envoiè. Recompense qu'il attend de Mr. <persName key="huyg003">Hugens</persName>.</p>
+<p>Mr. <persName key="leib013">Leibnitz</persName> croit pouvoir découvrir ce qui lui manque de ma Regle, comme je crois venir à bout de la sienne.</p>
+<p>Ce peu de Lumiere que j'ai dit avoir receu de Mr. <persName key="newt011">Newton</persName> fait croire qu'il en sçait plus que Mr. <persName key="leib013">Leibnitz</persName>.</p>
+<p>Sur l'Invention du Calculus Differentialis, et ce que Mr. <persName key="newt011">Newton</persName> en a dit.</p>
+<p>Il attend mes Corrections au Traité de Craige.</p>
+<p>Mr. <persName key="newt011">Newton</persName> negligeant de donner les Demonstrations de ses Series, voudroit que j'en donnasse les miennes. C'est dit il le dernier effort de la Geométrie dans ces mesures de quantités plus qu'irrationelles.</p>
+<p>Sur la Mort de Mr. <persName key="boyl001">Boile</persName> dont il souhaite de voir l'Oraison funebre.</p>
+</div>
+</body>
+</text>
+</TEI>

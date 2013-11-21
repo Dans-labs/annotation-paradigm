@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1970"/>
+<meta type="date" value="1673-08-22"/>
+<meta type="sender" value="bart049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="kopen901"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1970">
+<div type="opener">
+<p>A Coppenhague le 22 d'Aoust 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Ayant reseu le beau liure<note n="#1"/>, que Monsieur Picard m'a fait auoir de vostre part je me suis consolé des biens, dont je me suis privé, par la perte de vostre conversation. Vrayement ces sont de solides effets, et de sensibles obligations que je reçois de vostre bonté, faisants paroistre quelques signes de vie en nostre vieille amitié<note n="#2"/>, lesquels me font connoistre que la longueur du temps n'a point de roüille qui puisse gaster les affections de vertueux. Monsieur Picart vous pourra rendre tesmoignage de l'estime que je fais de vos merites, et en quelle veneration m'est vostre vertu. Je vous remercie infiniment de cett excellent ouurage, lequel fera honte a tous les autres, qui sont venu du pais mesme d'ou nous est venu la Geometrie, de la boutique mesme d'Archimedes. Je connois assez le malheur de ma condition, par les occupations, qui m'empeschent d'employer le temps a des semblables matieres, qui ont autresfois entretenu mes soins. C'est pourquoy a vos excellentes demonstrations je ne respondray que par une grande admiration, et à vostre amitié, par beaucoup de reconnoissance, et une simple protestation, que je vous feray d'estre tousjours passionnement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="bart049">Bartholin</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens</persName> a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

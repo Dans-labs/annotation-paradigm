@@ -1,0 +1,46 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1599"/>
+<meta type="date" value="1667-08"/>
+<meta type="sender" value="auzo011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1599">
+<div type="section">
+<head rend="h4">Obseruation de Saturne.</head>
+<p>Le 15 Aoust 1667 entre onze et 12 heures du soir.</p>
+<p><table>
+<row>
+<cell>♄</cell>
+<cell>☉</cell>
+<cell>Teste d'Andromede<note n="#2"/></cell></row>
+<row>
+<cell>longitude 27. 2′. ♑</cell>
+<cell>longitude 22. 50′. ♌</cell>
+<cell>Declinaison Boreale...27. 15′. 20″.</cell></row>
+<row>
+<cell>latitude Meridionale..21′.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>Declinaison Meridionale 21. 8′. 30″.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>Ascension Droite...299. 10′</cell>
+<cell>Ascension droite du poinct opposé. 325. 10′.</cell>
+<cell>Ascension driote...357. 43. 28.</cell></row>
+</table></p>
+<p>Lorsque Saturne parut au meridien, la teste d'Andromede estoit distante du Zenith vers l'orient de 49. 50′.</p>
+<p>C'estoit donc a 10 heures 16′. 2″.</p>
+<p>&nbsp;</p>
+<p>♄ fut horizontal c'est a dire que son grand diametre fut parallele a lhorizon. quand Andromede estoit a distance du Zenith vers l'orient de 40. 55′. Ainsy c'estoit a 11 heures 9′. 58″.</p>
+<p>D'ou il suit que Saturne deuenoit horizontal quand il estoit dans vn cercle horaire distant du meriden<note n="#3"/> de 13. 29′ du costé de loccident et qu'ainsy jl deuoit estre incliné au meridien de 9.19. 45<note n="#4"/> et son vertical 13. 17. 35<note n="#5"/> mais par vne autre obseruation qui fut faite en mesme temps jl se trouue vn peu de difference. Car le vertical de Saturne horizontal fut obserué de 13. 28. 20, ce qui donneroit vne inclination au meridien de 9. 27. 15.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

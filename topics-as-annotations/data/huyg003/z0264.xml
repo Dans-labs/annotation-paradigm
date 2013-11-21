@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0264"/>
+<meta type="date" value="1656-02-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0264">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Francisco Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>De libello<note n="#1"/> Hirscharteri<note n="#2"/> gratias ago, neque mihi planè inutilis est, licet quod maxime desideraveram, tempus observationis quo cum ansis Saturnum Fontana vidit, non sit annotatum. Scio Neapoli impressas typis ipsius Fontanae observationes anno 1646 in 40<note n="#3"/> quem librum si nancisci possem proculdubio fuerim voti compos.
+Domino <persName key="kech001">Kechelio</persName> brevi suum remittam. Ex Gallia nihil asportavi quod ad
+Cartesij opera pertineat; si cum illic agerem scivislem tale quid apud Dommum Milon asservari, ejus mihi copiam fieri postulassem, nunc si ab ipso petieris nullus dubito quin libentissime sit concessurus. Literas ab eo,<note n="#4"/> eadem die qua tuas accepi, ad te misi, quibus non vacabat meas adjungere adeo assiduam perspicillis fabricandis operam damus. Effecimus 24 pedum longitudine praestantissimum, sed adhuc loci commoditas deest ubi observationes instituere possimus. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Com.</placeName> <date>15 Febr. 1656</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

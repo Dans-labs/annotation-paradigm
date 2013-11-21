@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0251"/>
+<meta type="date" value="1655-12-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="robe012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0251">
+<div type="opener">
+<p>Monsieur,</p>
+<p>A <placeName key="denha004">la Haye</placeName> le <date>30 Dec. 1655</date>.</p>
+</div>
+<p>Le voyage depuis Paris jusques icy nous a tenu plus longtemps que je n'avois pensè et à mon grand regret estant fascheux et penible, et non sans danger, à cause
+des troupes qui en beaucoup d'endroits traversoyent nostre chemin. l'on nous tient heureux d'estre eschappè sans empeschement. Devant que quiter Paris j'eus encore tresgrande envie de vous veoir, pour vous remercier des avantageux raports que vous aviez fait de moy chez Monsieur <persName>Conrart</persName>. mais ce fut sur le point de partir et comme je prins congè de luy, qu'il me l'apprit. Sans cela je n'eus pas manquè de m'acquiter de ce devoir, et en mesme temps de contenter ma curiositè, car je doubtois s'il ne s'estoit pas passè autre chose dans cette conference qu'il m'importast de scavoir. Je serois fort attrapè si vous luy aviez decouvert que je suis informè touchant la P.<note n="#1"/> car j'en parle à luy comme d'une saincte. Et de mesme à M.<note n="#2"/> lequel toutefois j'ay remarquè qu'il me suspectoit d'estre de vostre confidence, et qu'il en estoit en peine. Quoy qu'il en arrive je vous auray tousjours beaucoup d'obligation de ce que vous n'avez pas vouiu souffrir que je fusse abusè. au reste Monsieur faites moy la faveur d'entretenir la correspondance, et de me communiquer par fois de vos belles speculations, et s'il m'est permis de specifier, celle du contenu des triangles spheriques.<note n="#3"/> Toutes les fois que j'auray estè assez heureux pour faire quelque nouvelle decouverte que je jugeray vous pouvoir plaire j'auray soin de vous en faire part, et seray bien aise de vous tesmoigner en quelque chose que ce soit que je suis avec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+<p>Je<note n="#4"/> vous supplie Monsieur quand vous verrez Mademoiselle Periquet de l'asseurer de mon trèshumble service et que j'estime infiniment l'honneur de ses bonnes graces. Je baise les mains à Mademoiselle vostre Cousine et à Monsieur <persName>Tevenot</persName>.<note n="#5"/></p>
+</div>
+</body>
+</text>
+</TEI>

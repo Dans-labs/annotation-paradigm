@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0241"/>
+<meta type="date" value="1655-10-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0240"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0241">
+<p>c'est le b mol de ci<note n="#1"/>.</p>
+<p><figure><graphic url="huyg003oeuv01ill139.gif"></graphic></figure><note n="#2"/>.</p>
+<p>Je n'ay encore pu avoir que ce second couplet. la chanson a estè faite pour la Meneville la plus jolie entre les filles de la Reine<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

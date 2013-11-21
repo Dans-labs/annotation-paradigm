@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0068"/>
+<meta type="date" value="1649"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0068">
+<div type="section">
+<head rend="h4">[1649].<note n="#1"/></head>
+<p>Alia demonstratio prop. 18, Archimedis de Spiralibus.</p>
+<p>&nbsp;</p>
+<p>Sit ARO Spiralis primae revolutionis; Circulus primus AOE; AB sit aequalis periferiae dicti circuli et ex B per O ducta sit recta linea; dico hanc contingere spiralem
+<figure><graphic url="huyg003oeuv01ill68.gif"></graphic></figure>
+in puncto O termino spirae. Si enim non tangit secabit eam vel intra vel extra circulum. secet primo eam recta BLO intra circulum in L: ducatur radius AF et cadat LH perpendicularis in AO. FL est ad FA vel OA ut circumferentia OF ad circumferentiam totius circuli quae est BA, ergo permutando etiam FL ad circumferentiam FO ut OA ad AB vel OH ad HL, quod est absurdum, quum OH sit major FL et HL minor circumferentiâ FO. Secet nunc spiralem productam, recta BOG extra circulum in G: ducatur iterum ex centro AG et sit GC perpendicularis in AO productam: GQ est ad QA vel OA ut circumferentia QO ad circumferentiam totius circuli AB, ergo et permutando GQ ad circumferentiam QO ut AO ad AB, sive ut CO ad CG, quod est absurdum; quum GQ major sit CO, et circumferentia QO minor rectâ CG. Sequitur igitur BO rectam, spiralem tangere.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

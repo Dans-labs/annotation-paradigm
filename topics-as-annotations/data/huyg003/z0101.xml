@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0101"/>
+<meta type="date" value="1651-11-01"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0101">
+<div type="opener">
+<p lang="la"><persName key="vinc027">Greg. a Sancto Vincentio</persName> Clarissimo Domino D. <persName key="huyg003">Christiano Hugenio</persName> S.D.</p>
+</div>
+<p>E litterarum mearum tenore, genij mej candorem te collegisse, <seg org="assirmas" resp="#AD" type="corr">affirmas</seg>; vtinam et affectum. Hortator fuj, et sum ex animo, vt juuenilem aetatem tuam, tuarum lucubrationum diuulgatione cohonestare jncipias, ac tuae sortis hominibus, exemplo proprio, author sis, decorae vitae fundamenta ponendi. Argumentum scriptionis tuae, varium est, et amoenum: quodsi staticum differre statuis, per me quidem licet: meo autem consilio, si aliquid tribuis, aut vna cum Geometricis in lucem prodeat, aut etiam prius. pura Geometrica, paucj capiunt; rariores admirantur: quae vero Staticam concernunt, maxime naturalem, nemo Philosophus, tam parum curiosus, qui ea non exquirat, hoc aeuo. nolim tamen authoritatj meae tantum tribuas, vt rationibus, quas priuatim colis praeiudicium fiat. Non exiguj apud me ponderis est, qua pompa quis, primò, in publicum prodeat. Pronum jnsuper est, idem argumentum alter assumat, quae enim materiam centrj grauitatis spectant, plures hoc
+saeculo resumpsere. Inter alios Pater Joannes della faille<note n="#2"/>, qui libellum elegantem conscripsit, de Centris grauitatum sectorum Circulj, et Ellipseos<note n="#3"/>. fuit is discipulus meus ante 33. circiter annos. Etiam Pater Paulus Guldin<note n="#4"/>, qui vna mecum domesticus auditor Clauij fuit. prodijt insuper, a paucis mensibus, vt audio, liber<note n="#5"/>, in Gallia, cuiusdam la Louera, aut le Louier<note n="#6"/>; quem necdum videre licuit, ob exiguum nostrorum, cum Gallis commercium, bellj tempore. quae de eodem argumento habebam, Pragae in Bohemia periere. Amoenitas sola Theorematum, quae ad me misistj, orexim mihi excitauit jlla cum jmpatientia exspectandj. vixdum me continuj, quin dimissis quae prae manibus habeo, et vrgent, eorum solutionem, animj causa aggrederer: Mirari coepi, <persName key="gali003">Galilaeo</persName>, non jncidisse argumentum scriptionis tuae: qui, circa varia quae humido jnnatant, curiosus fuit jndagator. Hîc sisto et rogo vt quae mihi fidis, alteri tibi, ea, te fidere existimes. neque enim mihi curta domj supellex. Vale, et Dominum Parentem ex me saluta.</p>
+<div type="closer">
+<p lang="la"><placeName key="gent_001">Gandauj</placeName> <date>prima Nouemb. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Domino D. <persName key="huyg003">Christiano Hugenio</persName>
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

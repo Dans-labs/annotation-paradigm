@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1707"/>
+<meta type="date" value="1669-02-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1707">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 8. Fevrier 1669.</p>
+<p>Monsieur,</p>
+</div>
+<p>Jl y a que 3. ou 4. iours, que ie vous escrivis vne assez longue lettre<note n="#1"/>; C'est pourquoy ie feray celle-cy tant plus courte, vous ayant mandé dans celle lá le sentiment de nostre Societé sur l'Expedient, dont vous auez commencé de vous servir pour assurer les nouvelles descouuertes à leur Autheurs; y ayant adjousté vn chifre<note n="#2"/> de la part de Monsieur Wren, enveloppant aussi vne sienne Invention nouuelle, suivant vostre Example; auec quoy i'ay joint vn Exemplaire inprimé de nos Transactions<note n="#3"/> Philosophiques pour vous faire voir ce que Monsieur Wallis<note n="#4"/> auoit descouuert dans le sujet des loix du mouuement.</p>
+<p>Mais afin que celle-cy ne soit tout a fait vn simple couuert à ce que le Chevalier Moray vous envoye<note n="#5"/>, permettez moy de vous demander, s'il n'est possible, que quelcun trouue quelque autre secret, qu'il puisse coucher dans le mesme chifre, que vous auez deposité auec nous? come ie croy, que vous ou quelque autre personne d'esprit pourra trouuer quelque chose nouuelle, capable d'estre cachée soubs le chifre, que Monsieur Wren vous envoya le 4. courant.</p>
+<p>Le chevalier Moray, estant fort affairé, est capable de laisser eschapper de la memoire diverses choses, si ce n'est qu'on l'en fasse souuenir. Il y a plus de 15. iours, que ie luy monstrois vostre lettre, dont il vous envoye astheur la copie; mais son esprit estant alors fort attaché à d'autres choses, il ne le pouuoit appliquer à ce qu'il a fait depuis, ayant mesme tout à fait oublié, que ie luy auois monstré la lettre, dont ie le fis souuenir l'autre iour. Monsieur vous ne manquerez pas de bien considerer l'escrit<note n="#6"/>, qui examine l'estat de la controverse entre vous et Monsieur Gregory, et vostre prudence vous suggerera sans doubte les meilleurs moyens de terminer cete dispute sans aigreur, la quelle nous blamons fort en vostre Antagoniste, qui pourtant se corrigera desormais, come vous en verrez
+quelque espreuue dans ce qui se va inprimer<note n="#7"/> de sa part contre vostre derniere lettre.</p>
+<p>Mais à fin que ie ne me contredise point, ie finis promptement, come</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné serviteur <persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy
+<lb/>à Paris.
+<lb/>18 β</p>
+</div>
+</body>
+</text>
+</TEI>

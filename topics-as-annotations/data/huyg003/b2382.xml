@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2382b"/>
+<meta type="date" value="1685-04-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vege004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b2382">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 19 Avr. 1685.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous dois demander pardon aussi bien qu'a Monsieur <persName key="full003">Fullenius</persName> de ce long silence, car toutes mes occupations ne scauroient me fournir d'excuse assez legitime. Vous aurez s'il vous plait la bontè de luy envoier ma lettre<note n="#2"/>, par la quelle je l'exhorte de nous venir voir, comme il m'a mandè<note n="#3"/> qu'il en avoit en dessein. Je vous assure Monsieur que j'ayme extremement ce personnage tant pour sa grande inclination pour les mathematiques, que pour sa candeur et autres rares qualitez.
+<figure><graphic url="huyg003oeuv10ill224.gif"></graphic></figure>
+Vous me parlez dans vostre derniere de l'envie qu'auroit Monsr. <persName>Freibergh</persName> de voir le modelle ou dessein de ma machine pour le nouvel usage de la poudre a canon. Mais comme la communication doit estre reciproque je souhaiterois aussi de scavoir ce que c'est qu'il a inventè en ce genre, et si sa machine est differente de la miene. La figure de la principale pièce de celle que je fis voir a Monsr. <persName key="colb012">Colbert</persName> est telle que je vous la represente icy<note n="#4"/>. Mandez je vous prie a Mr. <persName>Freibergh</persName> qu'il vous fasse de mesme voir quelque chose de la siene. La quelle si elle est bastie sur le mesme principe que cellecy il en comprendra aisement tout le mistere sans que j'y adjoute d'autre explication. Si non, je veux bien la luy donner entiere. Je crois vous avoir escrit cydevant que je ne voiois pas assez d'utilitè dans cette invention pour m'y appliquer d'avantage mais il se peut que Mr. <persName>Freibergh</persName> ait trouvè quelque chose de meilleur, dont je seray bien aise d'avoir part. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

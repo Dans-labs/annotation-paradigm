@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0494"/>
+<meta type="date" value="1658-06"/>
+<meta type="sender" value="pasc001"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0493"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0494">
+<p>Problemata de Cycloide, proposita mense Junii 1658.</p>
+<p>&nbsp;</p>
+<p>Quum ab aliquot mensibus, quaedam circa cycloidem, ejusque centra gravitatis, meditaremur, in propositiones satis arduas ac difficiles, ut nobis visum est, incidimus, quarum solutionem a praestantissimis toto orbe geometris supplices postulamus, proposito ipsis praemio, non mercedis gratia (quod absit!) sed in obsequii nostri, aut potius meriti eorum qui haec invenerint, publicum argumentum.</p>
+<p>Quae vero proponimus sunt ejus modi. Dato puncto quolibet <formula>Z</formula> in quacumque cycloide <formula>ABCD</formula>, ex quo ducta sit <formula>ZY</formula> basi <formula>AD</formula> parallela quae axem <formula>CF</formula> secet in puncto <formula>Y</formula>; quaeruntur:
+<figure><graphic url="huyg003oeuv02ill98.gif"></graphic></figure></p>
+<p>Dimensio spatii <formula>CZY</formula>; ejusdemque centrum gravitatis; solida genita ex circumvolutione dicti spatii <formula>CZY</formula>, tam circa <formula>ZY</formula> quam circa <formula>CY</formula>; et horum solidorum centra gravitatis.</p>
+<p>Quod si eadem solida plano per axem ducto secentur; et sic fiant utrinque duo solida, duo scilicet ex solido circa basim <formula>ZY</formula>, et duo ex solido circa axem <formula>CY</formula> genito, cujusque horum solidorum quaerimus etiam centra gravitatis.</p>
+<p>Quia vero quaesitorum demonstratio forsan adeo prolixa evadet, ut vix intra praestitutum tempus exsequi satis commode possit, genio et otio doctissimorum geometrarum consulentes, ab his tantum postulamus, ut demonstrent, vel more antiquorum, vel certe per doctrinam indivisibilium (hanc enim demonstrandi viam amplectimur) omnia quae quaesita sunt, data esse: ita ut facile ex demonstratis, quaelibet puncta quaesita ex datis in hypothesibus, possint inveniri.</p>
+<p>Et ut apertius mentem meam explicem, nec subsit aliquid ambiguum, exemplo rem illustro. Proponatur, verbi gratia, parabola <formula>ABC</formula>, cujus axis <formula>AB</formula>, basis <formula>AC</formula>,
+<figure><graphic url="huyg003oeuv02ill99.gif"></graphic></figure>
+tangens <formula>BD</formula>, perpendicularis axi <formula>AB</formula>. Inveniendum sit centrum gravitatis trilinei <formula>DCB</formula>. Satisfactum esse problemati censerem, si demonstretur, datum esse centrum gravitatis parabolae <formula>ABC</formula>, necnon et centrum gravitatis rectanguli <formula>CDBA</formula>, et proportionem hujus rectanguli cum parabola <formula>CBA</formula>; ideoque datum esse centrum gravitatis quaesitum trilinei <formula>CDB</formula>. Nam etsi praecise punctum in quo reperitur centrum gravitatis non exhibeatur, demonstratum tamen est datum esse, quum ea ex quibus invenitur data sint; resque eo deducta erit ut nihil aliud supersit praeter calculum, in quo nec vis ingenii nec peritia artificis requiruntur: ideoque non is a nobis calculus exigitur, cur enim in iis immoraremur? Sed tantummodo petimus demonstrari res quae proponuntur datas esse.</p>
+<p>Verum doctissimi geometrae prorsus necessarium judicabunt, et ab his postulamus, duarum propositionum, vel duorum casuum integram constructionem, seu integrum calculum.</p>
+<p>Primus casus est quum punctum <formula>Z</formula> constituitur in <formula>A</formula>.</p>
+<p>Secundus, quum idem punctum <formula>Z</formula> datur in <formula>B</formula>, in quo transit parallela <formula>GB</formula> ducta a puncto <formula>G</formula>, centro circuli genitoris cycloidis.</p>
+<p>Quod si aliquis error calculi in his duobus casibus subrepserit, eum libenter condonamus, et veniam quam ipsi peteremus facile promerebuntur.</p>
+<p>Quisquis superius proposita, intra primam diem mensis octobris anni 1658, solverit et demonstraverit, magnus erit nobis Apollo.</p>
+<p>Et primus quidem consequetur valorem quadraginta duplorum aureorum Hispanicorum quos ipsi Hispani <hi rend="i">doblones</hi>, et Galli <hi rend="i">pistoles</hi> vocant; vel certe, si mavult, ipsos duplos aureos.</p>
+<p>Secundus vero viginti ejusmodi duplos aureos. Si unus tantum solverit, sexaginta solus habebit.</p>
+<p>Et quia serio rem agimus, dictos sexaginta duplos aureos illustrissimo domino <persName key="carc010">de Carcavi</persName>, regio consiliario Parisiis commoranti apud celsissimum dominum ducem de Liancourt deponi curavimus, qui eos exsolvet statim ac demonstrationes quae ad ipsum mittentur, verae ac geometricae, a viris ab ipso ad id deputatis, judicabuntur. Et quum illustrissimum consiliarium, jam a multis annis virum probum, et matheseos amantissimum agnoverimus, audacter pollicemur rem sincere et absque fallacia exsequendam.</p>
+<p>Quod si his circiter tribus elapsis mensibus nullus inveniatur qui quaesita nostra solverit, non denegabimus quae ipsi invenimus, nec aliis invidebimus unde majora jam inventis nanciscantur, et ex quibus forsan apud posteros gratiam inibimus.</p>
+<p>Hoc unum restat ut lineae cycloidis descriptionem exhibeamus, a qua brevitatis causa abstinendum arbitrabamur, quum haec linea jam pridem Galileo, Toricellio, et aliis innotuerit; sed quia eorum libri omnibus non sunt obnoxii, ideo hanc ex Toricellio damus.</p>
+<p><hi rend="i">Descriptio cycloidis.</hi> Concipiatur super manente recta linea <formula>DA</formula>, circulus <formula>DL</formula>, contingens rectam <formula>DA</formula>, in puncto <formula>D</formula>, noteturque punctum <formula>D</formula>, tanquam fixum in peripheria circuli <formula>DL</formula>: tum intelligatur super manente recta <formula>DA</formula> converti circulum <formula>DL</formula> motu circulari simul et progressivo versus partes <formula>A</formula>, ita ut subinde aliquo sui puncto rectam lineam <formula>DA</formula> semper contingat, quousque fixum punctum <formula>D</formula> iterum ad contactum revertatur, puta in <formula>A</formula>. Certum est quod punctum <formula>D</formula> fixum in peripheria circuli rotantis <formula>DL</formula>, aliquam lineam describet, surgentem primo a subjecta linea <formula>DA</formula>, deinde culminantem versus <formula>C</formula>, postremo pronam descendentemque versus punctum <formula>A</formula>: et talis linea vocata est cyclois.</p>
+</div>
+</body>
+</text>
+</TEI>

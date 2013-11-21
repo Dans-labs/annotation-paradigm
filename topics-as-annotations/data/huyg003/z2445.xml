@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2445"/>
+<meta type="date" value="1686-10-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="full003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2445">
+<div type="opener">
+<p>Clarissimo ac Praestantissimo Viro D<hi rend="sup">o</hi>. <persName key="full003">Bernardo Fullenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.D.</p>
+</div>
+<p>Litteras quas abs te Duillerius<note n="#1"/> optimus reddidit<note n="#2"/>, cum figuris ratiociniisque geometricis plenas viderem (alijsque rebus tunc temporis intentus essem), obiter
+perlectas seposui, diligentiori examine retractandas quod nunc denique feci, serius profecto quam debueram nec prorsus citra culpam, sed quam abs te mihi condonari peto. Longitudinum inventum quod attinet cujus successum prosperum mihi tam amice precaris, eum ego qualis futurus sit patienter expecto, donec ab Africae angulo capitte bonae spei horologia revertantur, quae bina eo vecta fuere ijs navibus quae initio Mensis Junii a Texelia discessere. Cura eorum nautae cuidam e peritioribus<note n="#3"/>, quemque multo ante praeceptis instruxeram commissa fuit, addito horologiopa, rebusque omnibus necessarijs provisis, qua in re operam insignem praestitit Ds. <persName key="hudd002">Huddenius</persName>. Visum fuit autem, quo maturius de exitu rei certiores fieremus, non usque in Indiam cum ijs navibus horologia perferri, sed eo quem dixi loco opperiri, donec ea ex Indiâ aliae navis reversae domum reducant, quas tamen vere proximo demum expectandas ajunt. Feceram ipse periculum autem in mari interiori, quod nos a vobis dirimit<note n="#4"/>, visurus nempe quam bene jactationem navigij non ita magni toleraret pendulorum motus, atque ab eo experimento itemque alio in mediterraneo mari olim capto<note n="#5"/> non male de successu negotij hujus nunc auguror. Vidi idem illud quod narras Zahnij<note n="#6"/> volumen, in quo quantum memini, nihil solidioris doctrinae nugamenta vero complura extant. Intellexi ei operi accessisse postremo et illam partem in quâ fabricandarum lentium artem erat pollicitus, sed in eâ quoque omnia spe et promissis minora esse. Venio ad ratiocinium tuum quo contendis oculum utilius intra focum lentis ocularis convexae, quam in ipso foco constitui, eo quod major campus aperiatur priore positu. In quo recte quidem se habet calculus tuus et plane in sententiam tuam concedendum esset si pro lubitu aperturas lentis majoris statuere liceret. Sed quoniam certis limitibus arctantur et quidem angustioribus quam fortasse existimes, propterea ad nihilum recidit hoc quod speras lucrum. Et hinc in telescopio non nisi decies augens diametrum rei visae, quale in exemplo proponis, ubi foci dist. lentis majoris 10 pollicum circiter ponenda erit, ocularis foci distantia pollicis unius.</p>
+<p><figure><graphic url="huyg003oeuv09ill10.gif"></graphic></figure></p>
+<p>in eo inquam positis aperturarum diametris; quantas ad summum natura lentium
+admittit, non amplius proficitur admovendo oculum ultra focum ocularis quam 1/90 circiter campi secundum diametrum. Item in telescopio pedum 30 in quo 3 pollicum est magnae lentis apertura, non nisi 1/120 lucrabimur, et minus etiam in majoribus. Ac secundum hanc eandem proportionem a foco ocularis introrsum promovendus oculus, in tuo nempe telescopio 1/90 foci distantiae lentis ocularis, in illo 30 pedum 1/120 qui motus ne percipi quidem potest. Nam quod tuus calculus rationem eam exhibet quae est 12½ ad 10 seu 5 ad 4 ea talis esse non potest nisi aperturam lentis majoris nimium quantum augeas, ut sit 12/3 pollicum quae tantum circiter ½ poll. patere deberet.</p>
+<p>Porro quod praesenti tibi dixeram, cum de his rebus ageremus, si ponatur lens convexa medio loco inter oculum et rem visam, hanc tunc maximam apparere, id theorema hanc praemissam habet conditionem, <hi rend="i">manente oculo et re visa</hi> quod tibi e memoriâ excidisse oportet. Tunc enim ubicumque extra medium lens interponatur minor fiet imago. Contra vero in cavis lentibus media illa positio minimum videri facit objectum. Atque ita quidem dubia tua resoluta habes, nam theorema alterum de permutatione locorum oculi et rei visae calculus tuus comprobat. Quaesivi a Duillerio an non practicae parti dioptrices operam aliquam in presentia impenderes. Ille nihil ea de re se accepisse respondit. Credo id occupationibus tuis sieri ex munere nuper suscepto, quas ut insolitas ac studijs etiam tuis officientes a te allegari video. Nos jam ducentorum pedum lentes paravimus, sed quibus ad coelum dirigendis nec area satis lata nec altitudo suppetit. Malum habemus 105 pedum altitudine sed horti amplitudo modica, quam vidisti vix patitur ut 125 pedum lentibus utamur. De duobus Saturni Satellitibus quos Cassini tribus prioribus addidit procul dubio ex diario Roterodamensi<note n="#7"/> jam didicisti. Utque omnibus Lodoiceorum syderum nomen imposuerit<note n="#8"/>, quod an me inconsulto facere debuerit, cum omnium primus ejus Satellitis maxime conspicuum deprehenderim, tibi expendendum relinquo. Vale Vir Praestantissime studiaque haec nostra et me tibi addictissimum amare perge.</p>
+<div type="closer">
+<p>Dab. <placeName key="denha004">Hagae Comitis</placeName> 24 Octob. 1686.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

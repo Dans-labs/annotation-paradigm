@@ -1,0 +1,18 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0696"/>
+<meta type="date" value="1659-12-19"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0696">
+<p>Monsieur <persName key="boul014">de Boulliau</persName> me mande par sa lettre de Paris du 19 <hi rend="sc">x</hi><hi rend="sup">bris</hi> 1659 de prier Monsieur Christiaen Hugens de Zuylecem, qu'il a besoin<note n="#2"/> la hauteur du Pole &amp; de la distance du Meridien du lieu de celluy D Vranibourg pour faire ce qu'il desire de luy par sa derniere<note n="#3"/>, n'ayant pas eu loisir par quelque occupation de se donner l'honneur d'escrire par ceste ordinaire.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2390"/>
+<meta type="date" value="1685-08-10"/>
+<meta type="sender" value="hame061"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2390">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Comme Monsieur <persName>de Uilmandy</persName><note n="#1"/> ua en Hollande, et pour y demeurer, iay esté bien aise de prendre cette occasion pour Uous presenter mes respects, et pour luy donner l'honneur de uostre connoissance. C'est une personne de merite, comme Uous connoistrez par sa conuersation, et qui estoit professeur de philosophie á Saumur. Il a fait imprimer quelques ouurages de philosophie. Il aime les belles choses et il ne s'est pas arresté à la philosophie commune.</p>
+<p>Je me donné l'honneur de Uous ecrire il y a quelque temps pour répondre a la lettre que Uous m'auiez fait l'honneur de m'écrire<note n="#2"/>. Il ne s'est rien passé depuis de considerable: sinon qu'il y a icy un ieune hollandois<note n="#3"/> qui a fait un uerre obiectif de 330 pieds, dont on fist dernierement l'essay dans les galleries du Louure. Monsieur <persName key="cass021">Cassini</persName> le trouua assez bon, et meilleur qu'il n'auoit parû la premiere fois. Cela fist un peu de peine à la personne que Uous sçauez<note n="#4"/>, et qui craint que ce ne soit son secret, ou son inuention, qui sera uenüe á la cognoissance de ce ieune homme: comme si deux personnes ne peuuent pas se rencontrer dans une mesme decouuerte. Uous aurez veu Monsieur, dans le iournal ce que Monsieur <persName key="hire005">de la Hire</persName><note n="#5"/> y aura mis touchant la conformation de loeil. Si l'occasion se presente
+d'obliger Monsieur <persName>de Uilmandi</persName>, ie Uous seray fort obligé. Il est tres honneste homme et a beaucoup d'esprit et d'erudition. Je suis auec respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Uostre treshumble et tresobeissant seruiteur <persName key="hame061">J.B. Du Hamel</persName> p. de St. Lambert.</p>
+<p>de <placeName key="parij001">Paris</placeName> ce 10<hi rend="sup">e</hi> d'Aoust 1685.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulcon</persName> a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

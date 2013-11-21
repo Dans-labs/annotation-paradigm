@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0554"/>
+<meta type="date" value="1658-12-13"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0554">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>13 Decembre 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous escris le present billet pour vous dire que celluy qui demande l'horologe, que je vous ay prié de vouloir prendre le soin de faire faire, la desire a contrepoids &amp; sans sonnerie. Je vous supplie aussi de me faire scauoir le prix, ce qui n'empeschera pas que vous n'y faciez trauailler. Excusez si j'en vse si librement, &amp; si je vous donne cette peine; mais j'ay tant d'asseurance en vostre bonté &amp; bonne volonté que j'espere que vous m'excuserez, sachant aussi que j'aurois de la peine a m'addresser a vne personne plus intelligente &amp; qui eust le moyen mieux que vous de me faire cette faueur.</p>
+<p>Je n'ay pu encores scauoir si Monsieur <persName key="pasc001">Paschal</persName> a faict imprimer quelque chose, je m'en informeray incessament. Cependant je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

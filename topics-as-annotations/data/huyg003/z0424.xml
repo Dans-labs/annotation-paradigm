@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0424"/>
+<meta type="date" value="1657-11-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0424">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Virtuales. Spiricae. ipsius problema. Schotenii problema. Frenicle. nova inventa mea.</p>
+</div>
+<div type="opener">
+<p><date>vrijdag 2 Nov. 1657</date>.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>De Cartesianis regulis circa corporum occursus, deque Lipstorpij demonstrationibus prorsus te mecum sentire agnosco et gaudeo. Mihi primum suspectae esse caeperunt quod experimentis omnibus repugnarent. Deinde 5<hi rend="sup">tam</hi> regulam secundâ adversari animadverti. Statuit enim secunda si corpora B et C pari velocitate mota sibi mutuo occurrant, sitque B majus quam C, tunc solum C reflecti, et utrumque deinceps conjunctum ferri aequali celeritate. quae proinde in utroque eadem erit illi quam prius habebant, quia quantitati motus alioqui aliquid decessisset. Quinta autem ait, si corpus B majus occurrat C minori quiescenti, tunc aliquam sui motus partem amittere corpus B. Itaque ex duabus hisce sequeretur motum corporis B magis impeditum iri a corpore C minore quiescente quam in contrariam partem moto, quod omnino absurdum puto. Mearum vero Regularum ut ut res Physica videatur. Certas tamen demonstrationes habeo, neque ullo invento magis mihi placui, nam et Experientiae exquisite consentiunt. Ostendi autem corpus quantumvis magnum quiescens à quamlibet exiguo sibi impacto moveri. An autem cum tuis eaedem sint, uno hoc exemplo sciemus. Dico enim si A sit triplum B et aequali celeritate sibi mutuo fiant obviam, restare A immotum, B autem duplo celerius quam advenerat retro flecti.</p>
+<p>Curvam tuam ab Hyperbola factam, cum Persei Spiricarum unam intellexissem, diu tamen haesi animo, quod neque quid spira esset compertum habebam. Tandem vero de annulis incidit cujusmodi <persName key="tacq001">Tacquetus</persName> contemplatus est statimque inveni quomodo clausi annuli sectio axi parallela curvâ tua exhiberi possit. Theonem quoque inspexi, qui tertiam spiricarum ponere videtur hujuscemodi lineam; ait enim circa medium arctiorem esse quam ab utroque latere. Credo autem et reliquas in Spira demonstrari posse, sed quae sint <hi rend="i">αἱ πέντε τομαὶ</hi> nondum satis perspicio, tibique Epigrammatis illius<note n="#1"/> graeci explicationem debere vellem. Et quamobrem usque adeo harum linearum inventione Perseus laetatus sit. In parabolae virtualis descriptione tua ita ut admonuisti emendandum esse jam ante animadverteram. Sed cum Pater Gregorius nihil dicat de continuanda curva, non video cur ipsum incuses quasi ex partibus malè cohaerentibus illam compegerit. De ratione autem quam
+servat ad parallelogrammum circumscriptum manifestum est ex generatione curvae, idque et Pater Gregorius verbo tetigit in fine libri 5<hi rend="sup">i</hi>.</p>
+<p>E problematis Domini Pascalij primum examinavi; quod planum esse calculus continuo evincit, neque ullam difficultatem in eo reperio. at neque in altero illo de coni sectione, quinque datas positione lineas contingente difficile est ostendere quomodo ad aequationem perveniatur, sed calculus nimij profecto laboris. Miseram ad <persName key="scho197">Schotenium</persName> Problemata tua circa curvam illam priorem, ut Geometris qui Leidae
+<figure><graphic url="huyg003oeuv02ill37.gif"></graphic></figure>
+sunt proponeret. Ille duobus proposuit qui utrique ea invenerunt, atque insuper hoc animadversione dignum. quam nimirum rationem habeant inter se segmenta curvae divisae rectâ AB quae maximam ejus latitudinem determinat.</p>
+<p>Ipsi vero tres hasce lineas invicem nobis examinandas tradidere quarum item Quadraturam centrum gravitatis et tangentes postulant.</p>
+<p>Proprietates habent ejusmodi.</p>
+<p>Esto AE<note n="#2"/> diameter, DF semiordinata, dataque AG ∞ <hi rend="i">a.</hi> AD vero ∞ <hi rend="i">x.</hi> DF ∞ <hi rend="i">y.</hi></p>
+<p><figure><graphic url="huyg003oeuv02ill38.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv02ill39.gif"></graphic></figure></p>
+<p>mihi in haec inquirere nondum vacavit, et si quando aggrediar primam ut opinor eligam caeteris omissis quoniam prolixam usque adeo supputationem eas exigere praevideo. Amo autem ea problemata in quibus inventio praecipua calculus vero facilis. Circa parabolam ante paucos dies duobus novis, ut mihi quidem videntur ac praeclaris inventis potitus sum, quibus conscribendis summo studio nunc incumbo. Vale vir summe et me ama.</p>
+<div type="closer">
+<p>Tui observantissimum <persName key="huyg003">Chr. Hugenium de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

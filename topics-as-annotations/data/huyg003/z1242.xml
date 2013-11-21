@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1242"/>
+<meta type="date" value="1664-07-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1242">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 18 Julliet 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous m'obligez beaucoup en me donnant de nouuelles, de ce qui se passe dans nostre Societè, et quand vous ne ferez que me mander simplement les matieres que l'on y traite chasque semaine je ne laisserois pas d'en recevoir grande satisfaction. Je voy par l'experience que vous me communiquez, que l'on a trouuè moyen de comprimer l'air bien mieux que l'on ne faisoit lors que j'y estois, car si je m'en souuiens bien, l'on n'alloit pas jusques a la condensation triple. Assurement vous aurez pratiquè des petits pistons dans des recipients assez grands, et je ne voy pas pourquoy par ce moyen l'on ne pourroit pas parvenir jusqu'a la centuple compression et d'avantage. Vous dites que dans la profondeur de 200 brasses d'eau l'air n'est comprimè qu'a la 12<hi rend="sup">me</hi> partie de l'espace qu'il occupe d'ordinaire ce que je ne comprens pas, car selon l'experience de Monsieur <persName key="boyl001">Boile</persName> 33 pieds d'eau le pressant a la moitiè de l'espace ordinaire, les 200 brasses ou 1200 pieds le mettroient dans 1/36 environ de sa premiere estendue, et non pas seulement dans la douziesme. La mobilitè de l'eau non obstant la pression me paroit tousjours fort admirable, et il est malaise de s'imaginer comment elle est composée, quand on se propose de sauoir ce phenomene.</p>
+<p>Je seray bien aise d'apprendre la methode et machine de Monsieur Hook pour mesurer exactement le temps des cheutes des corps pesants. Le jugement d'oreille ne me parut pas assez juste lors que je faisois ces experiences par les quelles pourtant je verifiois assez bien la proportion de Galilee, comme aussi qu'une balle de plomb tombe de 15 pieds 7½ pouces des nostres de Rhynlandt dans le temps d'une seconde comme j'avois trouuè premierement par le calcul. Il est vray que l'experience ne prouvoit pas justement cette mesure mais seulement elle n'y estoit pas contraire.</p>
+<p>Ma nouuelle horologe n'a pu encore estre achevée mais jusqu'icy tout va fort bien, et elle ira dans un jour ou 2. J'ay payè le maistre<note n="#1"/> de celle de Milord Brouncker<note n="#2"/>. N'oubliez pas je vous prie a me mander quel est le contrepoids de cet ouurage.</p>
+<p>L'on escrit de Paris que M. Sorbiere par une lettre de cachet a eu ordre de se retirer, je ne scay ou, a cause de sa belle Relation<note n="#3"/> ou il injurie si fort la nation Angloise, apparemment vous scaurez bien ce qui en est, et si Mylord Hollis<note n="#4"/> aura eu ordre d'en faire plainte. Je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

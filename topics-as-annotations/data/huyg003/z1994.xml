@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1994"/>
+<meta type="date" value="1674-06-21"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1994">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 11 june 1674.</p>
+<p>Monsieur</p>
+</div>
+<p>Dans ces Transactions<note n="#1"/> vous trouuerez vn discours, qui, peut estre, ne vous desplaira point, sur le vitriol<note n="#2"/> fait par vn assez jeune medicin, membre de la
+Societé Royale, nommé Monsieur Daniel Coxe<note n="#3"/>, qui a beaucoup travaillé dans la Chymie, mais en vray philosophe, et de la maniere de Monsieur Boyle. Vous y verrez aussi la description d'un discours nouveau dudit sieur Boyle<note n="#4"/> tout fraischement imprimé, sur l'Excellence de l'Hypothese Mechanique; dont il vous envoiera sans doubte vn Exemplaire par la premiere commodité. Le dit discours est ioint à vn autre<note n="#5"/>, qui traite de l'Excellence de la Theologie conferée auec la philosophie naturelle. Ainsi nostre amy tesmoigne d'estre tel philosophe, qui n'a pas honte d'estre Chrestien.</p>
+<p>J'espere que Monsieur Cassini et d'autres de vostre Academie feront l'observation de Monsieur Hook<note n="#6"/>. Comme ils ont toutes choses necessaires pour cela, ils verront, si elle est juste ou non, apres l'auoir fait plusieurs fois<note n="#7"/>.</p>
+<div type="closer">
+<p>Je demeure
+<lb/>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.
+<lb/>34 β</p>
+</div>
+</body>
+</text>
+</TEI>

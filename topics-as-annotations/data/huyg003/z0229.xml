@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0229"/>
+<meta type="date" value="1655-07-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0229">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName>, le <date>23 Juli 1655</date>.</p>
+<p>Monsieur mon Frere!</p>
+</div>
+<p>Il y a 9 jours que nous sommes dans cette ville, lequel temps si vous scaviez comment nous l'avons employee je m'asseure que Gargantua aupres de nous, vous scmbleroit n'avoir este qu'un paresseux.
+Je ne vous feray point mention de ce que nous avons vu de beau et de magnifique dans ce nouveau monde, par ce que ce seroit rien de nouveau pour vous<note n="#1"/>.
+Ce qui m'a semble le plus agreable a voir c'est le jardin de Bagnolet que nous vismes hier en revenant du Bois de Vincennes, je ne scay si vous y avez este.
+Nostre conseiller ordinaire est <persName key="tass006">A. Tassin</persName>, qui nous vient trouver reglement<note n="#2"/> tous les matins.
+Je le trouve fort grand hableur et fort colere ensin tout a fait comme vous me l'aviez depeint jusqu'au son mesme de sa voix que je croy pouvoir mettre en nottes de Musique.
+Je n'ay point encore este trouuer les gens de lettres ny de musique, et ne fais que courir les rues avecq les 2 autres mes compagnons.
+Nous avons estez ensemble chez l'Ambassadeur <persName>Boreel</persName>, qui tient fort sa gravité.
+Apres chez Monsieur <persName>Bracet</persName><note n="#3"/> et vismes aussi Mademoiselle sa fille<note n="#4"/> laquelle j'ay trouve fort scavante de tout ce qui se passe en Hollande jusqu'au moindre chose, au reste un peu moins belle que par le passe, et ce non obstant de tres bonne humeur comme tousjours.
+Nous n'avons este au Cours qu'une fois, et une fois a la Comedie, qui n'est guere plus belle, que n'estoit celle de Son Altesse à la Haye, et l'on donne un escu par teste.
+Toute est cher icy, mais principalement je prevoy que nous allons saire belle despence en fiaqres.
+Je suis loge seul, dans une chambre tapisee pour la plus grande partie: il y a un grenier dessus. d'où les rats
+et les souris viennent souuent me tenir compagnie. Outre cela les punaises me maltraittent la nuit, de sorte que j'en porte les marques sur les mains et le front. Peut estre ne voudriez vous point estre en ma place. Je suis</p>
+<div type="closer">
+<p>Vostre tres affectionnè Frère et seruiteur <persName key="huyg003">Christiaan Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>à la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

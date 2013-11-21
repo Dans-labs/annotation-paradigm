@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0290"/>
+<meta type="date" value="1656-05-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="bruss002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0290">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName>. le <date>16 Maj. 1656</date>.</p>
+<p>Monsieur mon Père,</p>
+</div>
+<p>Aujourdhuy nous avons envoye l'Acte du Compromis<note n="#1"/> à Monsieur <persName>de Rossen</persName><note n="#2"/> conceu selon vostre intention c'est-à-dire a nostre advantage autant qu'il nous a este possible, et signè par nous deux de vostre part. Il ne contient pourtant rien que nous ne luy ayons fait agreer a la derniere conference. de forte qu'il ne poura pas faire difficulte de l'accepter en ces termes. Je luy parlay aussi alors touchant la requeste pour obtenir la <hi rend="i">gemeente-wyde</hi> de la quelle il a promis, quand vous en seriez la de faire aussi son fait et d'ayder à la poursuivre. Ainsi nous avons eu moyen d'effectuer les poincts de vostre instruction sans entreprendre le voiage de Bommel. Pour solliciter les arbitres<note n="#3"/> et auoir soin de ce qui pouroit encore survenir, je croy qu'il suffira que le frère Louis s'y en aille seul et peut estre sera il plus expedient parce qu'estant deux il arriveroit assez aisement dans quelque deliberation que nous estions d'advis contraires, et aurions besoin d'un superarbitre. Comme j'ay veu par experience, quand il a este question de redresser l'acte susdit ou l'arrivee de mon frère de Zeelhem est venu fort a propos pour adjuster nos opinions differentes. Le frère Louis est comme vous savez fort entier dans ses sentiments au reste assez capable, et bien
+aise d'avoir de l'occupations et des affaires, les quelles je ne doibs pas chercher de mesine n'estant aucunement oisif et pouvant employer le temps à des choses plus dignes. J'ay parle à Ludolf pour avoir des chevaux les quels il taschera de trouver avecq toutes les qualitez que vous requerez. Et je pense qu'il aura du loisir assez pendant vostre sejour de Brusselles<note n="#4"/>. Mon oncle de Wilm<note n="#5"/> me monstra par l'extrait d'une lettre du Roi d'Espagne<note n="#6"/> à son Ambassadeur<note n="#7"/>, ou il n'est encore rien determine touchant la satisfaction du Prince en matiere d'argent<note n="#8"/>. Je luy parlois aussi que j'avois ramene ma Tante de la Kermesse, qui en entrant dans la maison eut le malheur de broncher en mettant le pied sur sa jupe et tomba droit sur le visage dont elle saignoit fort et eut le front et les levres fort enflées, autrement il n'y a point de danger. Il y a trois jours que le mariage d'entre la troisieme Mademoiselle Aerssen<note n="#9"/> et Junius<note n="#10"/> fils du feu gouverneur d'Argenteau<note n="#11"/> fut conclu.</p>
+<div type="closer">
+<p>Je suis</p>
+<p>Monsieur mon Pere</p>
+<p>Vostre tresobeissant fils <persName key="huyg003">Chr. Huygens</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer
+<lb/>Mijn Heer <persName key="huyg001">van Zuylichem</persName> &amp;c.
+<lb/>Raedt van S.H. de Prince van Orange
+<lb/>tot Brussel.</p>
+</div>
+</body>
+</text>
+</TEI>

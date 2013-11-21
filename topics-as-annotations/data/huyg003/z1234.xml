@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1234"/>
+<meta type="date" value="1664-06-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="calai001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1234">
+<div type="opener">
+<p>A Calais ce 12 Juin 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>Me voicy a la veille de mon depart pour la Hollande devant que partir de Paris je receus une lettre de Monsieur Silvius<note n="#1"/> par la quelle il me manda entre autres que vous estiez estonnè de n'avoir pas receu de response de moy sur quelque chose d'important que vous m'aviez escrit<note n="#2"/> devant plus de 3 semaines. Il faut Monsieur que vostre lettre ait estè perdue car je n'en ay point receu de vous depuis celle<note n="#3"/> qui estoit accompagnée de celle de Milord de Cincardin<note n="#4"/> a la quelle
+je vous ay envoyè response<note n="#5"/> il y a long temps. Je vous prie donc de me faire scavoir ce que contenoit vostre derniere car j'en suis en peine. Monsieur Silvius m'escrit que vous m'allez envoier par l'ordinaire prochain l'adresse de celuy a qui je devrois faire tenir la machine<note n="#6"/>, et je suis marry que mon depart est survenu si mal a propos pour cette affaire la, par ce qu'il faudra que vostre lettre me soit envoiée de Paris en Hollande, d'ou j'escriray a ces Messieurs les Interessez si ce n'est que vous ou Monsieur Silvius me preveniez, car je luy ay desia mandè<note n="#7"/> a qui il pouvoit s'adresser.</p>
+<p>Mon pere part demain matin<note n="#8"/> pour Angleterre, et il m'a promis de vous faire tenir celle-cy avec un petit livre<note n="#9"/> de Monsieur Sorbiere<note n="#10"/>, que je vous envoie a tout hazard, quoy que peut estre vous l'aurez desia eu d'ailleurs. J'ay priè Monsieur Boreel de vous remettre cet autre de Monsieur Pascal<note n="#11"/> que je n'ay pu trouuer occasion de vous envoier plus tost. A Paris il n'y avoit rien de nouveau en matiere de Sciences, sinon que l'Academie chez Monsieur de Montmor a pris fin pour jamais, mais il semble que du debris de celle cy il en pourroit renaistre quelqüe autre, car j'ay laissè quelques uns de ces Messieurs avec de tres bonnes intentions.</p>
+<p>Je vous baise les mains et m'en vay attendre vos commandemens en Hollande estant de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="huyg003">Chr. Hugens de Z.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

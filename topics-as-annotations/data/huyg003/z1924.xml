@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1924"/>
+<meta type="date" value="1673-02-19"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1924">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 9 Fevrier 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Je m'estois proposé de vous escrire amplement par cette voye de Monsieur Leibnitz; mais il precipite tellement son voyage d'icy a Paris, qu'il m'a esté impossible dans l'estat où ie suis, estant quasi accablé d'affaires à present, d'executer mon intention. Je ne scauray vous dire autre chose, sinon que i'ay receu vos deux lettres, du 14 janvier et de l' 11 Fevrier, et que ie tascheray de vous y satisfaire au possible par vne autre occasion. On fera icy toute justice à Monsieur Hugens, dont on conoit la doctrine et la vertu, et i'auray soin particulierement de faire scauoir à Monsieur Sluse la belle maniere dont vous usez envers luy. Vous verrez dans l'annexe<note n="#1"/> sa methode de tirer des tangents à toutes sortes de Curves
+Geometriques sans calcul; dont il nous envoiera, i'espere, la demonstration par sa prochaine a</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Monsieur Leibnitz a gagné beaucoup d'estime icy<note n="#2"/>, comme il le merite assurement.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName> dans la Bibliotheque du Roy à
+<lb/>Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

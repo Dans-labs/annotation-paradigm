@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2333"/>
+<meta type="date" value="1684-05-07"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2333">
+<div type="opener">
+<p>Nobilissime Vir</p>
+</div>
+<p>Cum epistola mihi à D. de Tschirnhaus tradita sit, in qua non tantum suam suorumque salutem nunciat, sed et maximè tuam, rerumque Parisiensium statum exaudire avet, has ad te dare necesse habui, rogitans in amici communis gratiam, ut ad illum responsum scribas quamprimum, vel, si ita videtur, ad me tuam transmittas: constitui quippe sine ulla mora ad eum instanti die Martis litteras transmittere, nuncias et tuae restitutae valetudinis et rerum apud Parisienses peractarum. Petijt insuper, ut hanc insertam ad D. L'Abbé Catelan quanto ocyus transmittas<note n="#1"/>. Scriptum illud de Nova Logica D. de Tschirnhaus<note n="#2"/>, quod tibi describere est animus ut promissis me solvam, proxima Septimana exspectabis: morbo quippe alijsque negotijs impeditus ac distractus illud resolvere nequivi. Haec indicanda mihi erant. Fac me certiorem hasce tibi rite redditas esse.</p>
+<div type="closer">
+<p>Vale Nobilissime Vir et favore tuo prosequere</p>
+<p>Tuum ad omnia paratissimum <persName key="gent015">Pet. à Gent</persName>.</p>
+<p>Op de Heeren Graft tegenover de Huizen van de Cromhouten op de hoek van een steegje naast een steenkooper.
+<lb/>Raptim Amst. 7 May 1684.</p>
+</div>
+</div>
+<div type="para">
+<p>WelEdele Heer Mijn Heer
+<lb/>Mijn Heer <persName key="huyg003">Christiaan van Huigens Heer van Zuilichem</persName>
+<lb/>a la Haye.
+<lb/>pt.</p>
+</div>
+</body>
+</text>
+</TEI>

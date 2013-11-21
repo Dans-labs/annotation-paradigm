@@ -1,0 +1,221 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0383"/>
+<meta type="date" value="1657~"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0382"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0383">
+<p>Voicy la Solution<note n="#1"/> de Monsieur <persName key="fren024">Defrenicle</persName> pour les nombres suiuants</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>pour 13 c'est le quarrè de</cell>
+<cell>649.</cell>
+<cell>180<note n="#2"/></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 19 c'est le quarrè de</cell>
+<cell>170.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 17 c'est le quarrè de</cell>
+<cell>33.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 21 c'est le quarrè de</cell>
+<cell>55.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 23 c'est le quarrè de</cell>
+<cell>24.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 29 c'est le q<hi rend="sup">re</hi>. q<hi rend="sup">re</hi>. de</cell>
+<cell>99.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 31 c'est le quarrè de</cell>
+<cell>1520.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 33 c'est le quarrè de</cell>
+<cell>0.<note n="#3"/></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 37 c'est le quarrè de</cell>
+<cell>73.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 41 c'est le quarrè de</cell>
+<cell>2049.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 43 c'est le quarrè de</cell>
+<cell>3482.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 47 c'est le quarrè de</cell>
+<cell>48.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 53 c'est le quarrè de</cell>
+<cell>66249.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 59 c'est le quarrè de</cell>
+<cell>530.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>pour 61 c'est le quarrè de</cell>
+<cell>1766319049. lequel</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="3">quarrè estant diminuè de 1 donnè le quarrè de 226153980. or le quarrè qui satisfait à 61. à 19 lettres. quoy qu'il n'estoit besoin pour le trouuer par la methode de Monsieur <persName key="fren024">Frenicle</persName> que de 5418. 11418. 23718 et 29718.
+<list>
+<item>pour 109 jl n'y en a point au dessous de 25 lettres.</item>
+<item>pour 127 - c'est le quarrè de 4730624.</item>
+</list></cell>
+<cell></cell>
+</row>
+</table></p>
+<p>Monsieur <persName key="fren024">Frenicle</persName> trouue que c'est plustost fait d'examiner tous les Cubes de suitte pour voir ceux qui satisfont; qui est la question proposeè par Monsieur <persName key="ferm011">Defermat</persName>, que de seruir de la methode de Monsieur <persName key="scho197">Schoten</persName>. Neantmoins pour s'en seruir jl donne ce Theoreme.</p>
+<p>Il n'y a aucune puissance dont la racine soit vn nombre premier, et l'exposant vn nombre jmpairement pair, qui puisse auoir vn quarrè pour la somme de ses parties. Donc Monsieur <persName key="scho197">Schoten</persName> doit exclure ces nombres de sa methode.</p>
+<p>Il en peut encor exclure beaucoup d'autres scauoir ceux ou les proportionelles sont en multitude jmpaire, car leur somme ne sera point vn quarré, et n'a pas besoin d'estre examinée. Si le nombre de la proportion n'est pareil à 79. 199. et autres dont il se trouue fort peu, se trouuant plusieurs milliers de nombres ou jl n'y en a que 5. ou 6.</p>
+<p>D'auantage le second nombre de la proportion continuelle, doit estre vn de ceux de cette progression, et entre ceux la jl n'y aura que ceux qui auront ces deux proprietez.</p>
+<p>La 1<hi rend="sup">ere</hi> que ce soit vn nombre premier.</p>
+<p>La 2<hi rend="sup">de</hi> qu'il soit moindre de l'vnité qu'un double quarrè.</p>
+<p>Or par les lettres finales et autres proprietez des doublequarrez on peut voir aisément qu'il n'y en a aucune qui puisse satisfaire outre 7. si le Cube n'a plus de 60. Lettres.</p>
+<p>Il se trouue par ces deux proprietez qu'il n'y a que deux nombres a examiner s'ils sont doublesquarrez pour aller jusques a la racine de ce Cube de 60. Lettres. Et ce Examen est d'ajouster 1. et prendre la racine quarreè de la moitiè, car les autres ou sont composees, ou leurs finales monstrent qu'ils ne sont pas doublequarrez - 1.</p>
+<p>Monsieur <persName key="fren024">Frenicle</persName> propose ce probleme. Trouuer vn nombre triangulaire dont le sextuple + 1 soit nombre Cube.</p>
+<p><table>
+<row>
+<cell>1.</cell>
+<cell>En cette progression six fois <hi rend="i">a</hi> - 1. aequatur <hi rend="i">b.</hi></cell>
+</row>
+<row>
+<cell>7. <hi rend="i">a.</hi></cell>
+<cell>6 <hi rend="i">b - a</hi> aequatur <hi rend="i">c.</hi></cell>
+</row>
+<row>
+<cell>41. <hi rend="i">b.</hi></cell>
+<cell>6 <hi rend="i">c - b</hi> aequatur <hi rend="i">d</hi></cell>
+</row>
+<row>
+<cell>239. <hi rend="i">c.</hi></cell>
+<cell>&amp; caet.</cell>
+</row>
+<row>
+<cell>1393. <hi rend="i">d.</hi></cell>
+<cell></cell>
+</row>
+<row>
+<cell>8119.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>47321.</cell>
+<cell></cell>
+</row>
+</table></p>
+<p>Les nombres de la precedente progression se trouuent encor autrement par la seule addition comme en celle qui suit, en laquelle jl n'y aura que ceux de la colonne <hi rend="i">h</hi> qui sont vis a vis des jmpairs de la colonne <hi rend="i">g</hi> qui soient vtiles.</p>
+<p lang="fr"><table>
+<row>
+<cell><hi rend="i">g.</hi></cell>
+<cell><hi rend="i">h.</hi></cell>
+<cell>La construction de cette table est aiseè par addition car 1 + 1 font 2. en <hi rend="i">g.</hi></cell>
+</row>
+<row>
+<cell>1.</cell>
+<cell>1.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>2.</cell>
+<cell>3.</cell>
+<cell>2 + 1 font 3. en <hi rend="i">h.</hi></cell>
+</row>
+<row>
+<cell>5.</cell>
+<cell>7.</cell>
+<cell>3 + 2 font 5. en <hi rend="i">g.</hi></cell>
+</row>
+<row>
+<cell>12.</cell>
+<cell>17.</cell>
+<cell>5 + 2 font 7. en <hi rend="i">h.</hi></cell>
+</row>
+<row>
+<cell>29.</cell>
+<cell>41.</cell>
+<cell>7 + 5 font 12. en <hi rend="i">g.</hi></cell>
+</row>
+<row>
+<cell>70.</cell>
+<cell>99.</cell>
+<cell>12 + 5 font 17. en <hi rend="i">h</hi> &amp;caet.</cell>
+</row>
+<row>
+<cell>169.</cell>
+<cell>239.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>408.</cell>
+<cell>577.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>985.</cell>
+<cell>1393.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>2378.</cell>
+<cell>3363.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>5741.</cell>
+<cell>8119.</cell>
+<cell></cell>
+</row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

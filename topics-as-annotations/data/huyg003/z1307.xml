@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1307"/>
+<meta type="date" value="1665-01-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="kinn013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="praag001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1307">
+<div type="opener">
+<p><persName key="kinn013">Kinnero</persName> Pragam.</p>
+<p>5 Januarii 1665.</p>
+</div>
+<p>doleo quod male habeat. experimentum mercurij solito altius consistentis in tubo vitreo. de Longitudinum invento.</p>
+</div>
+</body>
+</text>
+</TEI>

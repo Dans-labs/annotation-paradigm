@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0341"/>
+<meta type="date" value="1656-10-08"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0341">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.P.</p>
+</div>
+<p>Gratias Tibi ago Vir Clarissime, pro Epistola quam misisti, in qua ubi literas Cartesij impressas vidi, optavi simul, et ea quae à Domino <persName key="beau901">de Beaune</persName> fuerunt annotata, à Te typis fuisse mandata ut eò magis, quae de hac Circuli Quadratura autor in lucem emisit, infirmis fundamentis superstructa esse cuivis constaret, et Tu auctoritatem auctoritati superadderes.
+Alterum exemplum Clarissimo Domino <persName key="lips006">Lipstorpio</persName> dedi, qui, ut Tibi quoque ipsius nomine gratias agerem, rogavit, atque nuper hìc, die videlicet 2 Octobris, publicè ad gradum Doctoratus et summa in utroque Jure privilegia consequenda, de Appellationibus in causis criminalibus<note n="#1"/>, magno cum applausu disputavit, quique propediem, ut narravit, in Angliam est profecturus. Caeterum, quoniam Dominus <persName>Mylon</persName> [ut]<note n="#2"/> scribit, per Te literas ad me dare consuevit, quò unà sub ductu litterarum Domini <persName key="carc010">de Carcavj</persName> ad me pervenirent, Tuque Vir Clarissime, ob studiorum commercium, quod cum ijs inijsti frequentius ad illos scribis, rogo ut has insertas quàm primum cum tuis ad Dominum <persName>Mylonium</persName> amandare digneris. Quod si feceris plurimum Tibi devinxeris</p>
+<div type="closer">
+<p>Tui officiosissimum <persName key="scho197">Fr. à Schooten</persName>.</p>
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>8 Octobr. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, gelogeert ten huijse van Myn Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>op t'pleijn in S'Graven-hage.
+<lb/>Cito
+<lb/>cito
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

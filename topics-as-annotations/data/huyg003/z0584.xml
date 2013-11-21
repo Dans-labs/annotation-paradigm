@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0584"/>
+<meta type="date" value="1659"/>
+<meta type="sender" value="pasc001"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0583"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0584">
+<p>J'ay veu la lettre<note n="#2"/> de Monsieur Vguens et ie vous y respondray article par article.</p>
+<p>Je suis bien fasché que nous n'ayons poinct eu de connoissance de la lettre qu'il auoit escritte a Monsieur Boullaud et des belles choses qu'il luy auoit mandees et quj auroyent bien embelly l'hystoire de la Roulette, mais elles pourront trouuer leurs places ailleurs.</p>
+<p>Le centre de grauité qu'il y donne du demj solide de la Roulette entiere tourné au tour de la base n'est pas des problemes proposez par l'anonime quj auoit proposé seullement celuy de la demi Roulette, et de ses parties, tournées au tour de la base, ou de l'axe. Or quj a le centre de grauité de ces solides là, à aussy ceux de la Roulette entiere. Mais quand on les a dans ceux de la Roulette entiere, on ne les a pas pour cela dans ceux de la demj Roulette, car on n'a qu'vne des deux mesures necessaires, et c'est celle quj est la plus facile a trouuer.</p>
+<p>C'est aussy precisement ce que Monsieur <persName key="robe012">de Roberual</persName> en auoit trouué, car il y a plus de deux mois qu'il donna cette mesure c'est a dire le centre de grauité du demj solide de la Roulette entiere, mais non pas de celuy de la demj Roulette, quj estoit vn des cas proposez par l'anonime.</p>
+<p>Je vous diray neantmoins que le calcul de Monsieur Vguens n'est pas juste, mais ie m'assure que ce n'est qu'erreur de Calcul, jl faudroit au lieu de 133./216., comme il l'a mis, mettre 126./216. ou pour mettre au moindre nombre en diuisant le tout par 18. mettre 7./12..</p>
+<p>Pour ces autres problemes touchant la dimension des surfaces des conoides Je les admire au dela de tout ce que ie puis vous dire, ce sont certainement d'admirablement belles choses.</p>
+<p>Monsieur Detonuille en a fait le mesme jugement, et comme jl auoit desja medité sur la dimension des surfaces Il a pensé a celle du Conoide parabolique, Et voicy comme il en a fait l'analise<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0435"/>
+<meta type="date" value="1657-12"/>
+<meta type="sender" value="heur006"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="0434"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0435">
+<div type="opener">
+<p>Copye.<note n="#1"/></p>
+<p>Mijn Heer <persName key="scho197">van Schoten</persName>.</p>
+</div>
+<p>Uyt den brief door Jonkheer <persName key="huyg003">van Suylichem</persName> aen VE geschreven versta ic dat Dominus <persName key="slus001">Sluse</persName> niet alleen eyscht de quadratura van de geheele lyn maer ooc van alle stucken door perpendicularen op de ax afgesneden, 't welck ic lichter of ten minsten alsoo licht soude hebben connen leveren als de quadratura vande geheele. als mede der selver stucken centra gravitatum gelyck VE cont sien aen 't methodus dat ic in 't resolveren hebbe gebruyckt. 't welck ic naer de cortheyt van de tydt die my tegenwoordigh overschiet hier sal byvoegen.</p>
+<p>Sij getogen in de kromme een recte lijn naer gevallen AB, en uyt A en B getrocken
+<figure><graphic url="huyg003oeuv02ill50.gif"></graphic></figure>
+AC, BD perpendiculair op de ax. deel CD in 4 gelycke deelen in F, E, G, en trekt de linien FI, EH, GK parallel met AC, en 't samengevoeght AH, HB, ondersoeck de reden van de linie HL tot IM en KN t' samen, welcke ic bevinde als 2 tot 1, en dienvolgens den boogh AIHKBA tot sijn ingeschreven driehoec AHB als 4 tot 3.</p>
+<p>Voorts bevinde ic dese linie te bestaen uyt twe contrarie bochten, en 't punct tusschen dese beyde wort gevonden nemende OQ gelyck ⅓ OP, en treckende door Q de perpendiculair RS. Indien nu uyt R en S twe gelycke linien getogen werden als RT, SV, en de selve in ettelycke gelycke deelen werden gedeelt met linien parallel met TV. en de puncten in de cromme daer dese linien doorgaen met rechte linien t' samen getrocken, soo sijn de booghjes die door dese linien werden afgesneden vervolgens tot malkander in dese proportie 1, 3, 5, 7, 9, 11 &amp;c. hier uyt
+vinde ick het centrum gravitatis van de twe bogen door SV et RT afgesneden, in Y. delende de linie QX in 15 delen, en daer af 8 nemende voor QY. Soo VE geraden vindt dit aen Jonkheer <persName>van Zuylichem</persName> bekent te maecken 't is my niet tegen, V.E. cont daer in doen naer gevallen. Vale.</p>
+<div type="closer">
+<p>VE geaffectioneerde vrient en Dienaer <persName key="heur006">H. v. Heuraet</persName>.</p>
+<p><date>1657 Dec.</date></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

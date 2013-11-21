@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2475"/>
+<meta type="date" value="1687-07-26"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2475">
+<div type="opener">
+<p>Nobilissimo, Eruditissimoque Viro D. <persName key="huyg003">Christiano Hugenio</persName> S.P.D. <persName key="gent015">Petrus Gentius</persName>.</p>
+</div>
+<p>Excidit sane N.V. num hanc D. de Volder Epistolam tecum communicarim, et si ejus oblitus sum, en eam habe.</p>
+<p>Quod suspicabar, inquit, D. Fatio mentem non recte D. Tschirnhausio perspectam fuisse, cum responsionem illam exararet, id verum esse examinato accuratius ejus responso<note n="#1"/>, certior redditus sum. Hoc enim responsum eo nititur fundamento, quod necesse sit omnia fila ijsdem duobus focis alligari; in quam cogitationem non ita difficilis est ex modo, quo suam demonstrationem Fatio proponit, lapsus. Sed si perpendamus semper esse (in fig. D. Fatio)<note n="#2"/> <hi rend="i">mo</hi> ad <hi rend="i">pq</hi> ita <hi rend="i">cb</hi> ad <hi rend="i">eg</hi> facile patebit, quantumlibet etiam multi foci sumantur, modo omnes sinus ab una parte lineae <hi rend="i">cn</hi> sint aequales sinubus ab altera parte, sinus bis, ter &amp;c. sumendo, ubi filum duplicatum, triplicatumque etc. occurrit, demonstrationem quam in prioribus meis<note n="#3"/> uni curvae applicui, ijsdem ex fundamentis omnibus applicari posse, etiam illis in quibus ab una parte plura, ab altera pauciora sunt fila. Quod posterius in suis curvis locum habere miror negare D. Tschirnh. Si nempe eâdem illa curva (fig. 19 p. 74)<note n="#4"/> ang. BMC ponatur gr. 60, CMD gr. 20 erit arcus FH ∞ HG gr. 40 et KG gr. 10. adeoque HK gr. 30 HL gr. 15 et GL gr. 25. adeoque recta ML, quae ipsi perpendicularis est in tangentem, inter F et C cadet, eruntque ab una parte tria, ab alterâ unicum filum. Quod autem de Reg. D. Fatio, tanquam apertissimè falsâ, ita confidenter loquatur D. Tschirnh. mirum mihi nequaquam videtur. Facile enim video, illum ex modis loquendi, quibus D. Fatio utitur, quorum explicationem, et
+defensionem, ne in verbis haeream, ipsi relinquo, Regulam quandam sibi imaginatum esse, quam falsam demonstrat, et quam pro Reg. D. Fatio habet, licet ab ea multum differat. In prioribus autem meis quod haesitanter locutus sum, id tantum spectat sensum responsi ad Reflexiones (ut loquitur) D. Fatio quas ad me miseras, non vero vel methodum, qua ad inveniendas tangentes utitur D. Tschirnh., nec quod dubius haeream, verane an
+falsa foret. Falsam nempe esse vel exemplo curvae quam allegat p. 74 fig. 19 clarissime ostendi. Qua de re tu ipse mecum non dubitabis si nihil te retineat, quam quod non videas consequentiam qua dixi sequi MP + MQ ∞ 2 MS<note n="#5"/>. Nam cum demonstraverim FR + IV ad GT esse, ut MP + MQ ad MS; supposuerim vere eam esse lineam ML, ut FR + IV ∞ 2GT, liquido constat MP + MQ ∞<hi rend="sup">ri</hi> 2MS.</p>
+<p>Quod si nunc porro inspiciamus Theorema D.<hi rend="sup">ni</hi> Tschirnh. illud profecto deprehendimus cum eo D. Fatio consentire. Si nempe ex <hi rend="i">m</hi> (in fig. D. Fatio)<note n="#6"/> pondus quodcunque suspendatur illud in ea linea haerebit, quae transiens per <hi rend="i">m</hi> tantundem habeat potentiae trahentis versus unam partem rectae <hi rend="i">mn</hi>, quantum versus alteram; quod profecto non fiet, nisi centrum gravitatis ponderum <hi rend="i">g.h.f.</hi> sit in recta <hi rend="i">mn</hi>; tum enim virium ab utraque parte trahentium erit aequilibrium. Ex quo Theoremate D. Fatio non difficile erit sinuum eam quam adhibet ab utraque parte aequalitatem demonstrare. Imo hinc etiam fortasse innotescet, unde error
+<figure><graphic url="huyg003oeuv09ill44.gif"></graphic></figure>
+D. Tschirnhausij originem ceperit. Sumamus enim in curvâ quam fig. 19 p. 74 describit, esse pondera D et C aequalia, in A vero propter duplicatum filum duplum pondus. Ponderis C et dimidij ipsius A erit centrum gravitatis M in medio lineae AC, ponderum vero D et alterius dimidij ipsius A erit centrum gravitatis punctum L, in medio lineae AD, quae etiam puncta L et M obtinebuntur bisectione angulorum ABC, ABD. Hactenus itaque eodem modo progredimur. Nunc vero omnium ponderum centrum gravitatis non invenietur in linea, quae ang. GBF bifariam secat, sed quae bifariam secat lineam LM. Vel facilius, centrum gravitatis ponderum C et D erit in recta BE, quae et lineam DC et ang. DBC bifariam secat. Verum omnium ponderum centrum gravitatis erit in recta BK, quae lineam AE non quae ang. ABE bifariam secat. An vero hoc ipsum (quod si sit merito illud vocat D. Fatio une faute d'inadvertance) an vero aliud quid lateat certius apparebit, ubi demonstrationem suam, quâ tantopere confidit, communicare nobiscum voluerit D. de Tschirnhaus.</p>
+<p>Hactenus D. de Volder. In ultimis ad me tuis conquereris me aliquid ex epistola prae festinatione omisisse, id quod forte ex hac emendare ipse, non ego poteris. Vale plurimum.</p>
+<div type="closer">
+<p>Amst. 26 Julij 1687.</p>
+<p>Tuus totus <persName key="gent015">Gentius</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>WelEdele Geboren Heer, Mijn Heer <persName key="huyg003">Christiaan Hugens</persName>
+<lb/>à la Haye.
+<lb/>pt.</p>
+</div>
+</body>
+</text>
+</TEI>

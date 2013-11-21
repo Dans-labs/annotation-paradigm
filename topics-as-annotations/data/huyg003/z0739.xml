@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0739"/>
+<meta type="date" value="1660-04-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0739">
+<div type="opener">
+<p><persName key="hein009">Nicolao Heinsio</persName> Viro Clarissimo <persName key="huyg003">Christianus Hugenius</persName> S.D.</p>
+</div>
+<p>Cujusmodi esset telescopium meum, quaeque in eo vitrorum forma et qui effectus in libello de Systemate Saturni satis exposuisse me putabum. Attamen quia Serenissimus Princeps alio insuper experimento illud cognoscere cupit<note n="#1"/> en tibi tum characterum specimen<note n="#2"/>, tum distantiae ex qua leguntur mensuram. Versus nimirum hi typis excusi non difficile leguntur telescopio meo (etiam ab eo qui prius illos non viderit) ex interuallo 360 pedum Rhenolandiae quorum haec linea semissem unius exhibet.</p>
+<p>&nbsp;</p>
+<p>Sed sciendum est ad nocturnas observationes hoc telescopium comparatum esse, interdiu vero propemodum nullius esse usus eo quod veluti nebulam quandam rebus visis offundat. Memineris quaeso Illustrissimo Carolo Dato meis quoque verbis
+gratias agere de Vincentii Viviani opere<note n="#3"/> ad nos misso. In quo, licet id raptim tantum adhuc, ut scis, perlegerim, egregias multas Conicarum Sectionum et Conoidum proprietates offendi. Ingeniosam quoque demonstrationem in appendice de lineis ex puncto uno ad plura data ducendis quarum summa sit minima. In libro autem 2<hi rend="sup">do</hi> propositione 20<note n="#4"/> animadverti ad constructionem problematis hyperbolam adhiberi, cum tantum circulo opus sit, quanquam existimo hunc errorem Viviano cum ipso Apollonio communem esse. Hujus enim ni fallor similis quaedam in codem problemate constructio à Pappo reprehenditur libro 4 propositione 30, his verbis<note n="#5"/>.</p>
+<p>Videtur autem quodammodo peccatum non parvum esse apud Geometras cum Problema planum per conica vel linearia ab aliquo invenitur, et ut summatim dicam cum ex improprio solvitur genere, quale est in 5<hi rend="sup">o</hi> libro Conicorum Apollonij Problema in Parabola.</p>
+<p>Ut videat autem Clarissimus Vir circuli solius descriptione problema illud suum componi addo hîc <hi rend="i">ϰατασϰευὴν</hi><note n="#6"/> jam olim a me repertam Golioque nostro et Schotenio<note n="#7"/> exhibitam, una cum demonstratione. Neque vero in parabola tantum sed et in hyperbola et ellipsi problema hoc planum esse si opus sit ostendere possim.</p>
+<p>Vale</p>
+<div type="closer">
+<p>Datum <placeName key="denha004">Hagae Comitis</placeName> <date>7 Aprilis 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

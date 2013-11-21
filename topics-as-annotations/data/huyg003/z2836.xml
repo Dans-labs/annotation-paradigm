@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2836"/>
+<meta type="date" value="1693-11-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="bign011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2836">
+<div type="opener">
+<p>A Monsieur l'Abbé <persName key="bign011">Bignon</persName>.</p>
+<p>12 Nov. (1693).</p>
+</div>
+<p>J'avois dessein Monsieur de vous envoier l'imprimé cy<note n="#2"/> joint lors que la semaine derniere je me donnay l'honneur de vous escrire mais n'ayant pu avoir l'exemplaire assez a temps, il a fallu attendre jusqu'a cette heure. Vous jugerez de ma remarque et verrez la raison, pourquoy j'ay bien voulu qu'elle fust publique, qui m'a paru d'autant plus juste que le nom du Roy du commandement exprès du quel cette Theorie est imprimée et l'apparence de veritè qu'on y rencontre pouvoient authoriser l'erreur, et luy donner cours. J'ay estè estonnè de voir l'approbation que le Journal de Leipsich<note n="#3"/>, et Mr. <persName>Bernoulli</persName> professeur a Basle et autres personnes scavantes ont donné a ce Traitè de la manoeuvre, et je ne l'ay estè guere moins, lors que je me suis apperceu par quelque lettre de Mr. <persName key="hosp010">le marquis l'Hospital</persName><note n="#4"/> que non plus en France, on n'y avoit encore rien trouvè a redire. Mais cela m'a fait croire, qu'il n'a pas estè examinè par Mrs. de nostre Academie,
+ou bien qu'ils auront estè prevenus par la bonne opinion qu'ils ont du scavoir de l'auteur.
+Je le fus de mesme du commencement, et je ne laisse pas d'avoir encore beaucoup d'estime pour luy non obstant cet abus, ou il estoit aisè de tomber.</p>
+<div type="closer">
+<p>Je suis avec respect
+<lb/>Monsieur
+<lb/>Vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

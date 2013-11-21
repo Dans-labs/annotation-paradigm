@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0382"/>
+<meta type="date" value="1657-04-12"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0382">
+<div type="opener">
+<p>A <placeName key="parij001">paris</placeName> ce <date>12 Avril 1657</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Pour respondre a vos ciuilitez et aux obligations que je vous ay je deurois vous faire de grands discours, mais cela estant contraire a la franchise Geometrique, je vous supplie de vous contenter du ressentiment que j'en ay. Je ne doute plus a present de la Methode de Monsieur <persName key="scho197">Schooten</persName> puisque les Equations quarréquarrées se reduisent a des Cubiques par le diuiseur <hi rend="i">z</hi> + ou - <hi rend="i">p.</hi> comme jl m'a escrit par sa derniere, car les 3 figures de sa methode m'ayant donnè ces trois Equations quarréquarrées
+<figure><graphic url="huyg003oeuv02ill08.gif"></graphic></figure><note n="#1"/></p>
+<p>Je n'ay pas fait le calcul dans les autres cas estant asseurè par la nature de ces Equations que cette diuision sera toujours possible car elles sont veritablement Cubiques, ayant vne de leur 4. racines connüe. Les diuisions que vous auez fait par la Cubique de Monsieur <persName key="scho197">Schooten</persName> vous auront donnè le mesme diuiseur <hi rend="i">z</hi> + ou - <hi rend="i">p.</hi> ce qui me confirme d'auantage dans mon opinion. Vostre jnuention d'horloge<note n="#2"/> est trouueé tres belle par tous ceux a qui j'en ay parlè, Elle le sera encor plus si vous la rendez jnalterable tant par les poids que par le ressort; auec elle si on auoit la vraye Equation du temps, jl n'y auroit plus rien a demander pour les Longitudes.</p>
+<p>Pour ce qui est de la methode dont je conçoy que l'on pourroit faire vne Lunette pareille a la vostre, assauoir dont les deux verres soient conuexes. Je ferois vn verre
+<figure><graphic url="huyg003oeuv02ill09.gif"></graphic></figure>
+spherique <hi rend="i">a b c</hi> dont le diametre seroit de 23. pieds, pour auoir son point d'jnversion <hi rend="i">d.</hi> (car vne sphere fera sensiblement le mesme effect, que l'hyperbole de Monsieur <persName key="desc004">Des Cartes</persName> qui seroit la plus petite de toutes celles qui toucheroient exterieurement cette sphere, c'est a dire comme vous scauez, l'hyperbole dont le costé droit est egal au diametre de cette sphere). puis tirant l'axe <hi rend="i">f b d.</hi> je ferois du point donné <hi rend="i">d</hi>, les trois points <hi rend="i">h</hi>, I, K, en sorte qu'ils seroient harmoniquement proportionaux, et que la distance IK seroit donnée comme de 3 poulces. ce qui est facile. puis du diametre <hi rend="i">h</hi> K ainsi trouuè de position je ferois la sphere <hi rend="i">m k n</hi>, qui a la propriete de rompre en I, les Rayons <hi rend="i">amd</hi>, <hi rend="i">c n d</hi> &amp;c. Et ainsi ma lunette seroit acheuee.</p>
+<p>Pour en scauoir l'effect, jl faut trouuer l'angle <hi rend="i">m</hi> I <hi rend="i">n.</hi> Je n'en ay pas encor fait le calcul, estant pressé de m'en aller aux champs. Je le remets a mon retour, pour vostre construction si elle est meilleure que cellecy je prendray la libertè de vous la demander, pourueu que vous n'ayez pas resolu de la tenir secrette. J'escris de l'autre part ce que j'ay pû tirer sur le champ de Monsieur <persName key="fren024">Defrenicle</persName> touchant les propositions numeriques de Monsieur <persName key="ferm011">Defermat</persName>. Je vous supplie d'en faire part a Monsieur <persName key="scho197">Schoten</persName> et de me tenir pour</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mylo002">Mylon</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

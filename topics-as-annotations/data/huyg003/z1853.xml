@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1853"/>
+<meta type="date" value="1671-11-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1853">
+<div type="opener">
+<p>à <placeName key="parij001">Paris</placeName>, 7 Novembre 1671.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous remercie tres humblement de ce que, non obstant ma paresse a escrire inexcusable, vous ne laissez pas d'avoir la bontè de me faire part des productions de vos illustres. Il y a à la veritè quelque chose qui m'a fait retarder, d'une semaine à l'autre, de vous faire celle-ci, qui est l'imprimè<note n="#2"/> dont vous la voyez accompagnee. Car ce qu'il y a la-dedans des observations de Saturne, je l'avois donnè il y a deux mois devant que m'en aller a la campagne<note n="#3"/> mais M. Cassini s'estant proposè de publier en mesme tems la suite de ses observations des taches du soleil, la gravure des figures et autres circonstances y ont apportè cette longueur, que tout cela ne paroit que maintenant et a mon grand regret, parce qu'ayant predit le retour de la forme ronde de Saturne vers la fin de l'année, peu s'en faut que la prediction ne soit accomplie devant qu'on en ait etè averti, - je dis pour les pays estrangers, car nos Messieurs savent bien, qu'aussi tost que M. Cassini m'eut appris que les bras de Saturne estoient revenues, je dis qu'assurement ils disparoitroient devant la fin de l'année. Je les observay encore hier au soir, mais si foibles et obscurs qu'on avoit de la peine a les discerner; de sorte que dans peu de jours ils ne paroitront plus de tout. Ceci confirme tout à fait mon hypothese de l'anneau, qui presentement disparoit a nos yeux, a mesure que les rayons du soleil en eclaircit<note n="#4"/> obliquement la surface plate tournee vers nostre vue. Et les apparences de cette année donneront moyen de predire le retour de la figure ronde avec bien plus de justesse qu'auparavant.</p>
+<p>Je vous suis bien obligè de la construction de M. Sluse sur le probleme d'Alhazen<note n="#5"/>. Elle vient, comme il a bien remarquè de la mesme analyse que la mienne<note n="#6"/> et n'en est pas beaucoup differente. Il me semble tousjours que la mienne est la plus naturelle, à cause de la disposition des asymptotes de l'hyperbole, et il n'y a pas plus de façon aussi qu'à celle qu'il a donnée.</p>
+<p>Mais il faut que j'en communique avec luy mesme qui est le plus scavant et le plus sincere de tous les geometres que je connoisse, quand ce ne seroit que pour le prier de me faire part d'une analyse encore plus facile, qu'il dit avoir trouvée de ce mesme probleme<note n="#7"/>.</p>
+<p>Je suis marri qu'on a tant de peine a avoir icy les livres qui s'impriment par de là. J'ai priè ce bon Monsieur V. Ruham<note n="#8"/> de m'en procurer quelques uns, et nommement cette seconde partie du Traité de Monsieur Boyle, mais jusqu'ici je
+n'ai encore pu l'obtenir. Pour la derniere partie de l'ouvrage de Monsieur Wallis, j'espere qu'il aura la bontè de se souvenir de moy, quand il sera achevè d'imprimer et il peut s'assurer que je suis un des plus grands admirateurs de ses profondes speculations.</p>
+<p>J'attens le volume entier de vos Transactions que j'ai priè mon pere de m'apporter d'Angleterre. Je suis marri que nostre Monsieur Gallois ne continue pas ses nouvelles avec la mesme diligence que vous<note n="#9"/>. Il y a deux mois qu'il est à la campagne, et que nous ne l'avons pas vu.</p>
+<p>Mon pere m'a envoyé une feuille de vos Transactions, c'est page 631<note n="#10"/>, où vous dites des choses merveilleuses de certains verres<note n="#11"/> non spheriques. J'ai bien de la peine a croire qu'ils puissent faire un bon effet en qualitè d'oculaire, et beaucoup moins en celle d'objectifs. Je vous prie de me dire quelle suite a eu cette nouvelle fabrique, dont je ne laisse pas d'admirer l'industrie; de ce qu'au moins ces verres sont assez régulierement taillées pour faire quelque chose de plus que les spheriques, lors qu'on s'en sert à lire à travers; car c'est de quoi mon pere rend tesmoignage et en attend un de cette façon.</p>
+<div type="closer">
+<p>Je me recommande à vos bonnes graces, et suis très véritablement,
+<lb/>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Nos observateurs pour l'Amerique<note n="#12"/> partent dans peu de iours. Et je leur donne une pendule ajustée d'une maniere nouvelle pour observer les longitudes. Elle resistera mieux à l'agitation du vaisseau que les precedentes<note n="#13"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2365"/>
+<meta type="date" value="1684-09"/>
+<meta type="sender" value="cata001"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2365">
+<p>Réponse de Mr. <persName key="cata001">l'Abbé de Catelan</persName> à la lettre de Mr. <persName key="bern071">Bernoulli</persName><note n="#3"/>, sur son demêlé avec Monsieur <persName key="huyg003">Hugens</persName> touchant le centre de balancement, inserée dans le <hi rend="sc">xii</hi>. Journal de cette année 1684.</p>
+<p>&nbsp;</p>
+<p>Pour répondre à cette Lettre, je repeteray le même exemple dont Mr. <persName key="bern071">Bernoulli</persName> se sert contre moy, d'un pendule composé de deux poids égaux suspendus par un même axe à un centre commun, qui soit quatre fois plus éloigné de l'un que de l'autre; en sorte que les hauteurs perpendiculaires d'où ils descendent soient comme 1 à 4.</p>
+<p>Nous sommes d'accord sur la proportion de ces hauteurs &amp; de la somme des vitesses que ces poids acquerroient, s'ils tomboient separément de ces hauteurs; mais nous ne convenons pas ensuite dans l'expression de ces hauteurs par rapport à une certaine partie d'espace, qu'on doit prendre pour leur commune mesure &amp; concevoir comme l'unité à leur égard.</p>
+<p>Je pretends selon tous ceux qui ont écrit avant moy sur de semblables questions que les veritables nombres qui doivent servir à exprimer les hauteurs, sont les quarrez mêmes des nombres exposans des vitesses, toutes les fois qu'il n'y a de proportion donnée entre les unes &amp; les autres, que celle qui nous est connuë en general par l'experience. Or selon mon expression, il est évident que 9 fois &amp; 144 fois la 25 partie d'un pied, c'est à dire six pieds, un pouce, cinq lignes &amp; quelque chose davantage, n'estant pas la même grandeur qu'un pied &amp; quatre pieds ou cinq pieds, la somme des hauteurs où les poids montent dans l'exemple proposé n'est pas égale à celles des hauteurs d'où ils descendent, contre ce que Monsr. <persName key="huyg003">Hugens</persName> avance dans la proposition generale qui sert de principe à son Traité des centres de balancement.</p>
+<p>Monsr. <persName>Bernoulli</persName> repond à cette objection, que les quarrez des nombres qui expriment les vitesses des poids ne marquent que les proportions des hauteurs ausquelles ils montent aprés leurs separation, &amp; non pas les hauteurs mêmes qui peuvent bien estre en raison de 144/25 &amp; 9/25 sans que leur somme laisse pour cela d'estre égale à 5. qui est celle des hauteurs d'où les poids sont descendus estant unis dans un même pendule; car les hauteurs où ils remontent estant separées sont selon luy 4 12/17 &amp; 5/17 qui font ensemble 5. aussi-bien que les nombres 1. &amp; 4. exposans des premieres hauteurs.</p>
+<p>La replique est facile. Je demande à Monsieur Bernoulli qui pretend qu'on ne doit avoir icy égard qu'á la proportion des quarrez des nombres exposans des vitesses, par quelles loix du mouvement &amp; par quel principe de mecanique, les poids dont il est question remonteront plûtost aux hauteurs qu'ils marquent &amp; qui l'accomodent, qu'à leurs proportionelles 5 11/17 &amp; 6/17 dont la somme est 6. on bien à 3 13/17 &amp; 4/17 dont la somme est 4. ou à une infinité d'autres semblables qui ont entre elles la même proportion de 144/25 &amp; 9/25 mais qui donnent la hauteur du centre de pesanteur remonté, plus grande ou plus petite à l'infini, que celle d'où l'on suppose qu'il soit descendu. Certainement ces poids ne remonteront pas à toutes sortes de hauteurs proportionnelles aux quarrez des vitesses qu'ils ont acquises en descendant, puis que leur pesanteur rallentit par dégrez &amp; détruit à la fin ces vitesses avec lesquelles ils sont refléchis. Qu'arrivera-t-il donc alors? Je le demande à Monsieur Bernoulli? La Nature incertaine par elle-même de ce qu'elle doit faire en cette occasion, se déterminera-t-elle enfin à agir dans ces poids selon sa volonté? Il me permettra d'en douter, jusqu'à ce qu'il nous en donne de bonnes preuves tirées des principes de la Physique: &amp; cependant je crois pouvoir conclure que les raisons qu'il apporte icy en faveur de Mr. <persName key="huyg003">Hugens</persName><note n="#4"/> ne servent qu'à confirmer, que sa proposition generale &amp; fondamentale des centres de balancement n'est ny si bonne ny si incontestable qu'il le pense.</p>
+</div>
+</body>
+</text>
+</TEI>

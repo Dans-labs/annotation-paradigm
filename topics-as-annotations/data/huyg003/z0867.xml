@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0867"/>
+<meta type="date" value="1661-06-13"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0867">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce <date>13. Juin</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous auriez eu quelque suiet de me faire des reproches, si J'eusse laissé partir Monsieur <persName key="olde010">d'Oldenbourg</persName> sans le charger de deux ou trois lignes pour vous. Je ne vous y feray pourtant point de compliment. Et il m'epargnera la peine de vous raconter les petites choses qui se sont passees, à nos assemblees, depuis vostre depart, &amp; tout le reste de ce que vous pourrez desirer sçauoir de Nous. Je pretends pourtant que vous vous entendiez obligé, de ne point deferer à nous donner de vos Nouuelles, jusqu'a son retour. par ma derniere<note n="#1"/> vous aurez appris combien de satisfaction tous vos amis de nostre societé ont eue, de ce que Je leur ay dit de vostre part. Vous verrez maintenant que je me gouuerne selon ce que je vous y ay dit. parceque Je suis reellement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName>Constantin</persName><note n="#2"/> <persName key="huyg003">Hugens De Zulicom</persName> le fils A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

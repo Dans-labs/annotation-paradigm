@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXVIII"/>
+<meta type="date" value="1679"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="cham016"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXVIII">
+<div type="opener">
+<p><persName key="cham016">A.M. Chamard</persName>.</p>
+</div>
+<p>Arrestez la main qui tient la pierre: Il n'y [a] donc que l'air chassè d'entre deux. Si l'attraction se faisoit parce que la matiere magnetique chasse l'air d'entre les 2
+<figure><graphic url="huyg003oeuv22ill24.gif"></graphic></figure>
+aimants ou d'entre l'aimant et le fer, il attireroit aussi fort un autre aimant que le fer, ce qui est contre l'experience car le fer est attirè incomparablement plus fort<note n="#2"/>.</p>
+<p>Le fer est capable de donner passage a plus grande quantitè de matiere magnetique que non pas l'aimant, c'est pourquoi elle n'entre pas seulement directement de la pierre H dans le fer qui la joint au pole sortant, mais il en entre encore des 2 costez de celle qui sort de la pierre. Dans le cas du pole rentrant la matiere qui est en trop grande quantitè dans le fer en sort en partie a costè aupres de la pierre pour y entrer.</p>
+<p>Difficultè pourquoy le fer A est attirè tantost contre la pierre B, tantost contre le fer C, selon qu'on le met proche de l'un ou de l'autre. Et de mesme dans ce cas que à celuy du pole sortant.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0260"/>
+<meta type="date" value="1656-02-04"/>
+<meta type="sender" value="wall057"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="oxfor001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0260">
+<div type="opener">
+<p>Clarissime Vir,</p>
+</div>
+<p>Tuis ad me <placeName key="denha004">Hagae Comitis</placeName> datis Junii 13. 1655<note n="#1"/>, responsorias meas<note n="#2"/> eodem mense repositas te accepisse consido. Quid de curvis nostris antehac propositis judicandum erit, a te fortasse accipiemus, ubi quem cum his literis mitto libellum<note n="#3"/> pervolveris. Qua ratione illae ad circulum pertineant, (quod tu, ut ais, summopere videre desideras,) in eodem libello percipias, quem ut tibi ea de re satisfaciam mittendum putavi. Quid de nostro inibi tradito Tetragonisino senserint Geometrae, mihi non ingratum erit audire; et numcubi erratum sit. Et, speciatim, quid de nostra senserint quaesitae quantitatis designatione propositione 191<note n="#4"/> traditâ, et Scholio tum praecedente tum subsequente: num scilicet satisfaciat, an nova adhuc sit exquirenda. Exemplarium alterum ut ad Dominum <persName key="scho197">Schotenium</persName> transmittas oro, eumque meo nomine salutes.
+Quid de Geometria Domini <persName key="hobb001">Hobbes</persName> senserim; ex ejusdem Elencho meo<note n="#5"/>, nuper edito, vos vidisse consido. Caeterum ne rebus tuis nimis sim molestus, manum de tabulâ, ubi me fuero professus</p>
+<div type="closer">
+<p>Tui Observantissimum <persName key="wall057">Joh: Wallis</persName>.</p>
+<p><placeName key="oxfor001">Oxoniae</placeName> <date>Jan. 25. 1656. St. Juliano</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Spectatissimoque Viro, <persName key="huyg003">Christiano Hugenio</persName>, <persName key="huyg001">Constantini</persName> filio, tradantur.<note n="#6"/>
+<lb/>Hagae-Comitis.
+<lb/>1 β</p>
+</div>
+</body>
+</text>
+</TEI>

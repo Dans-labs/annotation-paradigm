@@ -1,0 +1,47 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0896"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="brou051"/>
+<meta type="recipient" value="hobb001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="0893"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0896">
+<div type="section">
+<head rend="h4">The Refutation.</head>
+<p>The Authors first mistake is in thinking that FG doth passe through H. And the ground of that mistake is an other that immediatly followes viz. That BN, is to BK; as NF to FK: and consequently that HN, is to HK; as NF, to FK. and therefore that HF diuides the Angle NHF<note n="#2"/> into two equal parts, and continued diuides also the Angle LHO in the same manner; and therefore must cut AB at G, so that GB must be equal to BF. But NF, is to FK (not as BN to BK; or as HN to HK; but) as BN is to BF; or BF, to FK<note n="#3"/>. For the <hi rend="i">immediat</hi> differences of proportionals, are as the <hi rend="i">immediat</hi> proportionals themselues. Ergo &amp;c.</p>
+</div>
+<div type="section">
+<head rend="h4">And by way of instance.</head>
+<p>Let BE = 1. BA = 64.</p>
+<p>then must BF = 8. for 1. 8. 64. ∺ and therefore BH = √32 = 4 √ 2.</p>
+<p>But BK = 4. and BL = 16. for 1. 4. 16. 64. ∺</p>
+<p>And LB + BK. LB (∷ LK. LH) ∷ KB. HR ∷ 5. 4 ∷ 4. 16/5.</p>
+<p>therefore HR = 16/5. wherefore HB = 16/5 √ 2.</p>
+<p>Therefore 4 √2 = 16/5 √2. and 4 = 16/5. or 20 = 16. which are impossible.</p>
+<p>Ergo &amp;c.</p>
+</div>
+<div type="section">
+<head rend="h4">Or, uniuersally.</head>
+<p>Let BE = <hi rend="i">a.</hi> BA = <hi rend="i">b.</hi></p>
+<p>then must BF = √<hi rend="i">ab.</hi> for <hi rend="i">a.</hi> √<hi rend="i">ab. b.</hi> ∺ and therefore BH = ½ √2 <hi rend="i">ab.</hi></p>
+<p>But BK = √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b.</hi><note n="#4"/> and BL = √<hi rend="i">c</hi>, <hi rend="i">ab</hi><hi rend="sup">2</hi> for <hi rend="i">a.</hi> √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b.</hi> √<hi rend="i">c</hi>, <hi rend="i">ab</hi><hi rend="sup">2</hi>. <hi rend="i">b.</hi> ∺</p>
+<p>And LB + BK. LB (∷ LK. LH)<note n="#5"/> ∷ KB. HR ∷ √<hi rend="i">c</hi>, <hi rend="i">b</hi> + √<hi rend="i">c</hi>, <hi rend="i">a.</hi> √<hi rend="i">c</hi>, <hi rend="i">b</hi> ∷</p>
+<p>∷ √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b.</hi> √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b</hi><hi rend="sup">2</hi>/√<hi rend="i">c</hi>, <hi rend="i">b</hi> + √<hi rend="i">c</hi>, <hi rend="i">a</hi></p>
+<p>therefore HR = √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b</hi><hi rend="sup">2</hi>/√<hi rend="i">c</hi>, <hi rend="i">b</hi> + √<hi rend="i">c</hi>, <hi rend="i">a.</hi> wherefore √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b</hi><hi rend="sup">2</hi>/ √<hi rend="i">c</hi>, <hi rend="i">b</hi> + √<hi rend="i">c</hi>, <hi rend="i">a</hi> √ 2 = HB.</p>
+<p>Therefore ½ √<hi rend="i">q</hi>, 2<hi rend="i">ab</hi>=√<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b</hi><hi rend="sup">2</hi>/√<hi rend="i">c</hi>, <hi rend="i">b</hi> + √<hi rend="i">c</hi>, <hi rend="i">a</hi>√2.<note n="#6"/> therefore √ <hi rend="i">q</hi>, <hi rend="i">ab</hi>=2√<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">b</hi><hi rend="sup">2</hi>/√<hi rend="i">c</hi>, <hi rend="i">b</hi> + √<hi rend="i">c</hi>, <hi rend="i">a</hi></p>
+<p>therefore <hi rend="i">ab</hi>= 4<hi rend="i">ab</hi> √<hi rend="i">c</hi>, <hi rend="i">ab</hi>/√<hi rend="i">c</hi>, <hi rend="i">b</hi><hi rend="sup">2</hi> + 2 √<hi rend="i">c</hi>, <hi rend="i">ab</hi> + √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi>.</p>
+<p>therefore √<hi rend="i">c</hi>, <hi rend="i">b</hi><hi rend="sup">2</hi> + 2 √<hi rend="i">c</hi>, <hi rend="i">ab</hi> + √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi> = 4 √<hi rend="i">c</hi>, <hi rend="i">ab.</hi></p>
+<p>therefore √<hi rend="i">c</hi>, <hi rend="i">b</hi><hi rend="sup">2</hi> - 2 √<hi rend="i">c</hi>, <hi rend="i">ab</hi> + √<hi rend="i">c</hi>, <hi rend="i">a</hi><hi rend="sup">2</hi> = 0. therefore √<hi rend="i">c</hi>, <hi rend="i">b</hi> - √<hi rend="i">c</hi>, <hi rend="i">b</hi> - √<hi rend="i">c</hi>, <hi rend="i">a</hi> = 0.</p>
+<p>therefore <hi rend="i">a = b.</hi></p>
+<p>Therefore in all other cases it is impossible. Ergo &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

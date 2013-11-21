@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0609a"/>
+<meta type="date" value="1659-05-02"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="medi012"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0609">
+<div type="opener">
+<p>Serenissimo Principi <persName key="medi012">Leopoldo ab Hetruria</persName> <persName key="boul014">Ismael Bullialdus</persName> S.P.D.</p>
+<p>Serenissime Princeps.</p>
+</div>
+<p>Quas summa cum benignitate &amp; humanitate Celsitudo Tua Serenissima Martii elapsi die ultima dignata est ad me scribere literas hac hebdomada accepi. etsi fortasse importunus nimis videar, pauca tamen rescribenda mihi videntur, ut thermometrorum in liquoris ostendendo ascensu et descensu varietatem significem. ex quo
+instrumenta illa vitrea a Celsitudine Tua Serenissima accepi, thermometra bina, quae integra in arcula inveni, cum eo quod ex Polonia ad me fuit missum comparavi, &amp; in hocce altiorem apparere liquorem duobus punctis, quam in illis, semper notaui. Cumque sint illa instrumenta inter se omnimode aequalia, tam penes tubuli longitudinem ac capacitatem, quam penes utriculi amplitudinem, differentiam illam ex spiritus vini subtilitate ac tenuitate inaequali oriri existimo. aliunde enim, quam ex contenti liquoris majori vel minori leuitate, quae majorem vel minorem phlegmatis copiam sequitur, causam repetere facile non est, cum vasa quae illum continent undequaque aequalia &amp; similia sint. Glaciei comminutae illa simul immersa thermometra, ut monitis tuis, Serenissime Princeps, obtemperem, utque, quammaxime in singulis subsidit liquor, deprehendam.</p>
+<p>De pendulo ad regendam horologii rotarum conuersionem a summo viro Galileo olim reperto Vir Clarissimus Christianus Hugenius mihi monendus est, ut qui fuerit primus illius auctor resciat, caveatque ne sibi soli hoc adroget gloriamque inde reportare solus velit. Hunc virum adeo sincerum ac procul ab omni jactantia &amp; ut <hi rend="i">ϰενοδοξια</hi> alienum noui, ut cujusquam famae aliquid detrahere quo suam augeat, ne cogitando quidem, nolit, sibique laudem deberi, quod in eandem ac Galileus <hi rend="i">ὁ πάνυ</hi> cogitationem ac meditationem incideret potius credet. Deinceps vero, etsi alio magistro quam suo ingenio usus non sit (quod mihi tamen non constat ut etiam a Galilei ad Belgii foederatos ordines literis habuerit nec ne, mihi est incompertum) primum se auctorem et repertorem penduli praedicare non debet. Serenissimae Tuae Celsitudini omnem prosperitatem felicitatemque votis meis opto, &amp; ut ad summos, qui inter homines ac in Societate civili excellunt, honores provectionem utinam vero augurio ominer, quibus Domus tua Illustrissima ornetur. Aliquid hac de re ex Polonia ad me nuperrime non ab homine obscuro, sed idoneo teste mihi scriptum, ut Serenissimae Celsitudini Tuae significaret Illustrissimum Abbatem Bonsium<note n="#1"/> rogavi.</p>
+<p>Vale Serenissime Princeps &amp; me Tibi deditissimum &amp; et addictissimum ama.</p>
+<p>Scribebam <placeName key="parij001">Lutetiae Parisiorum</placeName> die 2 Maij anno 1659.</p>
+</div>
+</body>
+</text>
+</TEI>

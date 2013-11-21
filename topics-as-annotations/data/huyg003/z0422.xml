@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0422"/>
+<meta type="date" value="1657-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="brun004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0422">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="brun004">Brunoni</persName> Heroi. S.</p>
+</div>
+<p>Petij a te superioribus literis<note n="#1"/> versus praesigendos Patris Poematibus, quae mox in lucem exeunt. Eae literae si ad te perlatae fuere, non dubito quin jam operi manum admoveris, rogo autem ut quidquid paratum habes quamprimum nobis mittas. At si forte interciderunt 10 dierum tempus te habere scito, intra quos si nihil miseris, sine Brunonianis versibus Hugenij Poemata prodibunt.
+Indignum profecto facinus. at tu <hi rend="i">ὁ ποιεῖς</hi>, <hi rend="i">ποίησον τάχιον</hi>, <hi rend="i">ϰαὶ εῤῥωσο.</hi></p>
+</div>
+</body>
+</text>
+</TEI>

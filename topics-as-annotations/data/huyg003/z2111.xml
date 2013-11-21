@@ -1,0 +1,234 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2111"/>
+<meta type="date" value="1677-11"/>
+<meta type="sender" value="rome049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2110"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2111">
+<p>Series Observationis Mercurij sub sole visi.</p>
+<p><table>
+<row>
+<cell role="header">Num phas. obseruatarum.</cell>
+<cell cols="2" role="header">Declin. mercur. boreal. a parallel. aequat. descripto a centro solis.</cell>
+<cell cols="4" role="header">Differen. temporis inter limbum solis occidentalem et mercurium.</cell>
+<cell cols="3" role="header">Distantia Mercurij a centro solis. Seu diacentron.</cell>
+<cell cols="2" role="header">Altitudo solis apparens.</cell>
+<cell cols="3" role="header">Hora ex altitudine solis.</cell></row>
+<row>
+<cell role="header"></cell>
+<cell role="header">M.</cell>
+<cell role="header">S.</cell>
+<cell role="header">Vib.pend.</cell>
+<cell role="header">M.</cell>
+<cell role="header">S.</cell>
+<cell role="header">T.</cell>
+<cell role="header">M.</cell>
+<cell role="header">S.</cell>
+<cell role="header">T.</cell>
+<cell role="header">G.</cell>
+<cell role="header">M.</cell>
+<cell role="header">H.</cell>
+<cell role="header">M.</cell>
+<cell role="header">S.</cell></row>
+<row>
+<cell>1</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>345</cell>
+<cell>1</cell>
+<cell>55</cell>
+<cell>0</cell>
+<cell>11</cell>
+<cell>20</cell>
+<cell>37</cell>
+<cell>27</cell>
+<cell>45</cell>
+<cell>10</cell>
+<cell>53</cell>
+<cell>58</cell></row>
+<row>
+<cell>2</cell>
+<cell>2</cell>
+<cell>3</cell>
+<cell>276</cell>
+<cell>1</cell>
+<cell>32</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>55</cell>
+<cell>29</cell>
+<cell>36</cell>
+<cell>12</cell>
+<cell>0</cell>
+<cell>0</cell></row>
+<row>
+<cell>3</cell>
+<cell>2</cell>
+<cell>45</cell>
+<cell>258</cell>
+<cell>1</cell>
+<cell>26</cell>
+<cell>0</cell>
+<cell>5</cell>
+<cell>9</cell>
+<cell>20</cell>
+<cell>29</cell>
+<cell>34</cell>
+<cell>0</cell>
+<cell>9</cell>
+<cell>55</cell></row>
+<row>
+<cell>4</cell>
+<cell>3</cell>
+<cell>40</cell>
+<cell>224</cell>
+<cell>1</cell>
+<cell>14</cell>
+<cell>40</cell>
+<cell>4</cell>
+<cell>7</cell>
+<cell>30</cell>
+<cell>29</cell>
+<cell>3</cell>
+<cell>0</cell>
+<cell>35</cell>
+<cell>50</cell></row>
+<row>
+<cell>5</cell>
+<cell>5</cell>
+<cell>30</cell>
+<cell>164</cell>
+<cell>0</cell>
+<cell>54</cell>
+<cell>40</cell>
+<cell>7</cell>
+<cell>13</cell>
+<cell>7</cell>
+<cell>25</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>44</cell>
+<cell>10</cell></row>
+<row>
+<cell>6</cell>
+<cell>6</cell>
+<cell>30</cell>
+<cell>148</cell>
+<cell>0</cell>
+<cell>49</cell>
+<cell>20</cell>
+<cell>8</cell>
+<cell>15</cell>
+<cell>0</cell>
+<cell>24</cell>
+<cell>5</cell>
+<cell>1</cell>
+<cell>55</cell>
+<cell>22</cell></row>
+<row>
+<cell>7</cell>
+<cell>6</cell>
+<cell>53</cell>
+<cell>132</cell>
+<cell>0</cell>
+<cell>44</cell>
+<cell>0</cell>
+<cell>9</cell>
+<cell>16</cell>
+<cell>45</cell>
+<cell>22</cell>
+<cell>30</cell>
+<cell>2</cell>
+<cell>11</cell>
+<cell>58</cell></row>
+<row>
+<cell>8</cell>
+<cell>8</cell>
+<cell>14</cell>
+<cell>100</cell>
+<cell>0</cell>
+<cell>33</cell>
+<cell>20</cell>
+<cell>12</cell>
+<cell>1</cell>
+<cell>45</cell>
+<cell>19</cell>
+<cell>30</cell>
+<cell>2</cell>
+<cell>39</cell>
+<cell>14</cell></row>
+<row>
+<cell>9</cell>
+<cell>8</cell>
+<cell>55</cell>
+<cell>80</cell>
+<cell>0</cell>
+<cell>26</cell>
+<cell>40</cell>
+<cell>14</cell>
+<cell>5</cell>
+<cell>30</cell>
+<cell>17</cell>
+<cell>17</cell>
+<cell>2</cell>
+<cell>57</cell>
+<cell>28</cell></row>
+<row>
+<cell>10</cell>
+<cell>9</cell>
+<cell>38</cell>
+<cell>39</cell>
+<cell>0</cell>
+<cell>13</cell>
+<cell>0</cell>
+<cell>16</cell>
+<cell>30</cell>
+<cell>0</cell>
+<cell>13</cell>
+<cell>23</cell>
+<cell>3</cell>
+<cell>26</cell>
+<cell>56</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell cols="4">Tempus transitus</cell>
+<cell cols="3">Diameter in parallelo</cell>
+<cell cols="5">Diameter in maximo circulo</cell></row>
+<row>
+<cell></cell>
+<cell cols="2">Disci Solis mercurii.</cell>
+<cell>414</cell>
+<cell>2</cell>
+<cell>18</cell>
+<cell></cell>
+<cell>34</cell>
+<cell>30</cell>
+<cell>0</cell>
+<cell>′</cell>
+<cell>33′.</cell>
+<cell>0′.</cell>
+<cell>0″</cell>
+<cell></cell></row>
+<row>
+<cell cols="3"></cell>
+<cell>3½</cell>
+<cell>1</cell>
+<cell>0</cell>
+<cell>10<note n="#2"/>)</cell>
+<cell>0</cell>
+<cell>17</cell>
+<cell>30</cell>
+<cell cols="5"></cell></row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

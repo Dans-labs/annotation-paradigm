@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0397"/>
+<meta type="date" value="1657-07-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0397">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>De centro gravitatis - quaestiones. - liber Schotenii - Experientia Magiotti.</p>
+</div>
+<div type="opener">
+<p><date>27 Jul. 1657</date>.</p>
+<p lang="la">Nobilissime Domine.</p>
+</div>
+<p>Debueram equidem apertius declarasse qua ratione punctorum gravitatis centrum idem cum quaesito puncto asseruerim. Punctorum nulla est gravitas, sed neque linearum aut superficierum. Veruntamen his cogitatione gravitas tribuitur, veluti cum parabolae centrum gravitatis definimus, atque item periferiae semicirculi, quod Guldinus<note n="#1"/> alijque considerarunt. Punctis autem pluribus positione datis sic gravitas affingi potest, ut singulis eadem statuatur, vel si hoc mavis, ut unicuique tanquam centro sphaera ejusdem ponderis circumposita intelligatur. Datis itaque
+<figure><graphic url="huyg003oeuv02ill10.gif"></graphic></figure>
+verbi gratia positione punctis A, B, D, F: duorum quidem A, B, centrum gravitatis erit C mediam dividens A B. Hinc rursus si ducatur CD, eaque secetur in E, ut DE sit dupla ad EC, erit ipsum E punctum centri gravitatis punctorum trium A, B, D. Ex E ducatur ad F recta, et secetur in G ut sit FG tripla ad GE. Erit jam G centrum gravitatis punctorum quatuor A, B, D, F. A quo si ad quatuor haec puncta
+rectae ducantur, earum quadrata erunt omnium minima. Quod si centro G quaelibet circumferentia describatur, à quolibet ejus puncto eductae ad puncta A, B, D, F,
+<figure><graphic url="huyg003oeuv02ill11.gif"></graphic></figure>
+quaterna semper quadrata ejusdem simul magnitudinis efficient. Hic enim egregius ille est Apollonij quem novisti locus planus. Determinatio vero minimi vel maximi jucundam contemplationem in alijs quoque problematibus semper mihi praebere visa est, cumque insignis sit ejus inquirendae methodus quam tibi notam esse ex eo quod mihi proposuisti satis apparet, proponam ejusdem generis problema unum atque alterum, quoniam petijsti tibi mitti quo calculum exerceres.</p>
+<p><figure><graphic url="huyg003oeuv02ill12.gif"></graphic></figure></p>
+<p>Datis itaque positione rectis BA, AC angulum comprehendentibus, punctoque intra angulum dato D, oporteat per ipsum ducere rectam BDC, ita ut triangulum BAC sit omnium quae ita abscindi possunt minimum. Hoc autem satis facile est. Illud difficilius: posito nimirum angulo BAC recto ducere per punctum D intra ipsum dato rectam BDC omnium brevissimam.</p>
+<p>Eadem methodo de maximis et minimis inveni olim<note n="#2"/> quomodo data refractionis proportione liquoris cujuslibet diaphani, continuo inveniri possit angulus sub quo Iris videri debeat, absque tabulae compositione qualem Cartesius in Meteoris dedit. Refractionis autem leges guttamque sphaericam eodem modo atque ille considero.</p>
+<p>Magiotti<note n="#3"/> scriptum de Renixu aquae<note n="#4"/> pater meus nunc tandem domum reversus<note n="#5"/> mihi attulit, idque protinus perlegi, et perplacet sane experimentum novum causaque ejus quam reddidit verissima est. Illud vero alterum cujus occasione in haec incidit plane <hi rend="i">παράδοξον</hi> videtur priusque an revera ita se habeat inquirere constitui quam de causa dispicere. liquidi natura ac proprietates variam speculandi materiam praebent. Ego de ijs quae innatant post Archimedem et Galileum non pauca
+pridem commentatus sum<note n="#6"/>, in quibus haec Problemata occurrere memini. Data nimirum materiae solidae ad liquidum secundum gravitatem proportione, Conum efficere qui demerso vertice innatans rectus consistat. Rursus qui demersa base rectus consistat. Eadem data proportione, cylindrum facere qui demersa basi rectus consistat. Item cylindrum determinare qui quamlibet proportionem ad liquidum habens secundum gravitatem semper rectus innatet.</p>
+<p>Et semper quidem illa maximè contemplatione digna existimavi in quibus non nuda ac simplex figurarum Geometricarum consideratio locum haberet, sed harum vis atque efficacia ad veritates quasdam in re Physica aliave eruendas traduceretur. Quanquam et ipsa mera Geometria non exiguam voluptatem cultoribus suis adferat. Schotenij librum recens editum quam primum potero tibi mittam, in quo multa subtiliter demonstrata reperies, ac praesertim circa locos Planos, quos omnes restituit. Brevem quoque tractatum meum de Ratiocinijs in ludo Aleae, adjunctum videbis, sed non satis commode è lingua Belgica, qua fuerat à me conscriptus in latinam conversum. Vale Vir Nobilissime et Spadanis aquis utere feliciter: ita tibi optat</p>
+<div type="closer">
+<p>Tui observantissimus <persName key="huyg003">Chr. Hugenius de Z.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

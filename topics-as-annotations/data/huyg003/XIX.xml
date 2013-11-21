@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XIX"/>
+<meta type="date" value="1644-08-21"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XIX">
+<div type="opener">
+<p>Perillustris domine,</p>
+</div>
+<p>Postquam de Phijsica pronunciasti, illam Burgersdicij, tuo judicio limatissimo limatissimam, et mea opinione praestantem aggrediemur. Disputationem in ea XXIV silentio, quod prudenter jubes, equidem transmittam, et Davum me isthic, nusquam hercle, Oedipum professus<note n="#1"/>, si curiosos studiososque rerum omnium adolescentes a lectione rerum talium non potero, me certè a praelectione studiosè prohibebo<note n="#2"/>...De doctore et Philippulo nihil hodie quod scribam habeo, nisi quod ille Graecum Testamentum et sijntax. Posselij<note n="#3"/>, Curtium ac Senecae Tragoedias legat diligenter, et cum profectu insigni, hic verborum ac phraseos Latinae satis intelligens, sed ad structuram sermonis aliquanto sit tardior...</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>. Aug. XXI. MDCXLIV.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

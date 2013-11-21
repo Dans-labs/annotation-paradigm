@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1226"/>
+<meta type="date" value="1664-04-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1226">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 18 Avril 1664.</p>
+</div>
+<p>Je suis bien faschè que vous ne m'ayez pas envoiè un eschantillon de cheveux pour marquer la couleur que vous vouliez vostre calotte, car ce que vous dites a
+cet heure de la vouloir presque aussi blonde que les cheveux que je porte ne s'accorde pas avec ce que vous me mandastes auparavant la desirant seulement un peu plus claire que celle que j'ay envoiee au frere de Zeelhem. Celle qu'on ma faite sur cet ordre, est de fort bons cheveux et naturellement frisez autant que je le puis juger, et payée il y a long temps, de sorte que je doute fort si l'on voudra m'en faire un autre en eschange. Ie tascheray pourtant de la faire reprendre, s'il y a moyen.</p>
+<p>Si tost que vous serez revenu de là<note n="#1"/>, je vous prie de scavoir de Monsieur van Leeuwen combien il paya pour sa callotte qu'il eust icy du mesme maistre. car il m'a jurè, je dis ce perruquier, qu'elle a estè payee 3 louis d'or, et s'il avoit mentij je trouuerois bien moyen de r'avoir ce que j'aurois payè de trop.</p>
+<p>adieu. Je suis marry que vous n'estes pas a la Haye pour me faire le recit de la suite de l'histoire tragique de Mortagne<note n="#2"/> avec la mesme exactitude que vous m'en avez contè les premiers actes.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Huijgens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

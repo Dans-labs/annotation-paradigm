@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2860"/>
+<meta type="date" value="1694-06-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2859"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2860">
+<p><figure><graphic url="huyg003oeuv10ill205.gif"></graphic></figure></p>
+<p>AB=<hi rend="i">a</hi> EB=<hi rend="i">d</hi> HB CK BC BA <hi rend="i">dd</hi>/<hi rend="i">a</hi>:<hi rend="i">dd</hi>/<hi rend="i">b</hi>=<hi rend="i">b</hi>:<hi rend="i">a</hi> HB:KC=<hi rend="i">b</hi>:<hi rend="i">a</hi>=<hi rend="i">e</hi>:<hi rend="i">ae</hi>/<hi rend="i">b</hi> CK:LD=<hi rend="i">c</hi>:<hi rend="i">b</hi>=<hi rend="i">ae</hi>/<hi rend="i">b</hi>:<hi rend="i">ae</hi>/<hi rend="i">c</hi> HB:BE=<hi rend="i">dd</hi>/<hi rend="i">a</hi>:<hi rend="i">d</hi>==<hi rend="i">d</hi>:<hi rend="i">a</hi>=<hi rend="i">e</hi>:<hi rend="i">ae</hi>/<hi rend="i">d</hi>(=<hi rend="i">α</hi>) <hi rend="i">d</hi>:<hi rend="i">b</hi>=<hi rend="i">ae</hi>/<hi rend="i">b</hi>:<hi rend="i">ae</hi>/<hi rend="i">d</hi>(=<hi rend="i">β</hi>) <hi rend="i">d</hi>:<hi rend="i">b</hi>=<hi rend="i">ae</hi>/<hi rend="i">b</hi>:<hi rend="i">ae</hi>/<hi rend="i">d</hi>(=<hi rend="i">γ</hi>) <hi rend="i">d</hi>:<hi rend="i">c</hi>=<hi rend="i">ae</hi>/<hi rend="i">c</hi>:<hi rend="i">ae</hi>/<hi rend="i">d</hi>(=<hi rend="i">δ</hi>)</p>
+<p>Sint NABCD<note n="#2"/> in parabola. Ventus vero secundum axem ejus hoc est parallelè ad EA, FB, GC impellat rectas NA, AB, BC, CD. dico mansuras eo quo sunt positu.</p>
+<p>Manebunt enim si, inflante sic vento, nodi C, B, A, ita impellantur ac si ab aequalibus ponderibus rectà deorsum traherentur, quia hoc scimus in parabola dispositis nodis proprium esse<note n="#3"/>.</p>
+<p>Ita vero impelluntur. nam vires quibus a vento premuntur singulae DC, CB, BA, AN, sunt ejusmodi, ac si singulae secundum sibi normales premantur viribus quae sint ut rectae DL, CK, BH, AN. quia vis venti in DG ad vim qua premit DC secundum sibi normalem, hoc est parallelam GL, est ut GC ad GL, ita enim sunt celeritates particularum aeris in ipsas DG, DC agentes, suntque in utramque aequali numero incidentes. ut autem GC ad GL ita GD ad DL.</p>
+<p>Itaque si GD referat vim venti in ipsam GD, referat DL vim venti in DC qua
+normaliter impellitur. Eodemque modo vires venti in CB, BA, NA, normaliter interpellentis referent rectae CK, BH, AN, quae ultima horizonti parallela ponitur<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

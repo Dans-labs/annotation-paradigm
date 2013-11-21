@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0655a"/>
+<meta type="date" value="1659-08-21"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0655">
+<div type="opener">
+<p lang="it">Signor Ismael</p>
+</div>
+<p lang="it">Con mio rossore ecco che tardi rispondo alle particolarità della lettera di Vostra Signoria in data delli 13 del mese di Giugno, ma riconosca ella per cause di tale
+indugio e la mia malattia, e l'haver voluto mettere insieme alcune cose prima di rispondere per inviare a Vostra Signoria e per sodisfare alle promesse che haveua fatte. Sarà dunque annesso a questa il disegno<note n="#1"/> del principio dell' oriuolo regolato dal pendolo che inventò il nostro: per sempre ammirabile Signor Galileo. Lo inuio delineato con quella rozzezza, con la quale è fabricato il modello del medesimo, che nella mia camera ora mi trouo. Potra pertanto Vostra Signoria mandarlo al Virtuosissimo Signore Cristiano Hugenio che desideraua di uederlo; e forse di quest' altra settimana inuierò a lei la istoria<note n="#2"/>, dirò cosi, del ritrovamento del pendolo, che spero dourà riuscir curiosa a Vostra Signoria. Farò fare ancora un disegno<note n="#3"/> di come si è accomodato da noi il pendolo à nostri Oriuuoli, et in particolare ad uno assai grande che mostra l'Ore, e suona nella piazza del nostro Palazzo doue abitiamo, e glie lo inviero.</p>
+<p lang="it">Deve ancora Vostra Signoria sapere che non credendo la Majesta del Re di Pollonia<note n="#4"/> (al servizio del quale si ritrova Paolo del Buono<note n="#5"/>, noto a Vostra Signoria) che il Serenissimo Gran Duca, mio Signore et fratello havesse appresso di se tale invenzione; a persuasione del medesimo Paolo le hà inuiato un Oriuolo con il pendolo fabbricato in Olanda, e uoglio credere che sia secondo l'istruzione del Signore Cristiano. Et sappia Vostra Signoria che tanto questo, quanto quel grande fabbricato sù la piazza, e l'altro fabbricato da uno de Generini<note n="#6"/> alcuni anni sono, e tutti con qualche diversita, uanno perfettamente et in consequenza unitamente a segno che nello spazio di otto giorni appena vi si riconosce la differenza di due, ò tre minuti primi di ora. Per sodisfare all' altra promessa di quanto era souuenuto ad un nostro virtuoso intorno all' effetto dell' argento vivo in quello strumento, del quale tante volte si è discorso, le invio un piego, et una lettera del medesimo che si domanda il Signor Carlo Rinaldini<note n="#7"/> Gentilhomo Anconitano Lettore di filosofia nel nostro studio di Pisa. Nella lettura della scrittura che egli le inuia, Vostra Signoria potra farui quelle reflessioni che alla sua prudenza, e dottrina parranno più proprie et io uolentieri ne staro attendendo il suo parere.
+Quando mi comparira il trattato dei massimi, e minimi, che mi deve inviare il Signor Abbate Bonsi, lo terrò appresso di me, ne lo lascero copiare, per sodisfare al desiderio di quel signore che con tanta prontezza si è compiaciuto che possa venire in mie mani.</p>
+<p lang="it">Dispiacemi sopra modo la indisposizione del Signor Dettonvilla<note n="#8"/> et auguro al medesimo quell' augnmento di salute che hà portato a me il medesimo medicamento del latte preso più volte con notabile giovamento della mia complessione. Cerchi ancora Vostra Signoria di conservarsi e quando souuenga a lei, ò sappia che ad altri sia souuenuta alcuna esperienza, ò speculazione curiosa si contenti di farmene parte con quella confidenza che sà poter' trattar' meco. Et le auguro dal Cielo ogni contento.</p>
+<div type="closer">
+<p lang="it">Amorevole di Vostra Signoria Il Principe <persName key="medi012">Leopold</persName>.</p>
+<p lang="it">Di <placeName key="flore001">firenze</placeName> <date>21 agosto 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it">Signor <persName key="boul014">Ismael Bullialdo</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

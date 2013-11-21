@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0497"/>
+<meta type="date" value="1658-07-11"/>
+<meta type="sender" value="wall057"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0497">
+<p>Cum in Belgiam vestram, Vir Nobilissime, mox profecturus sit Vir Clarissimus Dominus <persName>Ball</persName><note n="#1"/> (Domini Petri Ball Equitis Aurati<note n="#2"/> filius) oratum habui ut meo nomine quam officiose te salutet; atque simul Commercium Epistolicum<note n="#3"/> a me jam nuper editum tibi tradet, quod ut benigne accipias oro. Atque insuper si eundem Clarissimum Virum, ad vos studendi gratia proficiscentem, humanitatis officijs prout res obtulerit adjuveris, id ut mihi gratissimum fore scias, ita nec immerenti aut ingrato te illud collaturum beneficij existimes; et si quando res obtulerit ut amicis ex tuis quibusvis simile quid praestandi ansa porrigatur, me neutiquam omissurum esse quin lubentissimus arripiam. Atque haec sunt quibus te impraesentiarum interpellare vacat, id simul exoranti, ut amare porro pergas. et favere</p>
+<div type="closer">
+<p>Vir Nobilissime Amantissimo simul et Observantissimo Tui <persName key="wall057">Joh: Wallis</persName>.</p>
+<p>Raptim <placeName key="londe002">Londini</placeName> <date>Julij 1. 1658. st. vet.</date></p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Nobilissimoque Viro Domino <persName key="huyg003">Christiano Hugenio, Constantini filio</persName>, Hagae-Comitis.</p>
+</div>
+</body>
+</text>
+</TEI>

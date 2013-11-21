@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0674"/>
+<meta type="date" value="1659-10-10"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0674">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>10. Octobre 1659</date>.</p>
+<p>Monsieur <persName key="huyg003">Chr. Hugens</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je doibs response a deux de vos lettres, dont l'vne me sut apportee par l'ordinaire la semaine passee du 25 du passé, la seconde<note n="#1"/> me fut rendue il y a deux jours par Monsieur Sherburn<note n="#2"/> qui est sans date. Ce Gentilhomme m'a rendu seulement le jour d'hier les 3. exemplaires de vostre Systeme de Saturne, dont j'en feray rendre deux a Messieurs de Monmor &amp; Chappelain. &amp; lors que j'auray receu les 10. que vous auez mis dans les balles de Monsieur Elzeuir je ne manqueray pas d'en faire la distribution suiuant vos ordres, &amp; Messieurs <persName key="chan019">Chanut</persName> &amp; <persName>Petit</persName> seront seruis comme vous le desirez.</p>
+<p>La nouuelle estoile, dont parle la Gazette de Rome, est sans doute celle du Cygne<note n="#3"/>, que je trouue vn peu moins resplendissante que l'annee derniere. mais pour la grandeur elle me semble egale. Je vous prie de me faire scauoir si Messieurs de Leyden y remarquent cette difference.</p>
+<p>J'ay parcouru vostre liure du Systeme, je vous suis tresobligé de l'honorable mention que vous y faictes de moy. J'ay rencontré l'opinion de Monsieur <persName key="robe012">de Roberual</persName>, qui est fort chimerique, aussi bien que toutes les autres quil a en matiere de physique; s'il n'estoit pas meilleur Geometre il ne meriteroit pas le titre que vous luy donnez. Je ne scay pas comment l'on peut attribuer a des causes non durables &amp; qui operent inegalement des effects perpetuels &amp; toujours semblables. &amp; de plus attribuer a vne simple apparence, ce qui manifestement est vn corps. Ce sont des raisonnemens de ceux qui n'ont jamais obserué, &amp; qui veulent rendre raison des choses qu'ils n'ont pas veues &amp; qu'ils ne cognoissent pas. Si je ne cognoissois vostre candeur, Je croirois que de propos deliberé vous auriez inseré son opinion dans vostre liure pour le rendre ridicule entre les philosophes, j'en excepte ceux qui traictent la physique a la mode d'Epicure, qui ignoroit &amp; Mathematique, &amp; tout ce qui regarde la nature du mouuement.</p>
+<p>Lorsque j'auray plus de temps que je n'ay pas, je liray tres exactement vostre liure, &amp; je le confereray auec celluy<note n="#4"/> de Monsieur Heuelius, qui trauaille comme j'apprens a verifier les lieux des estoiles fixes, qui sera vn trauail merueilleux.</p>
+<p>Je vous prie de me faire scauoir si l'on a obserué en Hollande l' 11.<hi rend="sup">e</hi> du passé au matin la ☌<note n="#5"/> ♃ &amp; ♀. Je l'ay obseruee icy de la sorte.</p>
+<p>Die. 11. Septembris 1659. Hora 5. matutina Jupiter a Venere tubo conspectus distabat. ′28. erat Venus ipso altior supra horizonten, &amp; in azimutho orientaliori quam ipse ′3. Tabulae Philolaicae exhibent tunc temporis ☉ in <figure rend="inline"><graphic url="huyg003oeuv02fi51.gif"></graphic></figure> graduum 18.′9.″56. ♃ in ♌ graduum 29. 22. Borealis Latitudinis graduum 0.′53. ♀ in ♌ graduum 28.′59. Borealis Latitudinis graduum 1.′8. ex quibus distantia inter duos planetas colligitur ′27. &amp; paulo plus, valde congruens obseruationi. Ephemerides Eichstadii reponunt ♃ in ♌. graduum 29.′18.″45 seu graduum 29.′19. Borealis Latitudinis graduum 0.′51. in ♀ in ♌ graduum 29.′3. Borealis Latitudinis graduum 1.′8. vnde distantia inter vtrumque colligitur ′21. qui calculus ex Rudolfinis<note n="#6"/> minus congruit coelo quàm Tabularum Philolaicarum.</p>
+<p>Vous m'obligerez grandement s'il vous plaist faire mes treshumbles baisemains a Messieurs <persName>Heinsius</persName>, <persName key="voss009">Vossius</persName>, <persName key="gron010">Gronouius</persName> &amp; <persName key="scho197">Schotten</persName>. Je suis aussi tresveritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXIX"/>
+<meta type="date" value="1649-10-30"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="hend050"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXIX">
+<div type="opener">
+<p>Monseigneur;</p>
+</div>
+<p>Ie redepesche vostre lacquais le plus promptement qu'il m'est possible, aveq la lettre de S.A. au Duq de Holstein, à peu pres conforme à celle que nous auons escritte au Roij de Danemarc. I'espere que le pacquet ira si viste, que vous ne serez pas incommodé de l'attente. Ie souhaitte que vous ne le soijez pas de la compagnie de mon Fils; et cependant vous rens tres humbles graces des faueurs qu'il vous plaist luij departir. Comme il ne s'en peut assez louër, je ne trouue point aussi de paroles qui puissent bien exprimer le ressentiment que j'en aij, mais les effects suppleeront au default des paroles, quand je seraij si heureux que d'en rencontrer les occasions. Ie vous supplie d'en faire estat asseuré, en me continuant l'honneur de souffrir que je me die</p>
+<div type="closer">
+<p>Monseigneur,
+<lb/>Vostre tres-humble et tres-obeïssant serviteur
+<lb/><persName key="huyg001">C. Huijgens</persName>.</p>
+<p>A <placeName key="denha004">la Haije</placeName> ce 30<hi rend="sup">e</hi> Octob. 1649.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

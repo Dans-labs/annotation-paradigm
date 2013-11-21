@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1111"/>
+<meta type="date" value="1663-05-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1111">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 4 May 1663.</p>
+</div>
+<p>Lors qu'on m'aura delivrè le pacquet pour Madame de Monbas<note n="#1"/>, car jusqu'icy je ne scay de qui ni quand il doibt venir, je tascheray de l'envoier par la premiere occasion en l'adressant a van Asten, et auray soin de ce que vous dites.</p>
+<p>Touchant ce que vous mandez du ministre de Zulichem<note n="#2"/> mon Pere vous fera response et a promis d'en escrire a Monsieur Busero.</p>
+<p>Le frere de Moggershil et Monsieur van Leeuwen arriverent icy en bonne santè il y a 3 jours et surprirent fort Mon Pere qui ne songeoit a rien moins. J'eusse estè bien aise qu'ils fussent demeurè logez ceans, mais Mon Pere en faisant scrupule, parce que peut estre au Nordeinde<note n="#3"/> l'on y trouveroit a redire, il ne s'est point opposè au dessein qu'en arrivant ils avoient pris, qui estoit de se mettre en pension dans le voisinage. Les 3 semaines qu'ils font estat de demeurer icy seront emploiées en promenades comme vous pouvez penser, des quelles a leur retour vous entendrez des amples recits et non sans Hyperbole.</p>
+<p>Depuis ma derniere nous avons essaiè une seconde <seg org="sois" resp="#AD" type="corr">fois</seg> nos Lunettes chez Monsieur Auzout, n'y ayant que Monsieur d'Espagnet et moy. Il y en eut une de Monsieur Auzout qui estoit pour le moins aussi bonne que la miene, et tant soit peu plus longue. Quatre ou 5 verres de Monsieur d'Espagnet aussi tresbons, et entre autres un de 32 pieds et de 5 pouces de diametre, fort excellent parce qu'il souffroit une grande ouverture avec les mesmes oculaires que le mien. Il m'a promis de travailler devant moy quand je voudrois et de me monstrer la maniere dont il se sert pour doucir, mais non pas celle de polir, en la quelle consiste pourtant son plus beau secret. Je ne laisse pas d'esperer que malgrè luy nous scaurons bientost le mistere parce que Monsieur Auzout depuis ce jour de l'Essay, ayant resvè a ce poli sans papier, a trouvè la mesme chose ou du moins quelque chose de fort approchant, et mesme m'a monstrè un verre qu'il disoit avoir poli de la sorte, et qui estoit assez bien pour la premiere fois. Cettuicy ne fait secret de rien et m'a promis de me faire part de ce qu'il a trouvè.</p>
+<p>En attendant que j'aye veu le Sieur Nanteuil<note n="#4"/>, je vous diray ce que Monsieur Bosse<note n="#5"/> m'a appris touchant les crayons, desquels, aussi bien que de l'art de Mignature il va bientost publier un livre<note n="#6"/> qu'il en a escrit, a fin que vous ne croiez pas qu'il y soit peu expert. Il dit donc que le corps doit estre de plastre tresfin, seulement trempè avec de l'eau sans gomme ni colle aucune, et qu'en roulant les morceaux il faut presser un peu fort a fin qu'ils en soient plus fermes et solides. que sur tout les couleurs doivent estre bien finement broiees devant que de les y mettre. Quant au papier bleu ou blanc il dit qu'il n'importe point, pourveu qu'on n'y ait rien passè pour le polir.</p>
+<p>&nbsp;</p>
+<p>Il faut que je parle a Monsieur Thevenot devant que faire reponse au frere Louis. Ayez soin je vous prie de faire porter l'enclose au Seigneur Vossius.</p>
+</div>
+</body>
+</text>
+</TEI>

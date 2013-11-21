@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0157"/>
+<meta type="date" value="1653-05-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="lips006"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0157">
+<div type="opener">
+<p><persName key="lips006">Lipstorpio</persName>.</p>
+</div>
+<p>Equidem merito febri meae irascor quae et literarum et literatorum consortio privat me penitus integrum jam fere mensem; at impensius quoque odisse coepi postquam iam me tuo conspectu Vir Clarissime prohibuisse intellexi. Quod si nunc etiam me invisere tibi cordi est, uti literis Tuis amantissimis significasti, scito ad confabulandum satis mihi virium suppetere atque animi, per eos dies quibus <hi rend="i">ἀπορήτος</hi> sum, uti hodie, et perendiu denuo et per alternos dies sequentes uti in tertiana febri contingere nosti. at profectò mi Lipstorpi operae praetium non tuleris, etiamsi sanum ac vegetum invisas, non morbo et macie attenuatum qualis nunc sum. Causam mali cum studijs meis et diligentiae imputas, novi ego hic errare te, quum sim optime mihi conscius, quam otiose totum trimestre spatium contriverim, unius valetudinis causa quam ne sic quidem mihi restituere potui. Libri isti in auctione empti, quod non à Schotenio mihi sed à Te mitterentur demiratus fui, quum certo putarem ipsi me hoc negotij imposuisse pro familiaritate quae nobis pridem intercessit; verum si (quod suspicor) supino errore meo factum est ut Tuis literis librorum nomina <seg org="infererentur" resp="#AD" type="corr">insererentur</seg>, quaeso ne meae inverecundiae impudentiaeve admissum imputes. Vix jam te rogare audeo ut venditorem admoneas de supplendis ijs quae desunt folijs, sine quibus tamen compingi volumen istud nollem. Argentum quod pro utroque expendisti ecce restituo, de caetero plurimum tibi debens gratiarum pro ea quam mihi dedisti opera. Vale.</p>
+<div type="closer">
+<p><date>15 Maj. 1653</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

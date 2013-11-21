@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1963"/>
+<meta type="date" value="1673-10"/>
+<meta type="sender" value="wren002"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="1960"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1963">
+<div type="opener">
+<p>Sir,</p>
+</div>
+<p>That I did, in the year 1658. find a <hi rend="i">Streight</hi> line equal to that of a <hi rend="i">Cycloid</hi>, and the parts thereof, was then very well known, not in <hi rend="i">England</hi> only, but in <hi rend="i">France</hi> and <hi rend="i">Holland</hi>. And I have not yet heard of any, who do pretend to have known it, before I discover'd it: which was the same year acknowledged in Print by those of <hi rend="i">France</hi><note n="#2"/>. But I do not pretend to have been the <hi rend="i">first</hi> that did ever find a Streight line equal to a Crooked.
+For I very well know, that Mr. <persName key="neil020">William Neil</persName> had, the year before, found out and demonstrated, How to construct a Crooked line so as to be equal to a Streight, by a certain series of Numbers after the method of Dr. <hi rend="i">Wallis</hi>. And though <hi rend="i">He</hi> did not therein demonstrate the other properties of that Line; yet the same were presently after demonstrated by my self and others, and the nature of the Line fully discover's, being a certain <hi rend="i">Paraboloeid</hi>. And that which M. <hi rend="i">Heurat</hi> is said afterwards to have found out, in the year 1659, and M. <hi rend="i">Fermat</hi> in the year 1660, are but the same with that of M. <hi rend="i">Neile</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

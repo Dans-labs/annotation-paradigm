@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0447"/>
+<meta type="date" value="1657-12"/>
+<meta type="sender" value="heur006"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0446"/>
+<meta type="type" value="translation"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0447">
+<p><figure><graphic url="huyg003oeuv02ill60.gif"></graphic></figure></p>
+<p>Ducatur intra curvam quomodocunque recta <formula>AB</formula>, et ex <formula>A</formula> et <formula>B</formula> cadant perpendiculares in axem <formula>AC</formula>, <formula>BD</formula>.
+Dividatur deinde <formula>CD</formula> in quatuor equalia punctis <formula>F</formula>, <formula>E</formula>, <formula>G</formula>, et agantur rectae <formula>FI</formula>, <formula>EH</formula>, <formula>GK</formula>, parallelae <formula>AC</formula>. et jungantur <formula>AH</formula>, <formula>HB</formula>.
+Investigetur jam ratio quam habet <formula>HL</formula> ad utramque simul <formula>IM</formula>, <formula>KN</formula>, quam reperio ut 2 ad 1.
+Atque inde segmentum <formula>AIHKBA</formula> ad inscriptum triangulum <formula>AHB</formula>, ut 4 ad 3.</p>
+<p>Inveni porro curvam hanc ex contrarijs flexibus constare duobus, punctumque hos definiens reperiri, sumtâ <formula>OQ ∞ ⅓ OP</formula>, ductaque <formula>RS</formula> ad <formula>OP</formula> perpendiculari.
+Quod si jam ex <formula>R</formula> et <formula>S</formula> duae aequales rectae intra curvam subtendantur, ut <formula>RT</formula>, <formula>SV</formula>, eaeque in partes quotlibet aequales dividantur rectis quae aequedistent ipsi <formula>TV</formula>, et jungantur puncta curvae in quae dictae lineae incidunt.
+Erunt segmenta ita abscissa in continua ratione numerorum imparium ab unitate 1, 3, 5, 7, 9, 11 &amp;c.
+Hinc invenio centrum gravitatis duorum segmentorum rectis <formula>SV</formula>, <formula>RT</formula> abscissorum cadere in <formula>Y</formula>, ita ut divisâ lineá <formula>QX</formula> in 15 partes, statuatur <formula>QY</formula> octonis ipsarum aequalis.</p>
+</div>
+</body>
+</text>
+</TEI>

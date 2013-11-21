@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2592"/>
+<meta type="date" value="1690-05-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2592">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 16 Maj. 1690.</p>
+</div>
+<p>Depuis ma derniere, Madame de Zulichem m'a montrè ce que vous luy avez mandè touchant les 2 Exemplaires dont j'estois en peine, il ne reste maintenant que celuy que j'avois destinè pour Mr. <persName key="boyl001">Boyle</persName>, du quel le Dr. <persName>Stanley</persName> doit vous rendre compte.</p>
+<p>J'ay promis au Sr. Dan. Libot<note n="#1"/>, cydevant conseiller privè du Comte de Benthem, de vous escrire en sa faveur, a fin que si cela se peut il ait apres la mort d'un capitainerefugiè nommé Nobilois<note n="#2"/>, la pension que M.<hi rend="sup">rs</hi> les Estats luy donnent de 750 ℔. Ce Nobilois s'est fait tailler de la pierre et pourra mal aisement echapper. Le Sr. Libot a eu tout son bien aupres de l'Isle, confisquè par les François, parce qu'il n'y veut pas aller demeurer en changeant de religion. Je l'ay connu a Breda lors que j'y estudiois. Vous pourrez tousjours dire que je vous l'ay recommandè si vous en entendez parler a ceux qui auront receu des lettres en sa faveur de la part de Mr. <persName>Schuylenburg</persName><note n="#3"/> ou des Marets<note n="#4"/>. Mais il y a apparence que ces pensions venant à vaquer se donnent à d'autres officiers refugiez.</p>
+<p>Par les dernieres lettres venues de dela nous avons sçeu comment Mil. Shrewsburry<note n="#5"/> a voulu desister de sa charge, et l'on attend encore pour sçavoir comment
+cette affaire se sera terminée. Il faut avouer que ces Mess.<hi rend="sup">rs</hi> les Anglois sont difficiles a gouverner, car on entend parler a chaque fois de pareils mescontentemens et mutineries....Ce qui mesme fait croire à bien de gens que le voiage d'Irlande ne se fera point. En ce cas vous estes seur d'avoir une visite de Mad.<hi rend="sup">e</hi> vostre Espouse. Et le frere de St. Annelandt pourroit bien l'accompagner, quoy qu'il semble faire quelque difficultè par la crainte des attaques de sa goutte. Il partit hier pour la Nordhollande. Nous fumes ensemble a voir la feste de Mil. Dursley<note n="#6"/> à la maison du Bois, le jour de la naissance de la Reine, mais n'y restames que jusqu'a 10 heures du soir.</p>
+<p>Souvenez vous je vous prie de Salinas.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zuijlichem</persName>
+<lb/>Secretaris van sijne Koninglycke Majesteyt
+<lb/>Tot Londen.</p>
+</div>
+</body>
+</text>
+</TEI>

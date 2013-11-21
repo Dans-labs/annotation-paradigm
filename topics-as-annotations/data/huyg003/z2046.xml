@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2046"/>
+<meta type="date" value="1675-08-09"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2046">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 30 juillet 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je me sers de la voye de celuy qui vous donne cete lettre pour vous faire tenir vne autre<note n="#1"/> qui est de M. Smethwic<note n="#2"/>, auec vne boite qui contient quelques verres desa construction, qu'il vous prie de vouloir examiner et de luy en dire vostre sentiment. Il vous plaira de recevoir la personne, qui vous porte ces choses auec vostre humanité ordinaire et de luy permettre de venir vous voir par fois, estant gentilhomme de la Lusace, nommé Tschirnhaus<note n="#3"/> et aimant fort l'estude des Mathematiques, et principalement de l'Algebre, dans laquelle vous le trouuerez, si ie ne me trompe, fort scavant.</p>
+<p>Au reste, souvenez vous de la seconde montre, que ie vous ay demandée au nom de Mylord Brouncker, par deux lettres<note n="#4"/>, et taschez, ie vous prie, de me l'envoyer le plus promtement que vous pourrez dans la derniere perfection, que vous luy pouuez donner: C'est vostre propre interest, qui y est concerné dans la persuasion de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.
+<lb/>auec vne petite boite ronde.</p>
+</div>
+</body>
+</text>
+</TEI>

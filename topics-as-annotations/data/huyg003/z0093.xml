@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0093"/>
+<meta type="date" value="1651-05-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0093">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="scho197">Fr. Schotenio</persName> Viro Clarissimo S.D.</p>
+</div>
+<p>Locus iste ad Circumferentiam de quo diebus abhinc aliquot dubitationem afferebas, putans eum non planum sed solidum esse, si meministi, hujusmodi erat. Datis positione puncto A et lineâ BD et in ea puncto C, invenire E punctum, unde si
+<figure><graphic url="huyg003oeuv01ill75.gif"></graphic></figure>
+ducatur EA ad datum, et ED ad datam positione lineam in dato angulo EDB, sit rectangulum sub abscissa DC et alia data N aequale quadrato AE. Puto autem te loco quadrati AE cogitasse dequadrato ED, nam alioquin problema sicut hic propositum vides omnino planum est. Pappus autem ita proposuit ut punctum A detur in alia lineâ positione data, quod nihil nos movere debet, quum tantum eâ causa factum sit ut tres casus hujus problematis simul complecteretur; quorum prior est, cum solum punctum A datur in linea positione data, cujus mihi demonstrationem ostendisti perbrevem et elegantem. Secundus, cum puncta A et C dantur in eadem linea positione
+<figure><graphic url="huyg003oeuv01ill76.gif"></graphic></figure>
+data. Tertius autem, hic ipse cujus figuram expressi. Verum et calculum meum adscribere non verebor, ut, si adhuc solidi aliquid suspicaris, expedite videre possis me non falli dum contrarium assevero.</p>
+<p>Duco primum AB perpendicularem ad DB, ut et EG; item EF perpendicularem ad AB. Dantur itaque AB quam voco <hi rend="i">a</hi>, et BC quam voco <hi rend="i">b</hi>, et linea <hi rend="i">n</hi>, quaeruntur autem AF quae sit <hi rend="i">x</hi>, et FE quae sit <hi rend="i">y</hi>. Proportio quoque data est EG ad GD, quoniam angulus ad D datur, quae sit ut <hi rend="i">n</hi> ad <hi rend="i">m</hi>.</p>
+<p><figure><graphic url="huyg003oeuv01ill77.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv01ill78.gif"></graphic></figure></p><note n="#1"/>
+<p><figure><graphic url="huyg003oeuv01ill79.gif"></graphic></figure></p>
+<p>Componitur problema in hunc modum. Perpendicularis AB producatur donec sit AH ∞ ½ <hi rend="i">m</hi>, et constituatur perpendicularis HK ∞ ½ <hi rend="i">n</hi>; centroque K, semidiametro KE quae possit quadrato KA + ▭ AB, <hi rend="i">m</hi>; - ▭ BC, <hi rend="i">n</hi>; describatur circulus, et erit hujus circumferentia locus puncti E.</p>
+<p>Nam ductâ ex quocunque ejus puncto E lineâ EA ad datum punctum, et ED ad lineam DB, ut sit angulus D aequalis R, invenietur semper rectangulum sub DC et <hi rend="i">n</hi>, aequale quadrato EA.</p>
+<p>Nihil hic reliquum est nisi ut demonstrationem tuam subscribas, quae te diu latere non poterit, quum jam nunc vicinum huic casum absolveris.</p>
+<p>Majorem puto difficultatem afferent operi tuo diversi modi quibus hoc et alia huic similia problemata proponi possunt, quorum in singulis diversa obtinet constructio; alia enim erit cum angulus R seu D datur acutus ut hic, alia cum obtusus,
+<figure><graphic url="huyg003oeuv01ill80.gif"></graphic></figure><note n="#2"/> alia cum rectus; alia cum linea CD abscinditur supra punctum C, alia cum infra; alia etiam quum punctum E quaeritur ad alteram partem lineae DB. Artis nostrae peritis unus casus instar omnium esse posset, verum si et alijs Geometriae studiosis satisfacere vis, scire percupiam quomodo haec expedire decreveris. Vale.</p>
+<div type="closer">
+<p><date>13 Maij. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer <persName key="scho197">Fr. van Schooten</persName>. Professor der Mathematycken in de Vniversiteijt
+<lb/>Tot Leyden.
+<lb/>In de Heeresteeghe</p>
+</div>
+</body>
+</text>
+</TEI>

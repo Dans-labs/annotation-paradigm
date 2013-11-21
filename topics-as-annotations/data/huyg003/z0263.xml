@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0263"/>
+<meta type="date" value="1656-02-11"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0263">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Huijgenio</persName>, <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Detectionem Dioptricam<note n="#1"/>, de qua nuperrimè loquebaris, qualem heri à Kechelio accepi, nunc Tibi transmitto. Quicquid autem in ea continetur, sicut mihi retulit, id in totum ferè continetur in Selenographia Hevelij, quam te habere nullus dubito. Praesertim cum is liber ea omnia comprehendere videatur, quae ad exactam per tubum observationem coelestium corporum aliquomodo spectant. In praedicta Detectione vellem legas paginam 39, ubi de novo sidere in cingulo Andromedae loquitur Auctor, quod Tibi fortè occasionem Tuis Tubis aliquid accuratius eo observandi suppeditare poterit. Cartesij opera brevi de novo praelo subjecturus Ludovicus Elsevirius, à me efflagitavit ut ei illa omnia subministrare vellem, quaecunque lucis aliquid illis allatura judicarem, aut novis accessionibus ea locupletare possent. Quocirca si quid à Domino <persName key="beau901">de Beaune</persName> ex Gallia circa illam rem tecum reportaveris, qui tractatum, qui Dioristice inseribitur, composuit, quem eo aegroto
+Dominus <persName>Bartholinus</persName> in ordinem redegit<note n="#2"/>: rogo ut mihi eum communicare digneris, quoniam illum apud Dominum <persName>Mylonem</persName> Te vidisse confido, et Tu fortè eundem jam diu descripseris. Caeterum quidquid suppeditaveris gratum erit, eoque magis si quàm primum ad haec respondeas. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>11 Febr. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van de Heer, Men Heer <persName key="huyg001">van Zuijlechem</persName>.
+<lb/>op t'pleijn in S'Graven-Hage.
+<lb/>Cito met een boeck.
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

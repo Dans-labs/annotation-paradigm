@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0834a"/>
+<meta type="date" value="1661-02-06"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0834">
+<div type="opener">
+<p>Dimanche 6. Feurier.</p>
+<p>Monsieur</p>
+</div>
+<p>je vous conuie de la part de Monsieur Ampiou le Conseiller au Parlement auec qui nous passasmes Mecredy<note n="#1"/> l'apres disnée, pour disner demain auec luy si vostre commodité le permet et que vous n'ayés point d'autre engagement. Vous en connoissés le merite aussi bien que la qualité, et je ne doute point que vous ne luy donniés volontiers cette complaisance où vous trouués vostre propre honneur. Si mon valet ne vous rencontre pas je vous prie de ne pas manquer a m'enuoyer demain matin sur les huit heures la response a ce billet afin que je la face scauoir a mon Amy et que les choses ne reçoiuent point dobstacle ni de desordre. Sil vous rencontre escriués moy vostre volonte par luy.</p>
+<div type="closer">
+<p><persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huggens</persName> Gentilhomme Hollandois.</p>
+</div>
+</body>
+</text>
+</TEI>

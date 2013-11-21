@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2684"/>
+<meta type="date" value="1691-06-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="cupe001"/>
+<meta type="senderloc" value="voorb001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2684">
+<div type="opener">
+<p>Viro amplissimo <persName key="cupe001">Gisb. Cupero</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.D.</p>
+</div>
+<p>Memini quidem Vir Amplissime Ludolphum<note n="#1"/> quem dicis, legenda mihi dedisse summaria Commentariorum patrui sui<note n="#2"/> in Historiam Aethiopicam. Sed idem, nisi me ommis fugit memoria, Haga discedens ea repetijt, Tibi nempe redditurus a quo habuerat. Itaque culpanda est Viri socordia, si id non praestitit. Quod si praeter commentaria ipsa doctissima, quae te nuper ab auctore accepisse scribis, partem voluminis facere debet breviorem eorum, doleo id tibi abesse; quanquam minus desideranda videntur quae tantummodo argumenta complectebantur rerum quae nunc explicata habes in opere ipso. Erat autem ni fallor Erfurdiensis Professor Ludolphus noster, si fortasse per literas eum conveniendum putabit. Vale Vir praestantissime et Eruditissime.</p>
+<div type="closer">
+<p>Dabam <placeName key="voorb001">Voorburgi</placeName> <date>6 Jun: 1691</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

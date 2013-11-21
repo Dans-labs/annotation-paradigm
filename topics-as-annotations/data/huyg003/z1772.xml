@@ -1,0 +1,80 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1772"/>
+<meta type="date" value="1669"/>
+<meta type="sender" value="huyg008"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="1771"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1772">
+<div type="section">
+<head rend="h4">Copie de la Table Angloise.</head>
+<p><table>
+<row>
+<cell>Of 100. there dies within the first six years</cell>
+<cell>36.</cell></row>
+<row>
+<cell>The next 10. ijears or decad</cell>
+<cell>24.</cell></row>
+<row>
+<cell>The second decad</cell>
+<cell>15.</cell></row>
+<row>
+<cell>The third decad</cell>
+<cell>9.</cell></row>
+<row>
+<cell>The fourth</cell>
+<cell>6.</cell></row>
+<row>
+<cell>The next</cell>
+<cell>4.</cell></row>
+<row>
+<cell>The next</cell>
+<cell>3.</cell></row>
+<row>
+<cell>The next</cell>
+<cell>2.</cell></row>
+<row>
+<cell>The next</cell>
+<cell>1.</cell></row>
+</table></p>
+<p>From whence it follows, that of the said 100. conceived there remaines alive</p>
+<p><table>
+<row>
+<cell>At 6. ijears end</cell>
+<cell>64.</cell></row>
+<row>
+<cell>At 16. ijears end</cell>
+<cell>40.</cell></row>
+<row>
+<cell>At 26.</cell>
+<cell>25.</cell></row>
+<row>
+<cell>At 36.</cell>
+<cell>16.</cell></row>
+<row>
+<cell>At 46.</cell>
+<cell>10.</cell></row>
+<row>
+<cell>At 56.</cell>
+<cell>6.</cell></row>
+<row>
+<cell>At 66.</cell>
+<cell>3.</cell></row>
+<row>
+<cell>At 76.</cell>
+<cell>1.</cell></row>
+<row>
+<cell>At 80.</cell>
+<cell>0.</cell></row>
+</table></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

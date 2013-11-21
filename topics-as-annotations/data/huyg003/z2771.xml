@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2771"/>
+<meta type="date" value="1692-10-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2768"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2771">
+<p>Constructio J. Bernoulij ad Aenigma Viviani Florentia missi [sic] ad Leibnitzium cujus constructio alia ac non tam elegans sed tamen hujus fundamentum<note n="#1"/>.</p>
+<p><figure><graphic url="huyg003oeuv10ill83.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure></p>
+<p>GKB est quadrans semisphaerae. Polus G. Aequatoris quadrans BK. Centrum sphaerae A. BA, KA rectae. KHB est superficies ungulae dimidiae cylindricae 45 gr. super quadrante AKB.</p>
+<p>A puncto quovis C in arcu BK sit CL parall. KH. CE perpend. BA. CL=CE. Arcus CF in quadrante CG aequalis sumatur arcui CB ac similiter alia puncta inveniantur in sphaerae superf.<hi rend="sup">m</hi> per quae transeat curva GFB<note n="#2"/>. Dico spatium GFBCKG<note n="#3"/> aequari superficiei ungulae KBH. Ducatur enim radius CA et in eum perpend. FD, item CE perpend. in BA. Jam FD erit=CE vel CL. Quare spatiolum FC inter quadrantes minimo distantes qui à polo G ducuntur aequale fiet spatiolo CL eidem minimo arcui circumferentiae BC insistenti (hoc est notum theorema ex relatione superficiei sphaericae ad cylindricam circumscriptam)<note n="#4"/>;
+atque ita totum spatium superficiei sphaericae GFBCKG aequale superficiei semiungulae BCKH, ac proinde quadrato radii AB<note n="#5"/>.</p>
+<p>AC=AB; CD=EB quia FD=CE ex constructio; AD=AE; ergo triang. BAD ∞ CAE quia angulus communis ad A. Ergo cum ang. AEC sit rectus erit et ADB rectus. Ergo punctum D in semicircumferentia ADB. Ergo tota GFB super tota semicircumferentia ADB. Hinc GFB curva est in superficie semicylindrica super ADB<note n="#6"/>. Hinc eadem est curva GFB atque in figura inferiore<note n="#7"/> AEFD. Nam sicut ibi<note n="#8"/> à B ad omnia puncta lineae AEFD sunt rectae aequales, ita hic à puncto A.</p>
+<p><figure><graphic url="huyg003oeuv10ill84.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p><figure><graphic url="huyg003oeuv10ill85.gif"></graphic>
+<figDesc>Fig. 3.</figDesc></figure></p>
+<p>Cylindri GL<note n="#9"/> latus AB aequale diametro ipsius BD. Radio BA centro B descripta est in cylindri superficie, linea curva AEFD. Si jam<note n="#10"/> in planum extendatur
+superficies hujus cylindri scissa secundum latus CD ipsi AB oppositum, erit spatium comprehensum curva AEFD, semicircumferentia DKB, et recta BA, eâdem figura et magnitudine atque MPNO [fig. 3] dimidium involucrum cylindricum ungulae anguli semirecti super semicirculo cujus radius OM aequalis AB sive AC<note n="#11"/>.</p>
+<p>Sumatur enim in curva AEFD punctum aliquod E, per quod ducatur planum basi cylindrici GL parallelum, faciens in cylindro circulum EH, cujus circumferentia secet AB in H, et jungantur HE, EB.</p>
+<p>Accepiatur porro MR, pars radii MO, aequalis AH, et applicetur normaliter RP secans quadrantis MOQ arcum MQ in S, et jungatur SO.</p>
+<p>Erit triang. ROS simile et aequale triang<hi rend="sup">o</hi>. HBE, quia RO=HB; OS=BE et anguli R et H recti. Ergo et RS=EH. Est autem circuli HE diameter subdupla diametri circuli MS. Ergo arcus EH aequalis arcui SM, hoc est rectae RP. Ergo explicatus arcus EH faciet applicatam ad AB, quam sit=RP, etc.</p>
+<p>Si OT possit duplum OM<note n="#12"/>, et sit ellipsis quadrans OTVQ, erit curva TVQ=MPN. Ergo et ipsi AEFD<note n="#13"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

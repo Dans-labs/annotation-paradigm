@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0772"/>
+<meta type="date" value="1660-08-20"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0772">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Libellum de quo scripseram iam ad te peruenisse<note n="#1"/> gaudeo sed illud magis nihil in eo continerj quod Systematis Tuj fundamenta conuellat. Prodeat itaque, cum bono Deo Apologia quam moliris; et caetera quae promouendis Geometriae finibus elaborasti. Vallisij<note n="#2"/>, Fermatij<note n="#3"/>, Heuratij<note n="#4"/> libros adeo non vidi, vt ne editos quidem esse hactenus sciuerim. Versari enim me in ea vrbe non ignoras in quâ similium amoenitatum librj vel rarò vel nunquam comparent. Dabo interim operam vt ad me perferantur, et propositiones, quas innuis<note n="#5"/> simul conferam: atque vtinam eodem tempore tuis inuentis etiam potirj posse<note n="#6"/>, quae vtrisque, sat scio, subtilitatis palmam praeripient. Felix interim iter in Galliam Tibi precor, vbi Te Viris illis doctis fore expectatissimum mihi persuadeo. Vale Vir amicissime ab eo qui animitus est</p>
+<div type="closer">
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>20 Augusti 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

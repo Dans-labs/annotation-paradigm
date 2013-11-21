@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0611"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0610"/>
+<meta type="type" value="appendix"/>
+<meta subtype="NE" type="markup" value="ok"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0611">
+<head rend="h4">Propositum a <persName key="phil031">Tade Philips</persName><note n="#1"/>.</head>
+<p><figure><graphic url="huyg003oeuv02ill136.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv02ill137.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv02ill138.gif"></graphic></figure></p>
+<p><formula>∆STV</formula> est aequilaterum.
+in angulis <formula>STV</formula> pendent super trochleis pondera data inaequalia, connexa funiculis coeuntibus in <formula>C</formula>.
+quaeritur quomodo inveniatur punctum <formula>C</formula> ubi nodus consistet.</p>
+<p>Responsum. fiat <formula>∆PQR</formula> cujus latera eandem inter se proportionem habeant quam pondera data.
+Hujus <formula>∆i</formula> angulorum complementa ad duos rectos sunt ipsi anguli qui fient ad nodum <formula>C</formula>.
+ita ut minimum complementum comprehendatur à filis ad minima duo pondera ligatis; maximum complementum comprehendatur à filis ad maxima duo pondera ligatis:
+Ergo super duo trianguli <formula>STV</formula> latera descriptis arcubus dictorum complementorum capacibus, eorum intersectio punctum quaesitum ostendet <formula>Z</formula>.</p>
+<p>Oportet autem ut nullus angulus <formula>∆i PQR</formula> siat major 120 gradibus, hoc est ut quadratum majoris ponderis non sit majus quadratis minorum duorum una cum ipsorum rectangulo, alias enim intersectio intra <formula>∆STV</formula> non caderet nempe si aequilaterus detur.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1143"/>
+<meta type="date" value="1663-08-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1143">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce 24 Aoust 1663.</p>
+</div>
+<p>J'ay encore consultè Monsieur Lilly<note n="#1"/> sur vos difficultez n'ayant pu trouuer le faiseur de pastel qui demeure loin d'icy dans Londres. Il dit que Bice est chez nous assche. Blacblew, Coolswart. Russet il ne scait pas comme on l'appelle. Whiting est Crijtwit comme Hanneman vous a dit. Le Tabaxaerde est ce qui fortifie le plus le pastel, qui toute fois est fort mol, de sorte que si je vous envoiois des bouts comme vous desirez ils arriveroient tout en poudre aussi bien que vostre morceau de Crytwit. Lilly ne se sert du pastel que legerement comme je vous ay dit, et dans les enfoncements il n'y a que du noir. Le mezzo tinto est la couleur du papier mesme, ce qui pourtant ne fait pas trop bien pour les visages de femmes a mon avis, parce qu'on ne voit rien de la beautè du teint par ce moien la. J'ay commencè aujourdhuy chez luy a copier le portrait d'une des grandes beautez<note n="#2"/> d'icy, sur du velin avec du pastel, de la maniere que j'avois fait le garcon riant de Hanneman, et je trouue qu'il tient assez bien. Ily a 3 jours que le dit Signor Pittore nous traita a diner fort splendidement.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

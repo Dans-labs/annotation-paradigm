@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1594"/>
+<meta type="date" value="1667-07-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1594">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 29 Julliet 1667.</p>
+</div>
+<p>Voicy ma quitance<note n="#1"/> signée. Le frere de Zeelhem<note n="#2"/> aura la bontè d'y adjouter le Folio, et l'argent estant receu je vous prie de le donner à Severijn l'horologer<note n="#3"/> qui vous fera un biliet que c'est <hi rend="i">In vermindering van</hi><note n="#4"/> 270 ℔<note n="#5"/> qui luy sont duës pour une horologe envoyè a Monsieur Moray en Angleterre. Maintenant que la paix<note n="#6"/> est faite je suis assurè que mon remboursement n'aura point de difficultè.</p>
+<p>La raison pourquoy ni moy ni aucun autre n'ont assistè a l'experience de la Transfusion sur les hommes, est que ces deux Messieurs mentionnez<note n="#7"/> dans la lettre imprimee<note n="#8"/> ont voulu veoir comment la chose succederoit auparavant que la rendre publique, et de plus ils veulent tenir secrette la methode dont ils se servent. Mais l'un d'eux m'a dit qu'il n'y a pas plus a souffrir qu'a une saignée. Et que le porteur de chaise sur qui le dernier essay s'est fait, leur a demandè souuent depuis, s'ils n'avoient pas envie d'y retourner encore, et qu'il estoit tousjours a leur service, moyenant les 2 escus. Il s'en estoit tresbien trouuè et entreprit le mesme jour de porter un homme fort pesant, quoy qu'on le luy eust defendu. Il adjouta encore qu'il avoit fait merveilles la nuict ensuivante aupres de sa femme. la quelle derniere particularitè s'estant repandue parmy les dames, fait qu'elles commencent fort à favoriser cette nouuelle pratique, et il ne s'en trouueroit que trop qui voudroient faire transfuser leur maris.</p>
+</div>
+</body>
+</text>
+</TEI>

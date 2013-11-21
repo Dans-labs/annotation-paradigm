@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1592"/>
+<meta type="date" value="1667-07-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1592">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 15 Juillet 1667.</p>
+</div>
+<p>Je ne doute pas que vous n'ayez eu bien du plaisir a vostre voiage dont le seul recit m'a rejoui en me rappellant dans la memoire les beaux lieux et les belles qui me charmoient si fort il y a...<note n="#1"/> ans. Il est vray que je ne dois pas me plaindre du temps present, qui se passe assez doucement, encore qu'il ne me soit pas permis de faire des voiages de 15 jours a cause de nos jours d'assemblée, nobis non licet esse tam beatis.</p>
+<p>J'ay estè surpris de veoir madame de Breuckel<note n="#2"/> dans le petit chasteau de Oirschot, ne scachant pas pourquoy ni comment elle y estoit venue, seule ou accompagnée, et il me vint la dessus des plaisantes idees.</p>
+<p>Il y a longtemps que vostre perruque est faite et entre les mains de Monsieur Busero, que je crois estre parti maintenant. J'en ay payè 5 louis d'or. Elle est d'un meilleur maistre que celle que j'ay envoiée au beau frere<note n="#3"/>, et j'en ay eu deux du mesme qui m'ont rendu bon service.</p>
+<p>Ce bon seigneur beau frere a propos devient bien paresseux de ne m'avoir point escrit depuis si longtemps, ni voulu donner satisfaction touchant ce que je luy avois demandè<note n="#4"/> des petits moulins.</p>
+<p>Le tableau qu'il m'a promis<note n="#5"/> doit estre achevè maintenant, et si Monsieur Coustin passe a la Haye devant que s'en retourner (car on dit que la paix est conclue) il pourroit me l'envoier, s'il luy plaisoit, par cette occasion, et me feroit grand plaisir.</p>
+<p>Je ne laisseray pas eschapper celle du depart de Monsieur van Beuningen pour envoier le portrait du Roy, ou bien il Signor Padre me le defendra. a qui je n'escris pas cette fois parce qu'il est en voiage<note n="#6"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

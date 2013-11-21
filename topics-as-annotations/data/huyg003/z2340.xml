@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2340"/>
+<meta type="date" value="1684-06-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="roqu005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2340">
+<div type="opener">
+<p>A Monsieur l'Abbe <persName key="roqu005">de la Roque</persName>.</p>
+<p>ce 8 Juin 1684.</p>
+<p>Monsieur</p>
+</div>
+<p>La lettre que vous me fistes l'honneur de m'escrire il y a un peu plus d'un an<note n="#1"/>, touchant la dispute que j'avois avec Mr. <persName key="cata001">l'Abbè Catelan</persName> a estè cause en partie que j'ay negligè si longtemps de vous envoier ce que j'escrivis contre sa Replique, parce que vous m'asseurastes que toute nostre Academie avoit estè d'avis que je ne devois point m'en mettre en peine. Plusieurs autres occupations qui me sont venues depuis y ont contribuè aussi. Toutesois par les raisons que vous verrez dans ce que je vous envoie, j'ay creu qu'il ne faloit pas me taire tout a fait. Comme l'on a veu sa Replique<note n="#2"/> dans vos Journaux, je serois bien aise que ma response<note n="#3"/> y fust lue de mesme, estant bien faschè de ne l'avoir pas pu rendre plus courte; mais en la faisant imprimer en petit caractere elle en occupera moins de place.</p>
+<p>J'ay outre cela a vous presenter une production nouvelle, qui pourra plaire d'avantage aux lecteurs, c'est mon Astroscopia Compendiaria<note n="#4"/> ou maniere d'observer avec les Telescopes sans l'embarras des Tuyaux. Invention qui est icy fort approuvee et qui reussit comme je le pourrois souhaiter. J'en ay envoiè un exemplaire a M. Cassini et un autre a Mr. <persName>Perrault</persName> le medecin, qui auront bien la bontè de vous le prester pour en faire un extrait<note n="#5"/>, s'il vous plait de prendre cette peine. Car pour ne grossir pas trop ce paquet je vous envoie seulement la figure avec son explication sommaire. Depuis l'impression j'ay trouvè encore une addition considerable a cette invention<note n="#6"/> dont je suis apres a faire graver la figure que je vous envoieray aussitost qu'elle sera faite. Je suis</p>
+<div type="closer">
+<p>Vostre &amp;c. &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

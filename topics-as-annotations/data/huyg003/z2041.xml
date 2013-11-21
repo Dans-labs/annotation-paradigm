@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2041"/>
+<meta type="date" value="1675-07-12"/>
+<meta type="sender" value="voye010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="brest901"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2041">
+<div type="opener">
+<p>a brest ce 12<hi rend="sup">me</hi> Juillet 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je receus il y a quelque jours vne lettre de Monseigneur <persName>de Segnelay</persName><note n="#1"/> dans vn article de la quelle il me fait lhonneur de me mander quil ecriuoit a Monsieur de
+Süeil Intendant de ce port affin de voir si la proposition de ce nouueau pretendant<note n="#2"/> aux longitudes estoit receuable et en cas quil y eust quelqu'apparence quil luy facilitast touts les moyens pour en faire les experiences mais monsieur lintendant ma temoigné que monseigneur de Segnelay ne luy en auoit rien ecrit. Je n'ay rien appris de nouueau du fondement de cet homme si non qu'il fait consister tout son secret particulierement sur vn Instrument qu'il a composé luy mesme basti á ce que ma tesmoigné Monsieur lintendant comme vne sphere plate qu'il cache auec grand soin ne layant fait voir qu'a monsieur de Süeil seulement mais comme Mon dit sieur de Süeil na pas beaucoup de connoissance de ces sortes de matieres, je n'en ay pu apprendre rien de plus particulier et ne croy pas en estre plus scauant a lauenir. il est parti d'icy depuis quelques jours et n'entends plus parler dans les six mois quil y a residé. Je nay pu auoir aucune conference auec luy sur ce suiet se cachant a moy. Je nay point apris que personne d'icy ayt ecrit sur ce suiet a monsieur perrault mais je croy que monseigneur colbert luy a temoigné ce qu'on luy en a ecrit, J'ay tant dobligation a mon dit sieur perrault que n'ayant point doccasion de luy temoigner si vous le trouués bon Je vous supplie de lassurer de mes tres humbles respects et obeissances et que je ne perdray jamais le resouuenir des graces que jay receues de luy. Jay esté surpris du procedé du Sr. Turet<note n="#3"/> sur vostre nouuelle Inuention que jattends auec impatience je seray raui quelle reucisse comme vous le souhaites et vous puis assurer quant a moy que je nepargneray rien de tout ce qui poura contribuer a vostre plaisir
+et a vostre satisfaction et que jy prendray plaisir en mon particulier ne souhaitant rien avec plus de passion que de vous temoigner que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant Seruiteur <persName key="voye010">De la Voye</persName>.</p>
+</div>
+<p>Leclipse<note n="#4"/> ne nous a point paru a cause des nuages.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> dans la Bibliotheque du Roy rue viuienne a Paris.
+<lb/>15</p>
+</div>
+</body>
+</text>
+</TEI>

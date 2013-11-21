@@ -1,0 +1,32 @@
+// This query tries to find consecutive imperative clauses with an
+// object immediately following the predicate, under the restriction
+// that the imperatives are from the same verb.
+
+// ident @(#)lq16.mql	1.1 04/03/26
+
+/*
+<metadata>
+<meta type="research_question">imperatives</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-03-26"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query tries to find consecutive imperative clauses with an object immediately following the predicate, under the restriction that the imperatives are from the same verb.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [phrase phrase_function = Pred
+      [word FOCUS as w1 tense = imperative]
+   ]
+   [phrase FOCUS phrase_function = Objc]
+]
+[clause
+   [phrase phrase_function = Pred
+      [word FOCUS lexeme = w1.lexeme and tense = imperative]
+   ]
+   [phrase phrase_function = Objc]
+]

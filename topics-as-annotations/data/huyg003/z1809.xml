@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1809"/>
+<meta type="date" value="1670-05"/>
+<meta type="sender" value="cass021"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1809">
+<p>Observatio Domini Cassini. Parisis 1670<note n="#1"/>.</p>
+<p>Saturnus die 12 Maij hora 3. matutina.</p>
+<p><figure><graphic url="huyg003oeuv07ill08.gif"></graphic></figure></p>
+<p>Paulo maior obscuritas erat ad <hi rend="i">a</hi> quam ad <hi rend="i">b</hi> puto ob umbram globi in annulum tractus tenuissimus vmbrosus erat ab <hi rend="i">a</hi> in <hi rend="i">b</hi> quem exactè ob loci incommoditatem notare non potui.</p>
+</div>
+</body>
+</text>
+</TEI>

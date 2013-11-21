@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2563"/>
+<meta type="date" value="1690-02-17"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="bayl001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2563">
+<div type="opener">
+<p>A Mr. <persName key="bayl001">Bayle</persName> Prof. en Philosophie</p>
+<p>A <placeName key="denha004">la Haye</placeName> 17 feb, 1690.</p>
+</div>
+<p>Vous estes Monsieur du nombre de ce peu de gens pour qui ce livre a estè fait, et que je souhaite d'avoir pour lecteurs. C'est ce qui m'obligeroit de vous en envoier cet Exemplaire quand je ne vous le devrois pas d'ailleurs, pour avoir receu cy devant de vostre liberalitè des productions meilleures et plus achevees de vostre esprit<note n="#1"/>. Je suis Monsieur</p>
+<div type="closer">
+<p>Vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

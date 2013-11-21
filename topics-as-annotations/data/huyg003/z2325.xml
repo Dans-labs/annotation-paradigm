@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2325"/>
+<meta type="date" value="1683-10-09"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2325">
+<div type="opener">
+<p>Nobilissimo Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="gent015">Pet. à Gent</persName> S.P.D.</p>
+</div>
+<p>Nuper admodum ad Nob. Vir. dedi epistolam, cui inclusa erat epistola Nob. D. de Tschirnhaus<note n="#1"/>, quam tibi (ita nempe a me petierat) quo melius legere posses descripsi: petii statim responsum, quo certior fierem, num eae tibi redditae; verum nihil responsi hactenus vidi, quod miror. Hodie iterum epistolae ad me delatae, in quibus conclusa erat <hi rend="i">prima ejus Logices pars</hi><note n="#2"/>, quam denuo petijt ut tibi nitide exararem, id quod lubenti animo a me fiet, si percepero hoc tibi gratum esse: velim hoc mihi vel literula significes. Dedit et ad D. Mariotte Epistolam, quam una mittam, quo eam Parisios ableges.</p>
+<p>Plura non addam nisi me esse</p>
+<p>&nbsp;</p>
+<p>Raptim 9 Octob. 1683.</p>
+<p>Nob. Viro humillimum servum <persName key="gent015">Pet. à Gent</persName>.</p>
+<p>&nbsp;</p>
+<p>P.S. Iterum mihi ei scribendum proxima septimana, si quid per me curare velis, me tibi obsequentissimum invenies. Vale.</p>
+</div>
+<div type="para">
+<p>Wel Edele gebooren Heer Mijn Heer <persName key="huyg003">Christiaan Hugens, Heer van Zulichem</persName>
+<lb/>In 's Gravenhage.
+<lb/>pt.</p>
+</div>
+</body>
+</text>
+</TEI>

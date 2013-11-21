@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0128"/>
+<meta type="date" value="1652-07-28"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0128">
+<div type="opener">
+<p>Viro Clarissimo <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Postquam litterae tuae<note n="#1"/> certiorem me fecerunt te peracto itinere tuo Gandavensi<note n="#2"/> Hagam redijsse, non potui non gratulari tibi adventum tuum, et tractatum
+meum de Locis Planis Apollonij<note n="#3"/> transmittere, quaerens ut evm perlegere digneris, et quaecunque repereris minus rectè se habere, aut parum placere, subinde notare. Omnia scilicet ingenio tuo subjicio. Cum enim illud perspectum habeam, fore confido ut postquam singula accuratè expenderis, non facilè quid inventum iri quod aliorum tela habeat reformidandum. Intelligo te diu cum Patre Gregorio esse collocutum, nec tamen interim te satis commodè eius confessionem suae quadraturae mihi posse exprimere. De quo igitur cum excurrere mihi vacabit inter nos agemus. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>28 Julij 1652</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, ten huijse van myn Heer <persName key="huyg001">van Zuijlichem</persName>
+<lb/>in S'graven-hage op t' plein.
+<lb/>port
+<lb/>met een packjen W<hi rend="sub">9</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

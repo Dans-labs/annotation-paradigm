@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1223"/>
+<meta type="date" value="1664-03-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1223">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 28 Mars 1664.</p>
+</div>
+<p>Nous avons estè bien surpris de l'histoire<note n="#1"/> de Mademoiselle Orleans et en attendons la suite avec impatience. Je n'avois jamais eu fort bonne opinion de cet homme<note n="#2"/>, mais je ne croiois pas qu'il fut abandonnè jusqu'a ce point là. S'il n'en perd que la teste simplement je croy qu'il en est quite a bon marchè, car icy il seroit rouè assurement.</p>
+<p>J'ay estè porter ce matin a la Poste les gans dont vous m'aviez priè, qui sont de 15 livres la paire, et de la grandeur que vous m'aviez prescripte. J'ay bien recommandè le pacquet au Commis qui m'a promis d'en faire autant envers le postillon, et me scaura dire apres pour combien il est accordè avec luy pour le port, que l'on paye icy jusqu'a Anvers. l'assignation que vous me donnez pour mon remboursement sur l'argent des montres de Pascal n'est pas bonne encore,
+Car pour celle qu'a la Signora Anna<note n="#3"/>, comme je luy ay dit une fois, et pour bonnes raisons, que je ne me meslois pas<note n="#4"/> de ces 2 montres que Monsieur Chieze a fait venir, elle ne me parle plus du payement. Et l'autre de Vigarani<note n="#5"/> parce qu'elle s'arrestoit 2 fois par jour, il m'a priè de la renvoier en Hollande et je l'ay dans ma chambre depuis quelques jours, ou elle continue a faire ces mauvais tours. toutefois j'ay envie de la faire racommoder s'il y a moyen, pour la vendre a un bon prestre qui m'en a fait solliciter par Zuerius<note n="#6"/>, et en ce cas je pretens que le Sieur Pascal m'en aura de l'obligation. J'espere donc qu'une fois j'auray nouuelles que ces 2 pieces<note n="#7"/> que j'ay commandees seront parties. Pour le payement de celles la il n'y aura aucune difficultè pourvu qu'elles marchent, mais que pour ces autres il ne m'adresse point de marchands, tant que je ne luy auray fait scauoir que j'en ay receu l'argent.</p>
+<p>Il Signor Padre vient de me dire que le frere de Zeelhem luy a escrit par sa derniere touchant nostre augmentation<note n="#8"/> que scavez, et qu'il a trouuè bon de nous l'accorder de 130 ℔. J'ay dit que du moins il la fit monter à 150, mais il s'en est excusè.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

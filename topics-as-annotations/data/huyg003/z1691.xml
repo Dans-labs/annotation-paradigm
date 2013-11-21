@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1691"/>
+<meta type="date" value="1669-01-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1691">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 5 Janvier 1669.</p>
+</div>
+<p>Je n'ay garde Signor Fratello de vous presser pour avoir les verres que vous m'avez promis<note n="#1"/>, puis que je vois que vous vous estes occupè dans un travail tout a fait different. J'ay fait chercher d'abord vostre autheur dans la Bibliotheque du Roy, et je l'ay icy devant moy. Le titre est
+‘Il Riposo di Rafaello Borghini<note n="#2"/>, in cui della pittura et della scultura si favella de' piu illustri Pittori, e Scultori, e delle piu famose opere loro si fa mentione, e le cose principali appartenenti a dette arti s'insegnano. In Fiorenza 1584. in-8<hi rend="sup">o</hi>. gros de 3 doigts<note n="#3"/>.’</p>
+<p>Je suis marry de ne vous pouvoir encore envoier que cela, mais j'ay desia donnè commission pour chercher ce livre, que l'on dit estre rare, et si je le puis avoir je vous l'envoieray au plus tost. Selon ce que vous me parlez de vostre travail, ce
+sera un assez grand livre, et il faut avouer que vous estes bien amoureux de l'art, de vous donner tant de peine. J'en infere que vous y devez avoir beaucoup profitè, depuis que j'ay veu de vostre ouvrage, et que vous devriez bien m'envoier quelque petit morceau que je peusse monstrer aux connoisseurs d'icy aupres de quels je me vante bien souuent que j'ay un frere qui dessine comme un Rafael.</p>
+<p>Je ne pourray pas respondre encore par cet ordinaire a Monsieur de Nieuwlant<note n="#4"/>, qui est un autre Poleiser<note n="#5"/> et fait fort l'habil homme. C'est une chimere ce qu'il propose de joindre plusieurs objectifs, parce qu'il ne scauroit assembler leurs foiers dans un mesme point, et il n'a qu'a l'essaier au soleil s'il peut faire venir en un mesme lieu les deux images que deux differens verres en representeront. au reste quand vous aurez envie un de ces jours de travailler aux grandes lunettes, je pourray vous donner quelques avis de consequence tirez de l'experience. car nous avons icy des gens qui commencent a bien travailler.</p>
+<p>La nouvelle de Suzette Caron ne merite point de foy, et est inconnue icy.</p>
+<p>Je plains fort le bon Monsieur de Leeuwen. Je luy escriray par l'ordinaire prochain et au frere Louis.</p>
+<p>Je baise treshumblement les mains a Madame de Zeelhem et luy souhaite bon capo d'anno, comme a tous ceux de chez nous.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0018"/>
+<meta type="date" value="1646-11-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0018">
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName> <persName key="huyg008">Ludovico</persName> fratri S.</p>
+</div>
+<p>Accepi heri sub vesperam particulam ligni putridi, quam confestim in lectum conjeci, ubi principio quidem nullam lucem edidit sed postquam aliquandiu stetissem expectans, tenuem fulgorem laetissimus adverti, qui tantus post evasit (hodie manè nempe cum expergiscerer ut magnos impressos characteres quales in titulis librorum sunt ut in Ovidio satis bene legere potuerim.</p>
+<p>Secunda autem observatio tua, meae adversatur, nam expertus sum de die in tenebris aeque lucere ac de nocte sed prius aliquantum temporis in tenebris vel oculis clausis fuisse oportet, cujus ratio opticis satis nota est: partim enim ex dilatatione pupillae procedit quae omnino necessaria est ad debiles luces, qualis haec est recipiendas, partim ex alijs causis quae magis à communi sensu remotae sunt. Librum hunc quaeso meo nomine cognatae dones, dicasque tribus florenis et totidem sestertijs mihi constare, per summum Calistum<note n="#1"/>, cui <persName>Bruno</persName> similem nunquam habuit, ut aliquando audies; forte enim die saturni ad vos transcurro. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugduni</placeName>, <date>21 Nov. 1646</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

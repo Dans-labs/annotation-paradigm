@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1770"/>
+<meta type="date" value="1669-10-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1770">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 30 Octobre 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay a faire response a 2 des vostres dont la premiere du 6 septembre me fut rendue estant encore a la campagne<note n="#1"/>, l'autre du 7 octobre icy, il y a 8 jours. Je vous remercie tres humblement du Journal dont la derniere a estè accompagnée et de la bontè que vous avez de vouloir bien me les envoier tous consecutivement. Pour ce qui est des animadversions que vous desirez que j'y fasse en amy, je scay bien que je ne trouveray guere sujet d'en saire, puis que tout ce que vous y mettez m'a tousjours semblè fort bien et fort judicieusement escrit. Et s'il y a eu quelque fois des choses qui ne fussent pas au goust de tout le monde, elles l'ont pourtant estè au mien. L'on scait bien que pour fournir un Journal tous les mois, de l'estendue du vostre, toutes les nouuelles ne peuvent pas tousjours estre d'esgale importance et ce seroit trop demander. Au reste il n'y a qu'a mettre les choses le plus simplement, a mon avis, que l'on peut, et je dis quelques fois a l'autheur<note n="#2"/> du Journal François qu'il y fait plus de façon qu'il n'est necessaire.</p>
+<p>Ce que vous avez mis dans vostre penultieme Journal<note n="#3"/> touchant le vol des aragnees m'a semblè fort estrange et a peine croiable. Car comment s'est y peu faire que, devant cette observation de vostre Cantabrigien<note n="#4"/>, personne au monde n'ait veu par hazard la mesme chose, puis qu'il assure que presque toutes les sortes d'aragnee s'elevent ainsi dans l'air. Je voudrois bien scavoir ce que vos Messieurs de la Societè Royale en croyent; pour ceux de nostre assemblee ils sont dans la mesme peine que moy.</p>
+<p>Si vostre verre de 50 pieds fait voir Saturne comme je l'ay mis dans la 2<hi rend="sup">de</hi> des figures fausses, j'en conclus qu'il ne doit estre guere bon, et il ne sera pas bien distinct dans la lune non plus. Je n'ay encore essaiè mes verres de 45 pieds, dont j'en ay deux de quelque apparence, que de jour seulement, n'ayant pas de commoditè icy pour dresser un tuyau de cette longueur. Ils ne semblent pas mauuais par cet essay, mais de dire qu'il soit bon pour les planetes, c'est ce que je n'oserois, et principalement a cause des defauts de la matiere que j'appercois visiblement en exposant les verres a certaines reflexions, car pour la figure je crois qu'ils sont parfaitement bien taillez.</p>
+<p>Le seul grand verre de Campani que j'aye essaiè est celuy que Monsieur Cassini a apportè qui n'est que de 15 pieds. Il est tres bon et bien travaillè, mais dans ces longueurs mediocres cela n'est pas rare. nous en avons icy de 17 et 22 pieds qui font encore un peu plus d'effect.</p>
+<p>Ces tuyaux ou Monsieur Boyle enferme l'eau sans air estant larges<note n="#5"/> d'un pouce ou d' 1½, trouve t on qu'en secouant cette eau, elle fait un fort different effect en frappant contre le verre, qu'elle ne feroit autrement si elle estoit accompagnée d'air? Car il semble que cette largeur donneroit presque aussi facilement passage a l'air qu'au vuide.</p>
+<p>Pour la raison que demande Monsieur Neile<note n="#6"/> pourquoy un corps donne du mouvement a un autre qu'il rencontre, je ne crois pas qu'on la puisse trouver par des principes plus connus. Et je pense avoir fait quelque chose d'avoir demontrè les regles de communication de mouvement que la nature observe. Quoy que je ne montre que le <hi rend="i">τὸ ὅτι</hi>. Pour ce qui est de sa supposition d'un seul corps dans tout le monde, je dis qu'on ne pourroit considerer ni du mouvement ni du repos dans ce corps, par ce qu'il n'y auroit rien a quoy les rapporter. Et s'il ne veut pas m'accorder que le mouvement et le repos ne se peuvent considerer que relativement, je le prie de me dire et definir ce que c'est l'un ou l'autre a les prendre absolute et sans relation.</p>
+<p>Je seray bien aise d'apprendre que mes<note n="#7"/> Anagrammes soient delivrez.<note n="#8"/> Si vous en proposiez la maniere publiquement dans vos Transactions<note n="#9"/>, ainsi que vous dites, je ne pense pas qu'il y auroit personne qui ne l'approuveroit, comme estant un moyen de rendre justice a un chacun.</p>
+<p>Les nouvelles de mes Horologes apres le retour de Candie<note n="#10"/> sont toujours fort
+bonnes et je pourray vous en dire cy apres des particularitez qui meritent d'estre sceues, mais il y a jusqu'icy des raisons qui m'en empeschent.</p>
+<p>Je vous baise les mains et je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionnè serviteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

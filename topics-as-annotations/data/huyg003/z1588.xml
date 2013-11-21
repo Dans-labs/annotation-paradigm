@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1588"/>
+<meta type="date" value="1667-04-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1588">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 29 Avril 1667.</p>
+</div>
+<p>Ie vous prie d'envoier chez le Secretaire Graswinckel<note n="#1"/> pour une attestation, car je ne crois pas qu'il s'informera si je suis en France ou a la Haye quand vous y envoierez seulement en mon nom. L'ayant vous n'aurez qu'a me l'envoier, afin que je signe la quitance, sur la quelle l'on ne fera pas difficultè de me payer les 100 ℔ qui me sont duës; ou autrement je prendray icy quelque attestation de
+l'Ambassadeur<note n="#2"/> ou autre. Vous y marquerez le nombre du Fol<hi rend="sup">o</hi>. ainsi qu'il est dans le parchemin que j'ay laissè entre vos mains.</p>
+<p>Vous prendrez en suite la peine de donner cet argent a Severijn Oosterwijck en diminution des 270 ℔ qui luy sont dues de l'horologe<note n="#3"/> de Monsieur Morray, dont il vous fera un billet. Il y a des raisons pourquoy je ne veux pas presser ledit Morray pour ce payement, et ainsi j'aime mieux en avancer cette partie du mien en attendant.</p>
+<p>Pour les exemplaires de l'Instruction<note n="#4"/>, si mon Pere est revenu<note n="#5"/>, il se souuiendra qu'en partant je luy en ay laissè quelque vingtaine, dont je le prie d'en vouloir donner a cet Horologer. Ie crois aussi en avoir laissè un bon nombre dans la chambre ou j'ay enfermè mes livres, d'ou vous en pourriez prendre. Ce seroit une bonne affaire si a la fin les Bewinthebbers<note n="#6"/> commencoient a reveiller leur curiositè pour voir l'effect de ces horologes. l'on en fait trois icy par mon ordre, mais au depens du Roy, pour servir au voiage<note n="#7"/> de Madagascar<note n="#8"/>, ou nous devons deputer deux personnes<note n="#9"/> pour faire des Observations d'astronomie et plusieurs autres. A celles là je ne fais point adjouter l'invention de la chaisnette, parce que je vois qu'elle donne trop d'embaras, quand il y a quelque chose a refaire, à moins que ce ne soient des personnes fort intelligentes qui s'en meslent.</p>
+</div>
+</body>
+</text>
+</TEI>

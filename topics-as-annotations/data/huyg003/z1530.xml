@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1530"/>
+<meta type="date" value="1666-04-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1530">
+<div type="opener">
+<p lang="fr">A <placeName key="denha004">la Haye</placeName> ce 9 Avril 1666.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a bien 3 mois que je me suis donnè l'honneur<note n="#1"/> de vous escrire, sans que je scache encore<note n="#2"/> si ma lettre vous a estè rendue, et si elle ne l'a estè vous me taxez peut estre de negligence<note n="#3"/> et de manque de devoir, de n'avoir pas sait responce a la vostre<note n="#4"/>; dont pourtant je ne suis point coupable mais bien d'avoir cessè de vous escrire depuis ce temps la. A sin que vous m'excusiez plus facilement vous scaurez que depuis plus de 6 mois j'ay estè tousjours comme sur mon depart, estant appelè du Roy de France pour aller demeurer en sa cour et mon voiage ayant estè retardè de temps en temps jusques à cet heure pour des raisons trop longues a dire dans ces entre faites et cette incertitude je n'ay peu entreprendre rien a bon escient (?) je dis de mes estudes ou autres choses qui doivent donner suject a nos entretiens, si non que je me suis amusè a chercher de perfectionner l'art des Lunettes: et je croy (?) vous en avoir rendu quelque compte dans mes precedentes<note n="#5"/> vous mandant que je travaillois a des verres de 60 pieds. Il est vray que je ne pense pas avoir perdu le temps que j'ay emploiè a cette recherche, par ce que j'ay trouuè, apres quantitè d'experiences une methode nouuelle et la meilleure qui puisse estre a mon advis pour tailler et polir exactement
+ces grands verres à scavoir de 8 ou 10 pouces de diametre, comme j'espere de montrer bientost par les effets, quand je me seray establi en France. Je vous avois aussi priè dans ma dite lettre de me faire scauoir a quoy en estoit Monsieur Hook que je ne doute nullement qu'il n'ait aussi trouuè de belles choses en cette art s'il a continuè de la cultiuer, quoy que peut estre il n'aura pas menè a perfection sa machine qui est dans la Micrographie<note n="#6"/>. Je vous parlay de plus de la nouuelle decouuerte de Signor Cassini, qui venoit de m'estre communiquée, touchant la circonvolution de Jupiter sur son axe, qui assurement aura estè trouuée fort belle et heureuse parmy vos Messieurs de la Societè Royale.</p>
+<p>Toutefois je n'en ay pas encore sceu le jugement, ny entendu de leur nouuelles que par fois par le moyen du Iournal des Scavants que l'on m'envoie de Paris.</p>
+<p>Je projettois dans la mesme lettre des moyens pour vous faire tenir vostre horologe marine; mais a la sin il s'en est offert un fort commode par le depart de Mademoiselle de Beverweert<note n="#7"/> qui a eu la bontè d'en charger son bagage, de sorte que vous le recevrez dans peu de jours, car elle part d'icy demain. Je suis sort aise d'auoir pu essectuer cecy devant mon depart qui sera dans 8 ou 10 jours, par ce qu'apres cela je n'en aurois peu avoir soin. Je vous prie de me faire scavoir si vous l'aurez receue en bon estat, et ce qui vous semble de la fabrique.</p>
+<p>Sans nostre maudite guerre je scay bien que nous en aurions veu desia de bons effects. Mais ce n'est pas le seul inconvenient qui en procede. Je prie Dieu qu'il la veuille abreger, et vous assure cependant Monsieur, qu'en pais d'ennemis ny d'amis vous n'avez personne qui soit auec plus d'assection que moy</p>
+<div type="closer">
+<p>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

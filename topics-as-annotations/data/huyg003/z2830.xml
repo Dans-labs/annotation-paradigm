@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2830"/>
+<meta type="date" value="1693-10-21"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="oucqu901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2830">
+<div type="opener">
+<p>A Ouques ce 21<hi rend="sup">e</hi> Octobre [1693].</p>
+</div>
+<p>Je vous rends graces, Monsieur, de ce que vous m'avez fait appercevoir que mes deux courbes etoient de mesme espece. Ce qui m'avoit trompé etoit que les formules qui les donnent sont fort differentes, et que dans le cas d'egalité la premiere donne un cercle et la seconde une ligne droite. J'en vois à present la raison qui consiste en ce que l'egalité <hi rend="i">zz</hi>-2<hi rend="i">px</hi>/<hi rend="i">y z</hi>=<hi rend="i">pp</hi>-<hi rend="i">qq</hi> a deux racines telles que l'une estant substituée dans la 1<hi rend="sup">ere</hi> formule et l'autre dans la 2.<hi rend="sup">e</hi> elles donnent les mesmes valeurs pour <hi rend="i">y</hi>. Le chemin ANMP de la courbe lors que <hi rend="i">p</hi> est moindre que
+<figure><graphic url="huyg003oeuv10ill178.gif"></graphic></figure>
+<hi rend="i">q</hi> est singulier et je n'en scais pas la raison c'est pourquoi vous me ferez plaisir de me l'apprendre. Jl me paroist que la description mechanique de mr Bernouilli ne peut servir que pour la portion AN<note n="#2"/>. J'atends avec impatience que vous fassiez part au public de vos nouveaux horloges qui ne craignent point l'agitation de la mer et de la courbe qui sert à en regler le mouvement, et comme vous nous avez donné dans vos pendules une mesure tres exacte du temps pour les gens de terre, il ne restoit plus qu'a en faire de mesme pour les marins, ce qui sera d'un usage merveilleux pour les longitudes.</p>
+<p>Le nom de l'autheur de la logistique ou de la science generale des lignes courbes<note n="#3"/> ne vous est pas inconnu, car c'est Mr. <persName key="cata001">l'abbé Catelan</persName>. Son livre est rempli de tant de paralogismes et de fautes grossieres qu'il a esté obligé enfin de le supprimer, quoi qu'il l'eust corrigé auparavant par trois differentes fois. Son procedé à mon egard a esté fort irregulier, il savoit qu'il y avoit plus de deux ans que j'avois travaillé sur ces matieres et que j'avois mesme communiqué mes ecrits a quelques uns de mes amis qui etoient aussi des siens et qui lui en avoient montré quelque chose: cependant sans en rien dire a personne, il s'avisa de faire imprimer à la chose: cependant sans en rien dire a personne, il s'avisa de faire imprimer à la haste ce beau livre apparemment afin de me prevenir, et c'est ce qui m'a donné occasion d'en remarquer quelques unes des fautes les plus apparentes sous le nom de Mr. G***.</p>
+<p>Mr. <persName>de Lagny</persName> m'a fait present de son livre<note n="#4"/>, c'est un homme assez habile dans les mathematiques. L'invention qu'il contient me paroist peu de chose, car ce n'est qu'une expression aprochée de la racine des cubes imparfaits; or comme vous savez Monsieur on peut exprimer ces racines par des suites dont la somme de quelques uns des termes donne ces sortes d'expressions. Il est vrai que le chemin qu'il a suivi est different, mais il n'en est pas pour cela meilleur.</p>
+<p><figure><graphic url="huyg003oeuv10ill179.gif"></graphic></figure></p>
+<p>J'ai trouvé un chemin fort court pour arriver à la construction des caustiques par refraction de laquelle mr. <persName>Bernouilli</persName> fait un si grand mystere<note n="#5"/>.</p>
+<p>Soit une courbe quelconque DHM et un point rayonnant A d'ou partent les rayons d'incidence AH, A<hi rend="i">h</hi> infiniment proches l'un de l'autre: on demande le point de concours I des rayons rompus HI, <hi rend="i">h</hi>I, le rayon HB de la developpée etant donné.</p>
+<p>Ayant mené les perpendiculaires BC, B<hi rend="i">c</hi> et BE, B<hi rend="i">e</hi> tant sur les rayons d'incidence AH, A<hi rend="i">h</hi> que sur les rompus HI, <hi rend="i">h</hi>I, et decrit des centres A, I, et des rayons AH, IH, les petits arcs de cercle HK, HL (que l'on considere comme de petites droites perpendiculaires sur AH, <hi rend="i">h</hi>I) on nommera les données AH, <hi rend="i">y</hi>; HC, <hi rend="i">t</hi>; HE, <hi rend="i">s</hi>; et la raison de BC à BE, <hi rend="i">m/n</hi>; et le petit arc HK, <hi rend="i">dx</hi>.
+Cela posé on aura, acause des triangles semblables BHC et <hi rend="i">h</hi>HK, BHE et <hi rend="i">h</hi>HL, AHK et AR<hi rend="i">c</hi>, les proportions suivantes HC:HE∷HK:HL=<hi rend="i">sdx</hi>/<hi rend="i">t</hi> et AH∷ AC∷HK:R<hi rend="i">c</hi>=<hi rend="i">ydx</hi>+<hi rend="i">tdx</hi>/<hi rend="i">y</hi>. Or par la proprieté connue de la refraction B<hi rend="i">c</hi>:B<hi rend="i">e</hi>∷BC:BE, et partant B<hi rend="i">c</hi>-BC, c'est-à-dire R<hi rend="i">c</hi>:B<hi rend="i">e</hi>-BE, c'est-à-dire N<hi rend="i">e</hi>∷BC:BE∷<hi rend="i">m</hi>:<hi rend="i">n</hi>. On trouvera donc N<hi rend="i">e</hi>=<hi rend="i">nydx</hi>+<hi rend="i">ntdx</hi>/<hi rend="i">my</hi>, et acause des triangles semblables HLI, N<hi rend="i">e</hi>I; HL-N<hi rend="i">e</hi>:HL∷HE:HI=<hi rend="i">mssy</hi>/<hi rend="i">msy</hi>-<hi rend="i">nty</hi>-<hi rend="i">ntt</hi>, d'ou l'on tire la construction qui est dans les actes. On peut remarquer que cette valeur de HI se reduit à <hi rend="i">sy</hi>/2<hi rend="i">y</hi>-<hi rend="i">s</hi><note n="#6"/>, dans les caustiques par
+reflexion, parce qu'alors <hi rend="i">m</hi>=<hi rend="i">n</hi>, et <hi rend="i">t</hi>=-<hi rend="i">s</hi>, le point C tombant de l'autre coté du point H par rapport au point E. Je suis à la campagne pour quelque temps, mais cela ne doit pas vous empescher de me faire l'honneur de m'écrire parce que j'ai donné ordre qu'on m'envoyast vos lettres. Je suis tres sincerement Monsieur vôtre treshumble et tres obeissant serviteur</p>
+<div type="closer">
+<p><persName key="hosp010">Le Ms. de lHospital</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Hollande
+<lb/>A Monsieur Monsieur <persName key="huyg003">Christiaan Huygens, seigneur de Zeelhem</persName> in 't noordeinde naast de Crabre A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

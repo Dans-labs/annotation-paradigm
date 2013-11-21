@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0174"/>
+<meta type="date" value="1654-01-07"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0174">
+<div type="opener">
+<p>Illustris ac Generosissime Domine, Domine ac Patrone colendissime.</p>
+</div>
+<p>Mitto hâc occasione promissum meum libellum, quem ubi per ocium evolveris, spero te pro veteri confidentia et genio tuo non fraudaturum me iudicio tuo, quod etiam atque etiam expecto. Sive enim illud partibus meis faveat, sive adversetur, in
+utrumque paratum invenies; neque enim ita rebus meis afficior, ut non cuiusvis syncero iudicio velim exponi; aut ita mihi complaceo in exili meo ingenio, ut non credam alios multis meipsum parasangis antecellere. Plura scribere vetat properans occasio, quâ hacc ipsa ad Reverendum Patrem Gregorium commodè possunt deferri; et fusius ante quatriduum<note n="#2"/> per ordinarium cursorem ad te scripsi. Vale meique memor vive</p>
+<div type="closer">
+<p>Illustris ac Generosissimae Dominationis Tuae Servus promptissimus <persName key="kinn013">Godefridus Aloysius Kinner</persName>.</p>
+<p><hi rend="i">Manu propriâ</hi>.</p>
+<p>Dabam <placeName key="praag001">Pragae</placeName> <date>7 Januarij Anno 1654</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

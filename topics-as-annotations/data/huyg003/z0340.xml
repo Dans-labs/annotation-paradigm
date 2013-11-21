@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0340"/>
+<meta type="date" value="1656-10-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0340">
+<div type="opener">
+<p>Clarissimo Viro <persName>Fr. Schotenio</persName> <persName>Chr. Hugenius</persName> S.</p>
+</div>
+<p>Epistolam ad Ainscomium quam nuper scriptam legisti ecce denuo tibi excusam typis mitto. Carteij literas quo magis inserendas crederem, fecit parum honorifica Ainscomij de tanto viro commemoratio. Algebristam egregium illum vocat, Geometrae nomen non facile concessurus, ut ex ijs patet quibus optimum Lipstorpium<note n="#1"/> satis acerbè taxavit. Neque vereri debes ut infensos nomini Cartesiano Jesuitas ea ratione efficiamus, quum jam pridem fuerint infensissimi. quale enim hoc quod nuper etiam animadverti in Riccioli<note n="#2"/> (qui et ipse Jesuita est) Almagesto novo<note n="#3"/>? Ubi cum Catalogus<note n="#4"/> proponatur Insignium omni aevo Mathematicorum, nulla facta est Cartesij mentio, cum tamen permulti recenseantur de quibus ne fando quidem inaudivimus. Caeterum Cartesij literas ad te perscriptas fuisse quod reticuerim prudenter feci, ni fallor, atque ex tua sententia. Domini <persName key="beau901">de Beaune</persName> memini mihi aliqua in eandem rem lecta esse<note n="#5"/>, verum an exscripserim nescio, nunc certè ad manum non erant. De Catalogo librorum gratias ago, ipseque si possim prosiciscar cisthuc ut libros inspiciam. Vale.</p>
+<div type="closer">
+<p><date>6 Oct. 1656</date>.</p>
+</div>
+<p>Alterum horum Exemplarium quaeso ad Dominum <persName>Golium</persName> deferri curato.</p>
+</div>
+</body>
+</text>
+</TEI>

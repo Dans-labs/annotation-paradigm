@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0310"/>
+<meta type="date" value="1656-07-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0310">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Une proposition pour resoudre les questions. le reste dans la lettre à Monsieur <persName key="carc010">de Carcavy</persName>. de l'insinitè des points de poser questions. que je ecris de Impulsu. <persName key="hobb001">Hobbes</persName>, qu'il ne m'a pas dit la forme de la parabole. Ies livres. l'adresse Morin<note n="#1"/>.</p>
+</div>
+<div type="opener">
+<p><date>6 Jul. 1656</date>.</p>
+<p>A Monsieur <persName key="mylo002">Milon</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay priè Monsieur <persName key="carc010">de Carcavy</persName> de vous communiquer ce que j'ay escrit sur les problemes, qui estoient dans l'extrait qu'il a pris la peine, de me faire de la lettre de Mr. <persName key="ferm011">de Fermat</persName><note n="#2"/>. Et vous verrez de quelle facon d'analyse je me sers dans ces sortes de questions ce que vous desiriez de scavoir. Je vous asseure que la mesme apresdisnee que je receus vostre lettre, j'ay trouvè la solution de toutes, quant à la methode, non pas quant au calcul; qui est si long dans quelques unes d'elles que je n'ay pas voulu m'amuser à le poursuivre jusque au bout. Il ne me seroit pas difficile d'en inventer encore cent autres en cette matiere qui seroyent beaucoup plus malaisees; mais ce ne serviroit qu'a tourmenter l'esprit et perdre le temps, lequel il vaut mieux employer a la recherche des choses qu'il importe plus de scavoir. J'auray bientost achevè un traitè de la communication du mouvement entre les corps durs par leur rencontre, ou j'ay trouvè de reigles tout à fait contraires à celle de Monsieur <persName key="desc004">de Cartes</persName>, hors mis la premiere, et je demonstre que quelque grand que soit un corps qui est en repos, il peut estre meu par la rencontre d'un aussi petit qu'on voudra. Une autre theoreme remarquable est qu'un corps moindre allant pousser un plus grand, luy imprimera une plus grande vistesse par le moyen d'un autre qui sera mis entre deux et qui sera de moyene grandeur, que s'il le poussoit immediatement. Et que le mesme arrivera si le grand va rencontrer le petit. Vous verrez une facon de demonstrer fort estrange mais qui pourtant est evidente.
+Dans vostre refutation de Monsieur <persName key="hobb001">Hobbes</persName> vous avez oubliè de me determiner la proportion de l'axe de la parabole a sa base; c'est pourquoy je ne puis l'examiner quoyque je ne doubte pas qu'elle ne soit veritable. Je suis.</p>
+<div type="closer">
+<p>Monsieur,</p>
+<p>Vostre &amp;c.</p>
+</div>
+<p>les livres que je vous ay envoyèz sont adressez a Monsieur <persName>Henry</persName><note n="#3"/> advocat au
+Parlement, demeurant a la Rue de Barthin Poirée proche le Fort l'Evesque. Je seray bien aise d'entendre que vous les aurez receus. J'ay envoyè les 2 Traittez de Monsieur <persName key="beau901">de Beaune</persName> et de Monsieur <persName>Pallierre</persName> à Monsieur <persName key="scho197">Schoten</persName> avec vos lettres. Ce dernier me plaist fort et je vous suis bien obligè de ce que vous me l'avez fait veoir.</p>
+<p>Il y a un libraire<note n="#4"/> icy qui s'en va imprimer une Astrologia Gallica<note n="#5"/> de <seg org="Monsicur" type="corr">Monsieur</seg> <persName key="mori901">Morin</persName><note n="#6"/> laquelle il me prie de veoir<note n="#7"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

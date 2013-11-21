@@ -1,0 +1,83 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2835"/>
+<meta type="date" value="1693-09~"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2833"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2835">
+<p><hi rend="i">Quaeritur an eadem sit Catenaria atque ea quae a tenso velo</hi>, <hi rend="i">quod ita esse Bernoulij dicunt</hi>, <hi rend="i">quos decipi video</hi>. (Voiez le 16<hi rend="sup">e</hi> Journal des Scavans de 1692, mois d'avril, ou Mr. <persName>Bernouli</persName> le frère du Prof. assure qu'il a trouvè que la Courbure de la voile est la mesme que celle de la Chaine<note n="#2"/>, sans y apporter ces distinctions que le Prof.<hi rend="sup">r</hi> remarque dans les Acta du mois de may 1692<note n="#3"/>. Voiez aussi les Acta de 1691, mois de Juin, où Jac. Bernoulli se trompe desia<note n="#4"/>.</p>
+<p>Partes veli aequales MG, GH, HT, ponuntur hic eo situ quem haberent ejusmodi partes aequales in Catena pendente; deinde quaeritur an vento velum istud inflante, mansurae sint partes ita positae. Inveniturque punctum H nonnihil depressum iri, eoque G ascenturum. (Hinc quidem sequitur velum ex rectangulis aequalibus alicujus magnitudinis constans, non mansurum eo positu quo catena ex talibus rectangulis composita: sed posset in infinite parvis, infiniteque multis, evanescere exigua ista diversitas. Nondum etiam clare sequitur, ut quia H punctum in velo deprimitur, ideo obtusior esse debeat velaria in vertice quam Catenaria.
+Nam depresso H attolitur G, unde angulus MGH major sit, et angulus quem facit GM cum horizontali, acutior<note n="#5"/>.</p>
+<p><figure><graphic url="huyg003oeuv10ill188.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure></p>
+<p>Si MG, GH, HT sint partes planae aequales veli ex pluribus aliis compositi et vento inflati; retinantur vero extrema trium partium in M et T, manebit utique earum positus.</p>
+<p>Tangentes angulorum GMN, HGR, THS, sunt ut 1, 3, 5 cum pondera aequalia R et K, et <hi rend="i">ζδ</hi>=<hi rend="i">δχ</hi><note n="#6"/>.</p>
+<p>Vis venti in aequales MG, GH, HT spirantis secundum <hi rend="i">θ</hi>M, est ac si perpendiculariter in medio premerentur viribus quae sunt ut quadrata <hi rend="i">θ</hi>G, <hi rend="i">γ</hi>H, VT. Pro quibus bina pondera aequalia, singulas MG, GH, HT perpendiculariter trahentia, substituo, qualia sunt <hi rend="i">p</hi>, <hi rend="i">p</hi> trahentia GH; <hi rend="i">q</hi>, <hi rend="i">q</hi> trahentia MG, sed quorum alterum duntaxat quod in G trahit considerandum; <hi rend="i">φφ</hi> trahentia HT, quorum alterum duntaxat considerandum quod trahit in H.</p>
+<p>Jam pro <hi rend="i">q</hi> et <hi rend="i">p</hi>* trahentibus in G quaero aequivalentia<note n="#7"/> duo quae traherent per GK. Itemque pro <hi rend="i">p</hi> et <hi rend="i">φ</hi> trahentibus in H quaero aequivalentia duo quae traherent per HR; quae si dictis duobus per GK trahentibus aequalem summam efficiunt, sequitur pressionem venti et catenae pondus eandem curvam efficere. Sed hic praevalere invenio trahentia per HR.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">a</hi> (GK):<hi rend="i">c</hi> (GL)=<hi rend="i">p</hi>:<hi rend="i">pc</hi>/<hi rend="i">a</hi>, pondus trahens per GK aequivalens ponderi trahenti per LG<note n="#8"/>.</p>
+<p><hi rend="i">bb</hi>:<hi rend="i">aa</hi>=<hi rend="i">p</hi>:<hi rend="i">paa</hi>/<hi rend="i">bb</hi> (=<hi rend="i">q</hi>); <hi rend="i">a</hi> (GK):<hi rend="i">r</hi>(GO)=<hi rend="i">paa</hi>/<hi rend="i">bb</hi>(<hi rend="i">q</hi>):<hi rend="i">rpaa</hi>/<hi rend="i">abb</hi>, pondus trahens per KG aequipollens ponderi <hi rend="i">paa</hi>/<hi rend="i">bb</hi> trahenti per GO.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">h</hi> [HY]:<hi rend="i">f</hi> [HX]=<hi rend="i">p</hi>:<hi rend="i">pf</hi>/<hi rend="i">h</hi> [pondus trahens per HR aequipollens ponderi <hi rend="i">p</hi> trahenti per HX].</p>
+<p><hi rend="i">bb</hi>:<hi rend="i">ee</hi>=<hi rend="i">p</hi>:<hi rend="i">pee</hi>/<hi rend="i">bb</hi>[=<hi rend="i">φ</hi>]; <hi rend="i">h</hi> [HY]:<hi rend="i">r</hi> [HZ]=<hi rend="i">pee</hi>/<hi rend="i">bb</hi>[<hi rend="i">φ</hi>]:<hi rend="i">rpee</hi>/<hi rend="i">hbb</hi> [pondus trahens per HR aequipollens ponderi <hi rend="i">φ</hi> trahenti per HZ].</p>
+<list>
+<item><hi rend="i">pc</hi>/<hi rend="i">a</hi>+<hi rend="i">rpaa</hi>/<hi rend="i">abb</hi>=<hi rend="i">pf</hi>/<hi rend="i">h</hi>+<hi rend="i">rpee</hi>/<hi rend="i">hbb</hi><note n="#9"/></item>
+<item><hi rend="i">hcbb</hi>+<hi rend="i">hraa</hi>=<hi rend="i">fbba</hi>+<hi rend="i">reea</hi></item>
+<item><hi rend="i">hraa</hi>-<hi rend="i">eear</hi>=<hi rend="i">bbfa</hi>-<hi rend="i">bbhc</hi></item>
+<item><hi rend="i">har</hi>-<hi rend="i">eer</hi>/<hi rend="i">f</hi>-<hi rend="i">hc</hi>/<hi rend="i">a</hi>=<hi rend="i">bb</hi>; sed <hi rend="i">h</hi>=<hi rend="i">e</hi><note n="#10"/></item>
+<item><hi rend="i">ear</hi>-<hi rend="i">eer</hi>/<hi rend="i">f</hi>-<hi rend="i">ec</hi>/<hi rend="i">a</hi>=<hi rend="i">bb</hi></item>
+</list>
+<p><figure><graphic url="huyg003oeuv10ill189.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<list>
+<item><figure><graphic url="huyg003oeuv10fi264.gif"></graphic></figure><note n="#11"/></item>
+<item><figure><graphic url="huyg003oeuv10fi267.gif"></graphic></figure></item>
+</list>
+<p><table>
+<row>
+<cell cols="3"></cell>
+<cell><hi rend="i">t</hi>=30001 [=] tang. 16.42</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell><hi rend="i">a</hi>=95782</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell><hi rend="i">b</hi>=74314 [=] s.c.<note n="#12"/> 42.0</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell><hi rend="i">e</hi>=55460 [=] s.c. 56.19′</cell></row>
+<row>
+<cell>EAB=56.19′</cell>
+<cell>DAB=42.0</cell>
+<cell>EAD=14.19′</cell>
+<cell><hi rend="i">f</hi>=96894 [=] s.c. 14.19′</cell></row>
+<row>
+<cell>DAB=42.0</cell>
+<cell>CAB=16.42</cell>
+<cell>DAC=25.18</cell>
+<cell><hi rend="i">c</hi>=90408 [=] s.c. 25.18′</cell></row>
+</table></p>
+<list>
+<item><hi rend="i">a</hi>-<hi rend="i">e</hi>=40322 <hi rend="i">aa</hi>-<hi rend="i">ae</hi>=3862121804<note n="#13"/> <hi rend="i">af</hi>=9280701108</item>
+<item><hi rend="i">af</hi>/<hi rend="i">e</hi>=167340 <hi rend="i">af</hi>/<hi rend="i">e</hi>-<hi rend="i">c</hi>=76932</item>
+</list>
+<p><table>
+<row>
+<cell><hi rend="i">aa</hi>-<hi rend="i">ae</hi>/<hi rend="i">af</hi>/<hi rend="i">e</hi>-<hi rend="i">c</hi>=50202</cell>
+<cell>} Ergo summa ponderum trahentium per GK minor quam per HR<note n="#14"/>.</cell></row>
+<row>
+<cell><hi rend="i">bb</hi>/<hi rend="i">r</hi>=55226</cell>
+<cell>} Ergo summa ponderum trahentium per GK minor quam per HR<note n="#15"/>.</cell></row>
+</table></p>
+<p>Ut nihil contra hanc refutationem per numeros sinuum excipi possit, omnes quantitates, cum ad summam inferiorum officiendam adhibentur, pauli majores veris sumantur in numeratoribus, minores in denomin. Cum vero ad summum superiorum ponderum adhibentur sumantur paulo veris minores, id est, minores in numeratoribus, majores in denominatoribus, sed <hi rend="i">r</hi> est verus radius=100000<note n="#16"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

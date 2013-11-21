@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0717"/>
+<meta type="date" value="1660-02-06"/>
+<meta type="sender" value="gast014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="vaumu901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0717">
+<div type="opener">
+<p>De la campagne<note n="#1"/> ce <date>6 Feurier 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay differé quelque temps à vous faire reponse sur le Pascalin<note n="#2"/>, parce que pour le faire exactement je voulois auoir celle de Monsieur Petit<note n="#3"/> à la lettre que je luy en auois écrite du lieu ou je suis à la campagne. Il m'a mandé qu'il y a plus de deux mois qu'il l'auoit mis entre les mains de l'homme<note n="#4"/> de Monsieur Elzeuier, pour le luy enuoyer. Ainsy Monsieur Elzeuier en doit maintenant scauoir des nouuelles, et apparament l'aura t'il maintenant receu, ou est sur le point de le receuoir. Pour la personne à qui Monsieur Pascal a fait autrefois ce beau present, et qui est une des premieres en merite que nous ayons en France, je scay, Monsieur, qu'elle vous honnore parfaitement, et qu'elle a pour vous une estime toute particuliere. Elle m'a chargé de vous dire, que vous pouuez retenir cet instrument autant de temps qu'il vous plaira, soit pour le faire voir à vos amis, soit pour en faire faire de semblables; et que quand vous en aurez disposé ainsy en toute liberté, il n'y aura qu'a le renuoyer par la mesme voye de Monsieur le Petit. Il y a quelques mois que je n'ay veu Monsieur d'Etonuille<note n="#5"/>, parce que je n'ay pas esté à Paris: mais j'en ay sceu souuent, et encore aujourd'huy des nouuelles, qui portent que sa santé se fortifie de jour en jour. Je vas demain à Paris pour un voyage d'un ou de deux mois assez loin d'icy. Je luy montreray ce qui le regarde de vostre lettre<note n="#6"/>, et je puis vous dire, principalement a cause de mon absence, que vous pouuez luy escrire, en addressant vos lettres, si vous n'auez point d'autre addresse, à Monsieur Pascal pour les luy faire tenir, et sur une autre enueloppe mettre <hi rend="i">à Monsieur le Petit Marchand libraire rue St. Jacques à la Croix d'or à Paris.</hi> Je suis auec tout le respect et la passion que je doibs</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="gast014">Du Gast</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> A la Haye.
+<lb/>12
+<lb/>poste d'Hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0920"/>
+<meta type="date" value="1661-11-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="fonta901"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0920">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>23 Nov. 1661</date>.</p>
+</div>
+<p>Je vous ay l'obligation toute entiere de ce que vous me mandez<note n="#1"/> touchant ma personne, car mon Pere ne m'en escrit mot. Voila mon Horologe dans un employ aussi illustre que jamais machine de sa sorte a estè. La Lunette a ce qui me semble court grand risque, s'il faut que Sire Louis la voie; car il sera tenu de dire qu'elle est fort bonne et mon Pere qu'elle est a Sa Majesté si elle l'agree. en cas de quoy je pretens que ce sera pour le service de nostre Prince<note n="#2"/> et qu'il m'en devra recompense. Pour ce qui est de l'horoscope Monsieur Bouillaut est justement arrivè icy depuis 3 jours et je ne manqueray pas de luy faire part de ce que vous m'escrivez du moment de la nativité. Je pense qu'il y a du plaisir a travailler pour les astrologues, quand ils scavent si precisement le temps qu'il ne s'en faille pas une seconde.</p>
+<p>Saluez reciproquement de ma part le Sieur <persName>Martinet</persName><note n="#3"/> l'un des plus grands hableurs du monde, au reste assez scavant en son mestier, et dites luy que ce qu'il raconte d'avoir observè de l'inegalitè des jours, à scauoir 8 ou 10 minutes de difference en 15 jours entre son horologe et le soleil, cela se doit rencontrer quelquefois necessairement. Que je suis maintenant apres a faire tous les jours des observations exactes au soleil, pour esprouuer si l'inegalitè ainsi observee s'accorde avec la table que j'en ay dressée par le calcul, et que depuis 5 semaines que j'ay commencè je la trouue justement telle qu'il falloit. Que pour l'instruction qu'il demande, j'y penseray, quand j'auray un peu plus de loisir, car je ne scay pas bien encore comment je la luy pourois rendre intelligible.</p>
+<p>L'experience de la petite escrevisse est remarquable et merite qu'on en examine la cause, ce que je feray avec le premier garnaet<note n="#4"/>, que je mangeray.</p>
+<p>La pompe pour le vuide ne va pas encore, mais je croy que demain elle sera en estat, apres beaucoup de difficultez surpassees: car ce premier tuyau ne valoit rien, et il a fallu en faire jetter un de cuivre massif. Le bon frere de Zeelhem avec qui j'estois de moitiè du commencement me quitta bientost ayant peur des frais: de sorte que si je veux il ne verra de mes experiences que pour de l'argent.</p>
+<p>Je n'ay jamais connu Monsieur <persName>de la Chambre</persName><note n="#5"/> que par reputation dont il m'a tousjours semblè qu'il en a d'avantage qu'il ne merite. C'est dans son traité (de la lumiere<note n="#6"/> si je ne me trompe) que je trouuay dernierement cette belle comparaison des couleurs aux consonnances, comme que le bleu joint au vert fait une septieme qui est une dissonnance, et ainsi du reste.</p>
+<p>Voicy une lettre de <persName>van Gendren</persName><note n="#7"/> qui vient d'arriver. Faites mes baisemains a Monsieur de Gentillot<note n="#8"/> à Monsieur Chaise et a tous ceux que vous rencontrerez de ma connoissance. l'on va allumer icy les feux de joye<note n="#9"/> et dans quelques jours Madame l'Ambassadrice<note n="#10"/> nostre voisine en fera de tresmagnifiques<note n="#11"/>, qui n'ont pas encore pu estre prest. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">Louis Hugens de Zulichem</persName>. A Fontainebleau.</p>
+</div>
+</body>
+</text>
+</TEI>

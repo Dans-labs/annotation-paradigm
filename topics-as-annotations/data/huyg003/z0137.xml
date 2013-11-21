@@ -1,0 +1,85 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0137"/>
+<meta type="date" value="1652-12-02"/>
+<meta type="sender" value="tacq001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leuve001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0137">
+<div type="opener">
+<p lang="la">Clarissime Domine</p>
+</div>
+<p>Humanissimis litteris tuis ac mihi longè gratissimis non respondi hactenus varijs rebus impeditus. Jam aliquantò plus nactus otij, id facio perlibenter. Pro munusculo exili ac tenui nihil sanè fuit quod gratias ageres, quando id harum rerum amantibus ac peritis suo quodam iure debebatur; Quod ad quadraturam attinet, jam inde ex illo tempore, cum primum in lucem prodijt, varias authori difficultates circa propositiones 5, 6, 7, 8, 12, 39 primae quadraturae, atque etiam circa suas quadraturas reliquas, primo coram deinde scripto proposui, quibus cum ille mihi nunquam satisfecerit, iudicaui eum quadraturam non dedisse. Nihilominus reliquum opus admiratus sum semper ac mirificè depraedicaui, authoremque ipsum inter principes Geometras semper habui. Et credo, qui opus legerit, dissentiet nemo. Porro <hi rend="i">ἐξέτασιν</hi> tuam iam pridem accuratè legi, probauique multum. Rectè authorem vrges vt exhibeat quoties ratio prima contineat secundam, ac secunda tertiam. hoc enim nisi praestet, tertiam incognitam, explicabit nunquam, ac proinde non dabit quadraturam quae a notitiâ tertiae illius rationis dependet: Quod si rationes illae sint incommensurabiles, nihil eâ viâ efficietur. Eadem difficultas etiam aliquando mihi inciderat, cum legissem censuram Marini Mercennijs<note n="#1"/> quam habet in suis reflexionibus Mathematicis, vbi id ipsum mouet sed perobscurè. Quare non ingratum tibi futurum existimo, si quae hoc in genere mihi venerunt subinde in mentem, hic adscribam.</p>
+<p>Jn numeris rationem primam voco quam nulla ratio numerica metitur, siue inter
+cuius terminos nulli cadere possunt medij proportionales numeri seu integri seu fracti.</p>
+<p>Rationes incommensurabiles, in numeris, voco eas, quas nulla ratio numerica seu rationalis vt communis mensura metitur.</p>
+<p>Rationes absolutè incommensurabiles sunt, quas nulla ratio seu rationalis seu irrationalis metitur tanquam mensura communis.</p>
+<div type="section">
+<head rend="h4">Lemma.</head>
+<p>Numerus primus in nulla continuè ab vnitate proportionalium serie alium locum habere potest, quam vnitati proximum.</p>
+<p>Habeat<note n="#2"/> enim alium, si fieri potest in serie 1, <hi rend="i">a</hi>, <hi rend="i">b</hi>, <hi rend="i">c</hi>, <hi rend="i">d</hi>, <hi rend="i">e</hi>, ita vt <hi rend="i">d</hi> sit primus, jtaque per 11, 9,<note n="#3"/> quilibet praecedentium <hi rend="i">a</hi>, <hi rend="i">b</hi>, <hi rend="i">c</hi>, metietur primum numerum <hi rend="i">d</hi>, quod est absurdum contra hypothesim.</p>
+</div>
+<div type="section">
+<head rend="h4">Theorema.</head>
+<p>In numeris ratio prima est, cuius terminorum inter se primorum alteruter saltem est numerus primus.</p>
+<p>Nam inter duos numeros inter se primos <hi rend="i">x</hi>, <hi rend="i">z</hi>, quorum saltem vnus, puta <hi rend="i">x</hi>, primus sit; nec fracti nec integri vlli medij proportionales inueniuntur: quod sic ostendo.</p>
+<p>Cadant<note n="#4"/> enim, si fieri potest, inter <hi rend="i">x</hi> et <hi rend="i">z</hi> primum numeri integri proportionales medij <hi rend="i">a</hi>, <hi rend="i">b</hi>, <hi rend="i">c</hi>. Quia igitur <hi rend="i">x</hi> et <hi rend="i">z</hi> inter se primi sunt, quot inter ipsos cadunt medij proportionales, totidem inter ipsos quoque singulos et vnitatem cadent medij proportionales <hi rend="i">d</hi>, <hi rend="i">e</hi>, <hi rend="i">f</hi>, ac <hi rend="i">g</hi>, <hi rend="i">h</hi>, <hi rend="i">k</hi>, per 9, 8. Ergo in serie proportionalium 1, <hi rend="i">f</hi>, <hi rend="i">e</hi>, <hi rend="i">d</hi>, <hi rend="i">x</hi>, primus numerus <hi rend="i">x</hi> alium tenet locum, quàm vnitati proximum, quod repugnat lemmati.</p>
+<p>Cadant<note n="#5"/> deinde inter <hi rend="i">x</hi> et <hi rend="i">z</hi> medij proportionales fracti, si fieri potest, <hi rend="i">a/b</hi>, <hi rend="i">c/d</hi>, <hi rend="i">e/f</hi>: et reuocentur omnes tam integri <hi rend="i">x</hi>, <hi rend="i">z</hi>, quam fracti<note n="#6"/> ad fractiones eiusdem denominationis <hi rend="i">o/p</hi>, <hi rend="i">l/p</hi>, <hi rend="i">m/p</hi>, <hi rend="i">n/p</hi>, <hi rend="i">s/p</hi>, erunt igitur etiam hae continuè proportionales. Quoniam uerò eundem omnes habent denominatorem, <hi rend="i">p</hi>, erunt numeratores <hi rend="i">o</hi>, <hi rend="i">l</hi>, <hi rend="i">m</hi>, <hi rend="i">n</hi>, <hi rend="i">s</hi>, fractionibus proportionales, adeoque ipsi quoque <hi rend="i">o</hi>, <hi rend="i">l</hi>, <hi rend="i">m</hi>, <hi rend="i">n</hi>, <hi rend="i">s</hi>, continuè proportionales erunt. Jgitur inter extremos <hi rend="i">o</hi> et <hi rend="i">s</hi> cadunt medij proportionales integri <hi rend="i">l</hi>, <hi rend="i">m</hi>, <hi rend="i">n</hi>. Jam quia per constructionem <hi rend="i">x</hi> et <hi rend="i">z</hi> sunt aequales <hi rend="i">o/p</hi> et <hi rend="i">s/p</hi>, erit <hi rend="i">x</hi> ad <hi rend="i">z</hi> ut <hi rend="i">o/p</hi> ad <hi rend="i">s/p</hi>, hoc est ut <hi rend="i">o</hi> ad <hi rend="i">s</hi>. Ergo cum inter <hi rend="i">o</hi> et <hi rend="i">s</hi> medij cadant <hi rend="i">l</hi>, <hi rend="i">m</hi>, <hi rend="i">n</hi>, etiam inter <hi rend="i">x</hi> et <hi rend="i">z</hi> cadent totidem medij per 8, 8<hi rend="sup">ui</hi>. Quod repugnat primae parti. Liquet igitur propositum.</p>
+</div>
+<div type="section">
+<head rend="h4">Theorema 2.</head>
+<p>Dantur rationes numericae, incommensurabiles.</p>
+<p>Nam si per theorema praecedens exhibeantur duae rationes<note n="#7"/> primae <hi rend="i">x</hi> ad <hi rend="i">z</hi>, <hi rend="i">v</hi> ad <hi rend="i">y</hi>, harum neutram vlla ratio numerica metietur. Ergo neque vlla numerica ratio
+ambas ut mensura communis metietur. Ergo per definitionem erunt incommensurabiles.</p>
+<p>Jgitur ex jam demonstratis concludemus, rationes a te vir clarissime adductas esse numericè incommensurabiles, rationes videlicet 203 ad 53 et 11 ad 5. Nam 203, 53 sunt numeri inter se primi, et eorum vnus 203, imo et alter 53 sunt numeri absolute primi. similiter 11, 5 sunt numeri absolute primi, adeoque et primi inter se. Ambae igitur rationes illae sunt primae hoc est nullam habent rationem numericam se mensurantem, per theorema 1. Ergo per theorema 2. sunt incommensurabiles, hoc est nulla numerica ratio simul vtrasque metitur. Nunquam igitur dicet Gregorius, siquidem in numeris maneat, quoties prima ratio secundam contineat.</p>
+<p>At si relictis numeris ad magnitudines se conuertat, aliâ quâdam viâ instituenda erit disquisitio. Inprimis nulla ratio magnitudinum etiam commensurabilium reperiri potest quae sit prima siue quam nulla ratio metiatur, cum inter quaslibet magnitudines inueniri possit media proportionalis, imo mediae quotcunque; ac proinde quaelibet ratio magnitudinum diuidi possit in rationes quotcunque aequales, adeoque harum quaelibet rationem primò positam metiatur. Quare cum nullae magnitudinum rationes dentur primae, dubitari poterit vtrum reperiri possint rationes magnitudinum inter se incommensurabiles.</p>
+<p>Esto igitur</p>
+</div>
+<div type="section">
+<head rend="h4">Theorema.</head>
+<p>Dantur in magnitudinibus rationes inter se absolutè incommensurabiles.</p>
+<p>Sit hyperbole CFK, eiusque asymptoti BA, AL. Jnter hyperbolam et asymptotum
+<figure><graphic url="huyg003oeuv01ill89.gif"></graphic></figure>
+LA ponantur rectae DE, FG, HI, parallelae asymptoto alteri AB.
+Si plana DFGE, HFGI, sint commensurabilia, quam multiplex est planum DFGE plani HFGI, tam multiplex erit <seg org="ŕatio" resp="#AD" type="corr">ratio</seg> DE ad FG rationis FG ad HI.
+Quod si plana illa incommensurabilia sint, erunt quoque rationes DE ad FG, et FG ad HI, inter se absolutè incommensurabiles.
+Primum demonstratur a Gregorio libro 6 propositione 125.
+Alterum propositione 129.
+Quae quidem illius speculatio omnis de spacijs asymptoticis digna planè est quam admirentur et legant Geometrae.</p>
+<p>Jtaque si rationum illarum trium, quas propositionibus 12, et 39 proponit Gregorius, incommensurabiles sint absolutè, vel prima et secunda solae; vel secunda et tertia solae; erunt propositiones 12 et 39 falsae; sin existentibus primâ et secundâ incommensurabilibus, etiam secunda et tertia incommensurabiles sint, non poterit exponere quoties secunda ratio tertiam incognitam contineat, ac proinde per eam viam haec nunquam innotescet. Oportebit igitur Gregorium, vt tertiam rationem illam incognitam, notam reddat, demonstrare rationes à se propositas esse omnes inter se commensurabiles, rationemque ipsam quae communis mensura est, in rectis lineis exhibere, atque
+insuper ostendere quoties ea mensura rationes primam ac secundam ingrediatur, tunc enim innotescet quoties prima aut quomodo, secundam contineat.</p>
+<p>Haec sunt Domine Clarissime quae mihi hac super re occurrebant. quae licet mittamus omnia, nihilo tamen magis quadratura prima subsistet, cum liquidò certòque compererim propositiones 12 et 39 esse absolutè falsas. Quadraturas 2, 3, 4 sentio non esse primâ firmiores. Caeterum Doctissima <hi rend="i">ἐξέτασις</hi> tua placet mirificè; miratusque sum cum legerem, te viri sensa hac in parte satis implexa, adeo perspicuè assecutum. Quod ad primam opusculi tui partem attinet est sanè quod tibi gratuler, quod ea isthic inueneris, quae inter illustria inuenta geometrica censeri posse existimo.</p>
+<p>Venio ad alteram epistolae tuae partem, vbi quaeris An et quomodo elici directè possit ex falsis verum. Jllustre huiusmodi ratiocinij exemplum praebet Euclides propositione 12 libri 9. et Theodosius<note n="#8"/> libri 1 sphaericorum propositione 12. Cardanus<note n="#9"/> quoque libri 5. de proportionibus propositione 201 simili argumentatione est vsus. Nos quoque varia subinde eo modo demonstrauimus. Vnum profero, in quod incidi, cum theorema quoddam in refractionibus inuestigarem.</p>
+</div>
+<div type="section">
+<head rend="h4">Lemma.</head>
+<p>Esto quadratum IC, cuius bina latera protrahantur in B et G, vt AB. HG, sint laterum semisses; ducaturque BG secans latera quadrati in L et K. Tum BG bisecetur in F et iunge BC.</p>
+<p><figure><graphic url="huyg003oeuv01ill90.gif"></graphic></figure></p>
+<p>1<hi rend="sup">o</hi> Erunt latera AC, HC bisecta in L et K. 2<hi rend="sup">o</hi> Erit BK par diametro quadrati. 3<hi rend="sup">o</hi> Erit BF quadratum bis sumptum aequale quadratis BC, CH.</p>
+<p>Duo prima patent. Tertium sic ostenditur. Quadratum BG aequatur quadratis BI, IG. Ergo eius semissis, quadratum nempe BF bis sumptum, aequatur quadrato BI. Sed quadratum BI est quadratum IA, AB et rectangulum IAB bis. Ergo quadratum BF bis, aequatur quadratis IA, AB et IAB bis. Sed IAB bis est quadratum IA. Ergo quadratum BF bis aequatur quadrato IA bis cum quadrato AB, hoc est quadratis BC, CH.</p>
+</div>
+<div type="section">
+<head rend="h4">Theorema.</head>
+<p>Jisdem positis, dico rectam BG maiorem esse rectis BC, CH<note n="#10"/>.</p>
+<p>Si negas 1 sit non maior. Centro B per C eat circulus secans BG in F<note n="#11"/>. Quoniam BG ponitur non maior quam BCH, estque BE par BC, patet BE maiorem esse <seg org="semisle" resp="#AD" type="corr">semisse</seg> ipsius BG.
+Cum enim BC sit maior semisse BCH, erit quoque BC, hoc est BE, maior semisse ipsius BG quae est non maior quam BCH. Accipiatur ergo BF dimidia BG. Quoniam igitur BG bisecta est in F et aliter in E, erunt quadrata BE, EG aequalia per 9. 2. quadrato BF bis (hoc est per lemma, quadratis BC, CH) et quadrato FE etiam bis. Ergo quadrata BE, EG simul maiora sunt quadratis BC, CH simul. Quare ablatis aequalibus quadratis BC, BE, remanet quadratum EG maius quadrato CH. Ergo recta EG maior est rectâ CH. sed aequales sunt BE, BC. Ergo tota BG maior est duabus BC, CH.</p>
+<p>Jtaque ex eo quod BG ponebatur non maior duabus BC, CH, directè conclusimus, BG maiorem esse duabus BC, CH. Neque erit difficile, vti arbitror, ratiocinationis istiusmodi, quae admirationem plerisque mouet, hic obiter causam insinuare. Proprium est propositioni falsae, vt ex eâ deduci possint contradictoria, quae proinde in <seg org="ipfâ" resp="#AD" type="corr">ipsâ</seg> mediale seu virtualiter continentur. Jam licet plerumque contradictoria illa sint ab ipsa propositione distincta vtraque: fit tamen subinde, vt eorum alterum sit ipsa falsa propositio; alterum propositionis falsae negatio. Quod quando euenit, tum enimuero potest ex ipso falso eius negatio elici, hoc est verum; nam falsi negatio, est verum. Atque id quidem est falsi naturae omninò consentaneum, neque magis mirum est ex falso elici posse verum, quam in falso contineri contradictoria, quorum alterum sit falsum ipsum, alterum negatio eiusdem falsi.</p>
+<p>Simili forma probationis demonstraui partem minimam, quae a triangulo per datum in ipso punctum abscinditur, Non trapezium esse, sed triangulum. Studui enim aliquando plenam dare solutionem eius problematis, quo iubetur triangulum per datum punctum secari in ratione data, quod in illo, praesertim quando punctum datur intra triangulum, non leuis insit difficultas, et neque a Steuinio<note n="#12"/> neque a Joanne Benedicto<note n="#13"/> alioue vllo, quem uidere mihi contigerit, data esset solutio adaequata. Cum igitur id aliâ quâdam viâ tentarem, assecutus tum quidem sum, quod proposueram: at simul contemplatio non iniucunda de maximis minimisque triangulis per datum in triangulo punctum secabilibus, atque istud, quod iam dixi, quoddam quasi lemma ad caeteras, sese obtulit. Cuius quidem demonstratione hic adscribendâ (quamuis non difficulter non hanc modò dare possem sed etiam plures) supersedeo, quod ijs, quae iam scripsi supra, satisfactum putem dubitationi tuae. Porro iam finire cupienti, quae ad tuum de hyperbola pulcherrimum theorema, tibi verè (vt scribis) ante omnes primo perspectum, secundâ paginâ praefatus es, in mentem veniunt, monentque vt adiungam adhuc aliquid, tibi forte non ingratum; repertam videlicet esse a me proportionem aliquam circuli ad hyperbolam, et eam quidem quae fortè probet determinationem in hyperbola etiam Archimedeae illi parabolicae similem posse reperiri. Scito igitur proportionem circuli ad hyperbolam terminatam esse compositam ex tribus rationibus; ex ratione circumferentiae circuli ad ⅔ diametri, et ex ratione tertiae partis quadrati circulo inscripti ad triangulum maximum hyperbolae inscriptum, et ex ratione eiusdem trianguli ad hyperbolam: cuius demonstrationem ex nostris cylindricorum et annularium libris<note n="#14"/>, iam tibi fortasse notis, facile deduco. Jtaque ne datâ quidem hyperboles quadraturâ, dabitur in rectis lineis eius ad circulum ratio, ac proinde neque circuli quadratura. Quare cum non videatur, quadraturae circuli, hyperboles
+quadratura implicari, non haec <hi rend="i">ἀδύνατος</hi> perinde atque illa videri possit. Hanc meam coniecturam confirmat Bartholomaeus Souerus<note n="#15"/> in fine praefationis ante librum 5, proportionis curuae ad rectum promotae<note n="#16"/>; vbi asserit repertam esse a se dimensionem ac quadraturam hyperbolae, sed eam se dare seorsim velle, vt nouum inuentum lectorum animos in maiorem sui admirationem conuertat. Sed (credo) quod statuerat morte praepeditus exequi non potuit. Plura non addo vt finis aliquando sit.</p>
+<p>Tu eo animo ista accipe, quo ego scripsi, vnâ videlicet tibi obsequendi impulsus voluntate. Caeterum enixè precor, ne (vt vatis Diuini vtar verbis) ille scientiarum Dominus, quando <seg org="câ" resp="#AD" type="corr">eâ</seg> te ad omnem subtilitatem indole esse voluit, quidquam te earum
+rerum latere sinat, quibus sempiterna beatitudo nostra ac salus continetur. Vale, et si quae properanti exciderint calamo liturae, condona.</p>
+</div>
+<div type="closer">
+<p>Tuus in Christo Seruus</p>
+<p><placeName key="leuve001">Louanij</placeName> <date>2 Decemb. 1652</date>.</p>
+<p><persName key="tacq001">Andreas Tacquet</persName> e societate Jesv.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

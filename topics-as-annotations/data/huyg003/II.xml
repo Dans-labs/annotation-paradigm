@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="II"/>
+<meta type="date" value="1639-08-05"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="II">
+<p>....in Poësi quidem, Lemmata exercitij nobilisfimis commilitonibus ex Ovidij Metamorphoseôn libris praescribere soleo; quod si placet, gaudeo. I.D.: sin minus, oro quamprimum vetare placeat.
+Ego certe non omnino absurde me id instituisse puto, quia simul fabulas nonnullas, hoc est antiquae sapientiae penetralia, jam nunc memoriae ita discunt imprimere.
+Discendam autem Eclog. III poscentibus quoque eam prae caeteris, ut adfiniorem suae aetati, et apertiorem, dedi: quam nunc plusquam dimidiam recitaverunt.
+Analijsin Rhetoricam ex Bucolicis, vatum regis, deducimus. Quae jam secundò pressiùs au spicabimur.
+In Musicâ invidendos jam stupendosque profectus fecere; cui dici non potest, quantopere insudent, incumbant. imò, si nimia unquam possit esse diligentia, hic, ita me Di bene ament, nimis laborare eos pronuntiarem.
+Sed vah! ecce de Justino parabam scribere, cum nuntium abiturire nuntiatur; malui itaque imperfectam mittere epistolam potius, quam nullam. Vale etc.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae-Com.</placeName> Non. Sextilib. MDCXXXIX.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2666"/>
+<meta type="date" value="1691-03-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="meie015"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="breme901"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2666">
+<div type="opener">
+<p>A Mr. <persName key="meie015">Meier</persName>, docteur en Theologie et ministre de la parole de Dieu à Bremen.</p>
+<p>26 Mart. 1691.</p>
+<p>Clarissime Vir</p>
+</div>
+<p>Quod literas D<hi rend="sup">i</hi>. Leibnitsij, quem merito suo permagni facio, ad me perferre curaveris, eandemque operam in posterum officiose pollicearis gratias ago quam maximas; ac libenter amicitiae paternae redintegrandae occasionem hinc praebitam amplector. Quid enim optabilius quam viris eruditis ac sinceris Philosophiae studium professis conciliari atque aliquo loco sese esse intelligere. Te vero in horum numero censendum è brevicula licet epistola satis conjicere potui eoque magis mihi gratulor si quid in lucubratiunculis meis quod tibi probetur repereris, in quibus uni certe veritati me studuisse non inutile scio, felix si et [ ]<note n="#1"/> quandoque contigerit. De Cartesij degeneribus discipulis justa plane est expostulatio tua facitque ut sicut hactenus aequum te mihi lectorem spondeam cum alios viri illius magni errores redarguam atque ut spero verisimiliora quaedam in eorum locum substituam.</p>
+<div type="closer">
+<p>Vale Vir eximie, et amicis tuis tibique optime cupientibus annumera
+<lb/>Chr. H.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

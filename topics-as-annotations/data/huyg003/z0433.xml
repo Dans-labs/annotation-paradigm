@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0433"/>
+<meta type="date" value="1657-12-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0433">
+<div type="opener">
+<p><date>vr. 7 Dec. 1657</date>.</p>
+</div>
+<p>Quae de lineis curvis Leidensium mathematicorum doctissimè respondisti pridem ad <persName key="scho197">Schotenium</persName> misi e literis tuis exscripta, additis quae ipse inveneram; neque satis mirari possum, nihil hucusque eum respondisse. In prima linea cujus proprietas continebatur aequatione ista <hi rend="i">aax</hi> ∞ <hi rend="i">y</hi><hi rend="sup">3</hi> + 2 <hi rend="i">ayy</hi> + <hi rend="i">aay</hi> tangentem hoc modo duci posse inveni. In producta diametro DA sumantur AE, EF<note n="#2"/>, ita ut in continua
+<figure><graphic url="huyg003oeuv02ill46.gif"></graphic></figure>
+analogia<note n="#3"/> sint hae quatuor GA, DF, AE, EI; sitque AK dupla ipsius AF<note n="#4"/> Erit KF tangens quaesita.</p>
+<p>Rationem porro parallelogrammi DC ad trilineum DAF, dixi esse eam quae <hi rend="i">a</hi> + <hi rend="i">y</hi> ad ½ <hi rend="i">a</hi> + ¾ <hi rend="i">y</hi> + 1/12 <hi rend="i">ay</hi>/<hi rend="i">a</hi> + <hi rend="i">y</hi>, quae cum tua consentit. Centrum vero gravitatis spatij AFD vel HAF non inveni et dubito ipsos quoque ignorare, qui quaerendum proposuere. Secundam lineam tentare nec mihi libuit, quae simili subtilitate ex alia simpliciori consarcinata videtur, atque ultima illa cujus proprietatem posuerunt <figure rend="inline"><graphic url="huyg003oeuv02fi44.gif"></graphic></figure>.
+<figure><graphic url="huyg003oeuv02ill47.gif"></graphic></figure>
+Hujus vero tangentem sic duco. Punctum tangendum sit F, unde ordinatim applicetur FD. Interceptae vero DA in directum adjiciatur AB aequalis trienti AD, et applicetur ordinatim BC ipsi AB aequalis. Dico rectam CF tangere curvam in F. Spatium vero à curva comprehensum AFGH aequale inveni septimae parti quadrati ab axe AG. Centrum denique gravitatis O ita dividere ipsam GA ut sit GO ad OA sicut 19 ad 14. Quae sanè rectè perspexisti ex aliorum inventis manare omnia.</p>
+<p>Tua vero curva contemplatione longè dignior quam istae omnes; de qua quod
+<figure><graphic url="huyg003oeuv02ill48.gif"></graphic></figure>
+monuisti, posse rationem segmentorum ipsius varijs casibus exhiberi, adeo verum invenio, ut in universum qualitercunque à recta linea sectum fuerit spatium à curva tua comprehensum dicta partium ratio data sit.</p>
+<p>De curva tua transeo ad ea quae de communicato corporum motu disseris. Ubi praeter magnitudinem et impetum, velocitatem quoque sive motus gradum te considerare ais. quem Cartesius motus quantitatem vocat. ut, si corpus A magnitudine triplum sit corporis B: sed contra velocitas ipsius B tripla velocitatis qua fertur A, eadem in utroque existat motus quantitas. Hanc quantitatem Cartesius considerat, quod eandem semper servari contendat post occursum corporum, quae fuerat ante. Quod ego falsum reperi. Nescio autem an cum Cartesio hic sentias, sed vereor, quoniam alioqui non video quorsum opus sit quantitatem illam sive impetum expendere. In casu quem proposueram de corporibus in ratione tripla, ut et semper alias celeritas mihi idem est quod motus. Itaque scire nunc cupio an idem definiant regulae tuae quod ego casu illo eventurum dixi. Diversis principijs nos uti, inde comperio, quod statuis si corpus minus impingat in
+majus quiescens (dummodo majus, minus, et eorum differentia, sint in continua
+<figure><graphic url="huyg003oeuv02ill49.gif"></graphic></figure>
+<hi rend="i">ἀναλογία</hi> hoc est si majoris ad minus ea fuerit ratio quae inter partes lineae sectae media et extrema ratione) utrumque post occursum eadem velocitate ferri in partes contrarias. Ego enim existimo in contrarias quidem partes ipsa latum iri, sed celeritatem seu velocitatem majoris ad velocitatem minoris, eam fore quae dupli corporis minoris ad corporum differentiam.</p>
+<p>Quod plurimum sanè à tua determinatione dissidet. At experimentum si ceperis omnino ita contingere animadvertes. Utrius vero nostrum demonstrationes plus fidei mereantur postmodum exquiremus.</p>
+<p>&nbsp;</p>
+<p>De Persei epigrammate amplector explicationem tuam neque aliam admittere videtur. Ceterum meritò miraris quod Theonem tibi citem; praepostere enim nam Proclum dicere volui.</p>
+<p>Quadrationem curvae Patris Gregorij cum ex aequatione ipsa quam antea mihi exposuisti investigaveris, subtilis profecto inventio est; quam an assequi possim experiar.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,194 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2669"/>
+<meta type="date" value="1691-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2667"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2669">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill17.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure></p>
+<p>BQ<hi rend="i">θ</hi> est curva pag.<hi rend="sup">ae</hi> praecedentis<note n="#3"/>, altera nempe ex iis quae ad catenariae constructionem requiruntur. Altera est A<hi rend="i">γθ</hi>.</p>
+<p>Dico spatium prioris BQNA ad spatium posterioris A<hi rend="i">γ</hi>N esse ut AB ad <hi rend="i">πσ</hi> distantiam centri gravitatis spatii BQNA ab recta AB.</p>
+<p>Adeo ut si detur hoc centrum gr. non opus est quadratura spatii A<hi rend="i">γ</hi>N, neque ipsius spatii consideratione (ad inveniendam scilicet rationem AB ad BV axem catenae, est enim BV ipsi <hi rend="i">πσ</hi> aequalis)<note n="#4"/>.</p>
+<p>Quia enim ut VN ad RN ita RN ad QN<note n="#5"/>, itemque ut VN ad RN ita <hi rend="i">δ</hi>N ad <hi rend="i">γ</hi>N<note n="#6"/>.</p>
+<p>Erit RN ad QN ut <hi rend="i">δ</hi>N ad <hi rend="i">γ</hi>N. Quare
+<hi rend="i">γ</hi>N ducta in RN aequabitur QN ducta in <hi rend="i">δ</hi>N, sive in <hi rend="i">δλ</hi>. idque ubique: Ergototum spatium A<hi rend="i">γ</hi>N suspensum ex brachio librae quod aequale sit AB, aequiponderabit spatio ABQN ut jacet ponderanti super axem AB: sive eidem spatio ex centro grav. suae <hi rend="i">σ</hi> suspenso, et ex distantia <hi rend="i">σπ</hi> ponderanti. Ergo spatium ABQN erit ad spatium A<hi rend="i">γ</hi>N, ut AB distantia ad distantiam <hi rend="i">σπ</hi>.</p>
+<p>(Sed spatii A<hi rend="i">γ</hi>N quadratura opus est ad inveniendum longitudinem curvae AV quia per illam quadraturam inventum est quod ut diff.<hi rend="sup">a</hi> AR-AB ad BR ita est BV ad curvam AV. Item ad alia utilis est eadem quadratura, quam postea inveni, vid. pag. 82 et 87)<note n="#7"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#8"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill18.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p>ACG circuli quadrans. CLG A quadratum; à puncto peripheriae D cadunt in AG et AC perpendiculares DF, DB.</p>
+<p><table>
+<row>
+<cell>FD</cell>
+<cell>ad</cell>
+<cell>DB</cell>
+<cell>ut</cell>
+<cell>HF</cell>
+<cell>ad</cell>
+<cell>FO</cell></row>
+<row>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi419.gif"></graphic></figure></cell>
+<cell></cell>
+<cell><hi rend="i">x</hi></cell>
+<cell></cell>
+<cell><hi rend="i">r</hi></cell>
+<cell></cell>
+<cell><hi rend="i">y</hi></cell></row>
+<row>
+<cell></cell>
+<cell cols="3"><hi rend="i">y</hi><figure rend="inline"><graphic url="huyg003oeuv10fi419.gif"></graphic></figure>=<hi rend="i">rx</hi></cell>
+<cell cols="3"></cell></row>
+<row>
+<cell></cell>
+<cell cols="3"><hi rend="i">yyrr</hi>-<hi rend="i">yyxx</hi>=<hi rend="i">rrxx</hi></cell>
+<cell cols="3"></cell></row>
+<row>
+<cell></cell>
+<cell cols="3"><hi rend="i">yyrr</hi>-<hi rend="i">rrxx</hi>=<hi rend="i">yyxx</hi></cell>
+<cell cols="3"></cell></row>
+<row>
+<cell></cell>
+<cell cols="4"><hi rend="i">xxyy</hi>-<hi rend="i">yyrr</hi>+<hi rend="i">rrxx</hi>=0<note n="#9"/>.</cell>
+<cell cols="2"></cell></row>
+</table></p>
+<p>Hujus curvae spatium infinitum AONMG, aequale est quadrato CG.</p>
+<p>Item spatii ejus portio ut OAF, est ad rectangulum FC, ut BC ad BD.</p>
+<p>(Sive spatium OAF est aequale ▭<hi rend="sup">o</hi> BL ut facile apparet ex calculo)<note n="#10"/>.</p>
+<p>Quia enim AD ad DF ut particula curvae minima EDE ad KK, erit AD seu HF ducta in KK=DF ductae in EE. idemque pars superficiei cylindricae ex KK circa AG, aequalis parti superficiei sphaericae ex EE circum eandem AG. Unde (ut notum est) tota superficies cylindrica ex CL circa AG aequalis superficiei sphaericae ex arcu CDG circa AG. Porro quia superficies ex EE circa AG ad supersiciem ex eadem EE circa CA, sicut DF ad DB, erit et superficies ex KK circa AG, ad superficiem ex EE circa CA, ut DF ad DB, hoc est, ex constructione, ut HF ad FO; atque ita tota superf. cylindrica ex CL circa AG ad superficiem sphaericam ex arcu CDG circa CA, ut omnes HF ad omnes OF, hoc est ut quadratum CG ad totum spatium infinitum AONMG. Est autem ostensum superf. cyl. ex CL circa AG aequalis superficiei sphaericae ex arcu CDG circa AG, ideoque et superficiei sphaericae ex arcu CDG circa CA, quia utraque dimidiae sphaerae superficiei aequalis est. Ergo ratio superficiei ex CL circa AG ad superf. sphaericam ex arcu CDG circa CA erit ratio aequalitatis, ac proinde et ratio qu.<hi rend="sup">i</hi> CG ad spatium infinitum AONMG erit aeqalitatis, quod erat dem.<hi rend="sup">m</hi>.</p>
+<p>Porro ex ratione demonstrandi, patet etiam superficiem cylindricam ex CH circa AF, sive ex arcu CD circa AF esse ad superficiem ex eodem arcu CD circa CB, ut rectangulum HA ad spatium curvae OFA; atqui ex Archimede est superf.<hi rend="sup">s</hi> ex CD arcu circa AF ad surperf.<hi rend="sup">m</hi> ex eodem arcu CD circa CB sicut excessus quadrati CG supra qu. GD ad quadr. ex CD recta, hoc est sicut excessus AG supra GF, seu sicut AF aut BD ad BC. Ergo et rectang.<hi rend="sup">m</hi> HA ad spatium OFA ut BD ad BC, quod erat dem.</p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#11"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill19.gif"></graphic>
+<figDesc>Fig. 3.</figDesc></figure></p>
+<p><hi rend="i">Ulterior disquisitio circa catenae curvam ex animadversa quadratura curvae APOE quae pag.</hi> 20 <hi rend="i">erat δθ</hi>.</p>
+<p><table>
+<row>
+<cell cols="4">AG=<hi rend="i">b</hi>, AB, GE=<hi rend="i">a</hi></cell></row>
+<row>
+<cell cols="4">ADCB quadr.<hi rend="sup">m</hi> diagonios AC.</cell></row>
+<row>
+<cell cols="4"></cell></row>
+<row>
+<cell>(AG)</cell>
+<cell>(GE)</cell>
+<cell>(AE)</cell>
+<cell>(OE=AF)</cell></row>
+<row>
+<cell cols="4"><hi rend="i">b</hi>:<figure rend="inline"><graphic url="huyg003oeuv10fi420.gif"></graphic></figure>:<figure rend="inline"><graphic url="huyg003oeuv10fi421.gif"></graphic></figure></cell></row>
+</table></p>
+<p>ex proprietate curvae ad catenam: <hi rend="i">aaxx</hi>-<hi rend="i">aayy</hi>=<hi rend="i">xxyy</hi> pag. 20<note n="#12"/></p>
+<p>&nbsp;</p>
+<list>
+<item>qu.AK-qu.<figure rend="inline"><graphic url="huyg003oeuv10fi422.gif"></graphic></figure>, qu.FK,</item>
+</list>
+<p>&nbsp;</p>
+<p><hi rend="i">aa</hi>/<hi rend="i">b</hi> = FK; ex <hi rend="i">a</hi>=FL et <hi rend="i">a</hi> - <hi rend="i">aa</hi>/<hi rend="i">b</hi> = KL; <hi rend="i">aa</hi> - <hi rend="i">a</hi><hi rend="sup">3</hi>/<hi rend="i">b</hi> = ▭ MD=sp. AOF ex proprietate curvae pag. 58<note n="#13"/> quae est eadem atque illa pag. 20 mutatis reciproce <hi rend="i">x</hi> in <hi rend="i">y</hi>, unde et illa pag. 20 quadraturam recipit, quod nunc demum animadversi.</p>
+<p><table>
+<row>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi423.gif"></graphic></figure>=AE;</cell>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi424.gif"></graphic></figure>=AF;</cell>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi425.gif"></graphic></figure>=▭FE</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi426.gif"></graphic></figure>=sp. AOF</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____<hi rend="i">s</hi>.</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi427.gif"></graphic></figure>=<hi rend="i">ab</hi>-<hi rend="i">aa</hi>=sp. AOE.</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi423.gif"></graphic></figure> AE</cell></row>
+<row>
+<cell><figure rend="inline"><graphic url="huyg003oeuv10fi428.gif"></graphic></figure> (▭ BE): <hi rend="i">ab</hi>-<hi rend="i">aa</hi> (spat. AOE)=√<hi rend="i">bb</hi>-<hi rend="i">aa</hi>(AE):(<hi rend="i">b</hi>-<hi rend="i">a</hi>) (SG)</cell></row>
+</table></p>
+<p>Item spat. AOE ad spat. APQ ut AG-AB ad NA-AB.</p>
+</div>
+<div type="section">
+<head rend="h4">§ IV<note n="#14"/>.</head>
+<p>Sit AV catena pendens<note n="#15"/>. AG tangens in A. angulus BAG=BAG in 1<hi rend="sup">a</hi> fig.</p>
+<p>(<hi rend="i">α</hi>) Jam divisam ponendo catenam AV [2<hi rend="sup">a</hi> fig.] in particulas aequales, earum summa est ad VZ ut totidem radii ad sinus omnes complimenti in arcu SB [1<hi rend="sup">a</hi> fig.] qui pertinent ad totidem tangentes aequaliter crescentes in recta BG.</p>
+<p>Item summa particularum aequalium catenae AV est ad AZ sive BV, ut totidem radii ad sinus omnes in arcu SB qui ad easdem illas tangentes pertinent. Hoc utrumque pag. 14 ostenditur<note n="#16"/>.</p>
+<p><figure><graphic url="huyg003oeuv10ill20.gif"></graphic>
+<figDesc>Fig. 4.
+<lb/>1<hi rend="sup">a</hi> fig.</figDesc></figure></p>
+<p><figure><graphic url="huyg003oeuv10ill21.gif"></graphic>
+<figDesc>Fig. 4.
+<lb/>2<hi rend="sup">a</hi> fig.</figDesc></figure></p>
+<p>(<hi rend="i">β</hi>) Porro sicut curva AV, recta VZ, et recta AZ, ita sunt inter se ▭ BE [1<hi rend="sup">a</hi> fig.], spatium ABIE, et spatium APOE. Hoc explicatur pag. 20 et 14<note n="#17"/>.</p>
+<p>Quia ut AV, VZ, ZA, sunt summae totidem radiorum, totidem sinuum complimenti, et totidem sinuum, pro angulis quorum tangentes aequaliter sese exedunt; ita quoque ▭ BE, spatium ABIE, et spatium APOE, quando ang. AGB utrobique est idem.</p>
+<p>&nbsp;</p>
+<p>(<hi rend="i">γ</hi>) Habeat BV [2<hi rend="sup">a</hi> fig.] ad VH, sive AZ ad FY rationem datam, (puta duplam), sitque FR tangens in F. Et secetur spatium APOE recta NPQ, ut sit spatium APOE ad spat. APQ ut BV ad VH; dico angulo ANQ esse aequalem angulum tangentis HFR.</p>
+<p>Est enim YF ad ZA ut summa sinuum (summa nempe sinuum qui pertinent ad angulos quorum tangentes sese aequaliter excedunt, quod de his omnibus sinibus ita est intelligendum) usque ad angulum FLY seu HFR, ad summam sinuum usque ad angulum ATZ seu GAB, sed ut YF ad ZA, seu ut HV ad VB, ita quoque spatium APQ ad sp. APOE.</p>
+<p>Ergo summa sinuum usque ad angulum HFR ad summam sinuum usque ad ang. GAB sicut spat. APQ ad spat. APOE; hoc est sicut summa sinuum usque ad ang. ANQ ad summam sinuum usque ad ang. AGE sive GAB, in 1<hi rend="sup">a</hi> fig. vel etiam in 2.<hi rend="sup">da</hi>.</p>
+<p>Ergo summa sinuum ad usque ang. HFR aequalis est summae sinuum adusque ang. ANQ; ideoque ang. HFR aequalis ang.<hi rend="sup">o</hi> ANQ, quod erat dem.</p>
+<p>Si AB, BG in utraque fig.<hi rend="sup">a</hi> magnitudine sibi respondeant, erunt et AG aquales, et AN aequalis AW, cui tangens FR parallela ducenda est.</p>
+<p>Si AB=<hi rend="i">a</hi>. AG=<hi rend="i">b</hi>, fit spatium APOE=<hi rend="i">ab</hi>-<hi rend="i">aa</hi>, vid. pag. 82<note n="#18"/>.</p>
+<p>Si BV=<hi rend="i">d</hi>. VH=<hi rend="i">e</hi>. Et ut <hi rend="i">d</hi> ad <hi rend="i">e</hi> ita faciendum spatium APOE ad sp. APQ.</p>
+<p>Sit AN=<hi rend="i">x</hi>. Ergo spat. APQ=<hi rend="i">ax</hi>-<hi rend="i">aa</hi>. Ergo</p>
+<p><table>
+<row>
+<cell><hi rend="i">d</hi>:<hi rend="i">e</hi>=<hi rend="i">ab</hi>-<hi rend="i">aa</hi>:<hi rend="i">ax</hi>-<hi rend="i">aa</hi></cell></row>
+<row>
+<cell><hi rend="i">dx</hi>-<hi rend="i">da</hi>=<hi rend="i">eb</hi>-<hi rend="i">ea</hi></cell></row>
+<row>
+<cell><hi rend="i">x</hi>=<hi rend="i">eb</hi>-<hi rend="i">ea</hi>/<hi rend="i">d</hi>+<hi rend="i">a</hi>=AN cui aequalis AW.</cell></row>
+</table></p>
+<p>Hinc problema de invenienda quavis tangente, per unam AG datam. p. 83<note n="#19"/>.</p>
+<list>
+<label>(<hi rend="i">δ</hi>)</label><item>Sit BG=<hi rend="i">s</hi>.
+<lb/>Spat. APOE ad ▭ EB=BV ad VA. vid. pag. 20 et 14<note n="#20"/>.
+<lb/><hi rend="i">ab</hi>-<hi rend="i">aa</hi>: <hi rend="i">as</hi>=d: <hi rend="i">ds</hi>/ <hi rend="i">b</hi>-<hi rend="i">a</hi> curva VA.</item>
+<label></label><item></item>
+<label>(<hi rend="i">ε</hi>)</label><item>GB:BA=VA:radium curvitatis in V, ex Theoremate p. 13<note n="#21"/>.
+<lb/><hi rend="i">s</hi>:<hi rend="i">a</hi>=<hi rend="i">ds</hi>/<hi rend="i">b</hi>-<hi rend="i">a</hi>:<hi rend="i">ads</hi>/<hi rend="i">sb</hi>-<hi rend="i">sa</hi>=<hi rend="i">ad</hi>/<hi rend="i">b</hi>-<hi rend="i">a</hi> Radius curvitatis in V, hoc est VL.</item>
+<label></label><item></item>
+<label>(<hi rend="i">ζ</hi>)</label><item>radius curvis: curva VA=VA:L א evoluta. Vid. pag. 17<note n="#22"/> ubi CA, <hi rend="i">ad</hi>/<hi rend="i">b</hi>-<hi rend="i">a</hi>:<hi rend="i">ds</hi>/<hi rend="i">b</hi>-<hi rend="i">a</hi>=<hi rend="i">ds</hi>/<hi rend="i">b</hi>-<hi rend="i">a</hi>:<hi rend="i">dss</hi>/<hi rend="i">ab</hi>-<hi rend="i">aa</hi>=L א propos. 5<hi rend="sup">a</hi><note n="#23"/>
+<lb/>IA, AW sunt prop.<hi rend="sup">les</hi>
+<lb/>AW vero=CR.</item>
+<label></label><item></item>
+<label>(η)</label><item>Erit et spat. BLQA ad spat. APQ sicut FH [2<hi rend="sup">a</hi> fig.] ad HV. Unde data HV, datur et HF, inventa per centr. gr.<hi rend="sup">is</hi> ratione spatiorum istorum. Est enim ea quae AB ad ZF [1<hi rend="sup">a</hi> fig.] si F centr. gr. BLQA<note n="#24"/>. Et sic tunc AV curvae puncta quotvis inveniri possunt, quod aliter non posset fieri nisi longissima supputatione<note n="#25"/> areae BIEA per approximationem.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">§ V<note n="#26"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill22.gif"></graphic>
+<figDesc>Fig. 5.
+<lb/>fig. 1<hi rend="sup">a</hi></figDesc></figure></p>
+<p><figure><graphic url="huyg003oeuv10ill23.gif"></graphic>
+<figDesc>Fig. 5.
+<lb/>fig. 2<hi rend="sup">da</hi></figDesc></figure></p>
+<p>AB=3 BG=4 GA=5
+<lb/>AG tangit curvam catenae AV in A.</p>
+<p>Quaeritur VH et HF definientes punctum F, cujus tangens FR inclinetur ad BR angulo semirecto.</p>
+<p>Sit in fig. 1<hi rend="sup">a</hi> ABCQ quadratum, et GB ad BC ut 4 ad 3 sintque curvae ut supra<note n="#27"/> BPS, APO. Jam ut spat. AOE ad spat. APQ, ita est BV [fig. 2<hi rend="sup">da</hi>] ad VH<note n="#28"/>. Hoc est ut 2 ad 3√2-3 sicut ostenditur initio pag. hujus<note n="#29"/> quia spatia sunt ut GA-AB [fig. 1<hi rend="sup">a</hi>] ad CA-AB, vid. pag. 82<note n="#30"/>.</p>
+<p>Sic quidem dato vertice V [fig. 2<hi rend="sup">da</hi>] invenitur punctum H, atque etiam F, dato catenae positu. Sed nec punctum V potest inveniri nisi approximatione quadraturae vel ope distantiae centri gr.<hi rend="sup">is</hi><note n="#31"/> portionis BSEA ab AB, quae in hac catenae positione AV est prox. 601<note n="#32"/> partium qualium AB 1000 nec rursus punctum F nisi ex cognita per ejusmodi approximationem ratione inter HV, HF quae est prox<hi rend="sup">e</hi> ut 46996<note n="#33"/> ad 100000.</p>
+<p>Ex charta crassa (carton) figura ABSEA abscindatur, postquam curva BPS inscripta fuerit: invenitur autem facile per puncta ex libello sinuum; nam posita tangente BG cujuslibet anguli BAG, erit ES sinus compl. anguli ejusdem<note n="#34"/>.</p>
+<p>Figurae resectae ABSEA centr. gravitatis mechanice inveniatur F. Erit jam in catena pendente fig.<hi rend="sup">a</hi> 2<hi rend="sup">da</hi>, si angulus BGA quem facit tangens in A, aequalis sit ang.<hi rend="sup">o</hi> BGA in fig. 1<hi rend="sup">a</hi>, ratio applicatae in catena ad axem ejus BV, sicut in fig. 1<hi rend="sup">a</hi> AB ad ZF<note n="#35"/>.</p>
+<p>Sic inveni, si AB applicata sit 1000 partium AG 5000, unde BG 4900<note n="#36"/>, fore BV=1720 prox.</p>
+<p>Si AB sit 1000. BG 2446, tunc AB, BV fore aequales.</p>
+<p>Si AB 1000. sintque AB, BG, GA ut 3, 4, 5; fore BV=601.</p>
+<p>Si AB 1000, AG 2000, ut in triang<hi rend="sup">o</hi> aequilatero, fit BV=763.</p>
+<p>Si AB 1000, itemque BG; fit BV=469. Sed accuratâ supputatione si fuerit hic AB 10000, fit BV=4699<note n="#37"/>.</p>
+<p>Quoniam charta illa non prorsus aequalis est ubique crassitudinis, melius ex linteo uno, vel pluribus conglutinatis, ipsoque glutine duratis ac dein levigatis figurae rescinderentur.</p>
+<p>Parata figura una longiore, quaelibet breviores ex ipsa in aliam chartam circumscribi possunt, quarum exscissarum centrum gr. inveniatur.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

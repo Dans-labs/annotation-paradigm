@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1718"/>
+<meta type="date" value="1669-03-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1718">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 30 Mars 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>En revoyant vos lettres j'en trouue 3 auxquelles je dois response, et il faut bien que je vous demande pardon d'estre si peu regulier en matiere de correspondence.</p>
+<p>La premiere est par la quelle vous m'envoiastes les Transactions<note n="#1"/> ou les Regles de Messieurs Wren et Wallis estoient imprimées. Il me sembloit que sans attendre autrement ma permission, vous auriez pu dire dans les mesmes Transactions que les regles que j'avois communiquées a la Societè Royale estoient en substance les mesmes que celle de Monsieur Wren; car n'ayant fait aucune mention de moy, c'estoit veritablement me prevenir dans la publication de ces regles, quoyque vous m'eussiez fait esperer le contraire en me demandant d'entrer en communication avec ces Messieurs sur la matière du mouuement. Vous aurez vu que suivant vostre conseil j'ay donnè dans le dernier Journal<note n="#2"/> le sommaire de ce que j'ay trouuè touchant la rencontre des corps, ou je n'ay pas voulu me plaindre de cette petite injustice dont je viens de parler, mais j'ay seulement racontè ce qui s'estoit passè, a fin qu'on ne m'accusait pas d'avoir copiè mes regles sur celles de Monsieur Wren.</p>
+<p>Avec vostre seconde lettre j'ay receu celle de Monsieur le Chevalier Moray<note n="#3"/> et l'Escrit de Monsieur Collins<note n="#4"/>, touchant le quel je luy dis mon avis dans la lettre cy jointe<note n="#5"/> que je vous supplie de luy faire tenir. Cela ne se devoit pas nommer un Estat de Controverse, mais une deduction en faveur de Monsieur Gregori contre moy; et qui jugeroit la dessus, ce seroit juger una tantum parte audita. Mais je vous en entretiendray quelque jour<note n="#6"/> plus amplement et vous envoieray mes remarques sur cet Escrit.</p>
+<p>J'ecris mon avis a Monsieur Morray touchant les chifres pour s'assurer de ce qu'on trouvera de nouveau, a scavoir qu'il faut dire de quelle Langue on veut se servir, et qu'il faut arrester un certain nombre de lettres qu'on ne puisse point exceder, pour eviter l'inconvenient que vous remarquez fort bien, qui est que des
+mesmes lettres d'un anagramme on feroit aisement un autre sens. Il me semble que 60 lettres suffisent; et quand il en faut d'avantage pour escrire ce qu'on veut, l'on n'a qu'a les mettre en 2 ou 3 lignes, ou parties distinctes, dont chacune n'excede point le nombre de 60. Vos Messieurs peuvent choisir le latin ou l'anglois. Pour moy je me serviray tousjours du latin. J'ay fait enregistrer l'anagramme<note n="#7"/> de Monsieur Wren, et vous en envoieray bientost quelques unes des miens.</p>
+<p>Vostre dernier enfermoit vos derniers Transactions dont je vous remercie tres humblement. Il me semble par la response de Monsieur Gregory<note n="#8"/> qu'il s'est trouvè fort embarassè de mes derniers instances, car au lieu d'y respondre pertinemment, il ne cherche qu'a embrouiller tellement la dispute, et la rendre si obscure que personne n'y comprendra dorenavant rien.</p>
+<p>Je souhaite fort de voir le Traitè de Corde par Monsieur Lower. Je ne me souviens pas d'avoir vu la doctrine de Monsieur Willis<note n="#9"/> touchant le mouvement des muscles, mais bien celle<note n="#10"/> d'un autre<note n="#11"/>, qui a paru en mesme temps que le livre de Anatome Cerebri<note n="#12"/>.</p>
+<p>Je vous suis fort obligè de ce que vous m'exhortez de haster l'Edition de ma Dioptrique. Ie souhaiterois de m'y pouuoir appliquer avec un peu plus d'assiduitè, mais la diversitè et quantitè des occupations que j'ay m'est un grand obstacle. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Permettez moy que je vous charge de la Lettre<note n="#13"/> pour Monsieur du Hamel<note n="#14"/> que j'envoie cy jointe.</p>
+</div>
+</body>
+</text>
+</TEI>

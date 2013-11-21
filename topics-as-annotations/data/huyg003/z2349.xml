@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2349"/>
+<meta type="date" value="1684-07-12"/>
+<meta type="sender" value="roqu005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2349">
+<div type="opener">
+<p>à <placeName key="parij001">Paris</placeName> le 12 Juillet 1684.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous suis si parfaitement acquis que je n'ay garde de negliger les occasions qui se presentent de vous en donner des inarques. Dez que j'eus receû auec la lettre dont il vous a pleu m'honnorer, vostre réponse à Mr. <persName key="cata001">l'abbé Catelan</persName>, je songeay d'abord à l'inserer dans le premier Journal. Elle y a paru Monsieur, auec toute l'approbation quelle merite<note n="#1"/>. Cepandant cet aduersaire ne laisse pas de mediter vne nouuelle replique<note n="#2"/>, à la quelle mesme, je ne scay si je pourray me dispenser de donner quelque place. Ce n'estoit que pour euiter toutes ces contestations, qui iroient à l'infiny, si l'on vouloit ainsy risposter toujours auec opiniastreté, que vos amis à qui vostre repos est cher, n'auoient pas crû que vous dussiez plus rien dire sur ce sujet. Ils ont depuis trouué fort à propos que vous ayez empesché comme vous auez fait, vos ennemis de se preualoir de vostre silence. Quant à moy Monsieur, je contribüeray toujours par tout ce qui me sera possible à rendre leurs efforts inutiles; et je n'auray pas plus de plaisir que de pouuoir vous témoigner mon attachement et mon zele à vous rendre tous les tres humbles seruices dont je suis capable. Je vous remercie de la part que vous m'auez faite de vostre <hi rend="i">Astroscopia</hi>. Tout ce qui me vient de vous m'est si precieux, et j'en fais vne estime si particuliére que je ne manqueray pas de parler de ce nouuel ouurage aussi auantageusement qu'il le merite<note n="#3"/>, dez que j'en auray fait la lecture. Je
+verray pour cet effet Mons. <persName key="cass021">Cassini</persName>, aujourdhuy, et je luy demanderay l'exemplaire que vous
+luy en auez enuoyé, et qu'il ne fera sans doute pas difficulté de me prester. Les Sçauans vous ont de grandes obligations d'enrichir ainsy la Republique des lettres, de vos excellentes productions. Je ne vous en auray pas de moindres Monsieur, si vous m'honnorez de la continüation de vostre estime et de vostre amitié; et si vous me faites la grace de me regarder comme la personne du monde qui est auec plus de sincerité</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="roqu005">De la Roque</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>hollande
+<lb/>Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName> De L'academie Roiale de France
+<lb/>a La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

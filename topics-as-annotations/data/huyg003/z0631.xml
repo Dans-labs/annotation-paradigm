@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0631"/>
+<meta type="date" value="1659-07-04"/>
+<meta type="sender" value="bell049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="vaumu901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0631">
+<div type="opener">
+<p>A <placeName key="vaumu901">Vaumurier</placeName> le <date>4 Juillet 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je nay pas vne petite obligation a Monsieur <persName key="marl901">de Marlot</persName><note n="#2"/> de m'auoir procuré l'honneur de vostre connoissance. Mais je vous aduoüe que je vous en ay encore vne bien plus grande d'auoir voulu prendre la peine de m'escrire<note n="#3"/>. Vous m'auez fait en cela vne grace que j'estime extremement, Et j'en ay vn ressentiment si grand que je ne trouue point de parolles qui puissent vous exprimer en la maniere que je le souhaitterois les tres humbles remercimens que je voudrois vous en faire. Je croy Monsieur que vous aurez bien la bonté de croire ce que je vous dis, puisque vous auez desja eu celle de me faire vne faueur si particuliere. Je ne sçay en quels termes la lettre que j'ay escrite a Monsieur <persName key="marl901">de Marlot</persName>, et qui a donné occasion a la vostre, estoit conceüe; mais je suis tres éloigné d'auoir eu la pensée dont vous me parlez. Je luy ay seulement voulu tesmoigner que l'estime que j'ay pour vous est telle que si j'eusse eu a moy vne des machines de Monsieur <persName key="pasc001">Pascal</persName> j'eusse pris la liberté de vous l'offrir, et vous eusse prié de l'accepter. Comme je vous supplie d'accepter vn dessein<note n="#4"/> que j'en ay fait, et dont j'ay crû que je deuois accompagner cette reponce afin qu'elle ne paruint point en vos mains sans passeport. J'ay pour cela emprunté d'vn de mes amys loriginal sur lequel je lay pris, je veux dire vne des machines, laquelle il m'a mesme permis de vous enuoyer pour vous la faire voir si j'en trouue la commodité, Et m'a dit jusques là que s'il vous prenoit enuie d'en faire faire vne
+en Hollande vous pourriez la garder tout le temps dont vous en auriez besoin pour cela. Mais en attendant que je trouue cette commodité j'ay esté bien aise de vous en faire ce dessein afin que vous en vissiez tousjours par aduance la construction. Et ce dessein m'ayant tenu quelque temps a faire a cause que je n'ay pû y trauailler qu'a diuerses reprises, cela a esté cause que j'ay tant tardé a vous faire reponce. Je sçauray de Monsieur <persName key="peti033">Petit</persName><note n="#5"/> qui est vn libraire
+<figure><graphic url="huyg003oeuv02ill147.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv02ill148.gif"></graphic></figure>
+de Paris qui a correspondance auec Monsieur <persName>Elzeuier</persName>, s'il enuoye quelque bale de liures en Hollande. Et en cas qu'il en enuoye je mettray cette machine dedans.</p>
+<p>Cependant Monsieur je vous supplie auec affection de me retenir quelque petite part en l'honneur de vos bonnes graces; car je puis vous assurer que je suis vn de ceux qui feray le plus d'estime de ce bien, et qui en abuseray le moins, faisant vne tres ferme resolution d'estre toute ma vie</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeïssant seruiteur <persName key="bell049">Bellair</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

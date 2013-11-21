@@ -1,0 +1,50 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXXVIII"/>
+<meta type="date" value="1692-02-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXXVIII">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> 29 fevr. 1692</p>
+<p>Monsieur</p>
+</div>
+<p>Ce seroit grand dommage si nostre Theorie de la Pesanteur demeuroit perdue. Je scay fort bien que je vous l'ay rendue apres que vous m'eustes fait la grace de me la prester. Monsr. <persName key="dier018">Dierquens</persName><note n="#1"/> ne l'a pas non plus, et voicy la response que je vous envoie de Monsr. <persName>Fabre</persName><note n="#2"/>, qui promet tout ce qui depend de luy.</p>
+<p>Je n'en ay point gardè de copie ni d'extrait, mais je ne laisse pas de me souuenir fort bien de vostre hypothese, ce qui me fait croire qu'avec un peu d'application il vous sera aisè de rentrer de nouveau dans toute cette meditation.</p>
+<p>Monsieur <persName key="newt011">Newton</persName> fait bien de l'honneur aux Pythagoriciens de croire qu'ils aient estè assez bons geometres pour trouuer de pareilles demonstrations a celles qu'il a données touchant les Orbes Elliptiques des Planetes. Pour moy j'ay de la peine à croire qu'ils ayent seulement connu le mouvement de Mars, Jupiter, et Saturne au tour du Soleil, et la proportion de leurs cercles; parce que Platon ayant achetè les Ecrits de Philolaus, y auroit trouvè tout le Systeme <persName>Copernicain</persName> s'il y eust estè, et ne s'en seroit pas teu. Mais quant à la vertu centrifuge qui contrebalance la pesanteur, j'en remarquay ces jours passez quelque vestige dans Plutarque au Traitè de facie in Orbe Lunae, où il dit que la pesanteur de la Lune ne la fait pas descendre vers la Terre, parce que cette pesanteur est effacée par la force de son mouvement circulaire, semblable a celle qu'on sent quand on fait tourner une pierre dans une fronde. Cela vient apparemment de quelque plus vieux philosophe<note n="#3"/>.</p>
+<p>Mons<hi rend="sup">r</hi>. <persName>Borelli</persName> s'est aussi avisè, comme vous savez Monsieur, de l'Equipollence de la Pesanteur et de la force centrifuge aux Planetes, et il en a mesme voulu deduire les Orbites Elliptiques. Mais sa Geometrie n'alloit pas assez loin pour trouver les veritables demonstrations, telles que sont celles de Mons<hi rend="sup">r</hi>. <persName key="newt011">Newton</persName><note n="#4"/>. Son Traitè des Lignes Courbes a ce que mon frere me mande, (qui le tenoit de vous Monsieur) devoit bientost voir le jour<note n="#5"/>, ce que j'attens avec impatience, esperant d'y apprendre toutes ces belles choses dont vous faites mention dans vostre derniere, et que j'estime d'autant plus que j'en conçois la difficultè. J'ay depuis peu, à l'occasion du commerce avec Mons<hi rend="sup">r</hi>. <persName key="leib013">Leibnits</persName>, songè a cette affaire des quadratures, et je vois qu'a toute quadrature, exprimée par <hi rend="i">x</hi> partie de l'axe, et par des lignes connues, on peut trouver l'Equation de la Courbe a qui elle convient; et j'ay encore remarqué quelques regles et tentatives pour trouuer la quadrature quand l'Equation d'une ligne quadrable est donnee, mais cela ne va pas bien loin lors que les Equations sont un peu composees, et je voudrois bien sçavoir si Mons<hi rend="sup">r</hi>. <persName key="newt011">Newton</persName> a des regles generales pour cela, et s'il peut connoitre quand la quadrature est impossible, ou quand elle depend de celle de l'hyperbole ou du cercle. Comme aussi lors que l'Equation de la Tangente est donnée s'il peut connoitre qu'elle appartient a quelque ligne courbe. Au reste je n'entens pas ce que signifie la fluxion de la fluxion; il semble que cela veuille dire la tangente d'une ligne courbe dont depend la courbe de la premiere fluxion mais je ne vois pas alors en quoy la difficulté devient
+plus grande. Je vous prie de solliciter aupres de Mons<hi rend="sup">r</hi>. <persName key="newt011">Newton</persName> la publication de ce traitè qui sera d'une utilitè merveilleuse, et luy fera grand honneur.</p>
+<p>Puisque vous le voulez bien je vay communiquer quelque chose de vostre Regle a Mons<hi rend="sup">r</hi>. <persName key="leib013">Leibnits</persName><note n="#6"/>, apres quoy nous verrons s'il n'avouera pas qu'elle vaut mieux que ce qu'il avoit envoié. Du moins verra t il que vous en usez genereusement en voulant bien donner en echange, ou mesme sans echange, ce que j'avois jugè valoir d'avantage.</p>
+<p>Je n'ay pas encore receu le livre de Craige<note n="#7"/>, et je crois que mon frere me l'apportera luy mesme. Cependant je vous rends mes humbles graces Monsieur de vos corrections.</p>
+<p>Je sçavois il y avoit longtemps la fascheuse avanture de Mons<hi rend="sup">r</hi>. <persName key="ques018">du Quesne</persName><note n="#8"/>, et j'en suis en peine, quoy que je sois persuadè comme vous de son innocence. Jem'etonne
+qu'il n'ait pas mieux connu Mr. de Genes<note n="#9"/>, de qui avec beaucoup de raison on n'a pas bonne opinion. Je salue tres humblement Monsieur <persName>Hamden</persName> et Monsieur <persName key="newt011">Newton</persName>, et vous supplie de me dire des nouvelles de Monsieur <persName key="lock001">Locke</persName>. Je suis avec zele</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName><note n="#10"/>.</p>
+</div>
+<div type="comment">
+<p>De la main de Fatio:</p>
+</div>
+<p>M<hi rend="sup">r</hi>. Hugens, de la Haye 29 feb<hi rend="sup">r</hi>. 1692 à N.F. à Londres.</p>
+<p>Ce seroit grand dommage si ma Theorie de la Pesanteur demeuroit perdue. Il me l'a rendue &amp; Mes<hi rend="sup">rs</hi>. Dierquens &amp; Fabre ne l'ont point. Il n'en a gardé ni Copie ni Extrait. Il se souvient trés bien de mon Hypothese, &amp; il me sera facile de rentrer en toute cette Meditation.</p>
+<p>Que M<hi rend="sup">r</hi>. Newton fait beaucoup plus d'honneur que lui aux Pythagoriciens, par rapport à leurs Idées du Systeme du Monde. Passage de Plutarque sur la Pesanteur de la Lune contrebalancée par sa Force Contrifugue.</p>
+<p>Efforts imparfaits de M<hi rend="sup">r</hi>. Borelli pour expliquer par les mêmes Causes les Orbites des Planetes.</p>
+<p>Ce qu'il se promet du Traité des Lignes Courbes que M<hi rend="sup">r</hi>. Newton doit publier.</p>
+<p>Ce que M<hi rend="sup">r</hi>. Hugens a apperceu depuis peu touchant les Quadratures, pour trouver par elles l'Equation de la Courbe; ou par l'Equation la Quadrature. Mais cela ne va pas loin.</p>
+<p>Il souhaite savoir si M<hi rend="sup">r</hi> Newton a des Regles generales ou particulieres pour diverses suppositions &amp; Cas qu'il propose.</p>
+<p>Il n'a pas d'Idee distincte de la Fluxion de la Fluxion.</p>
+<p>Il va communiquer quelque chose de ma Regle a M<hi rend="sup">r</hi>. Leibnitz &amp; nous verrons s'il avouera que cela vaut mieux que ce qu'il avoit envoié, comme le jugeoit M<hi rend="sup">r</hi> Hugens.</p>
+<p>Il n'a pas encore reçu le Livre de Craig, &amp; me rend graces des Corrections que j'y ai faites.</p>
+<p>Sur M<hi rend="sup">r</hi>. du Quesne Comte de Monros &amp; M<hi rend="sup">r</hi> de Genes.</p>
+<p>Salutations &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

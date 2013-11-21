@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXXIV"/>
+<meta type="date" value="1658"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="witt001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXXIV">
+<div type="opener">
+<p>Amplissime vir,</p>
+</div>
+<p>Tertio quartoque domum tuum, conveniendi tui causa, adii, semper aut absente te aut aliis negociis occupato. Quare tandem has, quae te pro me conveniant, mittere visum est unaque ea quae tibi coram tradere cupiissem. Libellum de horologii nostri constructione, illustrissismis Hollandiae Ordinibus inscripsi, quem rogo ut quam primum commodum erit, meo nomine ipsis offeras, quia, priusquam ibi conspectus fuerit, amicis, exemplaria a me flagitantibus, impertiri ea non licet. Spero equidem dominos illustrissimos in bonam partem accepturos quod hunc ipsis honorem habuerimus. De caetero munus nostrum plus satis commendaveris, si admoneas, ut non tam libelli exilitatem, quam utilitatem inventi, spectare velint, cui sane ad perfectam longitudinum scientiam obtinendam nihil deest, quam ut modum excogitemus, quo maris jactationem nova haec horologia perferant<note n="#3"/>. Utrum unum an plura exemplaria offerri moris sit, haud scio; sed si qua supererunt ea vel remittes vel quodcumque visum erit de illis statues.</p>
+<p>Charta illa, quam vides, libellus supplex est, quo tibi molestus non essem, nisi avunculo meo, qui eum Amstellodamo ad me misit, morem gerere oportuisset. Is sicut olim impensas fecit in molendinorum istorum inventum - quod ipsa illa Archimedis est cochlea - ita nunc de fructibus, si qui erunt, partem sibi vindicare conatur eoque cum caeteris eam querimoniam contra inventi usurpatorem defert. In presens vero
+nullum aliud responsum a DD. Ordinibus expectant, quam ut fuco illi L. Verquaelje e ae ipsae chartae inspiciendae dentur, quibus si possit respondeat<note n="#4"/>.</p>
+<p>Officio meo functus, nihil praeterea addam nisi quod veniam abs te peto, vir amplissime, nimiae importunitatis, qua intempestive forsitan graviores curas tuas interpellavi.</p>
+<div type="closer">
+<p>Tui observantissimus
+<lb/><persName key="huyg003">Chr. Huygenius de Zul.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

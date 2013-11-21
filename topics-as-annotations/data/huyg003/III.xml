@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="III"/>
+<meta type="date" value="1639-08-10"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="III">
+<p>Justinum, nobilem historicum, nobilissime vir, non ita pridem aggressi sumus. quem quidem necessarium cum primis atque utilem experimur...</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae-Com.</placeName> IV Eidus Sextil. MDCXXXIX.</p>
+</div>
+<div type="comment">
+<p>Une lettre du 11, ou plutôt du 12, juillet se trouve à la p. 542 du T.I. Elle y est suivie par deux lettres datant respectivement du 25 août et du 9 septembre 1639.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

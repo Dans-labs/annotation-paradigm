@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0833"/>
+<meta type="date" value="1661-01-28"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0833">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> Dan. F. <persName key="huyg003">Christiano Hugenio Const.</persName> F.S.P.D.</p>
+</div>
+<p>Daturus nonnihil literarum ad Capellanum nostrum, occasionem tam oportunam arripiendam duxi, qua et te salutarem, quem frequentissimum adesse Capellano minime ignorabam. Quas Florentiâ acceperam Academicorum dissertationes<note n="#1"/> Mathematicas una cum Serenissimi Leopoldi literis<note n="#2"/> recte ad te perlatas fuisse vehementer laetor. Postea nunciavit Carolus Datus libellum tuum<note n="#3"/>, quem futilissimis Eustachij quisquilijs<note n="#4"/> doctum argutumque opposuisti, quemque ego Florentiam curavi paucis ante discessum tuum diebus, non modo illuc perlatum fuisse, sed praelo quoque typographico rursus commissum, quod unicum eius exemplar in Etruriam allatum immensae curiositati Italorum minus respondere videretur: unam
+tamen alteramque periodum iussu Principis, cuius auctoritate nova libelli editio sit adornata, inde sublatas esse, cum neque causam Systematis Saturnij tuerentur, et ecclesiam Romanam viderentur offensurae. Hoc ne in sequiorem partem interpreteris factum rogat obsecratque vehementer is ipse Datus. Velim, si res tuae sic ferant, Capellanum deducas ad Illustrissimi Beuningij aedes, qui ardet impense virum tot virtutibus instructum cognoscere et coram intueri. quo officio non me tantum, sed Beuningium quoque ipsum haud leviter demereberis, virum ut scis, literis ac literatis hominibus valde studentem. Clarissimo Brunetto etiam atque etiam me commendes rogo. De picturis Chinicis<note n="#5"/> quod eius nomine a me petis, Vossio nostro significavi: sed causatur ille, quod nec ignoras factum, a Dousa<note n="#6"/> eas in Britanniam clam esse asportatas, nec hactenus sibi redditas. Bullialdus hesterno demum die post longas procrastinationes iter Polonicum est auspicatus. Vlitium<note n="#7"/> ex Brittania mox reducem inbemus expectare, cuius spes illic terrarum prostratae ac pessum datae sunt per inopinatam mortem patronae suae<note n="#8"/>. Rumor est, et quidem constans, Reginam Suecorum<note n="#9"/> brevi nobis adfuturam. Ita sit, ut Arctoum iter in Aprilem mensem aut in exitum Martij sim dilaturus. Interea fore auguror, ut et tu patriae restituaris, quanquam singularis mea in te observantia facit, ne meam ego voluptatem meaque commoda tuis potiora ducam. Novi autem et scio, quantum fructûs ad te redundet ex quotidiano illo cum viris longe praestantissimis congressu, quorum nullibi maiorem copiam, quam Lutetiae, sit invenire. Ex his si qui sunt mihi faventes, ijs ut me conciliare pergas, unice te rogo. Vale, Vir Eximie, et me virtutum tuarum cultorem praecipuum, quod hactenus facis, ama.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> <date>CIƆIƆCLXI. ad diem XXVIII Januarij</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0015"/>
+<meta type="date" value="1646-11-08"/>
+<meta type="sender" value="rene017"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0015">
+<div type="opener">
+<p>Myn heere ende Neve.</p>
+</div>
+<p>Ick vertrouwe dat Uw Ed: met lief thuijs ghecome is. Haere Hoogheydt<note n="#2"/> heeft begeert voor haer vertreck dat ick altemet zoude schrijven hoe 't hier gaet; dat doe ick bij dese ingheslotene die Uwe Ed: haere Hoogheydt ghelieft te behandige.
+Met verlange sien wij te ghemoet de Heere <persName key="rive002">Rivet</persName><note n="#3"/>, en zal, en int' ghemeijn, ende bijsonderlyck mij een groot ghewicht ende behulp geven in raedt ende daedt. <hi rend="i">Sic deus noster omnia fortiter dirigit &amp; suaviter disponit</hi>.
+De Heere <persName key="daub002">Dauberus</persName><note n="#4"/> verlanght Uwe Ed: Soon te mogen diene, Ick verseeckere Uwe Ed: van mijne hartelijckheydt; mijnes Soons<note n="#5"/> ghewillicheydt; ende <persName key="daub002">Dauberi</persName> grondige gheleertheydt.
+Een dinck hebbe ick met voordacht overgheslagen in den brief aen Haere Hoogheydt, dat ick van dage bevonden hebbe dat hier <hi rend="i">Cimices</hi> zijn, ende soo veel ick worde bericht, is maer in een quartier twelck met weghnemen van een solder (ontrent de camer voor uwe Ed: Soone ghedestineert) seer licht can ghebetert worden. Ick versoecke daer toe Ordre. Altemet worde ick aenghesproocke, wat hope is, van <hi rend="i">Excercitiv-meesters</hi> daer inne wij oock Ordre zullen afwachten</p>
+<div type="closer">
+<p>Myn Heere hiermede eyndige ick, ende blijve
+<lb/>Uwe Ed: ende der Uwen gansch Dienst bereyde vriendt
+<lb/><persName key="rene017">L.G. van Renesse</persName>.</p>
+<p><date>8 Novembre 1646</date> <placeName key="breda001">Breda</placeName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

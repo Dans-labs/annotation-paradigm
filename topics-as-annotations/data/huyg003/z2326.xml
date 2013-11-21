@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2326"/>
+<meta type="date" value="1683-10-13"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2326">
+<div type="opener">
+<p>Nobilissime Vir</p>
+</div>
+<p>Dubius haereo, num meas acciperis literas binas. cum hactenus, uti petieram responsi acceperem nihil, in quarum prima<note n="#1"/> apographum Tschirnhausii<note n="#2"/> tibi scripseram et miseram, in altera<note n="#3"/> vero indicaveram num gratum tibi sit futurum, ut tibi Logices novae 1. Partem ejusd. auctoris describam; adeo ut Epistolis illis metuam. Tertiam ecce mitto, in qua inclusi illam ad D. Mariotte, quam ad eum mittere Nob. Tschirnh. ut tibi placeat petit. Gratum procul dubio praestiteris illi beneficium, mihique, si indicare placeat num res meae tibi rectè traditae sint. Vale Nob. Vir et favore tuo prosequi digneris</p>
+<p>&nbsp;</p>
+<p>Raptim Amstel. 13 Octob. 1683.</p>
+<p>Tuum <persName key="gent015">Petrum à Gent</persName>. M.D.</p>
+<p>&nbsp;</p>
+<p>P.S. Apertas has reliqui, quo eas perlegere queas, clausasque eò ablegare. Vale.</p>
+</div>
+<div type="para">
+<p>Wel Edele Hooggeboren Heer, Mijn Hr. <persName key="huyg003">Christiaan Hugens. Hr. van Zulichem</persName>
+<lb/>In 's Gravenhage<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

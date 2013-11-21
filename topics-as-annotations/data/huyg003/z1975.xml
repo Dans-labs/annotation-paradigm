@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1975"/>
+<meta type="date" value="1673-11-30"/>
+<meta type="sender" value="camp090"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rome_001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1975">
+<div type="opener">
+<p lang="it">Illustrissimo Signore Patrono Colendissimo.</p>
+</div>
+<p lang="it">Hieri mi fú cónsignato da Monseur Asout pér parte di V.S. Ill<hi rend="sup">ma</hi> un libro sopra il moto de Pendoli dé gl' Horologij, il qualé tanto piu 'stimo, che riuscirà bello é prosittevolé, quanto maggioré è il grido della sua virtù, e valorè stimato, et ammirato da mè al maggior segno. Non perderó témpo di leggerlo, spérando cavarné, é gusto, é profitto, é mentré la ringratio infinitamente di questo honoré ché mi ha fatto, lo prégo darmi campo con qualche suo commando di réndermi degno per l'aveniré di quelle gratié, ché mi véngono sénz' alcun' merito compartité da V.S. Ill<hi rend="sup">ma</hi> alla quale fo' sum<hi rend="sup">ma</hi> riu<hi rend="sup">ta</hi>.</p>
+<div type="closer">
+<p lang="it">Roma li 30 9bre 1673.</p>
+<p lang="it">di V.S. Ill<hi rend="sup">ma</hi> Hum<hi rend="sup">mo</hi> Dev<hi rend="sup">mo</hi> et oblig<hi rend="sup">mo</hi> Ser<hi rend="sup">re</hi> <persName key="camp090">Giuseppe Campani</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="fr">A la Bibliotheque du Roy rue vivienne.</p>
+<p lang="fr">A Monsieur Monsieur <persName key="huyg003">Christian Hugenius Zulichemius</persName> matematisien a la Academie Roialle a paris.</p>
+</div>
+</body>
+</text>
+</TEI>

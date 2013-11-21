@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0609"/>
+<meta type="date" value="1659-04-29"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0609">
+<div type="opener">
+<p>ce <date>29<hi rend="sup">e</hi> Auril 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Si J'auois esté en cette ville lors que la derniere lettre que vous m'auez fait l'honneur de m'escrire y est arriuee J'aurois bien des excuses à vous faire d'auoir demeurè si longtems sans y respondre, mais ie ne suis de retour que depuis deux iours d'un uoyage que ie ne croyois pas deuoir estre si long, et aussi tost que J'ay veu vostre lettre J'ay mis ez mains de Monsieur Mylon le liure<note n="#1"/> que vous me demandez, ayant bien de regret que Monsieur Boulliaud ne se soit acquittè de sa promesse<note n="#2"/> auec la diligence qu'il m'auoit fait esperer, Je souheterois de tout mon coeur Monsieur que vous me sissiez la grace de me commander quelque autre chose pour uostre seruice n'y ayant personne au monde qui vous honnore dauantage ni qui soit plus veritablement que moy</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="carc010">de Carcavy</persName>.</p>
+</div>
+<p>Je n'ay point encore reccu le liure<note n="#3"/> que vous m'auiez fait l'honneur de me promettre.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulychen</persName> a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

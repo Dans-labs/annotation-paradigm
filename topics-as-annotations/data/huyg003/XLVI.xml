@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XLVI"/>
+<meta type="date" value="1665-07-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XLVI">
+<div type="opener">
+<p>Monseigneur,</p>
+</div>
+<p>Je me promets de l'amitiè de M<hi rend="sup">r</hi>. de Carcavy que lors qu'il vous aura fait scavoir que j'avois acceptè la proposition avantageuse qu'il m'avoit faite par vostre ordre, il n'aura pas oubliè de vous tesmoigner que c'a estè avec toute la joye et satisfaction imaginable, et que j'ay estè d'autant plus sensible de l'honneur qu'il a pleu au Roy me faire, que je m'y estois moins attendu et croiois moins le meriter. J'ay du depuis donnè avis au dit Sieur de Carcavy de l'acquiescement de mon pere pour cette affaire, et j'en ay receu de luy en suite par lesquels il m'assure que la chose aupres de Sa Majestè estoit entierement arrestée, me faisant connoistre en mesme temps, combien de bontè et de bienveillance pour moy vous avez fait paroistre en cette occasion, dont je ne puis Monseigneur que je ne vous rende icy mes tres humbles remercimens. Ce sont de nouuelles graces que vous faites succeder a tant d'autres passées, et desquelles je suis bien loin de me pouvoir jamais acquiter, puis que j'auray tousjours besoin de vostre faveur et bienfaits et vous fort peu de mes services. Toutefois si la gratitude s'estime par la reconnaissance parfaite que l'on a des biens receus, je suis certain que j'en ay autant que personne du monde, et j'espere que vous n'en jugerez pas autrement lorsque je seray en estat de vous en donner des preuves plus frequentes, et que vous verrez augmentè le nombre de ceux qui dependent entierement de vous par</p>
+<div type="closer">
+<p>Monseigneur
+<lb/>Vostre tres humble et tres obeissant serviteur
+<lb/><persName key="huyg003">Chr. Hugengs de Zulichem</persName></p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 30 Juillet 1665.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

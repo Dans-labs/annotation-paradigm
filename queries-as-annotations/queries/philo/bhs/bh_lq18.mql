@@ -1,0 +1,46 @@
+// The query Ulrik used in the final version of his COLING article.
+// It's a variant of the Richteren 5 query (lq07), and explicitly looks
+// for agreement bewteen the verb and the first part of the compound
+// subject. It finds 234 instances, over against about 350 instances
+// for the same query without the agreement.
+
+// ident @(#)lq18.mql	1.1 04/06/07
+
+/*
+<metadata>
+<meta type="research_question">Jdc 5:1</meta> 
+<meta type="researcher" value="Ulrik Sandborg-Petersen"/>
+<meta type="date_created" value="2004-06-07"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">it explicitly looks for agreement bewteen the verb and the first part of the compound subject. It finds 234 instances, over against about 350 instances for the same query without the agreement.</meta>
+<meta type="publications"><pub>Ulrik Sandborg-Petersen. COLING article??</meta>
+</metadata>
+*/
+
+//==========
+SELECT ALL OBJECTS
+WHERE
+[Clause
+  [Phrase phrase_function = Pred
+    [Word AS w1 FOCUS part_of_speech = verb
+          and number = singular
+          ]
+  ]
+  ..
+  [Phrase phrase_function = Subj
+    [Word FOCUS (part_of_speech = noun
+           or (part_of_speech = noun and noun_type = proper)
+           or (part_of_speech = pronoun and
+		   		(	pronoun_type = demonstrative
+				 or pronoun_type = interrogative
+				 or pronoun_type = personal
+				)
+			   )
+		  )
+          and number = singular
+          and gender = w1.gender]
+    ..
+    [Word FOCUS part_of_speech = conjunction]
+  ]
+]
+GO

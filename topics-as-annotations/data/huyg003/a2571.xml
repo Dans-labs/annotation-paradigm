@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2571a"/>
+<meta type="date" value="1690-03-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vege004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a2571">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 9 Mars 1690.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne vous escris ce mot que pour scavoir si ma lettre du 17<hi rend="sup">e</hi> du mois passè vous a estè rendue avec la quelle estoient 3 Exemplaires d'un Traité de la lumiere que je viens de mettre au jour<note n="#3"/>. Il y en avoit un pour vous, un pour Mr. <persName key="full003">Fullenius</persName> avec une lettre dans une enveloppe à part, et un troisieme que je vous priois de faire tenir a ces M<hi rend="sup">rs</hi> de Leipsich, qui escrivent les Acta Eruditorum. Le paquet n'est parti d'icy a ce qu'on m'a dit, que le 23<hi rend="sup">e</hi> du mesme mois. Mais comme il s'est passè assez de temps pour pouvoir avoir response soit de vous, soit de Mr. <persName key="full003">Fullenius</persName>, cela m'a fait douter s'il avoit estè rendu. Celuy qui s'en est chargè est un messager ordinaire de Frise que l'on m'a enseignè icy, mais qu'on me dit a cette heure qu'il ne doit retourner a la Haye que vers le mois de May, il s'appelle Claes Juckes. Deux lignes de vostre main me mettront en repos, en attendant les quelles je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>Quand vous me ferez l'honneur de m'escrire je vous prie d'adresser vostre lettre au noordende naest de Crabbe, qui est mon logement pendant cet hyver, et toute les fois que je suis a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

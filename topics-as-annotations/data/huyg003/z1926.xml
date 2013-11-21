@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1926"/>
+<meta type="date" value="1673-03-20"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1926">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 10 mars 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne vous scauray rien dire à present si non que ie souhaite que vous voulussiez considerer ce que Monsicur Wallis a dit dans l'imprimé cy-ioint<note n="#1"/> sur vostre discours touchant la suspension du mercure purgé, au dessus de la hauteur ordinaire<note n="#2"/>. Il n'a fait cela que pour vous donner l'occasion d'y penser et de vous en expliquer d'avantage.</p>
+<p>Je ne doubte pas que vous n'ayez receu la mienne du 10 fevrier avec le nombre 90 des transactions, où il y a la methode de Monsieur Sluse pour mener des tangentes à toutes sortes de lignes courbes sans aucun calcul. Je promis alors de respondre plus amplement à deux de vos dernieres<note n="#3"/>; mais ie ne le scauray pas faire encore. J'attends le iournal<note n="#4"/>, ou vous aurez mis ce que vous auiez à dire touchant le barometre, dont M. Grillet s'est attribué l'invention. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Monsieur, vous prendrez la peine de corriger quelques fautes de la presse dans les Transactions du mois janvier, conformement aux directions de celles-cy, que vous trouuerez à la fin.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.
+<lb/>32 β</p>
+</div>
+</body>
+</text>
+</TEI>

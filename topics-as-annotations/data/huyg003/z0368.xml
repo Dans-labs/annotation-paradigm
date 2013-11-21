@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0368"/>
+<meta type="date" value="1657-01-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0368">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p lang="la">De <persName key="boul014">Bullialdo</persName> cum Thuano redituro.</p>
+</div>
+<div type="opener">
+<p lang="la">Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Literas tibi mitto à Domino <persName>Milon</persName><note n="#1"/> quas heri sub vesperam accepi meis inclusas. Nescio equidem quid sibi velit, cum omnimodis à nobis suppleri postulat quae
+desunt methodo Palierij; quae sane plura sunt et difficiliora ijs quae ille tradidit. Nam si tu vel ego reliqua adinvenimus, non jam Palierij libellus erit nisi ex parte dimidia. Cum autem ex tuis inventis ejusmodi constructionis methodum omnibus numeris absolutum sis pollicitus hoc minus à te petere debuit ut alienis inventis perficiundis otium impenderes. De binis Parabolis simul adhibendis quod scribit, non puto huic negotio accommodatum fore, quoniam unius ope omnes aequationes expediri posse constat. Nam secundo ablato termino quomodo id fiat Cartesius ostendit; à te vero etiam absque hac praeparatione docebitur; hoc enim, ni fallor, promisisti. Si tamen Milonio morem gerere decrevisti, denuoque Pallierij scriptum expendere, ecce una id tibi mitto: sin minus, ut ipsi remittas. Alteram huic insertam epistolam Cognata Zueria à fratre suo<note n="#2"/> accepit, rogata nuper à charissima uxore tua<note n="#3"/> ut quoquomodo insignia Trouquetij<note n="#4"/> sibi exquireret. Ea sunt quibus haec obsignata fuit epistola, in quibus quid sit expressum propter exilitatem nimiam difficile sane dignoscitur. Gemmarij fortasse juvabunt, qui hisce sculpendis victum quaerunt. Veruntamen colores desiderantur neque scimus unde peti debeant.</p>
+<p>Scribit mihi inter alia Milonius,<note n="#5"/> brevi hic adfore Bullialdum; legationi nempe ei a secretis venturum in quam Dominus <persName>Thuanus</persName> deputatus est, quocum nunc habitat.</p>
+<p>Inveni hisce diebus<note n="#6"/> novam horologij fabricam, tam accurate tempora dimetientis, ut non parva spes sit longitudines ejus ope definire posse utique si per mare vehi patiatur. Vale.</p>
+<div type="closer">
+<p>Dat. <placeName key="denha004">Hagae Com.</placeName> <date>12 Jan. 1657</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

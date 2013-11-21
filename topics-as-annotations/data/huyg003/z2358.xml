@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2358"/>
+<meta type="date" value="1684-08-01"/>
+<meta type="sender" value="cass021"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2358">
+<div type="opener">
+<p>A <placeName key="parij001">paris</placeName> ce premier Aoust 1684<note n="#1"/>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous verres icy monsieur ce que je vous escriuis le mois de Juin passe dont je fis faire une copie que je vous enuoye<note n="#2"/>. J'aurais bien voulu vous pouuoir enuoier des obseruations faites par la maniere que vous donnez dans vostre Astroscopie, mais je n'ay pas pu surmonter la difficulte de tenir assez bandè le fil pour diriger les grands verres que nous auons de Mr. <persName>Campani</persName> le moindre vent qui souffle presque tousiours icy le faisant trop courber. La derniere addition que vous auez faites, et que vous m'auez fait l'honneur de m'enuoier facilite beaucoup la maniere de suiure l'astre quand on l'a trouue, ce que j'auois eprouue estre difficile a l'occasion de obseruations que je fis a Saturne. Auant que cette Planete sorte des rayons du soleil nous auons le temps de nous preparer a ce sorte d'obseruations.</p>
+<p>La Tache du soleil dont je vous parlois dans ma lettre reprit la premiere forme le 10 de Juin et apres estre sortie du disque du soleil le 13 elle est retournee deux
+autres fois et presentement elle s'est dissipee. Nous obseruames le 27 de Juin la petite Eclipse de la lune a deux heures et demie du matin<note n="#3"/> et le defeaut ne fut guere plus que d'une minute de degre le commencement et la fin fut tres difficile a determiner.</p>
+<p>Nous ne vismes pas le commencement de l'eclipse du soleil le 12 de Juillet mais par les phases suiuantes nous conclumes qu'il estoit arriue a 2 heures et 26 minutes ou quelques secondes auant la fin fut obseruee a 4 heures 43′23″. la grandeur fut de 8 doits moins un huitieme<note n="#4"/>. Si vous en auez fait l'obseruation je vous supplie de me la communiquer. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur
+<lb/><persName key="cass021">Cassini</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

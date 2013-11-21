@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0581"/>
+<meta type="date" value="1659-02-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gast014"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0581">
+<div type="opener">
+<p>A Monsieur <persName key="gast014">du Gast</persName>, autheur<note n="#1"/> des lettres Provinciales<note n="#2"/>.</p>
+<p>le <date>5 febr. 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Si j'eusse pu veoir a travers la nue dont il vous a pleu vous couurir lors que vous me honnorastes de vostre visite, je vous aurois traitè auec le respect qui est du a vostre condition et aux rares qualitez que vous possedez: et je ne vous aurois pas imposè avec tant de libertè la commission de porter en France les exemplaires de mon livre<note n="#3"/>. Toutefois je ne puis estre marry de m'estre mespris à cette fois. ny d'en avoir use de la sorte, voyant combien m'ont valu ce peu de feuilles seulement pour avoir passè par vos mains. Car assurement Monsieur ce n'est pas pour ce petit present mais pour ce que vous y avez adjoustè du vostre en le donnant a Monsieur Pascal, que cet Illustre m'a creu meriter son amitiè. C'est un bonheur plus grand que je n'aurois osè esperer, et que je tascheray de me conserver tant que je vivray, me souuenant tousjours que c'est a vostre bonte que j'en ay toute l'obligation. Il est vray que je suis encore dans l'incertitude de scavoir a qui je parle et a qui je suis si fort redevable, mais je croy aussi de ne l'ignorer pas tout a fait et en attendant qu'il vous plaise vous decouurir d'auantage je me contente aucunement de vous scavoir comme estant beaucoup au dessus de ce que vous avez voulu paroistre et comme autheur d'une oeuure qui fait aujourdhui tant de bruit et qui monstre que veritablement vous estes un des plus grands hommes du siecle.</p>
+<p>Vous ne devez pas douter que je n'aye receu avec beaucoup de joye les ordres qu'il vous a plu me donner de la part de Monsieur le Duc de Luines, et que je
+me tiene a beaucoup d'honneur de pouuoir contribuer à la satisfaction de ce Prince si entendu et qui mesme a pris la peine de lire ce que j'ay escrit assez confusement de mon invention. Si l'on m'a tenu parole, il y en a desia deux en voye des ouurages qu'il a commandez. Et les 2 autres seront expediè, le plustost qu'il se pourra. des quels je prendray un soin particulier et vous pouuez estre assure qu'ils seront d'une perfection extraordinaire si le succes respond au desir que j'ay de vous tesmoigner combien je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0445"/>
+<meta type="date" value="1657"/>
+<meta type="sender" value="bart049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0445">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ay reçeu la vostre<note n="#1"/> tres-agreable assez tard à cause que nos porteurs des lettres icy n'entendent pas françois. Je vous en demeure infiniment obligé, je vous en tesmoigneray le ressentiment aux occasions. Monsieur <persName key="scho197">Schooten</persName> m'a enuoye vostre responce au Pere Aynscom<note n="#2"/>, laquelle je cheriray comme tout ce que vient de vostre plume: si je croyois que vous n'eussiez veu ce que à escrit Monsieur <persName key="beau901">de Beaune</persName> contre la 44 proposition du mesme liure du Pere Gregorio, je vous l'enuoyerois. Vous verrez bien tost imprimé chez vous<note n="#3"/> en Hollande ce que j'ay acheué apres la mort de Monsieur <persName key="beau901">de Beaune</persName>; il y a bien un traitté de l'Angle solide tout acheué, et a mon esprit fort belle, mais je n'ay trouué personne encore qui la voulust entreprendre, car les figures se reduiront presque à dix planches. Vostre Imprimeur à la Haye Monsieur <persName>Vlacq</persName>, m'auoit tesmoigné d'en auoir enuie, mais je ne rien ouy depuis. Monsieur <persName>Meibomius</persName> prepare une refutation<note n="#4"/> de la responce<note n="#5"/> du Monsieur <persName>Langius</persName>, puisque il ne la trouue pas suffisante. Monsieur <persName>Langius</persName> à donné ordre de vous faire tenir l'exemplaire de son liure par le moyen de Monsieur <persName>Carisius</persName> Resident de sa Mayesté. Cependant nous serions bien aise de
+sçauoir vostre jugement du liure de Meibomius, si vous auiez tant de loisir à voir le fondement de son erreur, dont nous ne doutons point, mais il ne se contente pas des demonstrations, il faut le conuaincre des authoritez. Il me semble qu'il a tort de vouloir faire dire à Euclide
+ce quil n'a pas eu dessein descrire, asçauoir de comparer les raisons, nam aliud est dicere A ad B majorem habet rationem quam ad C, aliud, ratio quae est inter A ad B est major quàm ratio A ad C, ce qu'on peut voir de ces definitions. Au reste, conseruez moy l'honneur de vos bonnes graces, je vous asseure sans compliment que vos merites me font demeurer eternellement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres-humble et tres-obligé seruiteur <persName key="bart049">Erasme Bartholin</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Huijgens</persName>. a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

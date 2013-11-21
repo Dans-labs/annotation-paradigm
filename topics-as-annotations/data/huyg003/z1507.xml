@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1507"/>
+<meta type="date" value="1665-12-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="spin003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1507">
+<div type="opener">
+<p>Viro Clarissimo B.D.S. <persName key="olde010">Henricus Oldenburgius</persName>.</p>
+</div>
+<p>Vir Praestantissime, Amice plurimum colende,</p>
+<p>Perplacent, quae de partium Naturae cum toto consensu nexuque philosopharis; quanquam non satis assequar, quomodo possimus ordinem et symmetriam a Natura, ut tu facere videris, profligare; imprimis cum ipse agnoscas, omnia ejus corpora ab aliis ambiri, et ab invicem certa et constanti ratione, tum ad existendum tum ad operandum, determinari, eâdem semper in omnibus simul motûs ad quietem ratione servatâ: quae ipsissima veri ordinis ratio formalis esse videtur. At nec hic forte te satis capio; non magis quam in eo, quod de Regulis Cartesii antehac scripseras. Utinam subire laborem velles me edocendi, qua in re tam Cartesium quam Hugenium in regulis motûs errasse judices. Pergratum mihi sane hoc officio defungendo praestiteris, quod quidem pro viribus demereri studerem.</p>
+<p>Praesens non fui, quando Dominus <persName key="huyg003">Hugenius</persName> Experimenta, Hypothesin suam comprobantia, hic Londini fecit<note n="#1"/>. Intelligo interim, quendam inter alia pilam unius librae, penduli in modum suspendisse, quae delapsa percusserit aliam, eodem modo suspensam, sed librae dimidiae, ex angulo quadraginta graduum, et Hugenium praedixisse, paucula facta Computatione Algebraica, quis foret effectus, et hunc ipsum praedictioni ad amussim respondisse. Abest Vir quidam<note n="#2"/> insignis, qui multa talia Experimenta proposuerat, quae solvisse dicitur Hugenius. Quamprimum dabitur ipsum, qui abest, convenire, uberius et enucleatius forsan hanc rem tibi exposuero. Tu interim superiori petito meo ne refrageris, iterum atque iterum rogo; et si quid praeterea de Hugenii successu in poliendis Vitris Telescopicis cognoveris, impertiri quoque ne graveris. Spero, Societatem nostram Regiam, peste jam insigniter per Dei gratiam desaeviente, brevi Londinum reversuram, coetusque suos hebdomadicos instauraturam: quae ibi transigentur scitu digna, eorum communicationem certo tibi poteris polliceri.</p>
+<p>Mentionem antehac feceram de Observatis Anatomicis. Scripsit ad me non ita pridem Dominus <persName key="boyl001">Boylius</persName><note n="#3"/> (qui te perhumaniter salutat), eximios Anatomicos Oxonii<note n="#4"/> se certum reddidisse, quod Asperam Arteriam, tum quarundam Ovium, tum Boum, gramine refertam invenerint; et quod ante paucas septimanas dicti Anatomici invitati fuerint ad videndum Bovem, qui per duos tresve dies collum fere continuo obstipum erectumque tenuerat, et ex morbo, quem possessores plane non cognoverint, mortuus fuerit: in quo, dissectis partibus, ad collum et jugulum spectantibus, ipse repererint cum admiratione, Asperam ejus arteriam in ipso trunco penitus gramine refertam fuisse, ac si quis illud vi intro adegisset. Id quod justam suggerit inquirendi causam, tum qua ratione tanta graminis quantitas illuc pervenerit, tum, cum ibi esset, quomodo ejusmodi animal tamdiu supervivere potuerit? Praeterea idem Amicus mihi significavit<note n="#5"/>, curiosum quendam Medicum<note n="#6"/>, itidem Oxoniensem, Lac in sanguine humano invenisse. Narrat enim, puellam, sumpto largiori jentaculo hora septima matutina, sanguinem misisse in pede hora ejusdem diei undecima: et primum sanguinem immissum fuisse Scutellae, eumque, pauco exinde temporis spatio elapso, alborem induisse; postremum vero sanguinem in vasculum minus, quod acetabulum, ni fallor, vocant (Anglice <hi rend="i">a Sawcer</hi>) influxisse, eumque protinus in placentae lacteae formam abiisse; interjectis quinque aut sex horis Medicum reversum sanguinem utrumque inspexisse, eumque, qui in Scutella erat,
+dimidium fuisse sanguinem, dimidium vero chyliformem, qui chylus sanguini, ut serum lacti, innataverit: at eum, qui erat in <hi rend="i">acetabulo</hi>, totum fuisse chylum, sine ulla sanguinis specie; cumque utrumque super igne seorsim calefaceret, ambos liquores induruisse; puellam vero bene valuisse, nec sanguinem misisse, nisi quod nunquam passa fuisset menstrua, quamquam colore florido vigeret.</p>
+<p>Sed transeo ad Politica. In omnium ore hic est rumor de Israëlitarum, per plusquam bis mille annos dispersorum, reditu in Patriam. Pauci id hoc loco credunt, at multi optant. Tu, quid hac de re audias statuasque, amico tuo significabis. Me quod attinet, quamdiu Nova haec a Viris fide dignis non perscribuntur ex Urbe Constantinopolitana, cui hujus rei maxime omnium interest, fidem iis adhibere non possum. Scire aveo, quid Judaei Amstelaedamenses ea de re inaudiverint, et quomodo tanto nuncio afficiantur, qui, verus si fuerit, rerum omnium in Mundo Catastrophen induturus sane videtur.</p>
+<p>Quid Suecus<note n="#7"/> nunc moliatur, et Brandiburgicus<note n="#8"/>, si potes, explica; et crede me esse</p>
+<div type="closer">
+<p>Tui Studiossimum <persName key="olde010">Henr. Oldenburg</persName>.</p>
+<p>Londini die 8. Decembris 1665.</p>
+</div>
+<p>P.S. Quid de nuperis Cometis nostri Philosophi statuant, brevi tibi indicabo, Deo volente.</p>
+</div>
+</body>
+</text>
+</TEI>

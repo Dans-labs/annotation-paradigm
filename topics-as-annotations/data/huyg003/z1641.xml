@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1641"/>
+<meta type="date" value="1668-06-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1641">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 7 Iuin 1668.</p>
+</div>
+<p>J'ay depuis ma derniere<note n="#1"/> essayè la moitiè du concave de vostre façon avec l'objectif que vous m'aviez donnè auparavant, et je trouue qu'il fait assez bien quand l'ouuerture de l'objectif n'est que de la grandeur ordinaire a peu pres comme la vostre. mais en decouvrant tout le verre je vois un peu de couleurs ce qui me fait croire qu'il y a un inconvenient de ce costè la, qui provient de l'angle que font les 2 surfaces de l'objectif vers les bords. qui cause necessairement des couleurs, de
+<figure><graphic url="huyg003oeuv06ill50.gif"></graphic></figure> sorte qu'en faisant des verres hyperboliques l'on trouueroit la mesme chose en les faisant fort grands. Ce sera tousjours quelque chose d'avoir montrè qu'il n'y a pas plus a esperer de ce<note n="#2"/> ces figures, mais devant que de l'assurer je serois bien aise de faire l'essay avec un verre entier, que je vous ay priè de me vouloir faire<note n="#3"/>. J'ay trouvè que la superficie creuse ne l'estoit pas tout a fait tant que celle que je vous ay tracée<note n="#4"/>, d'ou vient que la multiplication n'est pas de 30 comme elle devroit estre. outre que cela empesche quelque chose de l'effect que cet oculaire doit produire. de plus il avoit encore de l'espoisseur dans le milieu plus qu'il n'est necessaire, qui peut nuire aussi. Si vous n'y avez pas encore travaillè je vous prie de prendre garde a ces 2 points. Adieu.</p>
+</div>
+<div type="para">
+<p>Pour Mon frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+// An example of levelling from 1R 1:49 presented by Percy van Keulen.
+// In the Peshitta, W-QMW holds a position different from its Hebrew
+// counterpart in the Masoretic Text. As there is no obvious syntactic
+// reason for the transposition, it may be stylistic in character. This
+// query looks for parallels of the construction in Hebrew.
+
+// ident @(#)lq19.mql	1.1 04/06/08
+
+select all objects where
+
+[clause_atom as c1
+   clause_atom_type = Way0
+   [phrase last
+      function = Pred
+      [word as w1
+	 psp = verb
+      ]
+   ]
+]
+[clause_atom
+   mother = c1.self and
+   clause_atom_type = WayX
+   [phrase
+      function = Pred
+      [word
+	 psp = verb and
+	 person = w1.person and
+	 number = w1.number and
+	 gender = w1.gender
+      ]
+   ]
+]

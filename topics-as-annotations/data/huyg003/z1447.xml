@@ -1,0 +1,142 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1447"/>
+<meta type="date" value="1665"/>
+<meta type="sender" value="hudd002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="1446"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1447">
+<p>Solutie van een quaestie Raeckende de Avantagie en Disavantagie van twee speelders.</p>
+<p>A en B speelen sonder datter iet instaet, en bedingen dat die munt werpt een ducaet sal insetten en die kruijs werpt een ducaet sal trecken mits dat A eerst sal moeten werpen. Vrage nae de avantagie van B? Antwoort 1/6 <hi rend="i">a</hi><note n="#2"/>.</p>
+<div type="comment">
+<head rend="h4">Traduction</head>
+<p>Solution d'une question se rapportant à l'Avantage et au Désavantage de deux joueurs.</p>
+<p>A et B jouent sans que rien n'ait été mis, et stipulent que celui qui jette pile mettra un ducat, et que celui qui jette croix tirera un ducat, à condition que A jettera le premier. On demande l'avantage de B? Réponse 1/6 <hi rend="i">a</hi>.
+<note n="#3"/></p>
+</div>
+<p><table>
+<row>
+<cell></cell>
+<cell cols="2"><hi rend="i">a</hi> ∞ een Ducaet</cell>
+</row>
+<row>
+<cell>Avantagies en disavantagies van B.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">x</hi></cell>
+<cell>Als A moet werpen sonder datter iet instaet</cell>
+<cell><hi rend="i">x</hi> ∞ <hi rend="i">z - x</hi>/2 Ergo 3 <hi rend="i">x</hi> ∞ <hi rend="i">z.</hi></cell>
+</row>
+<row>
+<cell></cell>
+<cell>Ergo
+<lb/>
+Als B moet werpen sonder datter iet instaet heeft hij - <hi rend="i">x</hi></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">z</hi></cell>
+<cell>Alser een Ducaet van A instaet en dat B moet werpen.</cell>
+<cell><hi rend="i">z</hi> ∞ <hi rend="i">a - y</hi>/2</cell>
+</row>
+<row>
+<cell>- <hi rend="i">y</hi></cell>
+<cell>De disavantagie vande worp. Alser van A en B <hi rend="i">een</hi> tegen <hi rend="i">een</hi> instaet en dat A moet werpen.</cell>
+<lb/>
+<cell>- <hi rend="i">y</hi> ∞ <hi rend="i">z - a</hi> + <hi rend="i">q</hi>/2 Ergo - 2<hi rend="i">y</hi> ∞ <hi rend="i">z - a</hi> + <hi rend="i">q.</hi> Indien men nu in plaets van <hi rend="i">z</hi> en <hi rend="i">q</hi> stelt haere gevonde waerdijen soo krijght men
+<lb/>
+- 2<hi rend="i">y</hi> ∞ <hi rend="i">a - y</hi>/2 - <hi rend="i">a</hi> + - 2<hi rend="i">y</hi> + <hi rend="i">a</hi>/2 gereduceert komt
+<lb/>
+- 4 <hi rend="i">y</hi> ∞ - 3 <hi rend="i">y</hi> + 2 <hi rend="i">a</hi> - 2 <hi rend="i">a</hi> geaddeert + 3 <hi rend="i">y</hi>----- - <hi rend="i">y</hi> ∞ 2 <hi rend="i">a</hi> - 2 <hi rend="i">a.</hi> Ergo - <hi rend="i">y</hi> ∞ ⚬<note n="#4"/>
+<lb/>
+maar <hi rend="i">z</hi> was ∞ <hi rend="i">a - y</hi>/2. Ergo <hi rend="i">z</hi> ∞ 1/2 <hi rend="i">a.</hi> Ergo 3 <hi rend="i">x</hi> ∞ 1/2 <hi rend="i">a</hi> en <hi rend="i">x</hi> ∞ 1/6 <hi rend="i">a</hi>
+<lb/>
+quod erat Demonstrandum.</cell>
+</row>
+<row>
+<cell>Nota. Indien men dit corollarium<note n="#5"/> soude willen negeren, soo en is de quaestie niet te vinden, ten ware door een progressie<note n="#6"/>.</cell>
+<cell>Ergo
+<lb/>
+Alser 2 tegen 2 instaen en dat A moet werpen is de disavantagie weder - <hi rend="i">y.</hi></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">q</hi></cell>
+<cell>Als er 2 Ducaten van A instaen, en een van B en dat B moet werpen</cell>
+<cell>∞ - 2 <hi rend="i">y</hi> + <hi rend="i">a</hi>/2</cell>
+</row>
+</table></p>
+<div type="comment">
+<head rend="h4">Traduction</head>
+<p><table>
+<row>
+<cell></cell>
+<cell cols="2"><hi rend="i">a</hi> ∞ un ducat.</cell>
+</row>
+<row>
+<cell>Avantages et désavantages de B.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">x</hi></cell>
+<cell>Lorsque A doit jeter sans que rien n'a été mis.</cell>
+<cell><hi rend="i">x</hi> ∞ <hi rend="i">z - x</hi>/2. Ergo 3 <hi rend="i">x</hi> ∞ <hi rend="i">z.</hi></cell>
+</row>
+<row>
+<cell></cell>
+<cell>Ergo
+<lb/>
+Lorsque B doit jeter, sans que rien n'a été mis, il a - <hi rend="i">x.</hi></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">z</hi></cell>
+<cell>Lorsqu'il a été mis un ducat par A, et que B doit jeter.</cell>
+<cell><hi rend="i">z</hi> ∞ <hi rend="i">a - y</hi>/2</cell>
+</row>
+<row>
+<cell>- <hi rend="i">y</hi></cell>
+<cell>Le désavantage du coup, lorsque par A et par B il a été mis <hi rend="i">un</hi> contre <hi rend="i">un</hi>, et que A doit jeter.</cell>
+<cell>- <hi rend="i">y</hi> ∞ <hi rend="i">z - a</hi> + <hi rend="i">q</hi>/2. Ergo - 2<hi rend="i">y</hi> ∞ <hi rend="i">z - a</hi> + <hi rend="i">q.</hi>
+<lb/>
+Lorsque maintenant on met au lieu de <hi rend="i">z</hi> et de <hi rend="i">q</hi> les valeurs qu'on a trouvées, on obtient
+<lb/>
+- 2<hi rend="i">y</hi> ∞ <hi rend="i">a - y</hi>/2 - <hi rend="i">a</hi> + -2<hi rend="i">y</hi> + <hi rend="i">a</hi>/2 et il vient après réduction
+<lb/>
+- 4 <hi rend="i">y</hi> ∞ - 3 <hi rend="i">y</hi> + 2 <hi rend="i">a</hi> - 2 <hi rend="i">a</hi> ou en ajoutant 3 <hi rend="i">y</hi> des deux côtés
+<lb/>
+- <hi rend="i">y</hi> ∞ 2 <hi rend="i">a</hi> - 2 <hi rend="i">a.</hi> Ergo - <hi rend="i">y</hi> ∞ 0<note n="#7"/>
+<lb/>
+Mais <hi rend="i">z</hi> était ∞ <hi rend="i">a - y</hi>/2. Ergo <hi rend="i">z</hi> ∞ 1/2 <hi rend="i">a.</hi> Ergo 3 <hi rend="i">x</hi> ∞ 1/2 <hi rend="i">a</hi> et <hi rend="i">x</hi> ∞ 1/6 <hi rend="i">a.</hi>
+<lb/>
+Quod erat Demonstrandum.</cell>
+</row>
+<row>
+<cell>Nota.
+<lb/>
+Si l'on voudrait nier ce corollaire<note n="#8"/> la question est introuvable, sinon par une progression<note n="#9"/>.</cell>
+<cell>Ergo
+<lb/>
+Lorsque il a été mis 2 contre 2 et que A doit jouer, le désavantage est de nouveau - <hi rend="i">y.</hi></cell>
+<cell></cell>
+</row>
+<row>
+<cell><hi rend="i">q</hi></cell>
+<cell>Lorsque 2 ducats ont été mis par A et un par B, et que B doit jeter.</cell>
+<cell><hi rend="i">q</hi> ∞ - 2 <hi rend="i">y</hi> + <hi rend="i">a</hi>/2</cell>
+</row>
+</table></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

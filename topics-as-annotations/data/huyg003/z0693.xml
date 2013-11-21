@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0693"/>
+<meta type="date" value="1659-12-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duyk004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0693">
+<div type="opener">
+<p>Propositum à le Duc<note n="#1"/> ex libro quodam Arithmetico<note n="#2"/>.</p>
+<p><date>11. Dec. 1659</date>.</p>
+</div>
+<p>Est via 86 miliarium inter urbes A et B. Viator C proficiscitur ab A et conficit unoquoque die, gradu aequabili, miliare unum, sed noctu regreditur quarta parte miliaris; Alter viator D profectus eodem tempore à B, conficit interdiu ¾ miliaris, et regreditur ⅓ miliaris noctu. Quaeritur quota die et qua hora diei sibi futuri sint obviam.</p>
+<p>&nbsp;</p>
+<p>Sit <hi rend="i">y</hi> numerus dierum integrorum, et <hi rend="i">z</hi> numerus horarum qui non potest esse major horis 12, quas nempe cuique luci damus.</p>
+<p>Itaque quot sunt dies integri toties viator C progressus est ¾ miliaris, quia pergit de die miliare 1 et noctu redit ¼ miliaris. Ergo ¾ <hi rend="i">y</hi> sunt miliaria quae confecit diebus integris <hi rend="i">y.</hi></p>
+<p>Similiter viator D quot sunt dies integri toties progressus est 5/12 miliaris. Ergo diebus <hi rend="i">y</hi> confecit miliaria 5/12 <hi rend="i">y.</hi> Ergo addendo utriusque miliaria diebus integris confecta fiunt 7/6<hi rend="i">y.</hi></p>
+<p>Porro quia horis <hi rend="i">z</hi> tantum in anteriora tendunt; ut sciam quantum viae his confecerint, ita rationem ineo. Horis 12 conficiunt unà 1 ¾ miliaris, nam alter 1 miliare alter ¾ miliaris quantum horis <hi rend="i">z</hi> fit 7/48 <hi rend="i">z.</hi> Haec adde 7/6<hi rend="i">y</hi>, fit</p>
+<list>
+<item>7/6<hi rend="i">y</hi> + 7/48 <hi rend="i">z</hi> ∞ 86.</item>
+<item>56<hi rend="i">y</hi> + 7<hi rend="i">z</hi> ∞ 4128.</item>
+<item>7<hi rend="i">z</hi> ∞ 4128 - 56<hi rend="i">y.</hi></item>
+<item><hi rend="i">z</hi> ∞ 589 5/7 - 8 <hi rend="i">y.</hi></item>
+</list>
+<p>Si ergo haberem numerum <hi rend="i">y</hi> dierum integrarum, etiam numerum <hi rend="i">z</hi> horarum inde cognoscerem. Numerum autem <hi rend="i">y</hi> ex eadem hac aequatione fic invenio. Quia enim <hi rend="i">z</hi> est non major quam 12, Ergo et 589 5/7 - 8 <hi rend="i">y</hi> non major quam 12, aufer utrinque 12 et adde 8 <hi rend="i">y.</hi> Ergo 577 5/7 non major quam 8 <hi rend="i">y.</hi> multiplicatur per 7</p>
+<p>4044 non major quam 56 <hi rend="i">y</hi></p>
+<p>72 3/16<note n="#3"/> non major quam <hi rend="i">y.</hi></p>
+<p>Sed <hi rend="i">y</hi> est numerus integer ergo 73 non major <hi rend="i">y.</hi></p>
+<p>Sed quia 589 5/7 - 8 <hi rend="i">y</hi> non est minus nihilo, debet esse 589 5/7 non minus quam 8 <hi rend="i">y</hi>, quare 73 5/7 non minus quam <hi rend="i">y.</hi> Sed <hi rend="i">y</hi> est numerus integer. Ergo 73 non minus quam <hi rend="i">y.</hi></p>
+<p>Si 72 3/16<note n="#4"/> non habuisset fractionem sed fuisset numerus integer puta 72, tum fuisset <hi rend="i">y</hi> numerus dierum integrorum ∞ 72, et <hi rend="i">z</hi> ∞ 12 horae quae simul addita conficerent tempus itineri impensum donec sibi mutuo viatores occurrerent. Nunc autem cum sit <hi rend="i">y</hi> ∞ 73 et <hi rend="i">z</hi> ∞ 589 5/7 - 8 <hi rend="i">y</hi> fit <hi rend="i">z</hi> ∞ 5 5/7 horas.</p>
+<p>Ergo totum tempus itineris, dies 73, horae 5 5/7.</p>
+</div>
+</body>
+</text>
+</TEI>

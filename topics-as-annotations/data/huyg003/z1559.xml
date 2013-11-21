@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1559"/>
+<meta type="date" value="1666-08"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1559">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>durant que vous estiés encore a la Haye Monsieur Graindorge<note n="#1"/> m'enuoya vn Exemplaire du Traitte<note n="#2"/> quil fit de la lumiere et du feu contre celuy de Monsieur Vossius<note n="#3"/>, et me pria de vous le faire tenir. Mais l'occasion men manquant il est demeuré meslé parmi d'autres papiers, dont ayant hier affaire je le rencontray auec plaisir et estonnement, la memoire men estant eschappée depuis vostre arriuée icy.</p>
+<p>Le Porteur vous le mettra entre les mains. Si vous en voules faire vn compliment a lAutheur je vous soulageray du soin de le luy enuoyer ayant à luy respondre<note n="#4"/> a vne lettre par laquelle il me donne auis qu'il replique<note n="#5"/> à la defense<note n="#6"/> que nostre Ami<note n="#7"/> a faitte et imprimée de ce qui luy a esté opposé fur son opinion. Mon mal me trauaille encore beaucoup. Sitost que jen seray soulagé je vous iray entretenir de cela plus particulierement.</p>
+<p>Cependant je demeure auec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huggens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

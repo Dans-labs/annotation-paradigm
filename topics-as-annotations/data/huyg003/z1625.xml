@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1625"/>
+<meta type="date" value="1668-02-16"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1625">
+<p lang="it">Signor Cristiano. Hauendo il nostro Dottore <persName key="redi901">francesco Redi</persName><note n="#1"/> ultimamente dato alla Luce un Libro<note n="#2"/> sopra la Generazione degl' Jnsetti, hò giudicato conueniente che peruenga sotto gli occhi di Vestra Signoria che dignamente gode d'esser connumerata tra Virtuosi uiuenti. Dal pensiero che hò io hauuto d'inuiare à Vestra Signoria questa Operetta si compiacerà di comprendere quanto io stimi la sua Persona, e quanto si desiderino dà mè le occasioni di darle i segni più ueri del mio parzialissimo affetto; onde le attenderò talora per mia consolazione; mentre mi offerisco à Vestra Signoria augurandole intanto perfetta felicità.</p>
+<div type="closer">
+<p lang="it">Di firenze il Di 15 di febbraio 1668 ab Incarnatione.</p>
+<p lang="it">Al Piacer di Vestra Signoria Il Cardinale <persName key="medi012">de Medicis</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it">Signor <persName key="huyg003">Vgenio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

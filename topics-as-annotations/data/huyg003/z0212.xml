@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0212"/>
+<meta type="date" value="1654-12-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0212">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Francisco Schotenio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.P.</p>
+</div>
+<p>Recte hoc et peramice abs te factum Schoteni Clarissime quod ad legendas quae tibi scribantur epistolas me quoque veterem discipulum tuum admittis. Igitur plurimum tibi eo nomine debeo.
+Jam primum didici Dominum <persName key="pasc001">Paschalium</persName> Geometriae studio addictum esse quo etiam excellere videtur. Sexta ejus Arithmeticarum tractationum<note n="#1"/> egregia fuerit, si ultra cubum aliarum quarum libet potestatum summas colligere compendio monstret. Nona captum meum superat si bene titulo suo respondet. Prima inter Geometricas etiam temeraria videri possit. Tertia ad te pertinet sed facile puto editione praevenies; quod si contra eveniat ego tamen ita existimo, neminem suspicaturum aliunde te edoctum demonstrationes tuas Planorum locorum composuisse ne quidem si Apollonij ipsius deperdita scripta referantur.
+Porro opera <persName key="pasc001">Paschalij</persName> ubi acceperis examinaverisque etiam me inspicere sinito: Item quod ex Italia novum repertum prodibit, talium enim mirum in modum sum cupidus. Problemata duo quae à Milonio<note n="#2"/> accepisti bene composita et demonstrata videntur. Tu si quas invicem Propositiones novas ad illum mittere destinas, gratissimum mihi facies, si ex ijs quas ultimò edidi aliquam adjunxeris, decimam vel 14<hi rend="sup">tam</hi> vel utramque: nam demonstrationes addere neque opus neque fieri potest, quando ab alijs multis deducuntur. Exemplum hujus libelli mei ante dies paucos
+Elisabethae Principi<note n="#3"/> misimus quae et prioribus nostris Theorematibus se delectatam fuisse significare dignata est. Quod de Cardani regulis respondes earum originem à Stevinio demonstratam esse; fateor eo modo illas inveniri potuisse, sed per Cartesianam Algebram simplicior via est, neque omnino difficilior aut dissimilis reliquis aequationum transmutationibus quae aucta vel diminuta radice perficiuntur, ut cubi figura in partes dissecti quae apud Stevinium est non sit opus. Demonstrationes meae de Perspicillis quo tardius summam manum accipiant ipsa perspicilla in causa sunt. Nuper enim hisce fabricandis animum adjeci, necessariam esse corpori exercitationem intelligens nec inveniens cui labori jucundius utiliusve vacarem. Itaque tubos mihi comparavi eximios utriusque generis alij enim ad propinquas alij ad longè dissitas res inspiciendas apti sunt. Hi decem pedum sunt longitudine illi unius tantum; utrique visae res diametrum quadragies multiplicant, superficiemque proinde millies sexenties. lunam et sidera tanto propius contueri dignum est operaepretium.</p>
+<p>Extrema in epistola rursus mihi de Regulis motus suades uti incepto operi supersedeam. Cur autem me inauditum condemnas? aut quid tibi in mentem venit ut ingratum etiam diceres sicubi falsum prodidisse Cartesium demonstrare conarer, hoc est si hominem eum fuisse contenderem. Crede mihi, eorum est non hallucinari qui nihil efficiunt. Ergo in tanta rerum novitate aliquem illi errorem subrepsisse neque mirandum erit neque turpe: ego autem ingratus minimè, qui non alia re majores gratias haberi illustribus ingenijs arbitror quam si monumenta eorum accuratissimo dignemur examine. Quod ex Algebra petitas regulas suas Cartesius ipse professus est; sane non ignoras solam in his Algebram nihil determinare posse, sed principia ante ex motus penetralibus accersenda, quorum equidem plurima rectè a Cartesio constituta fateor, neque tamen omnia. Easdem regulas ad Reliquam ejus Philosophiam haud magnopere pertinere neque multum referre ut pro veris habeantur meritò existimare videtur Dominus <persName>de Raeij</persName>. Ea verò quas ego inveni quum evidentibus causis nitantur, non dubito quin ad naturae contemplationem adjumentum daturae sint; certe quum experimentis planè respondeant plurimam adferre utilitatem humanis rebus necesse est. Sed haec apud te frustra adhuc, neque id valde miror. Mirabor autem si intellectis rationibus nostris in sententia perstes. Interim rogo ne adeo sis iniquus ut quod ego pro modulo ingenij mei prae caeteris omnibus inventis subtiliter excogitasse mihi persuadeo, id tibi ostendi nolis. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>. <date>27 Dec. 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer De Heer <persName key="scho197">Fr. van Schooten</persName>, Professor der Mathematiquen inde Universiteyt
+<lb/>Heeresteegh.
+<lb/>Tot Leyden.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2070"/>
+<meta type="date" value="1675-10-31"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="brou051"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2069"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2070">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 31 oct. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je prens la liberte de vous escrire ces lignes, y estant obligè par l'interest que ie prens en l'honneur de M. Oldenburg et au mien propre puisque j'apprends que l'un et l'autre est attaquè par les calomnies de Mr. <persName key="hook001">Hook</persName> au suject des nouuelles montres, dont il pretend estre l'inuenteur, et dit auec beaucoup d'effronterie, que M. Oldenburg m'ayant decouuert son secret, c'est en recompense de cela et de ce qu'il me sert d'espion dans la Soc. Royale, que ie luy ay cedè mon droit de demander priuilege pour cete invention en Angleterre. J'ay creu Monsieur que pour me justifier et M. Oldenburg en mesme temps d'une crimination si fausse et si indigne, ie ne pouuois pas m'adresser mieux qu'a vous, esperant que vous adjouterez quelque croiance a ce que je diray, et scachant que le rang que vous tenez, et la reputation que vous avez d'integritè et d'equitè donneront grand poids au jugement que vous ferez de cete affaire. Je dis donc, et ie vous garantis sur mon honeur que ie dis vray, que ni cete fois, ni jamais auparavant Mr. <persName key="olde010">Oldenburg</persName> ne m'a communiquè aucune invention ni entreprise de par de là, dont ie creusse qu'on fit un secret; et que quant a cette derniere, c'est moy qui luy ay mandè le premier (sans rien scavoir de ce que Mr. <persName key="hook001">Hook</persName> pourroit auoir tentè) que j'auois trouvè une nouuelle invention d'horloge, dont ie luy envoyay le secret, cachè sous un anagramme<note n="#1"/> qui est, comme vous scavez, une precaution inventée par Galilée, et qui est tres utile. Il me respondit par sa lettre du 2<hi rend="sup">e</hi> février<note n="#2"/> en ces mots: <hi rend="i">J'ay fait voir a nos communs amis l'anagramme touchant vostre nouuelle invention d'horologes. Ils m'ont tesmoignè leur
+grand desir d'en voir l'effect</hi>, <hi rend="i">et s'en promettent des nouvelles de vostre bontè</hi>.</p>
+<p>Il n'adjouta rien touchant Mr. <persName key="hook001">Hook</persName>, mais quand ie luy eus envoyè<note n="#3"/> en suite une description de l'invention, il me manda dans sa response de l' 11 mars<note n="#4"/> que M. Hooke disoit d'auoir trouuè une chose semblable à ce qu'il croioit, il y avoit quelques annees, laquelle pourtant ne reussit pas alors conformement a son esperance, mais qu'il la croioit pouvoir estre reduit à une plus grande perfection. C'est là la premiere nouuelle que j'ay eüe des pretensions de M. Hooke les quelles j'ay pris pour un effect de sa vanitè accoustumée de vouloir avoir inventè toute chose: et quant a la maniere de sa construction, ie l'ignore encore. Il est donc faux qu'en recompense de m'auoir rien decouuert i'aye voulu gratifier Mr. <persName key="olde010">Oldenburg</persName>, et le seul motif que j'ay eu pour cela, c'est que j'ay creu qu'il meritoit bien de profiter quelque chose des nouuelles inventions qu'il a tant de soin de publier dans ses Transactions, au grand avantage des sciences, et que d'ailleurs il en pourroit auoir plus besoin qu'aucun autre de mes amis en Angleterre. Il seroit fort malheureux, si au lieu du bien que j'ay eu dessein de luy procurer il recevoit de la honte et du deplaisir. Mais personne ne sera si injuste que de le condamner sur la simple accusation d'un homme tel que M. Hooke, qui de plus est poussè dans ce rencontre par son interest. Et j'ose esperer de la bontè du Roy, qu'estant informè de la chose, il ne permettra pas que l'innocence de Mr. <persName key="olde010">Oldenburg</persName> soit opprimée, ni que je sois blasmè à tort. Je vous prie tres humblement de vouloir contribuer de vostre costè pour empescher une si grande injustice et de croire qu'il n'y a personne qui vous honore d'avantage ni qui soit plus
+veritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

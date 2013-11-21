@@ -1,0 +1,142 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0906"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="thev001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0905"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0906">
+<p>Observatio Riccioli annorum 1648, 1649 exhibet diametrum annuli ad diametrum globi, ut 256 ad 143.</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>Divini</cell>
+<cell>1647</cell>
+<cell>32¼</cell>
+<cell>-</cell>
+<cell>14</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2"></cell>
+<cell>1648</cell>
+<cell>ut 274</cell>
+<cell>-</cell>
+<cell>119</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>14</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>_____</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>1096</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>274</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>_____</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell>2628 } 32¼</cell>
+<cell cols="2"></cell>
+<cell>3836</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell>3836 } 32¼</cell>
+<cell cols="6"></cell>
+</row>
+<row>
+<cell>1199 } 32¼</cell>
+<cell cols="6"></cell>
+</row>
+<row>
+<cell>11 } 32¼</cell>
+<cell cols="6"></cell>
+</row>
+<row>
+<cell></cell>
+<cell>Ricciolo</cell>
+<cell>1650</cell>
+<cell>307</cell>
+<cell>-</cell>
+<cell>158</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>14</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>_____</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>1228</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>307</cell>
+<cell cols="2"></cell>
+<cell>11332 } 27⅕</cell>
+</row>
+<row>
+<cell cols="3"></cell>
+<cell>4298</cell>
+<cell cols="2"></cell>
+<cell>4298 } 27⅕</cell>
+</row>
+<row>
+<cell cols="6"></cell>
+<cell>1588 } 27⅕</cell>
+</row>
+<row>
+<cell cols="6"></cell>
+<cell>15 } 27⅕</cell>
+</row>
+</table></p>
+<p><table>
+<row>
+<cell>Riccioli 1648,49</cell>
+<cell>25</cell>
+<cell>14</cell>
+</row>
+<row>
+<cell>Idem 1650</cell>
+<cell>27⅕</cell>
+<cell>14</cell>
+</row>
+<row>
+<cell>Divini 1646, 47, 48</cell>
+<cell>32¼</cell>
+<cell>14</cell>
+</row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

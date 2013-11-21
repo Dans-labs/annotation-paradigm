@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0657"/>
+<meta type="date" value="1659-08-24"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0657">
+<div type="opener">
+<p lang="la">Clarissime Domine</p>
+</div>
+<p>Communico tibi quae Roma, ad me, quidam<note n="#1"/> e meis discipulis, ante pauculos menses, eo missus, 2<hi rend="sup">a</hi> Augusti scribit<note n="#2"/>.</p>
+<p>Vides hinc, quam prudenter consilio illorum morem gesseris, qui publicj ivris faceres tuam Jnuentionem, authores fuerunt. etiam Roma Jnuentum foetumque tuum admiratur. Finio rogans me solito affectu prosequare.</p>
+<div type="closer">
+<p>Tuus quem nosti <persName key="vinc027">Greg. a Sto Vincentio</persName>.</p>
+<p><placeName key="gent_001">Gandauj</placeName> <date>24 Aug. 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio a Zulichem</persName> <placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0393"/>
+<meta type="date" value="1657-07-11"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0393">
+<div type="opener">
+<p>Nobilis et Clarissime Domine.</p>
+</div>
+<p>Geometricos hosce flosculos<note n="#2"/> quos Tibi non ingratos fore spem fecit Illustrissimus Parens tuus<note n="#3"/>, eo libentius misi, quod ex ijs abunde perspecturum cognoui quantum ex librorum tuorum lectione profecerim. Eâ se commendatione iactant quod recentes sunt, et quod in hortis tuis natj ex Jurisconsultorum sententiâ tui censeri debeant. Perge igitur, cum bono Deo, beare nos sublimibus illis tuis inuentis, sed Dioptricis maximé, quibus subuectus senis illius Deorum parentis cum Lunulâ suâ amores primus obseruasti. Absconditos hactenus, vt arbitror, quia seniles; sed <hi rend="i">γέροντα νεανιεύεσ ϑαι</hi> impune non es passus: arctis enim compedibus innexum mortalibus indicasti; et quod olim Marti ac Veneri Phoebus et Mulciber, id Saturno eiusque Lunulae vnus Hugenius fuit. <hi rend="i">μήνυτρον</hi> Tibi debet posteritas, et grato animo soluet pro indicinâ gloriam immortalem. Tantum nos doce quibus machinis coelo te admoueris, vt quod autoritate persuades, id nostris etiam sensibus hauriamus.</p>
+<p>Clarissimum Scotenium, quem merito suo magnifacio, meo nomine, nj graue est, salutatum velim, ac monitum vt non temere Clarissimo Gutscouio fidem habeat cum de amicis scribit. Solet enim plusculum indulgere affectuj, et cetera perspicax <hi rend="i">ϰαὶ ἄμεμπτος</hi> in hac vnâ re, honestissimo licet errore, <hi rend="i">παραλογίζεται.</hi> Decet interim cum omnes homines tum vel maximé Geometricis sacris imbutos <hi rend="i">προτιμᾷν τὴν ἀλήϑειαν</hi> vt ait ille. Ego meo me modulo ac pede metiri didicj: maxime cum si quam habuj hactenus in rebus mathematicis facultatem (quae quam exigua sit vnus omnium optime nouj,) quotidie fieri minorem experiar. Sum enim in eâ ciuitate, in quâ librorum qui Geometrica tractent, rarus, pene nullus virorum qui ea curent, prouentus est. Accedunt alia studia quibus inuoluj me opus est vel <hi rend="i">τὰ ϰαϑήϰοντα</hi>
+<hi rend="i">προδιδόναι.</hi> Itaque me non in Geometrarum censu reponas velim, sed eum existimes quj ex animo <hi rend="i">εὔχεται εἶναι</hi></p>
+<div type="closer">
+<p>Tuus et Virtutj Tuae deuotus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>IIIJ Non. Iulias MDCLVIJ</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

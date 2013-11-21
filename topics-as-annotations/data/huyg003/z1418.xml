@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1418"/>
+<meta type="date" value="1665-06-12"/>
+<meta type="sender" value="holl075"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1418">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 12 de Juin 65.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay veu vne lettre qu'il vous a plû escrire<note n="#1"/> au Secretaire<note n="#2"/> de Monsieur l'Ambassadeur de Hollande<note n="#3"/>, par la quelle Ie vois la bonté que vous auez eue pour moy, d'auoir voulu vous donner la peine de me faire faire vn horloge selon vostre nouuelle inuention. Je ne doute pas que ce ne soit quelque chose de bien rare &amp; excellente, et J'en auray asseurement vne estime conforme, &amp; vne tres grande recognoissance de la faueur que vous m'y auez faite &amp; de l'obligation que Je vous en ay: c'a este Monsieur vostre pere qui m'a donné la hardiesse d'y penser seulement a vous donner vne telle importunité, c'est pourquoy il s'en faudra prendre a
+luy, &amp; pour ce qui est de moy Je vous supplie de me le pardonner. Cependant il vous plairra aiouster a la grace que vous m'auez desia faite encore celle ci; de donner ordre a l'horloger de le bien mettre en vne bonne quaisse bien forte (celuy que J'ay desia a sa quaisse ou il y<note n="#4"/> vne viz qui passe &amp; la tient en estat qu'on la porteroit par tout le monde sans y faire aucun mal) &amp; puis le faire tenir a vn Monsieur Godin<note n="#5"/> d'Amsterdam qui est correspondant de Monsieur Poquelin<note n="#6"/> de Paris, &amp; a charge de luy de payer tout ce qu'il faut, &amp; auoir soin de le luy enuoyer icy.</p>
+<p>Je suis bien effronté Monsieur a vous donner tant de peine, mais<note n="#7"/> auez Je sçay de la bonte hereditaire pour moy, &amp; Monsieur vostre Pere vous en rendra grâces pour moy, qui suis &amp; seray toute ma vie</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="holl075">Holles</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName>. A La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

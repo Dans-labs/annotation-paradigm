@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1879"/>
+<meta type="date" value="1672-04-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1879">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 8 Avril 1672.</p>
+</div>
+<p>J'avois oublié la semaine passée de vous envoier cette lettre du bon Monsieur Perrault, de quoy vous aurez soin s'il vous plait de ne le point avertir en luy faisant response. Il a fort fait valoir ce que vous avez mis dans vostre lettre, de <hi rend="i">pauures exhalaisons</hi> que nous sommes. Il y a quelques jours que l'on m'a expediè ordonnance pour le quartier dont je vous ay parlè dans ma precedente<note n="#1"/> et depuis avant hier j'ay asseurance que je resteray icy pendant les troubles, en ayant estè parler expres a Monsieur Colbert.</p>
+<p>Hier on declara la guere par cette ville. Les nouuelles d'Angleterre sont bien estranges touchant cette liberté accordée a l'exercice de la Religion Romaine et je seray estonnè si cela ne fait pas du bruit en ce païs la, ou l'on voit bien, quorsum illa tendant, et a ce que l'on m'a appris, la chose n'y a pas estè bien receue. Icy l'on veut dire, depuis quelques jours, que l'Espagne auroit quitè nostre alliance conclue et ratifiée depuis si peu mais j'ay de la peine a le croire.</p>
+<p>Adieu. Je n'ay rien receu par l'ordinaire dernier.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huijgens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

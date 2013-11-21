@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2320"/>
+<meta type="date" value="1683-09-14"/>
+<meta type="sender" value="bayl001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rotte002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2320">
+<div type="opener">
+<p>A Rotterdam ce 14 de Sept. 1683.</p>
+<p>Monsieur</p>
+</div>
+<p>Si ie n'avois pas un dessein bien expres de vous donner une marque du respect que i'ay pour votre excellent merite ie ne me hazarderois pas de vous
+presenter un Exemplaire de la seconde Edition de la lettre sur les Cometes<note n="#2"/>, car c'est peu de chose pour un genie comme vous qu'un ouurage tel que celui là, où on ne voit ni beaucoup de physique, ni aucune matiere de Geometrie et d'Astronomie. Mais comme vous etes fort universel, i'ai cru apres y avoir bien pensé qu'il n'y a point de livre qui ne soit de votre ressort. Cela meme m'eust peu detourner de vous presenter celui cy, si i'avois en assez de vanité pour aspirer à la gloire de votre approbation, mais c'est Monsieur un trop grand bien pour y pretendre, il me doit suffire que vous agreiez que ie vous donne cette marque d'hommage que tous les philosophes grands et petits vous doivent. Je suis avec beaucoup de respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="bayl001">Bayle</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huigens</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

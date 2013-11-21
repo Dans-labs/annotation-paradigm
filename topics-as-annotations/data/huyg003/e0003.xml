@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0003e"/>
+<meta type="date" value="1644-06-23"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta resp="ed" type="recipientloc" value="assen003"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="e0003">
+<div type="opener">
+<p>Perillustris Domine.</p>
+</div>
+<p>Quandoquidem Homerum, poëseos et deorum quotquot habet diva Ilias, unicum certissimumque parentem, deinceps lecturi sumus, de emendatissimâ editione per bibliopolia inquisivi. commendatur prae caeteris ea in folio Graeco-Latina quam Jacobus Spondanus<note n="#3"/>, excudente Sebastiano Henrico-Petri, Basileae procuravit<note n="#4"/>. Duumviri nostri majorum gentium stupendos, faciunt in Mathesi progressus. maximè tamen minor et Christianissimus fratrum (ut est ingenio ad eam rem unicè factus) excellit, teste quidem Stampioenio, nam mihi, cum <hi rend="i">ἀγεωμετ ρήτατος</hi> mortalium sim, <hi rend="i">scholam istam per Samij senis legem intrare non licet</hi>, (<hi rend="i">ουδείς ἀγεωμέτρ
+ητος
+ἐισίτω</hi>, ajebat Pythagoras) tantum abest ut judicium vel possim vel ausim interponere. Saltem, quod possum, longè vestigia adoro. Stupere licet, at quando non licet sequi. Philippulo praecipuè ac Ludovico deinceps video deberi. Si quid in arte meâ possum promittere curae, quandoquidem Constantini jam atque Christiani, si non aetas, certè eruditio magisterium meum excessit. Exemplaria Poëmatum tuorum, operis divini, ad duodecimo, ita ut imperaveras, compacta mitto. Exspecto dum placeat de pretio ac distributione reliquorum ad me scribere. In mentem venit jam mihi, vel per Clarissimum Barlaeum vel quovis modo perfacilè curari posse ut <hi rend="i">litteris</hi> Amstelodamensium Mercurialibus sive <hi rend="i">cursorijs</hi> (<hi rend="i">in de Courranten</hi>) subjungatur, poëmata Zulichemi domini Latina apud Elzevirios Leidae atque Hagae edita esse. Ita statim forent in ore non Amstelodamensibus duntaxat (quos video prae caeteris hodie Batavis ingeniorum amatores) sed et omni populo et omnibus hebdomadalium mendaciorum Lectoribus. Vale perillustris domine.</p>
+<div type="closer">
+<p>Raptissime. <placeName key="denha004">Hagae</placeName> <date>IX Kal. quintil CIƆIƆCXLIV</date>.</p>
+<p>Tuus omni obsequio servus <persName key="brun004">Henricus Bruno</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heere, Mijn Heere <persName key="huyg001">van Zuijlichem</persName>, Ridder, Raed en Secretaris van Sijn Hoogheyt, etc.
+<lb/>In 't Legher.
+<lb/>Met een pacquet boecken.</p>
+</div>
+</body>
+</text>
+</TEI>

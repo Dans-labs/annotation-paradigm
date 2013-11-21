@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0112"/>
+<meta type="date" value="1652-01-12"/>
+<meta type="sender" value="sara003"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0112">
+<div type="opener">
+<p lang="la">Clarissime Domine.</p>
+</div>
+<p>Magnâ auiditate librum tuum<note n="#1"/> expectaueram, nec minore legi. quinimo iuuat diutius expectasse; nescio enim an non mora ipsa orexin excitaret; ut enim librum vidi, ad legendum eum illico quasi compulsus sum. aliis tamen admodum impeditus. Hoc scio habuisse me magnum operae pretium, quidlibet enim me nouitate suâ delectabat, non tamen quaevis admirari solitum praesertim in Geometricis. Illud etiam non illepidum accidit, quod dum libellum peruoluere me puto, librum absolutum omni ex parte inuenerim, si non mole pensentur libri sed re. nec adeo Archimedaea Circuli dimensio tribus admodum propositionibus comprehensa liber non est; quin potius maiorem credidi semper, quod paruus sit. Habuisti sanè virum quem imitaveris Archimedem ipsum, quemque proponendi methodo, Geometricoque demonstrandi modo exprimis sanè feliciter. hoc est enimuero Geometram agere: quales vtinam omnes essent ii, qui hoc sese nomine circumspici gaudent hodie. Inuenis feliciter, proponis dilucidè, neruosè demonstras; demum Geometra es.</p>
+<p>Dubium quod circa Quadraturam Patris Gregorii secundâ proponis parte, clarè exprimis, et quod maximè optabam modestè. vellem humanitatem eiusmodi Galli quidam in suis scriptis prae se ferrent. responsionem haec res meretur auctore dignam, hoc est Geometricam et humanam: elucidabitur hoc modo plane res, clamoribus tantum intricanda. neque si responsio differtur, negatur: commodius si quidem, ad plura quae proponuntur, respondebitur libro vnico, quam si singula quae reponentur, in singulos libellos distrahantur. Illud tamen modo indico, primam quadraturam, non idcirco praecipuam quia prima; prima est quia primam casus fecit. verum id modo non ago vt respondeam.</p>
+<p>Perge interim Mathesin exornare inventis tuis vt coepisti, te plane dignis; messis in herbâ est, non quod excrescere debeat vt maturescat, sed quod vix lucem aspexerit, quin maturam Mathesi messim protulerit labor tuus. Consenescit paullatim Pater Gregorius: sed quis neget feracissimam adhuc esse senis venam? quod si tamen haec exaruerit aliquando, reuiuescet illa in te, vt cui vegetior aetas multos adhuc annos spondeat, quibus plura è veritatis fundo erui poterunt, ab eo qui veritatis tam est studiosus. non enim vt pulchrè animadvertis facimus vera, sed invenimus. felicissimi
+sanè Geometrae imo et Vranometrae futuri, si inveniamus aeterna. quod quidem Tibi cum felicissimo huius anni auspicio ex animo precor.</p>
+<div type="closer">
+<p>Clarissimae Dominationis Tuae Seruus <persName key="sara003">Alfonsus Ant. de Sarasa</persName>.</p>
+<p><placeName key="gent_001">Gand</placeName>. <date>12 Jan. 1652</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Domino D<hi rend="sup">o</hi>. <persName key="huyg003">Christiano Hugenio</persName>.
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0903"/>
+<meta type="date" value="1661-10-05"/>
+<meta type="sender" value="vlie013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0903">
+<div type="opener">
+<p><persName key="huyg003">Christiano Hugenio</persName> suo, Viro Nobilissimo <persName key="vlie013">Janus Vlitius</persName> S.</p>
+</div>
+<p>Itane aequum fuit Ludovicum nostrum insalutatis amicis Bredae moenia legere bis, tandemque iterum patrijs proficiscier oris? Quod, quo nobis propior fuit, eo impatientius fero. Si morari commodum non erat.</p>
+<p>At salve simul atque vale uno ore tulisset, quod de Zirizaeis amicos adventantes excipientibus fertur. Tanti tamen mihi emtum, ut te nunc, Politissime Hugeni, non filium, sed patrem familias salutare liceat. Nec morosum ideo te nunc adeo factum puto, ut quae nunc a paternitate tua (si ita licet) primum peto, protinus recuses. Primum est, ut literas has ad Rivetum cures, si Hagae est; dubito enim; sin minus, ipse reseratas inspicias, consideresque qua ratione id, quod peto, commode impetrare possim; delineationem nimirum arcis Seabergensis<note n="#1"/>, quae aulaeis Principis Dominae, quae Hagae bifariam intexta in proaulio visitur. Postius<note n="#2"/>
+vereor ut authenticum suum (nam is delineavit) communicare nobiscum velit. Alterum (nisi jam nimius sum interpellator caelestis studij tui) ut ex Bibliotheca <hi rend="i">τ<figure rend="inline"><graphic url="huyg003oeuv03fi06.gif"></graphic></figure> δεινὸς</hi> Ludovici depromas mittasque per nautam Origines Menagij<note n="#3"/>; quas confutare animus est<note n="#4"/>; ut Frater tuus jam etiam ex parte id aggressus erat. Sed mihi major rationum argumentorumque copia ex linguis, quas neuter, ille nec fando, novere. Si quid vicissim imperaveris, pro jure tuo ac imperio, quod merum in me habes, feceris. Quid novi interim ex Anglia? Stupeo. Quid Vossius et optimus senex Junius<note n="#5"/> moliuntur? Sed interim annus est quod nihil de illis inaudiverim. Quid de Heinsio, et deperditissima lite<note n="#6"/> ejus? Denique quid tumes ipse, qui non potes otiosus esse?</p>
+<p>Ignosce ergo, quod te interrumpam. Vale Terrarum Coelique decus.</p>
+<p>E Musaeo meo Bredae <hi rend="i">ὡς τάχιστα</hi>, <hi rend="sc">iii</hi>. Nonas Octobris <hi rend="sc">cIɔ Iɔclxi</hi>.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer Jonkheer <persName key="huyg003">Christiaen Huygens van Zuylechem</persName> &amp;c. Haghe.
+<lb/>IIII</p>
+</div>
+</body>
+</text>
+</TEI>

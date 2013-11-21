@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0539"/>
+<meta type="date" value="1658-10-25"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0539">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Destinaui hodie Tuas<note n="#1"/> ad Clarissimum Riccium (de quo eundem iam a diebus quindecim praemonueram) et aliud exemplar addidi figurae horologij tuj, vt sj, quod futurum arbitror, quidam ibj libellum tuum vel magnam saltem eius partem exscriberent, illius depingendae labore leuarentur. Vallisium<note n="#2"/> ad Te redijsse iam spero, in quo multa mihi placuerunt, licet rebus arithmeticis, non aeque ac Geometricis delecter. Reperi interim in Aduersarijs meis Problema non alienum ab hac materiâ, quod licet magnis illis logistis fortasse indignum sit, tamen Arithmeticorum de triuio facile solertiam eluderet. Est autem huiusmodj. Apud Pythagoricos olim in pretio fuerunt hi numerj, 16, et 18, quod soli inter omnes integros, ille quadratus, hic planus aream, vt ita dicam, haberent ambituj aequalem<note n="#3"/>. Quaesiuj itaque num in datâ qualibet ratione ambitus ad aream, semper reperiri possent numerj quadratj vel planj; et an vnus vel plures; vel num Problema in aliquibus terminis esset impossibile: et vnicâ regulâ rem absoluj. De quadratis difficultas magna non est, de planis paulo maior: Exempli gratiâ inuenire numerum planum cuius area ad ambitum (liceat enim ita <hi rend="i">ϰαταχρηςιϰῶς</hi> loquj) habeat rationem triplam, sesquialteram, sesquitertiam &amp;c. Ex tribus his exemplis facile canon vniversalis elicietur, qui statim Tibj occurret si tanti iudicaueris rem examinare. Apollonium<note n="#4"/>, de
+quo Clarissimus Bullialdus, eum ipsum esse suspicor, quem vidj et indicauj cum Bibliothecam Mediceam iussu serenissimj Principis Leopoldj ab Hetruriâ perlustrarem. Est autem Arabicus totus, et tum mihj primo aspectu (nam immorarj non vacabat abiturientj) potius Epitome Conicorum, quam ipsi libri quos quaerimus videbatur. <hi rend="i">ϕαινόμενον</hi>, quod Physicas Academiarum rationes miré conturbat, obseruare nondum licuit. Doleo interim quod litibus vexeris, quas verecundâ, vt jurisconsultus ait, cogitatione execror, licet in ijs sim totus; sed alienis non meis, et in quibus sententiam fero non expecto. Quantum autem
+hoc studijs aduersetur, expertus scio. Vale Vir praestantissime meque in censu Tuo semper habe</p>
+<div type="closer">
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>25 8bris 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

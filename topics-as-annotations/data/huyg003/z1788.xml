@@ -1,0 +1,192 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1788"/>
+<meta type="date" value="1669"/>
+<meta type="sender" value="dula010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1788">
+<div type="section">
+<head rend="h4">1<hi rend="sup">um</hi> Lemma ex Vieta.</head>
+<p>Si in circulo <hi rend="i">obc</hi> inscripta <hi rend="i">bc</hi> producatur ad <hi rend="i">d</hi><note n="#1"/>, ita ut <hi rend="i">bd</hi> sit dupla <hi rend="i">bc</hi>, jungaturque <hi rend="i">od</hi>, cui agatur a puncto <hi rend="i">b</hi> parallela <hi rend="i">fb</hi>. Tum a puncto <hi rend="i">o</hi>. ad rectam <hi rend="i">gb</hi> ducatur <hi rend="i">og</hi>, ita ut intersegmentum <hi rend="i">gf</hi> sit aequale <hi rend="i">or</hi>. Dico <hi rend="i">rs. gb. gr. be</hi>∺.</p>
+</div>
+<div type="section">
+<head rend="h4">Demonstratio.</head>
+<p>Ex hypothesi <hi rend="i">ad</hi> parallela est rectae <hi rend="i">fb</hi>. Igitur <hi rend="i">gf. gb</hi>∷(<hi rend="i">fo</hi> Π) <hi rend="i">gr. bd</hi>. Atqui <hi rend="i">gf. rs</hi>∷<hi rend="i">bc. bd</hi>. Quare <hi rend="i">rs. gb</hi>∷<hi rend="i">gr. bc</hi>, et <hi rend="i">rs. gr</hi>∷<hi rend="i">gb. bc</hi>, et alterne componendo <hi rend="i">gs. gc</hi>∷<hi rend="i">gr. bc</hi>. Est autem □ <hi rend="i">sgr</hi> Π□ <hi rend="i">cgb</hi>. Igitur <hi rend="i">gs. gc</hi>∷<hi rend="i">gb. gr</hi>.∷<hi rend="i">gr. bc</hi>. ergo <hi rend="i">rs. gb. gr. bc</hi> ∺ vt erat ostendendum.</p>
+</div>
+<div type="section">
+<head rend="h4">Problema.</head>
+<p>Inter duas datas rectas lineas duas medias proportionales inuenire per planorum doctrinam.</p>
+</div>
+<div type="section">
+<head rend="h4">Datum.</head>
+<p>Dentur duae rectae 2<hi rend="i">r</hi> major, et <hi rend="i">c</hi> minor, inter quas inueniendae sint duae mediae proportionales.</p>
+</div>
+<div type="section">
+<head rend="h4">Constructio.</head>
+<p>Centro <hi rend="i">o</hi>, interuallo <hi rend="i">or</hi>, vel <hi rend="i">os</hi> Π<hi rend="i">r</hi> fiat circulus <hi rend="i">obc</hi>, in quo aptetur <hi rend="i">bc</hi> aequalis <hi rend="i">c</hi> supponatur autem per lemmatis doctrinam inter <hi rend="i">rs</hi>, et <hi rend="i">bc</hi> siue inter 2<hi rend="i">r</hi>, et <hi rend="i">c</hi> inuentas esse duas medias proportionales <hi rend="i">gb</hi>, et <hi rend="i">gr</hi> vt in diagrammate apparet. Tum ex punctis <hi rend="i">o</hi>, et <hi rend="i">f</hi> ducantur <hi rend="i">ok</hi>, et <hi rend="i">fy</hi> perpendiculares ad <hi rend="i">gd</hi>, atque <hi rend="i">ob</hi> in 1<hi rend="sup">a</hi> figura vel <hi rend="i">oϕ</hi> in alijs figuris perpendicularis ad <hi rend="i">fz</hi>. Deinde super <hi rend="i">ob</hi>, vel <hi rend="i">oϕ</hi> atque etiam super <hi rend="i">gf</hi>, spatio <hi rend="i">no</hi>, et <hi rend="i">ng</hi>Π ½<hi rend="i">r</hi> describantur circuli <hi rend="i">nom</hi>, <hi rend="i">ngy</hi> transeuntes per puncta, <hi rend="i">f</hi>, et <hi rend="i">o</hi>, et quidem circulus <hi rend="i">bom</hi> tanget <hi rend="i">hd</hi> in puncto <hi rend="i">o</hi>, ob rectarum <hi rend="i">bo</hi> vel <hi rend="i">qo</hi>, et <hi rend="i">hd</hi> inter se perpendicularitatem, circulus vero <hi rend="i">ngy</hi> secabit rectam <hi rend="i">fb</hi> quousque opus erit productam in aliquo puncto vt in <hi rend="i">v</hi> quoniam <hi rend="i">vf</hi> obliqua est ad <hi rend="i">gf</hi>, ut transibit
+per punctum <hi rend="i">y</hi> nam angulus <hi rend="i">gyf</hi> est in semicirculo <hi rend="i">gfy</hi>, demum ducta <hi rend="i">ov</hi> producta donec occurrat <hi rend="i">od</hi> in puncto <hi rend="i">h</hi>, agatur <hi rend="i">vy</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">Analysis 1<hi rend="sup">a</hi>.</head>
+<p>Ex 1<hi rend="sup">o</hi> lemmate <hi rend="i">rs. gb. gr. bc</hi> ∺ Id est 2<hi rend="i">r. gb. gr. c</hi> ∺ ergo <hi rend="i">gb</hi> Π <figure rend="inline"><graphic url="huyg003oeuv06fi15.gif"></graphic></figure>, et <hi rend="i">gr</hi> Π <figure rend="inline"><graphic url="huyg003oeuv06fi16.gif"></graphic></figure>. Jam vero <hi rend="i">y f. fg</hi> ∷ <hi rend="i">ko. og</hi>. id est <hi rend="i">y. r</hi> ∷ <hi rend="i">k. kr</hi>/<hi rend="i">y</hi> Π <hi rend="i">go</hi>, et <hi rend="i">gr</hi> vel <hi rend="i">fo</hi> Π+<hi rend="i">kr</hi>-<hi rend="i">ry</hi>/<hi rend="i">y</hi> Π <figure rend="inline"><graphic url="huyg003oeuv06fi16.gif"></graphic></figure> et vtramque partem cubando habetur +<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">3</hi>-3<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">3</hi><hi rend="i">y</hi> +3<hi rend="i">kr</hi><hi rend="sup">3</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-<hi rend="i">r</hi><hi rend="sup">3</hi><hi rend="i">y</hi><hi rend="sup">3</hi>Π+2<hi rend="i">rccy</hi><hi rend="sup">3</hi>. ergo +2<hi rend="i">cc y</hi><hi rend="sup">3</hi>-3<hi rend="i">kr</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+3<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>-<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi> Π o siue <hi rend="i">rr</hi> +<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">3</hi>-3<hi rend="i">kr</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+3<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>-<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi> Π o nam 2<hi rend="i">c</hi><hi rend="sup">2</hi> Π <hi rend="i">dd</hi>.
++<hi rend="i">r</hi><hi rend="sup">2</hi></p>
+</div>
+<div type="section">
+<head rend="h4">Analysis 2<hi rend="sup">a</hi>.</head>
+<p><hi rend="i">gf. fo</hi>∷<hi rend="i">gb. bd</hi>. Id est <hi rend="i">r. kr</hi>-<hi rend="i">ry</hi>/<hi rend="i">y</hi>∷<hi rend="i">gb.</hi> 2<hi rend="i">c</hi> ergo +2<hi rend="i">cy</hi>/+<hi rend="i">k</hi>-<hi rend="i">y</hi> Π <hi rend="i">gb</hi>, et addita <hi rend="i">c</hi> fit +<hi rend="i">ck</hi>+<hi rend="i">cy</hi>/+<hi rend="i">k</hi>-<hi rend="i">y</hi> Π <hi rend="i">gc</hi> quae ducta in <hi rend="i">gb</hi> Π +2<hi rend="i">cy</hi>/<hi rend="i">k</hi>-<hi rend="i">y</hi> dat +2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">k</hi><hi rend="i">y</hi> +2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>/+ <hi rend="i">k</hi><hi rend="sup">2</hi>-2<hi rend="i">ky</hi>+<hi rend="i">y</hi><hi rend="sup">2</hi> Π□ <hi rend="i">cgb</hi>. Jamvero <hi rend="i">gr</hi> Π+<hi rend="i">ky</hi>-<hi rend="i">ry</hi>/<hi rend="i">y</hi>, et <hi rend="i">gs</hi> Π +<hi rend="i">kr</hi>+<hi rend="i">ry</hi>/<hi rend="i">y</hi> et has rectas in se ducendo fit +<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi>-<hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>/<hi rend="i">yy</hi> Π□ <hi rend="i">sgr</hi> Π□ <hi rend="i">cgb</hi> Π +2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">ky</hi>+2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>/+<hi rend="i">k</hi><hi rend="sup">2</hi>-2<hi rend="i">ky</hi>+<hi rend="i">y</hi><hi rend="sup">2</hi>. Igitur
++<hi rend="i">k</hi><hi rend="sup">4</hi><hi rend="i">r</hi><hi rend="sup">2</hi>-2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>+<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+2<hi rend="i">kr</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">3</hi>-<hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi>Π+2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">ky</hi><hi rend="sup">3</hi>+2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi> -<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi> et ordinata aequatione habetur +<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi>+2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">ky</hi><hi rend="sup">3</hi>+2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>-<hi rend="i">k</hi><hi rend="sup">4</hi><hi rend="i">r</hi><hi rend="sup">2</hi>Πο. -2<hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">k</hi></p>
+</div>
+<div type="section">
+<head rend="h4">Analysis 3<hi rend="sup">a</hi> pro 2<hi rend="sup">do</hi> casu. Quando <hi rend="i">bz</hi> secat circulum infra punctum <hi rend="i">b</hi>.</head>
+<p><hi rend="i">ko. od ∷ yf. fb</hi> id est <hi rend="i">k.d ∷ y.dy/k Π fb</hi>, cui addita <hi rend="i">bz</hi> Π <hi rend="i">z</hi> fit <hi rend="i">+kz+dy/k</hi> Π <hi rend="i">fz</hi>. et rectas <hi rend="i">fb</hi>, et <hi rend="i">fz</hi> in se ducendo habetur +<hi rend="i">dkzy</hi>+<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>/+<hi rend="i">kk</hi> Π□ <hi rend="i">zfb</hi>. Jam vero ex probatis <hi rend="i">go</hi> siue <hi rend="i">fs</hi> Π +<hi rend="i">kr/y</hi>, et <hi rend="i">fr</hi> Π +<hi rend="i">kr</hi>-2<hi rend="i">ry</hi>/<hi rend="i">y</hi>, et rectas <hi rend="i">fs</hi>, et <hi rend="i">fr</hi> in se ducendo habetur +<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi>-2<hi rend="i">kr</hi><hi rend="sup">2</hi><hi rend="i">y</hi>/+<hi rend="i">yy</hi> Π□<hi rend="i">sfr</hi>Π□<hi rend="i">zfb</hi>Π) +<hi rend="i">dkzy</hi>+<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>/+<hi rend="i">kk</hi>. Ergo + <hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi>+<hi rend="i">dkzy</hi><hi rend="sup">3</hi> +2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>-<hi rend="i">k</hi><hi rend="sup">4</hi><hi rend="i">r</hi><hi rend="sup">2</hi>Πο.</p>
+</div>
+<div type="section">
+<head rend="h4">Annotatio.</head>
+<p>Ex comparatione hujus, et penultimae aequationis inuenitur <hi rend="i">z</hi>Π+2<hi rend="i">cc</hi>-2<hi rend="i">rr</hi>/<hi rend="i">d</hi>, quae est vna ex inscriptis in circulo.</p>
+</div>
+<div type="section">
+<head rend="h4">Analysis 4<hi rend="sup">a</hi>.
+<lb/>Pro 1<hi rend="sup">o</hi> casu quando <hi rend="i">bo</hi> ⊥ <hi rend="i">fb</hi>.</head>
+<p>Rectae <hi rend="i">vf</hi>, et <hi rend="i">ho</hi> sunt inter se parallelae, sicut etiam rectae <hi rend="i">fy</hi> et <hi rend="i">ko</hi> ergo ∠ <hi rend="i">foh</hi> Π ∠ <hi rend="i">gfv</hi>, et ∠ <hi rend="i">fok</hi> Π ∠ <hi rend="i">gfy</hi>. Quare ∠ <hi rend="i">vfg</hi> Π ∠ <hi rend="i">hok</hi> id est ∠ 10 in segmento <hi rend="i">om</hi> inscriptibili, et sic <hi rend="i">vy</hi> Π <hi rend="i">om</hi>. Jam vero <hi rend="i">gf. fv ∷ go</hi>. (<hi rend="i">oh Π</hi>) <hi rend="i">bv</hi>. Id est <hi rend="i">r.v</hi> ∷ <hi rend="i">kr</hi>/<hi rend="i">y</hi>. <hi rend="i">kv</hi>/<hi rend="i">y</hi> Π <hi rend="i">bv</hi>. Est autem recta <hi rend="i">bf</hi>Π<hi rend="i">dy</hi>/<hi rend="i">k</hi>, cui addita recta <hi rend="i">vf</hi>Π<hi rend="i">v</hi> habetur +<hi rend="i">kv</hi>+<hi rend="i">dy</hi>/<hi rend="i">k</hi> Π (<hi rend="i">bv</hi> Π) + <hi rend="i">kv/y</hi>. Ergo +<hi rend="i">kyv</hi>+<hi rend="i">dyy</hi>Π+<hi rend="i">kkv</hi>. Igitur +<hi rend="i">dyy</hi>/+<hi rend="i">k×k</hi>-<hi rend="i">y</hi>Π<hi rend="i">v</hi><note n="#2"/></p>
+<p>Atqui <hi rend="i">ok. kd</hi>∷<hi rend="i">fy. yb</hi>. Id est + <hi rend="i">k</hi>. 3<hi rend="i">c</hi>/2∷<hi rend="i">y</hi>. 3<hi rend="i">cy</hi>/2<hi rend="i">k</hi>Π<hi rend="i">yb</hi> quae ablata ex <hi rend="i">gb</hi>Π+2<hi rend="i">cy</hi>/+<hi rend="i">k</hi>-<hi rend="i">y</hi> relinquit +<hi rend="i">cky</hi>+3<hi rend="i">cyy</hi>/2<hi rend="i">k</hi>×<hi rend="i">k</hi>-<hi rend="i">y</hi>Π<hi rend="i">gy</hi> quae ducta in <hi rend="i">vf</hi> siue <hi rend="i">v Π</hi>. +<hi rend="i">dyy</hi>/+<hi rend="i">k</hi>×<hi rend="i">k</hi>-<hi rend="i">y</hi> efficit <figure rend="inline"><graphic url="huyg003oeuv06fi17.gif"></graphic></figure> Π□<hi rend="i">vf</hi>×<hi rend="i">gy</hi>.</p>
+<p>Deinde <hi rend="i">fb.bo ∷ vf. gv</hi> id est +<hi rend="i">dy</hi>/<hi rend="i">k</hi>. <hi rend="i">r</hi>∷+<hi rend="i">dyy</hi>/+<hi rend="i">k</hi>×<hi rend="i">k</hi>-<hi rend="i">y</hi>. +<hi rend="i">ry</hi>/+<hi rend="i">k</hi>-<hi rend="i">y</hi>Π<hi rend="i">vg</hi> quae ducta in <hi rend="i">fy Π</hi>+<hi rend="i">y</hi> dat +<hi rend="i">ryy</hi>/+<hi rend="i">k</hi>-<hi rend="i">y</hi> Π□<hi rend="i">gv</hi>×<hi rend="i">fy</hi>, cui addito<note n="#3"/> □<hi rend="i">vf</hi>×<hi rend="i">gy</hi> Π <figure rend="inline"><graphic url="huyg003oeuv06fi17.gif"></graphic></figure> fit +2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">ry</hi><hi rend="sup">2</hi>-2<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">ry</hi><hi rend="sup">3</hi>+3<hi rend="i">cdy</hi><hi rend="sup">4</hi> +<hi rend="i">cdk</hi>/+4<hi rend="i">k</hi><hi rend="sup">4</hi>-8<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">y</hi>+4<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>Π (□ <hi rend="i">gf</hi>×<hi rend="i">vy</hi> Π)+ <hi rend="i">mr</hi>, et aequatione ordinata ha-</p>
+<p><table>
+<row>
+<cell>betur +3<hi rend="i">cdy</hi><hi rend="sup">4</hi>+<hi rend="i">cdky</hi><hi rend="sup">3</hi></cell>
+<cell>+2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r y</hi><hi rend="sup">2</hi>+8<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">mry</hi>-4<hi rend="i">k</hi><hi rend="sup">4</hi><hi rend="i">mr</hi> Πο.</cell></row>
+<row>
+<cell>-2<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi></cell>
+<cell>-4<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">mr</hi></cell></row>
+<row>
+<cell>Atqui ex 2<hi rend="sup">da</hi> analysi fit +<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi></cell>
+<cell>+2<hi rend="i">c</hi><hi rend="sup">2</hi><hi rend="i">ky</hi><hi rend="sup">3</hi>+2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>-<hi rend="i">k</hi><hi rend="sup">4</hi><hi rend="i">r</hi><hi rend="sup">2</hi>Π ο, siue quia in hoc casu</cell></row>
+<row>
+<cell></cell>
+<cell>-2<hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">k</hi></cell></row>
+</table></p>
+<p><hi rend="i">c</hi>Π<hi rend="i">r</hi> excidit terminus ab <hi rend="i">y</hi><hi rend="sup">3</hi> denominatus ac relinquitur +<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi>+2<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">3</hi><hi rend="i">y</hi>-<hi rend="i">k</hi><hi rend="sup">4</hi><hi rend="i">r</hi><hi rend="sup">2</hi>Πο. et hanc aequationem per +3<hi rend="i">c</hi>, ac vltimo inuentam per <hi rend="i">d</hi> multiplicando fit + 3<hi rend="i">cdy</hi><hi rend="sup">4</hi></p>
+<p><table>
+<row>
+<cell>+6<hi rend="i">ck</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>-3<hi rend="i">ck</hi><hi rend="sup">4</hi><hi rend="i">r</hi><hi rend="sup">2</hi>Π(ο Π)+3<hi rend="i">cd</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi>+<hi rend="i">cd</hi><hi rend="sup">2</hi><hi rend="i">k</hi></cell>
+<cell><hi rend="i">y</hi><hi rend="sup">3</hi>+2<hi rend="i">dk</hi><hi rend="sup">3</hi><hi rend="i">ry</hi><hi rend="sup">2</hi>+8<hi rend="i">dk</hi><hi rend="sup">3</hi><hi rend="i">mry</hi>-4<hi rend="i">dk</hi><hi rend="sup">4</hi><hi rend="i">mr</hi></cell></row>
+<row>
+<cell>-2<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">r</hi></cell>
+<cell>-4<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">mr</hi></cell></row>
+</table></p>
+<p>ac <hi rend="i">d</hi> deleto vtrimque communi termino +3<hi rend="i">cd</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">4</hi>, et reliquis per <hi rend="i">kr</hi> diuisis, atque mutato <hi rend="i">c</hi> in <hi rend="i">r</hi> habetur</p>
+<p><table>
+<row>
+<cell>+<hi rend="i">dd</hi></cell>
+<cell><hi rend="i">y</hi><hi rend="sup">3</hi></cell>
+<cell>+2<hi rend="i">dk</hi><hi rend="sup">2</hi></cell>
+<cell><hi rend="i">y</hi><hi rend="sup">2</hi></cell>
+<cell>+8<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">my</hi></cell>
+<cell>-4<hi rend="i">dk</hi><hi rend="sup">3</hi><hi rend="i">m</hi>Πο.</cell></row>
+<row>
+<cell>-2<hi rend="i">dk</hi></cell>
+<cell></cell>
+<cell>-4<hi rend="i">dkm</hi></cell>
+<cell></cell>
+<cell>-6<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell>
+<cell>+3<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell></row>
+</table></p>
+<p>Est autem ex analysi 1<hi rend="sup">a</hi> +<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">3</hi>Π+3<hi rend="i">kr</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>-3<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi>+<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi>, et in praecedenti aequatione mutando +<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">3</hi> in suum valorem, et omnibus terminis per <hi rend="i">k</hi> diuisis fit</p>
+<p><table>
+<row>
+<cell>-2<hi rend="i">dy</hi><hi rend="sup">3</hi></cell>
+<cell>+2<hi rend="i">dky</hi><hi rend="sup">2</hi></cell>
+<cell>+ 8<hi rend="i">dkmy</hi></cell>
+<cell>-4<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">m</hi>Πο,</cell>
+<cell>et totum per <hi rend="i">d</hi> multiplicando habetur</cell></row>
+<row>
+<cell></cell>
+<cell>-4<hi rend="i">dm</hi></cell>
+<cell>-9<hi rend="i">kr</hi><hi rend="sup">2</hi></cell>
+<cell>+4<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>+3<hi rend="i">rr</hi></cell>
+<cell cols="3"></cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>-2<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">3</hi></cell>
+<cell>+2<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">ky</hi><hi rend="sup">2</hi></cell>
+<cell>+8<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">kmy</hi></cell>
+<cell>-4<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">m</hi>Π(οΠ)</cell>
+<cell>-2<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">3</hi></cell>
+<cell>+6<hi rend="i">kr</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi></cell>
+<cell>-6<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi><hi rend="i">y</hi></cell>
+<cell>+2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell></row>
+<row>
+<cell></cell>
+<cell>-4<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">m</hi></cell>
+<cell>-9<hi rend="i">dkr</hi><hi rend="sup">2</hi></cell>
+<cell>+4<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell>
+<cell cols="4"></cell></row>
+<row>
+<cell></cell>
+<cell>+3<hi rend="i">drr</hi></cell>
+<cell cols="6"></cell></row>
+</table></p>
+<p>per 1 am analysim, et deleto vtrimque communi termino -2<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">3</hi>, ac ordinata aequatione habetur</p>
+<p><table>
+<row>
+<cell>+4<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">myy</hi></cell>
+<cell>-8<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">my</hi></cell>
+<cell>+4<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">m</hi>Πο</cell></row>
+<row>
+<cell>-2<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">k</hi></cell>
+<cell>+9<hi rend="i">dkr</hi><hi rend="sup">2</hi></cell>
+<cell>-4<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell></row>
+<row>
+<cell>-3<hi rend="i">drr</hi></cell>
+<cell>-6<hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell>
+<cell>+2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi></cell></row>
+<row>
+<cell>+6<hi rend="i">kr</hi><hi rend="sup">2</hi></cell>
+<cell cols="2"></cell></row>
+</table></p>
+<p>Atqui in vltimo termino +<hi rend="i">dm</hi>-<hi rend="i">rr</hi> × +4<hi rend="i">dk</hi><hi rend="sup">2</hi>Π+4<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">m</hi>-4<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi>, estque <hi rend="i">dm</hi> major quam <hi rend="i">rr</hi>, vt statim ostendam igitur +4<hi rend="i">d</hi><hi rend="sup">2</hi><hi rend="i">k</hi><hi rend="sup">2</hi><hi rend="i">m</hi>-4<hi rend="i">dk</hi><hi rend="sup">2</hi><hi rend="i">r</hi><hi rend="sup">2</hi> est quantitas realis et affirmata, quae juncta quantitati affirmatae +2<hi rend="i">k</hi><hi rend="sup">3</hi><hi rend="i">r</hi><hi rend="sup">2</hi> efficit vltimum inuentae aequationis terminum realem, et affirmatum, Igitur in inuenta aequatione superest saltem vnus e reliquis terminis <hi rend="i">q</hi> ab <hi rend="i">y</hi> denominatis, qui sua negatione hunc realem terminum elidat, vt ipsa aequatio nihilo, sicut ordinata est, fiat aequalis. Quod erat ostendendum.</p>
+</div>
+<div type="section">
+<head rend="h4">Lemma.</head>
+<p>Ostendere in prima figura quando <hi rend="i">c</hi> Π <hi rend="i">r</hi>, rectam <hi rend="i">om</hi> Π <hi rend="i">ok</hi>, siue puncta <hi rend="i">k</hi>, et <hi rend="i">m</hi> in vnum coincidere, ac simul <hi rend="i">dm</hi> siue <hi rend="i">dk</hi> majorem esse quam <hi rend="i">rr</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">Demonstratio.</head>
+<p>Ex hypothesi recta <hi rend="i">bc</hi> aequatur radio <hi rend="i">oc</hi> vel <hi rend="i">ob</hi> ergo ∠<hi rend="sup">lus</hi> <hi rend="i">boc</hi> est 60 graduum, sed ex hypothesi etiam rectae <hi rend="i">oc Π</hi> recta <hi rend="i">cd</hi> ergo ∠ <hi rend="sup">lus</hi> <hi rend="i">cod</hi> est 30 graduum cui addito ∠ <hi rend="sup">10</hi>
+<hi rend="i">koc</hi> etiam 30 graduum erit ∠<hi rend="sup">lus</hi> <hi rend="i">dvk</hi> 60 graduum aequalis ∠<hi rend="sup">10</hi> in circuli cujus centrum est <hi rend="i">n</hi> segmento <hi rend="i">orm</hi> inscriptibili, ergo recta <hi rend="i">om</hi> latus est trigoni aequilateri in circulo <hi rend="i">norm</hi> inscriptibili et quia hujus circuli radius aequatur ½ <hi rend="i">r</hi> erit recta <hi rend="i">om</hi> Π <figure rend="inline"><graphic url="huyg003oeuv06fi18.gif"></graphic></figure> hoc est recta <hi rend="i">om</hi> Π <hi rend="i">k</hi>.</p>
+<p>Deinde quia <hi rend="i">dd</hi>Π+2<hi rend="i">cc</hi>+<hi rend="i">rr</hi>, hoc est hîc <hi rend="i">dd</hi>Π3<hi rend="i">rr</hi> erit <hi rend="i">d</hi>Π+<hi rend="i">r</hi><figure rend="inline"><graphic url="huyg003oeuv06fi19.gif"></graphic></figure>, quae ducta in <hi rend="i">om</hi>, siue <hi rend="i">okr</hi> aequali +<hi rend="i">r</hi><figure rend="inline"><graphic url="huyg003oeuv06fi20.gif"></graphic></figure> habetur+3/2<hi rend="i">rr</hi> major quam <hi rend="i">rr</hi> vt erat ostendendum.</p>
+</div>
+<div type="section">
+<head rend="h4">Analysis 5<hi rend="sup">a</hi> pro 2<hi rend="sup">do</hi> casu.
+<lb/>Quando punctum <hi rend="i">ϕ</hi> cadit intra puncta <hi rend="i">b</hi> et <hi rend="i">z</hi>.</head>
+<p><hi rend="i">bf</hi>Π +<hi rend="i">dy</hi>/<hi rend="i">k</hi> cui addita <hi rend="i">bϕ</hi> Π <hi rend="i">b</hi> habetur +<hi rend="i">bk</hi>+<hi rend="i">dy</hi>/<hi rend="i">k</hi> Π<hi rend="i">fϕ</hi>, et huic adhuc additâ <hi rend="i">vf</hi> Π <hi rend="i">v</hi> fit +<hi rend="i">bk</hi>+<hi rend="i">dy</hi>+<hi rend="i">kv</hi>/<hi rend="i">k</hi> Π (<hi rend="i">vϕ</hi>Π<hi rend="i">ho</hi>Π) +<hi rend="i">kv</hi>/<hi rend="i">y</hi>. Ergo +<hi rend="i">bky</hi>+<hi rend="i">dyy</hi>+<hi rend="i">kyv</hi> Π +<hi rend="i">kkv</hi>, et sic +<hi rend="i">bky</hi>+<hi rend="i">dyy</hi>/+<hi rend="i">k</hi>×<hi rend="i">k</hi>-<hi rend="i">y</hi> Π<hi rend="i">y</hi> quae ducta in <hi rend="i">py</hi> Π+<hi rend="i">cky</hi>+3<hi rend="i">cyy</hi>/+2<hi rend="i">k</hi>×<hi rend="i">k</hi>-<hi rend="i">y</hi> efficit +<hi rend="i">bck</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+<hi rend="i">cdky</hi><hi rend="sup">3</hi>+3<hi rend="i">cdy</hi><hi rend="sup">4</hi>Π□ <hi rend="i">vf</hi>×<hi rend="i">gy</hi>. <figure rend="inline"><graphic url="huyg003oeuv06fi21.gif"></graphic></figure></p>
+<p>Atqui <hi rend="i">fϕ. ϕo</hi>∷<hi rend="i">fv. gv.</hi> Id est +<hi rend="i">bk</hi>+<hi rend="i">dy</hi>/<hi rend="i">k</hi>. <hi rend="i">ϕ</hi> ∷+<hi rend="i">bky</hi>+<hi rend="i">dyy</hi>/+<hi rend="i">b</hi>×<hi rend="i">k</hi>-<hi rend="i">y</hi>. +<hi rend="i">ϕy</hi>/+<hi rend="i">k</hi>-<hi rend="i">y</hi>Π<hi rend="i">gv</hi>, quae ducta in<hi rend="i">fy</hi>Π+<hi rend="i">y</hi> efficit +<hi rend="i">qyy</hi>/+<hi rend="i">k</hi>-<hi rend="i">y</hi>Π□ <hi rend="i">gv</hi> in <hi rend="i">fy</hi> cui addito □<hi rend="i">vf</hi>×<hi rend="i">gy</hi>Π</p>
+<p><table>
+<row>
+<cell>+<hi rend="i">bck</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>+<hi rend="i">cdky</hi><hi rend="sup">3</hi>+3<hi rend="i">cdy</hi><hi rend="sup">4</hi></cell>
+<cell></cell></row>
+<row>
+<cell>+3<hi rend="i">bck</hi></cell>
+<cell>dat<note n="#4"/>.</cell></row>
+<row>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>+2<hi rend="i">k</hi><hi rend="sup">2</hi>× □ <figure rend="inline"><graphic url="huyg003oeuv06fi22.gif"></graphic></figure></cell>
+<cell></cell></row>
+</table></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

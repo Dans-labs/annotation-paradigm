@@ -1,0 +1,44 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2752"/>
+<meta type="date" value="1692-05-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2752">
+<div type="summary">
+<head rend="h4">Sommaire<note n="#1"/></head>
+<p>2 Maj. à Mr. <persName key="duil010">Fatio</persName> avec la lettre de Mr. <persName key="dier018">Dierquens</persName>. Je voudrois que cette vocation a Amsterdam pust reussir. Je le prie de s'informer de la matiere de verre blanc qu'on fait a la Savoie a Londres. par ce qu'il seroit excellent pour des verres brulants. Leibnitz ne souhaite pas d'apprendre sa regle.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 2 May 1692.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous ay escrit assez au long du 5 avril, a laquelle lettre j'attens encore vostre response. Celle cy n'est que pour vous faire tenir l'enclose que Monsieur <persName key="dier018">Dierquens</persName><note n="#2"/> m'a recommandée. Il m'a communiquè sur quoy il vous escrit, et je voudrois bien que la chose pust reussir, estant prest d'y contribuer autant que je pourray. Vous devez examiner si un tel employ seroit vostre fait et si vous avez assez de santè pour cela, de quoy je ne doute guere, depuis que Mons. <persName key="ques018">du Quesne</persName><note n="#3"/> m'a dit que vous vous estiez entierement remis en Angleterre. Il n'a pas achetè pour vous le cabinet qui estoit à Delft, pour les raisons qu'il vous aura mandées. Nous n'avons pas encore vu icy ces seconds Memoires de l'Academie de Paris<note n="#4"/>, où je vous avois mandè que seroit inserè la Methode Mr. <persName key="hart107">Hartsoeker</persName> pour les grands verres des Telescopes.</p>
+<p>Mons. <persName key="leib013">Leibnitz</persName> m'a respondu<note n="#5"/> que je ne prisse point la peine de luy expliquer vostre invention pour le Probleme renversè des Tangentes, croiant la pouvoir trouver par les moiens qui luy sont connus. Vous voila egalement eloignez de vouloir rien apprendre l'un de l'autre, qui est une delicatesse que je n'ay point, ainsi qu'il a paru; car j'ay esté bien aise d'apprendre de tous les deux.</p>
+<p>J'ay vu icy de grosses pieces d'un verre tres blanc qu'on fait à Londres dans le Savoy, cette matiere seroit excellente pour faire de ces verres bruslants comme je vous ay escrit qu'en fait Mons. <persName key="tsch002">de Tschirnhaus</persName>, si on en pouvoit avoir de grosses masses de 2 pieds de large et ½ pied d'epesseur. C'est pourquoy je vous prie Monsieur de prendre la peine de vous en informer. Je crois que ces morceaux convexes que j'ay vu, servent aux lanternes, et qu'ils y sont emploiez sans estre autrement formez ni polis, que dans les moules creux ou ils jettent le verre fondu. Je vous baise les mains et suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="duil010">Fatio de Duilliers</persName>
+<lb/>chez Monsr. <persName>Tourton</persName> et Compagnie
+<lb/>A Londres.</p>
+</div>
+<p><note n="#6"/> Mr. <persName key="huyg003">Hugens</persName> la Haye 2 May 1692. A.N.F. à Londres.</p>
+<p>Il m'envoie Lettre de Mr. <persName key="dier018">Dierquens</persName> qui me propose la Profession des Mathematiques dans l'Ecole Illustre d'Amsterdam, et m'en dit son sentiment.</p>
+<p>Le Cabinet de Tourneur n'a pas été acheté pour moi.</p>
+<p>Mr. <persName key="leib013">Leibnitz</persName> ne veut pas que Mr. <persName key="huyg003">Hugens</persName> lui explique mon Invention pour le problème renversé des Tangentes croiant le pouvoir trouver. Sur notre Eloignement de vouloir apprendre l'un de l'autre; mais que lui a été bien aise d'apprendre de tous les deux.</p>
+<p>Que j'aie à m'informer des Masses de verre blanc qu'on pourroit faire faire à la Savoye pour des verres brulans, à en juger par leurs verres pour des Lanternes.</p>
+</body>
+</text>
+</TEI>

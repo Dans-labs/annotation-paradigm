@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2270"/>
+<meta type="date" value="1682-07"/>
+<meta type="sender" value="cata001"/>
+<meta type="recipient" value="roqu005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2269"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2270">
+<p>Replique de Mr. <persName key="cata001">l'Abbé de Catelan</persName> à la réponse de M. <persName key="huyg003">Hugens</persName> dont il a esté parlé, envoyée à l'Auteur du Journal en ces termes.</p>
+<p>&nbsp;</p>
+<p>M. Hugens ne devoit pas detacher une consequence de son principe pour luy donner un sens qu'elle n'a pas dans mon écrit. Il faudroit que j'eusse entierement oublié l'Arithmetique pour nier absolument comme il pretend que je l'ay fait, que <hi rend="i">quatre grandeurs inégales puissent faire deux sommes égales;</hi> aussi ne conclus-je rien autre chose dans mon écrit sinon que la proposition generale de M. Hugens ne peut estre vraye, à moins que <hi rend="i">la partie ne soit égale au tout</hi>. Pour mieux faire voir la chose il faut donner icy en propres termes cette proposition generale de M. Hugens.</p>
+<p><hi rend="i">Si Pendulum è pluribus ponderibus compositum</hi>, <hi rend="i">atque è quiete dimissum</hi>, <hi rend="i">partem quamcumque oscillationis integrae confecerit</hi>, <hi rend="i">atque inde porro intelligantur ponder a ejus singula</hi>, <hi rend="i">relicto communi vinculo</hi>, <hi rend="i">celeritates acquisitas sursum convertere</hi>, <hi rend="i">ac quousque possunt ascendere: hoc facto</hi>, <hi rend="i">centrum gravitatis ex omnibus compositae ad eandem altitudinem reversum erit</hi>, <hi rend="i">quam ante inceptam oscillaticnem obtinebat</hi>.</p>
+<p>Cette proposition estant conceuë en des termes si generaux, que le nombre des poids, leur arrangement, &amp; la durée de leur balancement y sont des circonstances indifferentes, je prens pour exemple un pendule composé de deux poids entierement égaux &amp; attachez ensemble à telle distance l'un de l'autre que l'on voudra. Je considere en suite que les hauteurs qui sont proportionelles aux quarrez des vitesses dans les deux pendules simples, sont entre elles comme les vitesses dans le pendule composé; car elles ont même proportion que les Arcs décrits par les deux poids égaux qui les<note n="#2"/> composent. Ces deux Arcs sont les espaces que les deux poids parcourent en même temps par des vitesses qui sont necessairement proportionelles à ces espaces.</p>
+<p>La vitesse totale d'un pendule composé, laquelle est répanduë dans ses parties proportlonellement aux Arcs qu'elles d'écrivent est toûjours égale à la somme des
+vitesses, qui seroient acquises par les mesmes parties, si estant détachées les unes des autres, elles descendoient separement des mesmes hauteurs &amp; dans les mesmes distances de l'axe qu'auparavant. Les hauteurs sont toûjours comme les quarrez des vitesses, soit que les poids montent ou qu'ils descendent, lors qu'ils sont separez. Tout cela estant bien compris, il est aisé de voir que la question se reduit à cette proposition.</p>
+<p><hi rend="i">Ayant deux grandeurs inégales</hi> aa <hi rend="i">&amp;</hi> bb, <hi rend="i">la somme de leurs racines</hi> a + b, <hi rend="i">&amp; les quarrez des parties de cette somme</hi>, <hi rend="i">qui sont proportionelles à ces grandeurs</hi>, <hi rend="i">&amp; qui ont par consequent pour commun denominateur</hi> aa + bb, <hi rend="i">&amp; pour differens numerateurs</hi> a<hi rend="sup">3</hi> + aab, <hi rend="i">&amp;</hi> b<hi rend="sup">3</hi> + abb, <hi rend="i">demontrer que la somme de ces deux grandeurs qui representent les hauteurs d'où descendent deux poids égaux attachez ensemble dans un mesme pendule ne peut estre égale à la somme des quarrez de ces parties</hi>, <hi rend="i">qui representent les hauteurs où ces deux poids remontent après s'estre detachez l'un d'avec l'autre par quelque chocq</hi>, <hi rend="i">si la plus petite des deux grandeurs</hi> aa <hi rend="i">&amp;</hi> bb <hi rend="i">n'est égale à la plus grande</hi>, <hi rend="i">c'est à dire</hi>, <hi rend="i">comme ces grandeurs sont toûjours inégales dans la question proposée</hi>, <hi rend="i">si la partie n'est aussi grande que le tout</hi>.</p>
+<p>La demonstration la plus sensible de cette verité est la comparaison des termes de la question par les regles de l'Algebre; ce que je laisse à examiner à ceux qui ont l'usage de ces regles. Pour le fond de la chose il n'est d'aucune consequence; que le centre Mathematique de balancement soit bien ou mal determiné, l'invention de la pendule n'en sera ny moins utile aux hommes, ny moins digne de son auteur<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

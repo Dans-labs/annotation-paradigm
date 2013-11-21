@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1803"/>
+<meta type="date" value="1670-05-02"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1803">
+<div type="opener">
+<p>A <placeName key="denha004">La Haye</placeName> le 2de May 1670.</p>
+</div>
+<p>J'ay eu la joye que vous pouvez croire d'entendre que le bon frere n'est pas empiré depuis le dernier avis que nous en avons eu; le terme que vous luy donnez de trois mois pour le restablissement de sa santé me semble pourtant bien long dans cette saison icy et il faut esperer qu'il en pourra rabattre quelque chose. Le Donatus<note n="#1"/> à 8 livres, argent de France, beau comme vous dites qu'il est, ne me semble pas d'un prix fort excessif et vous me ferez plaisir de me l'achepter si vous ne l'avez fait desja. Si la Carte de Rome se trouve aussi j'en serois tres-aise et vous prie de la chercher avec un peu de soin, comme aussi de considerer s'il n'y a pas quelque autre chose de semblable ou dissemblable nature qui me duiroit soit de livres, de cartes ou semblables bagatelles. vous scavez que don Christiano<note n="#2"/> m'a envoyé un Estat de l'Europe en quatre petits volumes, mais cet estat qui ne contient que des noms, encor qu'il soit d'un usage considerable n'est pourtant que fort maigre et je voudrois avoir un Estat de la France comme vous scavez qu'on en a fait quasi
+touts les ans. Ce que vous deboursserez pour moy je vous le renvoyeray incontinent en de l'or dans les pacquets.</p>
+<p>S'il ne se trouve point de Carte de Rome a Paris je prieray le Cousin de Willem<note n="#3"/> de m'en achepter en Italie en cas qu'il y aille, de quoy vous serez mieux informé que nous autres, je vous prie de me mander quelles mesures il prend.</p>
+<p>Il est arrive un accidant tres funeste a Monsieur Cauw<note n="#4"/> baillif de Fliffingue, lequel s'estant embarqué à la dite ville pour Anvers avec sa femme la pauvre Mi Campen<note n="#5"/>, deux autres personnes depuis peu mariées dont le mary s'appelle van der Graef, et deux prestres; le batteau se renversa je ne scay comment proche d'Anvers et se noyerent Madame Cauw, ces deux jeunes mariés et les deux Prestres. Tout cela avec de longues miseres et des circonstances fort tragiques dont on ne scait pas encore le detail.</p>
+<p>Joffrouw Ide<note n="#6"/> n'amende pas beaucoup et le medecin mesme n'a pas la meilleure opinion de sa maladie, elle souffre de grandes colicques depuis quelques jours mesme durant ses bon jours et cela la met fort bas. Moggershil est à Amsterdam avec le Schouth et son frere. Adio mes recommandations au cher frere malade.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">Louis Huygens de Zulichem</persName>
+<lb/>a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

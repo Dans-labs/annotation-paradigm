@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0802"/>
+<meta type="date" value="1660-11-05"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0802">
+<div type="opener">
+<p lang="it">Signor <persName key="huyg003">Christiano Vgenio</persName>.</p>
+</div>
+<p lang="it">Con non ordinario mio contento ho riceute, e la lettera di Vostra Signoria e la risposta al libretto del Diuini che ella in stampa mi há mandata. La lessi subito attentamente et l'hó fatta uedere a molti intendenti et tuttj unanimemente restono di essa sodisfatti, riconoscendo nella medesima i soliti trattj della scienza, e dell' auuedutezza di Vostra Signoria, ne ió saprei dare altro giudizio sopra la di lei oppinione sopra Saturno, se non che a me si rappresenta per ancora cosa alcuna che repugni all' osseruazioni che hó potuto fare, si come all' incontro non posso dar perfetto giudizio dell' oppinioni del Padre Fabbri, quando io per altro fussi capace (che non sono) di darlo, mentre non uengono ancora da esso dichiarati i periodi dei moti de i Pianetinj che egli si figura e da quanto io scrissi a Vostra Signoria con altra mia, e dal contenuto delle scritture che annesse a quella lei saranno comparse, potrà più chiaramente conoscere questi sentimenti miei, corroboratj dal concorso ne i meddi quelli che bene intendono di simili materie. Il Signor Carlo Dati le farà peruenire un cenno di un' arbitrio che io mi son preso di fare ristampare questa sua risposta perche possino godere della lettura della medesima i possessori, e gl'amatori della virtù in queste nostre bande. Resta che Vostra Signoria si compiaccia al suo ritorno di Francia di arricchire il Tesoro della Republica Litteraria con nuoui parti del suo sapere, come ella mi accenna; Et credendo che all' arriuo di questa possa essere in Parigi, per quella strada io la inuiò, con la confermazione del mio affetto parzialissimo per ogni suo interesse, pregandolei dal Cielo ogni uero contento</p>
+<div type="closer">
+<p lang="it">Al Piacere di Vostra Signoria Il Principe <persName key="medi012">Leopoldo</persName>.</p>
+<p lang="it">Di <placeName key="flore001">firenze</placeName>. <date>5 Novembre 1660</date>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it">Signor <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1784"/>
+<meta type="date" value="1669-12-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1784">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 12 Decembre 1669.</p>
+</div>
+<p>Dans la boete que Monsieur Erouard vous a apportè vous ne trouuerez pas peut estre la quantitè de pierre noire que vous aviez demandée, mais ayant maintenant le secret de la glaise<note n="#1"/>, vous rendrez bonne celle qui se vend par de la, aussi bien que Monsieur Perraut restablit la siene, quand elle est durcie.</p>
+<p>Je vous envoieray par la premiere occasion les 2 livres<note n="#2"/> de l'abbè de Villeloin<note n="#3"/>. Je voudrois bien scavoir ce que vous machinez avec Bisschop, ou vous faites entrer du contenu de ce noble ouvrage. Pour cet autre<note n="#4"/> qu'il a promis, j'en ay demandè de nouuelles a Monsieur de Carcavy, qui dit qu'il n'est pas encore si prest, que l'autheur nous a fait croire il y a 3 ans.</p>
+<p>Ce que vous me mandez<note n="#5"/> du pistolier est surprenant et me paroit presqu'incroiable, quand je m'imagine la longueur du mail a la Haye. Il faut que la culasse de ce mousqueton soit bonne et forte ou autrement il y auroit du danger a voir faire cette experience. Ie ne scay quel peut estre son secret, si ce n'est d'arrester fortement la balle par quelqu'invention, pour donner temps a la poudre de s'allumer toute.</p>
+<p>Monsieur Rychart<note n="#6"/> m'a fait l'honneur de me venir voir apres qu'il est de retour d'Italie, ou il semble n'avoir pas mal emploiè le temps, car il m'a sceu rendre raison de tout ce que je luy ay demandè. S'il se presente occasion de le servir quoyque je ne voie pas en quoy je pourrois luy estre utile, je le feray de grand coeur et vous en pouuez assurer Madame sa mere<note n="#7"/>, a qui je baise tres humblement les mains.</p>
+<p>On feroit un joli recueuil des apophthegmes de nos niesses ou ce dernier ne seroit pas des moins admirables. Je n'avois jusqu'icy entendu aucune parole de
+Mademoiselle Stans<note n="#8"/>, mais je juge bien par le bon sens et la force de celles que vous rapportez qu'elle ne cede en rien a Mademoiselle sa soeur<note n="#9"/>.</p>
+<p>L'action de l'amant<note n="#10"/> de Mademoiselle Jacoba<note n="#11"/> ressemble fort a celle d'un decrepitè et pourtant vous ne dites pas qu'il y en ait eu aucun soupçon. Elle semble née pour les avantures.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zelem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

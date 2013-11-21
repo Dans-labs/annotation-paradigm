@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2688"/>
+<meta type="date" value="1691-07-24"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hanno901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2688">
+<div type="opener">
+<p>A Hanover ce 14/24 de Juillet 1691.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a plusieurs semaines, que je Vous ay écrit de <placeName key="wolfe002">Wolfenbutel</placeName>, que j'y avois receu vostre lettre avec la solution de la ligne catenaire enfermée dans une lettre pour Messieurs de Leipzig, et que je n'avois pas manqué de la leur faire tenir. Depuis j'ay attendu à vous écrire de nouveau jusqu'à ce que j'ay receu le tout imprimé dans leur mois de Juin, ou vous trouverés, Monsieur, vostre solution avec celle de Monsieur <persName key="bern071">Bernoulli</persName> et la mienne<note n="#3"/>. J'ay pris plaisir de voir qu'on s'est rencontré. Cela nous asseure de ne nous estre pas mépris au moins dans le fonds; il est vray que je n'ay pas eu le loisir de faire une comparaison exacte, neantmoins ayant vû, que plusieurs conclusions s'accordoient, j'en juge autant des autres, ou s'il y a quelque faute (quoy que je n'en aye point remarquée) il ne sera pas difficile de la redresser. J'ay aussi cherché quelques uns de vos cas particuliers par mon calcul, et il m'est venu la meme chose. Ainsi je m'imagine qu'il y a de l'accord. J'espere que Monsieur <persName key="bern071">Bernoulli</persName> fera une plus exacte comparaison; et comme il employe ma methode, je prends part à ce qu'il a fait. Luy et moy nous avons reduit le probleme à la quadrature de l'Hyperbole, nous avons donné tous deux non seulement les tangentes et l'extension de la courbe, mais aussi le centre de gravité de la courbe, et moy j'y ay adjouté le centre de gravité de l'espace. Nous avons donné tous trois les tangentes et l'etendue de la courbe. Mons. <persName>Bernoulli</persName> s'est rencontré avec vous Monsieur à penser à la courbe dont l'evolution sert à descrire la ligne catenaire, et il a remarqué la dessus de fort jolies choses. De sorte qu'il me semble, qu'il a tres bien fait. Cependant il
+estoit bien eloigné, il y a deux ou
+trois ans, de se promettre quelque chose de cette nature, avant qu'il s'est façonné à mon calcul, comme il avoue luy même.</p>
+<p>Avec tout cela ses constructions sont fort differentes des miennes. Car il se contente de supposer la quadrature de l'Hyperbole ou l'extension de la courbe parabolique, et moy j'ay reduit le tout aux Logarithmes, tant parce qu'ainsi tout vient d'une maniere tres simple et tres naturelle (tellement que la courbe catenaire semble estre faite pour donner les Logarithmes) que parce qu'ainsi je puis trouver par la Geometrie ordinaire une infinité de points veritables, ne supposant qu'une seule proportion constante une fois pour toutes, qu'on ne scauroit donner jusqu'icy Geometriquement que par l'etendue d'une courbe, ou quelque chose de semblable, au lieu qu'autrement on est obligé à chaque point de la courbe qu'on demande de recourir aux voyes extraordinaires.</p>
+<p>Ne scachant point, Monsieur, si vous avés deja receu le mois de Juin de Leipzig,
+<figure><graphic url="huyg003oeuv10ill31.gif"></graphic></figure>
+je mettray ici l'abregé de mon discours en peu de mots. FCA (C) G la catenaire, et Z <hi rend="i">ξ</hi> A (<hi rend="i">ξ</hi>) (Z) la Logarithme. On prend AO et ZW en raison S et K<note n="#4"/>, constante et perpetuelle, une fois pour toutes les lignes catenaires et pour tous leur points. Faisant OW=O(W)=AO. Et puisentre AO et WZ, item entre AO et (W)(Z)(supposant(W)(Z) AO et WZ en progression Geometrique continuelle) on met pour ordonnées comme N<hi rend="i">ξ</hi> ou (N)(<hi rend="i">ξ</hi>) autant de moyennes proportionnelles qu'on veut; pour decrire la courbe logarithmique Z<hi rend="i">ξ</hi>A (<hi rend="i">ξ</hi>) (Z). Or posant ON et O(N) egales, NC ou OB ou OR est moyenne arithmetique entre N<hi rend="i">ξ</hi> et (N) (<hi rend="i">ξ</hi>) (dont la moyenne Geometrique est AO parametre de la catenaire). Ainsi la courbe catenaire se construit fort bien par les Logarithmes, et si elle se suppose construite par le moyen d'une chainette, elle sert à donner les Logarithmes sans calcul, ex dato numero, ou bien numeros ex dato Logarithmo<note n="#5"/>. Voicy le reste des proprietés je suppose OR=OB et que G, P, Q sont les centres de gravité de CA (C), AC, AONCA. OR-AR=N<hi rend="i">ξ</hi>, OR+AR=(N) (<hi rend="i">ξ</hi>). Triangula OAR et CBT sunt similia (ou bien EAT); AR=AC;
+<hi rend="i">ψω</hi>=CA (C)=bis AC. Rectang. RAO=Spat. AONCA; O<hi rend="i">θ</hi>:OA∷BC:AR, O<hi rend="i">θ</hi>+OB=bis OG==quater O<hi rend="i">β</hi>; et AE=GP=βQ.</p>
+<p>Je n'ay pas expliqué quelle doit estre la proportion de K à S ou de WZ à OA; mais vous jugerés aisement, Monsieur, qu' AO doit estre egale à la soustangentiale (comme vous l'appelés) de la logarithmique, et que par consequent, posant OW=AO, la raison de AO à WZ est toujours la même et determinée<note n="#6"/>. Ainsi toutes les logarithmiques aussi bien que toutes les catenaires sont semblables ou d'une mesme espece.</p>
+<p>J'ay donné encor quelque chose dans le mois precedent, ou j'ay redressé quelques fautes<note n="#7"/> de mon vieux essay de resistentia medii; j'ay aussi rendu justice à vôtre series pour l'Hyperbole qu'on a eu tort de dire la même avec celle que j'avois donnée autre fois<note n="#8"/>. Je me suis aussi servi de l'occasion pour expliquer la ligne loxodromique, ou des rumbes par les logarithmes<note n="#9"/>, ce que j'avois trouvé
+il y a plusieurs années. Mais la catenaire m'en avoit fait ressouvenir. Aussi sçait-on (ce me semble) que la chose se reduit à la somme des secantes appliquées à l'arc dont vous avés remarqué Monsieur dans vôtre solution que la catenaire depend aussi. Mons. <persName>Bernoulli</persName> y a joint aussi dans ce dernier mois, la consideration de la Loxodromique<note n="#10"/>. Mais il ne s'estoit pas apperçu, que la Loxodromique se reduit à la quadrature de l'Hyperbole, ou aux Logarithmes où [ou] à la Catenaire.</p>
+<p>Je voulois écrire il y a plus de trois semaines, pour envoyer ma solution que Mr. <persName key="duil010">Fatio</persName> demande. Mais j'ay trouvé que vos lettres estoient restés à <placeName key="wolfe002">Wolfenbutel</placeName>. Car comme j'y vay souvent, j'y ay un logis, où je laisse plusieurs papiers, mais les vostres y estoient restés par megarde. Et je n'ay pas voulu me hazarder sur ma memoire. Ainsi je ne puis satisfaire à ma promesse que dans quelques semaines, quand je seray à <placeName key="wolfe002">Wolfenbutel</placeName>. Cependant je suis avec ardeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="leib013">Leibniz</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1746"/>
+<meta type="date" value="1669-06-28"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1746">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>Je me sers de cete commodité, qui se presente par vne personne<note n="#1"/> de merite de vostre païs, pour vous faire voir la theorie<note n="#2"/> de Monsieur Guiliaume Neile<note n="#3"/>, fils du Chevalier Neile, touchant le mouuement, laquelle bien qu'en Anglois ne laissera pas d'estre entendue de vous, qui estez maistre de cete langue lá. Mais ie vous l'envoye à condition, s'il vous plait, que vous nous en disiez vostre opinion, et particulierement si vous Jugez, qu'elle se puisse appliquer, ou non, aux regles, que vous et Monsieur Wren auez avanc...<note n="#4"/> sur ce sujet. Monsieur Wren est à present (voire au commencement de sa nouuelle charge de surintendant des Bastimens du Roy) trop employé pour vaquer à ces sortes de speculations. Cependant l'Autheur de ce papier vous saluë tres humblement, tesmoignant vn grand desir d'entendre vostre Jugement sur ce qu'il a avancé dans cet escrit<note n="#5"/>.</p>
+<p>J'ay vû depuis peu quelques Animadversions<note n="#6"/> faites sur vos regles du mouuement, et sur celles de Monsieur Wren, l'Autheur<note n="#7"/> des quelles pretend, qu'elles font naistre une consequence trop paradoxique, si ce n'est qu'elles sont soustenuës dans des Experiences bien evidentes; asçavoir Qu'il y a vn accroissement et decroissement de la somme totale du mouuement dans le monde. Monsieur Wren dit d'auoir bien prevû et consideré cete deduction, et qu'il la reconoit pour vn corollaire, (qu'il croit estre vne verité) naturellement suivant ses regles.</p>
+<p>Si vous le desirez, ie vous feray faire vne copie de l'escrit, qui contient ces remarques, et vous l'envoieray par la poste, n'estant qu'une demy feuille de papier.</p>
+<p>Vous verrez dans peu de temps, ie croy, quelque chose considerable touchant la figure propre pour des verres optiques<note n="#8"/>.</p>
+<p>Je n'ay que faire de vous recommender la personne, qui vous porte celle-cy. La patrie, vostre humanité, et ses vertus suffisent abondamment de le faire iouir de vos bontés. Je vous prieray seulement de me faire la grace, que d'envoyer le pacquet de livres, cy joint, à Monsieur Justel<note n="#9"/>, qui vous en sera bien obligé, come aussi</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">H. Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 18 juin 1669.</p>
+</div>
+<p>J'espere, que vous auez receu le Nombre 47. de nos Transactions, ou il y a l'instruction pour user les pendules sur la mer<note n="#10"/>. Je vous l'envoiay<note n="#11"/> par la poste du 31 mai 1669.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName>
+<lb/>dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

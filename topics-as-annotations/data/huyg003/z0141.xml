@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0141"/>
+<meta type="date" value="1652-12-18"/>
+<meta type="sender" value="tacq001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leuve001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0141">
+<div type="opener">
+<p lang="la">Clarissime Domine!</p>
+</div>
+<p>Gauisus sum tuis litteris, quae vel eo nomine mihi sunt gratissimae, quod scribls liberè, quae sentias. Rectè notasti affectionem illam non esse propriam hyperbolae neque opus habere vt ex cylindris nostris demonstretur. Jnuentum quodammodo extemporale, cum ex propositione quadam nostra, viderem facile deduci, vlteriori examine non adhibito adscripseram, occasione eorum quae in praefatione de hyperbole disserueras. Quae super thesi nostrâ ratiocinaris, eadem mihi iam pridem inciderant. Arguis itaque tu quidem eruditè, sed tamen thesim non oppugnas; quando alium plane sensum illa habet, ab eo, quem tibi proposuisti. Haec igitur assertio est: Posse ex falso verum per legitimas directasque illationes deduci. Ad hoc vero impertinens est, siue eâ deductione absoluta obtineatur scientia quaesiti, siue non. Hunc sensum etiam colliges ex ratione philosophica a me nuper allata. Porro quod hoc ipsum multis viris doctis admirabile, nonnullis etiam impossibile videretur, placuit ea de re thesim ponere, non vt Geometras docerem, quibus id scirem esse notissimum, sed vt Matheseos imperitis obsequerer. Jn ijsdem thesibus, alia sunt plurima, quae potius sunt proposita ad exercitium adolescentis, quam peritioribus edocendis. Caeterum, quamuis in thesibus id non agam, videtur etiam absoluta gigni scientia quaesiti, citra deductionem vllam ad impossibile, quando ex contradictorio assertionis, infertur assertio, modo ratiocinatio formetur hunc in modum. velim probare A esse aequale B. Jta arguam: A vel est aequale B, vel non aequale, Si dicas A esse aequale B, habetur propositum: Si A dicas non esse aequale B, infertur A aequale esse B. Ergo A est aequale B. Haec illatio videtur veram parere scientiam, nulla ulterius factâ deductione ad absurdum; quia lumine naturae notum est quod ex vtroque contradictionis membro consequitur verum esse. Haec scripta sint ad pleniorem disquisitionem, non ad sensum theseos explanandum, quem dedi
+supra.</p>
+<p>In dioptrica nihil magnopere nunc quidem habeo noui. Tuum inuentum praeclarum est, si (quod reor) habeas demonstratum. Doctissimo Schootenio hic non assentior. Quamuis enim et illius iudicio multum tribuam, et Cartesium ipsum faciam plurimi: Tamen non existimo, in materijs quas tractauit, ita perspexisse eum omnia, vt nihil alijs inueniendum aut emendandum reliquerit. Deus egregios tuos in nobili argumento conatus secundet, vt quae feliciter et acutè repereris, quam primum luce donata videamus. Vale.</p>
+<div type="closer">
+<p>Tuus in Christo seruus <persName key="tacq001">Andreas Tacquet</persName>, Societatis Jesv.</p>
+<p><placeName key="leuve001">Louanij</placeName> <date>18 Dec. 1652</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Erudito ac Generoso Domino Domino <persName key="huyg003">Christiano Hugenio C.F.</persName> Hagae.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2151"/>
+<meta type="date" value="1678-12-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2151">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 9 Dec. 1678.</p>
+</div>
+<p>Je vous prie de me mander s'il vous souvient qu'un certain M. Bardon, du temps que les Francois estoient à Bommel, nous a rendu service à conserver la maison de Zulichem<note n="#1"/>. Il vous a desia escrit une lettre et voicy une seconde par la quelle il vous sollicite en vertu de ce pretendu service d'escrire en sa faveur à nos Ambassadeurs, ce que je ne crois pas que vous ferez. mais je voudrois seulement sçavoir s'il a meritè que je parle pour luy, car il me persecute beaucoup et les Ambassadeurs aussi, aux quels il offre son service gratuitement, mais il espere d'y trouver fort son compte avec le temps.</p>
+<p>Pour ce qui est de vos considerations et difficultez sur le microscope de la derniere maniere, j'ay a vous dire premierement que les petits trous excluent la lumiere de mesme que les grands plus esloignez, pourveu qu'ils soyent avec des embrasures en dedans, afin que leur bord ne reluise nullement, et pourvu qu'ils repondent directement a la lentille. La raison le veut et l'experience le confirme, et par ce moyen la machine devient moins embarassée, n'ayant pas besoin de
+tuyau. Secondement si le tuyau incommode en empeschant de remuer la plaque mobile, on peut y remedier en le faisant moins gros, ou bien en l'ostant tout a fait, et plaçant seulement le verre convexe sur un petit pied tenant a la branche du chandelier dans sa distance requise, car le soir on n'a que faire de tuyau pour exclure la lumiere.</p>
+<p>J'ay au reste fort bien compris vostre maniere d'appliquer le verre porte-objectif, mais il y reste tousjours cet inconvenient qu'il faut porter les doigts entre le tuyau et la plaque pour remuer l'object. Vous ne me dites rien de toutes ces sortes d'animaux, et si vous n'en avez pas fait naistre. Il faut mettre le poivre entier dans l'eau et beaucoup, alors on a bientost des animaux mais ce n'est qu'avec bien du temps que ces grands y vienent. Scachons ce qu'en dira Leeuwenhoek<note n="#2"/>.</p>
+<p>Je suis tres faschè de la perte du bon M. Schuyl<note n="#3"/> que mon pere m'escrit estre presque certaine. J'avois creu luy escrire, mais l'on ne m'en a pas laissè le temps.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName> etc.</p>
+</div>
+</body>
+</text>
+</TEI>

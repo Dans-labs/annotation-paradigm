@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2761"/>
+<meta type="date" value="1692-07-31"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="merl024"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2761">
+<div type="opener">
+<p>a <placeName key="denha004">la Haye</placeName> ce 31 Jul. 92.</p>
+<p>Monsieur <persName key="merl024">van Merle</persName><note n="#2"/>.</p>
+</div>
+<p>Vous deviez agir plus discretement, et ne m'envoier pas trois lettres de suite, sans songer que je pourrois estre absent ou empeschè par indisposition de vous faire response. La principale raison a estè que je n'avois rien de bon a vous dire. Je vous ay recommandè plusieurs fois a mon frere de Zulichem, et je n'y scaurois faire autre chose. C'est peut estre que vous l'importunez trop, qui luy oste l'envie de faire quelque chose pour vous. De vous assister d'argent, mes affaires ne me le permettent pas, puisque j'en emprunte et prens a interest pour paier les Taxes de l'Estat. Je ne veux point douter, que vous ne soiez celuy que vous dites, et je suppose que mon frere le croit de mesme. Vous comprenez bien pourtant qu'il doit y avoir un grand nombre de personnes qui nous soient aussi proches. C'est
+pourquoy vous ne devez pas demander de l'avancement a mon frere, comme s'il estoit obligè de vous en procurer. Je vous envoie vostre Carte Genealogique, puisque vous la voulez au plustost, quoyque le pacquet en soit bien gros. Je souhaite qu'elle vous puisse servir de quelque chose, et demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres affectionè Serviteur
+<lb/><persName key="huyg003">Chr. Hugens</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

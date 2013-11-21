@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0047"/>
+<meta type="date" value="1648-04-03"/>
+<meta type="sender" value="daub002"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0047">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Combien que Messieurs voz fils n'ayent besoin de l'attestation de personne pour leurs estudes, dont ils rendront tousjours de grandes preuves eux mesmes, si est ce que j'ay voulu continuer de leur en rendre ce tesmoignage, qui n'est pas si avantageux qu'ils n'en meritent plus que je n'en sçaurois dire, Ils sont voz fils, Monsieur, et se monstrent veritablement dignes d'un tel pere, ils ont rendu de si excellentes preuves de leur vertu, diligence, esprit et sçavoir tant en leur comportemens qu'en noz exercices publics et particuliers, qu'ils ont merité une approbation universelle et ont soustenu leurs dernieres theses avec tant d'honneur et d'applaudissement que j'en suis extremement satisfait, Et pour toucher plus particulierement celuy qui est logé chez moy, d'autant que je le hante plus familierement, je confesse qu'il est aetate juvenis sed virtute senex et que je n'ay pas encor veu tant de sagesse et de sçavoir, un esprit si vif, un jugement si exquis, une diligence si extraordinaire, une conversation si honneste et modeste et tant d'autres belles qualitez rassemblées en qui que ce soit en un aage si tendre, unde ad magna natum conjicio, en quoy Mons<hi rend="sup">r</hi> son frere apparemment le secondera, J'escris cecy de moy mesme et n'ay pas peur d'estre soupçonné de flaterie, il n'y a personne qui ne vous en sera tousjours des bons rapports, Je vous baise tres humblement les mains et demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et obeissant serviteur
+<lb/><persName key="daub002">Dauber</persName>.</p>
+<p>A <placeName key="breda001">Breda</placeName> ce <date>3 Avril 1648</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huygens</persName>, Chevalier, Seigneur de Zülichem, Conseiller et premier Secretaire d'Estat de S.A.
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

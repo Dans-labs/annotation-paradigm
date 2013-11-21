@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1933"/>
+<meta type="date" value="1673-04-28"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1933">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>en attendant que je vous aille rendre graces de bouche du precieux Present de vostre liure<note n="#1"/> où vous justifiés la solidité Geometrique de l'Inuention de vostre Pendule je vous les rends icy infinies comme d'vne tres excellente Production de vostre admirable Genie et d'vne tres chere marque de vostre genereuse amitié. Je souhaiterois que celuy que je vous enuoye pour marque de ma reconnoissance vous peut tenir lieu dvne telle retribution mais je suis bien eloigne de le pretendre et il me suffira que vous en agreies le mouvement et ne luy refusiés pas vn coin en la moins riche de vos Tablettes.
+Mon homme en vous le portant est charge de vostre propre Ouurage pour vous monstrer l'erreur du Relieur qui la rendu imparfait en y mettant deux fois la <seg org="fucile" resp="#AD" type="corr">fueile</seg> E et y ayant oublie a mettre celle de E2 de sorte que le plus accompli ouurage du Monde se trouue defectueux entre mes mains par sa faute. Vous me feres la faueur, Monsieur d'y remedier en obligeant Muguet<note n="#2"/> de vous enuoyer cette feuille de E2 afin que ie la puisse auoir par vostre moyen et la puisse inserer au lieu où elle manqua. Ce sera acheuer et donner le comble a vostre liberalité et me <seg org="consirmer" resp="#AD" type="corr">confirmer</seg> dans la passion qui me attache à vous il y a si longtemps en qualité</p>
+<div type="closer">
+<p>Monsieur, de
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="chap002">Chapelain</persName>.</p>
+<p>ce 28 Avril 1673.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huggens de Zulikem</persName> Gentilhomme Hollandois.</p>
+</div>
+</body>
+</text>
+</TEI>

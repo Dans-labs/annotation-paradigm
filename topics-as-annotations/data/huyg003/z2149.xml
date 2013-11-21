@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2149"/>
+<meta type="date" value="1678-11-19"/>
+<meta type="sender" value="vaum010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hamby901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2149">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Jay receu la lettre que vous auez pris la peine de mescrire Je vous en suis bien obligé Je vous diray monsieur en vous y respondant que puisque Japprens par
+la vostre qu'on na pas encor trouué les moyens de resoudre tous les problemes de geometrie et de connoistre quand ils sont plans ou non puisque vous y auez aussy pensé Je fais dessein de rendre ma methode generale si Je le puis et si Je ne le puis Je vous enuoyray si peu que Jay ma methode na pour fondement que la solution dvn probleme<note n="#3"/> que Jay trouué tres difficile et que Jay eu bien de la peine a resoudre Il est tel <hi rend="i">a c d e</hi> est vn Rombe Il faut du point <hi rend="i">e</hi> mener la ligne
+<hi rend="i">efb</hi> ensorte
+<figure><graphic url="huyg003oeuv08ill27.gif"></graphic></figure>
+que lintersegment <hi rend="i">fb</hi> soit egal a la ligne <hi rend="i">g</hi> donnee la solution de ce probleme est raportéé par herigone vers la fin du premier tome de son cours<note n="#4"/> la quelle solution a esté trouuéé par marinus getaldus<note n="#5"/> par la methode ancienne la quelle ne ma de rien serui pour la trouuer par la nouuelle si vous prenez la peine de la construire Je croy que vous conuiendrez quil est difficile.</p>
+<p>Pour ce qui est de lespace et de la courbe de la cycloide circulaire la demonstration en est tres facile de cette maniere.</p>
+<p>Si lon fait rouler quelque poligone que soit sur vne ligne droitte cette cycloide imparfaite sera composéé dautant de secteurs vn moins que le poligone regul. a de costez et ces secteurs la sont tousiours egaux a deux fois le cercle au quel le poligone est inscript et lespace de cette mesme cicloide imparfaite contient outre ces secteurs plusieurs triangles qui tous ensemble sont tousiours egaux au poligone dou il est aisé d'inferer que lespace de la cycloide egal a trois fois le cercle generateur Je croy que vous scauez mieux que moy ce que Je viens de dire mais si lon fait rouler vn poligone sur vn autre poligone egal et semblable au premier cette autre cycloide imparfaite sera composéé dautant de secteurs que la premiere mais ces secteurs icy sont doubles de ceux de la precedente et outre ces secteurs son espace contient les mesmes triangles que la precedente dou il ensuit que la courbe de celle cy est double de la precedente et que son espace est quintuple du cercle generateur Il ne saut que faire vne figure pour voir la verité de ce que Je dis cest pourquoy Je vous disois dans ma premiere lettre que cela estoit tres aisé.</p>
+<p>Je nay point entendu parler de cette belle inuention de mr. <persName key="rome049">Römer</persName><note n="#6"/> dont vous me parlez Je suis dans vn pays dans lequel il ny a personne de curieux en cette science Je né point dautre commerce que le vostre qui ne fait que naistre et Jay peu de liures ce que Jeu ay sont le cours d'herigone les oeuures de mr. viete la geometrie de mr. <persName key="desc004">des cartes</persName> commentéé par <persName key="scho197">Scoothen</persName><note n="#7"/> et vostre horologium oscillatorium voila tout ce que Jay mais si vous auez la bonté de dire a mr. <persName key="huet025">hue</persName><note n="#8"/> qui sont les meilleurs liures de cette science Je le priray de men enuoyer quelques vns.</p>
+<p>Je vous enuoyray le plustost que Je pourray tout ce dont Je vous ay parlé dans ma premiere lettre hormis les moyens de resoudre les plus difficiles problemes de geometrie que Je tascheray de perfectionner si Je puis si Je tarde vn peu vous en excuserez si vous plaist parceque ma profession ne me permet pas d'y trauailler autant que Je voudrois Je vous supplie de croire que Je suis auec bien de Respect.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName>De Vaumesle</persName>.</p>
+<p>a hambye ce
+<lb/>19 nouemb. 1678.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

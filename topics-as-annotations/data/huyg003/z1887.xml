@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1887"/>
+<meta type="date" value="1672-06-20"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1887">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce 10 juin 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>Venant de recevoir une lettre de Monsieur Sluse, dans laquelle vous estez interessé, ie n'ay pas voulu vous envoier l'annexe de mon journal du mois de Mars<note n="#1"/>, sans vous faire part de ce que cet excellent homme m'a communiqué: ce que ie feray dans ses propres paroles<note n="#2"/>;</p>
+<p>Leodii, 10. Junii, 1672. Ecce me iterum; sed ut <hi rend="i">ἀβλεψίαν</hi> duntaxat indicem, quae in postremas meas irrepsit. Cum enim Nobilissimi Hugenii constructionem, quam ad me miseras, animo variis curis distracto, ad calculos revocassem, levi calami lapsu (sumpto scil. signo + pro -) in aequationem incidi, quae mihi persuasit, Virum accutissimum diversam à mea Analysin instituisse. Facilé autem falsa illa aequatio mutari poterat in aliam ad Parabolam; quod, absque ulteriori examine, occasionem mihi praebuit ut ad Te scriberem, Parabolam dari ex illius Analysi, quae casibus Problematis omnibus satisfaceret. Dele igitur, si me amas, hoc postremum ex mea Epistola; nam omninó falsum est. Cum enim eâdem ipsâ vesperâ, quâ ad Te scripseram, in calculos meos forté incidissem, eosque attentius relegerem, lapsum meum animadverti, ac tandem agnovi, Cl. Hugenium non aliâ usum analysi quam meâ, quae Parabolam uno tantum casu admittit. Quod ut
+evidentiùs sibi constet, aequationem, quam construxit, hîc adscribam. Repete memoriâ, si placet, quae secundis curis ad te scripsi, et invenies, me duas aequationes, Problemati per hyperbolam circa asymptotos solvendo idoneas, assignasse, has nimirum 2<hi rend="i">zbaa</hi> - 2<hi rend="i">znae</hi> - <hi rend="i">qqba</hi> + <hi rend="i">qqne</hi>//<hi rend="i">bzqq</hi> - <hi rend="i">zqqe</hi>, et <hi rend="i">bzqq</hi> - 2<hi rend="i">znae</hi> - <hi rend="i">qqba</hi> + <hi rend="i">qqne</hi>//2<hi rend="i">zbee</hi> - <hi rend="i">zqqe</hi>. ac subjecisse levi mutatione (substituendo E.G. pro <hi rend="i">qq</hi> ejus valorem <hi rend="i">aa</hi> + <hi rend="i">ee</hi>) inveniri posse infinitas hyperbolas et ellipses, quae cum circulo dato Problema solverent. Nunc in priore ex his aequationibus pro <hi rend="i">bzqq</hi> ponatur ejus valor, fiet</p>
+<q rend="bq"><hi rend="i">zbaa</hi> - 2<hi rend="i">znae</hi> - <hi rend="i">qqba</hi> + <hi rend="i">qqne</hi>//<hi rend="i">bzee</hi> - <hi rend="i">zqqe</hi>
+<lb/>sive <hi rend="i">aa</hi> - <hi rend="i">qga</hi>/<hi rend="i">z</hi>//<hi rend="i">ee</hi> - <hi rend="i">qqe</hi>/<hi rend="i">b</hi> + 2<hi rend="i">nae</hi>/<hi rend="i">b</hi> - <hi rend="i">qqne</hi>/<hi rend="i">bz</hi>.</q>
+<p>Atque haec est aequatio, quam magno ingenii acumine ac pari facilitate construxit Vir doctissimus, quod ut Tibi pluribus probem, opus non est, quando labore non multo rem ad calculos revocando id agnoscere poteris.</p>
+<p>C'est le contenu de sa lettre du 10 juin, mais puis qu'elle regarde une autre sienne, qu'il m'a escrite seulement deux iours devant<note n="#3"/> ascavoir le 8. juin sans laquelle l'autre ne se peut pas entendre, ie me trouve obligé de vous en extraire ce qui touche cet argument; qui est:</p>
+<p>Quae ad Alhazeni Problema meditatus fui hactenus, rudia licet et impolita, tui juris sunt. De iis igitur dispone prout libet. Simplicissima est et maximé ingeniosa Nobilissimi Hugenii constructio. Vidit quippe Vir acutissimus, quâ ratione ad omnes casus extendi posset hyperbola aequalium laterum, quam in casu anguli recti sese statim offerre praecedentibus meis insinuaveram. Sed vidit etiam, ut existimo, eâdem analysi (quam tamen non adscripsit) inveniri parabolam facilè parabilem, quae casibus Problematis omnibus satisfaciat<note n="#4"/>.</p>
+<p>Posset quoque ex infinitis Ellipsibus, quae adhiberi possunt, una seligi non difficilis constructionis; sed nolim diutius in eodem Problemate haerere.</p>
+<p>Superest tamen aliquid, quod contemplationem habet non injucundam; nimirum cum sectiones, quae cum circulo dato ad solutionem Problematis adhibentur, illum in quatuor punctis secent, quorum duo tantum reflectioni serviunt, quaeri posset, quodnam Problema solvant duo reliqua, et quanam verborum formâ concipienda sit propositio ut 4tuor illos casus complectatur.</p>
+<p>Deinde, annon etiam iidem 4tuor casus occurrant, cum puncta data aequaliter distant à centro<note n="#5"/>.</p>
+<p>Voicy, Monsieur, les particularitez, que ie croiois vous devoir communiquer;
+que vous pourrez conferer avec ce que ie vous envoiay, il y a quelque temps, de la mesme personne, extrait de sa lettre<note n="#6"/> du 6. cal. januar. 1672. que vous m'avez assuré d'avoir receue par la vostre du 9. Avril 1672. Je seray bien aise d'entendre, que celle-cy vous ait esté rendue, come aussi les autres, que ie vous ay escrites depuis vostre derniere. J'espere que vostre Traité des Pendules est soubs la presse; et il me tarde d'entendre le succes, que vos Essays ont eu touchant le nouveau Telescope de Monsieur Newton<note n="#7"/>. Au reste, ie suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,17 @@
+// ident @(#)lq01.mql	1.1 04/02/16
+// This finds instances of the verb "FIJM" (to put) with double object
+// both in Hebrew and Aramaic.
+// Janet Dyk came up with this problem.
+
+SELECT ALL OBJECTS
+WHERE
+[Clause
+  [Phrase
+     [Word psp = verb AND lexeme = "FJM["]
+  ]
+  ..
+  [Phrase function = Objc OR function = IrpO]
+  ..
+  [Phrase function = Objc OR function = IrpO]
+]
+GO

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1451"/>
+<meta type="date" value="1665-08-27"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1451">
+<div type="opener">
+<p>A M. <persName key="huyg003">Christianus Huggens</persName> Gentilhomme Hollandois A La Haye.</p>
+<p>Monsieur</p>
+</div>
+<p><hi rend="i">Omnia tuta timens</hi> dans les choses que je désire le plus, je ne voulois vous assurer de la négociation qui a esté faitte pour vous engager dans le service du Roy, et vous attirer dans sa Cour, qu'après l'accomplissement entier de l'affaire, et si je vous en ay parlé douteusement jusqu'icy ça esté pour n'avoir pas à vous en faire de mauvaises excuses si elle fust venüe à manquer. Enfin, tout estant resolu, je me préparois à vous donner cette bonne nouvelle lorsque j'appris que Monsieur <persName key="colb012">Colbert</persName> luy mesme vous l'alloit donner<note n="#1"/>. Comme il estoit la source de cet establissement, et que je ne vous en pouvois parler que sur sa parole, je creus qu'il valoit mieux le laisser parler tout seul et ne mesler point son oracle avec une aussi foible voix que la mienne, laquelle n'eust esté qu'un inutile écho.</p>
+<p>Je pense que Monsieur Carcavi qui a eu si bonne part à ce négoce ne s'abstint, la semaine passée, de vous en feliciter que par la mesme raison, et la lettre<note n="#2"/> que vous trouverés de luy avec la mienne s'en expliquera peut-estre dans le mesme sentiment. Il ne nous reste, Monsieur, qu'à nous en resjoüir cordialement avec vous; et à vous conjurer de rompre tous les empeschemens qui pourroient retarder vostre voyage afin de monstrer au Roy et à Monsieur <persName key="colb012">Colbert</persName> l'impatience que vous avés d'entrer en possession de la grâce qui vous est faitte et de venir joüir de l'accueil que tout ce que vous avés d'amis icy vous feront.</p>
+<p>Vous recevrés cependant une autre lettre de Monsieur <persName key="colb012">Colbert</persName><note n="#3"/> avec une de change de non moindre somme que celles des années précedentes<note n="#4"/>, que Sa Majesté luy a ordonné de vous envoyer pour le présent qu'Elle a continué aux gens de lettres encore celle-cy. Vous en remercirés sans doute le prince<note n="#5"/> et le ministre<note n="#6"/> par escrit et m'envoyerés vos remercimens par Monsieur van Beuning pour une seureté plus grande. Il seroit a souhaitter que les ouvrages mathematiques que vous
+destinés à Sa Majesté parussent et luy fussent offerts en mesme temps que vous entrés dans son service ou incontinent après. Je m'en remets à vostre prudence et demeure, Monsieur, vostre, etc.</p>
+<div type="closer">
+<p>De <placeName key="parij001">Paris</placeName>, ce <hi rend="sc">xxvii</hi> aoust 1665.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

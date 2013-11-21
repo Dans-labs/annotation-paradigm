@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0604a"/>
+<meta type="date" value="1659-03-31"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0604">
+<p lang="it">Signor Ismael. Hò con sommo mio contento riceuto la lettera di Vostra Signoria de 28 scorso, mentre da essa ho sentito esserle comparsa la mia, nella quale li auuiso hauerle mandato uari strumentini di vetro conforme ella me ne haueua fatta instanza; et piu caro mi sarà udire che i medesimi sieno comparsi in sua mano et senza patimento. Et intorno a quel Termometro inviatole dall' Amico di Pollonia, per poter dare a Vostra Signoria qualche aggiustata risposta sopra le sue operazioni, è necessario che ella mi mandi una misura, o disegno puntuale della sua grandezza, et in quanti gradi sia diviso, con aggiugnerui la relazione di una esperienza, che desidererei Vostra Signoria facesse, che è questa di mettere il Termometro dentro al Diaccio stritolato e osservare se quanto l'acqua del Termometro et a che gradi cali doppo essere il medesimo stato nel Diaccio per lo spazio di mezza ora,
+e con tenervelo tanto tempo sommerso, che cali alla minor possibile bassezza. Circa lo Oriuolo regolato dal Pendolo, certo è che l'Invenzione è bella, ma non si deve defraudare della gloria douutali al nostro Signore per sempre ammirabile Galileo, che gia nel mille seicento trentasei, si io non erro, propose questa si utile invenzione alli Signori Stati d'Olanda<note n="#2"/> et io ne ho ritrovato, benche in parte diverso circa la constituzione delle ruote, un modello fatto gia dal medesimo Signore Galileo; et tre anni sono, che quasi studiò sopra l'istesso suggetto, ne fu fatto uno da un virtuoso, che spero riuscirà, ridotta la sua fabrica al pulito di non minor' facilità et justezza del ritrovato dal Christiano Hugenio. Ed confermando a Vostra Signoria la mia sempre affettuosa disposizione le auguro dal Cielo ogni contento</p>
+<div type="closer">
+<p lang="it">Amoreuole di Vostra Signoria Il Principe <persName key="medi012">Leopold</persName>.</p>
+<p lang="it">Signore <persName key="boul014">Ismaelo Bullialdo</persName>.</p>
+<p lang="it">Di <placeName key="flore001">firenze</placeName> <date>31 Marzo 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

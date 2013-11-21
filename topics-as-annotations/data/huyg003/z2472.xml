@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2472"/>
+<meta type="date" value="1687-07-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gent015"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="amste001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2472">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Je laisse la toutes ses responses. il en jugera quand il aura examinè plus a loisir toute cette matiere. Si sa construction des Tangentes est bonne il faut qu'elle le soit aussi dans les cas, ou quelques uns des foiers sont ramassez en un point, comme lors que dans sa fig. 19<note n="#1"/> les foiers C, D sont coincidents, ou lors que dans sa fig. 8e les foiers A, B sont reunis en D ou en C. dans tous lesquels cas ses courbes sont comme celles qui n'ont que deux foiers d'ou partent nombre inegal de chordes c'est a dire que ces courbes sont telles que Mr. <persName key="duil010">Fatio</persName> les considère dans sa premiere figure. Or en ces cas il est certain, premièrement que la methode de M. de T. par la section des arcs se reduit a ce qu'a dit M. Fatio. Il est de plus certain que la bissection ne suffit pas toujours, comme M. de T. verra s'il veut chercher la tangente dans sa courbe fig. 8, lors qu'il y a 3 foiers coincidents ainsi que je l'ay dit.</p>
+<p>Il paroit en 3e lieu que la methode de M.T. n'est pas bonne dans les courbes a 2 foiers, telles que je viens de les poser, puis que M. Fatio a demontrè que sa methode par les centres de gr. est différente.</p>
+<p>Il s'ensuit de mesme que la construction de M. de T. est fausse dans sa courbe a 3 foiers separez comme fig. 19 puis qu'il y a demonstration de la construction de M. Fatio, qui est differente. Voyez celle de M. De Volder et la suppleez.</p>
+<p>Dans les courbes que definit M. Fatio toutes celles de M. Tsch. sont comprises.</p>
+</div>
+<div type="opener">
+<p>8 Jul. 1687.</p>
+<p>Ad <persName key="gent015">P. Gentium</persName> Med: Amstelodamensem.</p>
+</div>
+<p>Expecto indies num quae a D. De Tschirnhaus confessio erroris adferatur, quae quamdiu cessabit, putabo eum ab illa animi commotiuncula quam D. Fatij <hi rend="i">ἐλεγξις</hi>
+excitavit, non conquievisse. Adeoque necdum tempestivum esse, ut literis meis ipsum compellem. Frustra enim nunc ostendere ipsi laborem quam nihili sit <hi rend="i">univer sa</hi> Apologia illa, etiam additis quae proxima epistola communicasti. Postea vero ultro hoc ipse agnoscet ubi paulum ardor resederit, quod si scivisset quam diu <hi rend="i">quamque</hi> diligenter rem hanc omnem inspexerim non tam facile me credidisset una cum Fatio hallucinatum. Annotaveram epistola praecedente nonnulla quae sola lucis aliquid praebere possent Viro nobilissimo, si quidem eorum ipsi copiam fecisti. Ecce vero et illa et alia quae ad rem faciunt, clarius hìc explico. Nempe</p>
+<p>Si constructio D. de Tsch. ad inveniendas tangentes suarum curvarum proba est, oportet ijs quoque casibus eam quadrare quibus Focorum aliqui in unum punctum convenire ponuntur, veluti cum fig. 19. foci C, D, eodem incidunt. Vel cum fig. 8 foci A, B incidunt in D vel in C. Quibus omnibus casibus tales fiunt curvae D. de Tch. quales sunt quae binos tantum focos habent, e quibus fila inaequali numero extendantur. Hoc est quales D. Fatius illas fig. sua considerat. Hisce vero positis constat primo, methodum D. de Tch. quae sectionem arcuum adhibit, eo deduci, quo Fatius dixit, ita enim in fig. 19 fiet arcus FL ad LG, ut 3 ad 1. Constat insuper non sufficere ubivis bisectionem arcus, uti facile videbit D. de Tch. si tangentem curvae suae fig. 8<hi rend="sup">ae</hi> ducere conetur, cum tres e focis quatuor, quem admodum dixi in idem punctum cadunt. Esset enim trisectione opus. Sed et hoc manifestum est methodum hanc D. de Tch. non recte se habere in curvis hisce duos focos et fila inaequali multitudine habentibus; quandoquidem demonstratione geometricâ evincit D. Fatius suam methodum veram ac legitimam esse, quae ab illa D. de Tch. discrepat. Sed certissime omnium errorem suum hunc cognoscet Vir nobilissimus, quod in curva sua fig. 19 manentibus tribus diversis dissiunctisque focis, quemadmodum ab ipso proposita est, bonam esse Fatij constructionem e centro gravitatis derivatum demonstratione D. de Volder constat, ea ipsa nimirum quae Fatio ac mihi quoque pridem fuit cognita. Eam prae festinatione aliqua parte mutilam mihi descripsisti. Debuit enim initio statui, idque a D<hi rend="sup">o</hi>. Voldero factum credo, transire rectam ML<note n="#2"/> cui tangens MN perpend. ducenda per centrum gravitatis punctorum F, I, et G, sed G dupla pondere gravati, unde sequitur perpendiculares FR, IV aequari duplae GT. Reliqua bene se habent.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2477"/>
+<meta type="date" value="1687-08-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="coet007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="arnhe001"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2477">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>A Mr. <persName key="coet007">Henr. Coets</persName>. Sa methode<note n="#1"/> est bonne pour representer a l'oeil la figure de ces courbes. Elle seroit plus considerable si elle pouvoit servir aussi dans des courbes dont l'Equation consiste en plusieurs termes.
+<lb/>Mais je ne croy pas qu'elle y aille bien loin, parce que dans ces sortes l'une des inconnues <hi rend="i">x</hi>,<hi rend="i">y</hi> peut avoir plusieurs valeurs.
+<lb/>Mr. <persName key="desc004">des Cartes</persName> lettre 5e du 3 vol. donne a entendre qu'il faut une equation cubique pour trouver <hi rend="i">tous</hi> les points de cette courbe qu'on nommoit le galand<note n="#2"/>.
+<lb/>L'on ne peut pas dire que vostre maniere de trouver les points des courbes ne soit geometrique ni qu'elles ne soient geometriques au sens de M. des Cartes mais l'on n'avoue pas pour cela que vous ayez une methode geometrique de decrire ces courbes ni qu'estant decrites ainsi par des points elles puissent servir a la construction geometrique des problemes. Car a cela selon moy il n'y a point de courbe qui puisse servir si non celles qu'on peut decrire entieres par le moyen de quelque machine ainsi que le cercle par le compas et les sections coniques par les instruments qu'on a inventez pour cela. Car les courbes decrites a la main et menees par des points ne donnent que des solutions approchantes, et qui ne se peuvent pas dire parfaites ni par consequent geometriques<note n="#3"/>.</p>
+</div>
+<div type="opener">
+<p>Hage den 27 Aug. 1687.</p>
+<p>Mr. <persName key="coet007">H. Coets</persName> tot Arnhem.</p>
+<p>Mijn Heer</p>
+</div>
+<p>Ick ben tot nu toe belet geworden, soo door indispositie als daer nae door eenighe andere occupatien van UE antwoordt te laeten toekomen op sijn schrijvens van den 20 Julij. Ick sende dan UE sijn Tractaet van het beschrijven der kromme linien wederom, en wat aengaet die van de Equatie <hi rend="i">a</hi><hi rend="sup">14</hi><hi rend="i">y</hi><hi rend="sup">3</hi> ℞ <hi rend="i">x</hi><hi rend="sup">17</hi> houde mij voldaen door UE solutien daer op gegeven; die mij als in deese materie weynigh geoeffent niet te vooren en was [ge]komen. Ick geloove dat oock noch wel andere van UE problemata even soo veel difficulteyt hebben, die UE ongesolveert gelaeten heeft, als <hi rend="i">q</hi><hi rend="sup">6</hi><hi rend="i">x</hi><hi rend="sup">6</hi> ℞ <hi rend="i">qqry</hi><hi rend="sup">9</hi> + <hi rend="i">ry</hi><hi rend="sup">11</hi>. Alwaer mij nu niet anders voorkomt om te moghen stellen als <hi rend="i">qqry</hi><hi rend="sup">9</hi> + <hi rend="i">ry</hi><hi rend="sup">11</hi> ℞ <hi rend="i">p</hi><hi rend="sup">3</hi><hi rend="i">y</hi><hi rend="sup">9</hi>. Waer uyt komt <hi rend="i">yy</hi> ℞ <hi rend="i">p</hi><hi rend="sup">3</hi> - <hi rend="i">qq</hi><hi rend="sup">r</hi> / <hi rend="i">r</hi>, en <hi rend="i">xx</hi> ℞ <hi rend="i">py</hi><hi rend="sup">3</hi> / <hi rend="i">qq</hi>. Voorts wat aengaet de utiliteyt van UE methode, die bestaet soo mij dunckt meest hierin om de gedaente van seeckere linien daer van UE de Equatie voorstelt uyt te beelden, en het waer te wenschen dat de methode om sulcx in alle Equatien te doen bekent waer. Het waer oock wel noodigh UE constructien hiertoe te doen dienen om de geheele gestalte der kromme linien voor ooghen te stellen. Als bij exempel in de Equatie <hi rend="i">aay</hi> ℞ <hi rend="i">x</hi><hi rend="sup">3</hi>, te doen sien dat de Paraboloides deese figuer<note n="#4"/> heeft en
+daerom A geen eygentlijck
+<figure><graphic url="huyg003oeuv09ill45.gif"></graphic></figure>
+vertex en is. Het is voorts niet te twijffelen of UE manier in 't vinden der puncten is geometrisch, ende oock UE kromme linien alle van die soort die des Cartes voor Geometrische erkent. doch soo en kan men niet seggen dat het beschrijven van een kromme linie door gevonden puncten geometrisch ofte volkomen sij, of dat sulcke beschreven linien konnen dienen tot geometrische constructie van eenighe problemata, dewijl hiertoe, nae mijn opinie, geen kromme linien en konnen dienen als die door eenigh instrument vervolgens beschreven konnen worden, gelijck den Cirkel door een passer; en de Conische Sectien, Conchoides en andere door de instrumenten daertoe geinventeert. Want de linien met de handt van punt tot punt getrocken alleenlijck de gesochte quantiteyt ten naesten bij konnen geven en dienvolgens niet naer de Geometrische perfectie. Want wat helpt het sooveel puncten te vinden als men wil, indien men dat eene punct dat gesocht
+werdt niet en vindt? Ende indien dese beschrijvingh door puncten tot de constructie der problemata goedt gekeurt wierdt, waerom en soude oock de deelingh van een circkelboogh in een gegeven reden, door de Quadratix van Dinostratus, niet voor geometrisch gehouden werden? dewijl men van deese oock sooveel puncten, en soo nae aen 't begeerde vinden kan als men begeert.</p>
+<p>De constructien van het Problema van 't keerpunct in de Conchoides soo wel de uwe als de mijne<note n="#5"/> en moghen voor de rechte niet gehouden worden, dewijl het selve punct kan gevonden worden, sonder eenige conische sectie te gebruycken, als Heuraet over langh getoont heeft<note n="#6"/>. Ick vinde onder mijne papieren eenighe diergelijcke constructien, die ick eertijds gesocht heb, nae dat de sijne was uijtgekomen,
+<figure><graphic url="huyg003oeuv09ill46.gif"></graphic></figure>
+en onder anderen een die redelijk kort is<note n="#7"/>, sijnde als volght. CE is de Conchoides. G het center. AC een diameter. AB de Asymptotos. Vindt een vijfde proportionael tot de linien 3 GA en 2 AC. welkers Proportionaels helft
+genomen van G tot F, soo beschrijft uyt het center F met den halven diameter FK diens quadraet gelijck is aen de quadraten AF en AC min het quadraet GA, de circumferentie HK<note n="#8"/> snijdende de Conchoides in K, waer van daen zij getrokken KM parall. met AB. en gelijck 3AG tot 2AC, soo sij AM tot AN. Voorts uyt het center G met den radius GE gelijk aen NC, beschrijft een circumfer. die de Conchoides doorsnijdt in E, soo is E het gesochte keerpunct.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0003c"/>
+<meta type="date" value="1643-11"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="c0003">
+<div type="section">
+<head rend="h4">Studiorum Anni <date>CIƆIƆCXLIII</date> et aliquot retro mensium, Ratio.</head>
+<list>
+<item>Livij tomum tertium legere caepimus <date>XIX Februarii CIƆIƆCXLII</date>.</item>
+<item>Latinis initiabatur Philippus <date>V Kal. Majas CIƆIƆCXLII</date>.</item>
+<item>Silium absolverunt Constantinus et Christianus <date>VIII. Idvs Augusti CIƆIƆCXLII</date>.</item>
+<item>Tristia Ludovicus <date>postridic Id. Augusti 1642</date>.</item>
+<item>Horatius legi caeptus <date>XIV Cal. Septembris 1642</date>.</item>
+<item>Logicam<note n="#2"/> Burgersdici<note n="#3"/> aggressi sumus 25. Augusti 1642.</item>
+<item>Ovidii de Ponto eodem die.</item>
+<item>Livij tertium tomum absolvimus <date>29 Augusti 1642</date>.</item>
+<item>Sallustii Catilinariam legere auspicabamur <date>ipsis Kalend. Septembris 1642</date>.</item>
+<item>Absolvebamus <date>pridie Non. Octobris 1642</date>.</item>
+<item>Jugurthini belli lectioni initium dabat octavus Octobris. finem 26<hi rend="sup">tus</hi> Anno 1642.</item>
+<item>Sleidanum repetere caepimus 27. Octobris, absolvimus 29 Novembris.</item>
+<item>Plautus legi caeptus <date>X Novembris 1642</date>.</item>
+<item>Metamorphoses cum Ludovico 22 Novembris.</item>
+<item>Litteras de Pon [to]<note n="#4"/> absolvimus 3 Decembris.</item>
+<item>Justinum cum [Lu]<note n="#5"/> dovico aggressus <date>4 Decembris 1642</date>.</item>
+<item>Virgilii Eclogas [eodem]<note n="#6"/> die, absolvi <date>XII Januarij 1643</date>.</item>
+<item>Suetonius legi caeptus <date>17. Decembris 1642</date>.</item>
+</list>
+<p><date>CIƆIƆCXLIII</date>.</p>
+<list>
+<item>Aeneis legi caepta cum Ludovico 17. Januarij.</item>
+<item>Oratoriam Ludovicus aggressus 29 Martij.</item>
+<item>Plautus absolutus 17 Aprilis.</item>
+<item>Ludovicus oratoria praecepta absolvit postridie Cal. quint.</item>
+<item>Lucam absolvimus 16 Junij.</item>
+<item>Suetonium 21. Augusti.</item>
+<item>Metamorphoses 7 Augusti.</item>
+<item>Ludovicus Graeca auspicatus est 24 Augusti.</item>
+<item>Lucianum aggressi sumus 2. Septembris.</item>
+<item>Horatium absolvimus 4. Septembris.</item>
+</list>
+<list>
+<item>Constantinus et Christianus testudine canere caeperunt sub Somerio<note n="#7"/>, 20 Maij 1642.</item>
+<item>Cijmbalis sub Stephano van Eijck<note n="#8"/> ipsis Cal. Junij 1643.</item>
+<item>Gallicam linguam eodem die cum Ludovico aggrediebantur.</item>
+</list>
+</div>
+<div type="closer">
+<p>Hen[ricus]<note n="#9"/> <persName key="brun004">Bruno</persName>.</p>
+<p>[<placeName key="denha004">Hag. Com.</placeName>]<note n="#10"/> <date>Nov. CIƆIƆCXLIII</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

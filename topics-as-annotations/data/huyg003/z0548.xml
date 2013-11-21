@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0548"/>
+<meta type="date" value="1658-11-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0548">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> <date>21 Nov. 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous m'avez escrit de procurer une horologe pour un de vos amis sans me dire de quelle façon il la desire, sçavoir à ressort ou à contrepoids, qui sonne les heures, ou qui simplement les monstre. Aussi tost que vous m'en aurez donnè advis, je m'employeray tres volontiers a executer vos ordres. J'ay travaillè avec succes au grand verre que j'ay fait pour vous, de quoy je vous puis assurer apres l'avoir essayè à regarder les planetes de ♄ ♓ et ☿. Il est mieux achevè que le mien que vous avez vu, mais rend la lunette plus courte d'un pied et demy, de sorte que je suis encore en doute lequel des deux je prendray pour moy. J'ay estè estonnè de veoir que tousjours les derniers verres ont estè plus courts que les precedents; mais a present j'en scay la cause, qui est que les formes de fer s'usent plus vers le milieu que pres des bords, ce qui les fait devenir plus creux qu'auparavant, quoy que la figure leur devienne tousjours parfaitement spherique. Or par quelle voye voulez vous que je vous envoye vos verres. Le meilleur à mon advis seroit d'attendre que quelqu'un s'en allast d'icy en France à qui on les pourroit confier, car le pacquet seroit un peu gros pour la poste, parce qu'il faudroit couvrir cette fragile marchandise d'une boete de bois assez espesse. Mais je suivray vostre conseil et en les envoyant je n'oublieray pas de vous donner quelque information touchant le canon<note n="#1"/> de fer blancq, et autres appartenences.</p>
+<p>L'on m'a dit que Monsieur <persName key="pasc001">Pascal</persName> a resolu tous les problemes de vostre auteur incognu, et qu'il en a fait imprimer une feuille<note n="#2"/>. C'estoyent des personnes qui l'avoyent vüe. Je m'estonne que personne ne me l'ait envoyée, et vous prie de vous en enquerir. J'ay aussi priè Monsieur <persName key="chap002">Chapelain</persName> de m'envoyer une autre copie du dessein de Monsieur <persName key="robe012">de Roberval</persName> pour une horologe avec un pendulum,
+la premiere s'estant perdue avec sa lettre. Vous m'obligerez de luy en faire souvenir, puis qu'il me l'a promise, et que je desire avec impatience de la veoir. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

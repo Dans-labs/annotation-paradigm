@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1035"/>
+<meta type="date" value="1662-07"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1034"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1035">
+<div type="section">
+<head rend="h4">Tabula Condensationis Aeris<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv04ill43.gif"></graphic></figure></p>
+<list>
+<label>A A.</label><item>Numerus aequalium spatiorum in breviori crure, quod continebat eandem portionem Aëris diversimodè extensi.</item>
+<label></label><item></item>
+<label>B.</label><item>Altitudo Cylindri <hi rend="i">Mercurialis</hi> in longiori crure, qui Aërem comprimebat in istas dimensiones.</item>
+<label></label><item></item>
+<label>C.</label><item>Altitudo Cylindri <hi rend="i">Mercurialis</hi>, qui aequi ponderabat pressioni <hi rend="i">Atmosphaerae</hi>.</item>
+<label></label><item></item>
+<label>D.</label><item>Aggregatum duarum proximarum columnarum B &amp; C, pressionem exhibens ab incluso Aëre sustentatum.</item>
+<label></label><item></item>
+<label>E.</label><item>Quanta illa pressio esse debebat juxta <hi rend="i">Hypothesin</hi>, quae supponit, Pressiones &amp; expansiones in proportione esse reciprocas<note n="#3"/>.</item>
+</list>
+</div>
+</div>
+</body>
+</text>
+</TEI>

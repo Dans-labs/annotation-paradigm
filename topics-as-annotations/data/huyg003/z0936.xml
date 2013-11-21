@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0936"/>
+<meta type="date" value="1661-12-27"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="dati010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0936">
+<div type="opener">
+<p>Viro Clarissimo <persName key="dati010">Carolo Dato</persName> <persName key="hein009">Nicolavs Heinsivs</persName> S.P.D.</p>
+</div>
+<p>Dvabus Tuis Epistolis debeo responsum, Date iucundissime; quarum priores perbreves illae, &amp; Laconicae, die nono Septembris proxime elapsi, posteriores Novembris octavo erant exaratae. Mediae inter illas intercidisse in itinere videntur; ad me certe perlatae nequaquam sunt. Nam quod in prioribus pollicebare mox fore, ut de Systemate Saturnio iudicium Serenissimi Principis Leopoldi ad nos perscriberes, simulac is id scriptum perlegisset, quod recens tum in manus Tuas pervenerat, huius promissi fidem hactenus desidero. De multis praeterea Tecum egeram per literas, ad quae praeter morem Tuum aut nihil aut parum reponis. De Tubo Hugenii Optico, quod posteriores tuae doceri postulant, scias velim, amicum illum meum non sine multo labore duos manibus suis efformasse, quorum unum servarit sibi, altero donarit Bullialdum nostrum, ut similis tubi obtinendi spes non sit, nisi ab ipso Hugenio obtineatur. Si iubes, ut illud officium ab eo exigam, non dubito gratiae Principis Serenissimi omnia illum daturum; nihil tamen Te inconsulto tentare volui. Si coniectura me non fallit, quae sit ut persuadear periisse in via literarum Tuarum fasciculum, qua via miseris fac sciam, ut ex fuga ac errore, si fieri possit, retrahantur epistolae. Emericum Bigotium<note n="#1"/> vobis adesse gaudeo, quem in potissimis amicis numero. Si certo mihi constaret, in qua Italiae vestrae Civitate pedem fixerit eximius ille iuvenis, eum ipsum per literas compellarem. Menses enim complures sunt, quod omnia Castelvetri<note n="#2"/> opuscula, aliosque libellos Rothomagum misi ad paternas<note n="#3"/> aedes, de quibus an eo sint perlati, nihil hactenus intelligo. De permutandis libris Arabicis Elzevirios &amp; Blavum rursum conveniam &amp; an conditionem oblatam admittant, ut cognoscas operam dabo. De opere etiam Mathematico <persName key="vivi012">Vincentii Viviani</persName> rem urgebo. Golium promissi admonere non desino de Pithagoricis Symbolis<note n="#4"/>, quae Arabice extant in Bibliotheca Leidensi, sed,
+ut mirus est procrastinator, nihil hactenus, aut parum promoveo. Interim tradidit specimen hoc Apollonii sui ex Arabico translati, ut conferas cum editione Florentina, quae nunc sub praelo est. Apud nos in literis altum nunc est silentium. Aldobrandini<note n="#5"/> Laertium<note n="#6"/> in Anglia edi audio, ubi Epicteti Enchiridion<note n="#7"/> notis Emerici Casauboni<note n="#8"/> illustratum nuper prodiit. Scribit ad me Carolus Antonius Puteus<note n="#9"/> de libro uno alteroque Romae nuper edito, quos ad me perlatos cupit, si viam, qua possint perferri, sciat. Proxime illi respondebo. Specimen Apollonii putabam ad manum mihi esse, sed non est. Id quoque proxime expecta. Vale, meum decus.</p>
+<p>Dabam festinans <placeName key="denha004">Hagae Comitis</placeName> <hi rend="sc">mdclxi</hi>. die <hi rend="sc">xxvii</hi> Decembris.</p>
+</div>
+</body>
+</text>
+</TEI>

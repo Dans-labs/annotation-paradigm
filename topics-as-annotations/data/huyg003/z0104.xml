@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0104"/>
+<meta type="date" value="1651-11-13"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0104">
+<div type="opener">
+<p lang="la"><persName key="scho197">Fr. à Schooten</persName>, Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> S.D.</p>
+</div>
+<p>Remitto scripta tua, à me perlecta, quae, ut verum fatear, in difficili adeò materia me sanè ubique attentum requisiverunt. Demonstrationes autem tuae mihi valde placent, tum quòd sint breves et accuratae, tum quòd Patris Gregorij multitudo propositionum, quarum plures, ut ipsemet fatetur, ad quadraturam nullo modo sunt requisitae, rem ita obscuram reddat, ut qui eam perspicere velit, id sine maximo labore assequi non posset, ideoque tuarum demonstrationum beneficio inutiles omnes eliminentur. Quae certè ratio est cur ab isthoc opere semper abhorruerim, neque tempus invenire potuerim, quod in illo examinando impenderem. Fateri debeo, demonstrationes tuas mihi multa haud dubiè suggessisse, quae, si studio isti mihi incumbere animus fuisset, magno alioquin impendio inquirere debuissem, ista jam ita exposita sunt, ut et alij, qui idem fortè olim verebantur, jam habeant, quo tibi plurimum debeant. Duo sunt quae deprehendi, nimirum quod tu respiciens, quo pacto ipsum facillimè omnium à scopo suo aberrasse convincas, demonstrata quaedam ejus alijs casibus applicueris. Ideoque suaderem, ne tibi refragari, ac ipsi refugium aliquod patere, posset, ut casuum, quos assumis, demonstrationem quaereres: siquidem tuum
+existimo demonstrare illos. Et fortè id facile assequeris, cum eodem fermè modo, quo suae (ut autumo) incedere debeant. Caeterum quae inter legendum à me annotata sunt, in margine reperies. Vale.</p>
+<div type="closer">
+<p>Die <date>13 Novembris 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName>.
+<lb/>in S'graven-hage op t'plein.
+<lb/>Cito
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

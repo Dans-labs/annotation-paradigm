@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0643"/>
+<meta type="date" value="1659-07-29"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0643">
+<div type="opener">
+<p><placeName key="luik_001">Leodij</placeName> <date>29 Julij 1659</date>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Libellum meum Tibi placere, iucundum mihi accidit, sed longe iucundius eum curâ tuâ et inquisitione dignum censeri. Perge igitur, et si quid <hi rend="i">οὐχ ὑγιες</hi> inueneris, admone paratum semper vel explicare vel corrigere. Methodum, quâ vsus sum, deprehensurum te non dubito, viam enim vt video, insistis. Cum autem illam inueneris nullo negotio in 14<hi rend="sup">tâ</hi> et sequenti propositione infinitas Ellipses vel Hyperbolas pro vnâ parabolâ substitues. Est et aliud de quo mentionem non fecj, in Problematibus scilicet planis, saepe hac viâ infinitos etiam circulos qui cum lineâ rectâ proposito satisfaciant reperiri, et constructiones etiam plures ac faciles in ijs Problematibus quae hactenus inter difficilia numerauimus: vt in illo Pappi libro 7<hi rend="sup">o</hi> propositione 72, cuius tu nouam olim<note n="#1"/> demonstrationem protulistj. Bibliothecam omnem S<hi rend="sup">ti</hi> Jacobj excussivt Manuscriptum Ouidij inuenirem<note n="#2"/>, et cum diligentiae meae non fiderem, indices euoluj, seniores qui antehac eidem praefuerant consuluj, sed irrito conatu. Aiebant autem plerosque ex Manuscriptis codicibus esse deperditos, suorum incuriâ, qui similes libros prae nouis illis ac venustis, quas Typographia subministrat, editionibus contemnunt. Rogaui interim vt si quid forte in monachi alicuius cellâ delitesceret ad me statim mitteretur, sed post eam quam adhibuj diligentiam vix vlla spes affulget. Doleo itaque quod Clarissimi
+Heinsij (quem olim Romae apud Holstenium<note n="#3"/> vidisse meminj) litterarios conatus promouere non potuerim. Cum herj abiret a nobis Dominus <persName>Vanderveecken</persName><note n="#4"/> eum aliquot adhuc libellj mej exemplaribus oneraui, quae euntem in Angliam vel Italiam Saturnum tuum comitari poterunt sj ita videbitur. Nullius enim iudicium metuit libellus meus postquam a Te probatus est. Vale Vir Praestantissime et vt facis ama</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> &amp;c. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0084"/>
+<meta type="date" value="1650-08-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0084">
+<div type="opener">
+<p><placeName key="denha004">Haije</placeName> ce <date>2 Aug. 1650</date>.</p>
+</div>
+<p>Nous n'avons pas receu de vos nouvelles la sepmaine passée, mais scavons à present de bonne part que vous estes arrivé a Venise. Il peut bien estre que vostre lettre est à Amsterdam et qu'elle ne peut passer outre à cause que la ville est blocquée
+maintenant, ce que vous scaurez desia sans doute avant que cellecij vous soit rendue. Mais si d'avanture vous ne le scavez pas encore nij aucune chose de ce qui s'est passé icij vous l'apprendrez par la presente, et les particularitez que j'en aij peu sçavoir jusqu'à present. Scachez doncq, qu'apres des longues contestations et remonstrances faites par Son Altesse et les Estats des autres Provinces à ceux d'Hollande, ou plustost a quelques unes des villes d'Hollande, pour la conservation de l'union, et particulierement en la cassation de quelques unes de nos troupes, sans pouvoir rien emporter sur l'opiniastreté d'aucuns des deputez des dites villes; ils ont trouvé bon et necessaire de se servir des derniers moyens; en suite de quoij, Son Altesse a fait arrester samedij passé,<note n="#1"/> six des dits deputez à scavoir les Sieurs de Witte de Dort<note n="#2"/>, de Wael<note n="#3"/> et le Pensionnaire <persName>Reuyl</persName><note n="#4"/> de Haerlem, van Voorhout<note n="#5"/> de Delf, Stellingwerf<note n="#6"/> de Medenblick, et encore un sixieme<note n="#7"/> du quel je ne me souviens pas a cett heure, les quels on a emmené prisonniers a Louvesteijn<note n="#8"/>, avans hier au soir. La nuict qui preceda le dit arrest le Comte Guillaume<note n="#9"/> estoit commandé avecq 60 compagnies pour se loger à Ouwerkerck qui est à une lieue d'Amsterdam (ou plustost pour tascher d'ij entrer
+à ce qu'on tient) là ou Son Altesse l'a joint avanshier au soir, et encore d'autres troupes. Mon Pere ij est allé avecq luij, mais jusqu'à present il n'a encore rien escrit de ce que s'ij passe. L'on scait que ceux d'Amsterdam tienent les portes fermées, et qu'ils ont planté quantité de pieces d'Artillerie sur les remparts. Et d'avantage qu'ils font des levées dedans la ville, et ne manquent pas de gens nij d'argent: En sorte qu'on est aucunement en doute de cette hardie entreprise. Le peuple icij et par tout en est fort en peine. Les officiers et gens de guerre sont bien aise qu'on à derechef besoin d'eux. Pour moij spero meliora, et j'attends la sin de toute l'oevre avecq patience, et sans m'en affliger nullement. I'espere que vous en ferez de mesme et croirez que je demeure</p>
+<div type="closer">
+<p>Vostre Tresaffectioné frere et serviteur <persName key="huyg003">Chr. Huijgens</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur <persName key="huyg007">Huijgens</persName>, Secretaire de S.A. d'Orange.</p>
+</div>
+</body>
+</text>
+</TEI>

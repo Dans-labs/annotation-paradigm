@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0019"/>
+<meta type="date" value="1646-11-27"/>
+<meta type="sender" value="daub002"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0019">
+<div type="opener">
+<p>Monsieur.</p>
+</div>
+<p>Je ne treuve point de parolles capables d'exprimer le contentement que nous avons receu de l'arrivée de Monsieur vostre fils en ce lieu, et particulierement le
+mien, puis qu'il doit estre un des plus grans ornemens de mon Auditoire, Aussy ayje une satisfaction si grande de mon bonheur qui me presente l'occasion de vous rendre en sa personne quelque petit service, que je dois benir l'heure qui vous a inspiré ceste resolution, Et comme il vous a plû me faire l'honneur de me le recommander plus qu' à mes autres collegues, c'est à moy à recognoistre cest honneur par mes treshumbles services en telle sorte que je vous puisse rendre bon compte du depost que vous me mettez en main, à quoy je travailleray avec toute l'affection que je dois à ce qui vous concerne et avec toute l'industrie que Dieu m'a donné, à fin que moyennant la benediction d'enhaut, laquelle est tresabondante sur vous et tous les vostres, vous en puissiez avoir du contentement, Outre mes leçons publiques et le College particulier des Jnstitutes qu'il frequentera, je luy donneray tous les jours une heure particuliere à luy seul et deplus autant de conversation qu'il desirera, mon estude luy sera ouvert à toutes heures pour me proposer ses difficultez, mesme s'il luy faut plus de temps, il est tout entier à son service, seulement je vous supplie treshumblement d'effacer de vostre esprit ceste pensée, que je vueille accepter voz recognoissances, Elle me met au rang de personnes dont je suis esloigné, et je desire que vous me faciez la faveur de croire, que je souhaite de vous faire paréstre mon zele à vostre service en consideration seulement de ces qualitez treseminentes qui vous relevent insiniment pardessus le commun et dont je suis le plus passionné admirateur, Et s'il arrivoit que je fusse si heureux que d'acquerir une place avantageuse dans vostre amitié et dans vostre souvenir, je me tiendrois pour trop recompensé de toutes les peines que je prendray tousjours avec grand plaisir pour tous ceux qui vous
+touchent, Vous baisant treshumblement les mains je demeureray toute ma vie.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="daub002">Dauber</persName>.</p>
+<p>A <placeName key="breda001">Breda</placeName> ce <date>27 Novembre 1646</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">de Zülichem</persName> etc. Conseiller et Secretaire de S.A.
+<lb/>à <placeName key="denha004">la Haye</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

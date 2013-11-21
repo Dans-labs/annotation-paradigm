@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0721"/>
+<meta type="date" value="1660-02-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0721">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>26 Feb. 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>L'agente<note n="#1"/> de la dame pour qui vous avez fait le genetliaque<note n="#2"/> m'a dit de la part d'elle que j'eusse a vous faire ses remerciemens de la peine que vous aviez prise, et qu'elle ne manqueroit pas a vous en tesmoigner sa gratitude. J'espere que ce sera quelque chose de plus que des promesses.</p>
+<p>Je suis marrij que vostre horologe a estè endommagè par le chemin, mais je croy que Monsieur Hanet le reparera aisement lors qu'il sera arrivè. S'il n'est pas encore parti ce n'est que le vent contraire qui le retient, car il y a longtemps qu'il attend a Rotterdam pour s'embarquer. le pris est comme vous dites de 120 Livres. je ne scay pour quoy l'on n'a pas ostè le verre en l'envoyant. J'ay jugè depuis que le chassis n'estoit pas necessaire a ces horologes, et doresnavant l'on n'en met plus a ceux que j'ordonne. Ce que j'ay adjoustè de nouueau est un secret que je n'ay encore dit a personne; mais vous le verrez dans une seconde edition de mon horologe<note n="#3"/> ou je mettray aussi la maniere de la reduction du temps en tant qu'elle est necessaire pour les horologes quand elles vont de moyene vitesse. J'ay inventè une construction mcchanique par la quelle je puis scavoir incontinent combien il faut adjouster ou oster de l'heure de l'horologe a chasque jour de l'an, estant donnè celuy au quel j'ay adjustè l'horologe avec le soleil ou avec un sciaterique. Ce que l'on ne peut pas faire par le moyen d'une table sans un peu de calcul ou bien elle ne servira qu'a une seule Epoche. Je vous ay proposè quelques difficultez touchant cette matiere dans ma precedente, aux quelles j'attens vostre response. Je croy cependant que vous accusez sans suject la methode de Ptolemee, car pour convertir quelque espace de temps apparent en temps egal ou au contraire, elle est tres seure, Et je ne scay comment il vous est tombè dans l'esprit de chercher cette autre aequation par la quelle vous pretendez de reduire punctum temporis apparentis ad medium, ny de quoy cela pourroit servir. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

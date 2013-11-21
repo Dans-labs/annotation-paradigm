@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0158"/>
+<meta type="date" value="1653-06-05"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0158">
+<div type="opener">
+<p><persName key="scho197">Franciscus à Schooten</persName></p>
+<p>Clarissimo Viro, Domino <persName key="huyg003">Christiano Hugenio</persName> S.P.D.</p>
+</div>
+<p>Vir Clarissime, postquam à Lipstorpio nostro primum te febri laborare intellexi, eique idcirco tunc causâ paroxismi minus fuisse licitum, quo tecum colloqueretur: dolui tum vices tuas, tum etiam amorem publici. Magis autem doluit, ubi iam idem Hagam eâdem de causâ excurrens, et quò tecum amicitiam contraheret, nunciavit mihi te nondum ab illâ destitutum, sed alternis adhuc diebus vexatum iri. Mihi sanè gratulor, quod Deus Optimus Maximus post 15 dies, quibus tertianâ laboraveram, ad pristinam sanitatem reduxerit. Jn emendis, quos mihi praescripseras, libris, quod negotium Lipstorpio hìc commiseram, quaeso ignoscas quod non praestiterim ipse: cum circa id tempus, per plures occupationes, vix mihi una vel altera hora de die vacaret, quâ id, quantumvis libens, praestare potuissem. Quocirca postquam sibi plures coëmere statuerat libros, facile id absque ullo temporis dispendio aut incommodo suo ei iniunxi; praesertim cum indicaverat, hoc sibi fore gratissimum, atque uti hâc ratione maiorem tecum de studijs tractandi occasionem inveniret. Postquam convalui, locutus sum hisce diebus cum Domino <persName>le Maire</persName><note n="#1"/>, Bibliopolâ, cui inter alia narravi Dominum <persName key="guts001">Gutschovium</persName> impraesentiarum Cartesij Dioptricam in Latinam linguam vertisse et commentarijs illustrasse<note n="#2"/>. Quod sanè opus, unà cum tractatu tuo de Refractionibus, ubi quàm maximè pro meritis ei commendaveram, et insigne opus Dioptricum, optatissimaeque crassitiei librum simul confecturos asseveraveram, ab eorum impressione minimè se alienum ostendit. Id autem sibi potius quam alteri commendatum iri intellexit, cum quae ad Dioptricam pertinent figurae non tantum iam erant incisae, sed insuper reliquis multo accuratiores: adeò ut sibi tantum restarent figurae illae, quae ad tractatum tuum, vel dicta commentaria requirerentur. Quâ de re tum ut Te, tum Dominum <persName key="guts001">Gutschovium</persName> certiorem facerem, petijt, ut deinde inter vos conveniretis. Hoc igitur, tum ut voti compos fierem, tum ut recuperatâ valetudine, quam tibi ex
+animo exopto, te ad praedictum tractatum absolvendum instigarem, ad Te perscribere minime negligendum duxi. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Leydae</placeName> <date>5 Junij 1653</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Huijgenius</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName>, op t' plein
+<lb/>in S'Graven-hage.
+<lb/>Port.</p>
+</div>
+</body>
+</text>
+</TEI>

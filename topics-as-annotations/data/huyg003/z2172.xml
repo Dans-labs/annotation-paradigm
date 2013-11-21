@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2172"/>
+<meta type="date" value="1679-05-18"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2172">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 18. May 1679.</p>
+</div>
+<p>Celuy<note n="#1"/> qui vous rendra cellecy est un de mes vieulx amys et correspondents et confreres en l'art qui par un instinct de curiosité seulement a resolu de faire le voyage de Paris et que j'ay voulu vous recommander pour luy donner des adresses ou il pourra en auoir besoin. Il est curieux en matiere de peinture d'Architecture et de Jardinages et de ce qui en depend: Au reste homme fort accommodé et de grand credit a la boursse d'Amsterdam. Je vous prie de l'assister un peu, sans pourtant que cela vous incommode. Entre autres choses il faut qu'il voye les Estampes de Mariette<note n="#2"/>, chez lequel je le prieray mesme de chercher quelque chose de cette marchandise pour moy. Il est fort capable de cela ayant luy
+mesme une collection considerable de ces choses chez luy. Je ne vous parleraij pas d'autres choses dans cette lettre parce qu'elle ne vous sera rendue que bien vieille et que j'ay dessein de vous escrire par l'ordinaire prochain.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huigens de Zulichem</persName>, Gentilhomme Hollandois. rüe Vivienne, à la Bibliotheque du Roy a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

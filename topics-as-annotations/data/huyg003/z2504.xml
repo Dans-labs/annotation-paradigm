@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2504"/>
+<meta type="date" value="1687-12-14"/>
+<meta type="sender" value="vege004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leeuw001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2504">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Au retour de leurs Altesses de Dessau<note n="#1"/>, et de ma santé, apres auoir esté longtemps indisposé Je me donne l'honneur de vous escrire, et de vous enuoyer la lettre<note n="#2"/> qu'on m'a apportée de la Cour d'Anhalt, de Mons. <persName>Freijbergen</persName> afin que obligeant comme vous estes vous ayez la bonté de respondre ce que vous jugerez à propos. Vous connoistrez Monsieur que ce gentilhomme s'occupe tousjours dans la recherche des secrets de la nature, n'estant pas mesme rebutté du travail à l'aage de 70 annees, peut estre Monsieur il aura fait quelques decouuertes nouuelles, qui ne sera pas indigne de vostre curiosité, et cest ainsy que le commerce quon peut auoir avec un homme aussy curieux que celuy la doit se rechercher. Comme ie m'interesse Monsieur en tout ce qui vous regarde, je voudrois bien scavoir si on n'a point attrappé cest effronté pendart qui avoit entrepris de vous voler chez vous<note n="#3"/>; on m'a dit que cest un Lersani et les gens de ce pays la sont ordinerement un peu suspect. Je vous seray tres obligé Monsieur si vous vouliez assurer Monsieur vostre frere a la Haye que ie l'honnore extremement et ie cherceray bien une occasion de luy plaire ou de le servir qui pust luy en donner des preuues. Apres cela permettez moy que ie suis toujours auec un estime tout extraordinaire.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="vege004">Vegelin de Claerbergen</persName>.</p>
+<p>de Lewarden ce 4/14 December 1687.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huygens seigneur de Zuylichem</persName> resident à la Haye<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

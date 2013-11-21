@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1358"/>
+<meta type="date" value="1665-03-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1358">
+<div type="opener">
+<p>Monsieur <persName key="carc010">de Carcavy</persName>.</p>
+<p>26 Mars.</p>
+</div>
+<p>Je l'aurois remerciè plus tost si je n'avois estè a Amsterdam ou j'ay conferè avec des Pilotes et gens de mer touchant l'affaire des Longitudes<note n="#1"/>. Je vous envoie pourtant les lettres<note n="#2"/> que vous m'avez conseillè d'escrire remettant a vostre prudence si vous les delivrerez ou non. J'ay donnè ordre pour l'horologe qu'il demande, je l'ay ordonnè pour servir en chambre et non pas dans une boete telle qu'on les suspend dans les vaisseaux, qui vous auroit estè incommode, scachant bien que vous voulez seulement connoistre ce qu'il y a de nouveau dans la derniere invention et combien elle est exacte.</p>
+<p>J'ay estè extremement marry de la mort de Monsieur <persName key="ferm011">de Fermat</persName><note n="#3"/>, de qui j'esperois tousjours les belles choses qu'il pouvoit donner et qui solebat nostras esse aliquid putare nugas. J'avois aussi quelques questions dignes de luy que je m'en allay luy proposer lors que je receus cette triste nouvelle. J'espere cependant qu'on ne laissera pas perdre ce qu'il y reste de ses escrits, et puis que vous avez tousjours estè de ses intimes amis, je ne doute pas que vostre intervention aupres de ses heritiers ne soit de grande efficace pour tirer de l'obscuritè de si excellentes reliques.</p>
+</div>
+</body>
+</text>
+</TEI>

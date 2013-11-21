@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0039"/>
+<meta type="date" value="1647"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0039">
+<div type="section">
+<head rend="h4">Lemma<note n="#1"/>.</head>
+<p>Sit parabola <formula>ABCD</formula> secta in <formula>A</formula>, <formula>B</formula>, <formula>C</formula>, <formula>D</formula>, à diametris <formula>AG</formula>, <formula>BH</formula>, <formula>CI</formula>, <formula>DK</formula> aequali spatio distantibus; dico si haec puncta jungantur lineis <formula>AB</formula>, <formula>BC</formula>, <formula>CD</formula> et alijs duabus
+<figure><graphic url="huyg003oeuv01ill56.gif"></graphic></figure>
+<formula>AD</formula>, <formula>BC</formula>, prolongentur autem duae <formula>AB</formula>, <formula>DC</formula> usque dum sese intersecent in <formula>F</formula>, et inde ducatur alia diameter <formula>FL</formula>, hanc divisuram ambas <formula>AD</formula> et <formula>BC</formula> bifariam in <formula>E</formula> et <formula>L</formula>.</p>
+<p>Sciendum autem primum est, quod si unam ex ijs ut <formula>BC</formula> bifariam dividat, alteram <formula>AD</formula> quoque bifariam divisura sit. Nam si linea <formula>FL</formula> bifariam dividat <formula>BC</formula>, eodem modo dividet etiam omnes lineas quae à lineâ <formula>AG</formula> ad <formula>DK</formula> pertingunt quia spatia <formula>GH</formula>, <formula>HI</formula>, <formula>IK</formula> sunt aequalia posita, ergo etiam lineam <formula>AD</formula>.</p>
+<p>Si itaque dicatur linea <formula>FL</formula> ne alterutram quidem <formula>AD</formula> vel <formula>BC</formula> bisecare, ponatur alia diameter <formula>PO</formula> quae alterutram atque ideo utramque bisecet: quia igitur linea <formula>AD</formula>, <formula>BC</formula> utrinque parabolae occurrunt et à diametro ejusdem bifariam dividuntur sequitur eas debere esse parallelas sed cum parallelae sint et à linea <formula>PO</formula> bifariam divisae, sequitur quoque si lineae <formula>AB</formula>, <formula>DC</formula> quae eas jungunt producantur in eodem puncto <formula>P</formula> concursuras cum eadem <formula>OP</formula>, quod est absurdum, cum dictae fuerint concurrere in puncto <formula>F</formula>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

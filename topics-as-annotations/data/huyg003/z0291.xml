@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0291"/>
+<meta type="date" value="1656-05-20"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0291">
+<div type="opener">
+<p>De <placeName key="parij001">Paris</placeName> ce <date>20<hi rend="sup">e</hi> may 1656</date>.</p>
+<p>Monsieur,</p>
+</div>
+<p>N'ayant pas l'honneur d'estre connu de uous, uous trouuerez peut estre estrange la liberté que ie prends de uous escrire, mais Monsieur <persName key="mylo002">Mylon</persName> m'ayant uoulu procurer ce bien lorsque uous estiez en france et m'ayant temoigné que uous auiez pris la peyne de uenir en cet hostel<note n="#2"/>, J'ay crú, Monsieur que ie deuois non seulement uous en rendre touts les remerciements et toutes les reconnoissances que ie puis, mais encore mesnager cette occasion pour uous faire paroistre une partie de l'estime que ie faits de uostre merite, et la premiere connoissance m'en ayant esté donnee il y a longtems par le feu Pere <persName key="mers004">Mersenne</persName>, qui me fist uoir quelques unes de uos belles speculations ie commençay dez lors a uous honnorer et a rendre les respects qui sont deus a uostre vertu. Permettez moy donc s'il uous plaist de uous en rendre des ueritables tesmoignages et de vous offrir tout ce qui peut despendre de moy. Je ne scay pas beaucoup aux mathematiques mais J'ay une grande passion pour cette science, et comme uous y estes des plus advancez, Je pourrois esperer de uous y procurer quelque satisfaction par l'entremise de Monsieur <persName key="ferm011">de Fermat</persName> qui est mon ancien amy, Ce Grand Monsieur <persName key="ferm011">de Fermat</persName> qui est certainement un des premiers hommes de l'Europe, Et de uous faire uoir des choses de luy qui meriteront uostre approbation, Ce me sera aussy un moyen de contenter l'inclination que J'ay pour vn si grand homme en luy faisant uoir en mesme tems ce que uous aurez la bonté de nous enuoyer, et le public receura un grand aduantage de la communication de deux personnes si excellentes qui feront uoir à la posterité que nostre siecle ne cede point à celuy des Apollonius des Menelaus et des Archimedes. Je luy ay enuoyé par le dernier ordinaire ce que uous demandez touchant le parti des ieux, et ie donnay il y a quelques iours a Monsieur <persName key="mylo002">Mylon</persName> deux beaux problesmes
+sur les nombres pour uous les faire uoir, et J'en useray de mesme a l'aduenir si uous l'agreez, vous suppliant tres humblement me permettre en sinissant cette lettre de uous coniurer a continuer uos belles meditations et augmenter une Science qui a fait de si grands progrez en nos iours, Et ne uous sembletil pas Monsieur que de mesme que Messieurs Pascal et Desargues<note n="#3"/> ont enchery sur la pensee d'Ap ollonius, ne se mettant pas en peyne
+de coupper le cone par l'axe mais partout ou on uoudra, que l'on peut encore encherir sur la leur et demonstrer une mesme proprieté par une seule enonciation dans toutes les sections de ce cone, pourquoy ne pourrat on pas trouuer dans la parabole un point qui corresponde au centre des autres sections, le dernier de ces deux grands hommes ne nous at il pas fait uoir que le foyer n'est qu'un cas particulier d'une proposition plus generalle, que le quarré se doit enoncer sous le nom du rectangle, et plusieurs autres choses qui seruent a ce dessein, Monsieur <persName key="pasc001">Pascal</persName> ayant aussy donné les assimptotes de l'Elipse du cercle et de la parabole, En uerite ie pense qu'il y auroit plus de satisfaction de uoir ces deux propositions suivantes enoncees et demonstrees uniuersellement dans toutes les sections, que non pas en quelques unes et en des cas particuliers.</p>
+<p>D'un point donné mesner une perpendiculaire a la section aussy donnee.</p>
+<p>Estant donnee dans un plan une section quelconque Et un point hors de ce plan, par le quel point passe une ligne laquelle se mouuant sur la section donnee fasse une certaine superficie, monstrer que cette superficie est un cone, et trouuer le plan qui fasse un cercle dans cette superficie,</p>
+<p>C'est Monsieur ce que nous attendons de uous lorsque uous uoudrez prendre la peyne de uous y occupper, Et si vous le trouuez bon nous en parlerons plus amplement un' autre fois n'ayant fait la presente que pour vous asseurer que Je suis autant qu'homme du monde.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et obeissant seruiteur <persName key="carc010">De Carcauy</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugenius de Zulichom</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

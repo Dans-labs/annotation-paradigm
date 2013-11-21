@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0057a"/>
+<meta type="date" value="1648-07-20"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0057">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>A faulte de meilleur discours quelqu'ami vous pourra avoir apprins comme, par une indisposition survenue, mon voyage de Bourgogne s'est esvanoui<note n="#1"/>. Par consequent nous ne sommes pas pour nous veoir au premier jour. Dicamus quod res est; fata obstant, et continuons de nous veoir en papier, comme les occasions s'en presenteront.</p>
+<p>Celle que vous m'avez donnée touchant les essays du Canon<note n="#2"/> n'est pas ablata, mais dilata; mais depuis que me voicy sur pied, les pluyes et les tempestes sont si continuelles sur nos costes, que de memoire d'hommes il ne s'est point veu d'esté
+si desregle. Je pense que vous y avez la part qu'y ont tous les voysins, mais admirez aveq moy s'il est veritable, comme on dit qu'en Poloigne tout le bled se brusle et seiche aux champs. Nous sommes à la veille<note n="#3"/> de faire un voyage de parade au Baptesme<note n="#4"/> du jeusne Prince Electeur de Brandebourg<note n="#5"/> a Cleves, au retour j'iray m'appliquer tout de bon a vostre artillerie.</p>
+<p>Voyci en attendant un mot<note n="#6"/> de mon Archimede, qui ne sera pas icy encor de quelques sepmaines. Je ne sçay de quoy il vous entretient, et demeure sans varier</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre très humble serviteur <persName key="huyg001">C. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName>, le <date>20 juillet, 1648</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

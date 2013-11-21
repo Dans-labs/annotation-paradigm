@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XII"/>
+<meta type="date" value="1642-08-07"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="botbe901"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XII">
+<div type="opener">
+<p>Perillustris Domine,</p>
+</div>
+<p>De historicis, poeticis, Graecis, nuperrime affatim locutus nunc quae intenderam caetera sed brevioribus persequar. Post percepta Rhetorum praecepta et exercitata non semel nec unius generis declamatione ingenia deesse jam diutius <hi rend="i">dialectica</hi> videtur, quae sola cum judicio argumenta et nectere docet et solvere, vagosque et inordinatos et moestos sui conceptus certa coërcet methodo. Sed non diffundar jam ita ineptè in super varias laudes artis omni saeculo laudatissimae, nec, quod prioribus istis litteris Luciani encomiasta fecisse dici possim, Soli facem accendere iterum animus est. operam dem ut cum ratione insaniam si quà praedicari pro dignitate logicam sperem posse quae animal rationis doceat cum ratione loqui. <hi rend="i">Burgersdici</hi><note n="#1"/> institutionum <hi rend="i">sijnopsis</hi> Hollandiae passim scholis recepta<note n="#2"/> quàm optima et perbrevis est, nec parum memoriae accommoda, adjuvantibus hanc alternis et de se invicem natis quaestionum et responsionum. Vidi, non legi, Swaerdecroni cujusdam epitomen ista Burgersdici aliquanto etiam breviorem, sed nescio an non nimis aridam et à nimiâ brevitate, ut ferè sit, obscuriorem, et scio nusquam nisi in scholâ Rotterodamensi Erasmianâ quam sui vocant, in regno videlicet authoris ibi
+nimirum gymnasiarchae<note n="#3"/>, hactenus obtinere. Tum ille, ut audio, assecla Rami est totus, quem tu vir maxime, si audis
+Lipsium heroa, qui magnum sibi esse negat eum virum cui Ramus magnus est<note n="#4"/>, jamdudum proscribis ac procul esse jubes. Pergo ad alia, et quae minores parvulos tuos spectent maximè. <hi rend="i">Ludovicus</hi> doctor severâ lege visus per hos dies velle proficere ad doctrinam carminum. Neque <hi rend="i">prosodiam</hi> saepe ante in manus sumtam saepius rejectam nunc ingenti animo et semel pergressus est. utinam non sistatur iste torrens impetus medio cursu! nôsti, Pater, ut mutet in horas illud capitulum. Porrò ad finem Tristium Nasonis jam anhelat. His absolutis nescio annon praestet <hi rend="i">Eclogas Maronis</hi> aut ipsam <hi rend="i">Aeneida</hi> auspicari quàm libros <hi rend="i">de Ponto</hi> nostri eodem planè stylo ac ista Tristia scriptos. Philippus, ne quid dissimulem, gradu oppido quam testudineo progreditur. Velim ab domino patre ipso per epistolidion praemiolis diligentia
+excitetur...Promitto reipublicae et mihi aliquem ex hoc quoque ligno Mercurium, ut quando tuos mirabitur omnes omnis posteritas nemo non sciat esse tuos omnes. Voveoauguror.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Com.</placeName> VII id. Augti MDCXLII.</p>
+<p>Tuus servus
+<lb/>omni servitio
+<lb/><persName key="brun004">Henricus Bruno</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heere, Mijn Heer
+<lb/>van Zuylichem
+<lb/>In 't Leger, tot Botberghen.</p>
+</div>
+</body>
+</text>
+</TEI>

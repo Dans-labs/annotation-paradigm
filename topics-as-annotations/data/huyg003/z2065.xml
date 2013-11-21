@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2065"/>
+<meta type="date" value="1675-10-22"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2065">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 12 octob. 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>C'est le fils<note n="#1"/> unique de monsieur Evelyn<note n="#2"/> qui vous rendra celle-cy, venant à Paris dans la suite de l'Ambassadeur du Roy, pour y faire conoissance auec des personnes de vostre merite. Vous aurez la bonté, Monsieur, de luy permettre qu'il vous vienne voir aux occasions, et profite de vostre science et vertu; et vous ne manquerez pas, ie suis persuadé, de luy faire voir toutes les curiositez de la Bibliotheque royale, et l'introduire dans la conoissance d'autres personnes d'honeur et de scavoir. Il vous porte les Transactions nouuellement imprimees<note n="#3"/> ou vous trouuerez quelques positions<note n="#4"/> de M. Linus<note n="#5"/> touchant l'Arc en ciel, sur lesquelles ie seray bien aise d'entendre vostre sentiment,
+qui suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Hugens de Zulichem.
+<lb/>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.
+<lb/>p. amy.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0824"/>
+<meta type="date" value="1660-12"/>
+<meta type="sender" value="ferm011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta resp="HI" type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0824">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>J'ai appris auec ioye mais non pas sans quelque espece de ialousie que mes amis de Paris ont l'honeur de uous posseder depuis quelque temps. Je uous asseure, Monsieur, que si ma samté estoit assés forte pour les uoyages, ijrois auec grand plaisir prendre ma part de leur bonheur.
+Ce n'est pas daujourdhui, ni par la relation seulle de Monsieur <persName key="carc010">de Carcaui</persName> que ie suis persuadé de uos qualités tout extraordinaires. Jestois a uous auant que vous fussiés en france. Et lors qu'on m'a demendé mon sentiment de uostre Saturne, i'ai respondu hardiment, et sans mesme l'auoir encore ueu que puis qu'il partoit de uostre main il ne pouuoit manquer, quoy que ce soit, a sa perfection. Vos autres ouurages que i'ai ueus et admirés m'ont obligé d'en parler de la sorte. Et i'ai eu plus de raison d'en user ainsi que celuy</p>
+<p>&nbsp;</p>
+<p>Qui nunquam uisae flagrabat amore puellae.</p>
+<p>&nbsp;</p>
+<p>Vostre grande et iuste reputation est le seul et ueritable garend de touts uos liures. Jl me tarde de les uoir et de me confirmer par leur lecture au iugement que i'en ai faict par aduance, et en la passion que uos autres escrits m'ont donnée, d'estre toute ma uie auec grand respect,</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="ferm011">Fermat</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huggens de Zuylichem</persName>, A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1043"/>
+<meta type="date" value="1662-08-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1043">
+<div type="opener">
+<p><persName key="hein009">Nicolao Heinsio</persName> Viro Illustri <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Ecce à Viro optimo <persName key="slus001">Renato Francisco Slusio</persName> literae<note n="#1"/> mihi adseruntur atque in ijs Excerpta ex veteri Manuscripto Remedium Amoris complectente, quae obiter inspecta ad te continuo mittenda duxi, in cujus gratiam exarata sunt. Adjungo autem et literas ipsas, ut ex ijs cognoscas quae alioqui huc transcribenda forent, simulque humanitatem viri, animumque erga studia optime affectum perspicias. Caeterum novissimam Editionem<note n="#2"/> tuam nondum illum vidisse apparet, in qua plerasque omnes diversas lectiones, quas hîc congessit, a te recensitas reperisset; quarum quidem paucas aut nullam pene amplexus es, et merito, cum sint ineptae ac insulsae. Itaque vix quicquam hanc amici mei curam tibi profuturam arbitror, nisi forte ad hoc ut imposterum sperare desinas thesaurum aliquem in illa Diui Jacobi bibliotheca latitare. Ultimas meas<note n="#3"/> quibus Holmiensis phaenomeni delineationem me accepisse significabam tibi redditas spero. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> 12 Augusti 1662.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

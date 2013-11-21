@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0332"/>
+<meta type="date" value="1656-09-07"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0331"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0332">
+<p><formula>aaaaa b ccc d eeee g h iiiiiiiiii ll mm nnnnn ooo p q rrrrrr ssss ttttt uuuuuuu</formula>.
+Integra phasium Saturni revolutio absolvitur quindecim circiter annis 62.</p>
+<div type="closer">
+<p>Studiosissimus <persName key="heve011">Johannes Hevelius</persName>. Consul Gedanensis.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

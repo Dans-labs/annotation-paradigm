@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2158"/>
+<meta type="date" value="1679-01-12"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2158">
+<div type="opener">
+<p>a <placeName key="denha004">la Haye</placeName> le 12 Janv. 1679.</p>
+</div>
+<p>Je n'ay le temps ayant este aujourdhuy fort occupé, que pour vous envoyer ces billets de change. il y a 60 ℔ pour compte de mon Pere dont vous ce dit il<note n="#1"/> sa campanine<note n="#2"/>. Le reste servira pour payer les choses que jespere que vous aurez acheptees pour moy et celles que je pourray vous prier de me chercher cy apres.</p>
+<p>J'ay esté tres fasché d'apprendre les fascheries que vous auez rencontrees au payement de vostre pension. J'espere qu'elles auront cessé, ressentant vos deplaisirs comme si c'estoyent les miens propres.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huijgens de Zulichem</persName>
+<lb/>a la Bibliotheque du Roy rue vivienne
+<lb/>a Paris.
+<lb/>Pt.</p>
+</div>
+</body>
+</text>
+</TEI>

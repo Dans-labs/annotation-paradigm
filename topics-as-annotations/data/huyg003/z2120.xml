@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2120"/>
+<meta type="date" value="1678-04-10"/>
+<meta type="sender" value="grew002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2120">
+<div type="opener">
+<p>Excellentissime Vir,</p>
+</div>
+<p>Cum Nobiliss. Vir, Vice-Comes <persName key="brou051">Brounckerus</persName>, statu corporis valetudinario laborans, solitis Regalis Societatis Conventibus praesidere, ut antea, nequiverit: Societas Praesidem elegit Nobilissimum Virum D. Josephum Williamsonum<note n="#2"/>, Equitem auratum, Secretarium Regiae Majestati primarium, summumque omne genus Literaturae Promotorem. Cumque Clariss. D. Oldenburgus, è Societatis Secretarijs unus, mensibus abhinc aliquot elapsis è vivis excesserit: Societati itidem visum est, Domino Roberto Hook<note n="#3"/>, Socio Digniss<hi rend="sup">o</hi>. Mihique unà, hanc Provinciam concredere. Quae Tibi, Vir Clarissime, ex Societatis mandato, eò nota feci, quò melius de futuro inscribas Literas, quas mittere placuerit. Nempe, utrilibet Nostrûm Societatis Regalis Secretario, apud Collegium Greshamense. Semper autem albâ chartulâ involutas, et hunc in modum inscriptâ, vid<hi rend="sup">t</hi>.</p>
+<p>&nbsp;</p>
+<p>To the Right Honourable Sir Joseph William, Principall Secretary of State, &amp; President of the Royall Society.</p>
+<p>&nbsp;</p>
+<p>Rogamus itaque, si quid Experimenti, in quovis Scientiarum genere, imprimis in Rebus Astronomicis vel Mathematicis notatu dignum occurreret, ne graveris communicare: vel ex Tuo Thesauro, resplendenti aequè ac cumulatissimo, generosè effundere. Hâc scilicet fiduciâ, quicquid Tuo Nomine affixo exornatum, idem Societati, pariter ac Nobis fore dulcissimum. Nosque reciprocam harum Rerum notitiam Tibi exhibituros. Ne vitio vertas, Excellentissime Vir, qùod hae
+Literae tuas manus tardè salutare videantur: cùm, ex quodam quasi immorigero rerum fato, id accederit. Nempe, non est qùod dubites, Regalem Societatem Tui Memoriam, veterem non magis quam honorificam, unquam amissuram. Valeas, Clarissime Vir, Meque credas honore ac fide</p>
+<div type="closer">
+<p>Londini Mart. ult<hi rend="sup">o</hi> 1678<note n="#4"/>.</p>
+<p>Tibi astrictissimum <persName key="grew002">Nehemiam Grevium</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Huijgens de Zulechem</persName> à la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

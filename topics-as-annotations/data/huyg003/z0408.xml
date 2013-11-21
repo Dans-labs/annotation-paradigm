@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0408"/>
+<meta type="date" value="1657-09-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0408">
+<div type="opener">
+<p lang="la">Clarissimo Viro <persName key="scho197">Francisco Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Petijt à me tuo nomine Duquius, ut primo quoque tempore literas istas<note n="#1"/> in vernaculam linguam conversas<note n="#2"/> mitterem tibi. Itaque id amplius differre nolui, et
+gaudeo tandem aliquando procedere alteram tuorum editionem<note n="#3"/> nomen meum quod prius epistolae Romano more praemittebatur, subscribere nunc visum est, quod si alio pacto tibi poni posse videbitur tui arbitrij facio. De caetero si nihil immutaveris, gratissimum erit, saltem non me inscio. Illud vero quaeso ut in editione belgica corrigatur quod pagina 525 habetur <hi rend="i">propositio iv</hi>, ante ea verba <hi rend="i">ut igitur aa</hi> &amp;c. cum debuerit poni ante illa, <hi rend="i">sumpto itaque;</hi> Et haec majusculis literis imprimi, illa vero minoribus. In latinis autem exemplaribus si quae adhuc distribuenda asservas, pagina 527 linea 21, pro <hi rend="i">Horum</hi> scribe <hi rend="i">Hae.</hi> Referebat mihi Ducquius in editione Geometriae Cartesij jam ad commentaria tua perventum quae multis in locis auctiora essent proditura. Nam et conicarum sectionum proprietates praecipuas te addere constituisse, et alia quaedam quae noviter repereras circa gravitatis centra. Ita quidem tu Spartam illam quotidie magis ornas. A me vero si rationem exigas temporis, fatebor non multum egisse, neque tamen nihil.</p>
+<p>Nuper<note n="#4"/> a Domino <persName key="slus001">Slusio</persName> hujusmodi mihi linea proposita fuit. Axis ejus est AB,
+<figure><graphic url="huyg003oeuv02ill25.gif"></graphic></figure>
+qui omnes in angulo recto applicatas bifariam dividit. Proprietas autem haec, quod applicatis quibuslibet CID, EVF, eam habeat rationem CD ad EF, quam solidum ex quadrato Al in IB, ad solidum ex quadrato AV in VB. Circa hanc tria à me petijt, quadraturam scilicet, tangentem et centrum gravitatis. Quae quidem omnia inveni, ipsique edidi. Tu vero Geometris quos isthìc nosti proponas velim. Inveni item quomodo duae mediae proportionales inter duas datas constituantur per intersectionem circuli et Ellipsis cujuslibet datae, satis commoda constructione; sed tunc commodissima cum latus transversum triplum est recti lateris. Vale et si quid habes novi vicissima me imperties.</p>
+<div type="closer">
+<p lang="la"><placeName key="denha004">Hagae Com.</placeName> <date>28 Sept. 1657</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

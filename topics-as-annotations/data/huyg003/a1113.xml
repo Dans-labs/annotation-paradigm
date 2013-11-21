@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1113a"/>
+<meta type="date" value="1663-05"/>
+<meta type="sender" value="neur018"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a1113">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Nous vous attendismes hier chez Monsieur de Montmort avec beaucoup d'impatience, toutes choses estant prestes pour l'observation dont on vous a escrit, ce sera donc pour un autre fois. Cependant si vous me voulez faire la grace de me prendre en passant nous irons chez Monsieur le president suivant nostre convention. Et je suis asseuré que si Monsieur vostre frere<note n="#1"/> est de la partie il augmentera la joye du dit seigneur qui fait un particulier estat de vous et de tout ce qui vous touche. Je vous attend et demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et obeissant seruiteur <persName key="neur018">De Neure</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

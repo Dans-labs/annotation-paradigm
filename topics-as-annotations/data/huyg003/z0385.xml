@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0385"/>
+<meta type="date" value="1657-04-14"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0385">
+<lg type="poem">
+<l>Quam Christianam, Christiane, gratiam</l>
+<l>Patri rependis! qui semel vitam tibi</l>
+<l>Casu caducam contulit, fluxam, brevem,</l>
+<l>Huic arte longam prorogas et perpetem,</l>
+<l>Et alterum sic te Patris praestas Patrem.<note n="#1"/></l>
+</lg>
+<div type="closer">
+<p><date>14 Apr. 1657</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

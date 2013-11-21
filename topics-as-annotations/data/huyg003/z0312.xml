@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0312"/>
+<meta type="date" value="1656-07-12"/>
+<meta type="sender" value="colv001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0312">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>Estant en cette ville Monsieur <persName>Rijcklof van Goens</persName><note n="#1"/>, qui a demeuré par longues annees aux Indes orientales, et y porté des charges fort honorables, et y retourne au mois de septembre en qualité de Conseiller Indien, homme de tres-grande experience: Nous avons eu entre autres, discours de vos Lunettes d'approche. Et en est devenu grandement desireux, pour en pouvoir porter vne avec soi aux Indes, afin de contempler le ciel par elles en leurs terres. Il ne manqueroit pas de vous en faire vne honeste recognoissance, car il est homme de grand moien. Voici jusques ou ie procede, me confiant sur vostre tres-noble humanité; si ie puis estre un bon proxenete en cet endroict, ie m'estimeray heureux. Nous attendrons en son temps vos
+observations Saturnines. Le susdit seigneur vous pourra fournir avec le temps les siennes qu'il pourra faire du costé d'orient. En sin il merite qu'on face estat de sa personne. I'attendray un mot de vostre grace, et apres avoir saluë Monsieur vostre Pere, ie me nommeray</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres-humble et obeïssant serviteur <persName key="colv001">A. Colvius</persName>.</p>
+<p>De Dordrecht ce <date>12. de Juillet 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Hugens van Zulichom</persName>. s' Graven-hage.</p>
+</div>
+</body>
+</text>
+</TEI>

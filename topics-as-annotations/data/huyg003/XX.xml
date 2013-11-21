@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XX"/>
+<meta resp="Worp" type="date" value="1644-08"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="assen003"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XX">
+<p>...Logicam Burgersdicij magnam minoremque hoc ipso die absolvemus, cras naturam parentem bonis avibus adituri...</p>
+<div type="comment">
+<p>Sans date. Const. Huygens, qui a l'habitude de noter sur les lettres de Bruno la date de la réception, nous apprend avoir reçu la présente lettre à Assenede le 1 septembre 1644. Voyez aussi sur le camp d'Assenede la note 2 de la p. 31 qui précède.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

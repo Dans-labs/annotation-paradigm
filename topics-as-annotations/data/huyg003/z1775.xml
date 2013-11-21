@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1775"/>
+<meta type="date" value="1669-11-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1775">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 14 novembre 1669.</p>
+</div>
+<p>Ie vous remercie de l'histoire veritable de vostre demeslè avec cet estourdi Comte de Rieux. Ie ne scavois pas, que vous en aviez estè lors que Monsieur Romf raconta l'affaire<note n="#1"/> la premiere fois, et il faut qu'il ne l'ait pas sceu luy mesme. Ie seray bien aise d'apprendre ce qu'il est devenu a la fin, et s'il a donnè quelque satisfaction a ces belles et a vous deux que cet affront regardoit autant qu'elles.</p>
+<p>Il me semble que la Residence en Espagne ne feroit pas une mauvaise affaire. car en fin on en revient, quand on ne s'y trouve pas bien. Il Signor Padre doit scavoir s'il peut souffrir que vous vous ecartiez si loin. Je vois que Monsieur
+Romf a aussi quelque dessein pour la mesme chose, et je ne doute pas qu'il ne s'en trouve encore d'autres<note n="#2"/>. Je ne scaurois vous rien dire touchant vostre calcul presentement, ayant consumè tout le temps que j'avois a escrire des lettres que je suis obligè d'envoier<note n="#3"/>.</p>
+<p>J'y penseray plus a loisir, et je trouve vostre methode fort jolie, pourveu qu'elle soit bien veritable.</p>
+</div>
+</body>
+</text>
+</TEI>

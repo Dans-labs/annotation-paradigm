@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2015"/>
+<meta type="date" value="1675-03-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2015">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 15 Mars 1675.</p>
+</div>
+<p>Je considere de mesme que je crois que vous faites Signor fratello qu'ayant les occupations que vous avez, la correspondence avec moy ne vous pourroit servir de guere, parce que vous n'avez nullement le temps de rien executer des inventions ni des curiositez que je pourrois vous communiquer. Sans cela vous devez croire que je ne laisserois pas ainsi passer des annees entieres sans vous escrire une seule
+fois<note n="#1"/>. Je vous remercie de la felicitation cordiale au suject de mon invention des montres justes, qu'on appelle icy Pendules de poche, qui n'a pas fait moins de bruict icy que par dela, comme vous pouvez croire; et il a estè plus grand a cause de la contestation impertinente d'un mechant homme<note n="#2"/> qui a voulu passer pour autheur de cette invention. Quoyque je fusse encore a faire les premiers essais de l'application aux montres, on a voulu d'abord, que le succes fust indubitable d'une chose pour laquelle on voioit qu'on se debattoit avec tant de chaleur. Cependant il y a eu des difficultez a l'executer en petit, qu'il a falu surmonter; ce qui a coustè de la peine et du temps. Mais tout va bien presentement, et la premiere montre de cette facon ayant soustenu toutes les epreuves, celles que l'on fera en suite seront encore plus parfaites. J'en viens d'en commander une pour Monsieur le Prince et auray soin qu'elle s'ascheve au plustost, et de la maniere que vous souhaitez. Le Roy n'en a pas encore parce que la boete de celle dont j'ay parlè n'est pas encore faite, et mesme quand elle sera faite je doute si ce sera celle la que je luy presenteray, parce que les suivantes seront assurement meilleures. Je vous prie donc de ne vous impatienter point. Adieu.</p>
+</div>
+<div type="para">
+<p>Pour mon frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

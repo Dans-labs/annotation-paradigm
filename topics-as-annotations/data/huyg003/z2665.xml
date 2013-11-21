@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2665"/>
+<meta type="date" value="1691-03-12"/>
+<meta type="sender" value="huet025"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2665">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ay receu de Mr. <persName key="hire005">de la Hire</persName> le liure que vous m'auez fait l'honneur de m'enuoyer<note n="#1"/>. Je ne saurois assez vous en tesmoigner ma reconnoissance, non seulement pour la valeur du present, mais bien plus par ce qu'il m'a fait connoistre que vostre esloignement ne m'a point fait perdre la part que j'auois dans vostre souuenir. Quoy que l'estat ou je me trouue m'engage dans des estudes qui ont bien peu de rapport aux matieres que vous auez traittées dans vostre bel ouurage, je n'ay pas laissé de le lire et je suis demeuré persuadé que vous auez esté plus loin que ceux qui vous ont precedé, &amp; que ceux qui viendront apres vous auront bien de la peine d'approcher de vous. Continuez Monsieur, d'enrichir et de faire honneur a nostre siecle, par vos ingenieuses decouuertes. J'ay fait quelques petits ouurages ces dernieres années. Mais outre qu'ils ne valoient pas la peine de vous estre enuoyez, &amp; que pour mon honneur je dois fuir le jugement d'un homme aussi éclairé que vous estes, l'interruption entiere du commerce m'a osté le moyen de les faire passer en Hollande. Si vous auiez la bonté de m'indiquer quelque voye, je m'en seruirois pour vous donner ces legeres marques de l'estime infinie que j'ay pour vostre merite, &amp; de la passion extreme auec laquelle je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre très humble et très obeissant serviteur l'Abbé <persName key="huet025">Huet</persName>.</p>
+<p>N. Eu. d'Auranches.</p>
+<p>A <placeName key="parij001">Paris</placeName> le 12 Mars 1691.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

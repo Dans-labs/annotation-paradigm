@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXXXII"/>
+<meta type="date" value="1694-09-29"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="wobur901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXXXII">
+<div type="opener">
+<p>Mr. <persName key="huyg003">Hugens</persName></p>
+</div>
+<p>M<hi rend="sup">r</hi>. Il y a longtemps que je devrois vous avoir écrit que j'ai receu le paquet que vous m'avez fait l'honneur de m'envoier par M<hi rend="sup">r</hi>. de Zulichem. J'y ai veu avec quelque indignation que M<hi rend="sup">r</hi> Renaud ne se rendoit qu'à demi à vos raisonnemens et qu'il se croioit assez fort pour se mesurer seul avec vous et avec tout ce qu'il y a de Mathematiciens au monde<note n="#1"/>. J'aurois été tenté de joindre mes raisons aux votres et d'imprimer une double demonstration que j'ai de la proposition qu'on nous conteste si je n'avois pas fait reflexion qu'il vous seroit aisé de reduire un si petit ennemi. M<hi rend="sup">r</hi> Gregorie m'a dit que M<hi rend="sup">r</hi> Newton avoit trouvé le moien de reduire à un calcul presque entierement exact toutes les inegalitez de la <figure rend="inline"><graphic url="huyg003oeuv22fi29.gif"></graphic></figure>, de maniere qu'on peut calculer les mouvements pour un temps demandé à 2 ou 3 minutes pres de la verité au lieu qu'on avoit assez de peine de calculer le lieu de la lune à 15 pres. Je ne puis M<hi rend="sup">r</hi> vous marquer rien de plus precis n'aiant pas eu des nouvelles de M<hi rend="sup">r</hi> N. depuis plus de 7 mois.</p>
+<p>J'oubliois de dire à propos de M<hi rend="sup">r</hi>. Renaud que notre regle pour la situation la plus avantageuse des voiles d'un vaisseau<note n="#2"/> n'est exacte qu'en cas que le vaisseau ne porte qu'une seule voile ou du moins en cas que les voiles ne se derobent pas le vent
+les unes aux autres. Car supposé un vaisseau AB, qui ait 2 mats <figure rend="inline"><graphic url="huyg003oeuv22fi30.gif"></graphic></figure> à l'horizon C, D et demivergues horizontales CF, DE attachées aux mâts par leurs extremitez à la facon des vergues des yachts d'Angleterre. Et que de ces vergues pendent deux voiles quarrées, la situation la plus avantageuse de la vergue de l'arriere CF sera celle que notre regle donne. Mais par les mats C et D tirez les lignes que suit le vent savoir VCS, VDS et supposez que la vergue DE soit assez longue pour atteindre ou pour passer la ligne VCS quand on fait l'angle CDE = à la moitié de CDS je dis que
+<figure><graphic url="huyg003oeuv22ill51.gif"></graphic></figure>
+cette situation de la voile DE est la plus avantageuse, ce qui vous paroitra aisement par le calcul. En outre que cette situation de la voile fait plus avancer que ne feroit celle qu'on tire de notre regle elle a encore celà d'avantageux qu'elle fait moins pancher le vaisseau. Dans les vaisseaux de guerre cette remarque peut étre de quelque usage, principalement pour les voiles basses et pour les huniers, et quand le vent vient presque de l'arriere [ou quand on fait route au plus pres du vent. Je ne croi pas neanmoins que le vent vienne jamais assez de l'avant pour que les perroquets et les grands huniers derobent sensiblement celui qui devroit tomber sur les perroquets d'avant].</p>
+<p>M<hi rend="sup">r</hi> <persName key="leib013">Leibnitz</persName> a taché d'établir une correspondance de lettres avec moi. Quelque satisfaction que j'eusse pu trouver en ce commerce je ne l'ai pas accepté avec l'empressement que je devois ne me sentant pas à beaucoup pres autant de diligence pour ecrire des lettres que j'en connois à cet Illustre. Je suis avec beaucoup de respect</p>
+<p>A.W.A. en B. ce 29<hi rend="sup">e</hi>7<hi rend="sup">bre</hi> 1694 S.V.</p>
+<p>N.B. Il faloit avoir effacé ce qui est ici entre des crochets [ ].</p>
+<p>&nbsp;</p>
+<p>N.F. de Woburn Abbey à M<hi rend="sup">r</hi> Hugens à la Haye 297<hi rend="sup">bre</hi> 1694 S.V.</p>
+<p>Sur le different de Mons<hi rend="sup">r</hi><persName key="rena002">Renaud</persName> avec M<hi rend="sup">r</hi>. Hugens.</p>
+<p>Ce que M<hi rend="sup">r</hi> Gregory dit touchant l'exactitude de la Theorie de la Lune de M<hi rend="sup">r</hi> Newton.</p>
+<p>La meilleure situation des voiles a deux cas differens qu'il faut bien distinguer, &amp; que j'explique.</p>
+<p>Que M<hi rend="sup">r</hi> Leibnitz a taché d'établir une Correspondance de Lettres avec moi. Je ne l'ai pas acceptée comme je devois, &amp; pourquoi.</p>
+</div>
+</body>
+</text>
+</TEI>

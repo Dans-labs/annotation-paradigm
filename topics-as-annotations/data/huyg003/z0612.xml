@@ -1,0 +1,49 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0612"/>
+<meta type="date" value="1659-03-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0610"/>
+<meta type="type" value="appendix"/>
+<meta subtype="NE" type="markup" value="ok"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0612">
+<div type="opener">
+<p><date>14 Mart. 1659</date>.</p>
+</div>
+<head rend="h4">Problema meum proponendum <persName key="nier005">Theodoro Rembrantz</persName>.</head>
+<p><figure><graphic url="huyg003oeuv02ill139.gif"></graphic></figure></p>
+<p><formula>A</formula> et <formula>B</formula> sunt trochleae, fimis continuus <formula>ACBDA</formula>, <formula>AC ∞ CB</formula>. <formula>AD ∞ DB</formula>.
+data est gravitas suspensa in <formula>C</formula> et <formula>D</formula>.
+data item <formula>AB</formula>, et longitudo funis <formula>ACBDA</formula>.
+Oportet invenire quo situ quiescant pondera sic suspensa.</p>
+<p>Sumatur in <formula>CL</formula> punctum <formula>S</formula> et jungatur <formula>SB</formula>.
+Haec tanquam parallela ipsi <formula>BC</formula> consideranda est quia <formula>CS</formula> minimum quid.
+Sit <formula>SQ</formula> perpendicularis in <formula>BC</formula>.
+Si igitur <formula>C</formula> adscendisset in <formula>S</formula>, fit eo <formula>BS</formula> brevior quam <formula>BC</formula> quanta est <formula>QC</formula>.
+Simul autem <formula>D</formula> descendit ad <formula>O</formula>; quae distantia <formula>DO</formula> sic invenitur.
+Sit ducta <formula>OB</formula>; haec tanquam parallela ipsi <formula>BD</formula> spectatur; et cadat in cam perpendicularis <formula>DP</formula>.
+Erit ergo <formula>PO</formula> aequalis <formula>QC</formula>, quia cum
+<formula>BS</formula> minor sit quam <formula>BC</formula> parte <formula>CQ</formula>, necesse est ut tanto longior evadat <formula>BO</formula> quam <formula>BD</formula>.
+Jam quia triangula rectangula sunt <formula>CQS</formula>, <formula>OPD</formula>, quorum bases <formula>CQ</formula>, <formula>OP</formula> inter se aequales, habebit proinde sese <formula>CS</formula> ad <formula>OD</formula> ut secans anguli <formula>SCQ</formula> sive <formula>LCB</formula> ad secantem anguli <formula>DOP</formula> sive <formula>LDB</formula>.
+Quod si hoc situ pondera mansura sunt, oportet descensum <formula>DO</formula> ad ascensum <formula>CS</formula> eam rationem habere quam pondus ex <formula>C</formula> pendens ad pondus ex <formula>D</formula>.</p>
+<p>Sit angulus <formula>LCF ∞ LDB</formula>, ductâ nimirum <formula>CF</formula> parallela <formula>DB</formula>.
+Sumpta igitur <formula>CL</formula> pro radio fit <formula>CF</formula> secans anguli <formula>LDB</formula>, et <formula>CB</formula> secans anguli <formula>LCB</formula>.
+Quare oportet esse <formula>BC</formula> ad <formula>CF</formula> ut pondus ex <formula>D</formula> ad pondus ex <formula>C</formula>.
+Talem autem situm invenire problema solidum est.
+Verum datis verbi gratia <formula>LC ∞ 1</formula>, <formula>CB ∞ 4</formula>, <formula>LD ∞ 7</formula>, invenire gravitates <formula>D</formula> et <formula>C</formula> planum est.
+Quoniam enim gravitas <formula>D</formula> est ad gravitatem <formula>C</formula> ut <formula>CB</formula> ad <formula>CF</formula>, ratio autem <formula>CB</formula> ad <formula>CF</formula> componitur ex ratione <formula>CB</formula> ad <formula>BD</formula> et <formula>BD</formula> ad <formula>CF</formula> sive <formula>DL</formula> ad <formula>LC</formula>:
+Ergo gravitas <formula>D</formula> ad gravitatem <formula>C</formula> erit ut <formula>▭ CB</formula>, <formula>DL</formula> ad <formula>▭ BD</formula>, <formula>CL</formula>.</p>
+<p>Hîc fit <formula>BD ∞ 8</formula>.
+Ergo <formula>▭ CB</formula>, <formula>DL</formula> erit 28, et <formula>▭ BD</formula>, <formula>CL</formula> 8. hoc est ut 7 ad 2.
+Ergo et gravitas <formula>D</formula> ad gravitatem <formula>C</formula> ut 7 ad 2.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0948"/>
+<meta type="date" value="1662-01-01"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0948">
+<div type="opener">
+<p>Ce 1 Janvier 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Mon abscensce de Paris durant quatre a cinq moys m'ayant empesché de me donner l'honneur de vous escrire, agreez s'il vous plaist que Je vous rende astheure ce deuoir et que Je vous fasse part de quelques propositions<note n="#1"/> que J'ay receues de Monsieur de Fermat. Je les mets dans ce pacquet, et ne doute point que vous n'en receuiez beaucoup de satisfaction, il me demande de vos nouuelles, et de ces belles speculations que Je luy auois fait esperer que vous donneriez bientost au public, mais comme nous auons esté longtems sans scauoir mesme le lieu ou vous estiez, faictes moy s'il vous plaist la grace Monsieur de me mander ce que ie luy en dois escrire, et de croire que J'auray toute ma vie le respect que ie dois pour vostre merite et pour vostre vertu estant auec passion,</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et obeissant seruiteur, <persName key="carc010">De Carcauy</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens Seigneur de Zulychem</persName> a la Haye En Hollande.
+<lb/>12.</p>
+</div>
+</body>
+</text>
+</TEI>

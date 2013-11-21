@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0681"/>
+<meta type="date" value="1659-11-07"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0681">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>7. Nouembre 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous enuoye auec la presente l'obseruation<note n="#1"/> que j'ay faicte de la derniere Eclipse de Lune<note n="#2"/>, qui n'a pas tant duré que mes Tables la representent. ce qui m'oblige a mettre les diametres de la Lune &amp; de l'ombre de la Terre plus petits que je n'ay faict dans mon Astronomie Philolaique.</p>
+<p>Vous mobligerez aussi de me communicquer ce que vous aurez obserué a la Haye, ou a Leiden &amp; ailleurs.</p>
+<p>J'adjousteray icy l'obseruation que j'ay faicte de ♂.</p>
+<p>Octobris 28. Hora 11. ♂ in eadem recta linea cum cornibus ♉ videbatur. Tabulae Philolaicae exhibent tunc locum ♂ in ♊. graduum. 19.′22. Borealem Latitudinem ′19. adhibita latitudine ex Tabulis &amp; posito in recta linea fixarum ♂ longitudo ejus obseruata. cadit in ♊. graduum. 19.′17. excedens Tabularum ′5.</p>
+<p>J'ay commencé a lire vostre Systeme de Saturne lors que jauray tout leu je vous en diray ingenuement ce que j'en pense.</p>
+<p>J'attends auec impatience l'horologe &amp; les exemplaires de vostre Systeme pour les distribuer selon vos ordres. Je suis tresveritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur, <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>S'il fait beau d'aujourdhuy en 8 jours j'obserueray l'Eclipse de Soleil<note n="#3"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1388"/>
+<meta type="date" value="1665-04-10"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1388">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Habes hic obseruationes Leydenses<note n="#1"/> quarum exemplar ad Serenissimum Principem Leopoldum, cum mentione nominis tuj, hodie misi, et pro quibus gratias maximas ago, licet vna tecum sentiam non esse ea <hi rend="i">ἀϰριβείᾳ</hi> factas qua sperari poterat. Multum etiam debere tibi me profiteor pro Auzotianae epistolae<note n="#2"/> apographo, vt et pro libello tuo<note n="#3"/>: quae tamen examinare ne minimum quidem hactenus licuit, ita tot curis ab aliquot diebus distractus sum. Faciam cum redierit tranquillitas, et videbo quantum inflectj oporteat cometae semitam, vt illj de qua ad te scripseram<note n="#4"/>, hypothesi conueniat.
+Quod vero de distantiâ mones, fateor sané hoc esse <persName>Copernicanj</persName> systematis priuilegium, cum in alio non nisi per parallaxes haberi possit.</p>
+<p>Adijciamne me offerre operam meam si quid morbo tuo leniendo in hac patriâ reperiri queat? Sed vereor ne ridiculus videar cum a vobis soleamus pharmaca petere. Dolorem tamen lateris de quo scribis suspicor ex illorum numero esse, quibus acidulas Spadanas conducere aiunt Medicj: Quod si ita sit,
+nec forte vacet ad fontem ipsum, ex quo purius bibuntur, accedere; vtere quaeso opera mea, ego enim hauriri curabo ea diligentia ac fide quam virtus tua meretur. Vale Vir Amicissime atque ama vt soles</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <hi rend="i">ἀυτοσχεδιαςί</hi> Leodicj 10 Aprilis 1665.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

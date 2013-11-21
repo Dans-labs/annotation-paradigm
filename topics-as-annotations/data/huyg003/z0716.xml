@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0716"/>
+<meta type="date" value="1660-01-30"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0716">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>30<hi rend="sup">e</hi> Januier 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je suis si pressé que je ne puis respondre qu'a vne partie de la vostre du 22<hi rend="sup">e</hi>. du courrant, qui est touchant le genethliaque de la personne que vous scauez, lequel je vous ay enuoyé<note n="#1"/>, et duquel vous me parlez comme ne l'ayant pas receu. ce qui me met en peine; &amp; je ne scay pourquoy on auroit retenu le pacquet chez Monseigneur l'Ambassadeur. je vous remercie de ce que vous auez escrit a cette personne en ma faueur. Je vous enuoyay il y a 8. jours la figure<note n="#2"/> de l'horologe a pendule que Monsieur le Grand Duc de Florence a faict adjuster dans le vieil palais de Medici.</p>
+<p>Je verray auec bien du plaisir vostre nouuelle jnvention dans l'horologe a pendule. Au reste le Sieur Hanet<note n="#3"/> ne paroist point encores &amp; je ne scay quand je pourray retirer l'horologe que vous m'auez fait faire. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

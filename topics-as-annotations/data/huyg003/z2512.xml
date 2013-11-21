@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2512"/>
+<meta type="date" value="1688-01"/>
+<meta resp="HI" type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2512">
+<div type="opener">
+<p lang="fr">Janvier 1688.</p>
+</div>
+<p>Je ne m'attendois pas à voir mon probleme honnoré de vostre solution. C'est à vous et à vos semblables, dont le nombre est tres petit, d'estre plustost juges de ce que font les autres. On sçait assez que ces problemes ne vous arrestent pas. Il est
+inutile de dire, que vostre solution s'accorde exactement avec la mienne<note n="#2"/>. Mon dessein avoit esté de tailler un peu de besoigne à ces bons Cartesiens qui pour avoir leu les Elemens de Bartholin<note n="#3"/>, ou du P. Malebranche<note n="#4"/> croyent de pouvoir tout faire en Analyse. Cependant M. l'Abbé Catelan doit estre bien aise d'estre degagé, il auroit peut estre souvent mordu les ongles inutilement<note n="#5"/>. Il est vray que vostre solution est encore un peu enigmatique en ce qui regarde ces autres lignes isochrones moins principales, que vostre figure dans les Nouvelles de la republique des lettres mois d'octobre 1687 appelle BE, BF, BG. C'est pourquoy vous jugerés, Monsieur, si j'ay rencontré vostre sentiment. Voicy ce que j'en pense<note n="#6"/>. Soit une de ces moins principales AB<hi rend="i">δ</hi>E passant par B sommet de la principale BD. Soit <hi rend="i">αβ</hi> egale à 4/9 du parametre de <hi rend="i">δβ</hi>, et soit A<hi rend="i">α</hi> une droite horizontale et AB, <hi rend="i">αβ</hi> perpendiculaires chacune touchant sa courbe au sommet. Or nous scavons que
+<figure><graphic url="huyg003oeuv09ill53.gif"></graphic></figure>
+le poids tombant de la hauteur ou horizontale qui passe par A sur quelque point de la courbe BD que ce soit, c'est à dire sur le sommet B ou sur quelqu'autre point D, pourra descendre uniformement par la courbe. Donc de même, le poids tombant d'A, c'est a dire de l'horizontale qui passe par <hi rend="i">α</hi>, sur un point B de la courbe <hi rend="i">β</hi>B<hi rend="i">δ</hi> pourra descendre uniformement par B<hi rend="i">δ</hi>. Mais la descente par la principale BD et qui commence par le sommet, retient le plus de vistesse. Aussi la perpendiculaire AB touche BD, et coupe <hi rend="i">βδ</hi>. J'adjouteray aussi que generalement le temps de la descente par BD est au temps de la descente par AB, comme BC est au double d'AB, dont le corollaire est ce que vous avés voulu remarquer que BC estant double d'AB, les temps sont egaux. [Nous verrons si M. l'Abbé C y voudra mordre, quoy qu'il soit aisé en effect à un Analyste ordinaire de trouver le reste apres ce que vous en avés dit. Car le noeud de l'affaire estoit de determiner la nature de la courbe].</p>
+<p>Je souhaitte de tout mon coeur, que vous donniés au public tant de belles decouvertes que vous avés faites depuis long temps dans la Geometrie, dans les Mécaniques, dans la Dioptrique, et autres sciences. Pourquoy ne vous serués vous pas de la commodité de tant de journaux des Sçavans<note n="#7"/>. Mais ce que je souhaitte le plus, c'est vostre santé. Je ne connois personne, qu'on vous puisse substituer. En attendant la publication de vos ouvrages, je voudrois avoir au moins quelque connoissance de ce que vous avés dessein de donner. Il me semble d'avoir ouy dire que vous pouviés rendre raison enfin de la refraction du crystal d'Islande. Je voudrois sçavoir vostre sentiment sur le flus et reflus, sur la variation de l'aimant, qui apparemment a quelque regle, sur la nature des couleurs fixes qu'on appelle reelles. Item sur la generations des sels.</p>
+<p>J'aurois écrit plustost, mais je suis en voyage depuis trois mois à voir quelques Archives pour en tirer des lumieres Historiques, et c'est pourquoy je n'ay vu les Nouvelles d'octobre qu'il y a quelques semaines.</p>
+</div>
+</body>
+</text>
+</TEI>

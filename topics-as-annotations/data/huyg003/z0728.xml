@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0728"/>
+<meta type="date" value="1660-03-10"/>
+<meta type="sender" value="?"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0728">
+<div type="opener">
+<p><date>Mars 1660</date>.</p>
+<p><persName key="huyg003">Christiano Hugenio</persName> Juveni Eruditissimo. S.P.D.</p>
+</div>
+<p>Quae de Marte<note n="#2"/> et ejus asseclis indagavisti sane vidisse juvit et gaudeo de tam excellenti animi tui industria quae tibi ob illustrem tuum Parentem gemina est. Proderit hisce studiis tubus hic opticus quem tali modo adornabis. Tubum in tres partes aequales tribus vitris distinguis; Vitrum autem quod oculo admovetur sit sexta pars vitri intermedii, quae vitro<note n="#3"/> intermedium scilicet ct<note n="#4"/> oculo admouendum quinque tubulis vitreis quasi columellis in orbem retratâ modica distinctâ<note n="#5"/> compaictis proportionaliter conjungantur, ut quilibet radios suos ad acum oculi perducere possit. Vitrum extremo<note n="#6"/> intermedio sit aequale. Reliqua curae Tuae committo nam plura scriberem sed plus otii jam jam discessurus non habeo. Vale <hi rend="sc">vi</hi> Id. Mart, <hi rend="sc">cIɔ Iɔ clx</hi>.</p>
+</div>
+<div type="para">
+<p><persName key="huyg003">Christiano Hugenio</persName>
+<lb/>Hagam Comitis.</p>
+</div>
+</body>
+</text>
+</TEI>

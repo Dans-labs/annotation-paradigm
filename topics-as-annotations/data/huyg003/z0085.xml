@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0085"/>
+<meta type="date" value="1650-09-27"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0085">
+<div type="opener">
+<p>Praestantissime Domine.</p>
+</div>
+<p>Quòd litteris tuis<note n="#1"/> citiùs non responderim, propter aliquot negotia, quae me hactenus occupatissimum tenuêre, mihi ignoscas velim. Perlegeram jam duos primos libros,<note n="#2"/> ex quibus satis, velut ex ungue leonem, reliqua tua similiter non tam festinanter legenda esse deprehendi, quippe quae ante a te <seg org="ingeniotè" resp="#AD" type="corr">ingeniosè</seg> excogitata, satisque perspecta ac perpensa, licèt raptim illa conscripta profitearis; tamen, quid in ejusmodi difficili materia à te praestitum sit, abunde declarant. Jnter legendum hìc illic quaedam leviter annotaram, tanquam à Te non satis perspecta, mihique deinceps
+examinanda, quibus perpendendis accurationem tuam postea degustavi, eàque à me nimis subito <seg org="fuissereprehensa" resp="#AD" type="corr">fuisse reprehensa</seg>: adeò ut crediderim reliqua eodem modo se fore habitura.</p>
+<p>Theoremata perspicuè ac breviter à Te proposita agnosco, demonstrationesque breves ac elegantes. Quae igitur in caussâ fuêre ut omnia attentiore curâ, etiamsi illis non visis subscribere minime vererer, legenda mihi proposuerim. Jn primo libro quaedam tanquam subobscura vel dubia annotavi, quae tollendae difficultatis vel obscuritatis ergo immutanda censui, et tibi praesenti sum significaturus.</p>
+<p>Caeterum vidi tuas adversus Cavalerij<note n="#3"/> principia instantias, quae sanè mentem Toricellij (qui demonstrationem per indivisibilia tanti facit<note n="#4"/>, ut prae illâ eum misereat veteris Geometriae) non ita affirmant, ut non optandum non sit, dicta principia, praesertim, quibus Toricellius demonstrationes suas superstruxit, usque adeò determinari, nequid ijs superstrui queat, quod non sit omnino indubitatum. Verùm enim vero cum demonstrationes omnes, quas à Cavallerio factas vidi, in eas facilè converti possint, quae fiunt per absurdum, nec ijs alias protinus assentiri audeam: minimè verendum putavi ipsius principijs quidquam superstruere, si modò eo sensu, quo ab ipso sumpta sunt, accipiantur. Mercennius in libro, quem post sua Cogitata Physico-Mathematica edidit sub titulo, Reflectiones Physico-Mathematicae<note n="#5"/>, ubi de Quadraturâ Circuli Patris Vincentij mentionem facit, inter alia <seg org="haecscribit" resp="#AD" type="corr">haec scribit</seg>: <hi rend="i">At verò cum neque dederit Quadraturam eo modo</hi>, <hi rend="i">quo solet à Geometris expectari</hi>, <hi rend="i">cum in eâ exhibendâ longè quam ipsàm Quadraturam <seg org="difficilior a" resp="#AD" type="corr">difficiliora</seg> supponat vel postulet; neque meminerit ullatenus Geometriae per indivisibilia eruditissimi Bon. Cavallerij</hi>, <hi rend="i">quandoquidem primus illam per indivisibilia methodum edidit</hi>, <hi rend="i">quae tamen illi praeluxisse videtur</hi>, <hi rend="i">nostris Geometris displicuit; qui praeterea nonnihil in illo opere requirunt</hi>, <hi rend="i">vel arguunt &amp;c</hi>. Quae verba (ut opinor) ex mente Robervalli<note n="#6"/> cum apposuerit, prae se ferre mihi videntur, Vincentium sua non potuisse sine methodo indivisibilium invenire, perinde ac si nihil absque eâ ipsi licuisset, quae quidem, ut scio, mens est ipsius Robervalli, qui, ut Dominus <persName key="desc004">Des-Cartes</persName> mihi quondam narravit, eam tanti aestimat, ut se jam apertis oculis videre existimet, et Geometriae penetralia sibi jam aperta credat. Quidquid sit, hoc mihi tamen certum videtur, methodum illam esse viam censendam, quâ directè ad rationem, quae inter duas <seg org="supersities" resp="#AD" type="corr">superfities</seg>, aut duo corpora reperitur, inveniendam, perducamur, et quâ mediante, velut per regulam, mutuam illarum comparationem invenire possimus. Si Deus volet, inter paucos dies extra urbem sum profecturus, ast intra 15 dies reversurus. quo fiet, ut ulteriori lectioni mihi postea sit incumbendum. Igitur si habeas, de quibus me certiorem fieri velis, quaeso brevi rescribas, ac interim vale.</p>
+<div type="closer">
+<p>Dominationi Vestrae Addictissimus <persName key="scho197">Fr. à Schooten</persName>.</p>
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>27 Sept. 1650</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, ten huijse van Myn Heer <persName key="huyg001">van Zuylechem</persName>, op t' plein
+<lb/>in S'graven-hage.
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

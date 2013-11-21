@@ -1,0 +1,29 @@
+// This query tries to find constructions analogous to L@DA<AT L@<W.T
+// >ET-J@<;P D.@B@R in Jes 50:4. The goal here is to identify which
+// phrase type L@<W.T is most likely to have.
+
+// ident @(#)lq11.mql	1.1 04/02/27
+
+/*
+<metadata>
+<meta type="research_question">Isa 50:4</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-02-27"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query tries to find constructions analogous to לָדַעַת לָעוּת אֶת-יָעֵף דָּבָר in Jes 50:4. The goal here is to identify which phrase type לָעוּת is most likely to have.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+[verse
+   [phrase
+      [word FOCUS lexeme = "B" or lexeme = "K" or lexeme = "L"]
+      [word FOCUS tense = infinitive_construct]
+   ]
+   [phrase]	// parallel to L@<W.T
+   [phrase
+      [word FOCUS first lexeme = ">T" or lexeme = ">T=="]
+   ]
+]

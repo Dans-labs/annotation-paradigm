@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2141"/>
+<meta type="date" value="1678-10-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="gorin001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2141">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 14 Oct. 1678.</p>
+</div>
+<p>Je souhaitois fort mon frere d'entendre de vos nouvelles n'en ayant eu de longtemps et j'allois vous escrire pour vous en demander quand j'ay receu vostre lettre<note n="#1"/>, qui m'apprend la prochaine delivrance de madame vostre chere Espouse<note n="#2"/>. Vous voila donc Dieu mercy pere et mere pour la quatrième fois, dont je vous felicite tous deux de bon coeur, vous exhortant pourtant de ne vous pas tant haster dorenavant à vous procurer la continuation de ces benedictions. L'on a assez veu ce que vous sçavez faire et le nombre quaternaire<note n="#3"/> est un bon nombre par lequel Pythagore avoit accoustumè de jurer. Au reste je vous suis obligè de l'honneur que vous voulez me faire en nommant vostre enfant de mon nom, en cas qu'il luy puisse convenir. Vous pourriez avoir chosi quelque compere plus utile, mais non pas qui fust plus affectionnè. Il me fasche bien que l'opinion que vous tesmoignez avoir de mes finances, soit si vraye. Cependant quelque jour, si foetura greges impleverit, vous verrez que je m'acquiteray de tout ce à quoy un honneste parrain est obligè. Mais peut estre mademoiselle vostre fille rend tout ce discours superflu dont je seray bien aise d'apprendre ce qui en est<note n="#4"/>.</p>
+<p>Je vous prie de m'informer en mesme temps comment vous gouvernez vos mutins et legers citoyens, et si l'on vous laisse en paix tant de leur costè que de celuy du R.P.<note n="#5"/> Si vous faites estat de reprendre vostre place à l'assemblee des Estats, ou si cela ne se pouvant quin excitentur crabrones, vous preferez le repos a cet honneur. Adieu.</p>
+<p>Mad<hi rend="sup">me</hi> Perrault la jeune est morte ces jours passez de la petite verole et estant accouchée de 3 mois. J'y perds beaucoup. Nos ambassadeurs<note n="#6"/> ne sont pas encore arrivez.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">Huijgens de Zulichem</persName>
+<lb/>Grand Bailly de Gorcum et du pais d'Arckel etc.
+<lb/>A Gorcum.</p>
+</div>
+</body>
+</text>
+</TEI>

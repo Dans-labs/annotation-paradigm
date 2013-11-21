@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1325"/>
+<meta type="date" value="1665-02-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1325">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 6 fevrier 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous ne doutez pas si j'ay estè bien aise d'apprendre la Relation<note n="#1"/> du Capitaine Holmes. Vous ne pourriez me mander rien de plus agreable, et je vous remercie de chaque ligne que vous avez employée a me raconter si particulierement l'histoire de cette belle Experience. Il est vray que je ne m'estois pas promis un si bel effect des horologes de cette façon, et pour mon entiere satisfaction je vous prie de me dire ce que vous et vos Messieurs de la Societè Royale pensent de cette Relation, si le dit Capitaine semble estre homme sincere et sur la foy de qui l'on puisse s'assurer. car en fin je m'estonne que ces horologes ayent estè assez justes pour pouuoir par leur moyen rencontrer une si petite Isle. J'ay grande impatience de veoir ce que vous m'en promettez par escrit du reste de ses observations car par la je jugeray mieux du tout: et quand la veritè de l'experience auroit estè un peu au dessous de ce qu'il en rapporte, il n'y a pas de doute pourtant que mes nouuelles horologes ne mettent cette affaire dans la perfection desirée. J'avois desia resolu de faire publier par nos gazettes<note n="#2"/> qu'on les exposoit en vente, et la dessus vostre lettre estant venue, je l'ay fait avec plus de confiance, y adjoutant qu'on en avoit pris des experiences certaines. Je n'ay pas encore ajustè avec l'horologer a quel prix on les donnera, mais il parle de 300 livres ou d'avantage la piece; qui est cher, mais aussi y a il beaucoup d'ouurage. Je tascheray a les mettre au plus juste prix. Combien vous semble que j'en doibs pretendre? J'ay pensè de 30 livres ou environ.</p>
+<p>J'escrivis hier a mon Pere<note n="#3"/> touchant le Privilege en France, que puis qu'il en avoit desia parlè au Roy et qu'il le luy avoit promis, il pourroit facilement le faire expedier. mais parce qu'il fut sur le point de partir<note n="#4"/> je luy mande vostre proposition<note n="#5"/> d'y emploier Monsieur l'Abbè de Beaufort. Je verray quel en est son avis et cependant vous pouvez s'il vous plait mander a Monsieur l'Abbè qu'il en veuille conferer avec mon pere qui ne luy est pas inconnu. Je me souuiens qu'il se faisoit
+fort d'obtenir l'Expedition de Monsieur le Chancelier<note n="#6"/> sans rien payer, qui autrement a ce qu'on dit prend 3 ou 400 livres pour le sceau.</p>
+<p>J'ay pensè que pour avoir une des nouuelles horologes vous pourriez prier Monsieur Downing<note n="#7"/> de s'en vouloir charger puis qu'on dit qu'il partira dans peu. Je suis sans reserve</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>Il y a long temps que Monsieur Sluse m'a priè<note n="#8"/> de scavoir de vous si Monsieur Hobbes a fait imprimer<note n="#9"/> contre luy qui avoit refutè par escrit sa fausse duplication du cube. J'ay tousjours oubliè de vous le demander mais je croy qu'il n'en est rien par ce que vous me l'auriez fait scavoir. Monsieur Auzout attend quel jugement l'on fera chez vous de ses Ephemerides<note n="#10"/> du comete. Je differe de luy en ce qu'il le met par dessus Saturne, et moy entre nostre orbe et celuy de Mars<note n="#11"/>.</p>
+<p>La Societè a suject de se rejouir de l'occasion de tant d'Illustres personnes, qui ne luy sera pas seulement honorable mais aussi profitable comme j'espere.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="mora019">Moray</persName>
+<lb/>Chevalier et du Conseil Prive du Roy pour les affaires d'Escosses.
+<lb/>dans Whithall
+<lb/>A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0007"/>
+<meta type="date" value="1645-06-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0007">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="huyg008">Ludovico</persName> fratri S.</p>
+</div>
+<p>Valde miror quare argentum Cognata<note n="#2"/> non mittat quo nunc maxime indigeo, si quid enim disputare velit, faciat per me licet cum hanc rationem solverit, nihil enim in ea continetur quin Pater Constantino id solverit absque contradictione; itaque festinet rogo, diutius enim carere non possum. Epistola Jacobi quae caesum Piccolominaeum<note n="#3"/> reserebat, totam urbem percurrit, fuit apud Spanhemium<note n="#4"/>, apud Praetorem Bontium<note n="#5"/>, et alios plurimos quos non novisti. imo quidam suadebant ut imprimi facerem. Pingimus nos nunc coloribus siccis quod pingendi genus <hi rend="i">doeselen</hi> appellant; si videas quod hac ratione heri seci, nihili prorsus plumbum Hispanicum facias; imitatus sum effigiem senis à Rembrando factam coloribus cum olco, ut vix differentiam videas, transmisissem artis specimen sed nimio labore et tempore constant. Vale.</p>
+<div type="closer">
+<p><date>29 Jun. 1645</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur <persName key="huyg008">L. Huijgens</persName>, ten huijse vande <persName key="huyg001">heer van Zuijlichem</persName>.
+<lb/>In <placeName key="denha004">s Gravenhage</placeName>.
+<lb/>P.</p>
+</div>
+</body>
+</text>
+</TEI>

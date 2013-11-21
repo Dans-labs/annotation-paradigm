@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0838"/>
+<meta type="date" value="1661-02-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0838">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="hein009">Nicolao Heinsio</persName> D.F.S.P.</p>
+</div>
+<p>Quod ad acceptissimas tuas non continuo responderim, quodque etiam nunc obiter ac paucis respondeo non equidem negotia mea in causa sunt, nulla enim habeo. sed amicorum interpellationes crebrae qui ne unum quidem diem illum, quem scribendis epistolis dicare solitus sum, mihi liberum relinquunt. libellum meum<note n="#1"/> quo Eustachio Divino respondi Florentiam pervenisse ex te primum intellexi, in cujus nova editione<note n="#2"/> si quid Serenissimus Princeps Leopoldus mutavit aut expunxit, velim nolim id boni consulere debeo; cum tamen ita illi facere visum fuerit, miror non saltem exemplar aliquod ad me perferri curasse. Sed ille fortasse misit jam diu. delitescit autem alicubi una cum literis de quibus ante dies paucos aliquid inaudivi.
+Ajunt enim Episcopum de Bezieres<note n="#3"/> qui in hac aula res agit Magni Hetruriae Ducis (eum vero convenire ipse necdum potui) literas heic accepisse quas mihi traderet; cum autem invenire me nequiret, in Hollandiam eas misisse. Sed ab eo jam tantum temporis praeterijt ut facile huc remeare potuerint, ac proinde male metuo ne mihi interciderint. De Capellanio ad Illustrissimum Beuningium deducendo nihil me admonere aut rogare opus erat, jam diu enim ad hoc operam illi meam obtuleram; sed ipse differre coactus fuit, eo quod nec lecticae jactationem, nec gestationem qualis hic in usu est, perferre valeat. Crastinò tamen hic aderit puto, tumque una ad Beuningium pergemus. Bullialdum denique profectum esse acceperam, sed et literas<note n="#4"/> ad me dedisse, quas item deperditas esse oportet. De Vossio non ita mihi scribere videris quasi jam in Britanniam trajecisset<note n="#5"/>, quae tamen omnium hic opinio est. De meo reditu non est quod certo affirmem; patris enim jussa expecto, quibus vel domum revocabor, vel trans mare tendere jubebor ubi Clarissimum Vossium me reperturum credebam. Scio interim nusquam jucundius quam in hac urbe me victurum ubi lectissimorum hominum consortium, ac singularis humanitas magis ac magis in dies me devinciunt. Inter hos vel praecipuos esse scias Menagium Capellaniumque, qui licet inter se ab aliquo tempore infensi vivant infestique, in me amando omnique officiorum genere demerendo unicè consentiunt. Certum autem est illos hoc impensius mihi studere, quod tibi, quem ex aequo uterque colunt, sciunt esse amicissimum. Vale Vir Eximiè et amicis meo nomine salutem imperti.</p>
+<div type="closer">
+<p>Dabam <placeName key="parij001">Lutetiae Parisiorum</placeName> <date>11 Februarii 1661</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="hein009">Heinsius</persName>, Resident de M<hi rend="sup">rs</hi>. les Etats en Suede. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

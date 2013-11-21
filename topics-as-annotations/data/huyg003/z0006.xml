@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0006"/>
+<meta type="date" value="1645-05-14"/>
+<meta type="sender" value="brun004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0006">
+<div type="opener">
+<p><persName key="huyg007">Constantino</persName> et <persName key="huyg003">Christiano Hugenijs</persName>, amoribus meis S.D. <persName key="brun004">Henricus Bruno</persName>.</p>
+</div>
+<p>Litteras a vobis heri rectè accepit Pater, pro quo, quia ipsi otium non est, ego jussus ita respondeo. ante omnia stijlo sanè quam bono conscriptas videri, sed stijlo tamen, se verò atramento conscriptas velle. Quod ad Paravicini<note n="#1"/> vestri, qui cum Caesar non sit, Dictatorem tamen se ipse facere conatus est, basilicas edictiones attinet, rectè vos isti <hi rend="i">νομοθέτῃ</hi> geminum <hi rend="i">νομοϰλάςην</hi> opposuisse. Bonas quidem illas esse leges, sed pueris praescribendas, studiosis verò, qui jam per se rectum atque utile intelligant, quibusque et aetas adultior bonas leges sibi ipsa dixerit, et insererit natura melior ac pater optimus, et infixerit educatio, nolentibus non obtrudendas; et rectum responsum esse illud Constantini, quod dixerit, vos a teneris doctos bene facere non metu mulctarum sed amore recti. Quod tamen ad illam legem attinet, quae sero venientium dentibus bellum esuritionemque indicit, quia certum prandio et caenae tempus statui debet, et iniquum est omnes unum exspectare latrante stomacho, ita consentire vos aequum censet Pater, ut coenâ excidat qui post coenam accedit; qui vero super coenam, edat quod inveniet. nam <hi rend="i">ταῦτα μὲν δὴ ταῦτα</hi>. Cras vinum mittetur vobis quo caeteras istas proletarias leges
+despumare atque abstergere jubemini. Scire velim quales tandem lectiones plenis ventribus inculcare instituat vester Solon, tum an caeteri contubernales legibus subscripserint.</p>
+<div type="closer">
+<p>Multum valete, dilectissimi et bene, ut soletis, rem agite.</p>
+<p><placeName key="denha004">Hagae Com.</placeName> <date>prid. Id. Majas. 1645</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Messieurs Messieurs <persName key="huyg007">Constantin</persName> et <persName key="huyg003">Chrestien Huigens</persName>, op 't Steenschuur, inde Hartogh van Saxen
+<lb/>tot <placeName key="leide001">Leiden</placeName>.
+<lb/>P.</p>
+</div>
+</body>
+</text>
+</TEI>

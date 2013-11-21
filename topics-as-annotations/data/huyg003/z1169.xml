@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1169"/>
+<meta type="date" value="1663-11-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1169">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 23 Novembre 1663.</p>
+</div>
+<p>Je n'ay autre chose a vous dire, n'ayant rien receu de vostre part, sinon que je suis tres marry que vous n'ayez pas receu mon pacquet ou il y avoit vos tablettes avec mes lettres a vous et a Monsieur van Leeuwen et encore une de Monsieur Chieze au frere de Moggershil. j'espere que depuis on vous l'aura apportè, car je ne puis m'imaginer comment il se seroit perdu. il estoit dans un couvert apart, avec l'inscription a Monsieur Vastric<note n="#1"/>. Quoyque vous ne m'ayez rien escrit de vostre perruque je ne doute pas pourtant que vous ne la portiez desia, parce que ma Cousine<note n="#2"/> escrit entre autres choses al Signor Padre datter nu een nieuwe mode is dat de jongeluy al haer haer doen afsnijden en setten dan paruquen op die haer bijkans het heele aensicht bedecken, en achter op staet een hoedtie<note n="#3"/>. Je voy par la que nous sommes tout de mesme.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

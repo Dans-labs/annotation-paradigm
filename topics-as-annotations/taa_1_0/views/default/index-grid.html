@@ -1,0 +1,22 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,False}}
+{{extend 'layout.html'}}
+
+
+<script src="{{=URL('static','jscolor/jscolor.js')}}"></script>  
+
+<div>
+<form name="study" action="{{=URL()}}" method="post">
+<table width="100%">
+    <tr height="100%">
+        <td width="25%">
+			<h1 class="columntitle">Topics</h1>
+        </td>
+        <td width="75%" id="bodyc">
+            <p>BEGIN LETTERS</p>
+            {{=letters}}
+            <p>END LETTERS</p>
+        </td>
+    </tr>
+</table>
+</form>
+</div>

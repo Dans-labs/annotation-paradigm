@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2220"/>
+<meta type="date" value="1680-03-24"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2220">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 24 Mars 1680.</p>
+</div>
+<p>Voicy Monsieur la demonstration<note n="#2"/> que ie uous promis hier au soir ie nay pû faire autre chose que de la copier cest pourquoy ie ne doute pas qu'il ny ait quelque
+chose a accommoder pour la rendre uisible en public uous y pourrez remarquer le tour que iay pris qui peut seruir a ce qui me semble pour demonstrer les mesmes choses lorsquon se sert des Axes et non pas des Asymptotes. Je ne doute pas que uous nayez uû dans mon liuret de la construction des Equations<note n="#3"/> depuis la page 354 et les suiuantes que iauois remarqué les mesmes proprietez uous l'hyperbole et dans lEllipse que dans la parabole, c'est pourquoy ce que uous proposates ne mestoit pas une nouueauté non plus qua ceux qui auront fait un peu de reflection aux remarques qui commencent en la page 359 et a ce que ie dis, dans la construction auec l'hyperbole donnée ou l'on uoit quil arriue la mesme chose qu'a la parabole uoyez la fin de la page 381; pour ce que uous me dites que la ligne iusques a laquelle on mene les ordonnées que iay nommée dans la figure page 372 CDM et les racines GI, GI, FL, qui diuise la distance entre le centre du cercle et laxe dont les parties sont dans ma figure KI, MN iay fait KI ou OB ∞ ½<hi rend="i">bi</hi> / <hi rend="i">k</hi>+<hi rend="i">a</hi> et MN ∞ ½<hi rend="i">bi</hi> / <hi rend="i">a</hi> ce qui monstre assez aisement que OB et MA sont entreux comme K + <hi rend="i">a</hi>|<hi rend="i">a</hi> qui est la raison du diametre RA a son parametre. il mauroit esté inutile den deduire tous les cas dans toutes les sections en particulier puisque iauertis que cest partout la mesme chose. mais ie suis tres persuadé que ces proprietez ne sont pas inconnues a ceux qui examinent cette matiere et il n'y a pas de raison pourquoy la chose ne seroit pas dans les autres sections comme dans la Parabole, comme Mr. <persName key="desc004">Descartes</persName> la remarqué. cela nempesche pas Monsieur, que ie nadmire uostre
+methode pour tirer les lieux des Equations<note n="#4"/> proposées, pour les construire, et ie croy que uous deuez estre persuadé par ce que i'en publie, que ie fais plus d'estime deuous que de tous nos geometres tant anciens que modernes, ie ne fais qu'augmenter le nombre de ceux qui uous admirent dans tout ce que uous uoulez examiner. obligez moy mosieur de croire que ie uous parle fort sincerement et que ie suis</p>
+<div type="closer">
+<p>uostre tresobeissant Seruiteur <persName key="hire005">De la Hire</persName><note n="#5"/><note n="#6"/>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens</persName> A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1166"/>
+<meta type="date" value="1663-11-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1166">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 16 Novembre 1663.</p>
+</div>
+<p>De vous envoier des pistoles en Holande c'est à quoy j'aurois trop de peine a me resoudre. payez en 7 à van Dalen sans scrupule de l'argent del Signor Padre et je le luy diray a fin qu'il me les rabatte sur les premiers subtides qu'il me donnera, s'il ne m'en veut pas faire present, comme il devroit bien puis qu'il vous en fait. Une de plus que vous me devez font 8.</p>
+<p>Vous ne me mandez rien touchant vostre perruque, que vous devez pourtant avoir recüe, puis que nous avons nouvelles du point de Venise<note n="#1"/> qui a estè dans la mesme boete. Je veux donc croire que vous en estes satisfait.</p>
+<p>J'escris en Angleterre<note n="#2"/> pour scavoir a qui il faudra adresser l'horologe de Milord Brounker. Il faut que Maitre Severijn dise quel en est le pris, a fin que je le fasse scavoir au dit Milord. Monsieur Bouillaut n'a payè d'une semblable que 72 livres, mais je croy qu'il n'en voudra pas moins que 80.</p>
+<p>Chez le Sieur Pascal<note n="#3"/> il y a 2 horologes a pendule que Monsieur Chieze a fait faire pour la Signora Anna et un autre Italien de nos amis. Ils sont desia achevez et le frere Louis s'estoit chargè d'avoir soin de les envoier. mais estant absent je voudrois bien que vous les addressassiez a L'unicus<note n="#4"/>, et par luy a Mademoiselle vander Elst, qui les envoyera a Paris par les Rouliers. Si le frere<note n="#5"/> estoit à la Haye il pourroit bien aussi les envoier a Rouen par mer a Monsieur Cordier<note n="#6"/> mais cette voye est plus longue.</p>
+<p>S'il y avoit moyen de m'envoyer avec ces horologes une livre ou demie de bon Te, vous me feriez grand plaisir, parce que depuis quelques semaines je m'en suis
+trouvè admirablement bien a prendre simplement les feuilles dans la bouche, lors que je me sens incommodè du mal de teste, car cela m'en guerit sans faute.</p>
+<p>Le nom s'il vous plait du galand<note n="#7"/> de la Cousine Eiberg<note n="#8"/>.</p>
+</div>
+<div type="para">
+<p>Au frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

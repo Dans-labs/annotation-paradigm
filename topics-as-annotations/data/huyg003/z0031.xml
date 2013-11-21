@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0031"/>
+<meta type="date" value="1647-01-24?"/>
+<meta type="sender" value="mers004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0030"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0031">
+<p><figure><graphic url="huyg003oeuv01ill53.gif"></graphic></figure></p>
+<p>Dato cylindro Scaleno: Inuenire cylindrum rectum, atque ex eius superficie Cylindrica quantumuis producta, portionem resecare aequalem superficiei cylindricae scalenae datae, quae portio fit eiusmodi vt à quocunque terminj illius puncto, ad vnum idemque superficiej inueniendj cylindrj punctum, omnia interualla hoc est omnes rectae lineae ductae inter se sint aequales.</p>
+<p>Esto recta <formula>AB</formula> aequalis diametro basis dati Cylindrj scalenj secta bifariam in <formula>C</formula>: recta autem <formula>CD</formula>. esto aequalis axj eiusdem; et angulus <formula>DCB</formula> sit inclinatio ipsius axis ad planum basis, ducatur recta <formula>DE</formula> perpendicularis ad rectam <formula>AB</formula> productam, si opus fuerit
+vsque in <formula>E</formula>, tum intelligatur secundus quidam Cylindrus, sed rectus, super eadem basj, cuius diameter <formula>AB</formula>, altitudo vero sit aequalis ipsi <formula>CD</formula>, Intelligatur etiam tertius Cylindrus idemque rectus, cuius diameter basis sit <formula>CE</formula>, &amp; altitudo aequalis eidem <formula>CD</formula>.
+Tandem jntelligatur quartus Cylindrus rectus quoque similis tertio, sed cuius superficies aequalis sit dimidiae superficiej secundj. In huius enim quartj Cylindrj superficie Cylindrica productâ quantum satis: jnteruallo autem lateris eiusdem quartj, delineabitur portio quaesita. Demonstratio longa est et difficilis.</p>
+<p>Quartus autem ille cylindrus sic inuenietur, inter <formula>AC</formula> et <formula>CD</formula> media proportionalis esto <formula>F</formula>. Item inter <formula>CE</formula> et <formula>CD</formula> media proportionalis esto <formula>G</formula>. atque vt <formula>G</formula> ad <formula>CD</formula> ita fiat <formula>F</formula> ad <formula>H</formula>. Et vt <formula>G</formula> ad <formula>CE</formula>, ita fiat <formula>F</formula> ad <formula>I</formula>, sicutj ergo <formula>G</formula> media proportionalis est inter <formula>CE</formula>, <formula>CD</formula>, sic <formula>F</formula> media erit inter <formula>H</formula> et <formula>I</formula>. eritque proportio eadem: quare Cylindrus rectus, cuius <formula>H</formula> erit altitudo, <formula>I</formula> autem diameter basis, est is quj quaeritur: nec difficilis est demonstratio.</p>
+</div>
+</body>
+</text>
+</TEI>

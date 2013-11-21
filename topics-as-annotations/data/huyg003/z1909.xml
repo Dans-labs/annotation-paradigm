@@ -1,0 +1,71 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1909"/>
+<meta type="date" value="1672-09-15"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1909">
+<div type="opener">
+<p lang="fr">A Londres le 5 Sept. 1672.</p>
+<p lang="fr">Monsieur,</p>
+</div>
+<p lang="fr">Vous verrez dans l'annexe<note n="#1"/>, que i'ay pris la liberté d'y inserer en Anglois vostre solution de cet estrange phenomene de la suspension du Mercure bien purgé de l'air a la hauteur de 75 pouces etc. Nos curieux y voyent autant de difficulté que vous, et ne laisseront pas d'y resver iusques a ce qu'ils en soient mieux esclaircis.</p>
+<p lang="fr">Je viens de recevoir une assez longue lettre de Monsieur Sluse, et me trouve obligé de vous en faire part, elle traitant encore du probleme d'Alhazen, qui a esté tant rassiné entre vous deux. Voicy donc ce qu'il en dit pour cete fois<note n="#2"/>.</p>
+<p><table>
+<row>
+<cell>AK.</cell>
+<cell><hi rend="i">q</hi></cell></row>
+<row>
+<cell>AC.</cell>
+<cell><hi rend="i">a</hi></cell></row>
+<row>
+<cell>CK.</cell>
+<cell><hi rend="i">e</hi></cell></row>
+<row>
+<cell>HG.</cell>
+<cell><hi rend="i">b</hi></cell></row>
+<row>
+<cell>AG.</cell>
+<cell><hi rend="i">d</hi></cell></row>
+<row>
+<cell>FA.</cell>
+<cell><hi rend="i">z</hi></cell></row>
+<row>
+<cell>FI.</cell>
+<cell><hi rend="i">n</hi></cell></row>
+</table></p>
+<p>Mirari desine, eandem in Alhazeniano problemate constructionem ex diversis aequationibus deduci, quandoquidem illae omnes, quibus hactenus usi sumus<note n="#3"/>, in una eademque generali Analysi contineantur. Quod ut ostendam, datus sit circulus, cujus centrum A, puncta H et I; sitque punctum quaesitum K, ad quod ex punctis I et H ducantur rectae HK, IK, et tangens KD. Tum ex A ducatur quaelibet AG, occurrens HK in E, IK in B, tangenti KD in D, (iis nimirum productis, quas produci opus est). His positis, evidens est, ob angulos EKD, DKB, aequales, et angulum AKD rectum, tres AE, BE, DE fore semper harmonicé proportionales. Itaque ductis ad AE normalibus KC, IF, HG, ac denominatis partibus, ut in laterculo habebitur, methodo, quam in secunda hujus Problematis analysi olim adhibui<note n="#4"/>, haec generalis aequatio; <hi rend="i">ndaa - bzaa - nqqa + bqqa // ndee - zbee</hi> + 2<hi rend="i">bnae</hi> + 2<hi rend="i">zdae - dqqe - zqqe</hi>. Fingo nunc AG esse perpendicularem
+<figure><graphic url="huyg003oeuv07ill51.gif"></graphic></figure>
+ad HI, nihil varietatis erit in aequatione, nisi quod AF et AG, hoc est, <hi rend="i">d</hi> et <hi rend="i">z</hi>, erunt aequales. Posito itaque <hi rend="i">d</hi> pro <hi rend="i">z</hi>, fiet <hi rend="i">ndaa - bdaa - nqqa + bqqa//ndee - dbee</hi> + 2<hi rend="i">bnae</hi> + 2<hi rend="i">ddae</hi> - 2<hi rend="i">dqqe</hi>.</p>
+<p>Sive applicatis omnibus ad <hi rend="i">nd - db aa -qqa/d //ee</hi> + 2<hi rend="i">bnae</hi> + 2<hi rend="i">ddae</hi> - 2<hi rend="i">dqqe / nd-bd</hi>. eadem nempe, quam ex prima mea analysi, licet aliâ viâ, deduxeram et quam nuper modo facili constructam ad te misi<note n="#5"/>.</p>
+<p>Pone deinde AG coincidere cum AH; abibit igitur HG, sive <hi rend="i">be</hi><note n="#6"/>, in nihilum. Expunctis itaque ab aequatione partibus, in quibus <hi rend="i">b</hi> reperitur, remanebit, <hi rend="i">ndaa - nqaa//ndee</hi> + 2<hi rend="i">zdae - dqqe - qqze</hi>.</p>
+<p>Hanc autem, si meministi, curis secundis inveni, et aliam huic similem in casu quo recta AG transire intelligitur per I.</p>
+<p>Supponamus demum, rectam AG secare bifariam angulum HAI. Erit ob similitudinem triangulorum HAG, IAF, ut HG ad GA, ita IF ad FA, five ut <hi rend="i">b</hi> at <hi rend="i">d</hi>, ita <hi rend="i">n</hi> ad <hi rend="i">z</hi>, et <hi rend="i">nd//bz</hi>. Ablatis igitur aequalibus, fit <hi rend="i">bqqa-nqqa</hi>//2<hi rend="i">bnae</hi>+2<hi rend="i">zdae-dqqe-qqze</hi>; illa ipsa, quam, ut ex literis tuis nuper intellexi, Ci. Hugenius construxit<note n="#7"/>.</p>
+<p>Intelligatur tandem, eadem recta AG secare bifariam rectam HI: erunt igitur aequales HG, IG<note n="#8"/>, hoc est <hi rend="i">b//n</hi>. fietque, ablatis aequalibus, <hi rend="i">bdaa - bzaa // bdee - bzee</hi> + 2<hi rend="i">bbae</hi> + 2<hi rend="i">bbae</hi> + 2<hi rend="i">zdae - dqqe - qqze</hi>. quam, licet non admodum difficilem, nemo nostrûm hactenus construxit. Haec autem, ut et ipsa generalis aequatio, in duas alias dividi possunt<note n="#9"/>.</p>
+<p>Vides igitur, quicquid hactenus praestitum est, in eandem Analysin resolvi; quae et insinitas alias constructtiones per circulum datum et hyperbolam complectatur. Sed eas investigare non est tanti, cum in hoc Problemate, ut olim fortassis inopiâ, sic nunc copiâ laboremus.</p>
+<p>Addam tantum Constructionem per Parabolam, idque viâ duplici; quae licet aliis per hyperbolam operosior videatur, lineae tamen simplicitate, quâ parabola inter reliquas sectiones commendatur, operam compensat.</p>
+<p>Iisdem igitur datis, jungatur AI et producatur in S, donec AI fiat aequalis AH, junctâque HS, et bisectâ IS in M, ducatur per M recta RMQ normalis ad HS; in quam cadat ex A normalis AQ, et cui parallelus ducatur radius AC; Tum factis tribus proportionalibus IA, AC, AE fiat ut SA ad AE, ita MQ ad AD, et RS ad AP, (in recta AQ versus Q;) et in eadem ab alia parte sumatur DO aequalis
+<figure><graphic url="huyg003oeuv07ill52.gif"></graphic></figure>
+DC. Demum bisectâ PD in X, inclinetur per X angulo semi-recto ad AX, recta VXL, occurrens normali in D erectae in puncto V, et in quam ex O cadat normalis OB. Ajo, si fiat ut VX ad XB, ita XB ad BL, punctum L esse verticem, LV axem, XV latus rectum Parabolae, quae Problemati satisfacit omni casu, secans nimirum circulum datum in punctis K, quorum supremum et infimum ad problema Alhazianum pertinent, reliqua ad aliud de quo nuper ad te scripsi<note n="#10"/>.</p>
+<p>Datur, ut supra indicavi, alia quoque Parabola, quae cum hac paria facit, et cujus descriptio ex hac adeo facile deducitur ut novâ non sit opus. Sumatur enim A<hi rend="i">δ</hi> in directum DA, et ipsi aequalis, et in directum OA ipsi quoque aequalis A<hi rend="i">ω</hi>. Tum bisectâ P<hi rend="i">δ</hi> in <hi rend="i">ξ</hi>, ducatur per <hi rend="i">ξ</hi> recta <hi rend="i">♉ξβ</hi> normalis ad XB, concurrens cum <hi rend="i">δ♉</hi>, normali ad OA, in <hi rend="i">♉</hi>, et in quam cadat normalis <hi rend="i">ωβ</hi>. Ac fiat ut <hi rend="i">♉ξ</hi> ad <hi rend="i">ξβ</hi> ita haec ad <hi rend="i">βλ</hi>: erit <hi rend="i">λ</hi> vertex, <hi rend="i">λξ</hi> axis, <hi rend="i">♉ξ</hi> latus rectum parabolae, quae in iisdem cum priore punctis circulum datum secabit. Sed de problemate Alhazeni jam plus quam satis.</p>
+<p lang="fr">Estant quasi lassé, ie n'y adjousteray rien si non que nous serions bien aises d'entendre, que vostre Pendule et vos dioptriques soient dans la presse. Nostre Societé ne s'assemblera qu'apres la St. Michel. Cependant les particuliers ne laissent pas de travailler, et entre autres Monsieur Boyle fait astheur imprimer des Experiences touchant l'affinité qu'il y a entre l'Air et la Flamme<note n="#11"/>, avec quelques autres qui touchent l'hydrostatique: lesquelles seront bien tost suivies des Experiences de natura et efficacia Effluviorum etc.<note n="#12"/>. Vous pardonnerez cette prolixité à</p>
+<div type="closer">
+<p lang="fr">Monsieur
+<lb/>Vostre treshumble et tressobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy
+<lb/>à Paris.
+<lb/>36 β</p>
+</div>
+</body>
+</text>
+</TEI>

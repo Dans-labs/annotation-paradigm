@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2586"/>
+<meta type="date" value="1690-05-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2586">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 5 May 1690.</p>
+</div>
+<p>Madame vostre femme m'a envoiè la lettre de Fatio que vous aviez oubliée, et que je vous ay demandée par ma precedente. Il me mande que des 4 Exemplaires que j'ay envoiè les derniers c'est a dire par Meester, il n'a receu que celuy qui estoit pour luy et un autre pour Mr. <persName key="wren002">Wren</persName>. ce qui me fait croire, que vous aurez adressè les autres, qui estoient pour Mr. <persName key="wall057">Wallis</persName> et pour Mil. <persName>Pembrock</persName>, par quelqu'autre de vos connoissances. au moins je vous prie d'avoir soin qu'ils soient rendus. Fatio me mande aussi que Mr. <persName key="boyl001">Boyle</persName> n'avoit pas encore receu l'exemplaire que j'avois destinè pour luy, et qui a estè parmy ceux dont Mr. <persName>Stanley</persName> a fait la distribution. de quoy je vous prie de vous enquerir de ce Docteur, car j'en suis fort en peine, parce que Mr. <persName key="boyl001">Boyle</persName> est un des lecteurs que je souhaite le plus pour cet ouvrage, et outre cela je luy suis obligè pour sa recepte pour la glace. C'est bien a regret que je vous romps si souvent la teste de ces livres, mais je suis obligè de m'acquiter de ce que je dois et de ce que j'ay promis aux amis par de là. On parle encore fort diversement du voiage d'Irlande, les uns voulant qu'il sera longtemps differè les autres qu'il ne se fera point du tout. Je pense quelquefois que nous nous serions bien passez de toute cette affaire d'Angleterre et nostre païs aussi, si ce malheureux Roy Jaques eust pu gouverner son royaume en paix. Quicquid delirant Reges plectuntur Achivi. Mil. Dorsley<note n="#1"/> prepare un Regale aux Dames de la Haye pour le jour de naissance de la Reine, cela se fera a la maison au bois.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zuylichem</persName>,
+<lb/>Secretaris van Sijn Konincklycke Maj.<hi rend="sup">t</hi>
+<lb/>Tot Londen.</p>
+</div>
+</body>
+</text>
+</TEI>

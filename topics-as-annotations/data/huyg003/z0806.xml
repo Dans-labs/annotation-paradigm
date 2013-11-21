@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0806"/>
+<meta type="date" value="1660-11-15"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0806">
+<div type="opener">
+<p>Ce <date>lundy 15 Nouembre</date>.</p>
+</div>
+<p>Je fus tres mortisié Samedy au soir<note n="#1"/> quand j'appris à mon retour la peine que vous auiés prise de passer ches moy deux fois l'apresdisnée. Jauois disné dehors et perdis par la la consolation de vous voir et de vous entretenir. Ce sera lors que le chemin sera beau que j'iray ches vous<note n="#2"/> jouir de ce bonheur la. Cependant jespere dauoir demain la joye de vous embrasser ches Monsieur de Monmor ou vous verres de nouueaux Partisans<note n="#3"/> de vostre merite. Je suis tout a vous</p>
+<div type="closer">
+<p><persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huggens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0452"/>
+<meta type="date" value="1658-01-23"/>
+<meta type="sender" value="cost069"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0452">
+<div type="opener">
+<p><date>23 Jan. 1658</date><note n="#2"/>.</p>
+<p>Mijn Heer</p>
+</div>
+<p>Het werck op Scheverlingh is tegenwoordig aen de ganck, heeft deese nacht gegaen, den Bol is een gewicht van 50 pondt, doch dencke wat minder aen tehanghen en sijn veer en kettingh wat d'anders te maken. het heeft naer gissingh een quartier in 14 ure verlooren. ick meijne op morgen naerdemiddach daer weer heen te gaen.</p>
+</div>
+<div type="para">
+<p>Mijn Heer <persName key="huyg003">Christiaen</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

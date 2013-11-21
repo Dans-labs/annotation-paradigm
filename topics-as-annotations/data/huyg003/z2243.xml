@@ -1,0 +1,44 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2243"/>
+<meta type="date" value="1681-04-02"/>
+<meta type="sender" value="rump004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2243">
+<div type="opener">
+<p>2 Avril 1681.</p>
+</div>
+<p>Designations a peu prez des 3 soleils, que lon a veu à Stockholm a plein midij.</p>
+<list>
+<label></label><item>A le veritable soleil.</item>
+<label><hi rend="i">b.c.</hi></label><item>les deux autres soleils.</item>
+<label></label><item>
+<figure><graphic url="huyg003oeuv08ill74.gif"></graphic></figure></item>
+<label><hi rend="i">d.</hi></label><item>un gros nuage, qui environnoit ces 3. soleils.</item>
+<label><hi rend="i">e.f.</hi></label><item>deux cornes de nuage.</item>
+<label><hi rend="i">g.</hi></label><item>Le premier arc en ciel. qui n'avoit pas tant de couleurs, que celuij au dessus littera <hi rend="i">h h</hi>.</item>
+<label><hi rend="i">h.</hi></label><item>L'arc en ciel renversé ayant des cornes et estant fort coloré.</item>
+<label><hi rend="i">i.</hi></label><item>Un gros nuage en forme d'Arc en ciel. qui paroissoit a coste de <hi rend="i">g</hi> vers le West.</item>
+<label><hi rend="i">k.</hi></label><item>L'horisond.</item>
+</list>
+<p>L'on a escrit en diligence a Upsal a Monsieur Spole<note n="#2"/> Professeur en Mathematique, pour en auoir de luy quelque description et explication plus exacte et particuliere<note n="#3"/>; en mesme temps on luy a proposé ces deux questions par provision.</p>
+<list>
+<label>1<hi rend="sup">o</hi></label><item>Pourquoy cet Arc en Ciel en haut Litt HH estoit renversé et avoit des cornes?</item>
+<label>2<hi rend="sup">o</hi></label><item>Pourquoy contre la nature des autres Arcs en Ciel, il falloit avoir le visage tourné du coste du soleil pour voir ceux cy?</item>
+</list>
+<div type="closer">
+<p>Stockholm ce 23/2 Mars Avril 1681.</p>
+</div>
+</div>
+<div type="para">
+<p>Voor dheer <persName key="huyg001">Constantin Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

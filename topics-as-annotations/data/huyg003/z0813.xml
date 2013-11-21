@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0813"/>
+<meta type="date" value="1660-11-24"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0812"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0813">
+<p>Ad incomparabilem Mathematicum, Dominum <persName key="huyg003">Christianum Hugenium, Constantini Magni filium</persName> etc. cum <persName key="hein009">Nicolao Heinsio</persName> scribens, <persName>Danielem</persName> eum nominâsset.<note n="#1"/></p>
+<lg type="poem">
+<l>Praenomen Heinsi, Christiane, perperam</l>
+<l>Cur exarâsti, qui facis nil perperam,</l>
+<l>Sed cuncta scribis, tam stupenda gentibus</l>
+<l>Quàm praedicanda semper, at nunquam satis?</l>
+<l>Nicolaus ergo est Daniel factus tibi?</l>
+<l>Immò ille soli talis haud factus tibi est,</l>
+<l>Sed et Camaenas illius legentibus,</l>
+<l>Et dîa totum scripta quae spirant patrem.</l>
+<l>Rectè profectò, Christiane, haud perperam,</l>
+<l>Sic exarâsti; nomen et famam patris</l>
+<l>Est consecutus, et tuetur filius.</l>
+<l>Hallucinata penna, non mens, est tibi,</l>
+<l>Fuitque dulcis error in praenomine.</l>
+<l>Nicolaus ergo Daniel sit Heinsius,</l>
+<l>Quoniam superstes alter est in altero.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><persName key="brun004">Henricus Bruno</persName>.</l>
+</lg>
+<div type="closer">
+<p><placeName key="denha004">Hagae-Comitis</placeName> <date>XXIV. Novembris CIƆIƆCLX</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

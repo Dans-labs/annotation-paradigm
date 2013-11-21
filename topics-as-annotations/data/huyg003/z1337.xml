@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1337"/>
+<meta type="date" value="1665-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1337">
+<div type="opener">
+<p>Monsieur <persName key="chap002">Chapelain</persName>.</p>
+</div>
+<p>a sa precedente lettre de felicitation. Graces d'avoir procurè la publication<note n="#1"/> si illustre de l'invention des Longitudes. Obligè a Monsieur de Salo. il passe icy pour l'autheur du journal. Esprit libre, clairvoyant. grande connoissance. je voudrois qu'il n'eust pas mis ce <hi rend="i">avec beaucoup d'approbation</hi>, qui n'estoit pas dans ma lettre, et me seeroit mal de parler ainsi. Que je ne poursuis pas le profits, assez satisfait d'avoir trouuè une chose utile pour le public. Je ne m'en inquieteray point. mais ne neglige pas celuy, qui s'offre, quand ce ne seroit que pour faire veoir que les sciences ne sont pas infructueuses. pas encore le detail de la relation de Holmes. dedicace<note n="#2"/> estoit faite aux Estats, mais sera toute autre chose et aura une autre titre de sorte que je pourray la faire au Roy, a la bontè et bienfaits de qui je suis si fort redevable.</p>
+</div>
+</body>
+</text>
+</TEI>

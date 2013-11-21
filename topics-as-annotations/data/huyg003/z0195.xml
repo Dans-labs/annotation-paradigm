@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0195"/>
+<meta type="date" value="1654-07-25"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0195">
+<div type="opener">
+<p>Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="vinc027">Gregorius a. St. Vincentio</persName> S.D.</p>
+</div>
+<p>Aequissimum me Judicem in aestimandis lucubrationibus tuis expertum te fuisse ex Vltimis a te ad me missis intellexi, ac proinde quem publicj juris fecisti libellum examini meo te subijcere profiteris. Absit a me vt judicandi penes me Jus arrogem,
+eorum potissimum scripta, qui acrimoniam jngenij sui aliunde jam probarunt. Vbi Lucubrationum tuarum nouum foetum aperui, jta exhilaratus fuj ac si denuo vel Andersonius rediuiuus, aut nouus Vieta prodijsset.</p>
+<p>Libellj nitor, scematum concinnitas, typorum species ac forma, Opus Corinthium redolere visa sunt jpsimet Elegantiae jnuidum. Sed pace tua dixerim jndoluj patrocinium ac compellationem meam serius subuenire, quo minus vnâ lucem aspiciat speculatio quam mihi ante non ita paucos menses communicasti<note n="#1"/>, de argumento primj problematis secundae partis, tanquam praelo minus digna fuerit; An forte defloratum arbitratus es de quo mecum sub rosa amicè muto litterarum commercio egistj. Non minus honeste meo judicio parabolae mentio in tuis lucubrationibus comparuisset, quam hyperbolae, cuius mentionem tacite jnclusam, dissimulando exclusam voluistj. remotior videtur a plana constructione praxis Hyperbolam jnuolueris, quam ea quae parabolae mentionem jmplicat. Decurrj more mihi consueto ab ouo ad mala, et placuere non parum tam quae pars prior quam subsequens adducit. Vbi otij plusculum nactus fuero, conabor penitius jnspicere, vt mihi admirationem adaugeam. Constructiones tuae de medijs proportionalibus Laudem merentur, licet planae non sint. Miraris me necdum de plana Constructione desperare, quam jnter jmpossibilia ablegas; Dies tamen alia docebit vt plura alia paris momenti.
+De dono jnterim ad me <seg org="transinisso" resp="#AD" type="corr">transmisso</seg> ago gratias, jmo et nomine Domini <persName key="kinn013">Kinner</persName>, qui et ipse procul dubio testabitur gratitudinis affectum. Libellus a me ad Patrem Sarasa mittendus, nondum comparuit. Quare erroris aliquid jnteruenisse suspicio mihi subrepit.</p>
+<p>Perge Porro Clarissime Domine quo pede coepisti et Mathesim genio tuo propitiam cole, quae mercedis loco nomen tuum jnter Clarissimorum virorum gloriam perennare sataget. Vale et mei memor Viue.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandauj</placeName>, <date>25 Julij 1654</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

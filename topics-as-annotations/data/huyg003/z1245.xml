@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1245"/>
+<meta type="date" value="1664-07-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1245">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 25 Julliet 1664.</p>
+</div>
+<p>Voicy une lettre de Monsieur Thevenot<note n="#1"/>, qui s'adresse principalement a vous. Il ne demande pas peu de livres a Elzevier; mais vous scavez pour quel prix cettuicy en a receu des siens, et luy envoierez cette liste, car je ne pretens pas d'entrer en vostre commission.</p>
+<p>Ce qui semble le plus hastè est l'envoy de la Relation Chinoise<note n="#2"/>, et si vous croiez rester encore quelque temps par dela, il seroit bon que vous m'envoiassiez la clef de vostre cabinet pour l'en tirer. Je luy ay escrit la raison de vostre delay, mais il n'avoit pas encore receu ma lettre<note n="#3"/> lors qu'il m'escrivit celle cy.</p>
+<p>Monsieur van Leeuwen m'a envoiè le Bernia<note n="#4"/> pour vous le faire tenir, ce que je ne fais pas pourtant, parce que vous mandez que vous allez revenir dans peu de jours. Il me fit dire en mesme temps qu'il ne se portoit pas bien, et j'ay sçeu depuis qu'il a mesme eu quelque apprehension d'estre atteint de peste, mais qu'il n'en a eu que la peur. J'ay aussi estè mal ces 3 ou 4 jours et ne me porte pas tout a fait bien encore.</p>
+<p>Il me semble que le frere de Moggershill et ma soeur n'ont pas grande envie d'entreprendre le voyage vers ces quartiers la, croyants qu'il ne fait pas seur de voiager en ce temps de maladie contagieuse<note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

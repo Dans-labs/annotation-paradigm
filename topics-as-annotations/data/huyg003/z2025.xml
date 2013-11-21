@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2025"/>
+<meta type="date" value="1675-04-29"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2025">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 19 Avril, 75.</p>
+<p>Monsieur</p>
+</div>
+<p>Depuis qui ie vous envoiois<note n="#1"/> le Nomb. 111 des Transactions, ie vous ay demandé par ma lettre du 22 Mars<note n="#2"/> la gráce de faire faire vne de vos nouuelles
+montres pour Mylord Brouncker, qui en a bonne opinion, et la voudroit bien confirmer par l'autopsie. J'espere, que cete lettre vous a esté renduë, et que vous ne refuserez point de faire ce bon office à nostre President, qui ne manquera pas d'en paier l'ouvrier tout ce qu'il luy faut. Vous verrez par cet imprimé<note n="#3"/>, comme ie me suis servi de la permission, qui vous m'auez donnée<note n="#4"/> de faire imprimer en Anglois la description de la dite montre<note n="#5"/>. Monsieur Hook a aussi demandé un privilege icy pour vne sienne montre<note n="#6"/>, qu'il pretend dependre du mesme principe, et qu'il dit auoir euë il y a plusieurs années. Nous verrons par les effets, laquelle sera la meilleure.</p>
+<p>Vous trounerez dans ce mesme imprimé vn Extrait du livre de la mesure de la terre de M. Picart<note n="#7"/>, qui m'a esté communiqué par vn amy qui l'auoit lû. S'il y a des beveuës i'espere, que l'autheur fera debiter par tout les Exemplaires du livre mesme, comme on en a envoyé quelques vns dans 2 ou 3 quartiers du monde, sans trouver bon d'en faire part à l'Angleterre, non obstant toutes les sollicitations, que i'en auois faites à mes correspondens a Paris.</p>
+<p>Je croy, que M. Hook donnera au public luy mesme ses observations touchant le dernier Eclipse de la Lune<note n="#8"/>. Je ne doubte pas, que vous n'ayez vû celles de
+Monsieur Hevelius, auxquelles M. Bouillaud<note n="#9"/> trouve a redire, et non pas sans raison, à l'avis de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName>, dans la Bibliotheque du Roy à Paris.
+<lb/>6 β</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0080"/>
+<meta type="date" value="1650"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0079"/>
+<meta type="type" value="poem"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0080">
+<p>Epitaphe de <persName key="desc004">des Cartes</persName> par <persName key="huyg003">Ch. Huygens</persName>.</p>
+<lg type="poem">
+<l>Sous le climat glacé de ces terres chagrines</l>
+<l>Où l'hiver est suivi de l'arrière-saison,</l>
+<l>Te voici sur le lieu que couvrent les ruines</l>
+<l>D'un fameux bâtiment qu'habita la Raison.</l>
+<l>&nbsp;</l>
+<l>Par la rigeur du sort et de la Parque infâme,</l>
+<l>Cy gist Descartes au regret de l'univers</l>
+<l>Ce qui servoit jadis d'interprête à son âme</l>
+<l>Sert de matière aux pleurs et de pâture aux vers.</l>
+<l>&nbsp;</l>
+<l>Cette âme qui tousjours, en sagesse féconde,</l>
+<l>Faisoit voir aux esprits ce qui se cache aux yeux</l>
+<l>Après avoir produit le modèle du monde</l>
+<l>S'informe désormais du mystère des cieux.</l>
+<l>&nbsp;</l>
+<l>Nature, prends le deuil, viens plaindre la première</l>
+<l>Le Grand Descartes, et monstre ton désespoir;</l>
+<l>Quand il perdit le jour, tu perdis la lumière,</l>
+<l>Ce n'est qu'à ce flambeau que nous t'avons pu voir.</l>
+</lg>
+<div type="closer">
+<p><persName key="huyg003">Chris. Huygens</persName>. <date>1650</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

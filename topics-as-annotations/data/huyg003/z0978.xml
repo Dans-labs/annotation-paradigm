@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0978"/>
+<meta type="date" value="1662"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0977"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0978">
+<p>Methode de se servir de la Table suivante.</p>
+<p>&nbsp;</p>
+<p>Pour se servir de cette Table il faut veoir combien de minutes et secondes il y a marquees au jour que l'horologe aura estè ajustee avec le soleil ou heure du quadrant, et aussi combien il y en a au jour que l'on veut scavoir leur difference. Et s'il y a d'avantage au premier jour qu'à l'autre, il sera plus tard a l'horologe qu'au quadrant, mais s'il y a d'avantage au dernier jour il sera plus tard au quadrant qu'a l'horologe, et ce d'autant de minutes et secondes que sera la difference entre les deux dites equations. Par exemple, ayant ajustè l'horologe avec le quadrant le 5<hi rend="sup">e</hi>. Mars, au quel jour la Table donne pour equation 3′, 11″, et voulant sçavoir combien il s'en faudra de l'un à l'autre le 18 Octobre, ou l'equation est 30′, 45″; vous osterez la moindre equation de la plus grande ainsi</p>
+<p><table>
+<row>
+<cell>30′.</cell>
+<cell>45″</cell></row>
+<row>
+<cell>3.</cell>
+<cell>11</cell></row>
+<row>
+<cell cols="2">_____</cell></row>
+<row>
+<cell>27.</cell>
+<cell>34</cell></row>
+</table></p>
+<p>Restent 27′. 34″ desquelles il sera plus tard au quadrant qu'a l'horologe, parce que l'equation du dernier jour excede celle du premier.</p>
+</div>
+</body>
+</text>
+</TEI>

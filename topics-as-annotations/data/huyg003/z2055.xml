@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2055"/>
+<meta type="date" value="1675-09-10"/>
+<meta type="sender" value="thur013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2055">
+<div type="opener">
+<p>ce 10<hi rend="sup">e</hi> Septembre 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Jay apris que sur le bruit que quelq'uns ont fait courir que j'estois l'auteur de la nouuelle inuention des montres qui ont vn ressort spiral attaché, a l'axe du balancier, vous auez tesmoigné estre en colere contre moy. Je suis tres faché que vous ayez eü ce deplaisir, ce qui peut auoir donné lieu a ce bruit est peut-estre que jay faict il ny a pas longtemps plusieurs pendules auquelles je me suis seruy d'un bout de ressort droit au lieu de fil qui soutient le pandule, ce qui fait vn tres bon effet, mais je suis tout prest de desabuser ceux qui auroient encore la pensee que je fusse l'auteur des nouuelles montres, cest vous Monsieur qui m'en auoit communiqué l'inuention et le premier modele que j'en ay fait je lay fait sur ce que vous m'en auez dit, cest pourquoy je ne pretends rien a la gloire de cette inuention laquelle vous appartient entierement. Je vous suplie donc de n'auoir contre moy aucun chagrin sur ce sujet et de croire que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="thur013">Thuret</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huguens</persName> A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0508"/>
+<meta type="date" value="1658-08-17"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="bodd011"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0508">
+<div type="opener">
+<p>Juvenis Ornatissime</p>
+</div>
+<p>Quod ad humanissimas tuas literas hactenus non responderim non alia causa est quam quod adscribere in ijsdem neglexeris quo loco in tam vasta urbe habites, neque enim dubitabam quin et epistola si quam ad te dedissem et argentum simul mihi periturum esset. Verum cum diutius in aere tuo esse nollem, visum est tandem Clarissimo Domino <persName>de Bie</persName> (quem tibi non ignotum esse scio neque te illi,) hasce committere quas tibi tradendas curet<note n="#1"/>. Ecce itaque praetium quod pro Ephemeridum
+volumine numerasti lubens restituo et persoluto licet pecuniario debito plurimum insuper ob diligenter navatam operam tibi me obstrictum profiteor. Quod de libellis nostris quaeris, neque tanti sunt ij quos vidisti ut aliorum tibi desiderium parere debeant, neque sanè quidquam postea typis edidi, nisi de Ratiocinijs aleae quaedam<note n="#2"/> quae ad calcem operum Fr. Schotenij adjecta sunt. Itemque epistolam ad Xaverium Ainscom<note n="#3"/> quâ respondi ad ea quibus <hi rend="i">ἐξέτασιν</hi> meam refutare conatus erat. quam tamen epistolam frustra legas nisi et illius librum videris. Vale.</p>
+<div type="closer">
+<p>Tibi ad omnia officia paratissimus <persName key="huyg003">Chr. Huijgens de Zul.</persName></p>
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> <date>17 Aug. 1658</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

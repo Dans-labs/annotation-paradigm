@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0387"/>
+<meta type="date" value="1657-04-27"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0387">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>27 Auril au soir</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous excuserez je m'asseure les occupations dans lesquelles je me trouue, qui m'ont empesché d'aller vous rendre en personne les ciuilitez que je vous doibs, &amp; vous donner des tesmoignages du ressentiment que je conserue de l'honneur que vous m'auez faict pendant vostre sejour a Paris, ou vous m'auez faict la faueur de me voir quelques fois. en attendant que je m'acquite de ce deuoir je vous escris ce billet, &amp; je vous enuoye vn exemplaire de mon liure <hi rend="i">de spiralibus</hi><note n="#1"/>. vous le receurez comme vne marque de l'estime que je fais de vous &amp; de l'honneur de vostre amitié, je vous supplie aussi de me croire</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p><note n="#2"/></p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

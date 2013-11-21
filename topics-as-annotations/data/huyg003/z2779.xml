@@ -1,0 +1,75 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2779"/>
+<meta type="date" value="1692-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2777"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2779">
+<p>Problema Hospitalij simplicissima via resolvitur.</p>
+<div type="section">
+<head rend="h4">§ I.</head>
+<p><figure><graphic url="huyg003oeuv10ill95.gif"></graphic></figure></p>
+<p>BA Logarithmica. VHQ curva pag. 108<note n="#2"/>; asymptoti hujus sunt FD, FV.</p>
+<p>Logarithmicae asymptotos DFC.</p>
+<p>BA portio curvae aequanda rectae.</p>
+<p>Si ut YB ad BZ, hoc est, ut EB ad BX ita sit BG=<hi rend="i">a</hi> ad BH cadit H in curvam VHQ<note n="#3"/>, et erit recta NB ad curvam BA ut ▭ BGON ad spatium BHQN<note n="#4"/>.</p>
+<p>Quaerendum est spatium BHQN.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#5"/>.</head>
+<p>Spatium VQKFV infinitum est aequale spatio FKLE (vid. pag. 108<note n="#6"/> posita hyperbola aequilatera FK, centro E, semidiametro EF=<hi rend="i">a</hi>=subtangente logarithmicae BA.</p>
+<p>Si utrinque auferatur spatium FDK, erit spatium infinitum VFDQV aequale spatio FKLE-spatio FDK; hoc est ▭<hi rend="sup">o</hi> DL-2 spatio FDK. Ergo sumptis horum dimidiis, erit Δ EKD-spat.<hi rend="sup">o</hi> FDK hoc est sector hyperbolicus FEK aequalis ½ spatii VFDQV.</p>
+<p>Eadem ratione erit sector hyperb. FEI aequalis ½ spatii infiniti VF<hi rend="i">β</hi>HV.</p>
+<p>Ergo spat. H<hi rend="i">β</hi>DQ=2 sector FEK-2 sector FEI; hoc est=2 spat. FRTK-2 spat. FRSI.</p>
+<p>Ergo spat. H<hi rend="i">β</hi>DQ 2 spat. ISTK.</p>
+<p>Sp. BHQN=▭ B<hi rend="i">β</hi>+sp. H<hi rend="i">β</hi>DQ-▭ ND vel ▭ B<hi rend="i">β</hi>+2 sp. ISTK--▭ ND=<hi rend="i">a</hi>√<hi rend="i">yy</hi>+<hi rend="i">aa</hi>-<hi rend="i">a</hi> √<hi rend="i">vv</hi>+<hi rend="i">aa</hi>+<hi rend="i">aq</hi><note n="#7"/>.</p>
+<p>▭ BO=<hi rend="i">ay</hi>-<hi rend="i">av</hi>.</p>
+<p>Ergo curva AB=√<hi rend="i">yy</hi>+<hi rend="i">aa</hi>-√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>+<hi rend="i">q</hi><note n="#8"/>=XB-XN+<hi rend="i">q</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#9"/>.</head>
+<p>Si super asymptoto logarithmicae cujus subtangens esset=ER=√½<hi rend="i">aa</hi>, applicarentur duae rectae in ratione SI ad TK, sive I<hi rend="i">δ</hi> ad K<hi rend="i">ζ</hi>, earum intervallum
+ductum in subtangentem faceret ▭ aequale spatio ISTK<note n="#10"/>. Si vero in hac Logarithmica cujus subtang. <hi rend="i">a</hi> applicentur duae in eadem ratione illa earum intervallum ductum in <hi rend="i">a</hi> faciet ▭ aequ. duplo spatio ISTK hoc est aequ. spatio HQD<hi rend="i">β</hi><note n="#11"/>.</p>
+<p><table>
+<row>
+<cell>E<hi rend="i">β</hi> vel <hi rend="i">βδ</hi>-<hi rend="i">β</hi>I=I<hi rend="i">δ</hi></cell></row>
+<row>
+<cell><hi rend="i">x</hi>-√<hi rend="i">xx</hi>-<hi rend="i">aa</hi>=I<hi rend="i">δ</hi></cell></row>
+<row>
+<cell>vel <hi rend="i">a</hi>√<hi rend="i">yy</hi>+<hi rend="i">aa</hi>/<hi rend="i">y</hi>-<hi rend="i">aa</hi>/<hi rend="i">y</hi>=I<hi rend="i">δ</hi><note n="#12"/></cell></row>
+<row>
+<cell><hi rend="i">a</hi>√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>/<hi rend="i">v</hi>-<hi rend="i">aa</hi>/<hi rend="i">v</hi>=K<hi rend="i">ζ</hi> si QD sit <hi rend="i">v</hi>.</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>I<hi rend="i">δ</hi>:K<hi rend="i">ζ</hi>=IS:KT=<hi rend="i">a</hi>√<hi rend="i">yy</hi>+<hi rend="i">aa</hi>/<hi rend="i">y</hi>-<hi rend="i">aa</hi>/<hi rend="i">y</hi>:<hi rend="i">a</hi>√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>/<hi rend="i">v</hi>-<hi rend="i">aa</hi>/<hi rend="i">v</hi>.</cell></row>
+<row>
+<cell>ratio IS ad KT √<hi rend="i">yy</hi>+<hi rend="i">aa</hi>/<hi rend="i">y</hi>-<hi rend="i">a</hi>/<hi rend="i">y</hi>:√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>/<hi rend="i">v</hi>-<hi rend="i">a</hi>/<hi rend="i">v</hi></cell></row>
+</table>
+<table>
+<row>
+<cell>composita { √<hi rend="i">yy</hi>+<hi rend="i">aa</hi>-<hi rend="i">a</hi></cell><cell>:</cell><cell>√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>-<hi rend="i">a</hi></cell></row>
+<row><cell>composita { &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">v</hi></cell><cell>:</cell><cell>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">y</hi></cell></row>
+</table></p>
+<p>√<hi rend="i">yy</hi>+<hi rend="i">aa</hi>-<hi rend="i">a</hi>(E<hi rend="i">θ</hi>)<note n="#13"/>:<hi rend="i">y</hi>(EB)=√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>-<hi rend="i">á</hi>(E<hi rend="i">gl</hi>):<hi rend="i">y</hi>√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>-<hi rend="i">ya</hi>/√<hi rend="i">yy</hi>+<hi rend="i">aa</hi>-<hi rend="i">a</hi> (E<hi rend="i">π</hi>)</p>
+<list>
+<item>EN:E<hi rend="i">π</hi>=<hi rend="i">v</hi>:<hi rend="i">y</hi>√<hi rend="i">vv</hi>+<hi rend="i">aa</hi>-<hi rend="i">ya</hi>/√<hi rend="i">yy</hi>+<hi rend="i">aa</hi>-<hi rend="i">a</hi></item>
+</list>
+<p>Est enim haec ratio eadem ac composita praecedens. Ergo ▭ <hi rend="i">φ</hi>C in <hi rend="i">a</hi> est==spat. HQD<hi rend="i">β</hi> et <hi rend="i">φ</hi>C=<hi rend="i">q</hi>.</p>
+<list>
+<item>[curva] AB=XB-XN (sive <hi rend="i">λθ</hi>)+<hi rend="i">φ</hi>C</item>
+</list>
+<p>Eadem igitur constructio hic oritur quae ex Hospitalij investigatione pag. 150<note n="#14"/>.</p>
+<p>EF est subtangens. F<hi rend="i">θ</hi>=FB. F<hi rend="i">λ</hi>=FN. <hi rend="i">λπ</hi> parall. <hi rend="i">θ</hi>B.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2778"/>
+<meta type="date" value="1692-10~"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2777"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2778">
+<p><figure><graphic url="huyg003oeuv10ill94.gif"></graphic></figure></p>
+<p>BF hyperbole aequilatera; centro A, axe ABC. FE tangens. KAE perp. BA. FK perp. EAK. KD est ▭; erit punctum D ad curvam DL<note n="#2"/>, cujus asymptoti BC, BM parall. AE. Et sptatium infinitum LDFBM aequale spatio FBAK.</p>
+<p>Nam ut FD ad DE sive FK, ita PO ad OF; unde ▭ FK, PO==▭ FD, FO.</p>
+<p><hi rend="i">y</hi><note n="#3"/> (FK=CA=DE):<hi rend="i">a</hi>(BA)</p>
+<p><table>
+<row>
+<cell>=<hi rend="i">a</hi>(BA):<hi rend="i">aa</hi>/<hi rend="i">y</hi>(HA)</cell></row>
+<row>
+<cell>CB=<hi rend="i">y</hi>-<hi rend="i">a</hi></cell></row>
+<row>
+<cell><hi rend="i">y</hi>-<hi rend="i">a</hi></cell></row>
+<row>
+<cell>2<hi rend="i">a</hi>/<hi rend="i">y</hi>+<hi rend="i">a</hi></cell></row>
+<row>
+<cell>AK=CF=<hi rend="i">y</hi>-<hi rend="i">a</hi>/√<hi rend="i">yy</hi>-<hi rend="i">aa</hi></cell></row>
+<row>
+<cell>AE=<hi rend="i">x</hi></cell></row>
+<row>
+<cell>EK=<hi rend="i">x</hi>+√<hi rend="i">yy</hi>-<hi rend="i">aa</hi></cell></row>
+<row>
+<cell><hi rend="i">x</hi>(EA):<hi rend="i">aa</hi>/<hi rend="i">y</hi>(AH)=<hi rend="i">x</hi>+√<hi rend="i">yy</hi>-<hi rend="i">aa</hi>(EK):<hi rend="i">y</hi>(FK)</cell></row>
+<row>
+<cell><hi rend="i">xyy</hi>=<hi rend="i">aax</hi>+<hi rend="i">aa</hi>√<hi rend="i">yy</hi>-<hi rend="i">aa</hi></cell></row>
+<row>
+<cell><hi rend="i">xyy</hi>-<hi rend="i">aax</hi>=<hi rend="i">aa</hi>√<hi rend="i">yy</hi>-<hi rend="i">aa</hi></cell></row>
+</table></p>
+<p>per <hi rend="i">yy</hi>-<hi rend="i">aa xxy</hi><hi rend="sup">4</hi>-2<hi rend="i">xxaayy</hi>+<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">xx</hi>=<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">yy</hi>-<hi rend="i">a</hi><hi rend="sup">6</hi>/<hi rend="i">xxyy</hi>-<hi rend="i">aaxx</hi>=<hi rend="i">a</hi><hi rend="sup">4</hi>, aequatio curvae DL, quae quadrabilis ex quadratura hyperbolae.</p>
+<p>Etiam portionis cujusvis CDQN mensura dabitur ex quadratura spatii hyperbolici FSTK; huic enim aequale est spatium FDQSF; datur autem et spatium FSNC ex dato FSTK. Ergo et CDQN quod nempe aequale erit FSTK-FCNS.</p>
+<p>Haec [QD] est curva qua Jo. Bernoulius utitur in constructione Catenariae in fig. 1<note n="#4"/>. Et ex qua etiam alteram invenit optimam quae fig. 2<hi rend="sup">da</hi>. Itaque scivit hujus quadraturam pendere ex quadratura hyperbolae<note n="#5"/>. Sed nondum video quomodo ad hanc curvam devenerit in illo problemate<note n="#6"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

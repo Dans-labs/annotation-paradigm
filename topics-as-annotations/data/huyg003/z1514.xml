@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1514"/>
+<meta type="date" value="1666-01-13"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1514">
+<div type="opener">
+<p><persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo <persName key="hein009">Nicolaus Heinsius</persName> S.P.D.</p>
+</div>
+<p>Plus permisi, fateor, mihi, quam aut tua in me merita aut necessitudinis nostrae lex sacrosancta exigebant ac patiebantur, Christiane nobilissime, qui ad tuas omni eruditionis &amp; benignitatis nectare conditas tam serus nunc rescribam. Sed malui procrastinare officium, quam intempestive rerum mearum satagere: Interceptis per militem Monasteriensem plerisque harum epistolarum, quas cum ad proceres nostros publice tum privatim ad amicos trinis proxime elapsis mensibus exaravi. De Cometa tamen quicquid observationum litteris adieceras<note n="#1"/> communicare cum Stanislao Lubienietz Equite Polono, non intermisi<note n="#2"/>, uti ex ipso cognovisse jampridem potes, compellavit enim &amp; ille te<note n="#3"/> per litteras, ni fallor, ex Hamburgensi, in qua larem fixit, civitate. Is congessit argumenti cometici haud pauca partim proprio Marte concinnata partim labore alieno, epistolis maiorem partem comprehensa, quae omnia typis Batavicis jam describuntur<note n="#4"/>. Contulerunt huc operam
+suam Mathematici nostrorum temporum celebriores ex Italis, Gallis ac Germanis. Quare &amp; tibi per me conciliari voluit, &amp; lucubrationis tuae quae accepta mihi retulit collectaneis hisce suis inserere, quod te non nolente fieri existimo. Apparebit in eodem opere epistola eiusdem argumenti luculenta atque operosa, quam Olaus Rudbeckius ad me dedit<note n="#5"/>, &amp; lente admodum confecit, ut fieri ab his amat, qui solent <hi rend="i">πολυπραγμονεῖν</hi>. Nam &amp; rei herbariae impense studet, &amp; anatomicis, &amp; alijs praeter haec negotijs is idem Rudbeckius. Ego, ne plane <hi rend="i">ἀσύμβολος</hi> ad hunc convictum accederem, Musas advocavi<note n="#6"/>, sed claudicantes, ut appareret invitas propelli. &amp; tamen audio, epistolas nescio quas ex meis huic operi inserendas<note n="#7"/> fore, quod non fieri equidem mallem.</p>
+<p>Illustri Parenti tuo reditum<note n="#8"/> ad suos, &amp; rem feliciter pro magni Principis exspectatione confectam<note n="#9"/> gratulari iam pridem debebam, sed differo scriptionem, dum tela poematum meorum detexatur. Quando &amp; exemplar libelli ad te est perventurum. Nam de Claudiano quin mandati memor fuerit Elzevirius, iterum ex illo per me monitus, vix dubito. Qualiacumque illa sunt, quae frater tuus Ludovicus ex codice Metamorphoseon Ovidianarum Escuriacae bibliothecae annotavit, non ingrata mihi fuissent. Inde enim coniectura fieri potuisset, quid de ipso codice deberem mihi promittere: cum pervetusta Nasonis exemplaria in bibliothecis priscis, ut alias monui, raro admodum occurrant, cuius notae Escuriacum illud esse intelligo.</p>
+<p>De Cartesij monumento sepulchrali egit mecum Eques Terlonius<note n="#10"/>, Regis Christianissimi Orator, iam non semel. Auctor illi eram, ut ipsum cadaver <hi rend="i">τοῦ πάνυ</hi> hinc auferendum, &amp; in Gallias mittendum curaret<note n="#11"/> cui consilio manum a se dandam fore est pollicitus.</p>
+<p>Vale, nobilissime Hugeni, &amp; feliciter rem age.</p>
+<p>Exarabam Holmiae Suecorum A<hi rend="sup">o</hi>. <hi rend="sc">ciƆiƆclxvi</hi> ad diem <hi rend="sc">iii</hi> Januarii Juliani.</p>
+</div>
+</body>
+</text>
+</TEI>

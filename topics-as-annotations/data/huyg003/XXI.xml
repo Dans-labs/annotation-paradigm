@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXI"/>
+<meta type="date" value="1644-09-02"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXI">
+<div type="opener">
+<p>Perillustris domine,</p>
+</div>
+<p>Tristis nuntius modo animum perculit de morbo utriusque mei parentis, quos ex acutissima febre decumbere ac prope depositam valetudinem esse frater meus scribit...Studia tuorum ita digessi ut majoribus tribus prope nihil, Philippulo quàm minimum fraudi esse possit mea absentia...</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> postrid. Cal. Sept. MDCXLIV.</p>
+</div>
+<div type="comment">
+<p>Une lettre sans date, reçue par Constantijn le 16 octobre 1644, a été publiée par nous à la p. 557 du T.I.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

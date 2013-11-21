@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2712"/>
+<meta type="date" value="1691-11-20"/>
+<meta type="sender" value="meie015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2712">
+<div type="opener">
+<p>Illustri Viro <persName key="huyg003">Chr. Hugenio</persName> <persName key="meie015">G. Meiserus</persName> S.P.</p>
+</div>
+<p>Noli, quod videris facere<note n="#1"/> in eam animi sententiam declinare, veluti si Nobiliss: Leibnitzius diffisus promissis Tuis ea quae prius missa oportebat secum continuerit. Diu enim jam est quod inclusae<note n="#2"/> et ad Te Vir Illustris adtinentes scriniis meis conservantur. Ego interea, si quid recte computo, in eam adducor opinionem Cl. Leibnitzium hoc in votis unum habere; ut, dum neuter institutos logarithmos introspexit, sed chartae utriusque apud me domi meae tabellariis allatae conveniunt codemque tempore mea, quam lubentissimus obtuli Tantis Viris, opera singulis communicantur, tanto major ex eo gratia redundat, cum in erudito isthoc et recondito negotio consoni et conspirantes repperientur ingeniorum motus et consentiens sibi calculus. Quemadmodum ergo id in mandatis dederat, prima ego hac angaria ad Te, Vir Celeb:, literas Cl. Leibnitzii transmittere volui, debui. Caeterum quae ego aliquando, ut quid de Cartesianae philosophiae congruentia cum methodo scholastica et varii gradus ingeniis juventutis, ex Te rogaveram<note n="#3"/>, hanc ut
+meam libertatem aequi bonique consulas oro. Ego enim usque huc non video pollicitos a multis fructus in juventutem exuberasse, quandoquidem nec omnium aetas nec ingenii illud permodicum quod in plurima hominum parte repperias, ferendo sit illustri adeo lumine. Vale, Vir Illustris, et res Reip<hi rend="sup">ae</hi> literariae quo coepisti, eodem etiam porro, promove ardore. Dabam Bremae 10 Nov: 1691.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens</persName>
+<lb/>segneur de Zuylichem
+<lb/>à L'Haje.</p>
+</div>
+</body>
+</text>
+</TEI>

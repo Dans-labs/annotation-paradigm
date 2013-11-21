@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0178"/>
+<meta type="date" value="1654-03-02"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0178">
+<div type="opener">
+<p><persName key="vinc027">Gregorius a Sancto Vincentio</persName> Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio</persName> Salutem optat.</p>
+</div>
+<p>Exemplar ad te destinandum<note n="#1"/> vt accepj mitto, per fratrem nostrum Zegherum: haesit in via longiore, praeter mentem et mittentis et deferentis, mora; vigesimaseptima <seg org="sebruarij" resp="#AD" type="corr">februarij</seg> Louanio scribebatur, <hi rend="i">Silesiates Polonj aut Bohemj potius</hi>, <hi rend="i">nondum hîc apparuerunt; vbi appulerint Reverentiam <seg org="Vestr am" resp="#AD" type="corr">Vestram</seg> faciam certiorem</hi>. Quae verba jndicant me culpa vacare, quin potius jnnuunt promptum tibj gratificandi animum. decurrj cursim argumentum, dedique Patri Aynscombe vt jdem praestaret; vbi scrutatus libellum fueris, sensum tuum praestolabor; nisi prius eum authorj jndicare decreueris. Perge porro Vir Clarissime, tuam Spartam diligenter excolere, et Mathesim, speciosis tuis lucubrationibus exornare. Vale.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandauj</placeName> <date>2 Martij. 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Domino Domino <persName key="huyg003">Christiano Hughenio</persName>.
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

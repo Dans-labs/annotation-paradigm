@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2087"/>
+<meta type="date" value="1676-02-20"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="sauz011"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2087">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 20 Feb. 1676.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je suis tousjours bien aijse d'apprendre le bon estat de vostre santé, qui n'est pas peu de chose dans l'aage où nous sommes parvenus<note n="#2"/>. Vostre derniere me l'a
+faict paroistre de votre part, de la mienne j'ay á rendre graces infinies au bon dieu, de ce que vous pourriez encor presentement me veoir tel que je partis d'Orange il y aura tantost 11 ans. Je ne laisse pas d'estre en grande inquietude d'une maladie melancholique dont mon precieux fils à Paris se trouve atteint depuis quelque temps; quoy que les medicins continuent <seg org="é" resp="#AD" type="corr">à</seg> declarer qu'ils n'y trouvent rien de sinistre à craindre. Il faut s'en remettre à la S<hi rend="sup">te</hi> volonté de son Createur qui j'espere me le voudra conserver, et au monde, qui y a en effect plus d'jnterest que moy, veu le peu de temps que j'en pourray jouir. Je vous souhaitte toute prosperité et suis tousjours, &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

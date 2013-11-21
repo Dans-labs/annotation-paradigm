@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0741"/>
+<meta type="date" value="1660-04-16"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0741">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>16 Auril 1660</date>.</p>
+<p>Monsieur <persName key="huyg003">Hugens</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay appris par les lettres de Monseigneur de Thou, que Mademoizelle vostre soeur estoit mariee auec Monsieur Doublet<note n="#1"/>, &amp; que ce mariage s'estoit faict auec la satisfaction entiere des deux parties &amp; de toute leur parenté. C'est dont je croy estre obligé de me conjouir auec vous, &amp; de vous tesmoigner la part que prens dans tout ce qui vous touche. Je vous estime &amp; je vous honore a tel poinct, que toutes les prosperitez et bons succez qui vous arriuent me donnent autant de joye que s'ils arriuoient a moymesme. Je souhaitte a vos jeunes mariez toute felicité &amp; bonheur, auec tous les auantages qu'eux mesmes peuuent souhaitter. Je vous supplie aussi de me continuer l'honneur de vostre amitié &amp; de croire que je suis tresveritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1700"/>
+<meta type="date" value="1669-02-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1700">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>S'il a demonstration. ce qu'ils difent de la matière. c'est le fruit de la communication.</p>
+</div>
+<div type="opener">
+<p>A Monsieur <persName key="olde010">Oldenburg</persName>.</p>
+<p>Paris, ce 6 Fevrier 1669.</p>
+<p>Monsieur.</p>
+</div>
+<p>Les regles du mouvement<note n="#1"/> que vous m'avez fait la faveur de m'envoier en eschange des mienes, leur font, ainsi que vous aurez vu sans doute, tout a fait conformes et ce sont assurement les veritables. Je souhaite fort de scavoir si Monsieur Wren en a auffi cherchè quelque demonstration, et de voir de quel moyen il s'est servi en cela; ou s'il a seulement establi sur les experiences la Loy de la nature qu'il avance sur ce sujet. Mais quoy qu'il en soit il aura tousjours la bontè et ceux de la Societè Royale qui se seront donnè la peine d'examiner mes demonstrations, de m'en faire scavoir leur jugement, puis que c'est là le principal fruit que j'attens de cette communication. Je vous envoieray apres cela les autres theoremes que j'ay trouvez touchant cette mesme matiere et je remercie treshumblement ces Messieurs de l'honneur qu'ils me font en donnant place a ces escrits dans le Registre de leur Illustre Societè. Cependant, comme j'ay remarquè que bien souvent en ce qui regarde la decouverte de nouvelles veritez on est prevenu par ceux qui les premiers les mettent au jour, et qu'on perd ainsi en quelque façon le fruit de son travail, faute d'avoir le moyen de faire voir qu'on avoit aussi trouvè la mesme chofe, je demande à ces Messieurs a fin d'oster reciproquement ce scrupule, s'ils trouveroient bon que je leur envoiasse en chifre ou anagramme, ce que je pourrois avoir de propositions et inventions nouvelles, pour les leur expliquer en suite et que ceux d'entre eux qui en ont, fissent de mesme. Parce que ces chifres estants gardez d'une et d'autre part dans les registres serviroient dans la suite du temps non seulement entre nous mais aussi à l'egard de ceux des autres païs pour assurer a chacun l'honneur qui luy appartient; qui a mon avis doit estre egal à tous
+ceux qui inventent une chose d'eux mesmes, sans avoir egard au temps, pourveu qu'il soit constant qu'ils l'ont trouvée sans aucune aide. Ces chifres tousjours ne peuvent nuire ni faire tort a personne,
+et pour commencement je vous en mettray un<note n="#2"/> icy d'une invention assez considerable que j'ay trouvée depuis peu de jours.</p>
+<p>Je n'ay pas encore eu la response de Monsieur le Chevalier Moray<note n="#3"/> que vous me faites esperer, et que j'attens avec quelque impatience, parce que je crois qu'il voudra bien, puis qu'il le peut me juftifier contre la fausse imputation<note n="#4"/> de Monsieur Gregori, de qui je souhaite aussi fort de voir la derniere response<note n="#5"/> soit dans vos transactions, tou autrement. Je vous baise les mains et suis sans reserve</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionnè serviteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">Oldenburg</persName>,
+<lb/>Secretaire de la Societè Royale
+<lb/>A Londres.
+<lb/>9 d.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1900"/>
+<meta type="date" value="1672-07-28"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta resp="HI" type="language" value="en"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1900">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 18 juillet 1672.</p>
+<p>Monsieur</p>
+</div>
+<p lang="fr">Vous ayant escrit le 8<hi rend="sup">me</hi> juillet et envoyé la copie de la lettre, de Monsieur Sluse<note n="#1"/> ie ne vous eusse pas si tost importuné de nouveau, si quelques lignes de Monsieur Newton, qui regardent vne partie de la lettre, que vous me fistez l'honeur de m'escrire le 1. juillet, ne m'y eussent obligé. Je vous les donneray dans la mesme langue, que ie les ay receu. Il dit donc,</p>
+<p>I am glad to find by y<hi rend="sup">e</hi> abstract of Monsieur Hugenius his letter, which you transmitted to me, that he who hath done so much in Dioptricks hath been pleased to vndertake the improvement of Telescopes by Reflexions also; though without y<hi rend="sup">e</hi> desired success. I hope, y<hi rend="sup">e</hi> event of his next essay, if he shall think fit to attempt any thing further, will prove more happy by a litle altering y<hi rend="sup">e</hi> manner of his proceding. As for me, I know not, whether I shall make any further tryals myself, being obliged to prosecute some other subjects.</p>
+<p>As to y<hi rend="sup">e</hi> Theory of Light and Colors, I am apt to belieue, that some of the Experiments may seem obscure by reason of y<hi rend="sup">e</hi> brevity, where with I writ y<hi rend="sup">m</hi>, which should haue been described more largely, and explained with schemes, if they had been intended for the publick. But I see not, why the Aberration of a Telescope should be more than about 1/50 of y<hi rend="sup">e</hi> Glasses aperture. For, suppose DF be
+<figure><graphic url="huyg003oeuv07ill49.gif"></graphic></figure> y<hi rend="sup">e</hi> Lens, CD and EF two lines parallel to its Axis, in which or indesinitely near to which, all variety of difforme rays are successively incident on two opposite parts of its Perimeter: And of those rays let DH and FG be the most refracted, and DG and FH y<hi rend="sup">e</hi> least refracted, intersecting y<hi rend="sup">e</hi> former in G and H. Draw GH, and produce it both ways, till at M and N it occur with CD and EF, also produced. Now, since by my Principles y<hi rend="sup">e</hi> difference of Refraction of y<hi rend="sup">e</hi> most difforme rayes is about y<hi rend="sup">e</hi> 24<hi rend="sup">th</hi> or 25<hi rend="sup">th</hi> part of their whole refraction, y<hi rend="sup">e</hi> Angle GDH will be about a 25<hi rend="sup">th</hi> part of y<hi rend="sup">e</hi> Angle
+MDH, and consequently the subtense GH (which is y<hi rend="sup">e</hi> diameter of y<hi rend="sup">e</hi> least space, in to which y<hi rend="sup">e</hi> refracted rays converge) will be about a 25<hi rend="sup">th</hi> part of y<hi rend="sup">e</hi> subtense MH, and therefore a 49<hi rend="sup">th</hi> part of y<hi rend="sup">e</hi> whole line MN, y<hi rend="sup">e</hi> diameter of y<hi rend="sup">e</hi> Lens; or, in round numbers, about a fiftieth part, as I asserted.’</p>
+<p lang="fr">Apres auoir transcrit cecy, ie n'y ay rien à adjouster, si non que ie fais imprimer a present dans mon journal la plus propre methode descrite de Monsieur Newton pour establir sa doctrine de la Lumiere et des Conleurs<note n="#2"/>. Quand il sera achevé d'imprimer, ie vous l'envoieray des aussi tost, come</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/><persName key="huyg003">Christian Hugens de Zulechem</persName>, a la bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

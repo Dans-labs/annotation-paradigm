@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1257"/>
+<meta type="date" value="1662-10-02"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1257">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Exemplar geminum<note n="#1"/> obseruationis hic adiunctae misit ad me nuper Vir Clarissimus Carolus Datus, et rogauit vt illorum vnum tibi reddi curarem: ratus
+nempe tua consideratione dignam, quod optimis illis Principum Medicaeorum tubis nihil simile circa Jouem deprehendj potuerit. Addidit etiam sudare sub praelo Famianj Michelinj<note n="#2"/> Mathematicj non incelebris iibellum<note n="#3"/> linguâ Jtalica scriptum, De fluminum directione, et primum volumen<note n="#4"/> experimentorum Naturalium in Academia Serenissimi Principis Leopoldi ab Hetruria, annis proxime lapsis, factorum: sed haec aliunde forsan tibi nota sunt.</p>
+<p>Ego vero occasionem, quae sese offerebat, te compellandj libenter amplexus sum, vt qua possem, constantiam saltem tibi testarer affectus mej, in quem nec temporis nec locorum interuallum quidquam iuris vnquam habiturum est. Vale Vir praestantissime atque ama</p>
+<p>Tuj Obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>&nbsp;</p>
+<p>Dabam Leodicj 2 Octobris 1664.</p>
+<p><figure><graphic url="huyg003oeuv05ill01.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

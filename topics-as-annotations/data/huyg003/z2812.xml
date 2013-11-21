@@ -1,0 +1,48 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2812"/>
+<meta type="date" value="1693-07~"/>
+<meta type="sender" value="greg030"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2810"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2812">
+<list>
+<label>1.</label><item>Nota esse semper <figure rend="inline"><graphic url="huyg003oeuv10fi196.gif"></graphic></figure><figure rend="inline"><graphic url="huyg003oeuv10fi198.gif"></graphic></figure>.</item>
+<label>2.</label><item>Ergo si sit <hi rend="i">l</hi> applicata et <hi rend="i">x</hi> abscissa curvae, et <hi rend="i">b</hi>, <hi rend="i">c</hi> et <hi rend="i">a</hi> quantitates notae, <hi rend="i">r</hi>, <hi rend="i">n</hi> et <hi rend="i">m</hi> exponentes indeterminati, atque aequatio data <hi rend="i">l</hi>=<hi rend="i">x<hi rend="sup">r</hi></hi>×(<hi rend="i">x<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi></hi>, tum etiam <figure rend="inline"><graphic url="huyg003oeuv10fi201.gif"></graphic></figure>.</item>
+<label>3.</label><item>Sive <hi rend="i">ducendo terminos seriei singulos in x<hi rend="sup">r</hi> erit</hi><note n="#2"/> <figure rend="inline"><graphic url="huyg003oeuv10fi200.gif"></graphic></figure>.</item>
+<label>4.</label><item>Et juxta Canonem<note n="#3"/> Gregorianum addendo cuique exponenti unitatem et dividendo quemque terminum per exponentem ita auctum<note n="#4"/><note n="#5"/> erit
+<list>
+<item>Area <figure rend="inline"><graphic url="huyg003oeuv10fi203.gif"></graphic></figure></item>
+</list></item>
+<label>5.</label><item>Jam si haec area dividatur per hanc quantitatem (<hi rend="i">x<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi>+1</hi> debet esse aequalis etiam areae<note n="#6"/>.</item>
+<label>6.</label><item>Atqui (<hi rend="i">x<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi>+1</hi> reducta in seriem aequalis est <hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">n</hi></hi>+(<hi rend="i">m</hi>+1)×<hi rend="i">x<hi rend="sup">mn</hi></hi> × ×<hi rend="i">a</hi>+&amp;c.</item>
+<label>7.</label><item>Dividatur ergo area notata sic 1<hi rend="sup"><hi rend="i">mūs</hi></hi>, per <hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">n</hi></hi>+(<hi rend="i">m</hi>+1)×<hi rend="i">x<hi rend="sup">mn</hi></hi>×<hi rend="i">a</hi>+&amp;c. Nempe primus terminus areae per primum terminum hujus seriei; scilicet <hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">r</hi>+1</hi>/<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1 per <hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">n</hi></hi>, et erit quotiens <hi rend="i">x</hi><hi rend="sup"><hi rend="i">r</hi>+1-<hi rend="i">n</hi></hi>/<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1.</item>
+<label>8.</label><item>Hic quotiens ductus in secundum terminum seriei in quam reducta est quantitas (<hi rend="i">x<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi>+1</hi>, scilicet ductus in (<hi rend="i">m</hi>+1)×<hi rend="i">x<hi rend="sup">mn</hi></hi>×<hi rend="i">a</hi>, dat <figure rend="inline"><graphic url="huyg003oeuv10fi205.gif"></graphic></figure> qui subtractus a secundo termino Areae notatae hic 1<hi rend="sup"><hi rend="i">mus</hi></hi> nempe subtractus ab <hi rend="i">m</hi>×<hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi></hi>/<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi> dat
+<list>
+<item>(<hi rend="i">n</hi>-<hi rend="i">r</hi>-1)×<hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi></hi>×<hi rend="i">a</hi>/(<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1)×(<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi>.</item>
+</list></item>
+<label>9.</label><item>(Nempe quia <hi rend="i">m</hi>+1/<hi rend="i">m</hi>+<hi rend="i">r</hi>+1 subtractus à <hi rend="i">m</hi>/<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi> aequatur
+<list>
+<item><hi rend="i">n</hi>-<hi rend="i">r</hi>-1/(<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1)×(<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi>).)</item>
+</list></item>
+<label>10.</label><item>Deinde rursus (<hi rend="i">n</hi>-<hi rend="i">r</hi>-1)×<hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi></hi>/(<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1)×(<hi rend="i">mn</hi>+<hi rend="i">r</hi>+1-<hi rend="i">n</hi>) divisus per primum terminum<note n="#7"/> Areae notatae hic 1<hi rend="sup">mus</hi> scilicet per <hi rend="i">x</hi><hi rend="sup"><hi rend="i">mn</hi>+<hi rend="i">n</hi></hi> dat pro Quotiente
+<figure rend="inline"><graphic url="huyg003oeuv10fi206.gif"></graphic></figure>.</item>
+<label>11.</label><item>Quare tandem exurget series talis <figure rend="inline"><graphic url="huyg003oeuv10fi208.gif"></graphic></figure></item>
+<label>12.</label><item>Unde patet hanc seriem vel hunc quotientem fore aequalem verae areae si singuli quotientis termini multiplicentur in quantitatem (<hi rend="i">x</hi><hi rend="sup"><hi rend="i">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi>+1</hi> per quam Area vera (notata hic I<hi rend="sup"><hi rend="i">mus</hi></hi>) divisa dedit hunc quotientem, id est Areae verae aequalem fore seriem sequentem.</item>
+<label>13.</label><item><figure rend="inline"><graphic url="huyg003oeuv10fi217.gif"></graphic></figure><note n="#8"/>
+<lb/>Ubi nota quemque terminum duci intelligitur in (<hi rend="i">x<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi>+1</hi><note n="#9"/>.</item>
+<label>14.</label><item>Patet verò <hi rend="i">etiam</hi><note n="#10"/> hanc seriem semper abrumpi cum <hi rend="i">r</hi>+1=<hi rend="i">n</hi>, vel=2<hi rend="i">n</hi>, vel=3<hi rend="i">n</hi>, five <hi rend="i">r</hi>+1/<hi rend="i">n</hi> aequatur numero integro et positivo, et tum quadraturam curvae definitam exhibere.</item>
+<label>15.</label><item>Et simili modi si aequatio sit <hi rend="i">l</hi>=<hi rend="i">bx<hi rend="sup">r</hi></hi>×(<hi rend="i">sx</hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi></hi>, series Aream exhibens</item>
+<label>16.</label><item>Erit <figure rend="inline"><graphic url="huyg003oeuv10fi220.gif"></graphic></figure><figure rend="inline"><graphic url="huyg003oeuv10fi221.gif"></graphic></figure>
+<lb/>Ubi nota unumquemque terminum duci intelligitur in (<hi rend="i">sx<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi>+1</hi>.</item>
+</list>
+</div>
+</body>
+</text>
+</TEI>

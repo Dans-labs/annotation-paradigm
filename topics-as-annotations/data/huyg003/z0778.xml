@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0778"/>
+<meta type="date" value="1660-09-09"/>
+<meta type="sender" value="colv001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0778">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ai esté en doubte si ie vous presenteroy cet Almanach cy ioinct; parce qu'il ne meritoit point vostre veüe. Mais parce que le compilateur d'icelui, s'est servy par
+mon adresse de vostre Systema Saturnium, et qu'il en faict mention, i'ai hazardé de vous envoyer ceci. Ne fusse aussi que par cette occasion de vous offrir mon service. Je ne doubte que vostre esprit ne vole continuellement parmy les estoiles, et qu'avec le temps vous nous en donnerez plus claire ouverture. Ces vers d ovide<note n="#1"/> m'aggreent fort.</p>
+<lg type="poem">
+<l>Faelices animae quibus haec cognoscere prima</l>
+<l rend="; 1tab">Jnque domos superûm scandere cura fuit:</l>
+<l>Credibile est illos pariter vitijsque iocisque</l>
+<l rend="; 1tab">Altius humanis exeruisse caput.</l>
+</lg>
+<p>Je trouve Manile en ces Astronomiques<note n="#2"/> admirable, notamment en ses prefaces et digressions. Mais en leur temps cette noble science estoit encore fort incogneüe. Philosophia nunquam senescit, inquit Boethius<note n="#3"/>. Seneca: Eleusis servat quod ostendat revisentibus<note n="#4"/>. Praecipuum in rebus humanis omnia vidisse animo, et qua nulla major victoria, vitia domuisse<note n="#5"/>. C'est ce que vous faites, par dessus le commun, surpassant en vos fleurissantes annees, tous les viellards, et les accomplis. Je prie Dieu de vous maintenir par longues annees en parfaicte santé. Salüant de singuliere affection Monsieur vostre tres-noble Pere ie demeure</p>
+<p>&nbsp;</p>
+<p>Vostre tres-obligé et tres-humble serviteur <persName key="colv001">A. Colvius</persName>.</p>
+<p>De Dordrecht ce 9. de Septembre 1660.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Huijgens van Zulichem</persName>. s' Graven-Haghe. met een rolletien.
+<lb/>Port.</p>
+</div>
+</body>
+</text>
+</TEI>

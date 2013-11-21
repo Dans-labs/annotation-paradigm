@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1497"/>
+<meta type="date" value="1665-11-20"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1497">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous receurez les dix liures restans par la mesme voye que jay enuoye la lettre des trente Louis. J'aurois fourni non seulement cette somme mais telle autre qui meust esté prescripte. Mais on mauoit asseuré que cette somme estoit suffisante pour tout le Payement. Je suis bien faché de tous ces retardemens qui ne viennent point de ma faute. Jescris a Monsieur vostre pere par la Poste Et jattends auec jmpatience lhonneur quon me faict esperer de vous veoir icy. Je suis</p>
+<div type="closer">
+<p>Vostre treshumble et tresobeissant Seruiteur <persName key="monm010">de Montmor</persName>.</p>
+<p>A <placeName key="parij001">Paris</placeName> ce 20 Nouembre 1665.</p>
+</div>
+<p>Jay donné ici dix liures</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zuylichen</persName> demeurant chez Monsieur <persName key="huyg001">de Zuylichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

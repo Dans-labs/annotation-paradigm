@@ -1,0 +1,24 @@
+//get the surface from of the complete text in the right order
+
+GET OBJECTS HAVING MONADS IN ALL
+	[Word GET
+        language,
+        lexical_set,
+
+        part_of_speech,
+        phrase_dependent_part_of_speech,
+        noun_type,
+        pronoun_type,
+
+        state,
+
+        gender,
+        number,
+        person,
+        suffix_gender,
+        suffix_number,
+        suffix_person,
+
+        tense
+    ]
+GO

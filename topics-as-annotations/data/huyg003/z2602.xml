@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2602"/>
+<meta type="date" value="1690-08-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="bloc029"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="amste001"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2602">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>Voorleden saturdagh aen 't logement van de Heeren Bewinthebbers gegaen sijnde om de eere te hebben van UEdt. te spreecken, vernam dat weynighe uren te vooren van Amsterdam vertrocken was.
+'T geene ick dan aen UEd. aengaende de aenstaende proeve der Horologien<note n="#1"/>, door UEd. mij geproponeert, soude geseght hebben sal ick hier in 't korte vervatten.
+Te weten dat de Horologien in staet sijn en geapproprieert om iets naeder te proberen ten aensien van een nieuwe en seer eenvoudighe manier van de selve op te hangen, als mede dat de instructie voor soo veel noodigh vermeerdert is om de ongelijckheydt van wegen het draeyen der Aerde op de reijse waer te nemen en in de rekeningh der Lengden te doen influeren.
+Voorts dat het ten hooghsten noodigh is dat ick met Mr. <persName key="graa042">de Graef</persName> dien aengaende conferere, ende dat het daerom de Heeren Bewinthebberen gelieve goedt te vinden hem herwaerts te laeten overkomen voor een dagh à twee opdat hij van alles te rechte geinformeert moghe wesen.
+Het waer goedt een horologiemaker mede te nemen; doch weet niet of den tijdt sal toelaeten om daer nae te vernemen ende den selven genoegsame instructie te geven.
+doch al konde men hier in niet te recht geraecken, soo vertrouwe dat Mr. <persName key="graa042">de Graef</persName> capabel is van alles 't geen ontrent dese wercken noodsaeckelijck is waer te nemen.
+Sijn overkomste en de verdere ordres van de Heeren Bewinthebbers te gemoet siende blijve met respect</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>UEd. seer ootmoedighe dienaer <persName key="huyg003">Chr. Huygens</persName>.</p>
+<p>Haghe den 1<hi rend="sup">e</hi> Aug. 1690.</p>
+</div>
+</div>
+<div type="para">
+<p>Den WelEdelen Gestrenghen Heere Mijn Heer <persName key="bloc029">S. van de Blocquery</persName> Bewinthebber van de Oost Indische Compagnie Tot Amsterdam.</p>
+</div>
+</body>
+</text>
+</TEI>

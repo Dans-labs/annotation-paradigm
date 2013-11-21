@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0254"/>
+<meta type="date" value="1656-01-08"/>
+<meta type="sender" value="cham007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0254">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>8 ianuier 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Lextreme desir de sauoir si vous estiés ariué en bonne santé mauoit mis la plume a la main pour vous escrire au moment que lon maporta vos lettres. elles mont infiniment resioui, bien quelles me representent la confusion que iay de nauoir pas serui comme Je deuois les personnes du monde qui le meritent et que Jhonnore le plus, la maladie de ma femme men a osté le moyen. et iespere quelle me tiendra lieu dexcuse, vous me demandés des pieces, ie vous en enuoyeray bientost cependant ie suis tousiours dans vn desir extreme de voir Monsieur vostre pere, et feray mon possible pour aller quelque iour en holande ou ie vous confirmeray les asseurances de mes seruices dont ie vous suplie de faire estat comme estant dun homme qui est a linfiny</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="cham007">De Chambonniere</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huygens de Zuylichem</persName> a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

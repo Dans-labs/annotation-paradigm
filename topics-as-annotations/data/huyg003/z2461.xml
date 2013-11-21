@@ -1,0 +1,45 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2461"/>
+<meta type="date" value="1687"/>
+<meta type="sender" value="tsch002"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2459"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2461">
+<p>(1<hi rend="sup">e</hi> Extrait p. 68, 69).</p>
+<p>&nbsp;</p>
+<p>Assumantur puncta in 5. fig. unicum A. in 6. fig. duo A &amp; B. in 7. fig. tria CAB. in 8. fig. quatuor C, A, B &amp; D &amp;c. sive in eâdem recta existant sive non; sive aequali
+<figure><graphic url="huyg003oeuv09ill26.gif"></graphic>
+<figDesc>Fig. 5</figDesc></figure>
+<figure><graphic url="huyg003oeuv09ill27.gif"></graphic>
+<figDesc>Fig. 6</figDesc></figure>
+<figure><graphic url="huyg003oeuv09ill28.gif"></graphic>
+<figDesc>Fig. 7</figDesc></figure> distent intervallo sive inaequali, perinde est. Assumatur jam in 5 fig. filum A B, alligatum in A, &amp; continuetur in B; in 6. fig. filum alligatum in A, per C continuetur in B, ubi denuò alligetur; in 7. fig. filum in A alligatum continuetur in D, dehinc in B, postea rursus in D, &amp; iterum dehinc in C, ubi etiam alligetur; in 8. fig. continuetur ex A per E.B.E.C.E. usque in D, atque ita in insinitum: concipiantur jam stylo quopiam in 5. fig. in B; in 6. fig. in C; in 7. fig. in D, ac in 8. fig. in E. &amp;c. omnia fila aequaliter in rectas extendi &amp; ita incoepto styli motu, eoque continuato, quo usque fieri potest, curvae BCD, CDE,
+<figure><graphic url="huyg003oeuv09ill29.gif"></graphic>
+<figDesc>Fig. 8</figDesc></figure> DEF, EFG &amp;c. delineantur. Hinc jam facilè patet, semper in posterioribus contineri, quae in prioribus. Si enim in fig. 8. supponamus duo puncta coincidere, curva 7. fig. describetur, &amp; si in 7. fig. rursus duo puncta coincidant, curva 6. fig. describetur; si vero in hac fig. duo quoque concidant puncta, circulus delineabitur.</p>
+<p>&nbsp;</p>
+<p>(2<hi rend="sup">e</hi> Extrait p. 73-75).</p>
+<p>&nbsp;</p>
+<p>Tangentes statim ex ipsâ descriptione, sine ullius calculi ad eas inveniendas usu, determinari. Quâ de re haec pauca praecipere placet. Sit 1. descripta curva,
+<figure><graphic url="huyg003oeuv09ill30.gif"></graphic>
+<figDesc>Fig. 14</figDesc></figure>
+<figure><graphic url="huyg003oeuv09ill31.gif"></graphic>
+<figDesc>Fig. 15</figDesc></figure> quae unicum habeat centrum: hoc sive sit punctum A, uti in fig. 14. sivè quaecunque curva G in fig. 15. Si jam ad extremitates radiorum, AB in 14. fig. &amp; DE in 15. fig. has curvas describentium, erigantur perpendiculares BC &amp; EF, hae curvas descriptas tangent. Sint 2 curvae ex duobus centris descriptae, sive haec centra
+<figure><graphic url="huyg003oeuv09ill32.gif"></graphic>
+<figDesc>Fig. 16</figDesc></figure> sint puncta, uti in fig. 16. sive quaeçunque curvae, veluti in fig. 17. sive tandem curva quaecunque &amp; punctum, quod fig. 18. exprimitur: si angulo ACB bifariam per lineam CD diviso, tunc excitetur perpendicularis CE, haec curvam hâc ratione discriptam in C tanget. Sint 3. in fig. 19 tria centra B, C, D, seu sint sola puncta, seu solae curvae, seu quaevis curvae, quae
+<figure><graphic url="huyg003oeuv09ill33.gif"></graphic>
+<figDesc>Fig. 17</figDesc></figure>
+<figure><graphic url="huyg003oeuv09ill34.gif"></graphic>
+<figDesc>Fig. 18</figDesc></figure>
+<figure><graphic url="huyg003oeuv09ill35.gif"></graphic>
+<figDesc>Fig. 19</figDesc></figure> omnibus modis, pro nostro arbitrio, situm variant. Dividatur arćus FG extremorum filorum BM &amp; DM bifariam in H. Dein arcus IG, interceptus inter filum intermedium CM &amp; filum duplicatum DM in K. Denique arcus HK denuò bifariam in L. Ducatur tunc LM, &amp; huic in extremitate M statuatur perpendicularis MN; haec curvam AME in puncto M. tanget<note n="#1"/>. Atque ita possem progredi, ostendendo ope ejusmodi continuae bisectionis constanti ratione in infinitum ad regulam ordinatae millium millionum curvarum tangentes exhiberi. Dabiturne per totam mathesin universalius, aliudve utilius theorema, aut praestantior tangentes determinandi methodus? Quis crederet eam hactenus alios latuisse, post tot diversos hâc in re conatus, postquam primum mathematicis, quantae haec sint utilitatis rectè innotuit? Sed facilia multa, ingeniosissimos etiamnum fugiunt, quae tamen permagni sunt momenti. Oportet autem ut theorematis adeo generalis demonstratio sit perquam facilis. Eam quibusdam ex parte explicui, &amp; suo loco tradam, ubi porrò monstrabo<note n="#2"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

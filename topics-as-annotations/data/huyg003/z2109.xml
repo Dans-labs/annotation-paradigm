@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2109"/>
+<meta type="date" value="1677-11-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="rome049"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2109">
+<div type="opener">
+<p>Clarissimo Viro D. <persName>Olao Romero</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.</p>
+</div>
+<p>Priores tuas<note n="#2"/> mihi fuisse redditas ex ijs quas ante octiduum ad te dedi, intellexisti. Alteras quibus dies adscriptus est 1 Nov. heri accepi, serius multo quam oportuit. In his jucundissimum mihi fuit videre quae de luminis mora ex eclipsibus lunae investiganda egregie disseris. Cui parti epistolae meae quod antea non respondisses, non mirabar quippe cum multo potior tua methodus Jovialium eclipsibus vix, imo unicà videretur quae hac in re utiliter adhiberi posset. Sunt tamen ut recte mones, etiam in Lunari eclipsi nonnulla animadversione digna, atque illud certe quod magna lucis celeritas ex ea demonstretur, etsi quanta sit cognosci nequeat. Quia vero scire desideras quomodo hic ego calculum instituerim, lubens tibi morem geram, invicem a te expectans, ut tui ratiocinij seriem exponas, si forte alia via incessisti.</p>
+<p>Quod de Cartesij argumento scripseram, ita prorsus se res habet ut conjicis. illi indicium debetur, ego vero rem aliter atque ille examinavi.</p>
+<p>Nihil enim illo quod huc faciat scriptum reperi praeter epistolam 17 secundi uoluminis quae ut opinior ad Robervallium data erat<note n="#3"/>.</p>
+<p>Hic recte quidem concludit ex ijs quae posuerat tempus horae unius intercessurum inter momentum eclipseos et illud quo sol observatus fuerit loco eclipseos apparenti opposito: idque in <persName>Copernicea</persName> aeque atque alijs duabus hypothesibus<note n="#4"/>: non vidit autem quam insignis esset differentia hypothesium istarum in hoc negotio, cum quaeruntur gradus eclipticae quibus locus deliquij abest a loco soli apparenti opposito. Tum in eo fallitur quod totum hoc ex lunae motu prodire existimat, cum tamen nihil plane intersit quanta sit lunae celeritas. Quod vero in ista Cartesiana epistola reprehenderit Pardiesius non vidi nam in ea quam habeo editione<note n="#5"/>
+libelli ipsius de motu Locali, nihil horum invenio, eoque suspicor aliam isthinc extare auctiorem. Ut vero ad nostra pergam, non intelligo cur dicas mea 10″ quibus non plura tribui posse lumini a luna ad nos trajicienti collegeram, optime
+<figure><graphic url="huyg003oeuv08ill06.gif"></graphic></figure>
+cum theoremate tuo convenire. Itaque hoc quaeso ut explices. Calculi vero mei ratio est hujusmodi. Sit A sol immobilis in <persName>Copernicana</persName> hypothesi<note n="#6"/>. BD orbita Telluris annua, in qua terra ponatur B.</p>
+<p>Orbita vero lunae CE, ABC recta linea quam pono occurrere orbitae lunari in C. Quod si jam lucis emanatio tempore indiget, puta horae unius quo peragat spatium BC; sequetur terra posita in B, umbram ejus sive interruptionem luminis solaris non nisi post horam perventuram ad punctum C. Itaque ab eo tempore quo terra fuit in B, post horam luna in C perveniens eclipsin patietur, non percipietur autem obscuratio haec e terra spectanti, nisi post alteram horam, hoc est duabus horis postquam terra fuit in B. Ponamus eo bihorio Terram migrasse in D. Itaque qui hinc observat videbit lunam deficientem in C puncto, unde ante horam discessit: simulque videbit solem in A: quia cum sit immobilis, ac lux rectis lineis feratur, debet necessario semper apparere eo loco quem revera occupat. Angulus igitur quo locus observatae eclipsis praeceditur a loco soli opposito, erit CDE, aequalis duobus DCB et DAB. Quem quidem CDE hic reperio circiter 33 gr. Pono enim, ut in systemate meo Saturnio, distantiam Solis AB 12000 diam. terrae, quae proinde 400<hi rend="sup">ties</hi> continebit distantiam lunae BC quae est 30 diam. ejusmodi. Quare angulus DCB aequabitur 400 angulis DAB. Est autem DAB 5 min. motus scilicet terrae in 2 horis. Ergo DCB proxime 33 gr. Quem ang. CDE tantum 5 min. excedit. Verum si trajectus luminis hinc ad lunam ponatur non horam impendere sed 1 min. apparet fieri tunc ang. DCB tantum 33 min.</p>
+<p>Si denique tantum 10″ temporis tribuantur eidem lucis trajectui, jam ang. DCB erit tantum 5½ min. Credibile vero si hic ang. tantus fuisset, id aliquando ab astronomis observari debuisse. Itaque saltem non majorem esse concludebam ideoque nec moram lucis a luna in terram majorem 10″ horarijs.</p>
+<p>Et hoc quidem meum erat ratiocinium, quod haud dubie cum tuo consentit, quandoquidem egregium<note n="#7"/> illud theorema tuum hinc consequi apparet. Ducta enim AL parallela CD, consideratoque arcu DBL tanquam recta linea; si BD est arcus<note n="#8"/> quem percurrit terra in orbita sua, interea dum lux bis peragit spatium BC, erit BL arcus quem terra percurrit dum lux bis peragit spatium AB. Estque ang. DCB aequalis BAL. Unde veritas Theorematis tui manifesta est. Patetque positâ morâ lucis per AB cognitâ itemque motu terrae in orbita sua, angulum BAL, eoque et DCB datum fore: cui tu CDE aequale reputas, neglecto videlicet angulo DAB qui non posset esse nisi exiguus admodum ad DCB collatus.</p>
+<p>Est autem inprimis notatu dignum illud quod annotasti paradoxon, nihil hic interesse quae sit lunae a terris distantia. Cui simile est alterum, nempe in hypothesi terrae quiescentis nihil referre quae sit distantia terram inter ac solem. Hic enim invenio Regulam hujusmodi.</p>
+<p>Lunae deficientis locus sequitur locum oppositum soli apparenti, angulo duplo ejus quem peragat sol dum lux trajicit spatium quo luna a nobis abest. Quam procul dubio pridem quoque invenisti, cum hinc elucescat magna illa inter utrumque hypothesin differentia, quam Cartesium fugisse dixi, quamque tu optime ac primus omnium ut puto animadvertisti.</p>
+<p>Apparet autem ex hac ipsa differentia argumentum novum extiturum pro <persName>Copern.</persName> hypothesi, ut recte subjicis modo 55″ gr. in confinio umbrae telluris in lunae disco observari queant. Sed hoc ego saltem sperare non audeam qui 5½′ demum observabilia statuebam.</p>
+<p>Attamen tunc observatores cogitabam nihil hac de re suspicantes, nam alioqui ad 2 vel 3 min. diligenti observatione pervenire posse crediderim.</p>
+<p>Quod dicis res pulcherrimas latere in contemplationibus hisce, suspicari videris ac circumspicere num quod novum adhuc argumentum vel pro <persName>Copernico</persName> vel pro tua Luminis mora inde emissurum sit.</p>
+<p>Sed ad hanc quod spectat vix puto fieri posse ut melius quid invenias tuo illo Jovis comite, de cujus observationibus audire gestio ut votis tuis respondeant, atque etiam meis quae plane eadem sunt. Vale.</p>
+<div type="closer">
+<p>Dabam Hagae Com. 18 Nov. 1677.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

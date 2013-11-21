@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0078"/>
+<meta type="date" value="1650-03-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="genev001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0078">
+<div type="opener">
+<p><placeName key="denha004">Haye</placeName> ce <date>22 de mars 1650</date>.</p>
+<p>Mon Frere,</p>
+</div>
+<p>Il ij a aujourdhuij 3 sepmaines que j'estois aux nopces de Mad<hi rend="sup">lle</hi> Hooft<note n="#1"/> ou le plus grand plaisir que j'aije eu estoit de voir la folie de la jeunesse d'Amsterdam qui me
+semble excessive et insupportable. M. Crommon m'a depuis prié aux sienes, a qui je m'en suis excusé, en ayant desia tout mon sou, quoyqu'envers luij je ne me sois pas servij de cette excuse là. L'on ma dit à Amsterdam que les promesses faites a Mad<hi rend="sup">lle</hi> Turetini ayant esté sceues, ont grandement reculé ses affaires et manqué de renverser tout; de sorte que vostre Lunati n'a pas du tout sans raison prononcé ce bel Apopthegme. Neef Zuerius<note n="#2"/> est icij pour quelque temps avecq ses deux filles<note n="#3"/> et l'aisné de ses fils<note n="#4"/>, Meerten<note n="#5"/> estant resté a Bolducq malade d'une fievre tierce. Je tasche a leur donner du divertissement en les menant quelquefois a la Comedie et ailleurs. Je voudrois que vous fussiez icij pour le faire, et que je fusse là ou vous estes, d'aussi bon coeur que je me dis</p>
+<div type="closer">
+<p>Mon Frere
+<lb/>Vostre tresaffectionné frere et serviteur <persName key="huyg003">Chr. Huijgens</persName>.</p>
+</div>
+<p>Toot est revenu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">Huijgens</persName>, Secretaire de S.A. d'Orange A Geneve.</p>
+</div>
+</body>
+</text>
+</TEI>

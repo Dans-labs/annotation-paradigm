@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1000"/>
+<meta type="date" value="1662-03-29"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1000">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo S.P.D.</p>
+</div>
+<p>Phaenomenon illud, quod proxime mittebam<note n="#1"/>, non displicuisse tibi, equidem lubens intelligo, Hugeni Nobilissime. Amicus, a quo id utendum accepi, vir et probus est et fide, si quis alius, omnino dignus. Illi Henrico Moucheronio<note n="#2"/> nomen inditum. Quis observator sit phaenomeni, ex illo ut resciscam, opera a me dabitur. Nam cum traderet, ab amico quodam suo observatum asseverabat, cuius nec nomen ego sum edoctus, nec indagavi. Nunc alterum illud mitto<note n="#3"/>, quod
+cum minus exacte primo expressum esset, denuo ut deseriberetur, et quidem vivis coloribus, tuae in spem gratiae, effeci.</p>
+<p>Vlitium nostrum nil respondere compellationi meae haud miror. Tanti enim vix sunt versus, quos mittebam, et ut maxime essent, locus tamen ijs haud erat apud hominem barbarae antiquitatis unice nunc, ut scis, studiosum. Si lingua Anglosaxonica, aut Gothica conscripti essent versiculi, plausum ab amico nostro certissimum ijs polliceri poteram. Nunc cum Romanum fermonem prac se ferant, quem ille iampridem eiuravit, quid praeter contemptum et fastidium delicatissimi viri ab ijs expectandum sit, vix video. Sed, omisso ioco, ut agam serio tecum, de Mambrunij poematis<note n="#4"/> cum percuncteris quid sentiam, velim desiderijs tuis satisfieri a me posset. At vero, quod libellus iste oculos meos frustretur hactenus ac fugiat, de re parum comperta meum non est iudicare. Serenissimum Etruriae Principem Leopoldum Mediceum Observationes<note n="#5"/> suas naturales praelo typographico iam commisisse ex eo ipso forsan intellexeris. Phaenomena tua quando lucem sperare debeant fac, quaeso, intelligam. Non pauca eius notae congessit Lycosthenes<note n="#6"/> in commentario<note n="#7"/>, quem de prodigijs conscripsit. Exstat et Phaenomenum trini solis uno eodemque visi tempore in vernacula Novac Zemblae descriptione, a nautis nostratibus edita<note n="#8"/>. Aliud hic terrarum ante septennium, ni fallor, è
+villa
+sua sibi ac sororibus spectatum Allonia Spiringij<note n="#9"/> privigna aliquando mihi narravit; de quo, si tanti est, ipsam mira asseverantem licet audias. Ad Wallium alia occasione literas dabo. Vale, Vir Eximie, et si quid praeterea in rem tuam videbor posse, id ne me lateat, da operam. Amicos omnes, nobilissimum Zelemium imprimis, iubeo salvere.</p>
+<div type="closer">
+<p><placeName key="stock001">Holmiae Suecorum</placeName> <date>A<hi rend="sup">o</hi>. CIƆIƆCLXII a.d. XIX/XXIX Martij</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

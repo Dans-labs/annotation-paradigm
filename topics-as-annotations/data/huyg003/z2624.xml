@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2624"/>
+<meta type="date" value="1690-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2623"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2624">
+<p>Explicatio gryphi.</p>
+<p><figure><graphic url="huyg003oeuv09ill90.gif"></graphic></figure></p>
+<p><hi rend="i">KS</hi> tangens in <hi rend="i">K</hi>, ei perpend<hi rend="sup">is</hi> <hi rend="i">KER</hi>,</p>
+<p><hi rend="i">KL</hi>:<hi rend="i">LS</hi> = <hi rend="i">CA</hi> ad <hi rend="i">AK</hi> curvam,</p>
+<p><hi rend="i">a</hi>:<hi rend="i">i</hi> = <hi rend="i">r</hi>:<hi rend="i">c</hi>,</p>
+<p><hi rend="i">KL</hi>:<hi rend="i">LS</hi> sive <hi rend="i">CA</hi> ad <hi rend="i">AI</hi> ut <hi rend="i">AI</hi> ad <hi rend="i">AW</hi>,</p>
+<p><hi rend="i">a</hi>:<hi rend="i">i</hi> sive <hi rend="i">r</hi>:<hi rend="i">c</hi> ut <hi rend="i">c</hi>:<hi rend="i">cc</hi>/<hi rend="i">r</hi> vel <hi rend="i">ci</hi>/<hi rend="i">a</hi> = <hi rend="i">CR</hi> = <hi rend="i">e</hi>,</p>
+<p>½ <hi rend="i">rc</hi> + 1/6<note n="#4"/> <hi rend="i">ec</hi> = sectori cui evoluta pro centro.</p>
+<p>circulus a radio √2<hi rend="i">ur</hi> = superficies conoidis ex conversione <hi rend="i">AK</hi>.</p>
+<p>si ang. <hi rend="i">LKS</hi> est 45 gr. erit <hi rend="i">CA</hi> = curvae <hi rend="i">AK</hi>.</p>
+<p>denique duae aequationes exprimentes curvarum totidem naturam.</p>
+<p><hi rend="i">xxyy</hi> = <hi rend="i">a</hi><hi rend="sup">4</hi> - <hi rend="i">aayy</hi>,</p>
+<p><hi rend="i">xxyy</hi> = <hi rend="i">aaxx</hi> - <hi rend="i">aayy</hi></p>
+<p>data harum curvarum quadratura catenae puncta quotlibet invenire possum et tangentes in iis punctis, et rectas curvis inter illa interjectis aequales<note n="#5"/>.</p>
+<p>Hinc inveni, si a puncto inclinationis anguli semi recti ducatur axi perpendicularis, eam esse ad abscissam ad verticem proxime ut 8809 ad 4134 et curvam interceptam tunc esse partium 10000<note n="#6"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

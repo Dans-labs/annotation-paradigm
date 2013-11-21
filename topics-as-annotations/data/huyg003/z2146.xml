@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2146"/>
+<meta type="date" value="1678-11-05"/>
+<meta type="sender" value="huyg031"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2146">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 5<hi rend="sup">e</hi> Novembre 1678.</p>
+</div>
+<p>Cette Lettre vous sera donnée mon Cher Frere de nostre Cousijn Dorp<note n="#1"/>, qui m'a fort prié de luij en vouloir Charger, pour avoir par la plus d'occasion de vous saluer, son Altesse a voulu qu'il feroit le voyage de Paris avec Monsieur D'odijck<note n="#2"/>, non pas en qualité de Gentilhomme de L'Ambassade, mais comme Gentilhomme de Monsieur le Prince, l'aijant asseuré de cette Place pour son retour, lors qu'il est sortij de Page. il luij a donné une Cornette d'une des Compagnies de Gardes, et luij a promis d'avoir soing de son Avancement a l'advenir ce qu'il luij cause une grande Joije comme il en a bien raison d'estre si bien dans les bonnes graces de son Maistre. je ne doutte point, ou vous voudrez bien contribuer ce que vous pourez pour luij faire avoir des connoisences et luij faire voir des belle choses dont vostre addresse luij pouroit estre utile je vous puis asseurer que ses Prosches, vous en seront tousjour obligez, et sur tout les bonne Tantes<note n="#3"/>, les quelles m'ont prié aussy de vous saluer tres humblement de leur Part. je ne pretens pas vous mender auccune nouvelle par celle cij, car bien de Postes partiront avant que cette lettre vous sera mise entre les mains, je suis</p>
+</div>
+<div type="para">
+<p>Monsieur mon Frere
+<lb/>Vostre treshumble et tresaffectionnee soeur <persName>Susanna Huygens</persName>.
+<lb/>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Chr. Huygens de Zuylichem</persName>
+<lb/>A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

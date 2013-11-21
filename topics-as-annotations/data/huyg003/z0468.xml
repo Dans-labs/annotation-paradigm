@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0468"/>
+<meta type="date" value="1658-03-04"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0468">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Aquarum vis<note n="#1"/> quae nobis veteris diluuij memoriam refricauit, litteras tuas ad hanc vsque diem in itinere detinuit. quibus acceptis eo me affectu perfusum sensi, cui similem hactenus non sum expertus. Gauisus enim sum subtilissimis tuis inuentis, pro quibus et gratias ago maximas, et secretj fidem polliceor: sed de mea <hi rend="i">ἀπαγωγῃ</hi> quid dicam? cuius fundamentum, quoniam Tibj non probatur, iam apud me vacillat. Vacillat, inquam, non corruit. licet enim autoritatj tuae plurimum tribuam, tamen donec demonstrationem addideris me ludet amabilis infania, nec potest nisi vi <hi rend="i">ἀποδέιξεως</hi> eripi mentis gratissimus error. Binas ad Te misi, vnam<note n="#2"/> quae his terminis continetur <hi rend="i">ay</hi><hi rend="sup">3</hi> - <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ <hi rend="i">x</hi><hi rend="sup">4</hi>, aliam quae istis <hi rend="i">ay</hi><hi rend="sup">3</hi> - <hi rend="i">y</hi><hi rend="sup">4</hi> ∞ <hi rend="i">aaxx.</hi> Hanc ab illâ pendere, vt arbitror, non inficiaris, cum illud euincat vel exemplum quod attulj cylindrj sphaerae circumscriptj, et parallelogrammj quod parabolam includit. Minus tibj displicere existimo quod scripsi, cylindrum ad spiram vel annulum circularem strictum eandem
+habere rationem, quam quadratum ad circulum inscriptum. Scribe itaque vbi lateat <hi rend="i">τὸ ψευδάριον</hi> vt sciam num aequationes seorsim acceptas eodem modo mecum comparaueris. Fundamentum quo hae <hi rend="i">ἀπαγωγαὶ</hi> nituntur si conuellas, etiam pleraque alia ruere necesse est, quae eidem superstruxj. Cissoidem antiquorum nostj. Hanc asymptoton habere hactenus quod sciam proditum non est. Habet autem eamque non inutilem. Qui enim solidum infinitum metitur quod ex Cissoidis circa eandem reuolutione oritur, is pariter et circulum metirj poterit. Hanc <hi rend="i">ἀπαγωγὴν</hi> ex eodem principio deduxi quo reliquas, de cuius tamen fide <hi rend="i">ἐπέχειν</hi> mihi conuenit, quoniam ita iubes. Itaque te etiam atque etiam rogo vt breuis
+illius, quam habere te scribis, demonstrationis me participem facias, et magno me beneficio affectum profitebor. Facies autem prima occasione si bene Te nouj, quoniam veteris adagij non es immemor, cum bis dare qui cito dat. Accipe interim quid his diebus comminiscj me oportuerit, vt amicorum, qui hisce ineptijs delectantur, studia vel acuerem vel retunderem. Aquarum moles in ipsa Comitia incurrit, quae idcirco ioculari licentiâ dicta est mihi CoMItIaLIs VnDa. Lusj etiam in eandem his versiculis.</p>
+<lg type="poem">
+<l rend="; 1tab">Crescit et exultat victor niuibusque solutis</l>
+<l rend="; 2tab">Conuehit ignotas<note n="#3"/> Mosa rebellis aquas</l>
+<l>Et rursus hoc senario, vt altitudinem signarem ad quam ascindit.</l>
+<l rend="; 2tab">Hic limes vndis esto ne pertranseant.</l>
+</lg>
+<p>In quorum numeralibus litteris expressam inuenies praesentis anni <hi rend="i">χρονογραϕίαν.</hi> Haec infra dignitatem tuam esse non ignoro, sed adscripsi vt intelligas quam a rebus Geometricis alienum esse me oporteat, si amicorum studijs obsequj velim. Reduc itaque me in viam, et doce quo <hi rend="i">ψευδαρίῳ</hi> Euclidis libros auctum iuerim, et summopere obligabis</p>
+<div type="closer">
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>4 Martij 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0182"/>
+<meta type="date" value="1654-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0181"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0182">
+<p><figure><graphic url="huyg003oeuv01ill126.gif"></graphic></figure></p>
+<p>Haec<note n="#1"/> autem et ad mechanicam constructionem quod minimè casu inventum est.
+Proponatur nimirum circulus cujus diameter <formula>AB</formula>, sitque invenienda recta peripheriae aequalis.
+Dividatur semicircumferentia <formula>ACB</formula> bifariam in <formula>C</formula>, reliqua autem trifariam in <formula>D</formula>, <formula>E</formula>. et jungantur <formula>CD</formula>, <formula>CE</formula> quae secent diametrum <formula>AB</formula> in <formula>F</formula> et <formula>G</formula>.
+Erunt trianguli <formula>FCG</formula> latus alterum una cum basi <formula>FG</formula> quadranti <formula>AC</formula> aequalia propemodum, ut non 1/4000 diametri excedant.</p>
+</div>
+</body>
+</text>
+</TEI>

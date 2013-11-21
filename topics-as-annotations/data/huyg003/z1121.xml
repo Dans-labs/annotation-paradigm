@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1121"/>
+<meta type="date" value="1663-06-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1121">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce 15 Juin 1663.</p>
+</div>
+<p>Vous n'aviez pas creu, a ce que je voy, que Mon Pere seroit si prest a entreprendre le voiage qu'on<note n="#1"/> luy imposoit, et je pensois bien aussi du commencement qu'il voudroit attendre un second Ordre. Mais il semble qu'il a eu envie de veoir encore ce païs, et c'est cela qui l'a fait resoudre d'autant plus facilement. Si vous n'en aviez pas parlè le premier a Monsieur Beaumont<note n="#2"/> nous eussions estè quite de tout cet embaras, qui peut estre ne servira pas de beaucoup aux affaires du Prince, et qui pourroit m'apporter quelque prejudice dans une que j'ay a Paris<note n="#3"/>, dont je ne veux encore vous rien dire. A vous il en aviendra que vostre perruque ne sera pas si tost faite que sans cela elle auroit estè, car vous ne voudriez pas, je m'assure, que je la sisse faire icy. Je garderay donc vostre echantillon et mesure jusqu'a ce que nous ayons repassè en France et alors je vous promets que j'en auray soin. Je croy que bien tost il m'en faudra une de mesme, par ce que les cheveux commencent a me manquer en un endroit que ceux qui restent ne scauroient couvrir.</p>
+<p>Quoy que je ne croye pas que nous devions rester long temps icy, nous n'en partirons pas si tost pourtant que vous ne puissiez m'envoier hardiment le portrait que vous n'avez osè consier au dernier pacquet. Je seray fort aise de le veoir, et il me semble que de la je pourray faire conjecture a peu pres avec quel succes je pourois m'adonner au mesme mestier<note n="#4"/>.</p>
+<p>Le Combat de ces deux galants dans la Comedie avec les 4 Sabines entre deux, doit avoir estè une belle chose a veoir et qui valoit bien un des meilleurs actes. Je voudrois bien scavoir si le pacisicateur Son Excellence Borri va encore veoir la Tante Dewilm<note n="#5"/> et s'il y est tousjours receu de mesme.</p>
+<p>Je ne scay pas si j'ay mandè au frere Louis que devant que partir de Paris j'ay envoiè les figures Chinoises<note n="#6"/> a Monsieur Thevenot. Je n'ay pas pu veoir qu'elles
+estoient mieux faites que les premieres que nous eumes il y a longtemps, mais je ne doute pas toute fois qu'il n'en soit tres satisfait.</p>
+</div>
+<div type="para">
+<p>Pour Mon Frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

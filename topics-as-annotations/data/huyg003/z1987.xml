@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1987"/>
+<meta type="date" value="1674-02-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1987">
+<div type="opener">
+<p>28 febr.</p>
+<p>Nobilissimo Clarissimoque Viro <persName key="slus001">Renato Francisco Sluzio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.P.</p>
+</div>
+<p>Misi ad te Vir clarissime aestate praeterita Exemplar libri mei recens tunc editi de Oscillatorio Horologio seu motu Pendulorum, ac seorsim binas subinde literas<note n="#2"/>. Nec adhuc scire mihi licuit utrumne aut illud, aut harum aliqua ad te pervenerit<note n="#3"/>. Existimo tamen, quod per hosce bellorum tumultus mirandum non esset, in itinere detentas vel neglectas intercedisse, potius quam ut tuum silentium culpem, cujus tantam, quantam in alio nemine semper humanitatem expectus sum. Caeterum cum diebus hisce audente quodam ex amicis, de infortunio hoc meo conquererer, operam ille suam obtulit, suisque literis (nam continuum illi cum Leodiensibus commercium est) meas, si quas dare ad te vellem inclusurum promisit, curaturumque ut certo tibi reddantur. Itaque oblatam opportunitatem non dimittendam esse censui, ut semel dubitatione ista me liberarem, aut saltem te certiorem redderem non ideo libri mei copiam tibi factam non esse, quod a me missus non sit. Quaero itaque ut verbo significes sitne perlatus nec ne, ut si opus sit aliud exemplar melioribus auspicijs viae committam. Plurimum enim mea referre arbitror, ut Slusium lectorem habeam, quo nemo nunc mortalium melius certiusve judicare queat quid recte quidve reprehensione dignum scripserim. Vale Vir Praestantissime, meque eodem quo semper affectu tuum credito.</p>
+<p>Si quid responde inscribe si placet Epistolae, ne aberret, à la rue Viviene a la Bibliotheque du Roy.</p>
+</div>
+</body>
+</text>
+</TEI>

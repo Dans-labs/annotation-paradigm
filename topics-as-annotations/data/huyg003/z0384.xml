@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0384"/>
+<meta type="date" value="1657~"/>
+<meta type="sender" value="fren024"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0382"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0384">
+<p>Des nombres Amiables par Monsieur <persName key="fren024">Defrenicle</persName>.</p>
+<p>&nbsp;</p>
+<p>On a donnè le nom d'Amiable a certains nombres dont le 1<hi rend="sup">er</hi>. est la somme des parties du 2<hi rend="sup">ond</hi>. Et le 2<hi rend="sup">ond</hi> est la somme des parties du premier. Ainsi 284. est la somme des parties de 220. et 220 est la somme des parties de 284. Voicy comme on trouue ces nombres.</p>
+<p>Il faut choisir vn nombre de l'Analogie de 2. [tels que sont 2. 4. 8. 16. 32. &amp;caet.] dont le triple moins 1. soit nombre premier, le double plus 1 de celuy cy soit aussi nombre premier, et le produit de ces deux, plus leur somme soit encor nombre premier.<note n="#2"/></p>
+<p>Si on multiplie ce dernier par le double du nombre de l'Analogie de 2. on aura vn des Cherchez; et le produit des deux moindres nombres premiers multipliè par le mesme nombre de l'Analogie de 2. donne l'autre nombre.</p>
+<p>Je prens par Exemple 8. son triple +<note n="#3"/> 1. est 23. Le double + 1. de 23 est 47. Le produit de 23. par 47. est 1081. auquel joignant 70. qui est la somme de 23. et 47. on aura 1151. qui est encor nombre premier.</p>
+<p>Si on multiplie 1151. par 16. double de 8. on aura 18416. qui est vn des nombres. L'autre se fait multipliant le produit susdit 1081. par le mesme 16. et on aura 17296.</p>
+<p>Si on prend 2. on aura 284. 220.</p>
+<p>De 8. on aura 18416. 17296.</p>
+<p>de 64. on aura 9437056. 9363584.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2692"/>
+<meta type="date" value="1691-08-28"/>
+<meta type="sender" value="gous001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="groni001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2692">
+<div type="opener">
+<p><note n="#2"/> Monsieur</p>
+</div>
+<p>Puis que Mons.<hi rend="sup">r</hi> Papin mon Cousin m'a fourni l'occasion de me donner l'honneur de vous escrire, en m'envoyant cette lettre<note n="#3"/> pour vous la faire tenir, permettez moy d'en profiter aussi pour m'instruire en vous consultant avec la mesme soûmission, que fait mon Cousin. Ce que je prendrai la liberté de vous demander, Monsieur, regarde ce que j'ai leu dans vostre traitté de la lumiere. Vous faites, comme Des Cartes, la Lune distante de la terre de 30 diametres de la terre<note n="#4"/>. Et le soleil de 12000<note n="#5"/>. Je desirerois savoir si cette distance du soleil a esté remarquée par quelque observation faite directement sur le soleil. Si cela est, ce sera une confirmation pour le systeme. Car c'est aussi ce qui resulte a peu prés en calculant 365<note n="#6"/> roulemens du vortice de la Lune consideré comme une rouë qui court autour de la partie du vortice du soleil qui est entre ces deux astres, &amp; ayant pour semidiametre 30 diametres du globe terrestre.</p>
+<p>J'ay une difficulté sur ce que vous faites un point de la terre sous l'Equateur, plus éloigné du centre que sous le pole, seulement comme 578 a 577<note n="#7"/>. Et que cependant vous dites<note n="#8"/> que le niveau decline vers le nort en ces pays, de 5 min. 54.″<note n="#9"/>. Il me semble que cette declinaison du niveau devroit paroistre sensiblement, si la terre n'est pas plus applatie que cela vers les poles. Oserai-je ajoûter une curiosité à l'occasion d'une certaine hypothese qu'un de nos messieurs me debitoit il y a peu de temps. Je serois bien aise de savoir si une revolution de 6915 années avec 343. jours remettroit les planetes a sa fin dans la mesme situation<note n="#10"/> où elles estoient a son commencement, du moins si cela se feroit a l'egard du soleil &amp; de la Lune. Mais, Monsieur, je vous prie de ne pas croire que j'ignore combien vous avez d'occupations plus considerables, que celle de me respondre sur mes questions. Je ne souhaite pas de vous en distraire. Mais je souhaiterois bien qu'il vous restast un moment de temps a perdre a cela. A l'egard de la response
+que vous ferez a mon Cousin, je ne croi pas qu'il y ait de meilleure voye que celle d'ici. Je ferai bien aise de servir a vostre commerce, &amp; en mesme temps d'y participer. Je finis en vous asseurant, Monsieur, que je recevrai vos éclaircissements avec toute l'estime &amp; la déference imaginable, &amp; que j'en aura une parfaite reconnoissance. Je suis,</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="gous001">Gousset</persName>.</p>
+</div>
+<p>mon addresse est a Gousset professeur dans l'Université.</p>
+<p>a Groningue le 28 Aoust 1691.</p>
+<p>&nbsp;</p>
+<p>Si vous me faisiez la grace de me donner un pied certain pour le cours de chaque Planete par lequel je pûsse diviser ce periode de 6916 ans 343 jours, il ne seroit pas besoin que vous prissiez la peine de le calculer.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

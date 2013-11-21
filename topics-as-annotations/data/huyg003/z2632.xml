@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2632"/>
+<meta type="date" value="1690-11"/>
+<meta resp="HI" type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2632">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous aures receu la lettre que je me suis donné l'honneur de vous écrire, et ou je reponds touchant les lignes que vous me proposés à chercher par ma methode; et touchant la Ligne de la corde pendante. Je n'ay pas encore mis au net une lettre plus longue<note n="#3"/>, ou je mets mes pensées sur le mouuement des planetes. Cependant vous l'aurés aussitost que je pourray m'y attacher assez pour cet effect, et j'en espere alors vostre jugement. Cependant je crois que par ce peu que j'auois dit de la chaine pendante, vous jugerés si je me suis rencontré avec vous sans qu'il faille d'autre chiffre, et j'en espere des nouuelles quand vostre commodité le permettra.</p>
+<p>Il m'est venu dans l'esprit cependant, que l'equation que j'auois donnée pour vostre courbe, pourroit embarasser, n'estant pas aisé de juger, si elle peut satisfaire à vostre demande, puisqu'on n'a pas encor donné moyen de trouuer les tangentes par des equations où l'exposant est inconnu. Et quoyque je n'aye pas encor communiqué à d'autres la methode dont je me sers pour cet effect, je ne laisse pas de vous en envoyer icy un echantillon par le quel vous la connoistrés assés.</p>
+<p>Soit donc <hi rend="i">x</hi> l'abscisse et <hi rend="i">y</hi> l'ordonnée de la courbe, et l'equation, comme je vous ay dit, <hi rend="i">x</hi><hi rend="sup">3</hi><hi rend="i">y</hi>/<hi rend="i">h</hi> = <hi rend="i">b</hi>2<hi rend="i">xy</hi>/.. Je designeray le logarithme de <hi rend="i">x</hi> par log. <hi rend="i">x</hi>, et nous aurons 3 log. <hi rend="i">x</hi> + log. <hi rend="i">y</hi> - log. <hi rend="i">h</hi> = 2 <hi rend="i">x y</hi>, supposant que le log. de l'unité soit o, et le log. <hi rend="i">b</hi> = 1. Donc par la quadrature de l'hyperbole nous aurons 3 ∫ <hi rend="i">dx/x</hi> + ∫ <hi rend="i">dy/y</hi> - log. <hi rend="i">h</hi>=2<hi rend="i">xy</hi>, dont l'equation differentielle sera 3<hi rend="i">dx/x</hi> + <hi rend="i">dy/y</hi> = 2<hi rend="i">xdy</hi> + 2<hi rend="i">ydx</hi>, ou bien 3<hi rend="i">ydx</hi> + <hi rend="i">xdy</hi> = 2<hi rend="i">xx ydy</hi> + 2<hi rend="i">xyydx</hi>, et par consequent <hi rend="i">dx</hi> sera à <hi rend="i">dy</hi>, ou bien DB à <hi rend="i">y</hi> (selon la figure de la lettre precedente) comme 2<hi rend="i">xxy</hi> - <hi rend="i">x</hi> est à 3<hi rend="i">y</hi> - 2<hi rend="i">xyy</hi>, c'est a dire DB sera 2<hi rend="i">xxy - xaa</hi>/3<hi rend="i">aa</hi> - 2<hi rend="i">xy</hi> comme vous le demandiés, <hi rend="i">a</hi> estant l'unité.</p>
+<p>Je croy, Monsieur, que vous trouverés ce calcul nouveau, et de consequence. L'analyse Transcendente seroit portée à sa perfection si on la pouuoit tousjours reduire à de telles equations. Les equations differentielles sont un acheminement pour cet effect. J'ay beaucoup medité sur ce qu'il y a à faire la dessus, et si j'auois le loisir necessaire, ou si quelque jeune mathematicien intelligent estoit proche de moy pour m'assister, je croy qu'on pourroit avancer cette science bien au de là de l'estat où elle se trouve. Plût à Dieu, qu'on pût avancer en physique à proportion.</p>
+<p>Que jugés vous, Monsieur, de l'explication du flus et reflus de Mons. <persName key="newt011">Newton</persName><note n="#4"/>? et vous paroist il raisonnable, que les queues des cometes soyent une matiere effective, poussée hors de la comete à des distances immenses, et qui ne laisse pas de suivre son mouuement<note n="#5"/>? Je les aurois plus tost pris pour un effect optique.</p>
+<p>Un Écossois qui estoit en Hollande, nommé Mr. <persName>Stear</persName><note n="#6"/> dit dans sa physiologie d'auoir experimenté que les corps poussés dans le vuide d'air ne vont pas fort loin; j'ay de la peine à le croire. N'a-t-on rien decouuert sur les loix de la variation de l'eguille aimantée? Je m'imagine, Monsieur, que vous aurés medité la dessus, aussi bien que sur beaucoup d'autres matieres de physique, et je vous supplie de me faire quelques fois part de vos lumieres, quand même ce ne seroient que des conjectures, puisque vos conjectures mêmes valent mieux que les demonstrations de bien des gens. C'est à cet effect que je vous ay demandé vos sentimens dans cette lettre, aussi bien que dans la precedente, sur certains points, et j'espere que vous me connoissés assez, pour ne vous pas defier de ma sincérité.</p>
+<p>Considerant<note n="#7"/> ce que j'ay dit de la resistance du milieu dans les Actes de Leipzig,
+Fevrier 1689<note n="#8"/>, vous trouverés, Monsieur, article 5. n. 3<note n="#9"/> qu'encor chez moy (les elemens des temps estant pris egaux, condition que vous et Mr. <persName key="newt011">Newton</persName> avés dissimulée) les resistences sont comme les quarrés des vistesses, et par le nombre 4 et 6 de cet article<note n="#10"/>, il s'ensuit aussi que la somme <hi rend="i">a</hi> + ⅓ <hi rend="i">a</hi><hi rend="sup">3</hi> + ⅕ <hi rend="i">a</hi><hi rend="sup">5</hi> etc., se reduit a la quadrature de l'hyperbole<note n="#11"/>. Dans l'ouurage que j'avois composé autres fois sur la quadrature Arithmetique<note n="#12"/>, je trouue cette proposition generale: Sector comprehensus arcu sectionis Conicae a vertice incipiente et rectis ex centro ad ejus extrema ductis, aequatur rectangulo sub semilatere transverso et recta <hi rend="i">t</hi> ± ⅓ <hi rend="i">t</hi><hi rend="sup">3</hi> + ⅕ <hi rend="i">t</hi><hi rend="sup">5</hi> ± 1/7 <hi rend="i">t</hi><hi rend="sup">7</hi> etc. posito <hi rend="i">t</hi> esse portionem tangentis in vertice, inter verticem et tangentem<note n="#13"/><note n="#14"/> alterius extremi interceptam, et rectangulum sub dimidiis lateribus recto et transverso (id est quadratum a semiaxe transverso) esse unitatem. Est autem ± in hyperbola + in Ellipse vel circulo -.</p>
+<p>Quelqu'un m'a dit qu'on scait en Hollande la carte de l'Asie Septentrionale, et si l'Amerique en est divisée par la mer. Si vous en scavés quelque chose, je vous supplie de m'en dire un mot. Voila à quoy votre bonté et vostre scauoir vous exposent. Mais il est tousjours bon d'estre riche au hazard d'estre importuné par des pauvres. Je suis avec zele</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="leib013">Leibniz</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1229"/>
+<meta type="date" value="1664-04-27"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="silv004"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1229">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 27 Avril 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>Sur ce que Monsieur le Chevalier Morray m'escrivit<note n="#3"/> que je <seg org="sisse" resp="#AD" type="corr">fisse</seg> faire une machine pour la luy envoier j'ay respondu<note n="#4"/> que je voulois attendre auparavant le rapport de Monsieur de Villarsau<note n="#5"/> qui avec sa machine qui luy appartient, estoit allè faire un voiage à une journee ou deux d'icy. Nous avons eu depuis ce rapport, qui est fort en faveur de cette voiture, dont il se loue hautement et dit auoir fait 12 lieues en 4 heures par des mauuais chemins s'estant servi de 3 chevaux mis en relais. Mais pour en pouuoir parler de propre experience, j'ay estè ces jours passez avec l'Inventeur<note n="#6"/> à 4 lieues d'icy a un village qu'on appelle Malnou, luy estant dans la machine en allant et moy en revenant, et galoppants tousjours, de sorte que sans le retardement qu'apportoit le passage de la Marne, nous contions d'avoir fait ce chemin en une heure de temps et fort commodement, a moitiè chemin nous changeames de cheval, et je remarquay que le dernier que j'eus, faisoit aller la chaise plus doucement que l'autre, qui galoppoit fort rudement. de sorte qu'il y a quelque difference en cela, mais toutefois quelques rudes qu'ils soient, l'on ne laisse pas d'estre encore fort a son aise. Sur tout la seurtè ou l'on est de ne pouuoir verser est belle et considerable, car aux mesmes endroits ou nous avions estè fort pres de
+tomber avec le carosse il n'y en avoit pas la moindre apparence pour la machine. Et il est constant que dans de chemins rabotteux et sur le pavè elle est incomparablement plus douce que les meilleurs carosses. J'eus le plaisir d'en rencontrer quelques uns a 6 chevaux sur le chemin de Vincennes, que je passay facilement et les laissay bien loin derriere. En fin apres cette espreuve je
+suis fort satisfait de la machine et suis bien d'avis de faire apprester celle que vous et Monsieur Moray demandez, car je croy qu'elle reussira fort bien en ce pais la, les chevaux y estants plus propres que non pas icy. Ces Messieurs les interressez me disent qu'ils en auroient desia vendu une quantitè s'ils en eussent eu de faites, et je les tence souuent de ce qu'ils ne mettent pas plus d'ouuriers a y travailler. Ils taschent d'adjouter encore tousjours quelque chose a la perfection, et c'est la raison qu'ils m'alleguent pour excuse. J'auray soin que celle qu'on vous envoiera soit parfaite de touts points; et si elle ne peut estre achevée devant que je m'en aille en Hollande (car il pourroit estre que je m'y en retournasse<note n="#7"/> dans peu) je vous laisseray icy bonne adresse, et vous feray scavoir quel argent il faudra pour la payer, lequel, comme de raison, vous reprendrez sur le premier qui en proviendra par de la. Je croy que ce sera environ 15 ou 16 pistoles. Ils ont trouuè bon icy dans le commencement de cet establissement de vendre ensemble la machine et le droit de s'en servir pour cent escus croiants d'y trouuer mieux leur compte qu'en prenant le droit annuel et aussi a fin que les premieres ne manquassent pas d'estre bonnes estant faites par les ouuriers qu'ils ont instruits.</p>
+<p>Peut estre qu'il sera bon d'en user de mesme en Angleterre. Vous m'obligerez de communiquer tout cecy a Monsieur Moray et de l'assurer que je luy suis comme a vous</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Le tres humble et tres affectionè seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>J'ay envoiè vostre lettre a M. Chieze par la poste d'hier. Mon Pere vous baise les mains.</p>
+</div>
+</body>
+</text>
+</TEI>

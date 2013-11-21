@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0438"/>
+<meta type="date" value="1657-12-18"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0438">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Litteras tuas datas 7<hi rend="sup">a</hi> huius mensis, iam ab aliquot diebus accepj; responsum autem distulj quod interea temporis sperarem fore vt aliquid ad Te mitteret Clarissimus Schotenius cuius pro tua humanitate me participem faceres. Sed quoniam ille hactenus silet, continere me non potuj quin ad Te scriberem, quam iucundum mihi acciderit quod eâdem viâ ad primae illius curuae dimensionem accesserimus.</p>
+<p><figure><graphic url="huyg003oeuv02ill52.gif"></graphic></figure></p>
+<p>Ais enim rationem parallelogrammj CD ad trilineum FAD eandem esse quam habet vtraque simul AG DF, ad lineam aequalem tribus hisce, dimidiae AG, et ¾ DF, ac duodecimae partj eius quae sit ad DF, sicut AG ad vtramque simul AG DF. Ego vero in aduersaria retuleram eandem esse, quae <hi rend="i">aa</hi> + <hi rend="i">yy</hi> + 2<hi rend="i">ay</hi> ad ½<hi rend="i">aa</hi> + ¾<hi rend="i">yy</hi> + 4/3<hi rend="i">ay.</hi> Quod miré tecum consentit, vtramque enim partem applica ad <hi rend="i">a</hi> + <hi rend="i">y</hi> et fiet ratio <hi rend="i">a</hi> + <hi rend="i">y</hi> ad <figure rend="inline"><graphic url="huyg003oeuv02fi05.gif"></graphic></figure> illa ipsa quám assignastj. Accipe etiam quid curis secundis circa eandem meditatus fuerim. Inuenj <hi rend="i">ἀτελῆγραμμήν</hi> esse, quod fortasse non videbunt Doctj illj virj a quibus nobis proposita est; saltem non monuerunt. De quo vt periculum facias, iube in ipso puncto A tangentem ducj; Id enim nec tuâ methodo, nec eâ quám postremis meis ad Te misj fierj posse manifestum est; nisi forsitan arbitrentur cum CA coincidere, quod a veritate alienum esse ostendj. Iniurius essem et doctrinae et ingenio tuo si plura adderem: Jdem enim hic a Te expecto, quod in tertià praestiturum facile praeuideram, quam recte innuistj ex partibus componj vnius parabolarum infinitarum, quarum tangentes, centra, quadraturae iam ab alijs <hi rend="i">ἀναλυτιϰῶς</hi> ostensa sunt: Ego a pluribus annis tangentes etiam Euclideo more demonstrauj.</p>
+<p>De Regulis motus licet mearum veritatem multa mihj suadeant, tamen quoniam a tuis abeunt recte pronuntiare mihj posse videor, ex vetere formulâ, Non liquere. Principium Cartesij de eadem constanter quantitate motus in vniuerso, si non sibj constet, eiusdem Philosophiae fundamenta conuellj necesse est. Accedit quod quj semel motus quantitatem minuj concessit, non habere videatur vbi sistat, nisj forte nouam producj censeat ab agentibus naturalibus, saltem a liberis, de quo sententiam tuam rogo. Nec est quod Experientias sequaris quibus vt fidem non abrogo, ita mihj semper Coj senis occurrit illud ἡ <hi rend="i">πείρα σϕαλερη</hi>, ἡ <hi rend="i">δõ ϰρίσις χαλεπὴ</hi>, nisj ratio confirmet. Scis enim quid <hi rend="i">τὰ ἔξωθεν</hi> hac in re possint. Itaque vt in plurisque talibus rursus <hi rend="i">ἐπέχω ϰαι διασϰεπτομαι.</hi> At non in affectu quo Te prosequor, sum enim perennj Constantiâ</p>
+<div type="closer">
+<p>Tuj Obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>18 10bris 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI.</p>
+</div>
+</body>
+</text>
+</TEI>

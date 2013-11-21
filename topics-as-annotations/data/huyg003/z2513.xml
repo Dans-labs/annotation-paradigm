@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2513"/>
+<meta type="date" value="1688-02-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="lann032"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2513">
+<div type="opener">
+<p>A l'abbé de Lannion le 5 fevr. 1688.</p>
+<p>Monsieur</p>
+</div>
+<p>Je n'aurois pas tant attendu a faire responce a la lettre que j'ai eu l'honneur de recevoir de vostre part par Mr. <persName>Leers</persName>, si je n'estois tellement occupè depuis quelque temps par des affaires de famille survenues par la mort de mon Pere, que j'ay estè contraint de laisser là toutes mes estudes et ensemble les correspondances qui y ont du rapport. Estant encore presentement a demenager et eloignè de tous mes livres<note n="#1"/>.</p>
+<p>Ces mesmes affaires me serviront d'excuse de n'avoir pu examiner vos remarques avec tout le soin qu'elles demandent, mais quand je l'aurois fait plus à loisir je vous conseillerois tousjours de vous fier encore plus a vous mesme et de ne publier rien dont vous ne serez tres assurè. Je ne laisseray pas de remarquer un endroit ou vous parlez de Mr. <persName key="hudd002">Hudde</persName> par ce que vous pouvez n'avoir pas bien compris le sens et l'intention de l'autheur. Car sur ce que vous dites que Mr. <persName key="hudd002">Hudde</persName> en donnant sa regle<note n="#2"/> de poser une ou plusieurs des quantitez connues egales à 1 ou à o, a oubliè d'avertir que la converse n'est pas universellement vraie, il pourroit respondre comme je crois qu'il n'a donnè ces regles que comme negatives, c'est a dire pour trouver quand une equation est irreducible, et nullement pour apprendre a les reduire, ni mesme pour assurer qu'elle soit reduisible.</p>
+<p>La regle du mesme M. <persName key="hudd002">Hudde</persName> pour les Equ<hi rend="sup">ons</hi> qui ont 2 ou 3 racines egales est appliquée utilement a la recherche de maximum aut minimum et aux tangentes, dans la quelle recherche on scait et suppose qu'il doit y avoir des racines egales entre elles, mais on ne scait pas la valeur d'aucune. Au lieu que dans vostre methode il faut connoistre la valeur d'une des racines, et aussi je ne vois pas que vous la puissiez faire servir a ces beaux usages. Au reste comme vous avez des remarques
+nouvelles qui ont leur utilitè dans la reduction des Equations et qu'elles peuvent faire un traitè raisonnable avec ce que vous promettez de plus, vous ferez mieux a mon avis de les faire imprimer et d'en faire faire mention dans les nouvelles des scavants que de les y vouloir inserer entieres. J'ay parlè a Mr. <persName>Leers</persName> la dessus qui comme moy trouve que cela n'estoit ni faisable a cause de l'estendue de la piece quand mesme elle auroit estè partagée en deux ni fort a propos a cause du sujet qui estant de pure algebre theorique n'est au goust que de ceux qui sont versés dans cette science.</p>
+<p>J'ay estè surpris de vous voir si avant dans ces subtilitez et j'aurois cru a peine que vous auriez si bien perseverè dans l'estude des mathematiques. J'en ay assurement de la joye et d'autant plus qu'elles vous ont fait trouver l'occasion de me donner des marques de vostre souvenir et de vostre amitiè que je tiens de beaucoup d'honneur. Pour ce qui se fait dans vostre Academie des sciences je n'en suis pas fort informè par ce que je ne recois que rarement des nouvelles de mon correspondant qui est Mr. <persName key="hire005">de la Hire</persName>, tellement que je ne scay si on continue a imprimer ce qu'on a pris des Registres et les petits traitez dont j'ay envoyè des copies<note n="#3"/>. Je n'ay pas sceu aussi que vous estiez mal avec Mr. <persName key="chap019">de la Chapelle</persName> et ce que vous me mandez de luy sur mon suject je ne scaurois l'accorder avec ce qui m'a paru par une lettre fort civile qu'il m'a escrit en personne<note n="#4"/>. J'ay ouy dire qu'il vous estoit arrivè quelque disgrace pour une action qui ne la meritoit nullement et qui dans le pais ou je suis vous doit tenir lieu de merite.</p>
+<div type="closer">
+<p>Je suis &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

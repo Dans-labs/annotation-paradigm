@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2768"/>
+<meta type="date" value="1692-10-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2768">
+<div type="opener">
+<p>A Mr. <persName key="hosp010">le Marquis de l'Hospital</persName>.</p>
+<p>22 Oct. 1692.</p>
+</div>
+<p>La reponse dont vous m'avez honorè, Monsieur, datée du 10 Sept., ne m'a estè rendue par Mr. <persName key="hart107">Hartsoeker</persName>, que le 9 de ce mois, comme vous pouvez avoir appris de Mr. <persName key="hire005">de la Hire</persName><note n="#2"/>. Il n'y avoit point de cachet, et je crois que ceux a qui vous en auiez bien voulu laisser voir le contenu, l'auront retenue si longtemps contre vostre intention. J'ay sujet de me plaindre d'avoir estè privè pendant pres d'un mois du plaisir de voir vostre excellente construction du probleme de la Logarithmique, qui m'a donnè de l'admiration et de l'exercice.</p>
+<p>Je n'eus point de peine en faisant un peu de calcul de m'assurer de la veritè de vostre demonstration<note n="#3"/>, mais de scavoir par quelle voie vous estes parvenu à cette solution, c'est ce que je n'ay pas encore tout à fait penetrè. La division de vos MN en deux parties est bien imaginée, dont la somme des unes ne m'a point retardè, parce que j'en avois rencontrè des semblables<note n="#4"/>. Pour l'autre somme il me paroit
+que vous l'avez reduite à la quadrature de l'hyperbole, en y reduisant la courbe dont l'équation est <figure rend="inline"><graphic url="huyg003oeuv10fi329.gif"></graphic></figure>, ce qui doit estre possible<note n="#5"/>, mais il n'est pas aisè; et si vous avez quelque regle pour cela, ce que je seray fort aise de scavoir, je l'estime extremement. J'entrevois un autre chemin, par ou vous pourriez avoir passè, qui est de trouver qu'a la soutangente <figure rend="inline"><graphic url="huyg003oeuv10fi330.gif"></graphic></figure> convient vostre courbe geometrique <hi rend="i">aay</hi>+2<hi rend="i">aaz</hi>√2 ∞ 2<hi rend="i">yzz</hi><note n="#6"/> mais ce chemin est plus
+detournè, et la difficultè n'est pas petite de trouver la courbe pour cette soutangente donnée. J'avoue que je n'ay gueres approfondi ces matieres, m'estant exercè principalement à appliquer la geometrie à d'autres speculations ou elle peut avoir quelque usage. Je scay bien que ces quadratures des courbes et le probleme renversè des Tangentes en bien des occasions peuvent estre de fort grande utilitè, mais voiant le progres que Mess.<hi rend="sup">rs</hi> Leibnitz, Fatio et Newton y avoient faits, devant que j'y eusse songè, j'ay taschè plustost de profiter de leur travail que de me mettre à chercher apres eux, sur tout depuis que Mr. <persName key="duil010">Fatio</persName> m'a fait esperer<note n="#7"/> la publication d'un traitè de Mr. <persName key="newt011">Newton</persName> sur ce sujet, qui, à son avis, en scait bien plus que luy et Mr. <persName key="leib013">Leibnitz</persName> ensemble.</p>
+<p>J'ay remarquè en examinant vostre invention, qu'on peut aussi trouver la surface du solide mesme infini<note n="#8"/>, que fait une portion de la Logarithmique en tournant sur la soustangente, c'est-à-dire luy trouver un cercle egal, en se servant comme vous, Monsieur, de la ligné mesme, d'où s'ensuivent les centres de gravitè des portions lineaires<note n="#9"/>. J'ay aussi determinè le cercle qui mesure sa plus grande courbure<note n="#10"/>; mais tout cela est aisè et nullement comparable à ce que vous avez fait. Vous scavez fort bien l'usage à ce que je vois, des <hi rend="i">dx</hi> et <hi rend="i">dy</hi> de Mr.
+Leibnitz, qui assurement a quelque chose de fort bon, en ce qu'il nous fait appercevoir souvent des veritez et des consequences, qui ne se presenteroient pas sans cela.</p>
+<p>Je mets icy, puis que vous l'avez souhaité, 3 questions, que je luy ay cy-devant proposées<note n="#11"/>.</p>
+<p>L'une estoit, de trouver la ligne courbe AB par sa soutangente donnée
+<figure><graphic url="huyg003oeuv10ill73.gif"></graphic></figure>
+CD ∞ <hi rend="i">aax</hi>-2<hi rend="i">xxy</hi>/3<hi rend="i">aa</hi>-2<hi rend="i">xy</hi>; AC estant <hi rend="i">x</hi> et l'appliquée CB <hi rend="i">y</hi>.</p>
+<p>La 2<hi rend="sup">e</hi>. estoit de trouver la courbe quand la soutangente est 2<hi rend="i">x</hi>-<hi rend="i">yy</hi>/2<hi rend="i">x</hi>.</p>
+<p>La 3<hi rend="sup">e</hi>. de trouver la quadrature de cette mesme courbe. J'adjoute encore celle cy: de trouver la courbe et sa quadrature, ou a quoy elle se reduit, quand la soustangente est 2<hi rend="i">x</hi>+<hi rend="i">x</hi><hi rend="sup">3</hi>/<hi rend="i">yy</hi><note n="#12"/>.</p>
+<p>J'ay des regles pour ces problemes horsmis les quadratures<note n="#13"/>. Et mesme ces regles ne resolvent pas tous les cas, encore qu'il n'y ait point de racines meslées. Et pour ceux ou il y a racine, la regle que j'ay de Mr. <persName key="leib013">Leibnitz</persName><note n="#14"/> ne sert que peu souvent et nullement en la soutangente de cy-dessus <hi rend="i">y</hi>√<hi rend="i">aa</hi>+<hi rend="i">yy</hi>/<hi rend="i">a</hi>. Il a resolu les 3 questions que je viens de raporter horsmis la premiere par ce qu'il arriva par accident que je lui decouvris la courbe dont il s'agissoit<note n="#15"/>. Ayant desia estè
+trop long, je ne vous proposeray rien de physico-mathematique, et je ne scay mesme si je trouverois maintenant rien en ce genre qui meritast vostre meditation.</p>
+<p>Je viens de recevoir un imprimè de Florence du Sigr. Viviani, avec le titre extravagant de Formatione e misura de tutti i cieli<note n="#16"/>. Il contient la solution de quelques Problemes Geometriques, mais sans demonstration, des quels le principal
+<figure><graphic url="huyg003oeuv10ill74.gif"></graphic></figure>
+est la quadrature du reste d'une surface spherique, quand on en oste ce qu'emportent deux forets cylindriques qui la percent tout outre. La sphere est ABCD, les forets ou leurs trous cylindriques AE, EC, occupant chacun la moitiè du diametre de la sphere<note n="#17"/>. Les problemes de Geometrie pure sont infinis, des quels j'estime le moins ceux où l'on se forge tout expres des lignes ou des surfaces, auparavant inconnues ni vues dans la nature, pour en rechercher les proprietez, comme je vois que font souvent quelques Geometres Allemans, entre autres celuy qui, dans un des derniers journaux de Leipsich, a entrepris de determiner la figure du voile tendu par le vent, ou je crois qu'il s'est trompè par quelque faux principe<note n="#18"/>. Je seray bien aise, Monsieur, d'en apprendre vostre sentiment, estant persuadè plus que jamais de l'excellence de vostre scavoir et jugement en ces matieres. Je suis avec respect, etc.</p>
+<p>Pardonnez a mon impatience si je vous supplie tres humblement de me faire tenir sans de si longs detours celles que vous me ferez l'honneur de m'escrire, et
+faites adjouter s'il vous plait à la superscription après mon nom, Seignr. de Zeelhem, ce qui me distingue de mon frere aisnè.</p>
+</div>
+</body>
+</text>
+</TEI>

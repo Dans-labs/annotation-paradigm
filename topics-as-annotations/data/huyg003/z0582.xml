@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0582"/>
+<meta type="date" value="1659-02-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0582">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Post diutinum silentium à Milonio nostro literas<note n="#1"/> accepi quibus istae quas tibi mitto inclusae erant. Mitto autem et demonstrationes ipsius<note n="#2"/>, uti voluerat, circa Cycloidis lineae dimensionem, pulcerrimum illud <persName key="wren002">Wrenni</persName> inventum, de quo proculdubio pridem intellexisti, nec non circa curvam quam olim Slusius nobis proposuerat. Sed et haec longè petita videtur, et illam de Cycloide multo quoque brevius jam diu absolvi, ita ut nihil opus haberem Theoremate illo Robervallij, quo Milonius utitur, aut ratione perturbata. Insuper et partes lineae dimensus sum, invento curvam M <hi rend="i">t</hi> semper duplam esse rectae <hi rend="i">c f</hi>, quam in schemate Miloniano<note n="#3"/> punctis signavi, nempe si <hi rend="i">tf</hi> fuerit parallela basi AL. Quae tamen non eò refero ut diligentiam studiumque viri mihi amicissimi apud te elevem, sed ut nostri quoque
+simul tibi rationem reddam. Si quando hîc te videre contigerit alia quoque quae de eadem curva investigavi tibi exhibebo, nempe qua ratione centrum gravitatis tum spacij ab ipsa comprehensi tum lineae ipsius ejusque partium repererim. In presentia illud tantum hîc adjiciam qualenam inventum meum fuerit circa parabolam, alteram eorum de quibus anno ab hinc et amplius te certiorem feci<note n="#4"/>, sed unum
+<figure><graphic url="huyg003oeuv02ill124.gif"></graphic></figure>
+duntaxat explicui, nempe de conoidis parabolici superficie. Quum verò illud quod hactenus penes me continui, etiam Auzotio obvenisse ex Milonij epistola intelligam<note n="#5"/>, non ultra profecto premendum censeo: Atque equidem tale quid metuens opportunè admodum Domino <persName>Carcavio</persName>, ante hebdomadas aliquot illius copiam<note n="#6"/> feci. Est autem hujusmodi. Data parabolae portione recta, ABC, quam in termino basis contingat recta AD, axi producto occurrens in D; si statuatur recta EF dupla dictae AD; EG vero aequalis basi AC; describaturque hyperbola MGN, cujus dimidium latus transversum sit EG, diameterque à centro ad basin pertingens EF. ponatur verò portioni hyperbolicae MGN aequale esse parallelogrammum super eadem basi consistens, HN; cujus latus basi oppositum secet rectam EF in L. Dico abscindi rectam LE aequalem curvae parabolicae ABC. Unde vides etiam contra, si huic recta aequalis detur, hyperbolae portionem quadrari. De superficiebus sphaeroidum, et conoidis etiam hyperbolici, antehac puto tibi me descripsisse quae inveneram. Quod si secus fuerit mittam cum volueris. Aequum enim est, cum libris integris tua nobis inventa elargiaris ut etiam eorum in quae nos subinde incidimus particeps fias. Vale Schoteni Clarissime et Milonij demonstrationes ubi legeris quaeso mihi remitte. Scribe
+etiam an ex Gallia <persName key="hudd002">Huddenius</persName> jam reverterit. Epistolas ipsius editas<note n="#7"/> a Domino <persName>de Wit</persName> commodato accepi in quibus praeclara multa.</p>
+<div type="closer">
+<p><date>7 Febr. 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

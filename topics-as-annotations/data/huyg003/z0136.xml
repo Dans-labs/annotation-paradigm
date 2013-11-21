@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0136"/>
+<meta type="date" value="1652-11-30"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0136">
+<div type="opener">
+<p>Illustris ac Generose Domino, Domine ac Patrone colendissime. Salutem â Domino et obsequia mea paratissima.</p>
+</div>
+<p>Errant qui negant amorem in ignotis esse. Jn me id sentio; ignotum et inuisum te amo, Clarissime Juuenis, et amaui iam tum ex quo libellum tuum uidi, Theoremata, inquam, Tua de quadratura hyperboles et partium circuli ex dato portionum centro grauitatis, ingeniosissimè concinnata. De his si quaeris quid sentiam; fatebor ingenuè; dixi ilico: si in uiridi ligno haec faciunt, in arido quid fiet? Videbantur enim mihi eiusmodi Theoremata Geometricam etiam canitiem non dedecere, quae Tu in uiridi etiamnum aetate feliciter inuenisti. Hinc est ingens illud desiderium, quo hactenus, ut aliquid ad te literarum darem, stimulabar, ut qui aetate non multum abludimus, et ijsdem mathematum studijs delectamur, alternâ literarum communicatione fiamus notiores. Accedit Viri summi, et Clarissimi Geometrae Reverendi Patris Gregorij â Sancto Vincentio Tui apud me mirifica commendatio, cuius amorem per iudicium tuum de prima illius quadratura maximoperè tibi conciliâsti. Placet et mihi scriptum illud Tuum inquantum quadraturam concernit, sed (pace Tuâ dixerim) non in totum; quia uideo in alium te scopum, quàm in quem tendit Author, collimare. Putas enim (ut ex prologo Tuo apparet) Patrem Gregorium primam quadraturam omnibus alijs potiorem iudicare; cum tamen in illa potius quadraturae possibilitatem ostendere, quam defactò illam exhibere conetur. Dum enim in prima quadratura assumit 6 quantitates, quarum quatuor priores AB, CD sunt rectilineae, duae verò posteriores EF circulares, et ostendit rationem primarum AB toties continere per multiplicationem
+<figure><graphic url="huyg003oeuv01ill88.gif"></graphic></figure>
+rationem secundarum CD, quoties eadem ratio secundarum CD continet rationem Tertiarum EF; dum, inquam, hoc ostendit Author, non est mens ipsius exhibere re ipsâ numerum aliquem, qui indicet, quoties ratio inter primas quantitates AB per multiplicationem contineat rationem inter secundas CD (id enim apparet esse impossibile ex ipso discursu ex quo propositionem illam deducit) ut exinde sciatur, quoties ratio secundarum CD contineat rationem inter tertias quantitates EF: sed totus solummodo discursus eò tendit, ut ostendat ui discursûs positi sex illas quantitates ita se habere, ut proprietas, quae conuenit rationi repertae inter primas quantitates AB relatae ad rationem inter secundas CD, etiam conueniat rationi inter secundas CD, relatae ad rationem inter tertias EF repertam: adeóque cum tertiae quantitates sint circulares, possibilem esse proportionem curui ad rectum. Hic, si bene mentem Patris Gregorij ex literis ad me datis intellexi, scopus est primae quadraturae. Posteriores discursu faciliori rem uidentur conficere, ad quarum tamen ultimatum intentum non facilè quis peruenerit. Ego secundam in ordine praeterlapso anno coepi discutere, quae ipso authore teste caeteris est facilior, cuius quidem intentum et ordinem, nisi fallor assecutus sum, sed in uno etiamnum haereo, quò minus assensum toti discursui praebere possim. Caeterum, quidquid sit de quadratura, tanti opus Geometricum aestimandum puto, quanti uix ullius Geometrae, quem hactenus uidit Orbis: et mecum ita sentiet, qui plus ueritati uolet tributum, quàm propriae praepostero aliquo affectu praeconceptae opinioni. Haec habui, Illustris et Clarissime iuuenis quae primis his meis ad te scribenda esse iudicaui: Tu primae magnitudinis sidus huius aeui, si dignum me habes quem redames, quemque rebus tuis et studijs (Geometrica intelligo Theoremata, quae ingeniosissima audio
+habere te concinnata) participes, in coelo me collocabis nouâ Apotheosi, sentiesque uicissim me ad nutos etiam tuos propensissimum.</p>
+<div type="closer">
+<p>Dabam <placeName key="praag001">Pragae Boëmorum</placeName> <date>30 Nouembris 1652</date>.</p>
+<p>Illustris et Generosae Dominationis Tuae Servus paratissimus M. <persName key="kinn013">Godefridus Aloysius Kinner à Löwenthurn</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Illustri ac Generoso Domino, Domino <persName key="huyg003">Christiano Hugenio</persName> etc. Mathematum eximio cultori. Domino ac Patrono mihi colendissimo, obseruandissimoque.
+<lb/><placeName key="denha004">Hagam Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1399"/>
+<meta type="date" value="1665-04-24"/>
+<meta type="sender" value="thev001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1399">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 24 Auril.</p>
+</div>
+<p>Ie suis asseuré dauoir le traité<note n="#1"/> de Roberual que ie vous ay promis et cependant Ie ne le trouue point. I'attens que le frere de feu Monsieur Milon soit a paris
+pour le faire copier sur le Manuscrit quil en a. Iay bien de la confusion de ce que vous le receures si tard mais encores vaut il mieux la confesser que d'augmenter la faute par le silence.</p>
+<p>Lors que Monsieur Auzout eut fait son Ephemeride<note n="#2"/> il voulut que lon ecrivit la pensée que lon en auoit a cause que de son costé il faisoit le meme, dans mon billet Ie marquay que lopinion de <persName key="kepl901">Kepler</persName> sembloit la plus vraysemblable mais que Je ne croyois pas auec celle que lon peut faire dephemeride dvne comete sur trois obseruations des premiers Jours comme il disoit auoir fait la siene. vous me fistes lhonneur sept ou huit jours apres de mecrire vostre sentiment. Je ne luy communiquay point vos determinations sur la distance &amp; a cause quil me dit quil nauoit pas encore rien darresté sur ces points et que vous me prescriuies de ne luy point monstrer cette partie de vostre lettre quil ne s'explique en mesme temps, il nous dit ce quil en pensoit. il ne croit pas maintenant que sa Methode soit generalle et trouue quelle ne luy reussit pas dans cette comete quoyquil en ait donné vne ephemeride.</p>
+<p>Nous auons pris l'occasion du froid des mois passés et nous nous sommes apliques a faire des anatomies et a examiner la Generation des animaux. Jespere vous en enuoier bien tôt quelque chose.</p>
+<p>Jattens que le pendule pour Monsieur de Carcaui<note n="#3"/> soit arriué et aussy de scauoir de vous Monsieur si vous aues ecrit en francois le discours<note n="#4"/> de la maniere dont on sen doit seruir. Car autrement si je croiois que cela fut de vostre seruice et que vous fussies bien aise que la chose se publie icy Ie prenderois le soin de la traduction tousiours Ie vous remercie de lexemplaire que vous m'en auez enuoié et ce que vous auez marqué a Monsieur Chapelain de l'auersion<note n="#5"/> que quelques vns ont pour les longitudes doit estre vne nouuelle raison de les faire aimer des autres. nous sommes icy persuades la dessus comme vous le pouues souhaiter. soies le Monsieur que vous n'auez personne qui sinteresse plus dans tout ce qui vous touche que moy ny qui vous soit plus deuoué.</p>
+<p>Laffaire de nostre Academie<note n="#6"/> nest pas si desesperee que nos academistes le croient.</p>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Chr. Hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

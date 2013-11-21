@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2432"/>
+<meta type="date" value="1686-09-08"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2432">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> à l'Observatoire le 8 Sept. 1686.</p>
+<p>Monsieur</p>
+</div>
+<p>Jay pris beaucoup de soin a ramasser tous les manuscrits des Mathematiciens de nostre Academie ce qui auoit esté dispersé dun costé et d'autre apres leur mort, et en les parcourrant i'y ay trouué plusieurs petits traittez et propositions particulieres qui m'ont paru tres dignes d'estre données au public. le desir de conseruer ces ouurages a la posterité ma fait en mesme temps auoir une pensée plus generale qui est de ramasser des registres de nostre compagnie toutes les propositions de Mathematique et de Physique qui y ont esté inserées et de nen faire qu'un seul corps sous le nom de Collections Mathematiques et Physiques, puisquaussi bien ie ne uoy pas qu'on soit presentement en disposition de faire imprimer nos registres comme nous aurions souhaitté. Et ensin apres plusieurs sollicitations iay obtenu de Monsieur de Louuois la permission de faire imprimer ce recueil<note n="#1"/> a l'imprimerie royale du louure dans un infolio mediocre de mesme grandeur que celuy des uoyages d'Vranibourg<note n="#2"/>, Cayenne<note n="#3"/> &amp;c. mais comme ie trouue dans les Registres plusieurs propositions de Mathematique et de Physique que uous y auez données, i'ay cru ne deuoir pas prendre la liberté d'en faire aucun choix pour les imprimer que celuy que uous uoudrez bien me marquer et mesme auec les additions ou changemens que uous uoudrez y faire, et
+si mesme uous auez quelques petits traittez que uouliez bien y joindre lesquels ne pourroient pas faire un uolume complet, i'auray un tres grand plaisir de les inserer dans cet ouurage en la maniere que uous uoudrez me les enuoyer. Je suis si persuadé que tout ce qui uient de uous est excellent que iespere que ce sera une des plus belles parties de ce recueil.</p>
+<p>On ne nous a point donné de suiets nouueaux dans l'academie si ce n'est Mr. <persName key="thev001">Theuenot</persName> qui y remplit la place de Mr. <persName key="carc010">de Carcaui</persName>, et un Anatomiste habil homme, ainsi uous uoyez Monsieur que par la mort de Mr. <persName>Blondel</persName><note n="#4"/> le nombre
+des Mathematiciens est fort petit. Mr. <persName key="auzo011">Auzout</persName> ayant desesperé d'y rentrer<note n="#5"/> est allé passer le reste de ses iours a Rome. Il ne faut pas que uous uous estonniez si uous n'auez pas encore uû les uoyages d'Vranibourg, de Cayenne des costes de france<note n="#6"/> etc. car on a resolu d'y joindre les Ephemerides des 5 Satellites de saturne et un systeme de la lumiere qui paroit proche le soleil<note n="#7"/> ce qui n'est pas encore imprimé. Toute nostre compagnie a esté tres faschée d'apprendre que uostre santé ne uous permettoit pas de reuenir en france<note n="#8"/>, uous deuez estre persuadé que pour mon particulier jen ay eu un tres sensible regret puis que uous scauez combien ie uous estime, et que ie suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="hire005">De la Hire</persName>.</p>
+</div>
+<p>Si uous uoulez bien me faire reponse et menuoyer quelque chose, il ny a qua mettre le tout a la poste et laddresser simplement a Mr. <persName key="chap019">de la Chapelle</persName><note n="#9"/> Controlleur des bastimens du Roy dans la cour du Palais de Paris, sans aucune autre addresse. iay commencé par quelques ouurages de Mr. <persName key="fren024">Frenicle</persName> et <persName key="robe012">Roberual</persName><note n="#10"/> qui moccuperont 5 ou 6 mois.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName> A la Haye. Hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

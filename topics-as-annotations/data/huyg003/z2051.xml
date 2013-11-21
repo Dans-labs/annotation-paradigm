@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2051"/>
+<meta type="date" value="1675-08-28"/>
+<meta type="sender" value="nyer010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="fonta901"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2051">
+<div type="opener">
+<p>a fontainnebleau le 28 aoust.</p>
+</div>
+<p>Je ne fis point responce Monsieur a la lettre que vous me fistes lhonneur de m'escrire<note n="#2"/> en m'enuoyant la montre du Roy parce que ie voulois pouuoir uous mander comment sa maiesté s'en trouueroit. Je la luy donnay des le soir mesme et depuis ce temps la elle ne sest point arrestée. elle a un peu retardé d'abord mais ie me suis seruy des leçons que uous m'auiés données pour l'auancer et a present elle est d'une fort grande iustesse. on estoit tellement accoustumé Monsieur a uous uoir produire des choses extraordinaires que cette derniere icy n'a nullement surpris et n'a fait que <seg org="consirmer" resp="#WR" type="corr">confirmer</seg> tout le monde dans l'opinion qu'il auoit de uous. Soyés je uous prie persuadé que parmy tous les gens qui rendent iustice à uostre merite il n'y a personne qui uous honore si parfaittement ny qui soit plus ueritablement que moy</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="nyer010">De Nyert</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huguents</persName> A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

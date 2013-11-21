@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2585"/>
+<meta type="date" value="1690-05-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hire005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2585">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>A Mr. <persName key="hire005">de la Hire</persName> le 4 Maj. 90. Que mes Exemplaires sont arrivez a l'Isle. rien de longtemps. Angleterre. Paquet<note n="#1"/>, s'il est de luy ou <persName>Perrault</persName> ou quelqu'autre. Mr. <persName key="newt011">Newton</persName>, Obscuritè de son livre. mon livre de la lumiere. de la Pesanteur addition. Epagnol. libraires vu ses Tables. il fait ce que j'avais tousjours souhaitè pour les fixes. Il sera beau des Planetes avec les anomalies sans hypotheses<note n="#2"/>.</p>
+<p>J'ay entendu parler de quelque opposition. N'aurons nous pas la Theorie des Joviales de Mr. <persName key="cass021">Cassini</persName>?</p>
+<p>Flamsteed m'a dit qu'il s'y sert de l'équation qui procede du temps qu'emploie la Lumière selon Mr. <persName>Romer</persName>. <persName>Perrault</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

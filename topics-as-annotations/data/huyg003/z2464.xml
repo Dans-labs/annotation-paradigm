@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2464"/>
+<meta type="date" value="1687-06-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="alen021"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2464">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>1687. 20 Juin. Envoié a Mr. <persName>Dalencè</persName> pour faire tenir a Paris a Mr. <persName key="chap019">de la Chapelle</persName> les copies de mes Traitez suivants pour estre imprimez a Paris<note n="#3"/>.
+<lb/>Demonstratio Regulae de Maximis et Minimis.
+<lb/>Regula ad Inveniendas tangentes Linearum curvarum.
+<lb/>Constructio loci ad Hyperbolen per Asymptotos.
+<lb/>De la cause de la pesanteur.
+<lb/>De potentijs fila funesve trahentibus.
+<lb/>Demonstration de l'Equilibre de la Balance.
+<lb/>Nouvelle force mouvante par le moyen de la poudre a Canon.
+<lb/>En envoiant la dioptrique<note n="#4"/>, mettre au devant que je l'ay lue a l'assemblee en 1679.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

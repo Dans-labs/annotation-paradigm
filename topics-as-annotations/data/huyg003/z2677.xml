@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2677"/>
+<meta type="date" value="1691-04-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2677">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> 21 Avril 1691.</p>
+<p>Monsieur</p>
+</div>
+<p>N'ayant pas eu jusqu'icy de response à ma lettre du 26. du mois passè<note n="#3"/>, que je vous adressay par la voie de Mr. <persName>Meyer</persName><note n="#4"/>, j'escris celle cy pour scavoir si elle vous a estè rendue, ou si peut estre cette entremise aura moins bien reussi que la voie directe de la poste dont je me suis servi auparavant. J'espere du moins que ce n'est pas vostre indisposition qui est cause de ce retardement, car j'en serois incomparablement plus fachè que de la perte de ma lettre. J'y repondis à tous les articles de la vostre du 20/30 Fevrier. Je vous remontray la necessitè du chifre pour pouuoir connoitre ce qu'un chacun auroit trouvè au sujet du Probleme de Mr. <persName key="bern071">Bernoulli</persName>, et j'adjoutay mon chifre second, contenant quelque chose de plus que le premier; auquel second je m'apperçus incontinent apres, que j'avois laissè glisser deux fautes, l'une au nombre 5, qui finit par <hi rend="i">r c i v a c c e c d</hi>, où au lieu des lettres <hi rend="i">r c i v</hi> il ne faut que <hi rend="i">a</hi><note n="#5"/>. L'autre à l'article premier, qui n'est pas nombrè, où j'avois oubliè d'adjouter à la fin ces lettres <hi rend="i">d a i f e c p</hi><note n="#6"/>. Ce n'estoit icy qu'une omission, et l'autre un abus d'avoir pris une lettre pour une autre au calcul Algebraique. Et je corrigeay l'un et l'autre dans un pareil chrifre que j'envoyay le jour d'apres à un autre de mes amis<note n="#7"/>. J'y ay encore adjoutè depuis à la fin ce que contienent ces lettres <hi rend="i">v d d c g a a i p c p</hi><note n="#8"/>, et si je voulois resver d'avantage à cette question, j'y ferois peut-estre encore de nouvelles decouvertes, ne pouvant pas m'assurer qu'il n'y ait plus rien à trouver.</p>
+<p>Mr. <persName key="duil010">Fatio</persName> est encore icy, et m'a communiquè<note n="#9"/> sa methode au Probleme des Tangentes renversè, à la quelle il adjoute de jour en jour quelque chose à l'occasion des dissicultez et des doutes que je luy propose. Cette speculation à une grande etendue et nous fournira encore pour longtemps matiere d'exercice. Il faudra voir s'il y aura moien de demesler cette partie où il y a des racines composées à la soutangente donnée, où vous m'avez fait voir que vous estes bien avancè, et qui me paroit la plus considerable. Mais la quantitè d'autres points qu'il y a à resoudre, nous a empeschè jusqu'icy d'entreprendre cette recherche<note n="#10"/>.</p>
+<p>Je ne scay, Monsieur, si vous avez vu la Theorie de la Pesanteur de M. Varignon<note n="#11"/>
+qui ne me satisfoit point du tout. Item les <hi rend="i">Quaestiones Alnetanae</hi><note n="#12"/> de Mr. <persName>Huet Evesque d'Avranches</persName>, où il y a beaucoup d'erudition, et non pas tout à fait autant de soliditè de raisonnement<note n="#13"/>. Il traite <hi rend="i">de statuendis limitibus Rationis et Fidei</hi>. matiere, comme vous scavez, tres difficile. Je vous supplie de faire response à celle cy et de me croire inviolablement etc.</p>
+<p>P.S. Je n'ay remarquè que depuis fort peu le Paralogisme de Mr. <persName key="tsch002">de Tschirnhaus</persName>, là où il propose, dans les Acta de l'an 1682 sa fausse construction de la courbe par reflexion du miroir concave<note n="#14"/>. Il paroit clairement qu'en ce temps là il ne connoissoit pas encore cette ligne, ni la maniere generale, dont il s'y vante, pour determiner ces lignes dans d'autres figures, et il est fort vraisemblable qu'il n'a appris la veritable construction que par ce que j'en ay donnè dans mon Traite de la Lumiere.</p>
+</div>
+</body>
+</text>
+</TEI>

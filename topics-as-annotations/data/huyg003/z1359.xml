@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1359"/>
+<meta type="date" value="1665-03-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1358"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1359">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Remerciment d'avoir fait expedier promptement et gratuitement ledit privilege<note n="#1"/>.</p>
+</div>
+<div type="opener">
+<p>A Monsieur <persName key="colb012">Colbert</persName>.</p>
+<p>26 Mars 1665.</p>
+<p>Monseigneur</p>
+</div>
+<p>Mon Pere m'ayant fait scavoir comme il avoit pleu au Roy de luy accorder liberalement le Privilege qu'il avoit demandè a Sa Majestè en mon nom, pour l'usage des montres a Pendule sur mer, et comme en suitte vous aviez eu la bontè de luy en faire avoir la depesche presqu'en mesme temps qu'il vous en avoit fait prier, et de la maniere la plus obligeante qu'on eust pu souhaiter, je croirois pescher contre mon devoir, si je ne taschois de vous tesmoigner par ces mots le ressentiment que j'ay de faveurs si signalees. Vous avez fait agir ensemble en ma faveur et vostre authoritè Monseigneur, et vostre bonne volontè pour moy, dont desia par cy devant j'ay plus d'vne fois esprouvè les effects; et puis que l'une et l'autre contribuent sans cesse a mon bonheur, je ne l'aimerois pas moy mesme, si je ne faisois des voeux pour vostre prosperitè et grandeur, et si je ne taschois par tous moyens de me conserver la part qu'il vous a pleu me donner dans vos bonnes graces. Je vous supplie Monseigneur de croire que je n'estime aucun bien plus precieux que celuy la, et que je suis avec tout respect</p>
+<div type="closer">
+<p>Monseigneur</p>
+<p>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

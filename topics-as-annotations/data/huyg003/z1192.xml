@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1192"/>
+<meta type="date" value="1663-12"/>
+<meta type="sender" value="auzo011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1192">
+<p>Monsieur Hugens est supplié damener aucc luy a deux heures son petit chirurgien<note n="#2"/> auec les jnstrumens necessaires pour erater vn chien ou deux &amp; pour
+montrer les Glandules Saliuaires de Warthon<note n="#3"/> dans vne teste de beuf ou de veau, ou de lenuoier chez Monsieur de Montmor sil ny peut pas venir parceque nous ne pouuons pas faire auiourdhuy les experiences de chymie que lon auoit resolues. nous en ferons aussi quelques vnes dans la machine si elle va vien<note n="#4"/> &amp; jenuoie chez Monsieur Petit afin quil aporte son miroir de refraction pour voir si nous pourrons faire celle de la Pastille. il faut tacher doccuper les assemblées a ce recommencement et ie croy Monsieur que vous prendrez plaisir dy contribuer</p>
+<p>cest votre tres obeissant serviteur</p>
+<div type="closer">
+<p><persName key="auzo011">Auzout</persName>.</p>
+</div>
+<p>Nous pourrons aussy faire la dissection dun eil de beuf pour tacher de voir si lon peut se passer de cristallin comme quelques vns croient.</p>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

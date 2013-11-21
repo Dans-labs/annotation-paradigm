@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0409"/>
+<meta type="date" value="1657-04-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0408"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0409">
+<div type="opener">
+<p lang="la"><persName key="huyg003">Christianus Hugenius</persName> Clarissimo Viro Domino <persName key="scho197">Francisco Schotenio</persName> S.D.</p>
+</div>
+<p>Cum in editione elegantissimorum ingenij tui monumentorum, quam prae manibus nunc habes, Vir Clarissime, id inter caetera te spectare sciam, ut varietate rerum, quarum tractationem instituisti, ostendas quàm latè se protendat divina Analytices scientia, facilè intelligo etiam illa plurimum proposito tuo inservire posse, quae de aleae ratiocinijs conscripsimus; quanto enim minus rationis terminis comprehendi posse videbantur, quae fortuita sunt atque incerta, tantò admirabilior ars censebitur, cui ista quoque subjacent.</p>
+<p>Quare cum in tui gratiam primum illa exponenda susceperim, tuque digna existimes, quae simul cum subtilissimis tuis inventis in lucem exeant, adeò tibi non refragabor, ut etiam è re mea esse existimem hâc potissimum ratione ipsa in manus hominum pervenire. Quippe cum in re levi ac frivola operam collocasse videri alioqui possem, non tamen prorsus utilitatis expers ac nullius pretij censebitur, quod tu veluti inter tua adoptaveris, nec sine multo labore è vernacula lingua nostra in Latinam converteris. Quanquam, siquis penitius ea quae tradimus examinare coeperit non dubito quin continuò reperturus sit rem non ut videtur ludicram agi, sed pulchrae subtilissimaeque contemplationis fundamenta explicari. Et Problemata quidem quae in hoc genere proponuntur, nihilo minus profundae indaginis visum iri confido, quàm quae Diophanti libris continentur, voluptatis autem aliquanto plus habitura, cum non, sicut illa, in nuda numerorum consideratione terminentur. Sciendum verò, quod jam pridem inter praestantissimos totâ Galliâ Geometras calculus hic agitatus fuerit, ne quis indebitam mihi primae inventionis gloriam hac in re tribuat. Caeterum illi, difficillimis quibusque quaestionibus se invicem exercere soliti, methodum suam quisque occultam retinuêre, adeò ut à primis elementis universam hanc materiam evolvere mihi necesse fuerit. Quamobrem ignoro etiamnum an eodem mecum principio illi utantur; at in resolvendis Problematis pulchrè nobis convenire saepenumero expertus sum. Horum Problematum nonnulla in fine operis addidisse me invenies, omissa tamen analysi, cum quòd prolixam nimis operam poscebant,
+si perspicuè omnia exequi voluissem, tum quòd relinquendum aliquid videbatur exercitationi nostrorum, si qui erunt, Lectorum. Vale.</p>
+<div type="closer">
+<p lang="la">Dat. <placeName key="denha004">Hagae Com.</placeName> <date>27 Apr. 1657</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

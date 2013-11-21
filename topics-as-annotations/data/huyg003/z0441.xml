@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0441"/>
+<meta type="date" value="1657-12-24"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0441">
+<div type="opener">
+<p><note n="#1"/><note n="#2"/> Nobilissime Domine</p>
+</div>
+<p>Quanquam iam ad te perlatas arbitrer litteras meas 18 huius datas<note n="#3"/>, quibus auidè responsum expecto, tamen acceptis postremis tuis, remittere noluj, quin voluptatem quam ex ijs coepi maximam tibj significarem, ac etiam de reipsa pauca dicerem: hoc tantum praefatus me Dominum Huddenium iam ex Lectionibus vltimis Clarissimi Scotenij nouisse, et opinionem quam de eius ingenio et doctrina praesumpseram, auctam, nedum confirmatam ijs speciminibus quae ad me misistj. Incipiam autem ab eo quod me causatum dicis tertiam ipsius curuam ex aliorum inuentis pendere, quod quomodo intellexerim vberius exponam vt quid <hi rend="i">γραμμῆς ἀτελῶς</hi> nomine indicatum voluerim penitius innotescat. sit curua AFGA circa axem AG, in qua sumpto quolibet puncto F ductâque normali FE (sj in terminis analyticis AG
+<figure><graphic url="huyg003oeuv02ill54.gif"></graphic></figure>
+sit <hi rend="i">a</hi>, AE <hi rend="i">x</hi>, FE <hi rend="i">y.</hi>) habeatur haec aequatio <hi rend="i">ay</hi> + <hi rend="i">yy</hi> ∞ <hi rend="i">ax - xx.</hi> Aio hanc curuam AFGA <hi rend="i">ἀτελῆ γραμμήν</hi> esse, compactam nempe ex duobus arcubus aequalibus eiusdem circulj, quos AG latus quadratj inscriptj subtendit, vt facile animaduertis. Nunc esto parabola altioris generis, cuius vertex A axis AO applicentur autem in angulo semirecto quaelibet OG QF,
+<figure><graphic url="huyg003oeuv02ill55.gif"></graphic></figure>
+quarum quadrato-quadrata sint inter se vt cubj OA AQ, et subtendatur AG angulo pariter semirecto parabolae occurrens in G. Aio hanc curuam AFG esse tertiam Domini Huddenij; quam eâdem quâ priorem ratione <hi rend="i">γραμμὴν ἀτελῆ</hi> esse pronuntiauj. Non quod eius cognitio ex aliorum inuentis pendeat, hoc enim illj est cum caeteris et cum mea comune, sed quod eam esse vnius parabolarum infinitarum segmentum, ab vtraque parte rectae AG replicatum, vel ex ipsâ aequatione innotescat. Quod an ad Te scripserit libenter intelligerem. fateor interim ingenue meam non ex his Domini Huddenij, sed simplicioribus principijs a me deductam esse, nec antequam a Te morerer, primae illius aut secundae (saltem, quo explicat modo) comunem cum meâ originem agnouisse; jdeoque me non mediocriter laetatum, quod nouam, ad earum dimensionem viam aperire visus sit. Sed ne acutis et ingeniosis meditationibus tuis
+praeiuditium afferre videar, supersedebo vlterius in primam illam quam <hi rend="i">ἀτελῆ</hi> pariter esse professus sum inquirere: plura de eadem ac meâ communique earum origine dicturus cum a Te responsum accepero. <hi rend="i">Duo tantum addo. Vnum est</hi>, vrgendum esse Doctissimum Huddenium, vt centrum gravitatis quod a nobis exegit ipse in primâ determinet. Non enim satis apparet quomodo illud in curuâ paraboloide FAN
+<figure><graphic url="huyg003oeuv02ill56.gif"></graphic></figure>
+inuenirj possit, ex dato centro (quod iam repereram) curuae OAFQ, vt recte animadvertistj. <hi rend="i">Alterum est me has omnes curuas</hi>, <hi rend="i">ipsumque adeo locum linearem integrum nihil pene facere</hi>, <hi rend="i">prae inuento hoc tuo</hi>, <hi rend="i">quo superficiej in conoide parabolico rationem ad circulum suae basis demonstrastj. Hanc pro circulj quadraturâ pulcherrimam ἀπαγωγὴν</hi>, <hi rend="i">prefero libenter ijs omnibus quas ex loco lineari nec paucas olim deduxj; et quas tecum sj ita iusseris</hi>, <hi rend="i">datâ occasione communicabo.</hi> Gratulor interim Saturnum legibus tuis obtemperare. Et quoniam nunc Saturnalia sunt, si me libertate decembrj iocarj permittis, Te fabuloso illo Joue antiquitatis aliquid amplius prestitisse assero, qui eum nunquam ita constringere potuit, quin euaderet. Diu est ex quo Româ nihil accepj. Itaque vererj cogor ne quid secus acciderit Viro optimo et doctissimo<note n="#4"/>; quod me male haberet. eum a paucis septimanis iterum monuj, et sj quid rescribet fies a me certior. Vale vir eximie meque vt facis ama</p>
+<div type="closer">
+<p>Tibj addictissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leody</placeName> <date>24 10bris 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1762"/>
+<meta type="date" value="1669-09-20"/>
+<meta type="sender" value="nona011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1762">
+<div type="opener">
+<p>Paris 20 Septembre 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Me trouvant icy a Paris, je n'eus pas si tost sceu que vous y fasfiez sejour et l'estime que le Roy fait de vostre Merite, que j'y pris bien de part, et ne manquay d'aller chez vous. Ou j'appris de Monsieur de Carcavy que par malheur vous estiez absent<note n="#1"/>. J'ay eu l'honneur de vous voir il y a longtemps, estant avec feu Monsieur Gutschovius a la Haye<note n="#2"/>, et je suis avec grand desir de reprendre la bonne connoissance et de nous entretenir touchant la Verité, a laquelle je me tiens tousjours, et ou chez moy vous estez en grande consideration. Je serois ravy de vous voir et j'espere que par votre response j'apprendray le tems de vostre retour en cette ville, apres lequel attendant avec impatience, je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble serviteur <persName key="nona011">De Nonancourt</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huijghens</persName>.
+<lb/>cito
+<lb/>cito</p>
+</div>
+</body>
+</text>
+</TEI>

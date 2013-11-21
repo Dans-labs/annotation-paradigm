@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0376"/>
+<meta type="date" value="1657-03-13"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0376">
+<div type="opener">
+<p>Clarissimo Viro Juveni Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.P.</p>
+</div>
+<p>Gratias tibi ago, Vir Clarissime, pro epistola à Milonio ad me missa, quam tuâ curâ absque ullo vectigali accepi, in qua deprehendo eum Constructionem meam examini suo subjecisse, de quo gaudeo plurimum quò ipsi etiam ratio constet, cur in perficiundis reliquis casibus Methodi Domini de Pailleur utrumque nostrum minus propensum invenerit. Scrupulum suum mihi objectum à te rectè exemi deprehendo, quandoquidem non solum aequatio quadrato-quadrata à Mylonio allata per <hi rend="i">z - p</hi> dividi potest, sed etiam illae omnes, quae à constructione mea dependent per <hi rend="i">z</hi> + vel - <hi rend="i">p</hi> ∞ 0 dividi queunt. Constructionem autem ipsam quòd eam supra Cartesij constructionem extollas, non video, cum illius in genere tam aequationibus quadrato-quadratis, quàm cubicis inserviat, postquàm 2<hi rend="sup">dus</hi> terminus est sublatus; haecque mea non nisi in construendis cubicis solis locum habeat, atque insuper haec mea cum illa sua tantum unam simul constructionem facere videatur, propter affinitatem quam inter se habere perspexi. Porrò litteras quas Mylonio destinavi ubi perlexeris, rogo eas clausas ad ipsum transmitti curare velis, unà cum responso meo ad Fermatij quaestiones de partibus aliquotis, si illud videre desideret, aut tibi id visum fuerit. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>13 Martij 1657</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

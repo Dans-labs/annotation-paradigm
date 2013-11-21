@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2062"/>
+<meta type="date" value="1675-10-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2062">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 12 oct. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a longtemps que j'aurois envoiè a Milord Brouncker la montre que vous m'avez demandée de sa part, si ce n'avoit estè que je souhaite de luy envoier quelque chose de meilleur que n'est la premiere de cette façon. Je trouue depuis que plusieurs horlogeurs ont commencè a travailler a cette invention, qu'elle se perfectionne de plus en plus et particulierement en ce qui regarde le contrecoup par le quel on pourroit arrester ces montres. Car on en fait maintenant ou ce defaut est entierement ostè sans que cela nuise a la justesse, au moins a ce que disent ceux qui en ont essayè, car je n'en ay pas pu avoir encore a ma disposition. J'en feray depescher une pour Milord Brouncker de cette derniere façon, le plus tost que je pourray, mais il faudra encore chercher moyen pour la luy faire tenir. En escrivant celle cy voilà une autre lettre<note n="#1"/> qui m'arrive de vostre part par la quelle vous en demandez encore une demi douzaine, ce qui me rejouit de ce qu'on s'assure assez de la bontè de cette invention pour hazarder tant a la fois, mais pour en pouuoir avoir des ouvriers il faudra les payer d'avantage que m'a coustè<note n="#2"/> celle que j'ay envoyée, par ce qu'a cause de la nouueauté ils en trouuent facilement le debit et en vendent cent escus la piece quand elles sont d'or. Je tascheray d'avoir celles d'argent pour 100 ℔ lesquelles on vend 10 et 12 louis d'or. Et j'espere que vous ne me suspecterez pas de vouloir profiter des commissions que l'on en donne.</p>
+<p>Si l'on trouve encore que le mouuement du balancier de la montre que j'ay envoyée diminue, il faudra mettre tant soit peu d'huile a ses pivots, car j'ay trouuè que c'en est le remede par ce que le grand mouuement deseche et fait evanouir cette huile. Je crois que, sans rien demonter a l'ouurage on pourroit en fournir de nouuelle a ses pivots.</p>
+<p>Je ne vois pas que je doive me mettre en peine de la comparaison que l'on fera de mes montres avec celle de M. Hook, qui ne fait autre chose que ce que font
+les horlogeurs d'icy, qui est de varier la construction et l'application du ressort qui regle le balancier, ce qui n'est pas difficile apres qu'on l'a vu reussir en une maniere.</p>
+<div type="closer">
+<p>Je suis
+<lb/>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Je vous prie treshumblement de vouloir faire tenir la lettre cy jointe<note n="#3"/> a Mr. <persName>Smetwick</persName>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="olde010">de Grubendol</persName> A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0051"/>
+<meta type="date" value="1648-05-22"/>
+<meta type="sender" value="mers004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0051">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je suis marry de vous auoir enuoyé la duplication du Cube que son auteur pensoit auoir trouuée, et ie me haste de vous escrire que vous n'y trauailliez point, parce que la faute est trop grossiere; le compas l'a trompé, car en esset en ce petit volume qui suit, l'on ne peut y trouuer à redire auec le compas, parce que le Cube <formula>LK</formula> fait sur la ligne <formula>HB</formula> comme costé, n'est point plus petit qu'il ne faut qu'enuiron d'une vintiesme partie d'un cube quadruple du cube <formula>AD</formula>, comme le cube sur le costé <formula>PO</formula> n'est point plus petit que le cube double du cube sur <formula>AB</formula>, que d'enuiron vne centiesme partie.</p>
+<p>Je vous mets icy la mesme [?] figure et construction que l'auteur m'auoit baillé pour l'examiner, et assin que vous puissiez mieux lire l'examen, ie m'en vais vous le faire transcrire.<note n="#1"/></p>
+<p>Il a encore du depuis proposé vne autre construction pour la duplication du cube par le moyen du cercle coupé en certaine facon, s'il en reussit quelque chose de meilleur, ie vous le appranderay; et vous proposeray cependent vn beau probleme dont vous verrez si vous ou Mr. <persName>Pell</persName> le pourront soudre. Car ie n'en ay point encore vû la solution.</p>
+<p><figure><graphic url="huyg003oeuv01ill63.gif"></graphic></figure></p>
+<p>Soit l'helice <formula>AFB</formula> descrite dans le cercle <formula>BCX</formula>, en sorte qu'il y ayt tousiours mesme proportion de la circonference <formula>BCX</formula> à l'arc <formula>BC</formula>, que de <formula>AB</formula> à <formula>FC</formula>, ou que du quarré d'<formula>AB</formula> au quarré de <formula>FC</formula>, ou que du Cube d'<formula>AB</formula> au cube de <formula>FC</formula>, ou bien de telle puissance d'<formula>AB</formula> que l'on voudra à la puissance de du mesme degré de <formula>FC</formula>, donner la regle generale pour trouuer la proportion du cercle <formula>BCX</formula> à l'espace compris de la droite <formula>AB</formula> et de cette helice <formula>AFB</formula>, de quelque degré qu'elle puisse estre.</p>
+<p>Or si vous estes encore à la Haye, lors que vous receurez la presente, ie vous prie de faire auec Mr. vostre pere, que j'aye laissé<note n="#2"/> du canon qu'il m'a promis, car voyla vn tel beau temps pour cet essay, du moins si le ciel est aussi serain et tranquille à la Haye, qu'il est icy depuis 8 ou 10 iours.</p>
+<p>En attendant de vos nouuelles, ie vous diray que si l'on nous tient promesse de Pologne qu'on nous doit icy enuoyer la machine volante en realité tout demontée,
+pour l'examiner, et que si cela arriue, ie vous en envoyeray le modelle. Je suis cependant</p>
+<div type="closer">
+<p>Vostre tresaffectionné seruiteur <persName key="mers004">Mersenne M.</persName></p>
+<p>ce <date>22 May 1648</date>.</p>
+</div>
+<p>Je vous prie d'enuoyer le petit mot icy enfermé au Sr. <persName key="scho197">Scoten</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

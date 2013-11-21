@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1692"/>
+<meta type="date" value="1669-01-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1692">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 5 Janvier 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Quelques affaires extraordinaires et qui n'ont rien de commun avec les sciences m'ont empeschè de satisfaire plustost a ce que je vous avois promis et à la Societè Royale, dont je vous prie de faire mes excuses. Ce que je vous envoye<note n="#1"/> est un
+commencement d'un traitè du mouuement de percussion<note n="#2"/> et la raison pourquoy j'ay choisy de commencer par cette partie du mouuement plustost que par une autre, est l'envie que j'ay de sçavoir le jugement de vos Illustres touchant la maniere de demontrer dont je me sers, qui quoy qu'evidente a moy et à quelques uns de nos Messieurs n'a pu satissaire a d'autres, moins versez dans ces speculations, ou prevenus par d'autres faux principes.</p>
+<p>Vous verrez quelque difference entre la maniere dont j'ay demontrè la premiere proposition et celle dont je me suis servy aux autres, leurs contradictions et disputes m'ayant obligè de chercher toutes sortes de biais pour les convaincre, et la methode de la premiere proposition est celle ou ils ont trouvè le moins a redire. I'en ay voulu envoier de l'une et de l'autre pour savoir si ceux de la Societè Royale seront de mesme avis. Au reste nous avons fait quantitè d'experiences en cette matiere qui confirment tout a fait mes Theoremes, par exemple, que si une boule est triple d'une autre et qu'elles se rencontrent avec pareille vitesse, la grande restera immobile apres le coup, et l'autre retournera avec le double de sa premiere vitesse.</p>
+<p>J'ay sceu de Monsieur Galois que le Journal<note n="#3"/> ou estoit ma response a Monsieur Gregory<note n="#4"/> vous avoit estè rendu. Mais nous n'avons pas eu vostre dernier<note n="#5"/>, Monsieur Galois n'en ayant pas eu d'exemplaire et celuy de Monsieur Justel ayant, je ne scay comment. estè perdu, de sorte que je ne scay de quoy il y est traitè, ni s'il y a quelque chose qui me concerne. Vous aurez s'il vous plait la bontè de m'en envoier un et obligerez beaucoup</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp; tres obeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur <persName key="olde010">Oldenbourg</persName>, Secretaire de la Societè Royale à Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

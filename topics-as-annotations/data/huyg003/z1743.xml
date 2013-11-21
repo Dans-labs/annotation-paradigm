@@ -1,0 +1,1425 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1743"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="1742"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1743">
+<div type="section">
+<head rend="h4">Instructions <hi rend="i">Concerning the Use of</hi> Pendulum-Watches, <hi rend="i">for finding the</hi> Longitude <hi rend="i">at Sea</hi>.</head>
+<p><hi rend="i">Whereas 't is generally esteemed that there is no Practise for the</hi> Finding of the Longitude <hi rend="i">at sea comparable to that of those Watches, which instead of a</hi> Ballance-wheele <hi rend="i">are regulated by a</hi> Pendulum, <hi rend="i">as</hi> now <hi rend="i">they are brought to great perfection, and made to measure time very equally; and many perhaps here as well as elsewhere being not well versed in the ordering and managing of that Instrument: We thought, it might be no un-acceptable service, to make known such Directions, as may teach the Use thereof at Sea. Which we shall doe by now giveing you our Translation of those instructions, which some yeares since were made publick by the Worthy M.</hi> Christian Hugens <hi rend="i">of</hi> Zulechem, <hi rend="i">in the</hi> Belgick <hi rend="i">Tongue</hi>, <hi rend="i">as they</hi>
+<hi rend="i">have been since altered or rather</hi> enlarged <hi rend="i">by two other Eminent Members of the</hi> R. Society.</p>
+<p><hi rend="i">And they are these:</hi></p>
+</div>
+<div type="section">
+<head rend="h4">1.</head>
+<p>Those, that intend to make use of <hi rend="i">Pendulum-watches</hi> at Sea, must have two of them at least; that, if one of them should by mishap or neglect come to stop, or (being by length of time become foul) need to be made clean, there may likely always remaine one in motion.</p>
+</div>
+<div type="section">
+<head rend="h4">2.</head>
+<p>The Person, to whom the Care of these Watches shall be committed, is to informe himself from the Watch-maker or some other, so as to understand the inward parts of the Watches, the manner of winding them up, and how to set the <hi rend="i">Indexes,</hi> or <hi rend="i">Hands</hi>, having the hours, minutes and seconds, <hi rend="i">&amp;c</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">3.</head>
+<p>The Watches on Ship-board are to be hung in a close place, where they may be freest from moisture or dust, and out of danger of being disorder'd by knocking or touching.</p>
+</div>
+<div type="section">
+<head rend="h4">4.</head>
+<p>Before the Watches be brought on ship-board, 't is convenient, they be adjusted to a <hi rend="i">middle</hi> or <hi rend="i">mean</hi> day (of which more in the next <hi rend="i">Section:</hi>) the use of them being then most easy, it being little or no trouble to the Watchmakers, when they have one that is set Iust, to set others accordingly; But yet, if time or conveniency so to doe should happen to be wanting, they may notwithstanding be used at Sea with the like certainty, provided you know, how much they goe too fast or too slow in 24. hours, as in directed in the next Section.</p>
+</div>
+<div type="section">
+<head rend="h4">5.
+<lb/><hi rend="i">To reduce Watches to the right measure of dayes, or to know how much they goe too fast or too slow in</hi> 24. <hi rend="i">hours</hi>.</head>
+<p>Here take notice, that the <hi rend="i">Sun</hi> or the <hi rend="i">Earth</hi> passeth the 12. <hi rend="i">Signes</hi>, or makes an entire revolution in the Ecliptick in 365 days, 5 hours 49 min. or there about, and that those days, reckon'd from noon to noon, are of <hi rend="i">different</hi> lengths; as is known to all that are vers'd in <hi rend="i">Astronomy</hi>. Now between the longest and the shortest of those days, a day may be taken of such a length, as 365 such days, 5. hours <hi rend="i">&amp;c</hi>. (the same numbers as before) make up, or are equall to that revolution: And this is call'd the <hi rend="i">Equal</hi> or <hi rend="i">Mean</hi> day, according to which the Watches are to be set; and therefore the Hour or Minute shew'd by the <hi rend="i">Watches</hi>, though they be perfectly Iust and equal, must needs differ almost continually from those that are shew'd
+by the <hi rend="i">Sun</hi>, or are reckon'd according to its Motion. But this Difference is regular, and is otherwise call'd the <hi rend="i">Aequation</hi>, and here you have a <hi rend="i">Table</hi>, that shows it<note n="#1"/>.</p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell cols="2" role="header"><hi rend="i">Januar.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">Februar</hi>.</cell>
+<cell cols="2" role="header"><hi rend="i">Mar.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">April</hi>.</cell>
+<cell cols="2" role="header"><hi rend="i">Mai.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">Jun.</hi></cell></row>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell></row>
+<row>
+<cell>1</cell>
+<cell>6</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>4</cell>
+<cell>46</cell>
+<cell>14</cell>
+<cell>23</cell>
+<cell>19</cell>
+<cell>25</cell>
+<cell>16</cell>
+<cell>24</cell></row>
+<row>
+<cell>2</cell>
+<cell>5</cell>
+<cell>47</cell>
+<cell>0</cell>
+<cell>2</cell>
+<cell>5</cell>
+<cell>3</cell>
+<cell>14</cell>
+<cell>39</cell>
+<cell>19</cell>
+<cell>28</cell>
+<cell>16</cell>
+<cell>13</cell></row>
+<row>
+<cell>3</cell>
+<cell>5</cell>
+<cell>24</cell>
+<cell>0</cell>
+<cell>4</cell>
+<cell>5</cell>
+<cell>21</cell>
+<cell>14</cell>
+<cell>55</cell>
+<cell>19</cell>
+<cell>29</cell>
+<cell>16</cell>
+<cell>1</cell></row>
+<row>
+<cell>4</cell>
+<cell>5</cell>
+<cell>2</cell>
+<cell>0</cell>
+<cell>8</cell>
+<cell>5</cell>
+<cell>39</cell>
+<cell>15</cell>
+<cell>10</cell>
+<cell>19</cell>
+<cell>29</cell>
+<cell>15</cell>
+<cell>49</cell></row>
+<row>
+<cell>5</cell>
+<cell>4</cell>
+<cell>41</cell>
+<cell>0</cell>
+<cell>12</cell>
+<cell>5</cell>
+<cell>57</cell>
+<cell>15</cell>
+<cell>25</cell>
+<cell>19</cell>
+<cell>29</cell>
+<cell>15</cell>
+<cell>37</cell></row>
+<row>
+<cell>6</cell>
+<cell>4</cell>
+<cell>21</cell>
+<cell>0</cell>
+<cell>16</cell>
+<cell>6</cell>
+<cell>15</cell>
+<cell>15</cell>
+<cell>39</cell>
+<cell>19</cell>
+<cell>28</cell>
+<cell>15</cell>
+<cell>24</cell></row>
+<row>
+<cell>7</cell>
+<cell>4</cell>
+<cell>2</cell>
+<cell>0</cell>
+<cell>21</cell>
+<cell>6</cell>
+<cell>33</cell>
+<cell>15</cell>
+<cell>53</cell>
+<cell>19</cell>
+<cell>26</cell>
+<cell>15</cell>
+<cell>11</cell></row>
+<row>
+<cell>8</cell>
+<cell>3</cell>
+<cell>44</cell>
+<cell>0</cell>
+<cell>26</cell>
+<cell>6</cell>
+<cell>51</cell>
+<cell>16</cell>
+<cell>7</cell>
+<cell>19</cell>
+<cell>24</cell>
+<cell>14</cell>
+<cell>58</cell></row>
+<row>
+<cell>9</cell>
+<cell>3</cell>
+<cell>27</cell>
+<cell>0</cell>
+<cell>32</cell>
+<cell>7</cell>
+<cell>9</cell>
+<cell>16</cell>
+<cell>21</cell>
+<cell>19</cell>
+<cell>21</cell>
+<cell>14</cell>
+<cell>45</cell></row>
+<row>
+<cell>10</cell>
+<cell>3</cell>
+<cell>11</cell>
+<cell>0</cell>
+<cell>40</cell>
+<cell>7</cell>
+<cell>27</cell>
+<cell>16</cell>
+<cell>34</cell>
+<cell>19</cell>
+<cell>18</cell>
+<cell>14</cell>
+<cell>32</cell></row>
+<row>
+<cell>11</cell>
+<cell>2</cell>
+<cell>55</cell>
+<cell>0</cell>
+<cell>48</cell>
+<cell>7</cell>
+<cell>45</cell>
+<cell>16</cell>
+<cell>47</cell>
+<cell>19</cell>
+<cell>15</cell>
+<cell>14</cell>
+<cell>19</cell></row>
+<row>
+<cell>12</cell>
+<cell>2</cell>
+<cell>39</cell>
+<cell>0</cell>
+<cell>57</cell>
+<cell>8</cell>
+<cell>3</cell>
+<cell>16</cell>
+<cell>59</cell>
+<cell>19</cell>
+<cell>11</cell>
+<cell>14</cell>
+<cell>6</cell></row>
+<row>
+<cell>13</cell>
+<cell>2</cell>
+<cell>23</cell>
+<cell>1</cell>
+<cell>6</cell>
+<cell>8</cell>
+<cell>22</cell>
+<cell>17</cell>
+<cell>11</cell>
+<cell>19</cell>
+<cell>7</cell>
+<cell>13</cell>
+<cell>53</cell></row>
+<row>
+<cell>14</cell>
+<cell>2</cell>
+<cell>7</cell>
+<cell>1</cell>
+<cell>16</cell>
+<cell>8</cell>
+<cell>41</cell>
+<cell>17</cell>
+<cell>22</cell>
+<cell>19</cell>
+<cell>2</cell>
+<cell>13</cell>
+<cell>40</cell></row>
+<row>
+<cell>15</cell>
+<cell>1</cell>
+<cell>52</cell>
+<cell>1</cell>
+<cell>26</cell>
+<cell>9</cell>
+<cell>1</cell>
+<cell>17</cell>
+<cell>33</cell>
+<cell>18</cell>
+<cell>57</cell>
+<cell>13</cell>
+<cell>27</cell></row>
+<row>
+<cell>16</cell>
+<cell>1</cell>
+<cell>38</cell>
+<cell>1</cell>
+<cell>37</cell>
+<cell>9</cell>
+<cell>21</cell>
+<cell>17</cell>
+<cell>43</cell>
+<cell>18</cell>
+<cell>51</cell>
+<cell>13</cell>
+<cell>15</cell></row>
+<row>
+<cell>17</cell>
+<cell>1</cell>
+<cell>25</cell>
+<cell>1</cell>
+<cell>49</cell>
+<cell>9</cell>
+<cell>41</cell>
+<cell>17</cell>
+<cell>53</cell>
+<cell>18</cell>
+<cell>45</cell>
+<cell>13</cell>
+<cell>3</cell></row>
+<row>
+<cell>18</cell>
+<cell>1</cell>
+<cell>13</cell>
+<cell>2</cell>
+<cell>2</cell>
+<cell>10</cell>
+<cell>1</cell>
+<cell>18</cell>
+<cell>3</cell>
+<cell>18</cell>
+<cell>39</cell>
+<cell>12</cell>
+<cell>52</cell></row>
+<row>
+<cell>19</cell>
+<cell>1</cell>
+<cell>2</cell>
+<cell>2</cell>
+<cell>15</cell>
+<cell>10</cell>
+<cell>21</cell>
+<cell>18</cell>
+<cell>13</cell>
+<cell>18</cell>
+<cell>33</cell>
+<cell>12</cell>
+<cell>41</cell></row>
+<row>
+<cell>20</cell>
+<cell>0</cell>
+<cell>51</cell>
+<cell>2</cell>
+<cell>28</cell>
+<cell>10</cell>
+<cell>40</cell>
+<cell>18</cell>
+<cell>23</cell>
+<cell>18</cell>
+<cell>26</cell>
+<cell>12</cell>
+<cell>30</cell></row>
+<row>
+<cell>21</cell>
+<cell>0</cell>
+<cell>41</cell>
+<cell>2</cell>
+<cell>42</cell>
+<cell>10</cell>
+<cell>59</cell>
+<cell>18</cell>
+<cell>32</cell>
+<cell>18</cell>
+<cell>18</cell>
+<cell>12</cell>
+<cell>19</cell></row>
+<row>
+<cell>22</cell>
+<cell>0</cell>
+<cell>32</cell>
+<cell>2</cell>
+<cell>56</cell>
+<cell>11</cell>
+<cell>18</cell>
+<cell>18</cell>
+<cell>39</cell>
+<cell>18</cell>
+<cell>10</cell>
+<cell>12</cell>
+<cell>8</cell></row>
+<row>
+<cell>23</cell>
+<cell>0</cell>
+<cell>24</cell>
+<cell>3</cell>
+<cell>11</cell>
+<cell>11</cell>
+<cell>37</cell>
+<cell>18</cell>
+<cell>46</cell>
+<cell>18</cell>
+<cell>1</cell>
+<cell>11</cell>
+<cell>58</cell></row>
+<row>
+<cell>24</cell>
+<cell>0</cell>
+<cell>18</cell>
+<cell>3</cell>
+<cell>26</cell>
+<cell>11</cell>
+<cell>56</cell>
+<cell>18</cell>
+<cell>53</cell>
+<cell>17</cell>
+<cell>51</cell>
+<cell>11</cell>
+<cell>48</cell></row>
+<row>
+<cell>25</cell>
+<cell>0</cell>
+<cell>13</cell>
+<cell>3</cell>
+<cell>41</cell>
+<cell>12</cell>
+<cell>15</cell>
+<cell>18</cell>
+<cell>59</cell>
+<cell>17</cell>
+<cell>41</cell>
+<cell>11</cell>
+<cell>38</cell></row>
+<row>
+<cell>26</cell>
+<cell>0</cell>
+<cell>9</cell>
+<cell>3</cell>
+<cell>56</cell>
+<cell>12</cell>
+<cell>34</cell>
+<cell>19</cell>
+<cell>4</cell>
+<cell>17</cell>
+<cell>30</cell>
+<cell>11</cell>
+<cell>28</cell></row>
+<row>
+<cell>27</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>4</cell>
+<cell>12</cell>
+<cell>12</cell>
+<cell>53</cell>
+<cell>19</cell>
+<cell>9</cell>
+<cell>17</cell>
+<cell>19</cell>
+<cell>11</cell>
+<cell>18</cell></row>
+<row>
+<cell>28</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>4</cell>
+<cell>29</cell>
+<cell>13</cell>
+<cell>12</cell>
+<cell>19</cell>
+<cell>14</cell>
+<cell>17</cell>
+<cell>8</cell>
+<cell>11</cell>
+<cell>9</cell></row>
+<row>
+<cell>29</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell cols="2"></cell>
+<cell>13</cell>
+<cell>31</cell>
+<cell>19</cell>
+<cell>18</cell>
+<cell>16</cell>
+<cell>57</cell>
+<cell>11</cell>
+<cell>0</cell></row>
+<row>
+<cell>30</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell cols="2"></cell>
+<cell>13</cell>
+<cell>49</cell>
+<cell>19</cell>
+<cell>22</cell>
+<cell>16</cell>
+<cell>46</cell>
+<cell>11<note n="#2"/></cell>
+<cell>52</cell></row>
+<row>
+<cell>31</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell cols="2"></cell>
+<cell>14</cell>
+<cell>6</cell>
+<cell cols="2"></cell>
+<cell>16</cell>
+<cell>35</cell>
+<cell cols="2"></cell></row>
+</table></p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell cols="2" role="header"><hi rend="i">Jul.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">Aug.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">Sept.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">Oct.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">Nov.</hi></cell>
+<cell cols="2" role="header"><hi rend="i">Dec.</hi></cell></row>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell></row>
+<row>
+<cell>1</cell>
+<cell>10</cell>
+<cell>45</cell>
+<cell>11</cell>
+<cell>7</cell>
+<cell>19</cell>
+<cell>41</cell>
+<cell>29</cell>
+<cell>16</cell>
+<cell>31</cell>
+<cell>13</cell>
+<cell>21</cell>
+<cell>14</cell></row>
+<row>
+<cell>2</cell>
+<cell>10</cell>
+<cell>38</cell>
+<cell>11</cell>
+<cell>16</cell>
+<cell>20</cell>
+<cell>1</cell>
+<cell>29</cell>
+<cell>30</cell>
+<cell>31</cell>
+<cell>3</cell>
+<cell>20</cell>
+<cell>44</cell></row>
+<row>
+<cell>3</cell>
+<cell>10</cell>
+<cell>31</cell>
+<cell>11</cell>
+<cell>25</cell>
+<cell>20</cell>
+<cell>22</cell>
+<cell>29</cell>
+<cell>43</cell>
+<cell>30</cell>
+<cell>53</cell>
+<cell>20</cell>
+<cell>14</cell></row>
+<row>
+<cell>4</cell>
+<cell>10</cell>
+<cell>25</cell>
+<cell>11</cell>
+<cell>36</cell>
+<cell>20</cell>
+<cell>43</cell>
+<cell>29</cell>
+<cell>56</cell>
+<cell>30</cell>
+<cell>43</cell>
+<cell>19</cell>
+<cell>44</cell></row>
+<row>
+<cell>5</cell>
+<cell>10</cell>
+<cell>19</cell>
+<cell>11</cell>
+<cell>48</cell>
+<cell>21</cell>
+<cell>4</cell>
+<cell>30</cell>
+<cell>9</cell>
+<cell>30</cell>
+<cell>32</cell>
+<cell>19</cell>
+<cell>14</cell></row>
+<row>
+<cell>6</cell>
+<cell>10</cell>
+<cell>13</cell>
+<cell>12</cell>
+<cell>1</cell>
+<cell>21</cell>
+<cell>25</cell>
+<cell>30</cell>
+<cell>22</cell>
+<cell>30</cell>
+<cell>20</cell>
+<cell>18</cell>
+<cell>44</cell></row>
+<row>
+<cell>7</cell>
+<cell>10</cell>
+<cell>7</cell>
+<cell>12</cell>
+<cell>14</cell>
+<cell>21</cell>
+<cell>47</cell>
+<cell>30</cell>
+<cell>34</cell>
+<cell>30</cell>
+<cell>8</cell>
+<cell>18</cell>
+<cell>14</cell></row>
+<row>
+<cell>8</cell>
+<cell>10</cell>
+<cell>2</cell>
+<cell>12</cell>
+<cell>28</cell>
+<cell>22</cell>
+<cell>9</cell>
+<cell>30</cell>
+<cell>45</cell>
+<cell>29</cell>
+<cell>55</cell>
+<cell>17</cell>
+<cell>44</cell></row>
+<row>
+<cell>9</cell>
+<cell>9</cell>
+<cell>58</cell>
+<cell>12</cell>
+<cell>42</cell>
+<cell>22</cell>
+<cell>31</cell>
+<cell>36</cell>
+<cell>55</cell>
+<cell>29</cell>
+<cell>40</cell>
+<cell>17</cell>
+<cell>14</cell></row>
+<row>
+<cell>10</cell>
+<cell>9</cell>
+<cell>54</cell>
+<cell>12</cell>
+<cell>57</cell>
+<cell>22</cell>
+<cell>52</cell>
+<cell>31</cell>
+<cell>4</cell>
+<cell>29</cell>
+<cell>23</cell>
+<cell>16</cell>
+<cell>44</cell></row>
+<row>
+<cell>11</cell>
+<cell>9</cell>
+<cell>51</cell>
+<cell>13</cell>
+<cell>12</cell>
+<cell>23</cell>
+<cell>13</cell>
+<cell>31</cell>
+<cell>12</cell>
+<cell>29</cell>
+<cell>6</cell>
+<cell>16</cell>
+<cell>14</cell></row>
+<row>
+<cell>12</cell>
+<cell>9</cell>
+<cell>49</cell>
+<cell>13</cell>
+<cell>27</cell>
+<cell>23</cell>
+<cell>33</cell>
+<cell>31</cell>
+<cell>19</cell>
+<cell>28</cell>
+<cell>48</cell>
+<cell>15</cell>
+<cell>44</cell></row>
+<row>
+<cell>13</cell>
+<cell>9</cell>
+<cell>47</cell>
+<cell>13</cell>
+<cell>43</cell>
+<cell>23</cell>
+<cell>53</cell>
+<cell>31</cell>
+<cell>26</cell>
+<cell>28</cell>
+<cell>30</cell>
+<cell>15</cell>
+<cell>14</cell></row>
+<row>
+<cell>14</cell>
+<cell>9</cell>
+<cell>46</cell>
+<cell>13</cell>
+<cell>59</cell>
+<cell>24</cell>
+<cell>13</cell>
+<cell>31</cell>
+<cell>32</cell>
+<cell>28</cell>
+<cell>11</cell>
+<cell>14</cell>
+<cell>43</cell></row>
+<row>
+<cell>15</cell>
+<cell>9</cell>
+<cell>46</cell>
+<cell>14</cell>
+<cell>16</cell>
+<cell>24</cell>
+<cell>33</cell>
+<cell>31</cell>
+<cell>38</cell>
+<cell>27</cell>
+<cell>51</cell>
+<cell>14</cell>
+<cell>12</cell></row>
+<row>
+<cell>16</cell>
+<cell>9</cell>
+<cell>46</cell>
+<cell>14</cell>
+<cell>33</cell>
+<cell>24</cell>
+<cell>53</cell>
+<cell>31</cell>
+<cell>43</cell>
+<cell>27</cell>
+<cell>30</cell>
+<cell>13</cell>
+<cell>41</cell></row>
+<row>
+<cell>17</cell>
+<cell>9</cell>
+<cell>47</cell>
+<cell>14</cell>
+<cell>50</cell>
+<cell>25</cell>
+<cell>13</cell>
+<cell>31</cell>
+<cell>47</cell>
+<cell>27</cell>
+<cell>8</cell>
+<cell>13</cell>
+<cell>10</cell></row>
+<row>
+<cell>18</cell>
+<cell>9</cell>
+<cell>49</cell>
+<cell>15</cell>
+<cell>8</cell>
+<cell>25</cell>
+<cell>33</cell>
+<cell>31</cell>
+<cell>50</cell>
+<cell>26</cell>
+<cell>45</cell>
+<cell>12</cell>
+<cell>40</cell></row>
+<row>
+<cell>19</cell>
+<cell>9</cell>
+<cell>52</cell>
+<cell>15</cell>
+<cell>26</cell>
+<cell>25</cell>
+<cell>52</cell>
+<cell>31</cell>
+<cell>53</cell>
+<cell>26</cell>
+<cell>22</cell>
+<cell>12</cell>
+<cell>10</cell></row>
+<row>
+<cell>20</cell>
+<cell>9</cell>
+<cell>56</cell>
+<cell>15</cell>
+<cell>45</cell>
+<cell>26</cell>
+<cell>11</cell>
+<cell>31</cell>
+<cell>55</cell>
+<cell>25</cell>
+<cell>58</cell>
+<cell>11</cell>
+<cell>40</cell></row>
+<row>
+<cell>21</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>16</cell>
+<cell>4</cell>
+<cell>26</cell>
+<cell>30</cell>
+<cell>31</cell>
+<cell>55</cell>
+<cell>25</cell>
+<cell>34</cell>
+<cell>11</cell>
+<cell>10</cell></row>
+<row>
+<cell>22</cell>
+<cell>10</cell>
+<cell>4</cell>
+<cell>16</cell>
+<cell>23</cell>
+<cell>26</cell>
+<cell>49</cell>
+<cell>31</cell>
+<cell>55</cell>
+<cell>25</cell>
+<cell>10</cell>
+<cell>10</cell>
+<cell>40</cell></row>
+<row>
+<cell>23</cell>
+<cell>10</cell>
+<cell>8</cell>
+<cell>16</cell>
+<cell>42</cell>
+<cell>27</cell>
+<cell>8</cell>
+<cell>31</cell>
+<cell>55</cell>
+<cell>24</cell>
+<cell>45</cell>
+<cell>10</cell>
+<cell>10</cell></row>
+<row>
+<cell>24</cell>
+<cell>10</cell>
+<cell>13</cell>
+<cell>17</cell>
+<cell>1</cell>
+<cell>27</cell>
+<cell>26</cell>
+<cell>31</cell>
+<cell>54</cell>
+<cell>24</cell>
+<cell>20</cell>
+<cell>9</cell>
+<cell>41</cell></row>
+<row>
+<cell>25</cell>
+<cell>10</cell>
+<cell>18</cell>
+<cell>17</cell>
+<cell>21</cell>
+<cell>27</cell>
+<cell>43</cell>
+<cell>31</cell>
+<cell>52</cell>
+<cell>23</cell>
+<cell>55</cell>
+<cell>9</cell>
+<cell>13</cell></row>
+<row>
+<cell>26</cell>
+<cell>10</cell>
+<cell>23</cell>
+<cell>17</cell>
+<cell>41</cell>
+<cell>28</cell>
+<cell>0</cell>
+<cell>31</cell>
+<cell>50</cell>
+<cell>23</cell>
+<cell>30</cell>
+<cell>8</cell>
+<cell>45</cell></row>
+<row>
+<cell>27</cell>
+<cell>10</cell>
+<cell>28</cell>
+<cell>18</cell>
+<cell>1</cell>
+<cell>28</cell>
+<cell>16</cell>
+<cell>31</cell>
+<cell>47</cell>
+<cell>23</cell>
+<cell>4</cell>
+<cell>8</cell>
+<cell>17</cell></row>
+<row>
+<cell>28</cell>
+<cell>10</cell>
+<cell>34</cell>
+<cell>18</cell>
+<cell>21</cell>
+<cell>28</cell>
+<cell>32</cell>
+<cell>31</cell>
+<cell>43</cell>
+<cell>22</cell>
+<cell>38</cell>
+<cell>7</cell>
+<cell>50</cell></row>
+<row>
+<cell>29</cell>
+<cell>10</cell>
+<cell>41</cell>
+<cell>18</cell>
+<cell>41</cell>
+<cell>28</cell>
+<cell>47</cell>
+<cell>31</cell>
+<cell>37</cell>
+<cell>22</cell>
+<cell>11</cell>
+<cell>7</cell>
+<cell>23</cell></row>
+<row>
+<cell>30</cell>
+<cell>10</cell>
+<cell>49</cell>
+<cell>19</cell>
+<cell>1</cell>
+<cell>29</cell>
+<cell>2</cell>
+<cell>31</cell>
+<cell>30</cell>
+<cell>21</cell>
+<cell>43</cell>
+<cell>6</cell>
+<cell>58</cell></row>
+<row>
+<cell>31</cell>
+<cell>10</cell>
+<cell>58</cell>
+<cell>19</cell>
+<cell>21</cell>
+<cell cols="2"></cell>
+<cell>31</cell>
+<cell>22</cell>
+<cell cols="2"></cell>
+<cell>6</cell>
+<cell>34</cell></row>
+</table></p>
+<p>By the help of this <hi rend="i">Table</hi> you will always know, what a Clock it is by the Sun precisely, and consequently, whether the Watches have been set to the right measure of the <hi rend="i">Mean</hi> day, or no; using the <hi rend="i">Table</hi> as follows.</p>
+<p>When you first set your Watch by the Sun, you are to subduct from the time observed by the Sun, the Aequation adjoyned to that day of the Month in the Table, and to set the Watches to the remaining hours, minuts and seconds, that is, the Watches are to be set so much slower, than the time os the Sun, as (in the Table) is the Aequation of that day; so that the Aequation of the Day, added to the time of the Clock, is the true time by the Sun. And when after some days, you desire to know by the Watch the time by the Sun, you are to add to the time, shew'd by the Watch, the Aequation of that day; and the Aggregate shall be the time by the Sun, if the Watch hath been perfectly well adjusted after the measure of the <hi rend="i">Mean</hi> days; for the doing of which, this will be a Convenient way;</p>
+<p>Draw a Meridian line upon a floor (the manner of doing which is sufficiently known; and note, that the utmost exactness herein is not necessary:) and then hang two plummets, each by a small thred or wire, directly over the said Meridian, at the distance of some 2. feet or more one from the other, as the smalness of the thred will admit. When the middle of the Sun (the Eye being placed so, as to bring both the threds into one line) appears to be in the same line exactly (for the better and more secure discerning whereof, you must be furnish't with a glass of a dark colour, or somewhat blackt with the smoak of a Candle,) you are then inmediately to set the Watch, not precisely to the hour of 12. but by so much less, as is the Aequation of the day by the Table. E.g. If it were the 12. of <hi rend="i">March</hi>, the Aequation of that day being by the Table, 8 min. 3 sec.; these are to be subducted from 12. hours, and the remainder will be 11. hours, 51. min. 57. sec.; to which hours, minutes, and seconds you are to set the <hi rend="i">Index</hi> of the Watch respectively: Then after some days you are to observe again in the same manner, and likewise to note the hour, min. and sec. of the Watch; to which you are to add the Aequation of these days, taken out of the Table; And if the Aggregate doe Iust make 12. hours, the Watch is set adjusted to the right measure; but if it differ, you are to divide the minutes and seconds of that difference by the number of the days between both the Observations, to get the daily difference. Let us suppose this second Observation to have been made the 20. of <hi rend="i">March</hi> viz. 8. days after the first, and finding, that the Middle of the Sun being seen in the Meridian in the same line with the two threds, as before, the Watch</p>
+<p><table>
+<row>
+<cell cols="2" role="header"></cell>
+<cell role="header">h.</cell>
+<cell role="header">m.</cell>
+<cell role="header">sec.</cell></row>
+<row>
+<cell>points</cell>
+<cell></cell>
+<cell>11</cell>
+<cell>51</cell>
+<cell>7</cell></row>
+<row>
+<cell></cell>
+<cell>The Aequation of the 20 of <hi rend="i">March</hi>, by the Table, is</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>40</cell></row>
+<row>
+<cell></cell>
+<cell>Which being added to the time, show'd by the</cell>
+<cell cols="3"></cell></row>
+<row>
+<cell cols="2">Watch, gives</cell>
+<cell>12</cell>
+<cell>1</cell>
+<cell>47</cell></row>
+</table></p>
+<p>If this had been Iust 12 hours, the Watch would have been well adjusted, but being 1. min. 47. sec. more than 12, it hath gone so much too fast in 8. days.</p>
+<p>And these 1 min. 47. sec. that is, 107. sec. being divided by 8, there comes 13 ⅜ sec. for the difference of every 24. hours; which difference being known, if you want time, or have no mind to take the pains to adjust the Watch to its right measure (this being not necessary, since you may bring it thus on ship-board) note onely the daily difference, and regulate your self accordingly, as hath been mention'd. But if you will adjust it better, you must remove the less weight of the Pendulum a little downwards, which will make it goe slower; and then you must begin to observe anew, by the Sun, as before. If it had gone too slow, you must have remov'd the mention'd weight somewhat upwards. And this is of that importance in the finding out of <hi rend="i">Longitudes</hi><note n="#3"/>, that, if it be not observ'd, you may sometimes in the space of 3 months misreckon 7. degrees and more (yet without any fault in the Watches;) which under the <hi rend="i">Tropicks</hi> will amount to above 400 English miles.</p>
+<p>Having shew'd, How the Watches may be adjusted at Land, or how their daily difference may be known; next shall follow, How the same may be done, when a Vessel rides at anchor, it being hardly fesible when she is under saile.</p>
+<p>In the morning then, when the Sun is just half above the <hi rend="i">Horizon</hi>, note, what hour, min. and sec. the Watch points at, if it be going; if not, set it a going, and put the <hi rend="i">Indexes</hi>, at what hour, min. and sec. you please. Let them goe till Sun-set, and when the Body of the Sun is just half under the Horizon, see, what hour, min. and sec. the <hi rend="i">Indexes</hi> of the Watch point at, and note them too; and reckon, how many houres <hi rend="i">&amp;c</hi>. are Pass'd by the Watch between the one and the other: which is done by adding to the Evening-Observation the hours, <hi rend="i">&amp;c</hi>. that the morning-Observation wanted of 12. or 24. in case the Hour-hand hath in the mean time pass'd that hour once or twice; otherwise the difference only gives the time. Then take the half of that number, and add it to the hours, <hi rend="i">&amp;c</hi>. of the morning-Observation, and you shall have the hours, <hi rend="i">&amp;c.</hi>, which the Watch did show, when the Sun was in the <hi rend="i">South</hi>; whereunto add the Aequation in the Table belonging to that day, and note the summe. Then some days being pass'd (the more the better) your are to doe Iust the same: And if the hour of this last day be the same, that was noted before, your Watch is well adjusted; but if it be more or less, the difference divided by the number, elapsed between the two Observations, will give the daily difference. And if you will, you may let it rest there, or otherwise, removing the lesser weight of the Pendulum you may adjust it better.</p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="i">H.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell>
+<cell role="header"><hi rend="i">H.</hi></cell>
+<cell role="header"><hi rend="i">m.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell></row>
+<row>
+<cell>E.g. Suppose <hi rend="i">March</hi> 11th in the Morning, when the Sun half appears above the Horizon, the Watch points at</cell>
+<cell>5</cell>
+<cell>30</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>3</cell></row>
+<row>
+<cell>In the Evening, when the Sun appears half set, at</cell>
+<cell>5</cell>
+<cell>20</cell>
+<cell>6</cell>
+<cell>11</cell>
+<cell>59</cell>
+<cell>59</cell></row>
+<row>
+<cell>To know by the Watch the times elaps'd between both, subduct the time of the rising</cell>
+<cell>5</cell>
+<cell>30</cell>
+<cell>10</cell>
+<cell cols="3"></cell></row>
+<row>
+<cell>From</cell>
+<cell>12</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell cols="3"></cell></row>
+<row>
+<cell cols="7"></cell></row>
+<row>
+<cell>Rests</cell>
+<cell>6</cell>
+<cell>29</cell>
+<cell>50</cell>
+<cell cols="3"></cell></row>
+<row>
+<cell>Whereunto adding the time of the setting</cell>
+<cell>5</cell>
+<cell>20</cell>
+<cell>6</cell>
+<cell cols="3"></cell></row>
+<row>
+<cell>There comes for the time elaps'd between them</cell>
+<cell>11</cell>
+<cell>49</cell>
+<cell>56</cell>
+<cell><hi rend="i">diff.</hi> 11</cell>
+<cell>49</cell>
+<cell>56</cell></row>
+<row>
+<cell>Whereof the halfis</cell>
+<cell>5</cell>
+<cell>54</cell>
+<cell>58</cell>
+<cell>5</cell>
+<cell>54</cell>
+<cell>58</cell></row>
+<row>
+<cell>Which added to the time of the Suns rising</cell>
+<cell>5</cell>
+<cell>30</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>3</cell></row>
+<row>
+<cell>There comes the time of the Watch when the Sun was in the South</cell>
+<cell>11</cell>
+<cell>25</cell>
+<cell>8</cell>
+<cell>6</cell>
+<cell>5</cell>
+<cell>1</cell></row>
+<row>
+<cell>To which adding the Aequation of the 11th of <hi rend="i">March</hi></cell>
+<cell>0</cell>
+<cell>7</cell>
+<cell>45</cell>
+<cell>0</cell>
+<cell>7</cell>
+<cell>45</cell></row>
+<row>
+<cell>The Summe is</cell>
+<cell>11</cell>
+<cell>32</cell>
+<cell>53</cell>
+<cell>6</cell>
+<cell>12</cell>
+<cell>46</cell></row>
+<row>
+<cell>Seven days after, <hi rend="i">viz. March</hi> 18, let the rising of the Sun beobserv'd and the Watch point then at</cell>
+<cell>5</cell>
+<cell>19</cell>
+<cell>4</cell>
+<cell>11</cell>
+<cell>58</cell>
+<cell>57</cell></row>
+<row>
+<cell>And at his setting, let the Watch point at</cell>
+<cell>5</cell>
+<cell>25</cell>
+<cell>2</cell>
+<cell>0</cell>
+<cell>4</cell>
+<cell>55</cell></row>
+<row>
+<cell>To find the time elaps'd between them, subduct the time of the rising</cell>
+<cell>5</cell>
+<cell>19</cell>
+<cell>4</cell>
+<cell><hi rend="i">Or</hi>, 11</cell>
+<cell>58</cell>
+<cell>51<note n="#4"/></cell></row>
+<row>
+<cell>From</cell>
+<cell>12</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>24</cell>
+<cell>0</cell>
+<cell>0</cell></row>
+<row>
+<cell cols="7"></cell></row>
+<row>
+<cell>Rests</cell>
+<cell>6</cell>
+<cell>40</cell>
+<cell>56</cell>
+<cell>12</cell>
+<cell>1</cell>
+<cell>3</cell></row>
+<row>
+<cell>To which adde the time of the setting</cell>
+<cell>5</cell>
+<cell>25</cell>
+<cell>2</cell>
+<cell>0</cell>
+<cell>4</cell>
+<cell>55</cell></row>
+<row>
+<cell>And you 'l find the time past between them</cell>
+<cell>12</cell>
+<cell>5</cell>
+<cell>58</cell>
+<cell>12</cell>
+<cell>5</cell>
+<cell>58</cell></row>
+<row>
+<cell>Whereof the half is</cell>
+<cell>6</cell>
+<cell>2</cell>
+<cell>59</cell>
+<cell>6</cell>
+<cell>2</cell>
+<cell>59</cell></row>
+<row>
+<cell>Which adde to the time os the rising</cell>
+<cell>5</cell>
+<cell>19</cell>
+<cell>4</cell>
+<cell>11</cell>
+<cell>58</cell>
+<cell>57</cell></row>
+<row>
+<cell>And you have the time when the Sun was in the South</cell>
+<cell>11</cell>
+<cell>22</cell>
+<cell>3</cell>
+<cell>6</cell>
+<cell>1</cell>
+<cell>56</cell></row>
+<row>
+<cell>Whereunto adding the Aequation of <hi rend="i">March</hi> 18</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>1</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>1</cell></row>
+<row>
+<cell>The Summe is</cell>
+<cell>11</cell>
+<cell>32</cell>
+<cell>4</cell>
+<cell>6</cell>
+<cell>11</cell>
+<cell>57</cell></row>
+<row>
+<cell>Which Summe if it had agreed with the first, <hi rend="i">viz.</hi></cell>
+<cell>11</cell>
+<cell>32</cell>
+<cell>53</cell>
+<cell>6</cell>
+<cell>12</cell>
+<cell>46</cell></row>
+</table></p>
+<p>then had the watch been set to the right measure; but seeing the latter is less
+than the former, the difference being 49. sec.; the Watch hath by so much, in 7. days, gone too slow; which 49. <hi rend="i">Sec.</hi> divided by the number of days, you have 7. <hi rend="i">Sec.</hi> for the daily difference; and by so much the Watch goes too slow in 24. hours.</p>
+<p>You may also, instead of the Suns rising and setting, take two equall Altitudes of the Sun, before and after Noon, and having noted the time given by the Watches at the time of both the Observations, proceed with it in the same manner, as was Iust now directed for observing the Sun in the Horizon. In either of which ways there may besome Error, caused by the Suns Refraction, which is inconsiderable, and therefore needs not to be taken notice of.</p>
+</div>
+<div type="section">
+<head rend="h4">6.
+<lb/><hi rend="i">By means of these Watches to find at Sea the Longitude of the Place, where you are</hi>.</head>
+<p>Give to each of the Watches a name or a mark, as A.B.C; and before you set faile, set them to the time observ'd by the Sun in the place, where you are, and whence you are departing, allowing for the Aequation of the day, whereon you make your Observation: Which day you are to note, if the Watches be not well adjusted; otherwise it is not necessary.</p>
+<p>Then afterwards being at Sea, and desiring to know the <hi rend="i">Longitude</hi> of the place where you are, that is, how many degrees the Meridian of that place is more <hi rend="i">Easterly</hi> or <hi rend="i">Westerly</hi>, than the Meridian of that place where you did set the Watches; you must observe by the Sun or Stars, what time of the day it is, as precisely as is possible, and note at the same time, to what hour, minutes and sec. the Watches doe point (which time, if the Watches be not set to the right measure, is by the known daily difference to be adjusted,) adding thereunto the Aequation of the present day, which gives you the time of the day, shew'd by the Sun, at the place where the Watches were set: And if this time of the day be the same with that observ'd where you are, then you are under the same Meridian with the place, where the Watches were set by the Sun; but if the time of the day, observ'd where you are, be greater than that shew'd by the Watches, you may be assur'd, that you are come under a more <hi rend="i">Easterly</hi> Meridian; and if less, you are come under a more <hi rend="i">Westerly</hi>. And counting for every hour of difference of time, 15 degrees of Longitude, and for every minute, 15. minutes or ¼ of a degree, you shall then know, how many degrees, minutes, <hi rend="i">&amp;c</hi>. the said Meridians doe differ from one another.</p>
+<p>E.g. Suppose, the Watches A.B.C. were set at the place, whence you parted, on the 20 of <hi rend="i">February</hi>, to the time of day observ'd by the Sun, abating the Aequation of the 20 th of <hi rend="i">February</hi> (viz. 2 min. 28. sec.) and suppose that the Watch A. be set to its right measure, but that B. goes every day 7 sec. too slow, and C. every day 12. sec. too fast. Some days after, suppose the 5th of <hi rend="i">May</hi>, desiring to know the Longitude of the place where you are at Sea, you observe</p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="i">h.</hi></cell>
+<cell role="header"><hi rend="i">min.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell></row>
+<row>
+<cell>the time of the day there to be</cell>
+<cell>5</cell>
+<cell>18</cell>
+<cell>10</cell></row>
+<row>
+<cell>And you find the Watch A. to point at</cell>
+<cell>2</cell>
+<cell>6</cell>
+<cell>0</cell></row>
+<row>
+<cell>But the Watch B. to point at</cell>
+<cell>1</cell>
+<cell>57</cell>
+<cell>22</cell></row>
+<row>
+<cell>Going too slow by 7. sec. every day, which makes in 74. days, (viz. From the 20 th of <hi rend="i">Febr.</hi> to the 5 th of <hi rend="i">May</hi>)</cell>
+<cell>0</cell>
+<cell>8</cell>
+<cell>38</cell></row>
+<row>
+<cell>Which being added to its own time, gives the same with that of the Watch A, <hi rend="i">viz</hi></cell>
+<cell>2</cell>
+<cell>6</cell>
+<cell>0</cell></row>
+<row>
+<cell>You find also the Watch C. to point at</cell>
+<cell>2</cell>
+<cell>20</cell>
+<cell>48</cell></row>
+<row>
+<cell>Going 12 sec. too fast every day, which makes in 74. days</cell>
+<cell>0</cell>
+<cell>14</cell>
+<cell>48</cell></row>
+<row>
+<cell>Which being subducted from its owne time gives again</cell>
+<cell>2</cell>
+<cell>6</cell>
+<cell>0</cell></row>
+<row>
+<cell>The time of day therefore by the Watches being</cell>
+<cell>2</cell>
+<cell>6</cell>
+<cell>0</cell></row>
+<row>
+<cell>Adde thereunto the Aequation of the 5 th of <hi rend="i">May</hi></cell>
+<cell>0</cell>
+<cell>19</cell>
+<cell>29</cell></row>
+<row>
+<cell>And so you have for the time of day at the place where the Watches were set</cell>
+<cell>2</cell>
+<cell>25</cell>
+<cell>29</cell></row>
+<row>
+<cell>But the time observ'd being</cell>
+<cell>5</cell>
+<cell>18</cell>
+<cell>10</cell></row>
+<row>
+<cell>Exceeds this by</cell>
+<cell>2</cell>
+<cell>52</cell>
+<cell>41</cell></row>
+<row>
+<cell>Wherefore the Meridian of the place, where you are May 5th, is more Easterly, than the places where the Watches were set, by</cell>
+<cell>2</cell>
+<cell>52</cell>
+<cell>41</cell></row>
+<row>
+<cell>Which being reduced to degrees, reckoning 15 degrees for an hour, comes to</cell>
+<cell>deg. 43</cell>
+<cell>m. 10</cell>
+<cell>d. 15</cell></row>
+</table></p>
+<p>Tis true, that from the same reckoning it may be concluded, that you are 180. degrees more Easterly, which happens, because the Hour-<hi rend="i">Index</hi> goes round in the space of 12. hours in the Watches; but the difference is so great, that one cannot be deceiv'd in it; else the Watch might be so made, that the <hi rend="i">Index</hi> shall goe round but once in 24 hours.</p>
+</div>
+<div type="section">
+<head rend="h4">7.
+<lb/><hi rend="i">To find the time of the Day at Sea</hi>.</head>
+<p>Since that for finding the <hi rend="i">Longitude</hi>, the Time of the day at the place where you are must be known (as hath been said above) you must have a care to observe that time as precisely as is possible. For every minute of time, that you misreckon, makes a 4th part of a degree in longitude, which amounts, near the Aequator, to above 15. English miles, but less elsewhere. Wherefore to find the time of the day with certainty, you are not to trust to the Observation of the Sun greatest Altitude, thence to conclude that 'tis just Noon, or that the Sun is in the South, unless,
+being betwixt the <hi rend="i">Tropicks</hi>, you have it just in the Zenith. For else the Sun being near the Meridian, remains for some time without any sensible alteration of its Altitude. Wherefore, though the Meridian Altitude may serve well enough for knowing the <hi rend="i">Latitude</hi> or the Hight of the Pole upon occasion; yet it will not serve for finding precisely the <hi rend="i">Longitude</hi> of that place. Much less are you to rely upon the Sea-<hi rend="i">compasses</hi>, thereby to find the precise time of Noon. Neither are the Astronomical Rings or other sorts of Sundyals sure enough for shewing the time to <hi rend="i">minutes</hi> and <hi rend="i">seconds</hi>. But it is better to observe the Suns Altitude, when 't is in the <hi rend="i">East</hi> or <hi rend="i">West</hi>, (the nearer, the better:) for being there, its Altitude changes in a short time more sensibly than before or after; and thus from the <hi rend="i">Hight of the Pole</hi> and the <hi rend="i">Declination of the Sun</hi> the Hour may be calculated; the manner whereof is sufficiently taught by others; yet by reason that this Calculation is somewhat troublesome, and that also there may be some Errors in the taking of the Suns Altitude, here follows an easier way.</p>
+</div>
+<div type="section">
+<head rend="h4">8.
+<lb/><hi rend="i">How by Observing the Rising and Setting of the Sun</hi>, <hi rend="i">and the Time by the Watches</hi>, <hi rend="i">the Longitude at Sea may be found</hi>.</head>
+<p>This way doth neither require the Knowledge of the <hi rend="i">Hight of the Pole</hi>, nor of the <hi rend="i">Declination of the Sun</hi>, nor the <hi rend="i">Use</hi> of any <hi rend="i">Astronomical Instruments:</hi> Neither can the Refractions of the Sun or Stars cause any considerable Error, the refraction of the Morning differing but little or nothing from that of the Evening of one and the same day, especially at Sea. Thus then you are to proceed;</p>
+<p>At the Rising and Setting of the Sun, when it is half above the Horison, marke the time of the day, which the Watches then shew; and though you have in the mean time sayl'd on, it is not considerable. Then reckon by the Watches, what time is elaps'd between them, and add the half thereof to the time of the Rising, and you shall have the time by the Watches, when the Sun was at South; to which is to be added the Aequation of the present day by the Table. And if this together makes 12. hours, then was the ship at Noon under <hi rend="i">the same</hi> Meridian, where the Watches were set with the Sun. But if the summe be more then 12, then was she at Noon under a <hi rend="i">more Westerly</hi> Meridian: and if less, then under a <hi rend="i">more Easterly;</hi> and that by as many times 15. degrees, as that Summe exceeds or comes short hours of 12: as the Calculation thereof hath been already deliver'd.</p>
+<p>Suppose, e.g. that the Watches A and B, as before, were set with the Sun at the place whence you parted, the 20th of <hi rend="i">Febr.;</hi> and the <hi rend="i">Indexes</hi> set to the Hour, min. and seconds, shewed by the Sun, abating the Aequation of that day, <hi rend="i">viz.</hi> 2. min. and 20. seconds; the Watch A. being reduc'd to the right
+measure, and B going too slow by 7. sec. a day. Afterwards on the 22th of <hi rend="i">May</hi>, desiring to know the Longitude of the place to which you are come, you observe in the Morning the Sun</p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="i">h.</hi></cell>
+<cell role="header"><hi rend="i">min.</hi></cell>
+<cell role="header"><hi rend="i">sec.</hi></cell></row>
+<row>
+<cell>half above the Horizon when the Watch points at</cell>
+<cell>2</cell>
+<cell>30</cell>
+<cell>10</cell></row>
+<row>
+<cell>And in the Evening, the Sun being half under the Horizon, when the same Watch points at</cell>
+<cell>3</cell>
+<cell>8</cell>
+<cell>40</cell></row>
+<row>
+<cell>To find the Time elaps'd between them, subducting the time of the Rising</cell>
+<cell>2</cell>
+<cell>30</cell>
+<cell>10</cell></row>
+<row>
+<cell>From</cell>
+<cell>12</cell>
+<cell>0</cell>
+<cell>0</cell></row>
+<row>
+<cell>There remains</cell>
+<cell>9</cell>
+<cell>29</cell>
+<cell>50</cell></row>
+<row>
+<cell>Adding thereunto the time of the Setting</cell>
+<cell>3</cell>
+<cell>8</cell>
+<cell>40</cell></row>
+<row>
+<cell>You have for the time elaps'd between the Observations</cell>
+<cell>12</cell>
+<cell>38</cell>
+<cell>30</cell></row>
+<row>
+<cell>Whereof the half</cell>
+<cell>6</cell>
+<cell>19</cell>
+<cell>15</cell></row>
+<row>
+<cell>Being added to the time of Rising</cell>
+<cell>2</cell>
+<cell>30</cell>
+<cell>10</cell></row>
+<row>
+<cell cols="4"></cell></row>
+<row>
+<cell>You have the time by the Watch A, when the Sun was in the South</cell>
+<cell>8</cell>
+<cell>49</cell>
+<cell>25</cell></row>
+<row>
+<cell>And after the same manner you are to seek the time by the Watch B, when the Sun was in the South; which let be</cell>
+<cell>8</cell>
+<cell>38</cell>
+<cell>48</cell></row>
+<row>
+<cell>But this Watch going 7. sec. a day too slow, it is retarded in 91. dayes (from the 20 th of <hi rend="i">Febr.</hi> to the 22 of <hi rend="i">May</hi>)</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>37</cell></row>
+<row>
+<cell>Which therefore added to the said time gives</cell>
+<cell>8</cell>
+<cell>49</cell>
+<cell>25</cell></row>
+<row>
+<cell>That is the same time given by the Watch A. Now adding to this time of the Watches, the Aequation of the 22 th of May</cell>
+<cell>0</cell>
+<cell>18</cell>
+<cell>10</cell></row>
+<row>
+<cell>You have</cell>
+<cell>9</cell>
+<cell>7</cell>
+<cell>35</cell></row>
+<row>
+<cell>Which is the same time of the day with that of the place, where the Watches were set when the Sun was in the same Meridian with the Ship, or where the Ship was at Noon. the difference is</cell>
+<cell>2</cell>
+<cell>52</cell>
+<cell>25</cell></row>
+<row>
+<cell>Wherefore this last Meridian is by so much more Easterly than the first; which being reduc'd to <hi rend="i">degrees</hi> (as hath been formerly directed) make</cell>
+<cell>deg. 43</cell>
+<cell>min. 6</cell>
+<cell>sec. 15</cell></row>
+</table></p>
+<p>'Tis manifest, that by this way you find precisely enough the Longitude of the place, where you were at Noon, or the time of the Suns being in the South: which, although it differs from the <hi rend="i">Longitude</hi> of the place, where you are when you observe the Setting of the Sun, yet you may estimate neer enough, how much you have advanc'd, or chang'd the Longitude in those few hours, by the Log-line or other Ordinary practices of reckoning the Ships way; or (which
+is the surer way;) by the degrees pass'd in 24. hours by a former days Observation.</p>
+<p>You may also, instead of observing the Suns Rising and Setting, observe the Setting first, and then next morning the Rising; marking at both times the Time show'd by the Watches; and find thence, after the same manner as before, the Longitude of the place where the Ship was at Midnight.</p>
+<p>Finally, you may also, instead of the Rising and Setting of the Sun, observe before and after Noon two equal Altitudes of the Sun, noting the time shown by the Watches, and reckoning in the same manner, as hath been said of the Rising and Setting: Yet it is to be consider'd, that the Altitudes of the Sun are best taken, when it is about <hi rend="i">East</hi> and <hi rend="i">West</hi>, as hath been already intimated. But note, that in Sailing <hi rend="i">North</hi> and <hi rend="i">South</hi> you make not the Observations at the Suns rising and setting, but at its being <hi rend="i">due</hi> East and West.</p>
+</div>
+<div type="section">
+<head rend="h4">9.</head>
+<p>But you may, especially in such Quarters, as lye farr <hi rend="i">North</hi> or <hi rend="i">South</hi>, yea and wherever you will, put the Rule here prescribed in practice, by taking 2. <hi rend="i">equal</hi> Altitudes of some known <hi rend="i">Starr</hi>, that riseth high above the Horizon. For you shall thence, according to the mention'd Rule, know at what time by the Watches the Starr hath been in the South; and so the <hi rend="i">Right Ascension</hi> of that <hi rend="i">Starr</hi> being known, as also the <hi rend="i">Right Ascension</hi> of the <hi rend="i">Sun</hi>, you may thence easily calculate, what time it <hi rend="i">then</hi> was: Which being compar'd with the time of the Watches, as before, shall give the <hi rend="i">Longitude</hi> of the place where you were, when you had the Starr in the Meridian.</p>
+</div>
+<div type="section">
+<head rend="h4">10.</head>
+<p>If the Watches, that have gone exactly for a while, should come to differ from one another (as in length of time it may well happen, that the one or the other faile a minute, more or less;) in that case it will be best to reckon by that, which goes fastest; unless you perceive an apparent cause, why it goes too fast; seeing it is not so easie for these Pendulum-Watches to move faster than at first, as it is to goe slower. For, the Wire, on which the <hi rend="i">Pendulum</hi> hangs, may perhaps by the violent agitation of the Ship come to stretch a little, but it cannot grow shorter; and the little Weight of the <hi rend="i">Pendulum</hi> perhaps slip downwards, but cannot get up higher.</p>
+</div>
+<div type="section">
+<head rend="h4">11.</head>
+<p>When you get sight of any known Country, Island or Coast, be sure to note
+the <hi rend="i">Longitude</hi> thereof as exactly as you can by the help of the Rules here prescribed. <hi rend="i">First</hi>, thereby to correct the <hi rend="i">Sea-Maps</hi>, after that the Longitude of a place shall have been found at divers times to be the same, so that you doubt no more of it. For all <hi rend="i">Mapps</hi> are very defective as to the Scituation of Places in respect of <hi rend="i">East</hi> and <hi rend="i">West</hi>, chiefly where Seas are interpos'd. <hi rend="i">Secondly</hi>, to be able always to know in the prosecution of your Iourney, how farr you have sail'd from any place to the <hi rend="i">East</hi> or <hi rend="i">West</hi>. And if by any notable mischance or carelessness all the Watches should come to stand still, yet you may at any place, whereof the <hi rend="i">Longitude</hi> is certainly known, set them a going again, and adjust them there by the Sun, and so reckon the <hi rend="i">Longitudes</hi> from that same Meridian. For, you are to know, that you are not at all oblig'd to put <hi rend="i">one certain</hi> Meridian of any knowne place as a beginning of the Longitude-reckoning; this hapening only in <hi rend="i">Mapps</hi> or <hi rend="i">Table of Longitude:</hi> As, when you take for that purpose the Meridian of the <hi rend="i">Pico</hi> in <hi rend="i">Teneriffe</hi>, or that of the Islands of <hi rend="i">Corvo</hi> and <hi rend="i">Flores</hi> (the most Westerly of the <hi rend="i">Azores</hi>) or any others. Yet it were very fit, that all <hi rend="i">Geographers</hi> agreed and pitched upon one and the same <hi rend="i">First</hi> Meridian, that so all places might be known by the same Degrees as well of <hi rend="i">Longitude</hi> as of <hi rend="i">Latitude;</hi> though in Voyaging it is sufficient, to observe only the difference of Longitude, beginning to
+reckon from the Meridian of any place, you please, as if it were the <hi rend="i">first</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">12.</head>
+<p>If it happen, that being at Sea all the Watches stopp, you must, as speedily as is possible, set them a moving again, that you may know, how much you advance from that place towards the <hi rend="i">East</hi> or <hi rend="i">West:</hi> Which is of no small importance, since, for want of this knowledge, you are sometimes by the force of <hi rend="i">Currents</hi> so carried away, that though you saile <hi rend="i">before the Wind</hi>, yet you are driven a <hi rend="i">Stern</hi>, of which there are many Examples.</p>
+</div>
+<div type="section">
+<head rend="h4">13.
+<lb/><hi rend="i">The Method of a Journal for the Watches</hi>.</head>
+<p>The Watches being distinguist by marks as A.B. or the like, every day about Noon, or when most conveniently you can, observe the time of the day by the <hi rend="i">Sun</hi>, or by the <hi rend="i">Starrs</hi> at night, and subduct thence the <hi rend="i">minuts</hi> and <hi rend="i">seconds</hi>, that are adjoyn'd to that day in the <hi rend="i">Table</hi>, and write the remainder down in a paper, wherein 9. <hi rend="i">Columns</hi> or more are mark't, placing them in the <hi rend="i">second</hi> column, having plac'd the <hi rend="i">day</hi> of the <hi rend="i">Month</hi> in the <hi rend="i">first</hi>. And at the same time write down the hours, minutes and seconds of each Watch in a distinct column, all opposite one
+to another. Then in another Column write downe the <hi rend="i">difference</hi> between the time taken by Observation, and that given by the Watches or one of them. Then, one Column for the <hi rend="i">Latitude:</hi> one for the <hi rend="i">Longitude</hi> by the Ordinary way of reckoning: another, for the Longitude taken from the difference between the <hi rend="i">time</hi> found <hi rend="i">by Observation</hi>, and that given by the <hi rend="i">Watches:</hi> and at last, a large Column to note the Accidents, that befall the Watches, &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

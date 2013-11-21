@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1347"/>
+<meta type="date" value="1665-03-06"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta resp="corpus" type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1347">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>j'eus beaucoup de desplaisir hier au soir de ne mestre pas trouue chés moy pour y receuoir l'honneur que vous me vouliés faire de me communiquer les nouuelles de Monsieur vostre Fils<note n="#1"/>. Jenuoye vous en faire mes excuses et vous supplier de les consier au Porteur cachetées afin que je puisse profiter de leur lecture et s'il y a quelque chose a faire pour son seruice ou pour sa gloire que
+jy agisse a mon ordinaire. Je vous les renuoyeray des le lendemain. Je suis tousjours</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeïssant seruiteur, <persName key="chap002">Chapelain</persName>.</p>
+<p>Ce 6 Mars 65.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huggens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

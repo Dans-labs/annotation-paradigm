@@ -1,0 +1,48 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2242"/>
+<meta type="date" value="1681-02-20"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2242">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 20 Febr. 1681.</p>
+</div>
+<p>Je vous rends graces de la liste que vous m'avez envoijée des livres de l'Anglois qui regardent la Peinture et les Peintres. Je vous prie d'achepter de luy les suivants</p>
+<list>
+<item>4<hi rend="sup">o</hi>.</item>
+<item>3. Lezzioni del Varchi della Pittura et Architet<note n="#1"/>.</item>
+<item>Il Figino della Pittura del Commanini<note n="#2"/>.</item>
+<item>8<hi rend="sup">o</hi> et 12<hi rend="sup">o</hi>.</item>
+<item>Trattato della Pittura del Bisagno<note n="#3"/>.</item>
+<item>Dialogi della Pittura di P. Pino<note n="#4"/>.</item>
+<item>Il desegno del Doni<note n="#5"/>.</item>
+<item>Trattato della Pittura di Rom. Alberti<note n="#6"/></item>
+<item>Vite dé Pittori di Bellori<note n="#7"/>.</item>
+</list>
+<p>Aussi les trois suivants, si vous jugez qu'ils en vaillent la peine, et autrement point, par ce que je ne les connois pas.</p>
+<list>
+<item>Abregé d'Anatomie propre aux Peintres par Tortebat<note n="#8"/>.</item>
+<item>Portraiture de J. Cousin<note n="#9"/>.</item>
+<item>Portraiture du Sr. Igny<note n="#10"/>.</item>
+</list>
+<p>J'attendray aussi s'il vous plaist la colomne Trajane et les autres choses dont je vous ay escrit dans ma derniere.</p>
+<p>J'escriray a de Flines pour les choses que vous souhaittez des demain. Je suis tres fasché de ne m'en estre pas souvenu quand je luy ay parlé il y a peu de jours a Amsterdam; mais le mal n'est pas grand par ce qu'il m'a dit qu'il viendra icy dans peu et que sans cela je seray obligé de passer encor à Amsterdam avant qu'il soit six jours pour aller faire une course au Veluw.</p>
+<p>Il est curieux d'avoir de beaux oiseaux de pays estrangers, et m'en fit voir un de la grandeur d'un moineau mais long et menu et d'un plumage bleu et meslé d'aurore qui estoit bien extraordinaire. Il venoit de l'Amerique avec une Tourterelle faite comme les nostres mais qui avoit les aisles toutes vertes.</p>
+<p>A Amsterdam nous vismes l'Opera, dont je suis asseuré qu'il Signor Padre vous aura desja entretenu<note n="#11"/>. Les decorations en sont fort jolies et ne doivent pas beaucoup à celles de Paris au jugement de ceux qui ont veu les unes et les autres. Les machines ne sont que bien mediocres, mais il y a trois quatre voix tres excellentes. La meilleure est une basse, la deuxiesme celle d'un chastré qui a chanté longtemps dans les Operas de Venise, la troisiesme d'un homme qui chante une taille, et la 4<hi rend="sup">me</hi> d'une femme.</p>
+<p>La Cousine Sophie de Willem continue tousjours d'estre malade<note n="#12"/> mais la rate fait la plus grande partie de son mal.</p>
+<p>Mr. <persName>van Leeuwen</persName> revient dans peu de son ambassade mais sera oblige de retourner en Angleterre a la prochaine assemblee du Parlement.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huygens de Zulichem</persName> rüe Vivienne a la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,17 @@
+// Is N@M;S in Ps 22:15 a perfect or a participle? This query looks for
+// parallel constructions.
+
+// ident @(#)lq22.mql	1.1 06/02/10
+
+select all objects where
+
+[clause
+   [word first lexeme = "HJH["]
+   [phrase phrase_type = NP or phrase_type = PropNP]
+   [phrase
+      [word first lexeme = "K"]
+   ]
+]
+[clause
+   [phrase first phrase_type = VP]
+]

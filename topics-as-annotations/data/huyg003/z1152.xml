@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1152"/>
+<meta type="date" value="1663-10-05"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1152">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>j'enuoye reconnoistre si c'est vne verite ou vne illusion que ce quon me dit hier chés moy que vous auiés pris la peine d'y passer et d'y demander de mes nouuelles. Si l'auis est certain je n'en pouuois receuoir de plus agreable puis que j'estois par la assure de vostre santé de vostre retour et de vostre amitié que vous ne doutés point qui mest insiniment chere. Ma joye redoublera si j'apprens que Monsieur vostre Fils<note n="#1"/> soit reuenu auec vous. Il est dvne vertu et d'vn merite si extraordinaires quon ne peut laimer et l'honnorer mediocrement Jattens anec impatience destre echlairci de ces deux choses et demeure de l'vn et de l'autre auec beaucoup de passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Treshumble et tres obeissant seruiteur <persName key="chap002">Chapelain</persName>.</p>
+<p>Ce 5. Octobre.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huggens de Zulichem</persName></p>
+</div>
+</body>
+</text>
+</TEI>

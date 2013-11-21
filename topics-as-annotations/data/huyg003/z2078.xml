@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2078"/>
+<meta type="date" value="1675-11-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2078">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 21 Nov. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je viens de voir Monsieur <persName key="cham003">Chamberlain</persName>, qui m'a dit que Mr. <persName>Ken</persName><note n="#1"/>, venu depuis peu d'Italie, partiroit demain pour Angleterre, et que c'estoit une occasion tres sure pour vous faire tenir la montre que vous m'avez demandée, de sorte que j'ay trouuè bon de la luy consier. Elle est de Thuret, qui jusqu'icy fait les meilleurs et en a grand debit. C'est le mesme qui en avoit usè si mal avec moy<note n="#2"/>, lors que je luy consiay cette invention, mais s'estant a la fin retractè par une lettre<note n="#3"/> qu'on l'a obligè de m'escrire, et m'estant venu demander pardon je ne fais plus de difficultè de l'emploier. Il fait valoir la nouveautè en debitant ces ouvrages et les vend jusqu'a 40 louis d'or. Celle cy m'en couste 25, et je n'ay sceu l'avoir a moins. Je crois que c'est a peu pres tout ce qu'on peut donner de perfection a cette invention en petit, estant necessaire que le mouvement ne puisse pas arrester la montre. Je l'ay examinée pendant deux jours, et en suis assez satisfait, car d'en attendre une pareille justesse que des pendules, ce seroit vouloir l'impossible. Il doit suffire qu'elles aillent incomparablement mieux que les montres ordinaires. Pour la mettre juste a l'heure il y a un bouton dorè qu'on fait couler avec les doigts pour accourcir ou alonger le petit ressort. Et outre cela il y a un autre bouton, qui est de mesme mobile et sert a faire echapper egalement les dents de la roue de rencontre, par ce qu'avec ce bouton l'on transpose le petit ressort qui
+y est attachè par un bout. Milord <persName key="brou051">Brouncker</persName> n'aura pas de difficultè de comprendre tout cela.</p>
+<p>Je n'ay pas encore receu sa responce<note n="#4"/> que vous me promettez par vostre derniere<note n="#5"/>, mais cela ne presse point, je souhaite seulement que la lettre<note n="#6"/> que je luy ay escrite ait pu contribuer a vostre justification et a la miene.</p>
+<p>Pour le remboursement de l'argent de la montre voiez je vous prie si cela se pourroit par le moyen de Milord Herbert, si vous ne trouvez pas d'autre voie plus commode. Si j'eusse pu avoir une montre d'argent avec les minutes, je l'aurois envoiée au lieu de celle cy, mais cet ouvrier n'en fait que d'or, ou il trouve mieux son compte, et les autres ne sont pas encore assez stilez en ce travail. J'espere pourtant que d'en<note n="#7"/> peu j'en pourray avoir d'argent qui soient bonnes, et avec quelque changement dans la construction qui la rendra plus simple et plus facile.</p>
+<p>Je vous prie de m'advertir de la reception de plus tost qu'il sera possible et de me croire</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>En montant la montre il est bon d'appuier par les deux bouts de la clef, par ce que cela se fait plus facilement de cette maniere.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">Oldenburg</persName> Secretaire de la la [sic] Soc. Royale A Londres.
+<lb/>avec une boete.</p>
+</div>
+</body>
+</text>
+</TEI>

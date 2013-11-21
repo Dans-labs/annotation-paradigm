@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1323"/>
+<meta type="date" value="1665-02-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta resp="corpus" type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1323">
+<div type="opener">
+<p>a mon Pere</p>
+<p>5 Febrier 1665.</p>
+</div>
+<p>De la lettre de Moray<note n="#1"/> qu'il la fasse copier. qu'il demande le Privilege en France. que je m'offre de payer le sceau. que peut estre il pourra laisser commission a quelqu'un. ce que Moray m'escrit<note n="#2"/> et offre d'y emploier l'abbe de Beaufort<note n="#3"/>. Remercie des 3 Journaux et du Projet, difficultè de trouuer un fonds pour cela de 20 ou 30 mille escus de rente. Tresmarry de la mort de Monsieur Fermat<note n="#4"/> de qui j'attendois de belles choses.</p>
+</div>
+</body>
+</text>
+</TEI>

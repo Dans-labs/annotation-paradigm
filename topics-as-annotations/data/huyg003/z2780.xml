@@ -1,0 +1,50 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2780"/>
+<meta type="date" value="1692-12-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2777"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2780">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill96.gif"></graphic></figure></p>
+<p>2<hi rend="i">aaz</hi>/<hi rend="i">aa</hi>-<hi rend="i">zz</hi>=<hi rend="i">y</hi>, MH.</p>
+<p>Aequatio Curvae LH:</p>
+<list>
+<item><hi rend="i">zzy</hi>+2<hi rend="i">aaz</hi>=<hi rend="i">aay</hi>; sit <hi rend="i">ωz</hi>/<hi rend="i">a</hi>=<hi rend="i">y</hi></item>
+<item><hi rend="i">zzzω</hi>/<hi rend="i">a</hi>+2<hi rend="i">aaz</hi>=<hi rend="i">aωz</hi></item>
+<item><hi rend="i">zzω</hi>+2<hi rend="i">a</hi><hi rend="sup">3</hi>=<hi rend="i">aaω</hi></item>
+<item><hi rend="i">zz</hi>=<hi rend="i">aaω</hi>-2<hi rend="i">a</hi><hi rend="sup">3</hi>/<hi rend="i">ω</hi>; 2<hi rend="i">a</hi><hi rend="sup">3</hi>/<hi rend="i">aa</hi>-<hi rend="i">zz</hi>=<hi rend="i">ω</hi> [MD]</item>
+</list>
+<p>Ergo <hi rend="i">ω</hi> sunt erectae in spatio VDML, quod potest quoque ad quadraturam hyperbolae reduci<note n="#3"/>. Sed hic nihil opus est.</p>
+<p>&nbsp;</p>
+<p>Sit <hi rend="i">zz</hi>=<hi rend="i">aβ</hi>; <hi rend="i">zz</hi>/<hi rend="i">a</hi>=<hi rend="i">β</hi>, FE.</p>
+<list>
+<item><hi rend="i">aβ</hi>=<hi rend="i">aaω</hi>-2<hi rend="i">a</hi><hi rend="sup">3</hi>/<hi rend="i">ω</hi></item>
+<item><hi rend="i">ωβ</hi>+2<hi rend="i">aa</hi>=<hi rend="i">aω</hi></item>
+<item>2<hi rend="i">aa</hi>=<hi rend="i">aω</hi>-<hi rend="i">βω</hi>.</item>
+</list>
+<p><hi rend="i">β</hi> ergo est applicata in hyperbola ad perpend. asymptoto, FL; <hi rend="i">ωz</hi>=<hi rend="i">ay</hi>. Ergo si haberem <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ωz</hi><note n="#4"/> haberem quoque <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ay</hi><note n="#5"/> unde et <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">y</hi>, hoc est quadraturam quaesitam.</p>
+<p>Haberem <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ωz</hi> si haberem <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">zz</hi><note n="#6"/> in spatio VDF. Quod sic ostenditur<note n="#7"/> <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ωz</hi> est ungula super spatio VDML abscissa per LVF angulo semirecto; cui ungulae aequatur ½ summa quadratorum ab rectis in rectangulo LFDM ad FL applicatis, minus ½ summa quadratorum ab applicatis ad FV in spatio curvilinea VDF.</p>
+<p>Porro haec posterior ½ summa aequatur solido cujus basis est spatium hyperbolicum EVF altitudo=½ FC sive ½ <hi rend="i">a</hi>; quia ubique <hi rend="i">β</hi>=<hi rend="i">zz</hi>/<hi rend="i">a</hi> ideoquesingula ½ <hi rend="i">αβ</hi>==½ <hi rend="i">zz</hi>, nempe earum <hi rend="i">z</hi> quae sunt in spatio DVF applicatae ad FV.</p>
+<p>Sed prior ½ summa quadratorum ab rectis in·▭ FDML, aequatur toti ▭<hi rend="sup">o</hi> EFLR ducto in altitudem ½ <hi rend="i">a</hi>, quia videlicet proportionales CF, DF, EF. Ergo differentia dictarum ½ summarum quadratorum aequabitur solido cujus basis spatium hyperb. EVLR, altitudo ½ <hi rend="i">a</hi>; quod igitur=<figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ωz</hi>, hoc est <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ay</hi>; sive spatio LHM in <hi rend="i">a</hi>.</p>
+<p>Itaque cum spat. hyperbolicum VERL in ½ <hi rend="i">a</hi> sit=<figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ωz</hi>=<figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure> <hi rend="i">ay</hi>: Erit spat. LHM=½ sp. VERL.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#8"/>.</head>
+<p>Si describeretur Logarithmica cujus subtangens AS=√2<hi rend="i">aa</hi>, quantum est latus quadrati in angulo hyperbolae TVE. ET ad illam applicarentur duae rectae
+rationem habentes quam DM ad VL, hoc est quam <hi rend="i">ω</hi> ad 2<hi rend="i">a</hi>, vel quam MH ad 2LM, hoc est quam <hi rend="i">y</hi> ad 2<hi rend="i">z</hi>, istarum rectarum distantia in asymptoto Logarithmicae ducta in AS subtangentem, faceret rectangulum=spatio hyperbolico VERL<note n="#9"/> quod duplum esset spatii LHM. Si vero in logarithmica cujus subtangens LA sive <hi rend="i">a</hi> duae rectae in eadem dicta proportione statuantur ad asymptoton, earum distantia ducta in subtangentem AL, faciet rectangulum dimidium prioris, quia alterum illud rectangulum erit ad hoc in duplicata ratione laterum. Ergo posterius rectangulum fiet aequale spatio LHM. Hinc brevissima constructio.</p>
+<p>Ductu enim tangente in L puncto curvae LH (sumpta nempe AB dupla LA<note n="#10"/>) à puncto <hi rend="i">π</hi> ubi secat applicatum MH ducatur asymptoto parallela ad Logarithmicam <hi rend="i">ρσ</hi> cujus subtangens=LA, eique occurrat in <hi rend="i">ρ</hi>. Item à puncto H similis parallela occurrat Logarithmicae eadem in <hi rend="i">σ</hi>. Jam distantia [<hi rend="i">ρτ</hi>] duarum perpendicularium in asymptoton ex punctis <hi rend="i">ρ</hi> et <hi rend="i">σ</hi> ductarum cum recta LA faciet rectangulum aequale spatio LMH<note n="#11"/>.</p>
+<p>Convenit cum quadratura Hospitalij<note n="#12"/> sed est brevior conctructio.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

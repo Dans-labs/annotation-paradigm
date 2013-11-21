@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2071"/>
+<meta type="date" value="1675-11-04"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2071">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 25 oct. 75.</p>
+<p>Monsieur,</p>
+</div>
+<p>Venant d'entendre de Mylord <persName key="brou051">Brouncker</persName>, qu'il y a presentement plusieurs gentilshommes Anglois à Paris, prests de faire le traject à Londres, et desquels on pourroit trouuer quelcun, qui se voulût charger de la montre que nous attendons de vous, ie n'ay pas voulu manquer de vous en advertir, à fin que vous prenniez toutes les occasions de vous enquerir de quelcun, qui en voulût prendre soin. Si cela vous manque, Myl<hi rend="sup">d</hi> Brouncker vous conseille de faire mettre ladite montre dans le premier pacquet que l'on addressera de Paris à Monsieur de Ruvigny<note n="#1"/> icy, faisant l'inscription du pacquet à Mylord Brouncker oú à moy, qui ne manqueront pas d'en payer le port comme il faut. Si vous eussiez sceu la commodité de l'envoyer par Monsieur Godolphin<note n="#2"/>, qui est nouuellement arrivé icy de Paris auec vn livre pour moy, nous eussions eu la montre auec suretè. Je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

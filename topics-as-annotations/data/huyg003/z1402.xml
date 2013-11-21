@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1402"/>
+<meta type="date" value="1665-05-03"/>
+<meta type="sender" value="chal019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="lyon_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1402">
+<div type="opener">
+<p>Lyon ce 3 may 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>La courtoisie, et la bonté que nous admirasmes dans la personne de Monsieur uostre Pere, lorsque passant par cette uille, il nous fist lhonneur de uisiter ce college, me donne la hardiesse de uous escrire cette lettre, encor que ie n'aye pas lhonneur d'estre cogneu de uous. Vos belles inuentions et si utiles au public, uous font asses cognoistre par tout; nous auons admiré la solution du Probleme des longitudes si necessaire a la nauigation; et ie crois qu'on<note n="#2"/> uous aura desia importuné pour sçauoir le secret particulier par lequel uous donnez aux pendules la derniere iustesse.</p>
+<p>Monsieur Vostre Pere uist dans ma chambre quantité de formes pour faire des lunettes de longue ueuë; et me dict que uous y auiés trauaillé fort heureusement; et mesme il sembla m'indiquer que uous uous seruiés du tour a cet effect.</p>
+<p>pour moy qui n'ay rien faict qu'a la facon ordinaire et qui ay tousiours trauaillé a la main dedans des formes ie fus rauy d'auoir cett' ouuerture pour apprendre quelque chose de nouueau. Ainsy ie uous prie que si uostre loisir uous le permet de me faire la faueur de coucher sur le papier la maniere dont uous uous seruéz pour faire des lunettes qui sont capables de uoir si clairement iusques dans les astres, ainsy que nous auons ueu dans uos liures, et de ne pas oublier les plus petites circonstances. Nous auons leu dans une piece uolante<note n="#3"/> de Monsieur Auzout la description du tour de Monsieur Hook, lequel nous auons creu ne pouuoir pas reussir en pratique, particulierement a cause qu'il nest pas capable de receuoir le sable, et encor pour d'aultres inconuenients. Ie seray rauy d'apprendre de uous quelque chose de pratique. Et en contreschange Ie uous donne aduis que nous auons en cette uille la plus belle matiere pour faire des lunettes qui aye iamais esté. on a establi icy une fournaise de christal, le plus blanc qui se peust, et ce qui est le meilleur, c'est qu'a la faueur d'une petite inuention que ie leur ay donné, ils tirent le uerre fort net, et qui a presque la figure iuste, sans aulcun tortillion et sans aulcune soufleure au dedans. I'en ay desia trauaillez quelques uns dans lesquels il n'y a ni soufleure ni ondes, dans l'espaisseur d'un poulce; dans laquelle un uerre de uenize en auroit peust-estre plus de cent. Si i'estois plus aduancé dans un ouurage<note n="#4"/> que i'ay commencé d'un cours entier de matematique ie luy en fairois part, mais comme ie n'en ay encor de faict que la troisiesme partie, et que ie ne puis prendre des mesures iustes pour scauoir quand il sera acheué a raison des occupations que mes superieurs me donnent me faisant enseigner la Theologie, ie ne luy en dicts mot. Si I'estois asses heureux pour uous rendre quelque seruice par deça ie m'estimerois extremement honoré comm' estant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et obeissant seruiteur <persName key="chal019">Claude François Dechales</persName> de la compagnie de Iesus.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christi. Hugens</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

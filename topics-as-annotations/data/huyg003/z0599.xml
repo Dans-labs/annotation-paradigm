@@ -1,0 +1,44 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0599"/>
+<meta type="date" value="1659-03-14"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0599">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce <date>14<hi rend="sup">e</hi> Mars 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous remercie de vostre response tres obligeante et de la lettre de Monsieur Schoten que vous m'auez fait tenir. Je les ay receuës en mesme Jour, quoy qu'elles soient parties a differentes postes. Je vous en aurois rendu graces plustost si J'eusse pû trouuer aisement nos Messieurs lorsque J'ay esté chez eux pour leur dire ce que vous Leur enuoyez. J'ay grand desir de voir la lettre que vous auez escrite a Monsieur De Carcaui<note n="#1"/> ont<note n="#2"/> sont vos propositions des superficies Conoidales, Je ne l'ay pû encor rencontrer a propos pour cela, ce sera pour la premiere entreueuë, Monsieur Auzout a trouué la superficie du Conoide Parabolique et non de l'Elliptique ou de l'hyperbolique, Je ne scay si par ma precedente Je vous ay mandé qu'il eust acheué la dimension de toutes les <hi rend="i">Roulettes Circulaires</hi> (c'est a dire dont la base est vn Cercle) <hi rend="i">tam primariarum quàm secundariarum</hi>, (c'est a dire des Roulettes tant simples que raccourcies ou allongées) <hi rend="i">tam directarum quàm jnuersarum</hi> (c'est a dire de celles dont le mouuement circulaire de la Rouë est de mesme sens que le mouuement de son Centre, ou d'un sens contraire). Jl donne aussi la dimension des Espaces compris entre ces Lignes et leur Base. La Roulette ordinaire qui a vne droite pour base n'en n'est qu'un Cas, comme si cette base estoit vn Cercle dont le centre fust a distance jnfinie, Jl croit auoir vne voye pour demonstrer que l'hyperbole droite, jnfinie est egale a son Asymptote, mais Jl n'ose pas encor l'Asseurer pour vray. Cela pourroit bien reuenir aux propositions de Monsieur Heuraet. Je croy que Monsieur Schoten est assez juste et raisonnable pour vous rendre et a Monsieur Auzout ce qui vous appartient en cette nouueauté; Jl y en
+a vne jcy qui vous surprendra, c'est vne gageure que veut faire Monsieur Dulaurens<note n="#3"/> qui dit vous auoir veu en Hollande, Jl pretend trouuer deux moyennes proportionelles par les plans, c'est a dire par le Cercle &amp; la Ligne droite, jl y a plus d'un mois qu'il me parle de cette jnuention que je luy témoigne ne pas croire sans l'auoir veuë, Je n'ay rien
+encor veu de Luy d'assez fort pour m'obliger a le croire sur sa parole, et beaucoup moins dans cette rencontre ou jl y a presque certitude du contraire. Jl m'apportera dans deux ou trois Jours les Conditions de sa gageure par escrit, sans vouloir donner vne Construction Geometrique, mais seulement vn Equation plane de ce probleme. Jl n'en veut pas demeurer là; Jl ose, aprez vn Examen (qu'il demande encor pour quelques Jours) determiner qu'il n'y a aucun probleme solide, mais qu'ils sont tous plans. Sa maniere est qu'en tout probleme, (comme en celuy des deux moyennes proportionelles) Jl trouue deux Equations montant a differens degrez, l'une au Cube et l'autre a la 9<hi rend="sup">eme</hi> puissance, et les reduit aprez a vne seule Equation plane, d'ou Jl conclud que le probleme est plan. Jl m'escriuit d'Angers que les perles de Monsieur Sluse estoient des paraboles de tous les degrez sans en donner le particulier comme vous faites a vostre ordinaire, c'est a dire auec beaucoup d'elegance.
+Le liure de Monsieur <persName key="pasc001">Paschal</persName><note n="#4"/> est Acheué. Jl en a distribué a tous ses Amys de deça, et en a mis entre les mains de Monsieur Bouillaut qui a promis de vous les faire tenir<note n="#5"/> seurement par vn marchand<note n="#6"/> qui est peut estre parti a l'heure que je vous escris, si vous estes dans l'Jmpatience de voir cet ouurage, Monsieur De Carcaui vous en enuoyera vn par la poste<note n="#7"/>, Jl n'attend pour cela que vostre response ce que Jl ne vous conseille pas car le port en seroit trop cher, et dans le
+temps de 25 ou 30 Jours que nos lettres auroient esté sur les chemins, ceux que l'on vous enuoye pourront vous estre rendus, par Auance en voicy les tiltres.</p>
+<p>La resolution de tous les problemes touchant la Roulette qu'il auoit proposez publiquement au mois de Juin 1658.</p>
+<p>L'Egalité entre les Lignes courbes de toutes sortes de Roulettes et des Lignes Elliptiques.</p>
+<p>L'egalité entre les Lignes spirale et parabolique, demonstrée a la maniere des Anciens.</p>
+<p>La dimension d'un Solide formé par le moyen d'une spirale autour d'un Cone.</p>
+<p>La dimension et le Centre de grauité des Triangles Cylindriques.</p>
+<p>La dimension et le Centre de grauité de l'Escalier.</p>
+<p>Vn traitté des Trilignes et de leurs Onglets.</p>
+<p>Vn traitté des sinus et des Arcs de Cercle.</p>
+<p>Vn traitté des solides Circulaires.</p>
+<p>Je m'estonne que Monsieur Schoten n'ait sceu que de moy la proposition de Monsieur <persName key="wren002">Wren</persName>, c'est ce qui Luy a fait paroistre ma demonstration plus obscure qu'a vous qui auiez tout trouué sur ce sujet, Je vous supplie de lire l'Eclaircissement<note n="#8"/> que Je Luy en enuoye, vous verrez que (sans rien changer en ce que Je vous
+en escriuis par ma precedente)<note n="#9"/> Je donne des droites egales aux portions de la Cycloide simple, Je ne puis m'empescher de croire que la consideration des mouuemens n'en rende la demonstration plus euidente. Tous nos messieurs vous font leurs Baisemains et moy Je suis de tout mon Coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mylo002">Mylon</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

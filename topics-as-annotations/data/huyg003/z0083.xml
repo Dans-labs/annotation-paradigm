@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0083"/>
+<meta type="date" value="1650-05-29"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rome_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0083">
+<div type="opener">
+<p><placeName key="rome_001">Rome</placeName> <date>29 may 1650</date>.</p>
+<p>Mon frere,</p>
+</div>
+<p>J'aij receu vostre derniere du 4<hi rend="sup">e</hi> Apvril<note n="#1"/> et l'eloge que donne le Gazettier à Mr. <persName key="desc004">Descartes</persName>, qui est tout à fait drolle. Ce coquin la merite que touts les Philosophes luy donnent les estrivieres. Je vous souhaitte bien de fois icy avec moy pour considerer ensemble tant de belles choses dont il y a icy si grande quantité qu'on
+s'en soule. Si vous regardez dans la moindre maison la porte estant ouverte vous verrez dans la Cour de derriere des grands orangers et trois ou quatre belles statues antiques de marbre blanc. Il y a trois jours que nous fusmes dans les Catacumbes, ou Roma sotterranea dont vous avez le livre<note n="#2"/> chez nous. On y entre aupres de St. Sebastien et a moins que d'auoir un bon guide on s'y esgareroit incontinent, car ces labirynthes vont jusques dans le Royaume de Naples et par dessoubs le Tibre. Nous passons des jours entiers en pourmenades et a voir tant d'antiquités, Vignes, Palais et quid non? Quand on est bien las on va boire dans des maisons qui sont expressement pour cela des certaines eaux refraisschissantes qu'ils font icy de toute sorte de goust comme de Cerises, de fraises, de Citrons, de l'Ambre, de Canelle &amp;c. ils les font dans des certaines petites bouteilles qu'ils mettent dans de la neige meslée de sel et de salpetre, ce qui les fait geler incontinent tout autour, et c'est une chose delicieuse de les boire. Adieu.</p>
+</div>
+<div type="para">
+<p>A Mon frere <persName key="huyg003">Chrestien Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

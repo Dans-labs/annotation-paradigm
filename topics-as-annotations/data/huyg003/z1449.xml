@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1449"/>
+<meta type="date" value="1665"/>
+<meta type="sender" value="hudd002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="1446"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1449">
+<p>Progressie in de quaestie, als die geene die kruijs werpt, maer een ducaet treckt<note n="#1"/>.</p>
+<p><figure><graphic url="huyg003oeuv05ill49.gif"></graphic></figure><note n="#2"/><note n="#3"/></p>
+<p><figure rend="inline"><graphic url="huyg003oeuv05fi14.gif"></graphic></figure></p>
+<div type="comment">
+<head rend="h4">Traduction</head>
+<p>Progression dans la question, quand celui qui jette croix ne tire qu'un ducat<note n="#4"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

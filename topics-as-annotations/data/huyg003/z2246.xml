@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2246"/>
+<meta type="date" value="1681-05-07"/>
+<meta type="sender" value="rump004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2246">
+<div type="opener">
+<p>Monsieur<note n="#1"/></p>
+</div>
+<p>Vous verrez, s'il vous plaist, par la copie cy joincte<note n="#2"/>, que les scavants d'Upsal tesmoignent assez de bonne volonté et dempressement pour satisfaire a vostre Jllustre Archimede sur le point des 4 soleils. Jespere vous envoyer par le prochain ordinaire, ce qu'ils me promettent, dans la copie susditte, de la Lettre de Mons.<hi rend="sup">r</hi> le Professeur Columbus<note n="#3"/>, gendre de feu Monsieur le Professeur Scheffers<note n="#4"/>, qui est assez cognu parmy les scavants. Sil y a quelqu'autre chose a vostre service, vous n'avez qu'a commander librement celuy qui est et sera toute sa vie avec passion et integrité</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="rump004">C.C. Rumpf</persName>.</p>
+<p>Stockholm ce 27/7 davril de Maij 1681.</p>
+</div>
+</div>
+<div type="para">
+<p>dheer <persName key="huyg001">van Zuylichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0879"/>
+<meta type="date" value="1661-07-21"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0879">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> cet <date>11. Juillet 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Nous n'auons rien de ces parclies que ce que Je vous ay enuoyé, de la part de Monsieur <persName key="boyl001">Boile</persName>.
+le vray moyen d'auoir ce qui y manque e'est d'escrire à Monsieur <persName key="heve011">Heuelius</persName> comme vous dites. Cependant nous nous resiouïssons fort de l'assurance que vous nous donnez que vous sçauez expliquer les causes de tous ces phenomenes. Mais ce n'est pas le tout. Vous nous permettrez aussi d'esperer, que vous donnerez tout ce que vous auez medité sur ce suiet, au iour bientost. Je ne doubte point que vous n'ayiez veu Monsieur d'Oldenbourg deuant que celle cy vous soit rendue. Monsieur Wren sera bien glorieux de ce que vous dites de son Globe lunaire. Je le luy manderay bien tost. Je fuis tout aussi loin de croire que vous soyiez sans quelque occupation belle et utile, comme de desirer que vous le soyiez, &amp; Je comprens fort bien ce que vous dites des interruptions qu'on recoit des importunitez des visites, mais tout cela ne m'empesche pas de croire, que vous trouuerez tousiours assez de loisir pour parachener ce que vous auez entre les mains. Nous sommes tousiours occupez à quelque petit experiment. Vous en sçaurez quelques particularitez quand ils sont faits. les derniers sont touchant la compression de l'eau, et de l'air. Voylà tout ce que J'ay le loisir de vous dire à present, si ce n'est que Je suis de toute mon ame</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulecheim</persName> a la Haye.
+<lb/>1 β
+<lb/>XII.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0345"/>
+<meta type="date" value="1656-10-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="du_m001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0345">
+<div type="opener">
+<p><date>19 Oct. 1656</date>.</p>
+<p><persName key="du_m001">Du Mont</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Mon Pere en vous envoyant par sa derniere des pieces de sa composition oublia d'y adjouster cette courante<note n="#1"/> de Gautier qu'il avoit prise de la tablature du luth, et mis en celle que vous voyez. Il a donc voulu que je vous l'envoyasse<note n="#2"/>, afin d'entendre vostre jugement sur cette facon de tablature<note n="#3"/>, qui luy semble beaucoup
+plus facile que l'ordinaire de l'epinette non seulement à escrire, mais aussi a jouer. Pour moy je le scay par experience, et serois bien aise que vous fussiez de ce mesine advis; afin que quand vous auriez la bontè de m'envoyer quelque chose de vos belles productions, vous voulussiez prendre la peine de le mettre de cette mesme maniere. Puis qu'elle est sufsisante pour le jeu du luth, je ne voy pas pourquoy elle ne le seroit pas aussi pour celuy de l'espinette; car encore qu'on n'y voye pas precisement combien il faut demeurer sur chasque note, il est pourtant facile de le juger en jouant, à ceux qui n'ont pas l'oreille mauvaise. Comme aussi de discerner les parties.</p>
+<div type="closer">
+<p>Je suis de tout mon coeur
+<lb/>Monsieur
+<lb/>Vostre treshumble serviteur, <persName key="huyg003">Chr. Huygens</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

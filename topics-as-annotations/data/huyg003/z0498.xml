@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0498"/>
+<meta type="date" value="1658-07-17"/>
+<meta type="sender" value="conr025"/>
+<meta resp="HI" type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0498">
+<div type="opener">
+<p>Omnibus Reverendis, Praenobilibus, Clarissimis, &amp; quovis alio titulo conspicuis per Europen, Mathematicis. S.P.D. <persName key="conr025">Balthasar Conradus</persName> S.I.</p>
+</div>
+<p>Ut quaedam conferam vobiscum, Illustres Animae, pauca illa quidem, sed quae momenti ac ponderis in totam Rempublicam nostram Litterariam maximi esse videantur, injectus mihi jam pridem nescio quis perurget calor. Quocirca non temerè sperârim fore, ut quantò major vos communis tangit cura boni, tantò huic meae ad vos Epistolae libentius otium è sublimibus illis vestris conceptibus rescindatis.</p>
+<p>Ex quo ergo primum (nec pauci anni sunt) pernòsse coepi Telescopium, didicique nec omnia ejusdem esse notae ac bonitatis, &amp; plurima plurimum à summa abesse perfectione; ingens me invasit animus ac desiderium, imò &amp; spes, eo aliquando deveniendi, ut certam ac infallibilem assequerer rationem, ad summam deducendi Telescopii perfectionem. Coepi itaque pervolvere inprimis Authores, quotquot de id genus Instrumento nancisci potui; tum speculari ipse, &amp; multa cum animo putare meo; tandemque &amp; operi manum, nec leviter aut oscitanter admovere, &amp; varia, quae
+vel ad substantiam ipsam operis, vel ad modum pertinent, experiri. Sed &amp; illicò difficultates sese undique oggesserunt, nec paucae eae numero, nec leves superatu: tot certè, ac tantae, ut nisi Deus constantiam in labore poenè ferream concessisset, non mirum fuisset, si millies <hi rend="i">ῥίψασπις</hi> successum desperâssem. Superavi tamen tandem cum divina gratia, quae se opposuerant, difficultates omnes; eoque artem perduxi, ut sequentia problemata praestare possim:</p>
+<list>
+<label>I.</label><item>Perfectam superficiem sphaericam, sive cavam in patinas, sive convexam in globos inducere; idque nec negotio, nec sumptibus adeo magnis.</item>
+<label>II.</label><item>Vitra perfectè concavare sphaericè, aut sphaericè convexare.</item>
+<label>III.</label><item>Perfectissimè polire superficiem sphaericam tam cavam, quàm convexam, sine periculo figurae vitiandae.</item>
+<label>IV.</label><item>Oblatae cujuscunque patinae aut globi vitia, etiam occultissima, statim detegere.</item>
+<label>V.</label><item>Infallibiliter semper, ex materia apta, bonum elaborare Telescopium, ad quamcunque longitudinem.</item>
+</list>
+<p>Quorum problematum solutio quanti momenti sit in rem omnem Mathematicam &amp; praecipuè Astronomiam; quin &amp; in usum totius generis humani; nemo unus Vobis melius aestimaverit: ut proinde longiore eam rem Vobis circuitu demonstrare ac depraedicare, minimè sit necessarium.</p>
+<p>Hanc autem ego mihi scientiam uti hactenus, nec sine ratione, occultam habui, ita &amp; imposterum habere potuissem; vel certè ita solum propalare, ut extra Societatem nostram non emanaret; nisi me communis boni ratio ad alia consilia inclinasset. Itaque molior Opus justum ac integrum, quo totam hanc artem &amp; quidquid de Telescopio dici aut quaeri potest, complectar; planèque ac dilucidè, sine tenebris, omnem quam hactenus ingenio qualicunque demum, experientiâ indefessâ, &amp; sumptibus non modicis, scientiam in hoc genere consecutus sum, aperiam.</p>
+<p>Quia verò unius hominis vix est, Opus tam omnibus numeris absolutum, quàm &amp; res postulat litteraria, &amp; ipse ego desiderarem, in lucem protrudere; ideo aequum planè videtur, ut Vos etiam, Illustres animae, vestras quasi symbolas in medium conferatis. Quapropter Vos omnes etiam atque etiam rogo, ut si quis vestrûm in hoc genere aliquid aut invenit ipse, aut aliunde rescit, ultra ea quae vel Sirturus<note n="#5"/> vel Scheinerus<note n="#6"/>, vel Rheita<note n="#7"/>, vel Hevelius<note n="#8"/>, vel Magnan<note n="#9"/>, vel P. Schottus<note n="#10"/>,
+vel Borellus<note n="#11"/> prodidit, aut ego promitto; dignetur id mecum pro suo in commune bonum studio communicare. Vicissim bonâ polliceor fide, ita me eâ gratiâ, ac humanitate usurum, ut nulli quidquam de sua laude ac nomine deteratur. De reliquo radios ego vestros radio omniscii Numinis ex animo commendo, in dignas scientiâ nostrâ, &amp; aeternitate speculationes. Valete, &amp; favete. Vratislaviae 17. Julii 1658.</p>
+<div type="closer">
+<p>Vestrarum DD.</p>
+<p>Servus in Christo <persName key="conr025">Balthasar Conradus</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

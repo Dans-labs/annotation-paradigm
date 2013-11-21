@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2663"/>
+<meta type="date" value="1691-02-25"/>
+<meta type="sender" value="meie015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="breme901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2663">
+<div type="opener">
+<p lang="la">Nobilissime Domine.</p>
+</div>
+<p>Commendavit fidei meae literas in Belgium cursore ad te publico deferendas<note n="#2"/> Ampliss. Leibnizius. Ergo certè gratulatus mihi sum quòd optimi Amici voluntati obsequendi atque ad Tuam, Vir Nobilissime, notitiam ingrediendi hac mihi via aperta est opportunitas. Pervagatur enim à multis retrò annis Orbem eruditum nominis Tui celebritas, quem mirandis ingenii speciminibus in Tui cultum adtraxisti, atque superiori iterum anno explicatis refracti reflexique luminis principiis domesticis, Tibi obligasti.</p>
+<p>Macte, Vir Illustris, tua ista virtute, doctos porrò recrea et non contemnendis adhuc partibus truncam mutilamque physicen perfice atque exorna. Dolendum enim est postquam Nobilissimus des Cartes viam ad naturae condita hactenus mysteria apparavit, plerosque ex ejus schola discipulos egressos fluenti velut quodam afflatos morbo, nihil adeo inventis Magistri addidisse, immò inveniri illos inter, qui coeca veluti obedientiae lege nullo <hi rend="i">λογισμῶν</hi> instituto calculo philosophemata viri amplectantur, profiteantur. Quibus Tu, Vir Nobilissime, facem praetulisti ut, quae philosophandi regia sit, cominus intueantur et ex segnitiei somno expergefiant.</p>
+<p>Vale, Vir Celeberrime, et in multos porro annos solidioris doctrinae praesidium atque decus intemeratus sospesque vive, atque ama illum, qui B. Parenti seni quondam clarus, atque penes ipsum interioris erat admissionis.</p>
+<p>Literas ad Celeb. Leibnitium responsorias si mihi credideris, faxo ego summa voluntate, ut rectè curentur.</p>
+<div type="closer">
+<p>Dabam Bremae 25 Febr. A. aerae Christ. 1691.</p>
+<p>Tuae Amplitud. Studiosissimus <persName key="meie015">Gerardus Meierus</persName> S.S.Th.D. &amp; V.D.M.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hügens, seigneur de Zülichem</persName> à l'Haye.
+<lb/>franco bis Amsterdam.</p>
+</div>
+</body>
+</text>
+</TEI>

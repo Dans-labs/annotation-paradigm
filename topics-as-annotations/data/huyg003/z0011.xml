@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0011"/>
+<meta type="date" value="1646-09-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0011">
+<div type="opener">
+<p>Mon Frère,</p>
+</div>
+<p>La cause de ce que je n'aij pas respondu a la vostre<note n="#1"/> qui m'a porté les deux belles pieces de taille douce, d'ont[je] vous aij de l'obligation, a esté, que je n'avois [pas]<note n="#2"/> beaucoup à vous escrire que des particularitez [du] duel <hi rend="i">τ<figure rend="inline"><graphic url="huyg003oeuv01fi02.gif"></graphic></figure> ϰρόν♉</hi>, et ne voulant pas entrepren[dre] de comparer mon eloquence avecq celle de Monsr. <persName>Crommon</persName><note n="#3"/>, qui m'avoit dit qu'il vous en vouloit informer ab ovo, et d'autre part sçaschant bien que vous ne pouviez douter de la loyauté des messagers, j'aij estimé la responce point du tout necessaire: Ie respons donc maintenant à vostre derniere<note n="#4"/> avecq laquelle vous m'avez envoyé la question Geometrique, de laquelle vous trouverez la solution dans mes Commentaires que j'y ay faictes dessus aussi tost que je l'ay recuë: Pour
+<figure><graphic url="huyg003oeuv01ill02.gif"></graphic></figure>
+vous dire la verité, vous monstrez clairement de n'avoir pas beaucoup exercé l'Algebre, au moins pas tant que moi; voicy quelques choses que j'aij trouvées par son ayde pendant que je suis icy;</p>
+<p><formula>ABCE</formula> est un corps, faict de la circonversion de la demije parabole <formula>DBCE</formula>, j'ay demonstré que ce corps est sesquialterum du cone <formula>ABE</formula>, (estant sur la mesme base et de hauteur esgale que ce corps) c'est à dire que si le cone <formula>ABE</formula> est 2, le corps, qui s'appelle Conoideparabolicum, est 3. Cecij a este demonstre d'Archimede mais d'une autre demonstration que la miene.</p>
+<p><figure><graphic url="huyg003oeuv01ill03.gif"></graphic></figure></p>
+<p><formula>ADBEC</formula> est un corps faict de la circonversion de la figure <formula>FBEC</formula>, qui est ce qui reste du rectangle <formula>FBGC</formula> si on en tire la demie parabole <formula>BECG</formula>; j'ay demonstré que ce corps est esgal à la moitié du cone <formula>ABC</formula>, ce que je ne pense pas qu' il auoit esté demonstré cijdevant.</p>
+<p><formula>AB</formula> est une hauteur de la quelle on laisse tomber un poids <formula>C</formula>, je demonstre qu' au premier temps de sa cheute il passe un espace comme icy <formula>CD</formula>, au second temps esgal au premier, 3. de
+<figure><graphic url="huyg003oeuv01ill04.gif"></graphic></figure>
+tels espaces, et vient jusques en <formula>E</formula>, au troisieme temps 5. espaces, au quatriesme 7, et qu' ainsij continuera à faire chasque fois encor de plus grands progrez, adjoustant au dernier tousjours deux fois le premier espace; mais il ne faut pas considerer la resistence de l'air, qui cause à la fin (si le poids tombe d'une fort grande hauteur, quelque pesant qu'il soit) qu'il parvient à un point, d'ou il commence en temps esgaux de faire des progrez esgaulx. Outre cecy j'ay demonstré que s'il est jetté de quelque costé, qu'il descrit une parabole; de tout cecij et encor d'une infinité de choses qui en dependent je n'aij jamais sçeu la demonstration avant que de l'inventer moij mesme, vous la trouverez à vostre retour, dans le <hi rend="i">boeckje</hi> de</p>
+<div type="closer">
+<p>Vostre tresaffectionne frere <persName key="huyg003">Chrestien Huygens</persName>.</p>
+<p><date>3 Sept. 1646</date>.</p>
+</div>
+<p>Vous pouvez monstrer cecij a mon Pere.</p>
+<p>Toot<note n="#5"/> sçait aussi quelque chose.</p>
+</div>
+</body>
+</text>
+</TEI>

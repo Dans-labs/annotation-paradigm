@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0718"/>
+<meta type="date" value="1660-02-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0718">
+<div type="opener">
+<p>le <date>12 Febr. 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay encore a vous remercier du dessein<note n="#1"/> de l'horologe de Monsieur le Grand duc, lequel comme aussi le premier<note n="#2"/> je ne scay si vous voulez que je vous renvoye, ou si vous en avez gardè des copies. Cettuila du Palais de Medicis estant construit depuis la publication du mien je m'estonne que l'on n'a pas voulu l'imiter, puis que le changement que l'on y a apportè produira necessairement un mauuais effect. La pesanteur du pendule estant appuyée sur l'axe de son mouuement, il faudra la moitiè d'avantage de poids pour faire aller l'horologe, qu'il n'y a à ceux de ma façon, ou le pendule est suspendu à part. Pour y remedier je voy qu'ils ont pris le pendule extremement leger, mais il se ressentira d'avantage des fautes de l'horologe, tellement que la justesse qui est la seule chose que l'on y cherche ne sera pas telle qu'avec nos pendules pesants, mesme sans ma derniere addition. Je vous assure Monsieur que je m'appercois desia clairement de l'inegalitè des jours, et je croy mesme qu'à l'avenir je la pourray mesurer, et demonstrer par experience qu'il faut joindre les deux causes entieres, des quelles vous rejettez la moitiè de l'une. Je voy que vostre seconde table page 8<note n="#3"/> est faite des demies prostaphaereses du soleil converties en temps, et que si vous aviez pris les entieres, vostre table universelle de la page suivante auroit estè la mesme que celle de Mullerus page 280<note n="#4"/>; au moins en mesmes intervalles de
+temps elle auroit donnè mesme aequation. Sed de his alias latius, car je suis encore a esplucher cette matiere; cependant je vous prie d'une chose, c'est de me dire ce que <persName>Ptolemee</persName> et <persName>Copernicus</persName> apres luy ont voulu signifier quand ils escrivent que dies apparentes longiores excedunt breviores duplo ejus quo ijdem apparentes superant vel deficiunt a medijs: Vous l'expliquez ad literam P<note n="#5"/>, quod apparentes collecti à medietate ♒ ad principium <figure rend="inline"><graphic url="huyg003oeuv03fi01.gif"></graphic></figure> excedunt collectos à principio <figure rend="inline"><graphic url="huyg003oeuv03fi01.gif"></graphic></figure> ad medietatem ♒ horâ 1.6′ 40″. comment comparez vous les jours qui sont à principio <figure rend="inline"><graphic url="huyg003oeuv03fi01.gif"></graphic></figure> ad medium ♒, a ces autres qui sont presque trois fois autant en nombre? Je ne croy pas aussi que pour avoir le vray lieu
+de la lune il ne faudroit jamais se servir que de la moitiè de ⅗ d'un degrè pour aequation au temps de Ptolemée. Et partant je m'estonne de ce qu'il dit qu'en negligeant l'equation du temps cela importeroit quelques fois jusques a ⅗ d'un degrè.</p>
+<p>Je vous ay mandè par ma precedente<note n="#6"/> ce que j'avois fait du Genethliaque. depuis je n'ay pas eu occasion de parler a la damoiselle que sçavez, mais je ne manqueray pas de le faire pour scavoir comment il a estè receu, et vous en rendray conte. estant en toute chose</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

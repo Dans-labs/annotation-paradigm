@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0378"/>
+<meta type="date" value="1657-02-17?"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="ferm011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0376"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0378">
+<p>Sequuntur duo Problemata Domino <persName key="ferm011">De Fermat</persName> rursus proposita ejusdem argumenti.</p>
+<div type="section">
+<head rend="h4">1<hi rend="sup">mum</hi> Problema.</head>
+<p>Invenire duos Cubos numeros, qui simul additi conficiant Cubum, vel, si eosdem reperiri non obtingat, ostendere Problema esse impossibile.</p>
+</div>
+<div type="section">
+<head rend="h4">2<hi rend="sup">dum</hi> Problema.</head>
+<p>Ostendere, utrum perfecti numeri aliâ ratione quàm ab <persName key="eucl901">Euclide</persName> traditur propositione ultima libri 9<hi rend="sup">ni</hi> Elementorum, hoc est, absque progressione dupla, sint inveniendi, nec ne.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

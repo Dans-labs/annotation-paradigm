@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1052"/>
+<meta type="date" value="1662-08"/>
+<meta type="sender" value="huyg008"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1052">
+<p>Qvis ex mathematicis</p>
+<p>Tria Problemata Solvet?</p>
+<p>&nbsp;</p>
+<p>Primum: Invenire quatuor numeros continué proportionales geometricè, ita ut quadratum primi ad reliquorum numerorum summam habeat datam rationem, et tales ut solidus ex summa mediorum in quadratum minoris medij sit aequalis solido ex differentia mediorum in quadratum medij majoris, atque insuper in nullo quatuor numerorum sint plures quam duae radices universales. Esto data ratio 100. ad 1.</p>
+<p>&nbsp;</p>
+<p>Secundum: Invenire tres numeros harmonice proportionales, qui faciant triangulum rectangulum: seu, invenire tres harmonice proportionales, ita ut majoris quadratum aequetur quadratis reliquorum duorum.</p>
+<p>&nbsp;</p>
+<p>Tertium: dividere √ 8 + 6. in duos numeros, tali ratione ut cubus primi cum duodecuplo secundi aequetur cubo secundi cum vigecuplo primi. Petitur autem hic duplex solutio: una per radices universales, altera sine radicibus universalibus.</p>
+</div>
+</body>
+</text>
+</TEI>

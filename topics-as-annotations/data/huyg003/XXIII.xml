@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXIII"/>
+<meta type="date" value="1645-01-16"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="desc004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXIII">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>I'adjouste à beaucoup d'autres obligations que je vous ay, la faueur que vous me faictes d'auoir desjà quelque soin de la conduicte des Estudes mathematiques de mes Enfans. Ie cognoy qu'il n'y a homme qui en soit plus capable que le bon Schooten. Aussi m'a il promis de les attendre vers ce printemps à Leiden; apprehensif que je le voy, d'estre par trop accablé et diuerti à la Haye; et non sans subject. Ie vous promets donq volontiers, Monsieur, que je luy mettray ma jeunesse entre mains absolument et sans reserue; pour leur monstrer la routte dont vos veritez sont le nord tres-sixe et inuariable...</p>
+<div type="closer">
+<p>...je suis</p>
+<p>Monsieur,
+<lb/>Votre tres-humble et tres-acquis seruiteur
+<lb/><persName key="huyg001">C. Huygens</persName></p>
+<p>A <placeName key="denha004">la Haye</placeName>, le 16. Ianuier 1645.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

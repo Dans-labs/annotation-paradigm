@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0288"/>
+<meta type="date" value="1656-05-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0288">
+<div type="opener">
+<p lang="la">Clarissimo Viro Domino <persName key="scho197">Franc. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Quum praelo digna putes quae de Aleae Ratiocinijs conscripsi neque laborem defugias ea in latinum sermonem vertendi, lubenter quoque petitioni tuae morem gessi ut quae difficiliora interpretatu essent ipse verbis quam aptissimis fieri posset reddere conarer. Itaque initium opellae ejus caeteraque passim, quorum causa cum nondum in promptu essent ad vernaculam linguam confugeram, adjuncta pagina<note n="#1"/> expressi. Ad quorum exemplum reliqua facilè ut puto absolves. Prius verò quam typographis committas non abs re erit ut semel adhuc ea percurram. Quin etiam expediet ut praefationis vice epistola mea ad te praeponatur, in qua de materia ipsa deque eo qui primus eam examinare instituit quaedam perscribantur, et quid mihi de <persName key="pasc001">Paschalij</persName> circa haec inventa in Gallia innotuerit: Quae licet pauca sint non tamen dissimulanda existimo. Tractatum qui inscriptus est Wiskonstigh Bewijs &amp;c.<note n="#2"/>, satis lepido titulo, dudum accepi legique, proque eo tibi gratias ago. Sane Dominus <persName>du Bois</persName> prout meritus est perstringitur et refutatur, sed quid opus erat tam multis? Alterius<note n="#3"/>, de quo meministi, amplius est argumentum, cum Cartesij Philosophiam quoque ex professo defendendam suscipiat. Hunc etiam legi, nec sine voluptate. Meibomij librum<note n="#4"/> in Gallia videram, et nunc denuo pervolvi quoniam judicium de eo nostrum scire volebas. Homo plane ineptus est, totaque disputatio contra definitionem 7<hi rend="sup">mam</hi> libri 5 Elementorum (quae Clavio 8<hi rend="sup">a</hi> est.) huic enim nititur propositio 8<hi rend="sup">a</hi> ejusdem libri. Quid autem magis
+frivolum quam de definitionibus altercari? cum liberum sit aut certe parum referat quo nomine quidque designetur. Nisi certo crederem te mecum sentire non pigeret sigillatim loca quaedam excutere, non pauca enim annotavi. Sed si ipse legisti non puto te jam commentarijs meis opus habere. Vale.</p>
+<div type="closer">
+<p lang="la"><placeName key="denha004">Hagae</placeName>. <date>6 Maj. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName> Professor der Mathematycken in de Universiteyt
+<lb/>Inde Heeresteegh.
+<lb/>Tot <placeName key="leide001">Leyden</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

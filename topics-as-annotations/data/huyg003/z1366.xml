@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1366"/>
+<meta type="date" value="1665-03-31"/>
+<meta type="sender" value="wall037"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1366">
+<div type="opener">
+<p><persName key="wall037">Hadrianus Vander Wall</persName> <persName key="huyg003">Christiano Hugenio</persName> S.P.D.</p>
+</div>
+<p>A quo tempore in Gallijs tu a patria procul hactenus abfuisti, Nobilissime Hugeni, in Brabantia ego Spadanosque apud fontes et aquas Grani, nostraque demum in Nort-Hollandia potissimum degere coactus, nihil admodum rerum tuarum, quarum eram cupidissimus, potui inaudire. Tandem Hagam redux ut cognovi sospitem te super-esse et a morbo qualicunque liberatum valere, caussam unde et gauderem occasionemque cur tibi scriberem gratulabundus peroportunam mihi natam putavi; praesertim cum intelligerem aliquid novi operis te parturire, subiretque cogitatio fore ut huic forsan additum velles carmen meum cui tua praeclara inventa intexui. Ad omnem igitur eventum mitto illud quale legi optem, si et tu inter tua illud optes legi; siquidem inter Heinsiana adoptiva<note n="#1"/> per absentiam meam non nimis feliciter editum video, tum ratione versuum aliter atque praescripseram ordine motorum, tum ob typothetarum menda et mutatiunculam non observatam; quae quidem negligi poterant, et ipsum item carmen insuper haberi si quidpiam quod te attinet insuper habendum aut negligendum putarem. Vale et salve, ac tui amantem ama.</p>
+<p>Hagae pridie Kalendas Aprilis iterum discedens et post mensem unum aut duos reversurus.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Chrestien Hughens de Zuylchem</persName> &amp;c. A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

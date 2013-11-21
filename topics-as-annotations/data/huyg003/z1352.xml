@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1352"/>
+<meta type="date" value="1665-03-13"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1352">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous receurés cet ordinaire deux lettres de moy, la premiere<note n="#1"/> dans le pacquet de Monsieur vostre Pere en response de vostre derniere<note n="#2"/>, et cellecy par la voye de Monsieur Vossius qui vous la fera tenir sans doute. Vous verres par la première que j'esperois retenir la main de Monsieur Salo pour la publication de vostre Obseruation de laccord perpetuel de vos deux Pendules, afin de vous donner temps de nous enuoyer la vraye cause de ce concert admirable puisque vous ne croyés plus que ce soit par la sympathie de lair dans lequel ils pendent a vne certaine distance l'vn de l'autre. Mais lors que j'ay enuoye vers luy pour cela il sest trouue quil nestoit plus temps et que la feuille estoit desja imprimee<note n="#3"/> sur la copie<note n="#4"/> que Monsieur vostre Pere m'auoit donnée a ce dessein là. De sorte que tout ce que jay pu faire a este d'y faire adjouster<note n="#5"/> quon nassignoit a cet admirable effet pour cause la sympathie de lair que par vne conjecture qui pour estre admise vouloit estre confirmée par plus dvne experience, et que ce quil y auoit de vray estoit la certitude du fait ce qui estoit la chose la plus importante. Par la je crois auoir mis vostre honneur a couuert.</p>
+<p>Monsieur vostre Pere en partant d'icy m'a rendu Depositaire de la nouuelle grace<note n="#6"/> qu'il a receue du Roy pour vous<note n="#7"/>. afin que sil est besoin dagir en vertu de la Patente elle se trouue icy toute portee et que ceux que vous y employeres n'ayent point de peine a la recouurer. A propos de quoy cet excellent Horloger Monsieur Thuret dont vous m'aues dit beaucoup de bien vous mesme, me vint voir hier pour me prier de vous offrir son seruice pour la construction des Pendules qui seront employés sur les vaisseaux et pour leur vente et distribution. Il propose que vous conueniés auec luy de ce qu'il vous rendra de chaque Pendule qu'il construira de cette Fabrique moyennant le transport que vous luy ferés de vostre Priuilege pour le temps que vous trouuerés à propos. Il se promet de vostre bonté que vous luy en donnerés la preference, resolu de son coste de vous donner toute la satisfaction que vous pourrés souhaiter soit pour maintenir vos Pendules dans la reputation quils meritent, soit pour laquit du prix qui sera conuenu entre vous et signe deuant Notaires. Je vous croy si bien persuade de sa probite et de son industrie que je ne perdray point de temps à vous en assurer ni a vous le recommander. Je vous prieray seulement de me respondre au plustost sur cette article et de me croire tousjours inuiolablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="chap002">Chapelain</persName>.</p>
+<p>De <placeName key="parij001">Paris</placeName> ce 13. Mars 1665.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christianus Huggens</persName> Gentilhomme Hollandois A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

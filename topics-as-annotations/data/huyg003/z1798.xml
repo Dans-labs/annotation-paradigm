@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1798"/>
+<meta type="date" value="1670-04-10"/>
+<meta type="sender" value="mout015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="lyon_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1798">
+<div type="opener">
+<p>A Lyon le 10 d'Avril 1670.</p>
+<p>Monsieur</p>
+</div>
+<p>Quoy que je n'aye l'honneur, destre conneu de vous, J'ay neantmoins pris la liberté de vous escrire, pour vous témoigner l'estime que j'ay toujours fait de vostre merite, &amp; de vostre erudition, depuis que vous vous estes fait connoistre par vos oeuvres, qui vous ont acquis la reputation d'un des plus illustres personnages de ce siecle. Ce n'est pas d'Aujourdhuy que jen ay eu la volonté, &amp; mesmes je vous ay une fois escrit<note n="#1"/>, pour avoir le bien d'estre eclaircy de quelque doubte que j'avois sur la construction de vos pendules; Mais nayant eu le bonheur, que je m'estois promis de recevoir vostre response<note n="#2"/>, soit que mon insussisance en ait esté l'obstacle, ou que par malheur ma lettre ne vous eut pas esté randue, J'ay demeuré dans le Respect &amp; le silence jusques icy. Or maintenant que Dieu ma fait la grace d'achever de mettre aujour un petit opuscule, que javois commencé il y a longtemps, &amp; que mes Amis mont obligé quasi malgré moy, de faire imprimer<note n="#3"/>, Jay creu quil estoit de mon devoir, d'en faire part a une personne si eclairé comme vous estes, non que je l'estime digne de vostre attention, puis qu'il est infiniment au dessous de vos belles connoissances &amp; ainsi j'ay du deplaisir Monsieur de ne vous pouvoir presenter qu'une chose qui vous sera asseurement inutile, mais aussy j'ay suject de me rejouir, que par ce moyen je vous
+donneray une marque des sentiments avec lesquels je vous honore, vous suppliant de l'aggreer comme un témoignage de la sincerité avec laquelle il vous est presente</p>
+<div type="closer">
+<p>Monsieur
+<lb/>par Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="mout015">Gabriel Mouton</persName></p>
+<p>prestre a St. Paul de Lyon.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour M. <persName key="huyg003">Hughens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

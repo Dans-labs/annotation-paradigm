@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0075"/>
+<meta type="date" value="1650-02-23"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="genev001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0075">
+<div type="opener">
+<p><placeName key="genev001">Geneve</placeName> ce <date>23<hi rend="sup">e</hi> Febr: 1650</date>.</p>
+<p>Mon Frere</p>
+</div>
+<p>Je viens de receuoir vostre derniere<note n="#1"/> qui m'apprend les nouvelles du mariage de la Cousine Boudaen<note n="#2"/> qui fait une alliance considerable in ogni maniera. Il y a
+quelque temps que dans une lettre de vous ou de Tootbroer<note n="#3"/> j'appris les qualites du personage rares et exquises en sorte que je ne doubte plus de la race qui en proviegnera, l'estalon et la cavalle estant de si belles bestes. Pour ce qui est du pucellage de Monsieur van Son<note n="#4"/> je ne scay qu'en dire mais celuy de la dame je pense qu'il y a long temps qu'il est en voye.</p>
+<p>Je suis encore a Geneve en bonne santé et fais estat de partir le mois proschain pour l'Italie, s'il plaist à Dieu, ou avec le Comte d'Oost Frise<note n="#5"/>, ou bien seul, s'il tarde trop. Cependant pour prendre un peu l'air, je vaij faire un tour jusques au Canal d'IJverdun qui n'est qu'a deux journées d'icij. Dela j'iraij a Morat, qui est
+un lieu renommé pour la defaite du Duc Charles de Bourgogne<note n="#6"/>, dont la memoire ij est encore toute fraiche; avec des grandes quantitez d'ossemens qu'on ij voit entassés les uns sur les autres. Sic vita traditur.</p>
+<p>Au reste nous irons voir par ca et par là des belles dames qui se tiennent au pais et auxquelles on me recommande d'icy. Sic vita trahitur pour se desennuyer. Quand je retourneray, la Cousine Anne<note n="#7"/> ne doibt pas auoir peur de me voir avec une peruque, car je l'ay desja posée, mais elle me verra avec un tour qu'on accommode soubs mes cheveux en sorte qu'il semble tenir à la teste et donne fort bonne mine. Saluez ma Cousine et dites luy qu'il n'y a rien de capable pour me faire revenir si ce n'est qu'elle me prie de ses nopces. Adieu.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1468"/>
+<meta type="date" value="1665-09"/>
+<meta type="sender" value="fren024"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1467"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1468">
+<p>A &amp; B jouent a + &amp; a pille a telle condition que celuy qui amene + prend tout ce qui est au jeu &amp; celuy qui amene pille met vn escu au jeu. on demande quel est le desauantage de A, qui joue le premier<note n="#1"/>.</p>
+<p>Cette question n'est pas assés determinée, par ce que comme il y a la moitié des coups qui se peuuent jouer, ausquels le dernier amene pille &amp; doit mettre vn escu au jeu, il faut sauoir, ce qu'on doit faire de ce qui est au ieu, quand il y reste quelque chose, lorsqu'on veut quitter, car il pouroit ariuer qu'on ameneroit tousjours pille &amp; que ne pouuant acheuer, on seroit de suite contraint de quitter.</p>
+<p>Or on peut faire deus choses du reste en cas qu'il y en ayt; le plus juste seroit de le partager, &amp; en ce cas le desauantage du 1<hi rend="sup">er</hi> ne peut jamais monter jusques a 10. sols, sauoir a 1/6 de ce qu'on met au jeu; mais si on continue de jouer long tems, il en aproche plus pres que quelque quantité donnée que ce soit; parce que son desauantage croist en continuant de jouer. Voicy le moyen de trouuer de combien le desauantage est moins que 1/6. doublés le nombre des coups que chaqu'un doit jouer, &amp; adjoutés 1. au double; prenes la puissance de 2. dont cette somme est exposant, le triple de cette puissance est le denominateur de la fraction, &amp; le numerateur est 1. Ainsy pour sauoir de combien le desauantage de A sera moindre que 1/6 si on ne joue que 3. coups de suite; je prens le double plus 1. de 3. qui est 7. la 7<hi rend="sup">e</hi>. puissance de 2. ou 128. dont le triple est 384. je dis donc que le desauantage de A sera 1/6 moins 1/384. si A &amp; B ne jouent chaqu'un que 3. coups.</p>
+<p>Autrement pour sauoir quel est ce desauantage sans parler du lixidue [?]; prenes la puissance de 2. comme deuant &amp; ce sera le denominateur de la fraction, diuisés cette meme puissance par 6. rejettant le 2, qu'on a tousjours de reste, le quotient sera le numerateur. Ainsy supposant qu'on joue chaqu'un 4. coups; le double + 1. de 4. est 9. qui est l'exposant de 512. qui etant diuisé par 6. donne 85. on aura donc 85/512 d'escu pour le desauantage de A. &amp; ainsy des autres.</p>
+<p>Que si on ne veut point que le reste soit partagé, mais que chaqu'un reprenne la portion qu'il aura mis de ce qui reste, le desauantage de A deuiendra double de ce qu'il etoit en l'autre cas, sauoir lorsqu'on partageoit le reste; &amp; ainsy jouant 4. coups de suite son desauantage sera 85/256 au lieu de 85/512. &amp; ainsy des autres.</p>
+<p>Ces desauantages font ensemble vne proportion qui se peut continuer a l'infini. de maniere qu'ayant le desauantage de A, quand on ne joue qu'un coup, qui est 1/8. les autres se trouuent multipliant par 4. les 2. termes de cette fraction et adjoutant 1. au Numerateur. On aura donc 1/8 pour 1. coup <figure rend="inline"><graphic url="huyg003oeuv05fi15.gif"></graphic></figure> pour 2. <figure rend="inline"><graphic url="huyg003oeuv05fi16.gif"></graphic></figure> pour 3. <figure rend="inline"><graphic url="huyg003oeuv05fi17.gif"></graphic></figure> pour 4. <figure rend="inline"><graphic url="huyg003oeuv05fi18.gif"></graphic></figure> pour 5. &amp;c.</p>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0458"/>
+<meta type="date" value="1658-02-08"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0458">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Siculas Saturni <hi rend="i">τηρήσεις</hi>, quas ab aliquot septimanis ad Te misi<note n="#1"/>, iam dudum Tibi redditas spero. Accipe igitur etiam, quando ita vis, qua viâ in curuae illius notitiam
+deuenerim, quae me olim, et Te postea aliosque delusit. Prima mihi suspicio ex tangentibus orta est, cum earum aliquas, ad illam quae in puncto contrarij flexus ducitur, referrem. Animaduertj postea ductâ qualibet ei parallelâ (qualis est in
+<figure><graphic url="huyg003oeuv02ill73.gif"></graphic></figure>
+adiuncto Schemate FO,) si non tota BA sed pars tantum QC vocaretur <hi rend="i">y</hi>, rectam DO perpetuo denominatam irj <hi rend="i">y</hi><hi rend="sup">3</hi>/<hi rend="i">aa.</hi> Ex quo euidens est semper esse vt DO ad DO, ita cubum QC ad cubum QC, siue cubum FO ad cubum FO. Nec pluribus verbis opus est, cum nedum Tibi sed vel mediocri Geometrae schema per se loquatur. Recte dimensus es solidum illud quod ex alterius curuae reuolutione oritur: <hi rend="i">ἀπαγωγῆς</hi> autem rationem facile animaduertes cum Tibj vacabit in illam accuratius inquirere. Plura adderem, nisj Te iam alijs occupatum non ignorarem, et nisi etiam gelidâ hac tempestate frigerent mea studia: At non affectus quo Te prosequor, et quo testari aueo me <hi rend="i">ἄνευ μεταβολῆς</hi> esse</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>VIIJ feb<hi rend="sup">rij</hi> MDCLVIIJ</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo C[larissimoque Domino]<note n="#2"/> Domino <persName key="huyg003">Christiano Hugenio de Zulich[em]</persName>.<note n="#3"/> A la Haye.
+<lb/>VI.</p>
+</div>
+</body>
+</text>
+</TEI>

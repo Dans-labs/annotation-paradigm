@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0082"/>
+<meta type="date" value="1650-04-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0082">
+<div type="opener">
+<p><placeName key="denha004">Haije</placeName> ce <date>12 d'Avril 1650</date>.</p>
+<p>Mon Frere,</p>
+</div>
+<p>Jamais je n'aij esté depourveu de nouvelles comme je le suis maintenant, et si je vous escris encore ce peu de mots, ce n'est que pour vous faire voir le desir que j'aij d'avoir de vos lettres; et quand je ne le ferois pas mesme en cette consideration je le devrois faire par contrainte, et par commendement de Mon Pere, qui a un soin tresparticulier de faire continuer nostre correspondence.
+J'aij de la peine a mettre la main a la plume quand je n'aij rien a vous conter, et affin que vous croijez que les nouvelles que je pourrois sçavoir ne meritent pas d'estre rapportées, je vous confesseraij, que j'en suis reduit là, que pour la plus importante je vous raconteraij ce que j'aij leu dans la gazette.
+Il ij avoit dedans celle d'Anvers le dimanche passé. <hi rend="i">Dat in Suede een geck gestorven was die seijde dat hij soo langh leven kon als hij wilde</hi>. Notez que c'est icij M. des Cartes. Je suis</p>
+<div type="closer">
+<p>Vostre tresaffectioné frere et serviteur <persName key="huyg003">Chr. Huijgens</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

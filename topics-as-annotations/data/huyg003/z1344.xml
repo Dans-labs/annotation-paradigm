@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1344"/>
+<meta type="date" value="1665-03-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta resp="corpus" type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1344">
+<div type="opener">
+<p>A Mon Pere</p>
+<p>5 mars 1665.</p>
+</div>
+<p>Exemplaire de l'Instruction<note n="#1"/> pour Monsieur Thevenot. graces de la peine qu'il a prise en ce qui est du Privilege<note n="#2"/>. Il faudra bien faire quelque part a Monsieur de Kinkardin; je ne scay pas encore quelle, car la moitiè seroit trop. et aussi reconnoistre les soins de la Société Royale qui a donnè des instructions a Holmes<note n="#3"/>. sympathie d'ou causee<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

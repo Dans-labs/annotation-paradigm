@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1195"/>
+<meta type="date" value="1663"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1195">
+<p>Je vous renuoye, Monsieur, l'Extrait<note n="#1"/> de la lettre de Pologne auec mille remercimens de la communication. La chose est tres memorable. Vne semblable pour la quelle j'ay escrit a Monsieur de Beuning<note n="#2"/> est dans<note n="#3"/> vostre Medecin Tulpius<note n="#4"/>. Je ne scay si aussi bien attestée. Je vous enuoyay hier le Nuncius Sydereus<note n="#5"/> joint a quelques autres Traittés.
+Je nay point la Dissertation de <persName key="kepl901">Kepler</persName> mais Monsieur Theuenot qui me vint voir hier me dit quil lauoit et quil vous lenuoyeroit. Je suis a vous sans reserue</p>
+<div type="closer">
+<p><persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

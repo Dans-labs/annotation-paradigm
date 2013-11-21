@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0200"/>
+<meta type="date" value="1654-10-13"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="stoc901"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="schaf901"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0200">
+<div type="opener">
+<p>A <placeName key="denha004">la Haije</placeName> <date>13<hi rend="sup">e</hi> Octobre 1654</date>.</p>
+<p>Monsieur.</p>
+</div>
+<p>Vous nous auez laissé de si fortes impressions de vos grandes vertus, que je ne puis m'empescher de vous en rendre quelque tesmoignage à l'occasion du voijage que va faire le Sieur de la Primaije<note n="#2"/> en vos quartiers. Je vous supplie d'en receuoir l'office, comme procedant d'un coeur qui vous est acquis, et d'une affection qui sera employée tous les jours de ma vie à vous faire paroistre l'estime que je saij de vostre amitié. Je vous en dis autant au nom de mon jeusne Archimede. qui vous en offre le petit gage qui va cij ioinct. si peut estre la matiere de ce Traicte n'est pas du goust de vos estudes, je ne faij poinct de doubte que pardela vous naijez des excellens hommes qui seront capables de ces subtilitez et ij trouveront des choses non encor veües, et d'autant plus dignes de leur consideration. Ce garçon prepare encor d'autres pieces pour la presse, parmi lesquelles celles du Telescope sera une des plus
+agreables: A mesure qu'il en produira, je me souuiendraij de vous en faire part; comme aussi de ce qui pourroit encor sortir de ma main, apres ce que vous auez prinsla peine d'en emporter. Ledit Sieur de la Primaijevous communiquera les ordres qu'il emporte d'icij pour le regard de nos interests au Canal<note n="#3"/> et les defenses que nous auons à faire contre vostre grand Liberateur de la patrie à Berne<note n="#4"/>. Le langage que cest homme nous tient est si rude et si brutal, qu'il semble ne minuter rien moins que de nous manger à belles dents. mais j'espere que iustice vault plus que violence, en tout vostre estat, et vous prie de joindre vos offices par tout ou vous nous jugerez fondez en equité et raison: sans que l'iniquité se puisse preualoir de nostre esloignement. outre ceste grace je retourne à vous demander celle de la continuation de vostre amitié, et vous respons de la mienne aueq toute la sincerité dont il est possible de se dire</p>
+<div type="closer">
+<p>Vostre Tres-humble et tres-acquis seruiteur.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur <persName key="stoc901">J. Jacques Stöckar</persName> à <placeName key="schaf901">Schaffhausen</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

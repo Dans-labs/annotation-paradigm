@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2142"/>
+<meta type="date" value="1678-10-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2142">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 21 Oct. 1678.</p>
+</div>
+<p>Voicy la figure et description du microscope<note n="#1"/> de la derniere fabrique que vous souhaitez. Ce sont Mr. <persName>Romer</persName> danois, <persName key="hart107">Hartsoeker</persName> et moy<note n="#2"/> qui peu a peu avons reduit a cette forme ce que je dis, afin que mon Pere n'en attribue point l'honneur a la nation Francoise car elle n'y a point de part.</p>
+<p>Pour faire des experiences quand on a de l'eau de poivre ou autres avec des animaux il suffit de mettre une petite goute sur un de ces verres de la roue, pourveu que la petite boule ne soit pas des mediocres que je nommois de la 4<hi rend="sup">me</hi> grandeur qui sont comme de petites testes d'epingles, et ce sont celles, qui rendent le plus de service. Une autre fois je vous entretiendray des differentes especes d'animaux que j'ay observez, le temps est trop court maintenant, et je n'en ay pas mesme pour respondre aux lettres de mon pere des freres Drossart et de Moggershil<note n="#3"/>. J'ay estè obligè de garder ma chambre ces 6 ou 7 jours pour un rheume dont pourtant je suis guery presentement.</p>
+<p>Ce que vous dites de la liqueur de la poudre jaune confirme encore ce que je disois, qu'elle servait a composer la cire. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName> &amp;c.
+<lb/>A la Haye.</p>
+</div>
+<p><figure><graphic url="huyg003oeuv08ill17.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv08ill18.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv08ill19.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv08ill20.gif"></graphic></figure></p>
+</body>
+</text>
+</TEI>

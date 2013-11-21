@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1826"/>
+<meta type="date" value="1671-04-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="arnhe001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1826">
+<div type="opener">
+<p>d'Arnhem ce 14 Avril 1671.</p>
+</div>
+<p>Voicy ma responce a Monsieur Perraut<note n="#1"/> que j'espere qu'elle arrivera assez tost pour estre portée a la poste. Je le croiois parti de Paris il y a longtemps supposé qu'il se fust resolu au voiage, mais je ne suis pas marry maintenant de ce retardement puis que ma commission<note n="#2"/> me retient plus long temps que je n'avois fait estat. Je pars d'icy demain et seray a la Haye dans 2 ou 3 jours, parce qu'il ne nous reste qu'a visiter le Rhin en descendant. Je vous conjure cependant de ne vous en aller point a Zulichem, tant que je ne sois de retour parce que peut estre ce bon Monsieur Perraut arriveroit sans trouver ni l'un ni l'autre de nous deux, ce qui seroit chose fort honteuse. Je suis bien aise que la fievre du frere de Zeelhem n'ait point eu d'autre suite. Adieu je ne respons pas aux autres points de vostre
+lettre, parce que nous nous verrons dans peu.</p>
+<p>Si Monsieur Perraut arrivoit pendant mon absence, vous pourrez le loger dans ma chambre comme vous dites, mais s'il n'y a pas encore d'apparence qu'il Signor Padre revienne bientost<note n="#3"/> il seroit mieux de luy donner son appartement.</p>
+</div>
+<div type="para">
+<p>Myn Heer
+<lb/>Myn Heer <persName key="huyg008">L. Huygens</persName>, ten huijse van de Heer <persName key="huyg001">van Zuijlichem</persName>
+<lb/>In 's Graven Hage.
+<lb/>cito cito.</p>
+</div>
+</body>
+</text>
+</TEI>

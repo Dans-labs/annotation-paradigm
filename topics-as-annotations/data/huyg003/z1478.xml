@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1478"/>
+<meta type="date" value="1665-10-09"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1478">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Cum per aliquot dies a Ciuitate abfuissem, reperj in reditu literas tuas vna cum adiunctâ obseruationum serie, quam continuo Romam misi. Rogaui etiam Clarissimum Riccium vt et obseruationes in Jtaliâ factas, et Ephemeridem si quam forte
+aliam Clarissimus Cassinus ederet nobiscum communicare vellet: quod pro solitâ sua humanitate facturum non dubito.</p>
+<p>Magno teneor desiderio videndj Dioptricam tuam, quam vt publici iuris facias te etiam atque etiam rogo. Multum interim tibi debere me profiteor, si refractionis ab aere ad vitrum rationem, quam dubio procul accurate cepistj, me docere velles. Sed quod commodo tuo fiat, nihil enim est quod festinet. Vale Vir Nobilissime meque constantj semper affectu credito</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam Leodicj 9<hi rend="sup">a</hi> Octobris 1665.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> &amp;c. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

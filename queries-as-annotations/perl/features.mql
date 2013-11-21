@@ -1,0 +1,4 @@
+select features
+from object type
+[word]
+go

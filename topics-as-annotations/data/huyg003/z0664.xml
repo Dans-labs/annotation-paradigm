@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0664"/>
+<meta type="date" value="1659-09-10"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0664">
+<div type="opener">
+<p>Nobilissimo, Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.P.D.</p>
+</div>
+<p>Acceptis binis Sijstematis tuis Saturnij exemplaribus quorum alterum mihi, alterum Domino <persName>Bornio</persName> destinasti, non potui non gratias quas possum maximas tibi rependere, idemque Domini Bornij nomine (ut à me petijt) pro accepto munere praestare. Tractatum ipsum quantum potui perlegi, qui pro accurata ejus tuoque ingenio digna descriptione omnino mihi placet, summam ubique tuam in eo, tum in observanda hujus Planetae phasi ejusque comite dexteritatem, tum in explicandis causis mirandorum illius phaenomen<hi rend="i">ω</hi>n ingeniositatem admiratus. Inter legendum autem ipsum, quamvis brevis sit, lucubrationes tuas atque vigilias aliorum anteferendas satis perspexi; praesertim quòd observationes tuae non tantum sibi ubique similes, sed et aliorum perfectiores (quas tu omnes pagina 35 recenses) ut enormes eludant. Unde quilibet tuam in conspiciliorum confectione peritiam, et eorundem necessitatem in explicandis hisce phaenomenis facilè est judicaturus. Prae caeteris mihi arridet ratio, quâ Systema Saturni ejusque comitis ex tuis observatis adeò affabre componere docuisti, ut et alia simul Planetarum Sijstemata, si quae nondum ad unguem ab alijs explicata forent, tu componere illa doceas. Ex commentarijs meis ad Cartesij Geometriam<note n="#1"/> gaudeo te voluptatem indies, neque exiguam utilitatem (ut scribis) capere; praesertim cum constructionis Heuratianae, ad flexum Conchoidis inveniendum, secretum perspexeris, aliamque eâdem arte multò faciliorem inveneris, Circuli scilicet, et ipsius Conchoidis, quae data est, beneficio. Porrò nihil certi hìc intelligo, utrum brevì cum Huddenio ex Gallijs sit reversurus, quos tamen cognati ipsorum hîc propediem reduces exspectant. Volumen alterum Epistolarum Cartesij, à Te laudatarum, quàm
+primum otium ac sirma valetudo siverint, cum voluptate perlegere non recusabo. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> die <date>10 Septemb. 1659</date>.</p>
+</div>
+<p>Bina Slusiani Mesolabij exemplaria, ex Autoris placito, Geometris horum intelligentibus, tuo atque ipsius nomine donavi.
+Qui, ut et ego juxta ac Dominus <persName key="goli002">Golius</persName>, vobis humillimas gratias agimus.
+Quod quidem prius facturus fuissem, nisi absentia nostra ab hac urbe id ipsum impedivisset. Iterum Vale.</p>
+<p>Rogo literas hasce inclusas ad Dominum Slusium Leodium amandari digneris.</p>
+</div>
+<div type="para">
+<p>Monsieur, Monsieur, <persName key="huyg003">Christianus Hugenius</persName>,
+<lb/>gelogeert ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName>,
+<lb/>Raedt van sijn Hoocheijt, den Prince van Orangien
+<lb/>in S'Graven-hage Op t' pleijn.
+<lb/>cito cito port</p>
+</div>
+</body>
+</text>
+</TEI>

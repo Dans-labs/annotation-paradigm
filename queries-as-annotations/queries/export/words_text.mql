@@ -1,0 +1,5 @@
+//get the surface from of the complete text in the right order
+
+GET OBJECTS HAVING MONADS IN ALL
+	[Word GET text, graphical_word]
+GO

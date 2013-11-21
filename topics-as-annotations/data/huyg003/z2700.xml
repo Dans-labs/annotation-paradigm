@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2700"/>
+<meta type="date" value="1691-09-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2700">
+<p>Monsieur, Je viens de recevoir avec joie celle que vous m'avez fait l'honneur de m'écrire après votre arrivée à Londres, étant bien aise de vous voir passer la mer sans mauvaise rencontre. J'ai été il y a 15 jours vous chercher à la Haie, pour vous rendre le papier où sont les errata du livre de Mr. <persName key="newt011">Newton</persName><note n="#3"/>....J'attends la réponse de Mr. <persName key="leib013">Leibniz</persName> à ma dernière lettre, dans la quelle je l'ai pressé d'accomplir le marché que vous savez<note n="#4"/>. S'il tarde davantage, je commencerai à soupçonner qu'il n'a pas envie de le tenir. Je vous feray part de ce que j'apprendrai ou de ce que je receurai de sa part, et me dirai en finissant avec toute l'affection possible, etc.</p>
+<div type="closer">
+<p><persName key="huyg003">Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

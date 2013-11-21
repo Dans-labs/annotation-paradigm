@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1812"/>
+<meta type="date" value="1670-07-10"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1812">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 10 Juillet 1670.</p>
+</div>
+<p>Don Christiano je me resjouis comme vous pouvez croire des bonnes apparences de vostre guerison dont j'infere qu'il y en a de vous revoir bien tost apres une secousse si rude. Il Signor Padre ne m'a point laissé en repos touts les apres souppers de la semaine passée, que je ne vous eusse desseigné sur le dos du Crocheteur qui vous ayda a monter l'escalier de vostre chambre. Maintenant il veut que je vous fasse dans le carosse avec vostre bonnet de nuit et des lunettes vertes sur le nez à coste de la Cousine Cojet<note n="#2"/>. La premiere histoire va cy jointe, je croy qu'a Zuylichem je feray l'autre. Adio Fratello carissimo.</p>
+</div>
+</body>
+</text>
+</TEI>

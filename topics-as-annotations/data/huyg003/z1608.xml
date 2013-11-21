@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1608"/>
+<meta type="date" value="1667-11-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1608">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> le 4 Novembre 1667.</p>
+</div>
+<p>J'esperois tousjours vous donner et à Monsieur Bisschop la satisfaction souhaitee<note n="#1"/> mais ayant cherchè avec Monsieur de Carcavy parmy ses livres l'Aldrovandus qu'il croioit avoir, il ne s'est point trouuè; et il n'est non plus parmi ceux du Roy. que s'il se fut rencontrè en l'une ou l'autre bibliotheque il me l'auroit prestè pour vous l'envoier. maintenant patenay<note n="#2"/>, comme escrivoit le bon Cousin de Vogelaer<note n="#3"/> de qui je suis marry d'apprendre le mauuais estat.</p>
+<p>Je suis fort aise du bon succes de vostre travail en Teles et Microscopie, et j'en prosne icy parmi les amateurs, qui disent qu'il faudroit que vous envoiassiez une Campanine de vostre facon<note n="#4"/> pour la confronter avec la veritable, et ils ont raison. L'ouuerture de cellecy est justement la mesme avec la moindre de celles que vous avez marquees.</p>
+<p><persName key="spin003">Le Juif de Voorburg</persName><note n="#5"/> achevoit ses petites lentilles par le moyen de l'instrument et cela les rendoit tres excellentes, je ne scay pourquoy vous n'en faites pas de mesme. S'il continue au travail des grands verres vous me ferez plaisir de m'apprendre comment il y reussit.</p>
+<p>Icy nous n'avons pas encore pu avoir du verre espais pour cet usage et je viens de donner un nouueau memoire pour ceux de la verrerie<note n="#6"/> qui mettront un pot expres dans leur fourneau avec de la matiere extraordinairement raffinee.</p>
+<p>I'ay respondu<note n="#7"/> al Signor Padre pour la deuxieme fois a son probleme dioptrique, l'assurant que l'on ne scauroit faire de meilleures lunettes que les Campanines et de la mesme longueur. Si quelqu'un me peut refuter par l'effect j'en seray bien aise.</p>
+<p>Ie vous ay priè par deux<note n="#8"/> de mes precedentes de recommander au frere Louis
+la commission dont je l'avois chargè pour les cornalines: cependant je n'en entens pas parler, et j'incline fort à croire que Vostre Seigneurie a oubliè.</p>
+</div>
+<div type="para">
+<p>Pour le frere <persName key="huyg007">de Zelem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

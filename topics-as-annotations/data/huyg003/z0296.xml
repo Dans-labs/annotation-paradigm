@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0296"/>
+<meta type="date" value="1656-06-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0296">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>remercier de exemplaires.</p>
+</div>
+<div type="opener">
+<p>A Monsieur <persName key="mylo002">Milon</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vostre lettre du 13e may<note n="#1"/> avec celle de Monsieur <persName key="carc010">de Carcavy</persName><note n="#2"/> n'arriva icy que le 24<hi rend="sup">e</hi>.</p>
+<p>Les problemes de Monsieur <persName key="ferm011">de Fermat</persName> sont tout a fait beaux dans le gendre, et mal aisez à resoudre, au moins il me semblent tels a moy qui ne me suis gueres exercè dans les questions des nombres, parce que j'ay tousjours pris plus de plaisir à celles de Geometrie. Toutefois j'essayeray encore si j'en puis devenir maistre, et si non j'espere que vous me ferez la faveur de me envoyer la solution que l'autheur en donnera ou quelquun parmy vous autres scavants. J'ay pris grand contentement à veoir vostre raisonnement sur ce que j'avois proposè du jeu des dez. qui ne vous a pas trompè dans les premiers articles, à scavoir quand vous dites que l'avantage de celuy qui à la primautè est à celuy de l'autre comme 6 a 5 quand ils doivent amener un certain point avec un dè seulement. et que les avantages seroyent comme 2 à 1 si le dè avoit seulement deux faces. Tout cela est vray, mais il faut pourtant que vostre argumentation ne soit pas bien asseuree, puis qu'elle vous meine à une fausse conclusion aux cas suivants. Vous dites que si deux joueurs <hi rend="i">A</hi> et <hi rend="i">B</hi> jouent avec deux dez pour amener un mesme nombre de points, comme 7, la primautè du joueur <hi rend="i">A</hi> luy vaudra à l'egard de <hi rend="i">B</hi>, comme 36 a 35. Ou vous vouliez que la primautè donne esgal avantage, quelque nombre de points qu'on ait à amener, car dans ce qui suit apres vous vous servez de ce theoreme comme demonstrè generalement. Et toutefois il est evident qu'il y a plus grand avantage en la primautè qu'and il faut amener 7 points que quand il en faut 12, parce qu'on rencontre plus sacilement les 7 que les 12. Quand on tire à 7 points il s'en suit que l'avantage de celuy qui à la primautè est a celuy de l'autre comme 6 a 5, parce qu'en jouant avec un dè et tirant à un certain
+point il se trouve estre tel. car cecy m'est egalement difficile que d'amener 7 points avec deux dez. Mais quand on tire à 12 je trouve les avantages en la raison de 36 à trente<note n="#3"/> 35. Quand donc vous vous servez de la composition de deux raisons comme vous faites pour trouver la solution de mon probleme qui seront de 6 a 5, et de 5 a 6 il en resultera la raison d'egalitè. Dont il appert qu'une telle composition de Raisons n'y peut avoir lieu. J'attends avec impatience ce qu'en dira Monsieur <persName key="ferm011">de Fermat</persName> pendant quoy vous me permettrez de tenir cachee la solution que je puis demonstrer estre veritable, et a la quelle si qu'elqu'un pretendroit de contredire, je pourrois luy gagner son argent. Comme si vous estiez content de mettre 7 contre 6, il y auroit grande apparence que vous perdriez. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre &amp;c.</p>
+</div>
+<p>Je vous prie de faire tenir ma lettre cy jointe<note n="#4"/> a Monsieur <persName key="carc010">de Carcavy</persName> et de me faire scavoir s'il n'est pas surintendant de la maison de Monsieur <persName>le Duc de Liancourt</persName><note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

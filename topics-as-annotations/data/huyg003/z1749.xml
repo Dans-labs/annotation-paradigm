@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1749"/>
+<meta type="date" value="1669-07-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1749">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 10 Juliet 1669.</p>
+</div>
+<p>L'on m'apporta avanthier vostre perruque qui quant a la forme me plut assez mais doutant si pour le prix, qui est de 10 louis, vous la trouueriez assez blonde j'en coupay ce peu de cheveux que je vous envoie, a fin d'en scavoir vostre avis devant que de la prendre. Cependant voyant par vostre lettre d'hier que vous en estes pressè, je ne laisseray pas de vous l'envoier, si quelque bonne occasion se presente devant que vostre response arrive.</p>
+<p>Je m'informeray dez aujourdhuy de la demeure de Monsieur d'Aerssen<note n="#1"/>, en envoyant un lacquay a Mont rouge. Et s'il le trouue j'y yray demain le voir pour scavoir en quel estat il est, et ce que je puis faire pour son bien et celuy de ses parentes. Je vous prie de le dire a celles<note n="#2"/> qui me l'ont recommandè et que je seray fort aise de leur rendre service tant en cette occasion qu'en toute autre. On m'a mandè que Mademoiselle Jeane<note n="#3"/> fait merveille en matiere de peinture dont je ne puis douter, sçachant ou elle en estoit desia quand je partis d'Hollande.</p>
+<p>Je chercheray des pieces pour Madame de Beverning<note n="#4"/> de la maniere qu'elle les desire, quoy que je ne scache pas bien encore ou j'en trouueray de cette maniere, car on ne met guere ces petits airs sur le luth.</p>
+<p>Ie ne scavois pas que l'affaire de mademoiselle Berti estoit accommodée, et l'ay appris avec joie par la vostre d'hier.</p>
+<p>Je n'ay rien a mander cette fois a Mon Pere. Je vous prie seulement de luy dire que Monsieur Charas<note n="#5"/> m'a envoiè le livre<note n="#6"/> de Sinclarus<note n="#7"/> qui est un
+assez impertinent autheur. Et que mon invention du clavecin a tresbien reussi, et que je ne m'en passerois pas pour beaucoup de chose. Adio.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huygens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

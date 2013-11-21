@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1739"/>
+<meta type="date" value="1669-05-31"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1739">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce dernier May 1669.</p>
+</div>
+<p>Je n'ay rien eu par le dernier ordinaire et me serois dispensè d'escrire sans cette lettre de Monsieur Bern<note n="#1"/> qu'il m'a priè de vous adresser. J'ay fait connoissance avec luy chez la Cousine Caron, ou il est fort assidu, et il m'a dit qu'il vous avoit fort particulierement connu a la Haye. Il semble estre bon garçon, et on dit qu'il est riche. Je souhaiterois que quelqu'une des Indienes<note n="#2"/> pust s'en emparer, mais il ne parait pas trop echauffè.</p>
+<p>Je m'estonne que le Te vient point. Il vaudroit bien mieux d'avoir quelque correspondant a Calais ou a Diepe, et je tascheray d'en trouuer.</p>
+<p>Ces vers de Virgile<note n="#3"/> que vous voiez sont imprimez d'une façon nouuelle que j'ay inventée et que je pretens de perfectionner d'avantage. Elle est de peu de frais et tant les planches que l'impression se font viste et aisement. Il n'y a point d'autre moyen pour imprimer de l'ecriture que cettuicy. Vous devinerez assez facilement le secret, autrement je vous l'expliquerois, et le feray quand vous voudrez. Adieu.</p>
+<div type="closer">
+<p>A Monsieur Monsieur <persName key="huyg008">Hugens de Zuilichem</persName></p>
+<p>A <placeName key="denha004">la Haye</placeName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

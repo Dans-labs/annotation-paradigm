@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1729"/>
+<meta type="date" value="1669-04-15"/>
+<meta type="sender" value="hame061"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1729">
+<div type="opener">
+<p>de Londres ce 15 d'Auril.</p>
+<p>Monsieur</p>
+</div>
+<p>Monsieur <persName key="olde010">Oldembourg</persName> a pris la peine de m'apporter lez 100 escus, dont ie luy aj donné quittance<note n="#1"/>; i'escris a mon frere<note n="#2"/> pour Uous lez rendre; car i'aj crû
+que c'estoit le plutost fait, et le plus seure; Uous prendrez si Uous plaist la peine, de luy en donner une decharge, ou quittance;</p>
+<p>Jaj eu grande conference auec Monsieur <persName key="olde010">Oldembourg</persName>, pour Uos loix du mouuement. Je croy qu'il a resolu de les mettre<note n="#3"/> dans le premier iournal et de iustisier son procedé, auec ciuilité, et sans Uous offencer. Je croy, Monsieur, quil Uous aura ecrit au long<note n="#4"/> toutes ses raisons; et il n'est point necessaire de Uous les repeter; ils sont tous bien persuadéz, que Uous auiez trouué il y a plusieurs années ces regles du mouuement, mais ils ne croient pas qu'il soit impossible, que deux excellents esprits se puissent rencontrer dans une mesme decouuerte; ce que ie Uous puis asseurer Monsieur, c'est que tous les honnestes gens de la Societé Royale ont beaucoup d'estime et de ueneration pour Uous; Jl ne se peut faire que Uos belles decouuertes ne donnent un peu de jalousie a quelques uns; mais cela ne peut qu'augmenter Uostre gloire.</p>
+<p>on attend auec impatience Uostre dioptrique, et quelques uns mesme apprehendent, que d'autres ne Uous preuiennent. Je Uous parle, Monsieur, auec liberté, estant bien asseuré, que Uous ne doutez pas de ma sincerité, et que Uous me ferez l'honneur de croire que ie suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Uostre tres humble et obeissant seruiteur
+<lb/><persName key="hame061">J.B. du Hamel</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens</persName>
+<lb/>chez Monsieur <persName key="carc010">de Carcaui</persName>, rue uiuienne a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

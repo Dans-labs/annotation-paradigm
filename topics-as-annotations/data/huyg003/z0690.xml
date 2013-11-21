@@ -1,0 +1,48 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0690"/>
+<meta type="date" value="1659-12-04"/>
+<meta type="sender" value="wall057"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="oxfor001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0690">
+<div type="opener">
+<p><placeName key="oxfor001">Oxonijs</placeName>. <date>Novembris 24. 1659</date>.</p>
+</div>
+<p>Ad literas tuas (Vir Nobilissime) Junij 9.<note n="#2"/> datas, responsum dudum paraveram: sed quum longum esset, et tale quidem ut cum Tractatu quem sub prelo habui, de Cycloide<note n="#3"/>, satis conveniret, placuit eidem subjicere; nec eo nomine tibi minus
+gratum fore putavi, utut paulò serius acceperis. Quod tamen non fuisset huc usque protelatum, nisi preli moras quam speraveram majores expertum esset. Utut sit, aequi bonique Te consulturum spero.</p>
+<p>Nolo autem, quae inibi habentur, hic repetendo ultrà molestus esse. Jd unum tamen monere visum est: Nempe quod vel ego non satis mentem tuam assequor, vel in tuis antehac (ultimo Januarii 1659<note n="#4"/> datis) describendis, aliquid admissum est erroris. Cum enim superficiem Conoidis Parabolici more meo investigaveram, meamque deinde regulam cum tua comparaveram: inveni tuam (si recte intelligo) neque cum regula nostra, neque etiam cum tuis numeris convenire; quod facit ut errorem in transcribendo suspicer. Sic utique se habet<note n="#5"/>.</p>
+<p>‘Conoidis Parabolici recti superficies convexa, ad circulum baseos suae, eam habet rationem, quam, ad duas tertias diametri baseos, habet linea composita, ex duobus lateribus trianguli jsoscelis, basm habentis diametrum dictam, altitudinemque conoidis duplam; et ex linea quae sit ad basin dicti trianguli, sicut haec ad totius trianguli ejusdem ambitum. Sit conoides cujus sectio per axem Parabola ABC, et triangulum quale dictum fuit ADC. Dico
+<figure><graphic url="huyg003oeuv02ill163.gif"></graphic></figure>
+superficiem Conoidis convexa ad circulum a diametro AC, sese habere, sicut ad ⅔ AC se habet recta aequalis duabus AD, DC, et lineae E, quae sit ad AC, ut AC ad tria latera trianguli ADC. Unde si fuerit AD aequalis AC, erit superficiei conoidis ad circulum AC ratio, ea quae 14 ad 9. Si AD sesquialtera AC, erit ratio superficiei ad dictum circulum, ut 13 ad 6. &amp;c. Semper ut numerus ad numerum si sic fuerit AD ad AC.’<note n="#6"/> Sic tuae literae.</p>
+<p>At, inquam, si AD = DC = CA = 6; erit ut AD + DC + CA = 18, ad AC = 6, sic AC ad E = 2. Ergo AD + DC + E = 14, ad ⅔ AC = 4, ut 14 ad 4; non ut 14 ad 9. Item, si AD = DC = 6, et AC = 4; erit, ut AD + DC + CA = 16, ad AC = 4, sic AC ad 1 = E. Ergo AD + DC + E = 13, ad ⅔ AC = 8/3, ut 13 ad 2 ⅔; non, ut 13 ad 6. Errorem autem non nisi in describendo admissum esse existimo.</p>
+<p>Quid de Cycloide nos praestitimus, ubi videris; non gravaberis, spero, liberè mecum agere siquid secius quam par est deprehenderis. Si vero Pascalium et Gallos reliquos, suis quam exteris offerendis addictiores mecum sentias, non culpabis,
+credo, quod in <persName key="torr901">Torricellij</persName> Apologiam scripsimus: Quod, si Robervallio saltem non displiceat, spero nihil repertum iri quid quis merito aegre ferat. Tu qui virum rectius quam ego novi, nescio annon deprehenderis in aliorum inventa paulò iniquiorem, et faventiorem suis. Conqueruntur, scio, nonnulli, quod pronior sit ad suspicandum in alijs plagium, sibique asserendum quasi prius notum quicquid produnt alij, dum interim ille in bonum publicum nihil divulget. Quicquid sit, nec repertis ego suis invideo: nec invidere debet ille laboribus aliorum. Et si quis eadem cum illo inveniat alius, si nolit ipse sua, pati saltem debet ut eorum illi inventa proferant impune; nisi velit non in bonum publicum, sed in publicum praejudicium invenisse. Sed haec hactenus. Ignosces interim mihi, spero, si liberius ego tecum agam quam cum omnibus soleo.</p>
+<p>Horologium tuum quod spectat, id ex nostris alij alijs modis mutarunt; ita tamen ut totius negotij laus apud te maneat. Jnter alios, vidi qui figurae tuae tympanum serratum L<note n="#7"/>, adeoque virgulam pinnatam MN horizontali parallelam ponunt, ipsique MN productae perpendiculum accommodant; sed et alias immutationes adhibent nonnulli quas non ita facile est verbis explicare.</p>
+<p>Saturnium Systema tuum, vidi quidem (apud nostros utique exstat) et approbo: sed ea de re nihil a te nuper accepi. Quod moneo ne quae ex tuis literis (quod nollem) perierint.</p>
+<p>Caeterum Vale, Vir Nobilissime, et amare perge,</p>
+<div type="closer">
+<p>Tui observantissimum et amantissimum <persName key="wall057">Johannem Wallis</persName>.</p>
+</div>
+<p>Postquam superiora descripseram, animadverti, id erratum esse in tua Regula, quod <hi rend="i">duas tertias</hi> ⅔, pro <hi rend="i">sesquialtero</hi> 3/2, posueris. Quo emendato, reliqua recte se habent.</p>
+<p>Vidi nuper Observationem Domini Gulielmi Ball, qui Novembris 12. et sequentibus diebus, notavit balteum Saturni per ipsum corporis medium transeuntem, in eadem fere lineâ cum ansularum longitudine; quae si ab observatis tuis dissentiat, prospiciendum an ab aliqua perspicillorum diversitate, an aliunde originem trahat.</p>
+<p>Petit item Dominus <persName key="neil010">Paulus Nelius</persName>, (qui et Te salutatum vult,) ut ipsi digneris significatum dare,</p>
+<list>
+<label>1<hi rend="sup">o</hi>.</label><item>Num in Telescopijs tuis Diaphragmatis (sive Aperturis intermedijs, statis intervallis inter ipsa vitra, in tubo dispositis) uti soleas.</item>
+<label>2<hi rend="sup">o</hi>.</label><item>Num vitra fuligine aut fumo soleas obfuscare cum ♄, ♃, ♂, observas, uti
+facis dum observas ♀, ☿; saltem cum diametros metiris. Secus enim ♂<hi rend="sup">is</hi> diametrum minorem esse existimandum erit quam tu assignaveris.</item>
+<label>3<hi rend="sup">o</hi>.</label><item>Num duo vitra oculo proxima, sint invicem contigua; vel, si minus, quanto intervallo disjuncta.</item>
+</list>
+<p>Exemplaria duo libelli supra memorati transmittet Dominus <persName>Samuel Thomson</persName><note n="#8"/> Londinensis Bibliopola, ad Dominum Brown<note n="#9"/> Bibliopolam vestratem, tibi tradenda; quorum alterum Domino <persName key="scho197">Schotenio</persName>, cum literis ad cum inscriptis, oro ut cures transmittendum.</p>
+</div>
+<div type="para">
+<p>Nobilissimo Doctissimoque Viro, Domino <persName key="huyg003">Christiano Hugenio, Constantini filio</persName>, tradantur Hagae-Comitis.</p>
+</div>
+</body>
+</text>
+</TEI>

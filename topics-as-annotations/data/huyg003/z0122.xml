@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0122"/>
+<meta type="date" value="1652-03-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vinc027"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0122">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Quando absolutum. demonstratio missa. Vereri longe. ne quis cognoscere velit.</p>
+</div>
+<p>Non memini me questum esse superioribus literis uti scribis, sed causam cur id facerem non defuisse scio, cum plurimum expectationem meam frustratus fueris. Sed ne nunc quidem quidquam quod ad rem faciat respondisti, et vereor nullum adhuc errorem meum commonstras Vir Clarissime sed longam imposterum responsionem promittis. at valde metuo ne rem ipsam et motam à me difficultatem relinquens, disseras potissimum de fundamentis ijs quae nova in geometriam introducis. Quod si me nihil egisse ostensurus es, non arbitror id fieri posse nisi quadratum circulo aequale exhibeas, quod hactenus tantum fieri posse demonstrasti, etiam cum omnia tibi conceduntur. Quem autem hominem speras inventa tua perfecturum unquam si id ipse nequiveris qui tanto tempore in ijs versaris? Nimis me vellem haec et alia coram te interrogare posse nam per epistolas disputare longum est.
+Unum autem hoc me certiorem facito, in quod tempus defensionem tuam expectare jubeas. Quousque tandem abuteris patientia nostra, Marcus Tullius dixisset. Ego vero minimè sum impatiens neque unquam expostulabo tecum sed amicitiam colam quamdiu per te non steterit. Ecce demonstratio ejus compositionis quam tibi nuper explicavi. Primum ostendendum est....<note n="#2"/></p>
+<p>Responsum tuum adhuc patienter expectamus Vir Clarissime cui conscribendo quum te intentum credam minus frequenter interpello. Sed quia demonstrationem petijsti, constructionis ejus quam nuper explicaveram volui eam hic tibi describere. Sic autem se habet. Primum scilicet Problematis ejusdem compositionem longe faciliorem nuper adinveni et tam bellam ut gratis tibi impertiri eam non inducar, at
+<figure><graphic url="huyg003oeuv01ill83.gif"></graphic></figure>
+hoc praetio habere poteris si tribus verbis rescribas. Quoties ratio 53 ad 203 contineat rationem 5 ad 11, secundum sensum propositionis tuae 44<hi rend="sup">ae</hi> Libri 10. Nihil esse potest aequius quam ut problemata problematis contra veniant? Prostat apud me alia insignis inventio unius è locis planis Apollonij quos Pappus libro 7 refert, ego vero omnes pene resolvi. Is quem dico est ejusmodi.</p>
+<p>Datis <formula>AB, AC. AD ∞ ½ AC. AE ∞ AD. EF</formula> perpendicularis, <formula>AF ∞ DB. BG ∞ EF. GHK</formula> est linea, <formula>GH ∞ AK</formula>.</p>
+<p><figure><graphic url="huyg003oeuv01ill84.gif"></graphic></figure></p>
+<p>Ista circumferentia quomodo inveniatur, si vis tibi ostendam at nunc corollarium hoc quod inde deduxi accipe.</p>
+<p>Triangulo dato <formula>ABC</formula> si è puncto quod ipsius centrum gravitatis est quilibet circulus describatur, atque ex quolibet circumferentiae puncto ducantur ad angulos trianguli rectae <formula>EA</formula>, <formula>EB</formula>, <formula>EC</formula>, trium harum quadrata semper eidem spatio aequalia sunt. Ei nimirum quodhisce simul aequale est, triplo quadrati à semidiametro <formula>DE</formula>, dimidio quadrati basis <formula>AC</formula> et duabus tertijs quadrati à diametro <formula>BF</formula>.</p>
+</div>
+</body>
+</text>
+</TEI>

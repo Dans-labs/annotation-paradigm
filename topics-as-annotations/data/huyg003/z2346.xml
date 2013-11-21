@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2346"/>
+<meta type="date" value="1684-07-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="cass021"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2346">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 6 Juillet 1684<note n="#1"/>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je n'ay rien receu de vostre part depuis que je vous ay envoyé le petit Traité de mon Astroscopia compendiaria<note n="#2"/>, dont il me tarde d'apprendre vostre jugement. Peut estre que vous avez voulu auparavant faire l'essay de cette nouvelle methode, a quoy je suis bien faschè de ne pouvoir estre present, pour vous aider a surmonter les obstacles que vous y pourriez rencontrer, et pour voir en mesme temps l'effect de ces verres de longueur extraordinaire que l'on vous a envoiè de Rome<note n="#3"/>.
+Je vous envoie presentement un supplement que j'ay trouvé du depuis a cette invention, pour mettre à la place de celuy que j'y avois adjouté sans figure<note n="#4"/>. Comme il vous vient quantitè de spectateurs, cette maniere d'arrester le verre oculaire vous sera fort necessaire, et je puis vous assurer qu'elle reussit a souhait. Je vous avois demandè quelques particularités touchant ces nouveaux verres du S.<hi rend="sup">r</hi> Campani, auxquelles je vous prie de ne point oublier de me faire response<note n="#5"/>. J'avois envoiè un exemplaire a Monsieur Perrault le Medecin de qui je n'ay rien receu non plus<note n="#6"/>, ce qui me fait douter quelque fois si mes pacquets ont estè rendus. Vous m'obligerez fort s'il vous plait de m'en apprendre la veritè. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur Cassini, de L'Academie Roijale des sciences
+<lb/>A Paris.
+<lb/>a l'Observatoire Royal, au faubourg S. Jacques.</p>
+</div>
+</body>
+</text>
+</TEI>

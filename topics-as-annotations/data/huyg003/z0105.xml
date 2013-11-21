@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0105"/>
+<meta type="date" value="1651-11-21"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0105">
+<div type="opener">
+<p lang="la"><persName key="vinc027">Gregorius a S. Vincentio</persName> Clarissimo Domino <persName key="huyg003">Christiano Hugenio</persName>.</p>
+</div>
+<p>Haesi tuas videns, ijsque perlectis, de Responso tantisper differendo subijt cogitatio, donec, quod polliceris, recepissem. nolui tamen in aere alieno diutius morarj; praesertim, circa jd quod optas de Patre della faille; quem, a quo tempore a me discessit, anno 20 huius saeculj, videre non licuit. Dolae primùm, Mathematicas disciplinas docuit: exinde in Belgium redux, me non reperit, Romae iam commorantem, postmodum in Bohemia, vel Austria. Procabar eius consortij solatium, dum Pragae viuerem; sed mihi non licuit esse tam beato. Madritum enim (quo destinatus fueram) prius ablegatus erat, vbi post longam quietem, obambulare coactus est; et comes esse, peregrinationis Serenissimi Principis Joannis<note n="#1"/>, cuj in delicijs est. quem in Mathesi, alijsque scientijs continuo exercet; in cuius aula superstes viuit. Quodsi librum tuum ei mittere destinas, memineris rogo, eidem stimulum addere, vt reliqua, quae pridem <seg org="adsecta" resp="#AD" type="corr">adfecta</seg> habet, in publicum proferat. nisi enim violentia quadam amica vsus fuissem, adhuc cum reliquis suppressus lateret, qui prodijt libellus. forte exemplo meo, a praeli molestijs est alienus. praeclarae prorsus sunt, eius de Geometricis speculationes; vtinam jllae lucem viderent: ijsque frui liceret, quibus hoc studium est cordj. Propugnauit varias me praeside theses<note n="#2"/>, inter quas fuere, si recte memini, de jnnatantibus humido; ante triginta minimùm annos: quarum exemplar transmitterem, nisi Pragae mea perijssent. Patre Guldinus ab anno circiter, inter viuos esse desijt; vti et Scheinerus<note n="#3"/>. Kircheri Hierogliphica, necdum vidi. Adest mihi Pater Sarasa, et saluere te jubet, librumque tuum videre peroptat, et licet otio careat, sperat aliquid tamen e negotijs, quibus premitur, se exclusurum, vt curiositate sua pascatur, eique pabulum praestet. Inuitationi tuae paene succubuissem, tentandi, quae prioribus tuis me titillarunt; circa theoremata, vel problemata tua: nisi timor me subduxisset, diuturnioris morae. sufficit itaque mihi, credere ea tibi difficilioris solutionis exstitisse; vt me a labore suscipiendo abducam. praestolabor itaque donum tuum, neque permittam jllud apud me otiosum haerere, priusquam ab ouo vsque ad mala jllud degustauero.</p>
+<div type="closer">
+<p lang="la"><placeName key="gent_001">Gandauj</placeName> <date>21 Nou. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Domino D. <persName key="huyg003">Christiano Hugenio</persName>
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

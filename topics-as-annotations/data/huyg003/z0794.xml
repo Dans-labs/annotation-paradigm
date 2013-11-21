@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0794"/>
+<meta type="date" value="1660-10-03"/>
+<meta type="sender" value="dati010"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+<meta type="link" value="0793"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0794">
+<div type="opener">
+<p lang="it">Mio Signore e Padrone Singolarissimo.</p>
+</div>
+<p lang="it">Jnclusa riceuerà Vostra Signoria una del Serenissimo Principe Leopoldo al Signore Hugenio<note n="#1"/>, accompagnata con alcune riflessioni<note n="#2"/> fatte da questi Signori Accademici, nelle quali ha gran parte il Signore Giovanni Alfonso Borelli Professore delle mathematiche nell' Accademia Pisana. Prego Vostra Signoria del recapito con significare lastima che fa Sua Altezza, e tutti questi Signori del suo molto ualor. Appresso auendo io ueduta la uolontà, e il desiderio del Signore Principe, non deuo celarlo a Vostra Signoria che questa scrittura dell' Accademia si mostri, e si legga liberamente a chi che sia non si repugna; ma per ora si desidera che non se ne faccia alcuna mentione pubblica; si perche questi Signori sono molto cautelati nell' asserire cosa alcuna, ne uogliono impegnarsi senza molte considerazioni, e riprove, che ci potrà dare il tempo con reiterate osservazioni, si anche perche auendo scritto alcune censure assai severe al Padre Fabbri non uorrieno col tutto dichiararsi
+esser tenuti dal mondo appassionati, e parziali, come ueramente non sono se non della uerità. E in cio mi rimetto alla sua prudenza. Con questa occasione della questione che s'agita di Saturno, essendo stata fatta alla nuoua Posizione della fascia una opposizione circa la possibilità Fisica, alcuni di questi Signori sono andati speculando alcuni ripieghi molto ingegnosi, benche per auuentura fauolosi, e chimerici, ma però possibili; e li anno distesi in due curiose scritture. non uoleuano essi lasciar uedere questi lor pensieri, non tanto come dicevano essi, perche parranno a molti lontani dalla verità, e sodetta Filosofica, quanto perche il tempo potrebbe palesar qualche cosa più fondata e più uerisimile. Tutta uia auendoli pregati instantemente, dopo molte scuse, e proteste di non li mandare essi come cosa Accademica ma particolare, e di concederne copia quasi sforzati dalla mia importunità, stimandoli aborti dell' ingegno loro, e non uere, e legittime speculazioni, anno ceduto alle mie preghiere.</p>
+<p lang="it">La prima n<hi rend="sup">o</hi>. 1.<note n="#3"/> è del Signore Giovanni Alfonso Borelli.</p>
+<p lang="it">La 2<hi rend="sup">da</hi> n<hi rend="sup">o</hi>. 2.<note n="#4"/> è del Signore Lorenzo Magalotti<note n="#5"/> Gentiluomo Fiorentino, il quale nella sua Adolescenza da certe speranze d'una Gioventù, e Virilità marauigliosa nelle speculazioni matematiche, e filosofiche. Spero mandarne un' altra d'un' amico di Vostra Signoria ma non l'auendo egli messa al pulito non segue con questo Corriere.
+Di queste due non uorrebbero gli Autori, che si spargessero copie, perche si come si confidano che Vostra Signoria et il Signor Vgenio sieno per compatirgli cosi non s'accertano di non esser burlati dagli altri.</p>
+<p lang="it">Si stà aspettando con impazienza la risposta al Diuini. La prossima senza fallo risponderò diffusamente a tutte le cose sospese da me sin' ora, e mi scusi dell' indugio forzato dalle mie occupazioni, e particolarmente dall' Edizione d'Apollonio<note n="#6"/> che mi tiene occupatissimo. Siamo alla fine del sesto. Doueua esser finito, ma sempre s'incontrano difficoltà che ritardano.</p>
+<p lang="it">Il Signore Bigot Parti per Roma. Il Signore la feliciti.</p>
+<p lang="it">Di Vostra Signoria mio Signore</p>
+<div type="closer">
+<p lang="it">Seruitore Diuotissimo Obbligatissimo <persName key="dati010">Carlo Dati</persName>.</p>
+<p lang="it"><placeName key="flore001">Firenze</placeName> li <date>5 Ottobre 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

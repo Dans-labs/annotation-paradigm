@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1585"/>
+<meta type="date" value="1667-04-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="doub005"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1585">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 8 Avril 1667.</p>
+</div>
+<p>Voicy a la sin la figure de la calesche<note n="#1"/> que je vous avois promise<note n="#2"/>. Ie l'aurois envoiée plustost si j'eusse trouuè la commoditè de la tirer a mon aise. Cecy comme vous voiez commence fort a ressembler aux carosses, mais la legeretè ne laisse pas d'estre fort grande en comparaison de celles des calesches suspendues a l'ordinaire, a ce que m'assurent ceux qui le scavent par experience.</p>
+<p>Le duc de Roanez<note n="#3"/> me persecute tousjours pour ces petits moulins<note n="#4"/>, c'est pourquoy je vous prie de vous en souvenir. Vous scaurez peut estre desia, qu'il va se retirer chez les peres de l'Oratoire (non pas toutesois pour estre de leur nombre) et qu'il cede sa duchè a Mademoiselle sa soeur<note n="#5"/> qui espouse Monsieur de la Feuillade<note n="#6"/>.</p>
+<p>Madame de Buat arrivera icy aujourdhuy a ce que l'on vient de m'assurer.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="doub005">de Moggershil</persName> &amp;c.
+<lb/>A la Haye.</p>
+</div>
+<list>
+<item>largeur des arcs de fer sur le champs 2⅔ de pouces</item>
+<item>leur espaisseur 10 lignes.</item>
+<item>QPR est un fer attachè sur les 2 arcs et appuyè au milieu par le fer PO, qui pose sur la piece de bois DO.</item>
+<item>Ce fer QPR a deux montants QS et RT avec de traverses en haut qui supportent la chaise du cocher.</item>
+</list>
+<p><figure><graphic url="huyg003oeuv06ill23.gif"></graphic></figure></p>
+<list>
+<item>largeur de derriere 3 pieds 4 pouces.</item>
+<item>largeur de devant 3 pieds.</item>
+<item>largeur des flesches 7 pouces.</item>
+</list>
+<p>On trouue qu'il vaut beaucoup mieux de suspendre la chaise comme l'on voit icy, que de l'attacher sur les flesches, et qu'il sert mesme a la douceur du mouuement.</p>
+<p>Cette calesche peut tourner si court que l'on veut, et mesme tout en rond sans que les roues de derriere changent de place.</p>
+</body>
+</text>
+</TEI>

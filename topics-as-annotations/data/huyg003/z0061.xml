@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0061"/>
+<meta type="date" value="1649-04-22"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="rive002"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="breda001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0061">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>L'absence du Baron d'Asperen<note n="#1"/> est cause que nous cessons de poursuivre les immunitez de l'Escole Illustre. Nous n'oserions rien remuer sans luij, et il est apres ses affaires particuliers en Flandre et en Brabant. des qu'il sera arriué nous reprendrons nos erres, et, comme j'espere, en viendrons à bout, au moijen de son support au Conseil d'Estat, d'ou doibt partir l'aduis, que demanderont les Estats Generaulx. J'ay tellement operé sur l'esprit du Sr. Renesse de long et de près, qu'il m'a declaré estre content de ceder la Regence à qui l'on ij jugera plus propre que luij. mais j'apprens avec deplaisir, tant par Renesse mesme, que par mes fils, que M. Dauberus n'est aucunement resolu de s'ij laisser emploijer. Si ainsi est, l'on m'a bien faict prendre de la peine pour neant, car quand cest homme icij viendroit à quitter, je ne voy pas à qui l'on pourroit deferer la charge aveq apparence de meilleur succes. Je verray ce qu'en dira Madame<note n="#2"/>, qui ne sçait encor rien de l'aversion de M. Dauberus.</p>
+<p>A mon fils j'ay continué le presche que vous luy auez entamé et dont je vous suis obligé. mais bien peu croy-ie l'estre a nostre senat, qui n'a voulu presque faire distinction entre l'appellé et l'appellant; là où, deuant le monde (ce que je ne dis pas aux jeunes gens) l'appellé est comme hors de coulpe n'ayant mesme rien contribué au subject de la querelle, que l'autre avoue avoir forgée et recerchée de guet à pens, ayant bien osé violer le respect du Collège de S.A. si auant, que d'en venir desier un jeusne homme aveq lequel sans cela il ne doibt point entrer en comparaison de naissance nij de condition. quelle justice m'a on faicte, de passer sur tout cela, et de plus en intercedant mesme pour le Caualier, cousin et second de l'appellant, comme s'il n'auoit messaict notoirement, luij qui par un mot d'aduis ou à la garde ou ailleurs eust peu preuenir tout malheur, que dieu a voulu empescher de sa grace, mais qui eust pu reussir, à mon extreme affliction. Mais le bon est que nous ne demeurerons plus guères subjects à ceste judicature; mon intention estant de rappeller mes escoliers vers les grandes vacances, puis qu'aussi bien ils voyent la fin de leur carriere en droict, et la france commence à nous promettre du repos et de la securité pour les estrangers. Je vous prie de m'aduiser à vostre loysir comment en ceste france mes jeusnes gens dirigeront pour le mieux le cours de leur pérégrination; puis que pour la langue il ne leur en reste que peu à apprendre, et n'ij a pour eux a
+proprement estudier que la bonne et belle conuersation. J'attendray cecy un jour que vous ne sçaurez à quoy vous diuertir, et aueq offre de mon seruice reciproque demeureraij</p>
+<div type="closer">
+<p>Vostre tres humble seruiteur <persName key="huyg001">C. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> le <date>22 Avril 1649</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="rive002">Riuet</persName>, doct<hi rend="sup">r</hi>. en Théologie, Curat<hi rend="sup">r</hi>. de l'Escole Illustre
+<lb/>à Breda.</p>
+</div>
+</body>
+</text>
+</TEI>

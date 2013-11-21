@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2342"/>
+<meta type="date" value="1684-06-10"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="vilvo001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2342">
+<div type="opener">
+<p>A Vilvorde ce 10 de Juin 1684.</p>
+</div>
+<p>Vous aurez sceu par celle que j'ay escrit a ma femme le detail de mon voyage jusques icy. Je voudrois pouvoir vous dire combien il doibt durer mais jusques icy nous n'en avons encore aucune certitude quoy que desormais la prise de Luxembourg<note n="#1"/>, ne soit plus doubteuse, le Prince de Chimay qui en est sorty le 7<hi rend="sup">me</hi> devant arriver icy ce soir comme l'on croid. Mess.<hi rend="sup">rs</hi> Benting et d'Ouwerkerck envoyent querir leur gros bagage de la Haye cependant, ce qui m'a fait resoudre a faire aussi venir le mien. Pour cet effet j'envoye un messager porteur de la presente, a laquelle je joins une enclose pour M.<hi rend="sup">r</hi> Cocq<note n="#2"/> pour avoir de luy nostre provision de verres. Je l'envoye ouverte afin que vous la voyiez, pouvant ensuitte la cachetter de vostre cachet, et la donner a Master Talbot<note n="#3"/> qui s'est chargé de l'affaire comme scavez.</p>
+<p>Il sera bon de la luy recommander encore, et le presser de nous faire avoir nos verres au plustost. On dit qu'a Brusselles il y a un Jesuiste<note n="#4"/> curieux de l'Optique et qui travaille luy mesme. Je tascheray de le voir et de faire connoissance avec luy. Je vous manderay ce qui en sera. Si nous restons encore icy je ne croy pourtant pas que de quelque temps nous nous eloignions gueres de Brusselles. On vient de marquer un Camp pour nos troupes aupres de Halle a deux lieues au dela de cette ville. Mandez moy ce qui se passe de delà et comme vont les observations. Vale.</p>
+</div>
+<div type="para">
+<p>Voor Broer <persName key="huyg003">Christiaen</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

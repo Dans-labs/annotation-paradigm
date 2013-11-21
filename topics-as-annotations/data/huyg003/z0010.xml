@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0010"/>
+<meta type="date" value="1646-08-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0010">
+<div type="opener">
+<p>Mon Frère.</p>
+</div>
+<p>Voicy vostre diamant lequel, apres avoir cherché en trois ou quatre boutiques d'orfevre, j'aij trouvé a la fin tout faict comme vous le voiez. il n'est pas grand en apparence mais c'e [st] a cause qu'il est enchassé une grande par[tie]<note n="#1"/> dans le cuivre affin de tenir plus ferme: j'en ay baillé deux franqs sans marchander beaucoup me souvenant que j'avois <hi rend="i">ein reijcher meister</hi>, et aijant pris l'argent de Gritie.</p>
+<p>Il n'y a pas grande commodité icy pour l'estude de droict, ce que vous ne peut pas sembler estrange, si considerez seulement comment je soye assis à la mesme table, ou l'un apprend la prosodie, l'autre la logice tout haut; et apres que ces heures sont finies que l'un ou l'autre prend la viole et me ravit l'esprit par les oreilles, comme Bruno dit une fois de <hi rend="i">meester pantser</hi><note n="#2"/>. De sorte que le plus grand passetemps que j'aij me donne le craijonner, que j'exerce a toute force et de toute façon; J'aij peint en nostre jardin des grandes figures comme le vif, avecq du charbon mis dans de l'huijle et du craijon blancq, contre les aijs qui separent nostre jardin d'avecq celuij du Conte Maurice<note n="#3"/>, ce sont des figures d'Holbeens <hi rend="i">Dodendans</hi><note n="#4"/>, que, de petites comme le petit doict qu'elles sont, j'ay aggrandies à la hauteur susdite; Mais
+voijcij quelque chose de plus net que je viens de faire, d'ont l'original de l'un vous est assez conneu de l'autre est la teste de mort, comme nous en avons deux icij que vous avez veu. J'aij encore bien de choses à vous escrire comme dela querelle de Rosendael le second, et Monsr. <persName>de Groot l'aisné</persName><note n="#5"/>, qui de Rosendael est appelle en duel, mais la chose ne merite pas que je tourne le feuillet. Je demeure</p>
+<div type="closer">
+<p>[<placeName key="denha004">la Haye</placeName>] <date>14 Aug. 1646</date>.</p>
+<p><persName key="huyg003">Chrestien Huygens</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">C. Huygens</persName>, Secretaire de Son Altesse.
+<lb/>A L'armée.
+<lb/><hi rend="i">met een rolle papier</hi>.</p>
+</div>
+</body>
+</text>
+</TEI>

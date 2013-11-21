@@ -1,0 +1,55 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2859"/>
+<meta type="date" value="1694-06-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2859">
+<div type="summary">
+<head rend="h4">Sommaire<note n="#2"/></head>
+<p> Affaires. les sienes valent mieux la peine.
+<lb/>Je m'etonne que Bernoulli n'ait pas repondu a sa demande puis qu'il le pouvoit faire en 2 mots.
+<lb/>Cela me fait douter s'il est bien seur de son invention. Je doute si c'est pas la Parabole.
+<lb/>Que la methode de Newton est tres longue a copier. Semblable a celle de Leibnitz et Gregorius.
+<lb/>Ce que conclud Wallis. Passage qui me paroit considerable. Seray bien aise de voir comment il supplee par sa maniere ce qui autrement demande ces series.
+<lb/>De Volder quadre la Feuille.
+<lb/>Ne voit on pas les grandes erreurs de M. <persName key="rena002">Renaud</persName> dans sa reponce? il renverse toutes les loix des mechan. Je repondray par un imprimè. Sans replique disiez-vous.
+<lb/>J'avois receu de Mr. <persName key="bign011">Bignon</persName>.
+<lb/>Horologe succede bien, consume du temps.
+<lb/>Sur la question du slexus contrarius. qu'il a raison. et n'avoit pas besoin de me demander mon sentiment. Bernoulli se trompe 2 fois.
+<lb/>Bien aise de ce qu'il est de mon sentiment touchant le probl. de Leibnitz.
+<lb/>Dispute de Regis et Mallebr. de la grandeur app[aren]te de la lune. une chose si aisée a decider, ils s'embrouillent<note n="#3"/>.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 16 juin 1694.</p>
+</div>
+<p>Il y a trop longtemps, Monsieur, que je dois response aux lettres que vous m'avez fait l'honneur de m'escrire du 18 janv. et 12 mars<note n="#4"/>. Plusieurs affaires que j'ay eues, non pas si bonnes que les vostres, sont cause de ce retardement, et avec cela certaine indisposition nouvelle d'une intermission et un battement
+inordonnè du pouls, qui m'a contraint de moderer les etudes geometriques.</p>
+<p>Je m'etonne que Mr. <persName>Bernoulli</persName> ait differè de repondre<note n="#5"/> a ce que vous aviez demandè touchant son Theoreme de la voiliere, puis qu'il pouvoit le faire en 2 mots. Cela me fait douter s'il est bien sur de ce qu'il a avancè.</p>
+<p>(Et par une petite figure, que je viens de tracer
+<figure><graphic url="huyg003oeuv10ill202.gif"></graphic></figure>
+en escrivant cecy, il me semble que cette courbe est plustost celle de la parabole que celle de la chaine<note n="#6"/>. Des le temps du P. Mersenne j'etois pour la Parabole<note n="#7"/>, mais la demonstration que j'entrevois maintenant<note n="#8"/> est meilleure que celle que je luy envoiay alors<note n="#9"/>).</p>
+<p>Toutefois je ne veux encore rien assurer par ce que j'ay trouvé cy-devant<note n="#10"/> que lors que les parties de la voile sont des rectangles égaux, la courbure est moins pointée, en bas que celle de la chaine.</p>
+<p>Mr. <persName key="wall057">Wallis</persName> m'a envoié son livre de Algebra<note n="#11"/>, ou sont les series et methodes de Mr. <persName key="newt011">Newton</persName>. Peut estre l'aurez vous aussi à Paris, autrement je pourray vous cnvoier, si vous le souhaitez, une copie de cet endroit, que j'avois receu auparavant de Mr. <persName key="greg030">Gregori</persName><note n="#12"/>, mais il y a une grande feuille d'écriture. Il me paroit au reste, qu'il n'y aura rien de nouveau pour vous, Monsieur, puisque vous scavez et le calcul differentiel de Mr. <persName key="leib013">Leibnitz</persName> et les series de Mr. <persName key="greg030">Gregori</persName><note n="#13"/>. Wallis dit à la fin des inventions de Mr. <persName key="newt011">Newton</persName><note n="#14"/>: Huic methodo affinis est tum methodus
+differentialis Leibnitij tum utraque antiquior illa, quam D. Js. Barrow in Lectionibus Geometricis<note n="#15"/> exposuit; quod agnitum est in actis Lipsiensibus (anno 1691 mense Jan.) a quodam, qui methodum adhibet Leibnitij similem<note n="#16"/>. Quodque ab his duobus est superadditum, est formularum analyseos brevium et commodarum adaptatio illius theorijs. En quoy pourtant il fait tort à ces Messieurs.</p>
+<p>L'on m'a donné depuis peu une solution du probleme de la quadrature de la Feuille de Des Cartes par les appliquées à l'axe, qui pourtant sera differente, comme je crois, de celle que vous m'aviez promise<note n="#17"/>, par ce qu'elle va par de grands détours et par la comparaison des termes des equations à la maniere de Des Cartes<note n="#18"/>. Ces solutions se trouvent, lors qu'on en a desia d'autres, mais je ne laisse pas de l'estimer. J'ay veu que Mr. <persName key="vold004">de Volder</persName>, Professeur à Leyde, en est l'autheur<note n="#19"/>.</p>
+<p>J'avois desia receu 8 jours auparavant la Response de Mr. <persName key="rena002">Renaud</persName><note n="#20"/> de la part de Mr. l'Abbè <persName key="bign011">Bignon</persName>, ce qui n'empesche pas que je ne vous sois obligè du soin de me l'avoir envoiée. Je vois que pour maintenir sa Theorie, Mr. <persName key="rena002">Renaud</persName> renverse toutes les loix de la mechanique, et qu'il condamne mesme ce qu'il avoit trouvè de bon touchant la position du Gouvernail. Après avoir receu vostre approbation<note n="#21"/> je ne croiois pas devoir attendre de response à ma censure. Car M. Renaud vous estant partic[ulieremen]t connu, comment ne vous communiquerait-il pas? Maintenant je ne puis m'etonner assez de ce que Mr. <persName key="hire005">de la Hire</persName> me mande<note n="#22"/>, que depuis qu'on avoit vu mon escrit, il s'estoit repandu quelque bruit que je n'avois pas assez consideré ce qu'avance Mr. <persName key="rena002">Renaud</persName>, et il semble, dit il, que quelques uns de nos mathematiciens n'en sont pas contents. Il arrive que par megarde on ne remarque pas un paralogisme, mais après que je l'ay indiquè, comment se peut-il qu'on ne le reconnoit pas encore? Mr. <persName key="hire005">de la Hire</persName> dit qu'il a fait des objections contre cette Theorie devant qu'elle fust imprimée, mais que l'autheur n'y a pas eu egard, ce qui me fait croire qu'il aura de la peine à revenir de son erreur. Je ne laisseray pas de faire imprimer une courte confirmation de ma Remarque<note n="#23"/> a fin d'eclaircir d'avantage ce que je vois que quelques uns ne comprennent pas assez.</p>
+<p>Pour ce qui est de la difficultè touchant les courbes developpées, vous avez raison, Monsieur, de dire que Mrs. Leibnitz et Bernoulli se sont trompez. J'avois annotè l'erreur grossiere de ce dernier dans le journal de Leipsich là où il dit que dans toutes les paraboloides, exceptè la parabole, le cercle baisant au sommet est infiniment grand<note n="#24"/>, car je voiois qu'il estoit faux pour la paraboloide <hi rend="i">ax</hi><hi rend="sup">3</hi> ∞ <hi rend="i">y</hi><hi rend="sup">4</hi>. Je n'avois pas examinè s'il y avoit de ces paraboloides, qui passant de l'autre costè de l'axe, eussent le rayon de la developpée infini, au point de l'inflexion contraire, ce que vous avez fort bien remarquè estre ainsi. Et vostre regle est bonne. La demonstration paroit de ce que dans toutes ces paraboloides, dont l'equation est <hi rend="i">a<hi rend="sup">d</hi> x<hi rend="sup">m</hi></hi> ∞ <hi rend="i">y<hi rend="sup">n</hi></hi>, la subnormalis BD, qui devient le raion de la developpée pour le
+point de l'axe E, est ∞ <figure rend="inline"><graphic url="huyg003oeuv10fi66.gif"></graphic></figure><note n="#25"/>, que l'on voit facilement devenir infiniment petite en appetissant <hi rend="i">x</hi>, lorsque 2<hi rend="i">m</hi> est plus grand que <hi rend="i">n</hi>, et au contraire
+<figure><graphic url="huyg003oeuv10ill203.gif"></graphic></figure>
+infiniment longue, quand 2<hi rend="i">m</hi> est plus petit que <hi rend="i">n</hi>. Ces courbes ont un sommet lors que l'exposant <hi rend="i">m</hi> est impair et <hi rend="i">n</hi> pair, mais un point d'inflexion contraire lors que <hi rend="i">m</hi> et <hi rend="i">n</hi> sont impairs<note n="#26"/><note n="#27"/>. Je crois que vostre demonstration ne differera point de celle-cy.</p>
+<p>Je suis bien aise de ce que vous jugez comme moy du titre trop fastueux du Probleme de Mr. <persName key="leib013">Leibnitz</persName>, qui regarde les Tractoriae<note n="#28"/>. Je luy ay mandé<note n="#29"/>, que je ne trouve point qu'il ait avancé par là la quadrature des courbes, parce qu'on ne scauroit parvenir à aucune exactitude en decrivant les courbes par sa maniere embarassante. J'estime bien plus<note n="#30"/> la solution qu'il m'envoia il y a quelque temps<note n="#31"/> touchant la courbe qui convient à la soustangente déguisée 2<hi rend="i">ayy</hi>/<hi rend="i">aa</hi>-<hi rend="i">yy</hi>-<hi rend="i">xx</hi>, qui est l'une des trois que je vous ay proposée cy-devant<note n="#32"/>. Il
+trouve que cette courbe est non seulement le Cercle, mais qu'une certaine transcendante y convient encore, ce que je n'avois point sçu.</p>
+<p>J'ay fait construire l'horloge de ma nouvelle invention<note n="#33"/>, qui succede tres bien, de sorte que je pretens maintenant pouvoir porter sur mer des horloges aussi justes que le sont les Pendules de 3 pieds, dont on se sert à l'observatoire. Les divers essais et experiences<note n="#34"/> m'ont cousté du temps et de la peine, comme cela arrive dans toutes les nouvelles entreprises de machines.</p>
+<p>Je ne scay si vous aurez appris le fascheux accident arrivé au celebre Mr. <persName key="newt011">Newton</persName><note n="#35"/>, qui, à ce qu'on m'a dit, a eu la cervelle troublée pendant 18 mois, mais par les soins de ses amis et à force de remedes se porte mieux maintenant. Je ne scay ce que deviendra avec cela la nouvelle edition de son livre<note n="#36"/>, que j'avois grande envie de voir.</p>
+<p>Apres une si longue cessation des lettres, quoy qu'arrivée par ma faute<note n="#37"/>, j'espere que vous voudrez bien au plustost me donner de vos nouvelles, estant comme je suis avec beaucoup d'affection et de respect etc.</p>
+</div>
+</body>
+</text>
+</TEI>

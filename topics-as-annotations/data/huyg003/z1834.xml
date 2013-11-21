@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1834"/>
+<meta type="date" value="1671-07-17"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1834">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 27 juillet 1671.</p>
+</div>
+<p>La lettre pour mon Pere que je vous envoie peut estre le trouuera a la Haye puis qu'une dame a qui je portay hier une lettre de sa part me dit qu'on luy avoit mandè de Londres que Monsieur de Zulichem estoit party<note n="#1"/>.</p>
+<p>Je vous prie informez vous chez Leers<note n="#2"/> le libraire s'il scait quelque adresse a Rouen pour me faire tenir mes deux quaisses que j'ay laisse dans ma chambre, et ayez la bontè de me les envoier. Il me pria de luy envoier des Comedies ou autres pieces nouuelles, a quoy vous pouuez luy dire que je ne manqueray pas lors qu'il s'en rencontrera.</p>
+<p>Si par hazard vous faites quelque voyage a Amsterdam, je vous recommande de voir Monsieur Blaeuw<note n="#3"/> et de scavoir de luy quand j'auray mes deux paires de globes de la nouuelle impression, que j'attens il y a plus de 7 a 8 mois, et mesme je luy en ay encore escrit peu de jours devant mon depart. Il semble qu'il se mocque. Monsieur Picard que vous auez veu icy, s'en va faire un voyage en Dannemarck pour quelques observations<note n="#4"/> dont nous avons besoin, qu'il fera dans l'Isle de Huena ou estoit l'Uranibourg de Ticho Brahé. Il vous ira saluer en passant et je vous prie de le tenir pour recommandè si vous pouuez le servir en quelque chose.</p>
+<p>J'ay trouuè icy une nouuelle invention de voiture<note n="#5"/> par les rues, qui est fort en vogue; ce sont des chaises pour un homme seul mises sur deux roues, et avec certains ressors par dessous que les gens qui les mesnent sont obligez par serment de ne laisser voir a personne. Ces brouettes sont bien commodes et j'en ay fait l'essay. On n'en paye qu'un escu pour tout un jour. Je ne scay si les inventeurs ne
+les ont point communiquees a Monsieur de Gent, mais peut estre ils y ont adjoutè quelque chose du depuis pour les perfectionner et adoucir, tant y a qu'on ne voit autre chose dans les rues. Envoiez je vous prie l'enclose<note n="#6"/> a M. Constantin.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2832"/>
+<meta type="date" value="1693-11-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hire005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2832">
+<p>Du mesme a Mr. <persName key="hire005">de la Hire</persName><note n="#1"/>.</p>
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Remerciment touchant les 3 volumes. Qu'il les donne au porteur de mon billet. Qu'on pourroit donner un beau volume des observations de M. Cassini et des sienes. Que je pourray envoier la bonne construction du Probleme d'Alhazen<note n="#2"/> si on veut l'inserer aux memoires. que j'envoie a m. l'Abbe Bignon ma Remarque sur la manoeuvre des vaisseaux<note n="#3"/>, et demande son sentiment a long.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

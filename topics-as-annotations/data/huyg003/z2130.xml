@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2130"/>
+<meta type="date" value="1678-07-26"/>
+<meta type="sender" value="grew002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2130">
+<div type="opener">
+<p>Excellentissimo Viro Domino <persName key="huyg003">Christoph. Hugenio</persName> Philosopho et Mathematico celeberrimo <persName key="grew002">N. Grevius</persName> S.</p>
+</div>
+<p>Non solùm egomet ipse, Vir Praeclarissime, verùm etiam Regia nostra Societas, de Tua prospera valetudine, cujus recuperandae gratiâ in Patriam recesseras, meritò gaudemus. Quippe qui ex animo precamur, diu vivas in Augmentum
+Scientiarum. Quod etiam vidimus Te maxima delectatione, nec minori successu indies moliri. Quae in Microscopiorum emendationem nuper invenisti, si placuerit transmittere, cupientissimè oscularemus. Quemodmodum et Observationes, quas subinde, vel de Animalculis Semine animali apparentibus, (quorum Descriptionem D. Leeuwenhoeck mihi communicavit)<note n="#1"/> vel etiam in Lignorum Fibris, vel alijs in rebus faeliciter attigisti. Quibus praeclare Additamenta, à Tuis conatibus, utpote sagacissimis, sperare debemus. Qùm vel Tanti Viri Testimonium aliorum Inventis adhibitum, esset optatissimum.</p>
+<p>Doct. noster <persName key="hook001">Hook</persName> nuper observationes suas de Cometis annis 1664, 1665, et 1677 apparentibus, unà cum Theorematis tum de his, tum de Cometis in genere, publici juris fecit. His et adjunxit eximij Mathematici D. Christ. Wren de Cometis Novam Hypothesin et Problema Geometricum<note n="#2"/>. Vale. Dabam Londini Julij 16. 1678<note n="#3"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Huijgens</persName> à la Bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

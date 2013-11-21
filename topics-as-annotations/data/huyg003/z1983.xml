@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1983"/>
+<meta type="date" value="1674-01-13"/>
+<meta type="sender" value="camp091"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rome_001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1983">
+<div type="opener">
+<p>Per Ill<hi rend="sup">ris</hi> et Clarissime Domine D. mi Colend<hi rend="sup">me</hi>.</p>
+</div>
+<p>Occasione, qua nudius tertius adij Domum D. Auzout, ipsum rogatum, ut sibi complaceret, librum tuum mihi legendum concedere per aliquot dies, quem, inaudieram, nuper editum de Horologio oscillatorio; ambo simul animadvertimus, quem, illum unicum sibi servatum, è tribvs a te ad eumdem missis, benignissime esse mihi inscriptum, ac liberalissimè à te dono missum: alterum verò suum (nescio quo fato circa propria nomina aequivocando) iam diù, tuo nomine consignauerat Josepho Campano, fratri quidem meo, et de me valde benemerito; verumtamen ingratudinis vitio in me nimium laboranti.
+Ergo immortales tibi ago gratias Domine mi <persName key="huyg003">Hugeni</persName>, de tanto dono: precorque Deum, ut te semper bene fortunet de tam multis beneficijs orbi collatis per tua ingeniosissima inventa: Circa quae, si aliquando per otium licebit (continuo equidem premor diu, noctuque à gravi Animarum Cura, qua unius Parochiae Urbis fungor) aliàs tecum agam; ingenue tamen, et citra ullum Eminentissimi Ingenij tui praeiudicium: Cum Nobilissime Domine valere te, et perennare cupio.</p>
+<div type="closer">
+<p>Romae Idibus Januarij 1674.</p>
+<p>PerIllustris et Clarissimae Dominationis Vestrae</p>
+<p>Humillimus et Addictissimus famulus certissimus <persName key="camp091">Mattheus Campanus Alimenius</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Per Ill.<hi rend="sup">ri</hi> Domino, et Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio Zulichemio</persName> Parisios.</p>
+</div>
+</body>
+</text>
+</TEI>

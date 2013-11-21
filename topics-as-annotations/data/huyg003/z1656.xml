@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1656"/>
+<meta type="date" value="1668-08-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="doub005"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1656">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 3 Aoust 1668.</p>
+</div>
+<p>I'ay leu avec fort grand plaisir l'histoire que vous m'avez envoiee<note n="#1"/> qui contient une avanture si estrange que devant que d'en avoir veu cette relation j'avois eu de
+la peine a croire que ce fut une chose arrivée en effect. Le Sieur Romf<note n="#2"/> la semaine passée en avoit fait imprimer un petit abbregè<note n="#3"/> fait a la haste et marquant si peu de circonstances que les lecteurs en estoient peu satisfaits et ne scavoient que juger de la veritè du compte. Maintenant il travaille a un plus ample recit<note n="#4"/> en Francois qui sera composè de ce que vous m'avez envoiè et de quelques relations qu'il dit estre entre les mains de Monsieur boreel<note n="#5"/>, ou j'espere que nous verrons quelque rapport touchant l'estat present de cette Isle et de ses habitans. mais j'apprehende qu'en voulant estendre et embellir l'histoire le Sieur Romf ne fasse de mesme que le traducteur<note n="#6"/> de la Relation de la Chine<note n="#7"/>. Car on ne scauroit rien adjouter a ces choses sans les gaster. Je suis marry que ce bon George Pines<note n="#8"/> dans son grand loisir n'a pas fait des escrits plus amples et marquè cent choses touchant la maniere de vivre de ses descendans, de l'histoire naturelle de son isle, sa forme, sa grandeur et situation, de toutes les quelles choses il pouvoit avoir fait le plus beau livre du monde. mais c'estoit un pauvre homme, exceptè pour la multiplication du genre humain ou il faut avouer qu'il a fait merveille. I'ay icy aupres de moy un peintre qui fait un paisage au dedans du couvercle de mon clavecin. je suis marry que je n'y ay fait mettre un bout de l'Isle de Pines et le naufrage, ou plustost les debris du vaisseau, Et le Patriarche George avec ses 4 femmes sur le haut du rocher dans la cabane qu'ils avoient faite. Cela feroit un tableau bien agreable et je tascheray encore de le mettre en petit sur les bords dans une ovale.</p>
+<p>l'odeur de l'huile dans la chaleur qu'il fait m'a donnè un peu de mal de teste, fans cela je vous ferois la description de nostre fontaine<note n="#9"/> qui va par machine et jette un pouce et demy d'eau quoy qu'il ne nous en viene qu'un pouce de chez Monsieur <persName key="colb012">Colbert</persName>. la machine va toute seule et se met en train elle mesme sans qu'on y touche. Ce sera pour la premiere fois. adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="doub005">de Moggershil</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1432"/>
+<meta type="date" value="1665-07-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="zuili001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1432">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 21 Juliet 1665.</p>
+</div>
+<p>Voicy une horologe que nostre voisin vient de m'apporter et qui s'en ira demain par le batteau de....qui vous l'apportera a Zulichem.</p>
+<p>Le frere de Zeelhem<note n="#1"/> avec Moggershil<note n="#2"/> et Monsieur van Leeuwen qui est parti hier pour les joindre a Hulst, feront un tour a Bruges et a Gand, ou l'on vend le cabinet de l'Evesque<note n="#3"/> et seront de retour vers la fin de l'autre semaine comme je croy.</p>
+<p>Pour mon voyage de France, voicy ce que Monsieur de Carcavy me mande aujourdhuy<note n="#4"/>.</p>
+<p>Je luy ay mande<note n="#5"/> la semaine passee, <hi rend="i">que mon Pere m'ordonnoit de ne point partir qu'il ne fut de retour</hi>, <hi rend="i">et que cela estant bien juste</hi>, <hi rend="i">je n'esperois pas</hi>, <hi rend="i">qu'on me presseroit de venir si tost.</hi> Cependant si le Roy le desiroit, je ne scay s'il ne faudroit pas obeir. Mais il me tarde de veoir, ce que porteront ces ordres, car jusqu' icy l'on ne particularize rien touchant les conditions et je ne scaurois en parler le premier, parce qu'il ne seroit pas honneste, et que je m'en suis remis a eux des le commencement.</p>
+<p>la gazette que je mets icy dedans vous informera de ce qui se passe. les cousines Dorp pestent comme vous pouvez croire de ce que leur frere n'a pu rien obtenir<note n="#6"/> ni pour la compagnie ni pour le majorschap que l'on a donnè toutes deux a d'autres.</p>
+<p>Mon Pere mande du 8<hi rend="sup">me</hi> qu'il faisoit estat de partir dans la semaine prochaine, pour Copet et de la en Bourgogne.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg008">L. Huygens</persName> op 't Huijs te Zuylichem met een houte kassie gemerckt L.H.Z.</p>
+</div>
+</body>
+</text>
+</TEI>

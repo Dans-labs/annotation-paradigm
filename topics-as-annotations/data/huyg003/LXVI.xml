@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXVI"/>
+<meta type="date" value="1678"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXVI">
+<p>Propositio 40. 3<hi rend="sup">tii</hi> Lib. Coni. de la Hire.</p>
+<p>Sint Sectiones oppositae AB, IM quarum Asymptoti CE, CD suntad rectosangulos: in alterutra sumpto puncto A, et ductâ AF aequidistante Asymptoto CE, bisectâ AF in H et ad libitum productâ HO perpendiculari ad AF; descripto circulo BAFIM cujus centrum sit in recta HO, et radius OA uel OF, si circulus occurrat sectioni AB in aliquo puncto B diuerso ab A, et sectioni oppositae duobus in punctis IM ductis BG, IP, MN parallelis Asymptoto CE.</p>
+<p>Dico summam IP, MN esse aequalem BG.</p>
+<p>Sed si circulus occurrat sectioni MI in unico puncto I. Dico duplam IP esse aequalem BG.</p>
+<p>Tandem si circulus contingat sectionem BA in A, erit AF aequalis summae IP, MN, uel in secundo casu aequalis duplae IP.</p>
+<p>Productis BA, MI et iunctis BM, AI, ductisque BR, IS parallelis CD; per 13 prop. 2<hi rend="sup">i</hi> huius aequales erunt EB, AD; ZM, IL; MV, XB; IQ, AT, quare ER aequalis est AF, similiter QS aequalis AF; sunt ergo ER, QS aequales; proptereadem erunt RX, MN aequales, et SL, MN aequales; aequales igitur RX, SL; et EX, QL.</p>
+<p>Ductâ QY parallela ED et LY parallelâ MB erit triangulum QYL simile similiterque positum et aequale triangulo EBX; et recta YS parallela CD in directum occurret rectae IS, et simul constituent rectam lineam IY.</p>
+<p>Propter circulum BAIM et parallelas QY, LY rectis ED, MB erunt anguli QIL,
+QYL simul aequales duobus rectis, quamobrem quadrilatero QILY circulus circonscribi potest cum anguli oppositi sint aequales duobus rectis, quare angulus QYS aequalis angulo EDC aequalis est angulo ZLC.</p>
+<p>Iam si hyperbola MI cum recta ZMIL erit parallela ED quare per 18 prop. huius
+<figure><graphic url="huyg003oeuv22ill22.gif"></graphic></figure>
+rectangulum EA in AD uel EB erit aequale rectangulo LM in MZ uel LI: sed propter circulum rectangulum EB in EA aequale est rectangulo Eb in Ea et rectangulum LI in LM aequale est rectangulo La in Lb, quare rectangulum Ea in Eb aequale est rectangulo La in Lb quamobrem Ea, Lb sunt aequales: sed per constructionem circuli diameter HO bisecat chordam ab in d, erit igitur Ed aequalis Ld; sed EX aequalis est LQ; ergo dX aequalis est dQ; et ductâ Ae parallela DC erit de aequalis dC, et eX aequalis CQ. cum sint: LS aequalis RX, SQ aequalis AF uel eC, et CQ aequalis eX
+erit LC aequalis RC vel BG, sed per 38 huius IP cum MN aequalis est LC ergo IP cum MN aequalis est BG. quod erat propositum.</p>
+<p>Pro caeteris casibus erit fere eadem demonstratio quod fusius in libro meo traditum est sed haec tibi sufficient uir Illustrissime. addam tamen propos. 38 hujus libri insupra allatam demonstrationem omnino necessariam.</p>
+<p><figure><graphic url="huyg003oeuv22ill23.gif"></graphic></figure></p>
+<p>Propositio 38.3<hi rend="sup">tii</hi> Libri Coni.</p>
+<p>Esto hyperbola OTP cuius Asymptoti CL, CM et centrum C, sumpto puncto L in utrouis Asymptoto, et ductis rectis LA contingente in T et LM occurrente in O et P hyperbolae a punctis O, P, T ductis parallelis OQ, TV, PR Asymptoto in quo sumitur punctum.</p>
+<p>Dico summam OQ, PR esse aequalem duplo TV.</p>
+<p>Per 13 prop. libri. 2<hi rend="sup">i</hi>. huius LO aequalis est PM et ductâ Oa parallela CM erit PR aequalis La quamobrem PR cum OQ aequalis est LC, sed per 12 prop. eiusdem LA bisecatur in T quare dupla TV aequalis est LC, erit igitur OQ cum PR aequalis duplae TV. quod erat propositum.</p>
+<p>In propositione 39 idem demonstravi in sectionibus oppositis.</p>
+</div>
+</body>
+</text>
+</TEI>

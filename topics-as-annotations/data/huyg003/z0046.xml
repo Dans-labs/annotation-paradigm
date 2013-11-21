@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0046"/>
+<meta type="date" value="1648-03-17"/>
+<meta type="sender" value="mers004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0046">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>ie fus hier pour visiter Monsr. <persName key="beri006">Beringhuen</persName><note n="#1"/>, vostre grand amy pour me conjouir auec luy de vostre voyage futur, et luy dis que vous ne vouliez estre icy que 3 iours affin de l'exciter à vous y retenir dauautage, vn matin ne sera point trop; et il n'y a point d'aparence que vous refusiez vn petit Bourbon qui vous logera sur la riviere où vous verrez mille passetemps, pour choisir vostre croix de fer.</p>
+<p>Si vostre <persName key="huyg003">Archimede</persName> vient auec vous, nous luy ferons veoir l'un des plus beaux
+traitez de Geometrie<note n="#2"/> qu'il ayt jamais vû, qui vient d'estre achevé par le jeune <persName key="pasc001">Paschal</persName><note n="#3"/>, C'est la solution du lieu de Pappus ad 3 et 4 lineas qu'on pretend icy n'auoir pas esté resolu par Mr. <persName key="desc004">des Cartes</persName> en toute son estendüe. Il a fallu des lignes rouges, vertes et noires etc. pour distinguer la grande multitude de considerations [?]. Pour son liure du vuide<note n="#4"/>, on commence icy à croire que ce n'est pas vuide, a cause qu'une vessie applatie et toute vuide d'air estant mise dans ce vuide, s'y enfle incontinent. Et ie ne scay comme quoy les positions de Mr. <persName key="desc004">des Cartes</persName> soudront ce noeud de vessie, lequel ie luy ay mandé assin qu'il y pense.</p>
+<p>Je viens de recevoir nouuelle de Rome que le 23 du passé il y eut vne si grande et forte glace à Rome que ce fut vn prodige: et que les affaires de Naples vont bien mieux pour l'Hispagnol<note n="#5"/>, que pour la Republique jmaginaire<note n="#6"/>.</p>
+<p>Je ne scay si vous auez vû des lunettes de longue vûe à 4 verres ascauoir 3 convexes et vn concaue de la facon de Strasbourg. L'ouurier se nomme Joannes Toisilius<note n="#7"/>; ce sont ie croy celles dont parle en siphre le Capucin Rheita<note n="#8"/> à la 365 page<note n="#9"/> de son Oculus Enoch<note n="#10"/>, on m'escrit d'Allemagne qu'elles decouurent [?] tout d'un coup vne armée de 10000 hommes.</p>
+<p>Si i'auais la machine de Pologne à mon commandement auec ses 8 aisles i'yrois viste escouter vostre Luth pour en entendre le tonnerre. Quant à la forme resonnante il sera bien d'obseruer si elle tient plus de la parabole que de l'hyperbole: vous pourriez icy voir et ouir l'Almeier<note n="#11"/> qui est vn grand Luth ou theorbe à 15 rangs où sont marquez les quarts de ton, Mr. <persName>le Chauelier</persName> en a vn, et ie m'asseure que rien pour vous sera caché. si vostre experience vous a fait reconoistre la meilleure forme et figure pour ceste Luth, faites m'en participant.</p>
+<p>Je ne scay si ie vous ay escrit que <persName key="kepl902">Kepler</persName><note n="#12"/> cherche libraire pour faire jmprimer les 8 tomes des obseruations Celestes<note n="#13"/> de Tycho Brahé, et plusieurs traitez de son pere, comme son Hipparchion<note n="#14"/> et quantité de tables solaires, si vous auez vu la Selenograsie de Heuelius imprimé à Dantzic, dites m'en vostre aduis.</p>
+<p>Et si vous pouuez auoir vn exemplaire d'un Liure<note n="#15"/> <hi rend="i">qu'on me dit s'jmprimer à Amsterdam contre nostre Petauius</hi><note n="#16"/> <hi rend="i">sur ce qu'il a escrit de S. Trinitate</hi><note n="#17"/> <hi rend="i">contre Crellium</hi><note n="#18"/> faites m'en part, car comme ie ne doute point que vous n'ayez plusieurs amis en cette ville là qui connoissent Blaeu<note n="#19"/>, le Libraire, qui scaura tout ce qui se passe par de la, il vous sera aysé par leur entremise d'en auoir des exemplaires.</p>
+<div type="closer">
+<p>En vous attendant icy, ie demeure tousiours
+<lb/>Vostre treshumble seruiteur <persName key="mers004">Mersenne M.</persName></p>
+<p>Ce <date>17 mars 1648</date>.</p>
+</div>
+<p>Vostre <persName key="huyg003">Archimede</persName> verra icy l'inuention dudit <persName key="pasc001">Pascal</persName> pour suputer sans peine et sans rien scauoir<note n="#20"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">de Zuijllichem</persName> Conseiller et Secretaire de Monsieur le Prince d'Orange
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

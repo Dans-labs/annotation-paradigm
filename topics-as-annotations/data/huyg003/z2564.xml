@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2564"/>
+<meta type="date" value="1690-02-17"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vege004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2564">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Escrit et envoiè des Exemplaires le 17 Febr. 90 a Mr. <persName key="full003">Fullenius</persName><note n="#1"/> et a Mr. <persName key="vege004">Vegelin de Claerbergne</persName><note n="#2"/> Consr. de S. Alt. Monsgr. le Pr. de Nassau le pacquet est parti le 23 fevr. par le Messager de Frise. Il est adressè a Mr. <persName key="vege004">Vegelin</persName>, qui est priè d'euvoier le paquet enclos a Mr. <persName key="full003">Fullenius</persName>; et un exemplaire aux autheurs des Acta Eruditorum à Leipsick.</p>
+<p>Receu Response de Mr. <persName key="vege004">de Vegelin</persName> le 10 Avr. escrit le 28 Mars S. Vet. par M. Jan Bolta Concierge de S. Altesse.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

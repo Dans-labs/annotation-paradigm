@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2485"/>
+<meta type="date" value="1687-09-11"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2485">
+<div type="opener">
+<p>Nobilissimo et Clarissimo viro D. <persName key="huyg003">Christiano Hugenio</persName> S.D. <persName key="gent015">Pet. Gentius</persName>.</p>
+</div>
+<p>Tua interpellare rursum studia, tua me cogit petitio; utpote qui voluisti, ut si quae argumenti Mathematici inter D. Fatio et D. Tschirnh. occurrerent, nunciarem<note n="#1"/>. Honestae petitioni hâc epistola morem gerere animus est. Quare quam<note n="#2"/> mecum communicavit et tibi descripsit amicus meus D. Makreel<note n="#3"/>, qui eam à D. Tschirnh. acceperat, ad te mitto, quo quid jam tibi sit sentiendum penitius introspicere et accuratius judicare valeas, et ad me ut et ad D. Tschirnh. rescribas. Deferbuit, ut ipse testatur, animus D.<hi rend="sup">ni</hi> Tschirnh. indicatque se ne hoc quidem lapsu offensum esse. Quâ de causa ipsi securè scribere poteris quid hac de controversia tibi sit animi, sed peto, si mihi hac in re gratificari aequum judices, ut Epistola ad D. Tschirnh. sit aperta, quo et eam perlegere et suam exinde mentem discam: praestiteris sane beneficium. Ego tum eam sigillo munitam una cum mea in Germaniam ablegabo. Convenit me ante aliquot septimanas D. prof. de Volder, sciscitans numne quicquam literarum à D. Tschirnh. receptum à me esset. Ego negavi, anne vero alius accepisset me nescire dixi. Inter colloquendum, hoc D. Tschirnh., si adesset, daret consilium, nimirum, ut Tractatum sive de rebus mathematicis sive philosophicis juxta suam methodum exararet, in quo, quid methodus sua efficere posset, demonstraret. Hanc, aiebat, veram esse rationem recuperandae famae jam vacillantis. Plura,
+sed coram, indicabo. Nam proposui mihi te visere. Finiam ergo, postquam D. Joh. Makreel, egregium mathematicum, quique commercium Epistolarum habet cum D. Tschirnhausio,
+tibi maximopere commendavero ac obnixe petiero, ut inter tibi deditos numerare velis ac amicos. Vale ergo Nobilissime vir, et ama</p>
+<div type="closer">
+<p>Tuum <persName key="gent015">Pet. Gentium</persName>.</p>
+<p>Raptim Amstel. <hi rend="sc">xi</hi>. 7bris 1687.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Viro D.D. <persName key="huyg003">Christiano Hugenio, Domino de Selem</persName> &amp;c.
+<lb/>à la Haye.
+<lb/>pt</p>
+</div>
+</body>
+</text>
+</TEI>

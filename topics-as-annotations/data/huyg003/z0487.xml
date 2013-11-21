@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0487"/>
+<meta type="date" value="1658-05-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0487">
+<div type="opener">
+<p><persName key="slus001">Slusio</persName>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Quod et tibi valetudinem pristinam post brevem <hi rend="i">αῤῥωςίαν</hi> restitutam esse scribis quodque de mea solicitè inquiris utrumque est gratissimum. Ego ijsdem plane incommodis vexatus fui quae tibi accidisse refers, et mecum omnes qui in domo nostra imo in tota urbe morantur. Sed paucos dies morbus mihi abstulit. Plurimos vero negotia molestiae plena quibus, nescio quam bene, me immiscui. et quorum causa plusculos jam dies hic contrivi. Ita aliquamdiu feriari coactus sum a jucundissimis studijs illis quibus nostrum stat commercium. Demonstrationem quam petebas perfectam ac numeris omnibus absolutam tibi mittere constitueram, sed
+<figure><graphic url="huyg003oeuv02ill96.gif"></graphic></figure>
+quoniam illa uberius otium requirit, neque adversaria nunc ad manum sunt e quibus concinnanda foret, compendium interim quoddam seu rudimentum potius demonstrationis non insubtilis quod vix tandem in mentem revocavi, hic adscribam. ACB est circulus e quo ortum ducit linea Cissoides ADE. Circulum tangit BF perpendicularis diametro AB. Dixi igitur spatium infinitum inter curvam ADE, et rectas AB, BF interjacens triplum esse semicirculi ACB. Quod ut fiat manifestum ducatur quaelibet ACEF, quae abscindat e dicto spatio partem ADEFBA. Sit autem BMN quadrans circuli radio BN aequali BA descriptus, sumptoque arcu BR aequali BC ducatur recta RBK. Ostendam itaque portionem abscissam ADEFBA aequalem esse utrisque his segmento circuli BVR sive BXC et sectori BKM. Quod cum semper ita se habeat, quomodocunque ducatur ACEF, facile hinc perspicies infinitum tandem quod dixi spatium aequari semicirculo ACB et sectori integro BMN, ideoque semicirculi ACB triplum esse. De spatio autem abscisso ut demonstretur, arcum CXB in particulas aequales diuido, perque diuisionum puncta eductis ut vides rectis ADG &amp;c. figuram quandam spatio ADEFB inscribo è trapezijs EG, DP &amp;c. compositam. arcus BR in totidem partes secatur, atque eductis per B rectis tot quoque partes aequales facit in sectore BKM. Sint RO, TV item KL, SQ parallelae AB. Jam trapezium EG aequale ostendo triangulis inter se oppositis ROB, BKL; item trapezium DP, duobus triangulis TVB, BSQ &amp;c. Unde reliqua facile colliges. Quod trapezium EG aequetur ∆ <hi rend="sup">is</hi> ROB, BKL sic demonstro. Quadratum AF aequatur quadratis FB, BA, quorum FB aequale quadratis FC, CB. Ergo quadratum AF ∞ quadratis tribus FC, CB, BA. Quamobrem etiam triangulum super AF descriptum nimirum AFG aequabitur ternis simul triangulis huic similibus super rectis FC, CB, BA descriptis. Hoc est super rectis AE, BR, BK. Est enim AE aequalis FC ex proprietate Cissoidis, et ex constructione BR ∞ BC, et BK
+∞ BA. Sunt autem super rectis AE, BR, BK triangula ipsi AFG similia AEH, BRO, BKL. Ergo haec tria aequalia triangulo uni AFG: et ablato utrinque triangulo AEH, relinquitur trapezium EG aequale triangulis duobus BRO, BKL, quod erat propositum. Jam ex hoc caetera secundum ea quae praemisi collige. Perfecta demonstratio sieret deductione ad impossibile, et figuras etiam circumscriptas requireret quas hic tantum inscriptas considerauimus. Hanc interim rogo ut boni consulas, tibique habeas, neque alij concredas ulli. Hagae me accessit bis terve Juvenis Ornatissimus Dominus <persName>Brunetti Florentinus</persName> e Gallia adveniens et hinc in Germaniam profectus, is se <persName key="torr901">Torricellio</persName> magistro usum dicebat quanquam ad breve tempus, tecumque Romae familiaritatem contraxisse. De te itaque plurimus nobis sermo talisque perpetuo quo tibi dextram aurem tinnijsse verisimile sit.</p>
+<div type="closer">
+<p>Vale Vir Eximie et me ama.</p>
+<p><placeName key="amste001">Amstelod.</placeName> <date>28 Maj. 1658</date>.</p>
+</div>
+<p>Praetium promiseras methodum quandam qua tangentes curvarum linearum
+ducuntur. sed minori tuo incommodo facies et quod mihi longe sit acceptius si duarum mediarum constructionem ope Ellipseos impertieris quam mea illa olim ad te missa compendiosiorem asserebas.</p>
+<p>Qua via ad Dominum Hodiernam literas in Siciliam mittere possim an ea qua meae venerunt an alia, si nosti, quaeso mihi significa. debeo enim responsum neque hic ulla adest occasio<note n="#1"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

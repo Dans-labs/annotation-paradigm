@@ -1,0 +1,17 @@
+Queries As Annotations
+
+Demo app by DataArchiving And Networked Services
+http://www.dans.knaw.nl
+
+version 1.0: queries as annotations
+
+version 2.0: features as annotations
+
+version 2.1: highlight settings can be saved and loaded
+
+version 3.0: the anchors for words have changed: no longer the monad number, but a string specifying book-chapter-verse and then the word count in that verse.
+
+This is version 3.0
+
+Developed by Dirk Roorda (dirk.roorda@datanetworkservice.nl)
+Contributors: Eko Indarto, Vesa Åkerman, Paul Boon

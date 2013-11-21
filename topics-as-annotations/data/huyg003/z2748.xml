@@ -1,0 +1,60 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2748"/>
+<meta type="date" value="1692-04-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2748">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p> Apr. 5 a Mr. <persName key="duil010">Fatio</persName>. Vu avec Monros la Tour et instrumens a Delft. ce qu'il y a. iroit a 300 fr. rien pour les Telescopes.
+<lb/>Remercié des corrections du livre de Craige. faute en la 19 prop. Hartsoecker, que sa methode sera publiée dans les memoires de l'Acad. des Sciences a ce qu'il dit.
+<lb/>des verres brulants de Tschirnhaus au journal de Leipsich. Jan. 1692. je ne me haste pas de tout croire.
+<lb/>Dioptrique de Molineux bonne. et ou il y a pourtant peu de ce que j'ay dans la miene. J'ay conseillè qu'on la donnast en Latin.
+<lb/>Exhortè a faire publier le traitè de Newton de lineis curvis.
+<lb/>offert sa methode a Leibnits. j'attends response.
+<lb/>Ce qu'il y a de de Gennes dans la gazette.ce que j'en soupçonne.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 5 Avr. 1692.</p>
+</div>
+<p>J'ay appris avec bien de la joye que vostre santè s'est confirmée entierement depuis que vous estes à Londres, c'est Mr. <persName key="ques018">le Comte de Monros</persName><note n="#2"/> qui m'a apportè
+cette bonne nouvelle. Je fus hier avec luy a voir ce tour et instrumens à Delft, dont vous luy aviez escrit, et dont il m'a dit qu'il vous manderoit le detail. Il y a 2 ou 3 tours differents, tres bien et proprement faits, avec beaucoup d'outils qui en dependent, et quelques pieces d'ivoire non travaillee. De plus il y a un tour pour travailler aux petites lentilles des microscopes simples, et une infinitè de ces lentilles avec des petites machines de cuivre pour les mettre en ocuvre et y approcher les objets, mais il n'y a point de formes pour les verres de Telescopes. Tout celà peut avoir coustè plus de 1000 livres. La dame a qui il appartient parloit de 600, mais un tourneur francois qui y fut avec nous, nous fit entendre qu'on pourroit l'avoir pour 300. Je doute si vous en aurez envie, puis qu'il n'y a point de ce qu'il faut pour des verres objectifs, car pour vous amuser a faire des ouvrages au tour, je ne scaurois m'imaginer que vous y vouliez emploier le temps, le pouvant si utilement a des choses beaucoup meilleures.</p>
+<p>Mon frere de Zulichem m'a apportè<note n="#3"/> le petit Traité de Craige<note n="#4"/> ou sont vos corrections Monsieur, dont je vous rends treshumbles graces. Je regrette que vous n'ayez pas tout examinè de mesme jusqu'au bout, sur tout cette animadversio contre Mons.r de Tchirnhaus<note n="#5"/>, dans laquelle, autant que je puis voir, il a raison. Il y a au reste quelque chose de bon dans ce livre, quoyque par vostre methode des tangentes renversée, et le Theoreme de Mr. <persName>Barrow</persName><note n="#6"/> j'en sceusse la plus grande partie. Dans le Probl. 19, <hi rend="i">Cujusvis Figurae propositae Quadratur as infinitas invenire</hi>, il se trompe. Eaedem enim quadraturae isthic inveniuntur sed alijs atque
+alijs modis, quorum simplissimus solus sufficit<note n="#7"/>. Un Hollandais nommé Hartsoecker<note n="#8"/> venant de Paris ou il s'est retournè,
+m'a esté voir, et m'a dit que sa maniere de travailler aux verres des Telescopes va paroitre imprimee dans les Mémoires de Mathematique et de Physique de l'Académie des Sciences<note n="#9"/>, qu'un libraire des nostres copie a mesure qu'ils viennent de Paris, mais il n'y en a eu encore qu'un, ou il y a les Observations de Mr. <persName key="cass021">Cassini</persName> des taches et nuages dans Jupiter<note n="#10"/>. Il m'a mesme communiquè sa methode mais n'ayant apportè aucun objectif de sa façon, je suspens mon jugement. Il dit pourtant qu'il en a fait de 155 pieds dont on se sert à l'Observatoire, et qu'il m'en envoiera un de 40 pieds, que je luy ay demandè pour le comparer avec les miens.</p>
+<p>Je ne scay si vous aurez vu le mois de Janv. du Journal de Leipsich, ou Mr. <persName key="tsch002">de Tschirnhaus</persName> dit des merveilles de ses verres brulants de 2 pieds de diametre, qui convertissent tout en verre; mesme l'or en verre de couleur de rubis, mais nous le
+connoissons, ce qui fait que je ne me haste pas a croire tout ce qu'il raconte<note n="#11"/>.</p>
+<p>Un jeune homme Allemand<note n="#12"/> nouvellement venu d'Angleterre m'a presté la Dioptrica nova de Mr. <persName>Molineux</persName><note n="#13"/> que sans-doute vous aurez vue. Je trouve qu'il explique mieux les effects des Telescopes que jusqu'icy personne n'a fait. Au reste il y a peu de ce que contient mon Traitè sur cette matiere. Il a offert a un libraire de Rotterdam de luy envoier la mesme dioptrique traduite en Latin, s'il veut l'imprimer; ce que je luy ay conseillè d'accepter.</p>
+<p>Vous me faites de plus en plus envie, pour ce curieux Traitè de Mr. <persName key="newt011">Newton</persName> de Lineis Curvis. Estant achevè, et fort court, comment peut il s'excuser de ne le point publier sur l'embaras de l'impression? Ou bien vous Monsieur, que ne luy offrez vous vostre secours, puis que vous l'avez bien voulu dans un ouvrage de beaucoup plus longue haleine<note n="#14"/>. Vous obligeriez le public et moy en particulier.</p>
+<p>Dans ma derniere lettre a Mr. <persName key="leib013">Leibnitz</persName><note n="#15"/> je luy ay offert de luy expliquer vostre methode s'il le souhaitait (car j'ay voulu qu'il avouast de ne la point sçavoir) mais j'attens encore sa reponse.</p>
+<p>Mons.r de Monros me dit hier d'avoir vu dans nos gazettes que Mr. <persName>de Genes</persName><note n="#16"/> est apres a construire un vaisseau à deux gouvernails, ce qui fait connoitre qu'il est au service de la France, et qu'il a perdu animum revertendi, de quoy Mr. <persName>de Monros</persName> estoit jusqu'icy en doute. S'il est vray ce qu'on soupçonne, que cet homme se soit laissé prendre expres, c'est un franc scelerat. Pour moy je crois qu'il a voulu voir s'il amenderoit sa fortune en se jettant de nostre parti, et que pour cela il est venu icy devant que faire passer sa femme et enfans, mais qu'ayant jugè qu'il n'y trouveroit pas assez son compte, il a estè d'avis de rester
+ou il estoit. J'espere au reste que le malheur qu'a eu le bon Mr. <persName>de Monros</persName> luy tiendra cy après lieu de merite.</p>
+<p>Je vous baise les mains et suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>Ne fait on rien du verre de mon Frere?<note n="#17"/> Il devoit en avoir montré la bontè au mail aux flambeaux devant que de le mettre entre les mains du Sr. Hooke.</p>
+<p>&nbsp;</p>
+<p><note n="#18"/> Mr. <persName key="huyg003">Hugens</persName> à la Haye 5 Avr. 1692. A.N.F. à Londres.</p>
+<p>Sur le retablissement de ma santé.</p>
+<p>Sur le Tour et Instrumens que je voulais acheter. Il les spécifie, avec l'estime du prix, et dit que je peux mieux emploier mon tems qu'à tourner.</p>
+<p>Il a reçu le Traité de Craige avec mes Corrections. Ce qu'il en pense.</p>
+<p>Des objectifs que fait <persName key="hart107">Hartsoeker</persName>. On s'en sert à l'Observatoire.</p>
+<p>Verres brulans de Mr. <persName key="tsch002">de Tschirnhaus</persName>.</p>
+<p>Sur la Dioptrica Nova <persName>de Molineux</persName>.</p>
+<p>Il demande fort qu'on imprime le Traité des Lignes Courbes de Mr. <persName key="newt011">Newton</persName>.</p>
+<p>Il a offert d'expliquer ma methode à Mr. <persName key="leib013">Leibnitz</persName>, s'il le souhaitait, voulant qu'il avouat ne la point sçavoir. Il attend encore sa reponse.</p>
+<p>Sur Mr. <persName>de Genes</persName> et <persName key="ques018">le Comte de Monros</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

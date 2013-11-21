@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1939"/>
+<meta type="date" value="1673-05-17"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1939">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 19 May 1673.</p>
+</div>
+<p>J'ay tousjours regardè comme un bonheur parmi les malheurs de cette guerre, que le commerce des lettres a estè conservè. C'est pourquoy le voyant en danger d'estre aboli suivant les menaces de Monsieur de Louvois, fondees sur la prise d'un pacquet du messager ordinaire d'icy a Bommel, j'ay creu devoir adjouter mon intercession a celle que fait Monsieur Romf aupres de Monsieur le Prince et vous prier mon frere de procurer une prompte response, et telle qu'on l'attend de ce costè icy, aux plaintes qui ont estè faites au nom de Monsieur de Louvois. Monsieur Romf en a desia escrit et en escrit de nouveau a Mon Pere, et luy envoie copie des billets qu'il a receus a cette occasion. Et en voicy d'autres copies pour vous, afin que vous les ayez en mesme temps, si peut estre vons n'estiez pas a la Haye. Je vous prie ne negligez point cette affaire a fin que nous n'ayons pas le deplaisir d'en voir les fascheuses consequences. Il ne me vient guere de bonnes nouuelles de delà, mais j'aime encore mieux cela que de n'en recevoir aucunes. L'affaire du frere de S. Annalant selon les dernieres particularitez que
+Mon Pere m'en a escrit, semble prendre un tres mauvais plis<note n="#1"/>. Je ne doute pas que vous n'aidiez autant que vous pouvez a detourner ce malheur et a vous opposer a ce pouuoir trop grand que des certaines gens ont aupres du maistre. Adieu. Je fais continuellement des souhaits pour la paix et qu'apres cela nous puissions nous revoir.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName> A la</p>
+</div>
+</body>
+</text>
+</TEI>

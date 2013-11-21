@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1443"/>
+<meta type="date" value="1665-08-19"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1443">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio Zulichemio</persName>. Viro Nobilissimo S.P.D.</p>
+</div>
+<p>Tuus in Galliam Britanniamque excursus<note n="#1"/>, Hugeni Nobilissime, in caussa fuit iampridem, quominus mihi proximo biennio<note n="#2"/> usus litterarum tecum esset frequentior. Quod unum tamen potui, votis pro tua incolumitate tantum non assiduis tibi adfui, Deumque veneratus sum, ut te in spem gloriamque nostrae gentis sospitem in seros annos praestaret. Elzevirio<note n="#3"/> etiam in mandatis dedi, ut exemplar Claudiani<note n="#4"/> non ita nuper editi ad te curaret perferendum. Si mandato meo is defuit, officij quaeso fac admoneatur tempestive. Nunc in poematis meis praelo typographico committendis idem bibliopola occupatur. Et quia libellum cupit excrescere in quantamcumque molem, quod a solis versibus meis pro eius desiderio vix exspectari potest, auctor mihi ac impulsor fuit, ut Musis meis alienas quoque paterer accedere. Si alienae tamen sunt dicendae, quae me compellant amicè, et honori meo meisque laudibus dantur praecipuè. Etsi autem necdum plene transegi mecum, ut bibliopolae morem hic geram, obsecro tamen te, fratrem Constantinum moneas, ut si quid in utraque Elegia mihi inscripta, aut in alterutra, immutatum velit, eius tempestive certiorem me faciat. Merentur enim illae elegiae inter Musas potissimas lucem. Sed et te ipsum enixe rogo, ut si quid ad Cometas nuperos observasti, quod alios in eodem argumento illustrando sese occupantes potuit fugisse, id mecum communicare ne graveris. Est enim ex amicis
+nonnemo<note n="#5"/> meis, qui varias variorum observationes super Cometis istis collegit, easdemque publici juris iam nunc facit<note n="#6"/>. Quas inter exstat et Olai Rudbeckij<note n="#7"/> erudita epistola, qua mecum de re cometica agit verbis nec paucis nec inscitis. Fratrem tuum Ludovicum ad haec in Hispania inspexisse codicem Metamorphoseon Nasonianarum veterrimum diu est quod audivi<note n="#8"/>. Si quid is inde corrasit studijs meis profiturum, eo ne me defraudet aut frustretur, cupio illum summo opere rogatum. Nihil non ago, ut de meteoris nonnihil conquiram, quo opus tuum exornari atque adaugeri possit. Eaque de re iam per litteras Rudbeckium conveni. Vale Vir Nobilissime, tumultuariaeque ac festinatae scriptioni benigniter ignosce.</p>
+<div type="closer">
+<p>Exaratum Holmiae Suecorum. <hi rend="sc">ciɔiɔlxv</hi> a.d. <figure rend="inline"><graphic url="huyg003oeuv05fi13.gif"></graphic></figure> Sextilis Gregorian.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0531"/>
+<meta type="date" value="1658-10-05"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0531">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. a Schooten</persName> S.D.</p>
+</div>
+<p>De litigio inter horologiopaeos Costerum scilicet et plagiarium istum Roterodamensem quid sit, ex tuis intelligo. Quocirca cum à me petis, ut die mercurij proximo<note n="#1"/>, qui constitutus est ut utriusque horologia coram Commissarijs inspicerentur, simulque Matheseos peritorum ac horologiopaeorum sententiae super ipsis explorarentur, etiam adesse velim: non potui non aequissimo tuo desiderio obtemperare atque officium hoc levidense animitus praestare; praesertim cum me arbitrium nominare dignatus fueris; cujus tamen sive peritiae sive autoritati parum tibi fidendum judico. Caeterum, quod mearum est partium, dabo operam, ut praestituto tempore maturè vobis adsim, nisi Deus aliter statuat, quod tempestivè tunc indicaturus sum. Interim Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>5 Octobr. 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van de Heer <persName key="huyg001">van Zulichem</persName> op t' pleijn in S'Graven-Hage.
+<lb/>cito cito port</p>
+</div>
+</body>
+</text>
+</TEI>

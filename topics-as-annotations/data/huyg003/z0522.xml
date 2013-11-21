@@ -1,0 +1,191 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0522"/>
+<meta type="date" value="1658-09"/>
+<meta type="sender" value="vlie013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0521"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0522">
+<div type="opener">
+<p><persName key="vlie013">Jani Vlitii</persName> Ad Amicos Hagienses et Leidenses.</p>
+</div>
+<lg type="poem">
+<head>Ode.</head>
+<l>Jam satis nugis, tetricisque rixis,</l>
+<l>Queis forum gaudet, rabulaeque tristes</l>
+<l>Litibus lites cumulare docti</l>
+<l rend="; 1tab">Tempora ducunt,</l>
+<l>&nbsp;</l>
+<l>Et tibi Belgii decus, aleaque</l>
+<l>Martis alterni toties petita,</l>
+<l>Pallados regnum breve nuper, alma</l>
+<l rend="; 1tab">Breda vacavi.</l>
+<l>&nbsp;</l>
+<l>Prisca Danorum monumenta servans</l>
+<l>Ada, permixto ter adaucte Marca,</l>
+<l>Quid moras fluctu bifido relabens</l>
+<l rend="; 1tab">Nectis eunti?</l>
+<l>&nbsp;</l>
+<l>Pineae non me movet aura silvae,</l>
+<l>Querneis nec iam nemus Elysacum</l>
+<l>Vinculis, Hagam properantem, amica</l>
+<l rend="; 1tab">Nec tenet umbra.</l>
+<l>&nbsp;</l>
+<l>Haga me dudum vocat, ac morari</l>
+<l>Longius saeclo queritur, Laresque,</l>
+<l>Quos per erepsi puer, ut revisam</l>
+<l rend="; 1tab">Orat alumnum.</l>
+<l>&nbsp;</l>
+<l>Heinsium imprimis ibi, Vossiumque,</l>
+<l>Nomina aeternis perarata chartis</l>
+<l>Ardeo amplecti, niveisque dextram</l>
+<l rend="; 1tab">Jungere dextris.</l>
+<l>Sive Pelignis veteres amores</l>
+<l>Ille decantat numeris, vel aureo</l>
+<l>Carmen Heroum meditatur idem</l>
+<l rend="; 1tab">Pangere plectro.</l>
+<l>&nbsp;</l>
+<l>Seu per Actaeas rate vectus oras</l>
+<l>Alter interni relegat profundi</l>
+<l>Littus, aut vasti sinuosa mundi</l>
+<l rend="; 1tab">Compita lustret.</l>
+<l>&nbsp;</l>
+<l>Seu vetustatis (nihil inde tutum est)</l>
+<l>Ambo iacturam reparare certant</l>
+<l>Vixque luctantes tineis et annis</l>
+<l rend="; 1tab">Reddere luci</l>
+<l>&nbsp;</l>
+<l>Pristinae autores melioris aevi</l>
+<l>Quosque miratae veteres Athenae,</l>
+<l>Quos et Augusto dominante felix</l>
+<l rend="; 1tab">Roma probavit.</l>
+<l>&nbsp;</l>
+<l>Hos amem circum pluteos vagari</l>
+<l>Melle stillantes Sophies<note n="#2"/> favisque,</l>
+<l>Quo nec Hyblaei peperere quidquam</l>
+<l rend="; 1tab">Dulcius alvei.</l>
+<l>&nbsp;</l>
+<l>Mentibus doctis datur hic perenni</l>
+<l>Fonte promanans<note n="#3"/> liquidumque nectar</l>
+<l>Conscia si quae satagunt lucerna</l>
+<l rend="; 1tab">Ducere<note n="#4"/> noctes.</l>
+<l>&nbsp;</l>
+<l>Quas tibi at grates meritasque laudes,</l>
+<l>Entheum par o Juvenum, referre</l>
+<l>Possem inops, vasto temeraria urgens</l>
+<l rend="; 1tab">Carbasa ponto?</l>
+<l>&nbsp;</l>
+<l>Plus tamen caepti superest laboris,</l>
+<l>Atque amicorum bona pars, negare</l>
+<l>Queis nefas sit me, vocor huc et illuc</l>
+<l rend="; 1tab">Ordine nullo.</l>
+<l>Namque quem primum aut memorem deinde</l>
+<l>Haereo incertus, dubiusque nunc hoc</l>
+<l>Calle, nunc illo feror, aestuosi</l>
+<l rend="; 1tab">Vorticis instar.</l>
+<l>&nbsp;</l>
+<l>Dumque te ante omnes, venerande Catsi,</l>
+<l>Belgicae princeps citharae paterque</l>
+<l>In suburbano cupio recessu</l>
+<l rend="; 1tab">Visere, longe</l>
+<l>&nbsp;</l>
+<l>Vulgus arcentem tetricasque curas,</l>
+<l>Ad tuos colles iter inchoantem,</l>
+<l>Grotius magni patris occupat non</l>
+<l rend="; 1tab">Degener haeres:</l>
+<l>&nbsp;</l>
+<l>Obvias quondam veluti carinas</l>
+<l>Cantibus fertur remorata Siren,</l>
+<l>Neve facundo nihil<note n="#5"/> ore polles</l>
+<l rend="; 1tab">Inclyte Groti;</l>
+<l>&nbsp;</l>
+<l>Sive te verbis deceat solutis,</l>
+<l>Grande mandatum Domini potentis,</l>
+<l>Promere Augustis patribus, metrove</l>
+<l rend="; 1tab">Claudere versus.</l>
+<l>&nbsp;</l>
+<l>Te nec ingrato pede praeteribo,</l>
+<l>Celse, gentili licet eminentem</l>
+<l>Purpura, nec consilio minorem</l>
+<l rend="; 1tab">(Per freta dum nos</l>
+<l>&nbsp;</l>
+<l>Undique infestat malefida Erinnys)</l>
+<l>Patriae duris superesse rebus,</l>
+<l>Non enim prisci tenuem sodalis</l>
+<l rend="; 1tab">Spernis avenam.</l>
+<l>&nbsp;</l>
+<l>Me quoque Hugenii, varias per artes</l>
+<l>Ducta sub magno genitore triga,</l>
+<l>Mille delectant noviter repertis,</l>
+<l rend="; 1tab">Mille tabellis;</l>
+<l>&nbsp;</l>
+<l>Sive Parnassi juga siderumve</l>
+<l>Mens sit arcanas peragrare metas,</l>
+<l>Sive librato trutinare vitae</l>
+<l rend="; 1tab">Momina plumbo.</l>
+<l>Hic novas terras novus Archimedes</l>
+<l>Lucido pandit Triviae sub orbe,</l>
+<l>Moxque Saturni comites Jovisque</l>
+<l rend="; 1tab">Indice vitro,</l>
+<l>&nbsp;</l>
+<l>Lynceis huc usque<note n="#6"/> oculis latentes,</l>
+<l>Monstrat, et quidquid procul hinc videtur,</l>
+<l>Quidquid et visum fugit, intuenti</l>
+<l rend="; 1tab">Cominus offert.</l>
+<l>&nbsp;</l>
+<l>Te nec invitus memorabo, quamvis,</l>
+<l>Kinscotii<note n="#7"/> manes, geniumque tandem</l>
+<l>Lentus ut places, iterum monende</l>
+<l rend="; 1tab">Delfice Walli<note n="#8"/>.</l>
+<l>&nbsp;</l>
+<l>Cognitum quid si et iuveni Lycaeum</l>
+<l>Qua freto Rheni prohibentur ora,</l>
+<l>Marte et invictos libeat, fameque</l>
+<l rend="; 1tab">Visere muros?</l>
+<l>&nbsp;</l>
+<l>Nunc enim hic tandem precibus, Gronovi<note n="#9"/></l>
+<l>Redditus nostris, tibi destinatum</l>
+<l>Pulpitum ascendis; nimium superbus</l>
+<l rend="; 1tab">Hospite tanto</l>
+<l>&nbsp;</l>
+<l>Quem tribus lustris Batavae Minervae</l>
+<l>Isala invidit, queriturque tali</l>
+<l>Cive privari, patriique magna</l>
+<l rend="; 1tab">Parte senatus.</l>
+<l>&nbsp;</l>
+<l>Te quoque haud ullis, ibi, post habende,</l>
+<l>Serius quamvis mihi note, Borni<note n="#10"/>,</l>
+<l>Gestio amplecti, docilemque nexu</l>
+<l rend="; 1tab">Stringere Janum.</l>
+<l>&nbsp;</l>
+<l>Neve tu certe minus, ut modestus</l>
+<l>Inter hos quocunque loco reponi</l>
+<l>Respuas, virtute tua ipse fidens</l>
+<l rend="; 1tab">Cedere nulli.</l>
+<l>&nbsp;</l>
+<l>O Amicorum Sacra candidorum</l>
+<l>Turba! quos penna solui negante</l>
+<l>Vindicat certis Polyhymnia astris,</l>
+<l rend="; 1tab">Famaque claros</l>
+<l>&nbsp;</l>
+<l>Inter Heroas sua collocavit!</l>
+<l>Vos me in Hagani nemorosa luci</l>
+<l>Saepius Braeda rapite evocatum</l>
+<l rend="; 1tab">Tectaque subter</l>
+<l>&nbsp;</l>
+<l>Frondea errantes sociis libellis</l>
+<l>Non sine argutis salibus iocisque</l>
+<l>Ipse quos laudet Cato, feriatum</l>
+<l rend="; 1tab">Ducite amici.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

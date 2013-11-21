@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1040"/>
+<meta type="date" value="1662-08-08"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1040">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 8 Aoust 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous escris la presente pour vous renouueller les protestations de mon treshumble seruice, &amp; pour vous donner aduis que j'ay mis entre les mains de Monsieur de Zulichem vostre pere vn petit pacquet, dans lequel il y a trois exemplaires du petit traicté<note n="#1"/> que j'ay autresfois fait de Natura lucis, dont je vous
+promis de vous en enuoyer vn, que je vous supplie d'accepter pour vne marque de l'estime singuliere que je fais de vostre personne &amp; de vos merites. Je vous supplie aussi d'auoir la bonté de me rendre ce bon office, que de rendre a Monsieur Vossius l'exemplaire que je luy enuoye, &amp; de l'asseurer aussi que je suis son treshumble seruiteur. Le troisiesme est pour Monsieur Hudde d'Amsterdam, que je vous enuoye tout cachetté &amp; enueloppé, afin que vous n'ayez autre peine que de l'enuoyer a la poste sur le Viverberg ou par telle autre voye qu'il vous plaira qui soit seure.</p>
+<p>Je veids<note n="#2"/> hier a minuit la nouuelle estoile in Collo Ceti, qui est si belle &amp; si lumineuse que la Lune ne mempescha point de la voir. elle<note n="#3"/> dans la mesme situation que je la veids l'an passé a la fin d'Aoust.</p>
+<p>Auec vostre permission je salueray de mes treshumbles baisemains Monsieur vostre frere<note n="#4"/> a qui je suis &amp; a vous aussi</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur
+<lb/><persName key="boul014">I. Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

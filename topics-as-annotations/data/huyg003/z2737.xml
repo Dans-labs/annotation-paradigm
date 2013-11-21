@@ -1,0 +1,51 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2737"/>
+<meta type="date" value="1692-02~"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2735"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2737">
+<p>Examen eorum quae habet <persName key="huyg003">Huighenius</persName> pag. 8 et 9.</p>
+<p>&nbsp;</p>
+<p>Primum Exemplum erat ipsi aequatio <hi rend="i">y</hi><hi rend="sup">3</hi>+<hi rend="i">ayψ</hi>=<hi rend="i">bψψ</hi>-<hi rend="i">ψ</hi><hi rend="sup">3</hi>. Hanc aequationem pro ut voluit adsumsit dummodo <hi rend="i">y</hi> posita=o, etiam <hi rend="i">ψ</hi> foret=o.</p>
+<p><figure><graphic url="huyg003oeuv10ill62.gif"></graphic>
+<figDesc>fig. 1.</figDesc></figure></p>
+<p>Spatium AEB curva AE, abscissa AB, et applicata normali BE, comprehensum, vocat <hi rend="i">aψ</hi>; <hi rend="i">a</hi> est linea data. AB=<hi rend="i">y</hi>, BE=<hi rend="i">x</hi>.</p>
+<p>Haec aequatio spatium AEB exprimit per <hi rend="i">y</hi> et <hi rend="i">a</hi>, si lineae <hi rend="i">ψ</hi> valor inde eruatur.</p>
+<p>Hinc invenit aequationem quae naturam curvae exprimit 3<hi rend="i">ay</hi><hi rend="sup">2</hi>+<hi rend="i">ayx</hi>=-<hi rend="i">aaψ</hi>+2<hi rend="i">bxψ</hi>+3<hi rend="i">xψψ</hi><note n="#2"/>.</p>
+<p><figure><graphic url="huyg003oeuv10ill63.gif"></graphic>
+<figDesc>fig. 2.</figDesc></figure></p>
+<p>Ego ipsius <hi rend="i">y</hi> muto in <hi rend="i">x</hi>; <hi rend="i">x</hi> in <hi rend="i">z</hi>; <hi rend="i">aψ</hi> in ½ <hi rend="i">yy</hi> seu <hi rend="i">ψ</hi> in ½ <hi rend="i">yy</hi>/<hi rend="i">a</hi>.</p>
+<p>Ergo prima aequatio mihi fit:</p>
+<p><figure rend="inline"><graphic url="huyg003oeuv10fi473.gif"></graphic></figure>; aequatio curvae effectricis AD.<note n="#3"/></p>
+<p><figure rend="inline"><graphic url="huyg003oeuv10fi474.gif"></graphic></figure>; quadratura curvae AE, quae ex subnormalibus curvae AD constituitur, ut nempe BE sit aequalis subnormali BC, et sic ubique. Estque ½ qu. BD, seu ½ <hi rend="i">yy</hi>=spatio AEB ex Theor.<hi rend="sup">a</hi> Barovij<note n="#4"/>.</p>
+<p>Jam ad inveniendam aequationem curvae AE, primo secundum Regulam Tangentium<note n="#5"/>, invenio ex aequatione hac ablatis fractionibus, subtangentem.</p>
+<p>&nbsp;</p>
+<list>
+<item>aequ<hi rend="sup">o</hi>. <hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">x</hi><hi rend="sup">3</hi>+½ <hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">xyy</hi>-¼ <hi rend="i">bay</hi><hi rend="sup">4</hi>+⅛<hi rend="i">y</hi><hi rend="sup">6</hi>=o</item>
+<item><figure rend="inline"><graphic url="huyg003oeuv10fi247.gif"></graphic></figure> subtangens BP.</item>
+<item><figure rend="inline"><graphic url="huyg003oeuv10fi248.gif"></graphic></figure> subnormalis BC.</item>
+<item>-<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">xz</hi>+<hi rend="i">bay</hi><hi rend="sup">2</hi><hi rend="i">z</hi>-¾<hi rend="i">y</hi><hi rend="sup">4</hi><hi rend="i">z</hi>=3<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">xx</hi>+½<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">yy</hi> aequatio curvae AE.</item>
+</list>
+<p>&nbsp;</p>
+<p>In hac aequatione si subftitui intelligatur valor <hi rend="i">y</hi>, inventus nempe ex aequatione prima <figure rend="inline"><graphic url="huyg003oeuv10fi249.gif"></graphic></figure>, (quod longum esset<note n="#6"/>) habebitur ejusmodi, quae naturam expriment curvae AE per <hi rend="i">x</hi> et <hi rend="i">z</hi>.</p>
+<p>Mutatis hic meis literis in ipsius idem significantes, fit:</p>
+<p>&nbsp;</p>
+<list>
+<item>-<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">yx</hi>+2<hi rend="i">baaxψ</hi>-3<hi rend="i">aaψψx</hi>=3<hi rend="i">á</hi><hi rend="sup">3</hi><hi rend="i">yy</hi>+<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">ψ</hi></item>
+<item>per <hi rend="i">aa</hi> div. 3<hi rend="i">ayy</hi>+<hi rend="i">ayx</hi>=-<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">ψ</hi>+2<hi rend="i">bxψ</hi>-3<hi rend="i">xψψ</hi>, aequ<hi rend="sup">o</hi> eadem</item>
+</list>
+<p>quam supra.</p>
+<p>&nbsp;</p>
+<p>In caeteris exemplis eadem est ratio, nisi quod <hi rend="i">ψ</hi> in prima aequatione ad altiores gradus ascendit; unde valor ejus nescio qui inveniendus etiamsi immensum laborem subire non pigeat. Forsan Tschirnhausij inventis<note n="#7"/> fidet, quae nescio an recte se habeant, certe nullius usus sunt.</p>
+</div>
+</body>
+</text>
+</TEI>

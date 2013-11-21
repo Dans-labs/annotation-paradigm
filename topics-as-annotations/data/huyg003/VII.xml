@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="VII"/>
+<meta resp="Worp" type="date" value="1640-06-26"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="VII">
+<div type="opener">
+<p>Illustri Domino <persName key="huyg001">Constantino Hugenio</persName> S.P.D.</p>
+<p>Domine</p>
+</div>
+<p>Inambulabam, ut soleo, hodie in horto, cujus immenso sane studio feror; cumque in ipso aditu oculos circumtulissem vago quodam et curioso adspectu, miratus aliquamdiu elegantiam, cultum, amoenitatem loci, prae quo Adonidis omnes, Alcmoï, et Tantali et Hesperidum, quos fabulae, Cijri, Semiramidis aërij, pensilesque, Massinisse, Tarquinij, Catonis Censorij, Luculli, Sijllae, quos indubiae fidei historiae hortos loquuntur, nugae videbantur, et imagines muscarum; coepi aliam rem ex alia, simul studium quoque studiorum animo agitare: Quid multis? Equidem fateor, (ut quisquis homuncio, plurimum verò juvenis, sibi in rebus nihili blanditur) percommodam, perbrevem, perutilem, perdiscendae Latinae linguae rationem excogitasse impendio exsultans mecum gloriabar: (quippe quod ad rem Historicam, et Oratoriam, et caetera, de hisce dudum prudentia tua constituit ipsa, ac omnia pulchrè procedunt;) Et facere eo, praeter themata, quod planum quotidiana quam maxime Comenij Janua<note n="#1"/> videbatur, cujus si caput vel unicum inter deambulationes in quibus cum jussu tuo, tum studio, crebri sumus, ludendo, ac quasi aliud agens, examinavero, simul promissis praemiolis ut se vicissim invicem examinent, hortatus, facile perfici posse, quod optamus, plane persuasum habeo. ita nimirum ingesserint se inscijs ac, si fieri ullus potis esset, vel invitis, quae alij Musaeo usque tanquam Caucaso alicui miserè affixi, et circa corticem consenescentes, labore pertinaci, inexhaustis vigilijs, aegerrimè consequuntur. Accederet quoque examinationi illi, quam dixi mutuae, studium vincendi, praemiolis praesertim stimulatum; In rem denique cumprimis, meo judiciolo, fuerit, si Voorburgum saepe, et per omnes omnino officinas, Nobil. commilitones iverint; id ni fiat, si maxime omnia noverint ad unguem recitare vocabula, parum admodum,
+itidem ut vulgo fit, profecerint, frequentissimè enim in rem praesentem ducti, cui conveniens nomen latinè sciant, rogati quid sit haereant tamen, nec proprio designare verbo queant, quod vel viderint nunquam vel aut nulla aut obscurior ferè in authoribus vocum fit explicatio, adeoque hanc illud, non aliud exprimere, ignorent. Habes conatum nostrum, Domine, qui abundè voti compos fuerit, sive probabitur, sive corrigetur. Interim Deo O.M. tecum Rempublicam, me post illam, tibi, humillime commendo.</p>
+<div type="closer">
+<p>A.V. devotissimus cliens
+<lb/><persName key="brun004">Henricus Bruno</persName>.
+<lb/><placeName key="denha004">Hagae-Com.</placeName> <date>VI Kal. Quintil. MDCXL</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

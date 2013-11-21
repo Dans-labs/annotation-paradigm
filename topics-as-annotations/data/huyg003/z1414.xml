@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1414"/>
+<meta type="date" value="1665-06-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="rump003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1414">
+<div type="opener">
+<p>a Monsieur <persName key="rump003">Rompf</persName>.</p>
+<p>le 4 Juin.</p>
+</div>
+<p>Je le prie de s'informer chez l'Ambassadeur Holles<note n="#2"/> s'il veut qu'on luy envoie l'horologe<note n="#3"/> qu'il m'a priè de luy faire faire, dont je suis en doute par ce que le marchand n'a pas receu l'ordre promis pour le payement de l'horologer<note n="#4"/>. Je le prie aussi d'envoier la montre de ma Tante de St. Annelant<note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

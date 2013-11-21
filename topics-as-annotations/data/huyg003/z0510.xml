@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0510"/>
+<meta type="date" value="1658-08-25"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hoorn001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0510">
+<p>Nobilissimum meum, imó omnium, quibus de meliore luto finxit praecordia Titan, quique sese student praestare caeteris animantibus, Heroum decus,</p>
+<p>&nbsp;</p>
+<p>Perillustris Domini parentis vestri, Maecenatis mei, triadem epigrammatum ante biduum rectè accepi. grates persolvere dignas non opis est nostrae. Sed, si ad momentum iterum libeat otioso esse, in Brunonis gratiam, Zulichemio, Brunonine iterum tantisper licet esse flagitatori? annuit et, credo, dextrum sternutat Apollo. Oro itaque, (ne eam per ambages, abituriente imprimis amico quodam meo Amstelodamum usque hasce curaturo,) ut Proverbia Salomonis mea, id quod novissimis expressi, nisi omnis me fugiat memoria, non minus quam Iobum atque Ecclesiasten, Epigrammate decorare dignetur. Feriae instant; propediem itaque advolabo, de omnibus coram et gratias et alia acturus. Deliberet interea, si id omnino estis autores mihi, illustris iste <hi rend="i">ὁ δεῖνα ἄμουσος</hi>, utrumne Musas meas propitias an iratas habere mâlit. Sed spero, confidoque ipsum quantocijus ex Lentulo Celerem futurum, daturumque operam, ut, quod ex serenissimarum principum, eorumque qui ipsis a consilijs sunt, liberalitate ac decreto mihi debetur, tandem aliquando impetrem cum gratia.</p>
+<p>In hoc felici omine desino.</p>
+<div type="closer">
+<p>Incomparabili genio ingenioque addictissimus <persName key="brun004">H. Bruno</persName>.</p>
+<p><placeName key="hoorn001">Hornae</placeName> <date>25 Aug<hi rend="sup">ti</hi> 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>WelEdele, Hoogh-geleerde Heer, Mijn Heer <persName key="huyg003">Christiaen Huijgens</persName>, ten huijse van sijn Heer Vader, den Heer <persName key="huyg001">Van Zuijlichem</persName> etc. 's Gravenhaeghe.
+<lb/>Port van Amsteldam.</p>
+</div>
+</body>
+</text>
+</TEI>

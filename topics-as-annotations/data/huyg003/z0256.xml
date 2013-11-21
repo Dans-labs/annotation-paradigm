@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0256"/>
+<meta type="date" value="1656-01-14"/>
+<meta type="sender" value="robe012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0256">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> le <date>14 Janui. 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vostre heureuse arriuée chez vous, et le ressouuenir que vous auez eu de moy, m'ont egalement rejoüy: mais cette rejoüissance a esté toute parfaite, quand j'ay sceu que vous auiez apprise l'estime que je fais de vostre merite: je suis asseuré qu'elle est de beaucoup plus grande que le recit qu'on vous peut en auoir fait; pour ce qu'elle est proportionnée à la connoissance que j'ay de vostre vertu, quj ne peut pas estre sj bien connüe des autres que de moy. Je n'ay rien fait sçauoir du tout de nostre confidence; mais je crains qu'on ne vous ait adroitement tiré les vers du nez; en quoy il y auroit de ma faute; car je deuois vous aduertir que C.<note n="#1"/> est des plus sins en ce metier; et qu'il fait profession d'vne amitié entiere auec P.<note n="#2"/> en quoy il est du nombre de quelques autres vieux vertueux quj sont bien marris que j'aye decouuert leur confrairie. partant sj dans vostre conference jl s'est passé qu'elque chose que je doiue sçauoir, faite moy la faueur de me la mander vne fois pour toutes, affin que nostre entretien ne soit point desormais employé à de telles sottises. Pour M.<note n="#3"/> c'est vne beste en general; et en particulier, c'est la corneille de la fable. Ecriuez pourtant en termes quj ne puissent estre entendus que par ceux quj sçauent
+l'histoire. Quand jl vous plaira d'ouurir nostre entretien par quelque speculation, j'y correspondray de tout mon pouuoir. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur <persName key="robe012">Roberual</persName>.</p>
+</div>
+<p>Depuis le dernier jour de 1655 jusques à l' 11 de ce mois il a fait icy vne forte gelée qui a recommencé aprez 30 heures de degel seulement. Mandez moy sj l'hyuer est aussj rude chez vous.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestien Huygens de Zulichem</persName>. a la haie.</p>
+</div>
+</body>
+</text>
+</TEI>

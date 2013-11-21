@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0240"/>
+<meta type="date" value="1655-10-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0240">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>22 Oct.</date></p>
+<p>Mon frere</p>
+</div>
+<p>Je vous remercie du portrait de Jupiter, et le communiqueray demain avecq Monsieur <persName key="boul014">Bulliau</persName>. Il me semble d'en avoir veu un tout à fait semblable dans le livre de Kircherus, ars magna lucis et umbrae<note n="#1"/>. Voicy deux petits airs<note n="#2"/> que j'ay notèz à ma mode, de la quelle je me serviray doresenavant pourveu que vous n'y trouviez point de difficultè. Si j'ay le temps j'en mettray encore un a la fin de cette lettre<note n="#3"/> qui est tout nouveau. On n'en voit gueres encore pendant l'absence de la Cour. Je n'ay pas estè voir jusqu'a present la belle Mouchon, mais vous promets de vous en dire
+des nouvelles dans 8 jours. Il se peut faire que cette petite guenon n'est pas sa soeur, mais je scay bien qu'elle l'appelloit de ce nom; j'en scauray la veritè a la premiere entrevue. Je suis bien aise de la promesse que <persName key="kalt002">Calthof</persName> vous a faite. je ne voy rien icy qui soit à comparer a son travail, ny pas une lunette qui approche de la miene. Je l'ay fait monter a un bon maistre qui luy fera un tuyau d'un bois fort mince et couvert de parchemin vert, comme j'en ay veu avoir icy a d'autres. Il y aura cinq pieces, la plus large qui couvre les autres sera de maroquin et dorée. le tout ne pesera pas le quart de la vostre, et n'aura que 3 pieds de longueur. Monsieur <persName>van Leeuwen</persName> me mande que les Estats avoyent donnè des apartemens dans la Cour au Pensionaire de Wit, Beaumond<note n="#4"/> et Berckel<note n="#5"/>. Il faut donc qu'il y ait eu quelque conspiration a craindre contre leurs personnes, puis qu'il dit que c'a estè pour les mettre en seuretè. Et pourtant vous dites que van ruyven et son compagnon seront bientost delivrez de la prison. Voyla qui me fait croire qu'ils auront estè soupconnè à faux<note n="#6"/>, et que la cabale n'est pas encore descouverte. Faites moy scavoir ce qui en est. Comme aussi touchant les charges de Monsieur <persName key="bred901">de Brederode</persName> de quelle facon on les a partagees<note n="#7"/>. au reste parmy les nouvelles publiques n'oubliez pas les particulieres et domestiques: Et entre autres choses escrivez moy si mon pere voit encore Monsieur <persName>Casembroot</persName><note n="#8"/>, et s'il n'ouvre pas quelques fois nos lettres que nous vous escrivons. Je suis</p>
+<div type="closer">
+<p>Vostre &amp;c.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName>.
+<lb/>A la Haije.</p>
+</div>
+</body>
+</text>
+</TEI>

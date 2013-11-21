@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0577"/>
+<meta type="date" value="1659-01-26"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0576"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0577">
+<p>Propositio Domini <persName key="wren002">Wren</persName> Angli. Demonstrata a Claudio Mylon die 26. Januarii 1659.</p>
+<p><figure><graphic url="huyg003oeuv02ill121.gif"></graphic></figure></p>
+<p>Cyclois quadrupla est diametri Circuli genitoris.</p>
+<p>&nbsp;</p>
+<p>Diuidatur semicirculus primus A<hi rend="i">bc</hi> jn partes aequales jnter se, numero verò jndefinitas vt jn <hi rend="i">b. f</hi> &amp;caet et à punctis diuisionum <hi rend="i">b</hi>, <hi rend="i">f</hi>, ducantur totidem rectae <hi rend="i">b</hi> I, <hi rend="i">f t</hi> basi LA parallelae vsque ad Cycloidem jn I et <hi rend="i">t.</hi> tum ab jisdem punctis <hi rend="i">b</hi> ducantur aliae <hi rend="i">b</hi> E retro circulum tangentes, quae fiant singulae aequales arcui jntercepto <hi rend="i">b f.</hi> sumantur jn singulis <hi rend="i">b</hi> I rectae <hi rend="i">b h</hi> aequales rectae <hi rend="i">b</hi> E, et compleantur totidem Rhombi <hi rend="i">h</hi> E, quorum ducantur Diametri <hi rend="i">b g</hi>, siantque rectae IK parallelae singulae singulis <hi rend="i">b g</hi> correspondentibus. Patet ex doctrina motuum compositorum, rectas IK tangere Cycloidem jn punctis I. sumantur IK singulae aequales correspondentibus <hi rend="i">bg.</hi></p>
+<p>facillimé demonstrabitur angulos <hi rend="i">b h g</hi> ab A jncepiendo per singula diuisionis puncta <hi rend="i">b</hi>, <hi rend="i">f</hi> et aliis vsque ad C, crescere (?) quantitate anguli diuisionis ad centrum <hi rend="i">dbf.</hi> quare singulae rectae <hi rend="i">bg</hi> erunt Chordae semicirculi (vt in figura N) radio <hi rend="i">h b</hi> descripti et jn totidem partes diuisi jn quot diuisus est semicirculus A <hi rend="i">b c.</hi></p>
+<p>Manifestum quoque est summam tangentium <hi rend="i">b</hi> E aequalem esse semircircumferentiae A <hi rend="i">b c</hi>, quia singulae <hi rend="i">b</hi> E singulis arcubus diuisionis <hi rend="i">b f</hi> positae sunt aequales.</p>
+<p>Sed et rectae IK Cycloidem tangentes vt jn I, aequales quoque sunt portionibus Cycloidis I <hi rend="i">t</hi> quae jpsis sunt contiguae. Nam ob diuisionem semicirculi A <hi rend="i">b c</hi> jndesinitam, portiones Cycloidis jnter duas proximas parallelas <hi rend="i">b</hi> I, <hi rend="i">f t</hi> jnterceptae, recté sumuntur pro Lineis rectis crescentibus ab A per I, <hi rend="i">t</hi>, vsque ad M, similiter ac crescunt jpsae tangentes IK, si quidem motus puncti I Cycloidis portionem I <hi rend="i">t</hi> describentis, aequalis est motui ejusdem puncti I, rectam IK eodem tempore percurrentis. hoc que facilé concedetur ab jis qui doctrinae Jndiuisibilium et motuum compositorum non sunt Ignari.</p>
+<p>Quare omnes tangentes IK simul sumptae aequales sunt semicycloidi A I M.</p>
+<p>Est ergo semicircumferentia A <hi rend="i">b c</hi> ad semicycloidem AIM, vt summa tangentium <hi rend="i">b</hi> E ad summam tangentium I K. siue vt radius <hi rend="i">h b</hi> indefinitè sumptus ad summam Chordarum semicirculi jndefinitè diuisi, vt jn figurâ N. siue vt radius rotae A<hi rend="i">d</hi> toties sumptus ad summam Chordarum semicirculi A <hi rend="i">b c.</hi></p>
+<p>Sed summa Chordarum semicirculi A <hi rend="i">b c</hi> aequalis est duplae summae sinuum rectorum quadrantis ejusdem rotae jn totidem partes jndefinitè diuisi, jn quot nempè semirota A <hi rend="i">b c</hi> diuisa est.</p>
+<p>Et Radius est ad Quadrantem (siue diameter AC est ad semicircumferentiam A<hi rend="i">bc</hi>) ut summa sinuum rectorum ejusdem quadrantis, ad duplum<note n="#1"/> radii A<hi rend="i">d</hi> toties sumpti. quod facilè demonstrabitur. et hoc quidem jam pridem a <persName key="robe012">Roberuallio</persName> demonstratum est.
+Quare ex aequo et jn ratione perturbatâ. Diameter AC est ad semicycloidem AIM, vt Radius A<hi rend="i">d</hi> jndefinities sumptus, ad duplum ejusdem radii A <hi rend="i">d</hi> toties sumpti hoc est vt 1. ad 2.</p>
+<p>Igitur jntegra Cyclois est Quadrupla diametri AC quod erat demonstrandum.</p>
+<p><table>
+<row>
+<cell>Diameter AC</cell>
+<cell>Semicircumferentia A B C</cell>
+<cell>Semicyclois A I M</cell>
+<cell>Radius jndefinitè A <hi rend="i">d</hi></cell>
+<cell>Summa chordarum siue dupla summa Sinuum quadrantis</cell>
+<cell><note n="#2"/> Duplum radii A <hi rend="i">d</hi> jndefinitè.</cell>
+</row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1995"/>
+<meta type="date" value="1674-07-19"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1995">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 9 juillet 1674.</p>
+</div>
+<p>Vous verrez, Monsieur, par l'imprimé ci joint<note n="#1"/> comment vne personne considerable de la Loy, qu'on appelle icy <hi rend="i">Mylord chief Justice of the Kings Bench</hi> a entrepris de destruire la solution, que les meilleurs philosophes de nostre siecle ont donnée touchant l'Experience de Torricelli. Il dresse principalement ses objections et Experiences contre Monsieur Boyle, qui pourtant ne prendra pas la peine, à ce que ie croy, d'y respondre.</p>
+<p>Peut estre, quelque autre, qui a plus de loisir et qui aime les disputes, y repliquera; Monsieur Boyle poursuivant son chemin d'Experiences, et de raisonnemens modestes lá dessus, qui ne luy permettent pas de se divertir par des repliques à ces sortes d'autheurs.</p>
+<div type="closer">
+<p>Adieu,
+<lb/>Monsieur
+<lb/>Vostre tres humble serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du roy à Paris.
+<lb/>40 β</p>
+</div>
+</body>
+</text>
+</TEI>

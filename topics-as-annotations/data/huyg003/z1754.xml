@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1754"/>
+<meta type="date" value="1669-08-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1754">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 10 Aoûst 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Je respons a deux de vos lettres l'une du 5<hi rend="sup">e</hi> juillet, l'autre du dernier Maj<note n="#1"/>, dont la plus anciene en datte ne m'a estè rendue qu'avant hier par Monsieur Bleswyck.</p>
+<p>J'ay trouuè la demonstration<note n="#2"/> de Monsieur Wren, qui est dans vostre dernier Journal, tres belle et ingenieuse et je vois bien a peu pres de quelle maniere il pretend d'appliquer cette nouuelle proprietè de l'hyperbole a la fabrique des verres; mais comme les règles droites contre lesquelles il veut faire tourner son verre seront sujettes à s'user, je ne conçois pas qu'on puisse arriver par ce moyen a la justesse requise. Et je ne crois pas qu'on reussira jamais dans cette affaire si l'on ne trouue l'invention de faire en sorte que le verre et la forme hyperbolique, ou ce qui sert en sa place, se perfectionnent l'un l'autre, ainsi que dans la formation des verres spheriques. Il y a tant de peine de reussir mesme dans cette figure si simple, que je ne m'estonne point si le verre de 60 pieds auquel on travailloit chez vous n'a pas estè trouuè bon. Les miens que j'ay fait faire jusqu'icy ne sont que de 45 pieds et j'ay estè tellement traversè par le deffaut de la matiere qu'a peine en ay je encore un qui soit bon. Je les fais de 6 pouces de diametre. Je vous prie de me mander la grandeur des vostres et si le second de 60 pieds a estè meilleur que l'autre.</p>
+<p>Pour ce qui est de ma maniere d'imprimer Monsieur Wren a tres bien devinè ce qui n'empesche pas pourtant que venant a pratiquer la chose, il n'y rencontre quelques petites difficultéz, et je n'ay pas mesme remediè encore à toutes. Si la maniere du Chevalier <persName key="pett901">Petty</persName> se peut scavoir je seray bien aise d'apprendre en quoy elle est differente.</p>
+<p>Depuis ma derniere<note n="#3"/> nous avons fait plus d'une fois les Experiences du miroir bruslant. Les verges de fer qu'il fond a les faire degouter dans une demi minute sont de l'espaisseur d'enuiron 2 lignes, et largues de 3 ou 4. L'or et le cuivre tombent en goutes a peu pres dans ce meme temps. La vitrification de la tuile se commence dans l'instant qu'on l'y applique. Je fis pendre un morceau de terre du jardin de ceans dont une partie fut aussi convertie en verre noir et moins egal que celuy de la tuile. Le foier est environ de 5 lignes, et sa distance du miroir 3 pieds.</p>
+<p>De ce que vous me mandez de l'application de l'aimant a un horologe a ressort, je n'ay peu rien comprendre, mais Monsieur Gornia<note n="#4"/> m'a dit que Monsieur <persName key="hook001">Hook</persName> pretendoit d'esgaler les vibrations du pendule par le moien de l'aimant, en les contenant toutes dans une mesme estendue de mouuement, ce qui me paroit encore bien difficile, principalement sur mer. Je vous prie de me dire s'il m'a bien raportè.</p>
+<p>Que je scache aussi s'il vous plait de quelle largeur est le tuyau dans le quel
+Monsieur <persName key="boyl001">Boile</persName> renferme l'eau sans air, qui assurement est une fort belle experience.</p>
+<p>J'ay enuoiè vostre pacquet a Monsieur Justel, dans le quel peut estre, il y aura eu le Livre de <persName key="malp001">Malphighi</persName>, car je ne le scay pas encore n'ayant pas eu le loisir de l'aller voir du depuis.</p>
+<p>Le raisonnement<note n="#5"/> de Monsieur Neile touchant le mouuement est fort metaphysique et subtil, mais je ne scaurois demeurer d'accord de la plus part des principes qu'il avance, comme entre autres ce qu'il dit numero 4 que les corps qui sont en repos ne font nulle resistence au mouuement des autres. Car selon moy le repos et le mouuement ne peuvent entre considerez que relativement, et le meme corps qu'on dit estre en repos a l'egard de quelques uns, peut estre dit se mouuoir a l'egard d'autres corps, et mesme il n'y a pas plus de realitè de mouuement dans l'un que dans l'autre.</p>
+<p>Pour scavoir si la communication du mouuement des corps se fait par le ressort que font les parties ou par celuy de l'air ou autre matiere qui est serreé entre deux, ou par la duretè seule, c'est une question qui n'est pas encore bien decidée, mais dans la demonstration de mes regles, il ne m'importe point lequel des trois on suppose. Je ne scay si Monsieur Neile a pris la peine de voir ce que j'en ay escrit<note n="#6"/>. dont je seray bien aise d'avoir son jugement.</p>
+<p>J'ay veu la Refutation<note n="#7"/> qu'a faite Monsieur Wallis des nouueaux problemes de Hobbes qui ne meritent pas qu'il y emploie du temps, quelque peu qu'il y ait emploiè.</p>
+<div type="closer">
+<p>Je suis de tout mon coeur
+<lb/>Monsieur
+<lb/>Vostre tres humble et affectionnè seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="olde010">de Grubendol</persName>
+<lb/>A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2332"/>
+<meta type="date" value="1684-04"/>
+<meta type="sender" value="bern071"/>
+<meta type="recipient" value="roqu005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2332">
+<p>Extrait d'une lettre du Sr. <persName key="bern071">Bernoulli</persName>, écrite de Bâle à l'Auteur du Journal, sur le demêlé de Mr. <persName key="cata001">l'Abbé Catelan</persName> avec Mr. <persName key="huyg003">Hugens</persName>, touchant le centre d'Oscillation<note n="#3"/>.</p>
+<p>&nbsp;</p>
+<p>N'ayant pas encore remarqué que Monsieur Hugens ait répondu à la replique<note n="#4"/> de Mr. <persName key="cata001">l'Abbé Catelan</persName> que vous avez inserée dans vos Journaux de 1682. touchant sa principale proposition du centre d'Oscillation, je crois que vous ne trouverez pas mauvais que je vous écrive un mot pour sa justification.</p>
+<p>Tout le discours de Mr. <persName>Catelan</persName> ne tend qu'à prouver <hi rend="i">que la somme des Racines de deux grandeurs quelconques</hi>, <hi rend="i">ne peut estre coupée en deux parties; en sorte qu'elles soient proportionnelles aux grandeurs données</hi>, <hi rend="i">&amp; que la somme de leurs quarrez soit égale à celle de ces mèmes grandeurs:</hi> ce qui ne luy est pas contesté par Mr. <persName key="huyg003">Hugens</persName>, qui soûtient seulement que <hi rend="i">la somme de ces deux grandeurs peut bien estre égale à la somme des deux autres qui ne sont que proportionelles aux quarrez desdites parties</hi>, ce qui est aussi tres-vray. Et pour vous montrer que la dispute ne revient qu'à cela, je me serverai du même exemple de deux poids égaux, en rendant ces veritez abstraites plus sensibles par des nombres.</p>
+<p>Soient A &amp; B<note n="#5"/> deux corps suspendus à l'axe D, l'un à la distance quatre fois plus grande que l'autre: ainsi si la hauteur perpendiculaire BI d'où descend le corps B, en décrivant l'arc BG, est posée de quatre pieds, l'autre AH d'où tombe le corps A sera d'un pied. Les vitesses donc qu'ils acquierent en tombant separément, estant comme les racines de ces hauteurs seront en raison de 2, à 1. la somme 3. qui marque la vitesse totale du pendule estant partagée proportionellement aux hauteurs, ou aux arcs BG &amp; AF donne les degrez de vitesse qu'obtiennent les poids lors qu'ils tombent conjointement sur la planche DG sçavoir 12/5 &amp; 3/5 les quarrez desquels sont 144/25 &amp; 9/25 dont la somme est assurément differente de celle des hauteurs, d'où les poids sont descendus; mais ce quarrez ne marquent que la
+<figure><graphic url="huyg003oeuv08ill119.gif"></graphic></figure>
+proportion des hauteurs OM &amp; NL ausquelles montent les poids aprés la rencontre de la planche, &amp; non pas les hauteurs mêmes; lesquelles peuvent bien estre en raison de 144/25 à 9/25 c'est à dire de 16 à 1. sans que leur somme laisse pour cela d'estre égale à 5. qui est celle des hauteurs BI &amp; AH, d'où les mêmes poids sont descendus; car si je fais la hauteur OM de 4 12/17 pieds, l'autre NL de 5/17 OM sera à NL comme 16 à 1. &amp; OM + NL sera égal à BI + AH, &amp; par consequent le centre de pesanteur commun des poids AB montez en LM, sera à même hauteur qu'il estoit devant que le balancement fut commencé; ce qui paroît facilement par l'inspection de la <hi rend="i">fig.</hi> car le poids M estant autant au dessus de la ligne horisontale BD que L en est au dessous, sçavoir de 12/17 parties d'un pied, il s'ensuit que dans les triangles semblables MPQ &amp; LQR les côtez MQ, &amp; QL sont égaux, c'est à dire que le milieu de la ligne ML qui joint les deux poids se trouve dans l'intersection de la ligne horizontale. Voila Mr. ce que j'avois à vous dire sur ce sujet.</p>
+</div>
+</body>
+</text>
+</TEI>

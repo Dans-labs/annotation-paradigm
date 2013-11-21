@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0149"/>
+<meta type="date" value="1653-01-13"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0149">
+<div type="opener">
+<p>Clarissimo Viro, Domino D. <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. à Schooten</persName> S.P.</p>
+</div>
+<p>Vidi tuam, nobilissime Vir, circa curvam à Domino <persName key="wall057">Wallis</persName> propositam, sententiam, qualis nempe illa à Te habeatur: nimirum, quod ejus puncta non indifferenter se habeant ad puncta alicujus rectae, id quod sanè ingeniosè ostendis. Unde fit ut et ego illam, minus adhuc quàm ante inter Geometricas annumerandas existimem, hoc est, in quâ relatio omnium ejus punctorum ad rectae lineae puncta non exprimatur per aliquam aequationem, sicuti id à Domino <persName key="desc004">des Cartes</persName> in exordio 2<hi rend="sup">di</hi> libri explicatur. Verum non ideo tamen ego inordinatam dixerim aut irregularem, non magis quam Trochoïdem, aut Spiralem &amp;c. quarum equidem satis multae atque non inelegantes constant proprietates. Quemadmodum sunt illae, quae de earum superficie, et tangentibus àb Archimede, Cartesio, et Toricellio sunt ostensae: licèt in hoc, quod illarum puncta non ad rectae lineae puncta eandem semper atque indifferentem habeant relationem, videantur inordinatae, neque sub Algebram cadentes. Hinc qualem unam ex jam dictis statuerit aliquis, talem ego superius dictam fore crediderim. Caeterum, quoniam nuper oblitus eram tibi communicare libellum<note n="#1"/> Domini <persName>de Nonancourt</persName><note n="#2"/>, de quo nobis erat sermo, hinc tibi illum nunc simul transmitto, ut, quid ille molitus fuerit, tu intelligere studeas, siquidem mihi valde obscurus videtur, ac necdum, cum otium non suppetat, perlexi. Transmitto simul et annulum, in foco nostro tunc temporis deperditum, posteaque ab uxore meâ repertum, non exiguâ
+certè aut mediocri laetitia, etsi (sicut mihi persuadeo) non tantâ, quali annulus à Domino <persName key="tacq001">Tacqueto</persName> fuerit inventus. Quocirca illum in fidelitatis suae tesseram accipias quaeso, sed satis est jocorum, scio enim te seria molientem, quibus perficiundis, quaeso ut Deus sit tibi propitius, atque ut hoc anno omnia ex voto tibi succedant. Vale et me amare perge.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>13 Januarij, 1653</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo, Eximioque Viro-Juveni Domino <persName key="huyg003">Christiano Hugenio</persName>, amico singulari, Viri incomparabilis Domini <persName key="huyg001">de Zuijlechem filio</persName>,
+<lb/><placeName key="denha004">Hagae-Comitis</placeName>.
+<lb/>per amicum.</p>
+</div>
+</body>
+</text>
+</TEI>

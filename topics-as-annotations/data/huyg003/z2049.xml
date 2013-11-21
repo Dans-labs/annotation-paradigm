@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2049"/>
+<meta type="date" value="1675-08-10"/>
+<meta type="sender" value="papi014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2049">
+<div type="opener">
+<p>de Londres ce 10<hi rend="sup">e</hi> Aoust 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Le gentilhomme Alleman<note n="#2"/> qui vous rendra celle cy est fort entendu dans les mathématiques et l'ayant rencontré diuerses fois chez mess.<hi rend="sup">rs</hi> <persName key="olde010">Oldembourg</persName> et <persName key="boyl001">Boyle</persName> il m'a temoigné auoir pour vous toute l'admiration que vos ouurages donnent a ceux qui les entendent, et ainsi j'ay pris la liberté de vous ecrire par luy. J'ay veu la montre de mil. Brounker et j'ay trouué qu'asseurement son bransle est diminué<note n="#3"/> mais il me dist pourtant que les douze premieres heures elle s'arreste fort rarement et ainsy il n'a qua la remonter deux fois par jour. Au reste il se deffie si fort de l'addresse des ouuriers de ce pays icy qu'il n'ose faire demonter sa monter<note n="#4"/> jusques a ce qu'il ayt receu l'autre qu'il vous a demandée, et il ne la demandoit a double balancier que sur vne lettre par ou vous mandiez que cestoit le moien d'empescher le contrecoup<note n="#5"/>, mais a present, Monsieur, il vous prie simplement de luy en enuoyer vne de la maniere que vous jugez la meilleure, et vous asseure que le rapport qu'il en fera sera fort equitable. Je n'ay point encore eu l'honneur de le voir depuis celle que vous m'auez fait l'honneur de m'ecrire<note n="#6"/> quoyque je sois allé deux fois chez luy. Je ne manqueray pas a la premiere veue de m'acquitter de ce que vous m'auez ordonné. Je n'ay pas non plus veu Monsieur Hook et
+quand j'ay demandé des nouuelles de sa montre a Monsieur Oldemburg il m'a dit qu'elle ne paroissoit pas encore et qu'il croyoit mesme qu'elle ne paroistroit point mais il ne me dist pas pourquoy, du reste je ne croy pas que la Societé royalle fasse grande chose et Mr. <persName key="boyl001">Boyle</persName> m'a dit qu'il y a bien neuf mois qu'il n'y est allé et quand je suis arriué icy il y auoit desjà du temps que les vacances estoient commencées<note n="#7"/> et elles ne doiuent finir de long temps<note n="#8"/>. Il y a icy quelque bruit pour les nouueaux mestiers de rubans et de bas de soye les artisans a qui cela fait tort s'estants attrouppez pour empescher les nouueaux de trauailler, on croit que cela hastera le retour du Roy et cependant il y a tous les jours des bourgeois soubs les armes. J'exerce mon Anglois a traduire le liure de Monsr. <persName key="boyl001">Boyle</persName><note n="#9"/> tou [chant]<note n="#10"/> la possibilité de la resurrection dont je ne vous diray rien, Monsieur, sachant que vous lauez veu, mais je croy que je pourray auoir bientost d'autres occupations aupres d'un jeune gentilhomme dont Monsieur <persName key="olde010">Oldembourg</persName> m'a parlé, a qui il faut vn precepteur et dont le pere a de l'inclination pour les experiences, si cela reussit je vous prieray Mr. de me donner la liberté de vous consulter quelque fois et je m'informeray le mieux qu'il me sera possible de tout ce qui se fera icy de nouueau, pour vous en faire part comme vous me l'ordonnez, et je mestimeray trop heureux d'auoir ainsi
+quelque sujet de vous presenter mes respecs et de vous asseurer que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="papi014">Papin</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens</persName> a la Bibliotheque du Roy A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

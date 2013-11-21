@@ -1,0 +1,77 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0973"/>
+<meta type="date" value="1661"/>
+<meta type="sender" value="brou051"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="0968"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0973">
+<p><figure><graphic url="huyg003oeuv04ill14.gif"></graphic></figure></p>
+<p>Let the specifick weight of K to I be as 1 to 2.</p>
+<p><table>
+<row>
+<cell role="header">Then</cell>
+<cell role="header">Diameter.</cell>
+<cell role="header">Superficies.</cell>
+<cell role="header">Solidity.</cell>
+<cell role="header">Weight.</cell></row>
+<row>
+<cell>AB</cell>
+<cell>1</cell>
+<cell>1</cell>
+<cell>1</cell>
+<cell>1</cell></row>
+<row>
+<cell>CD</cell>
+<cell>2</cell>
+<cell>4</cell>
+<cell>8</cell>
+<cell>4</cell></row>
+<row>
+<cell>EF</cell>
+<cell>2</cell>
+<cell>4</cell>
+<cell>8</cell>
+<cell>8</cell></row>
+<row>
+<cell>GH</cell>
+<cell>√<hi rend="i">c</hi> 4</cell>
+<cell>....</cell>
+<cell>4</cell>
+<cell>4</cell></row>
+<row>
+<cell>EF - GH</cell>
+<cell>....</cell>
+<cell>4</cell>
+<cell>4</cell>
+<cell>4</cell></row>
+</table></p>
+<p>Therefore the Hollow Bullet EF - GH as well as the other two AB and CD, descends or falls in the same time.</p>
+<p><table>
+<row>
+<cell>The specifick weight of K being to the specifick weight of I}</cell>
+<cell>as 1 to <hi rend="i">x</hi>.</cell></row>
+<row>
+<cell>If AB the Diameter of the Bullet I be to CD the Diameter of the Bullet K.}</cell>
+<cell>as 1 to <hi rend="i">x</hi>.</cell></row>
+<row>
+<cell>Then is the supercies<note n="#1"/> of the Bullet I to the supercies<note n="#2"/> of the Bullet K.}</cell>
+<cell>as 1 to <hi rend="i">x</hi><hi rend="sup">2</hi>.</cell></row>
+<row>
+<cell>and the Quantity of the Bullet I to the Quantity of the Bullet K.}</cell>
+<cell>as 1 to <hi rend="i">x</hi><hi rend="sup">3</hi>.</cell></row>
+<row>
+<cell>and the actual weight of the Bullet I to the actual weight of the Bullet K.}</cell>
+<cell>as 1 to <hi rend="i">x</hi><hi rend="sup">3</hi>/<hi rend="i">x</hi> = <hi rend="i">x</hi><hi rend="sup">2</hi>.</cell></row>
+</table></p>
+<p>Therefore the Diameters being reciprocally proportional to the specifick weights, the superficies are directly proportional to the actual weights. Therefore Monsieur Zulichums Hypothesis and mine are equipollent. Only mine extends more imediatly &amp; uniuersally ouer all Bodies simple or mixt either Solid or Hollow<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0065"/>
+<meta type="date" value="1649-10-16"/>
+<meta type="sender" value="hend050"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="benth901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0065">
+<div type="opener">
+<p>Mijnheere.</p>
+</div>
+<p>UEd<hi rend="sup">l.</hi> Soon<note n="#2"/> is gisteren alhier tot Bentheim geluckig gearriveert, nae dewelcke ich ter Burgh wel twee à drye daghen met sonderlinghen verlangen hebbe gewacht, ende ondertusschen mijne reijse tot hierentoe geavanceert, Mijn heere Schoonvader<note n="#3"/> heeft voorsz. UEd<hi rend="sup">l.</hi> Soon met sijn Trompete ende een knecht geaccompagneert mij naegesonden, ende sullen wij van daghe onse reijse tot Linghen toe vervorderen. Het is mij seer lief te vernemen, dat onder andern schoonen scientien meergenoemde UEd<hi rend="sup">l.</hi> Soon oock in den Rechten is ervaeren, sulcx dat ick in mijn voorhebbende Deensche saecke sijnes raets gebruijcken ende hem als mijnen voornaemsten Conseiller houden werde, Verseeckerende UEd<hi rend="sup">l.</hi> dat ick allerdings goede sorge voor hem sal draeghen, ende, met God, geluckich wederom te rugge brengen, Ondertusschen UEd<hi rend="sup">l.</hi> in Godes protectie bevelende, sal altijts sijn ende blijven</p>
+<div type="closer">
+<p>Mijnheere
+<lb/>UEd<hi rend="sup">l.</hi> dienstwillighe ente verobligerten Dienar, <persName key="hend050">Henrij Comte de Nassau</persName>.</p>
+<p><placeName key="benth901">Benthem</placeName>, den <date>16 October 1649</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

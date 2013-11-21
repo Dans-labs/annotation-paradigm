@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1491"/>
+<meta type="date" value="1665-11-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1491">
+<div type="opener">
+<p>Monsieur <persName key="chap002">Chapelain</persName>.</p>
+<p>5 Novembre.</p>
+</div>
+<p>que c'est la bontè du Roy et de Monsieur <persName key="colb012">Colbert</persName> qui fait qu'ils prennent en bonne part mes remercimens<note n="#1"/>. que je n'en entens pas trop bien le stile dont il faut escrire ces sortes de lettres, mais que je n'ay pas laissè de les envoier puis qu'il l'estimoit necessaire. que la derniere lettre<note n="#2"/> de Monsieur <persName key="colb012">Colbert</persName> estant la response à la miene je n'ay pas creu le devoir importuner en luy escrivant de nouveau, n'en ayant pas aussi de suject que de luy reitirer mes remerciments de ses nouvelles assurances de ma prochaine vocation et ses bonnes graces. que j'en attendray les effects suivant ses promesses. Que l'invention de Thuret s'accorde parfaitement avec celle qui par mes avis a estè faite icy pour regler une montre de pochette. que j'avois fait essaier d'attacher le petit ressort sur l'axe mesme de la roue de rencontre, mais que cela requeroit une trop grande delicatesse dans le ressort et dans l'ouvrage, de sorte qu'apres cela j'ay conseillè qu'on l'attachoit a l'axe de la roue suivante, et que cela va bien. que l'ouurier est apres a faire qu'on puisse faire avancer ou retarder le mouvement. que cette invention n'est qu'une dependance de la mienne, faisant par le moien des ressorts ce que j'ay fait par les poids, mais que si on la vouloit faire servir aux grandes horologes pour porter sur mer, je suis fort trompè si on y trouve pas la justesse si grande qu'avec les contrepoids et telle qui puisse satisfaire au fait des Longitudes, n'y ayant point de seuretè que les ressorts doivent operer tousjours de mesme force comme il y en a pour les poids. et Monsieur Thuret pourra veoir par
+experience ce qui en est sil veut faire de telles horologes qui montrent les secondes. que lors que je verray les horologes de Monsieur de Montmor et de Carcavy je scauray bien tost faire remedier a ce qui leur manque et cause l'arrest, qui semble venir de quelque accident arrivè pendant le voiage.</p>
+<p>Le project de Thuret<note n="#3"/> qu'il m'a envoiè cy devant estoit de ne faire remonter le petit ressort que toutes les heures<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

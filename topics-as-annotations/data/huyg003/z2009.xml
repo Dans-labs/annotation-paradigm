@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2009"/>
+<meta type="date" value="1675-01-12"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2009">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 2 Fevr. 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>Voicy les deux livres, que vous auez desiré de voir dans la vostre du 30 Janvier. Monsieur Boyle vous fait present du sien<note n="#1"/>, auec ses humbles baisemains, et vous en demande votre sentiment. Celuy de Monsieur Hook<note n="#2"/> n'est pas encor achevé, quant à quelques particularités, qu'il se croit obligé d'expliquer; ce qu'il nous a promis de faire au premier iour, s'il n'en est pas diverti par d'autres occupations plus pressantes.</p>
+<p>J'y adjouste mon journal du mois de Decembre<note n="#3"/>, puis que vous auez la bonté de ne les mespriser pas.
+J'y ay joint aussi le Discours du chevalier <persName key="pett901">Petty</persName><note n="#4"/> qu'il fit, il n'y a pas longtemps, devant la Société Royale, dont ie seray bien aise aussi d'entendre vos pensees.</p>
+<p>Au reste, i'ay fait voir à nos amis communs l'Anagramme<note n="#5"/> touchant votre nouuelle invention d'horologes. Ils m'ont tesmoigné leur grand desir d'en voir l'effect, et s'en promettent des nouuelles de votre bonté.</p>
+<p>Quańt aux observations de Monsieur Leeuwenhoeck, la pluspart de nos curieux sont de vostre advis, doubtant fort si ce ne sont des deceptions de sa vuë. J'ay pourtant receu depuis peu vne longue lettre de luy<note n="#6"/>, oú il me parle d'une nouuelle maniere d'observer, qu'il dit estre exempte de telle doubte, et par laquelle neantmoins il voit, à ce qu'il dit, presque les mesmes choses, qu'il a vuës auparavant, quant aux globules etc. On taschera icy auec le temps de descouvrir, s'il a esté trompé ou non.</p>
+<p>Je ne manqueray pas de vous obeir en ce que vous m'auez ordonné touchant Monsieur Sluse, que nous avons depuis peu receu<note n="#7"/> dans la Societé Royale, son merite et sa vertu n'estant pas ordinaires. Il est trop raisonable, que de discontinuer ses respects et affections envers les personnes de vostre merite<note n="#8"/>.</p>
+<p>J'adjousteray seulement vn mot sur ce que Monsieur Hook a remarqué dans son livre touchant le pendule circulaire; qui est, de vous prier de ne vous offencer point sur quelques paroles qui vous touchent<note n="#9"/>. Il y a des personnes qui n'ayant pas vû beaucoup de monde, ne scavent pas la maniere d'observer le decorum qu'il faut parmi les honestes gens. C'est entre vous et moy, qui suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et obeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Hugens de Zulechem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

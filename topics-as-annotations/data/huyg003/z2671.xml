@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2671"/>
+<meta type="date" value="1691-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2670"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2671">
+<p><figure><graphic url="huyg003oeuv10ill25.gif"></graphic></figure></p>
+<p>Sit MA ex evolutione EM. Ostenditur MPV==AN.</p>
+<p>Sit PI ex evolutione ZP; unde PZ=IZ. Ostenditur PV aequalis IX. Ergo XI+IZ=VPZ.</p>
+<p>&nbsp;</p>
+<p>Propter aequalitatem angulorum in reflexione, est <hi rend="i">αγ</hi>, pars reflexi, aequalis <hi rend="i">βδ</hi> parti incidentis in <hi rend="i">β</hi>. Sed <hi rend="i">ιϰ</hi> est=<hi rend="i">αγ</hi> ex natura evolutarum. Ergo <hi rend="i">ιϰ</hi>=<hi rend="i">βδ</hi>. Itemque <hi rend="i">ϰλ</hi>=<hi rend="i">εη</hi>, etc. Unde summa aequalis summae<note n="#2"/>. Hoc est curva VM=AN. Sed ME est=EA, cum MA sit ex evolutione EM. Ergo tota VME=NA+AE sive 3/2 AN<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

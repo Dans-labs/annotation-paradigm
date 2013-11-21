@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1441"/>
+<meta type="date" value="1665-08-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="zuili001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1441">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 12 Aoust 1665.</p>
+</div>
+<p>Puis que vous ne reviendrez pas encore dans quelque temps je vous envoie le livre de Monsieur Thevenot, que Monsieur Golius m'a raportè depuis peu. Voicy de plus une lettre de Don Sebastian<note n="#1"/> qui arriva hier.</p>
+<p>Mon Pere m'escrit du 28<hi rend="sup">e</hi> Juillet de Geneve<note n="#2"/>, qu'il alloit partir le lendemain pour Copet, et que la s'estant abouchè avec Monsieur le Comte de Dona, il pourroit nous dire apres plus precisement le temps de son retour. A 2 lieues de Geneve il avoit eu au devant de luy quelques 40 jeunes gens, academistes et autres avec le Sieur Chapuseau<note n="#3"/> a leur teste, et qui harangua pour la troupe fort maigre et mal vestu.</p>
+<p>Il y a dans sa lettre cet article pour vous<note n="#4"/>.</p>
+<p>Vous aurez sceu la bonne nouuelle du retour de de Ruyter<note n="#5"/>; et verrez l'histoire de ses exploicts<note n="#6"/> dans la gazette d'hier. J'appris hier au soir que Messieurs les Estats venoient de le declarer Lieutenant Admiral en la place d'Obdam<note n="#7"/>, en quoy je croy qu'ils ont fait fort bien, mais Tromp n'en sera pas bien aise, a qui l'on avoit desia deferè le commandement de la flotte pour cette fois. Elle doit sortir au premier jour, avec Messieurs de Wit, Huygens<note n="#8"/> et Vrybergen<note n="#9"/> comme vous aurez sceu, mais je ne scay si les particularitez de
+l'equipage de ce
+premier sont parvenues jusques là, a sçavoir de ses habits tout couverts de dentelle d'or et d'argent de sorte qu'a peine on en voit l'estoffe. C'est bien aller d'une extremitè a l'autre, car vous scavez comment il s'est tousjours habillè.</p>
+<p>Je ne scay si je vous ay mandè que je luy ay fait faire un lit de camp que l'on suspend dans le vaisseau par une grosse boule, et a peu pres de la mesme facon que sont suspendues mes horologes. Adieu.</p>
+<div type="closer">
+<p>Mijn Heer</p>
+<p>Mijn Heer <persName key="huyg008">L. Huygens</persName> op het huijs Zuijlichem <hi rend="i">met een pack.</hi></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0153a"/>
+<meta type="date" value="1653-04-03"/>
+<meta type="sender" value="conr041"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0153">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 3 Avril 1653.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne doute point que vous auriay receu ma reponce à la dernière dont vous m'avez honoré. Vous y aurez appris qu'il me donnoit toujours quelque ressentiment de ce qu'un<note n="#2"/> de Messieurs vos fils avoit esté icy sans que j'eusse eu le bonheur de le voir<note n="#3"/> et de lui offrir tout ce que je dois aux personnes qui vous touchent; &amp; que pour m'appaiser il faloit que vous envoyassiez bientot icy quelqu'un<note n="#4"/> de Messieurs ses freres envers qui je me pusse acquiter de ce devoir mais pour vous y exciter encore davantage, et pour vous temoigner en mesme temps que toute ma colére est passée je prends la liberté de vous addresser aujourdhuy un gentilhomme<note n="#5"/> de ma connoissance et neveu d'un de mes meilleurs amis<note n="#6"/>, qui a voyagé presque par toute l'Europe, non pas seulement par curiosité comme la pluspart de ceux qui quittent leur pais pour aller en d'autres mais ayant acquis en chacun de ceux ou il a esté la connoissance de la langue et des choses les plus rares qui y fussent.</p>
+<p>A son imitation son neveu semble vouloir prendre la mesme route, et ayant deja vu la France, et l'Angleterre il va passer en Hollande, à dessein de prendre en suite une route plus eloignée et peut-etre mesme celle des Indes, où il a grande passion d'aller. Il se nomme Monsieur Thevenot. Je vous supplie Monsieur de lui faire la faveur et pour son merite et en consideration de Monsieur son Oncle et à ma prière de le recevoir avec civilité qui vous est naturelle de ne luy pas refuser vos conseils qui lui seront plus utiles que ceux d'aucun autre. Et de lui faire voir votre excellente famille &amp; votre belle maison<note n="#7"/> qui sans doute, sont entre les choses exquises qu'il pourra voir en Hollande.</p>
+<p>Je m'estimerois heureux si je pouvois recevoir moy-mesme la grace que ie vous demande pour luy; car un de mes plus grans souhaits est de passer un jour avec vous dans votre Cabinet, quelque unes de ces heures que vous rendez si courtes et si charmantes, par votre agreable conversation, d'y voir les raretés que vous y avez amassées et les riches productions de votre Esprit et de vous y assurer de vive voix comme je fays icy par ces caractéres ecrits que personne n'est avec plus d'estime ni de verité que moi Monsieur,</p>
+<div type="closer">
+<p>Votre tres humble et tres passionné serviteur <persName key="conr041">Conrart</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg001">Huygens, Seigneur de Zulichem</persName>
+<lb/>Conseiller de M. le Prince d'Orange &amp; Secretaire de ses Commandemens
+<lb/>a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

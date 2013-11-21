@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1470"/>
+<meta type="date" value="1665-09-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1470">
+<div type="opener">
+<p><persName key="hein009">Nicolao Heinsio</persName>.</p>
+<p>22 Septembris.</p>
+</div>
+<p>quid frater de Elegijs statuerit. Claudiani exemplum non accepi. petam ab Elsevirijs. gratias de diligentia in conquirendis Pareliorum observationibus. an Cartesio sepulcrum ex marmore illic construatur sumptibus Cartesianorum qui in Gallia, ut scribunt.</p>
+</div>
+</body>
+</text>
+</TEI>

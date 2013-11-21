@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0191"/>
+<meta type="date" value="1654-07-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0191">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+</div>
+<p>Exemplum libelli mei recens excusi<note n="#1"/> tibi mitto Schoteni Clarissime, neque cuiquam mitto libentius, quippe prae caeteris perito et benevolo nostrarum lucubrationum aestimatori. Nihil novi admodum in hisce animadversurus es ut opinor nisi fortasse in constructionibus unam aut alteram. reliqua enim jam ante tibi exhibuimus. Retulit mihi Dominus <persName>Blondel</persName><note n="#2"/>, sub praelo esse tuos quoque tractatus majoris moliminis opus, quod ut bene vertat ex animo praecor. Idem mihi suas demonstrationes<note n="#3"/> legendas obtulit, spicilegium videlicet post messem Galilei. Nescio quid tibi istas legenti visum fuerit; sed ego posteaquam obiter percurrissem hoc mecum cogitabam; multos esse qui ne quidem quid contemplatione dignum sit satis discernant. Sed hoc illum rescire nolim. Vale.<note n="#4"/></p>
+<div type="closer">
+<p><date>1 Jul. 1654</date>.<note n="#5"/></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

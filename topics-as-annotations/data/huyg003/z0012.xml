@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0012"/>
+<meta type="date" value="1646-09"/>
+<meta type="sender" value="mers004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0012">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Puisque vous auez des enfans qui prennent plaisir aux Mathematiques. ie veux vous envoyer vn theoreme numerique par exemple.</p>
+<p>Theoreme.</p>
+<p>La difference des quarrez de 2 nombres, dont l'un est la somme, et l'autre la difference de deux quarrez, est necessairement vn quarré.</p>
+<p>Sur quoy ie vous entretiendray vn peu, affin que vous scachiez que lors que 2 quarrez ne different que de l'unité, ils ont pour difference la somme de leurs racines: par exemple 9 et 16 different de 7, qui est la somme de 3 et 4. Mais lors que les quarrez ne sont pas prochains, et que leurs racines different de plus de l'unité, ils ont pour difference les sommes de chacune de leurs racines iointes auec les nombres prochains qui sont entredeux, et les sommes de chacun desdits nombres qui sont entredeux ioint auec leurs prochains. Exemple. les quarrez de 3 et de 6, ascauoir 9 et 36, different des sommes de 3 et 4, de 4 et 5, et de 5 et 6, qui sont 7. 9. 11. qui font ensemble 27. De plus, quand les racines, et les nombres qui sont entredeux sont ensemble en quotité jmpaire, la plus grande, et la moindre somme des 2 racines iointes chacune auec les nombres jntermediats qui leur sont prochaines estant iointes ensemble font le quadruple du nombre qui est au milieu des racines susdites. car chacune de ces 2 sommes contient 2 nombres: si donc on prend deux sommes, on aura 4 nombres, qui pris en distances egales, et correspondant tant dessus que dessous le nombre du milieu, la somme de ces nombres tera quadruple dudit nombre du milieu. Exemple pour scauoir la difference des quarrez de 5 et de 9, cest a dire de 25 et de 81, il faut assembler les racines 5, 6. 6, 7. 7, 8. 8, 9. et le nombre du milieu sera 7, et ces racines estant iointes ensemble deux à deux, feront 11, 13. 15, 17. desquelles sommes si on assemble les plus eloignées 11 et 17; et les suivantes 13 et 15, on aura 28 à chaque addition, et cette somme 28 est quadruple de 7. qui est le nombre du milieu: et par ce que 7 est different de chacun des extremes 5 et 9 par 2, il s'ensuit qu'il faut faire 2 assemblages des sommes desdits nombres, scauoir de 11 et 17, et de 13 et 15, et partant il faut multiplier 28, qui est la somme des extremes 11 et 17, et le quadruple du
+milieu 7, par la difference du nombre qui est au milieu à l'un des extremes, qui est 2 en cet exemple, et on aura 56 difference de 25 et 81, quarrez de 5 et 9.<note n="#4"/></p>
+<p>Donc pour auoir la difference des quarrez de 2 nombres de mesme ordre, il faut multiplier le quadruple du nombre esgalement distant des racines des quarrez susdits, par la difference dudit nombre egalement distant de l'un des extremes.</p>
+<p>Vous aurez encore la difference des quarrez susdits, en aioutant les Racines desdits quarrez et multipliant la somme par leur difference, comme aioutant 5 et 9 vous aurez 14, qui multipliez par 4 difference de 5 et 9, donne 56 pour la difference des quarrez de 5 et 9.</p>
+<p>Oubien si vous multipliez le nombre egalement distant des racines, par le double de la difference des mesmes racines, vous aurez la mesme difference, car multipliez 7, egalement distant de 5 et 9, vous aurez encore 56.</p>
+<p>Ce qu'estant posé, on peut monstrer que la difference des quarrez dont les racines sont differentes d'un double quarré, est necessairement vn quarré.</p>
+<p>Mais que direz vous de moy qui ose entretenir vn Cavalier entre la poudre et le jeu des canons de ces petites gentillesses, vous me le pardonerez bien pour cette fois. Je ne vous entretiens point de 2 sauuages homme et femme qu'on a vûs et touchez à 3 lieues de Grenobles, parce que jls estoient fuis plus viste
+que la course ordinaire des hommes, iattends quon les prenne par vne chasse générale.</p>
+<p>Au premier voyage, si vostre fils le desire, ie luy envoyeray le moyen de trouuer le centre de vertu, ou de percussion de toutes sortes d'epées, et dautres armes. Croyez vous que le Sr. Regius<note n="#5"/> explique les mouuements des plantes et des animaux sans leur donner des ames, comme il semble que veulent les principes de Mr. <persName key="desc004">des Cartes</persName>? Je ne croy pas qu'il en vienne à bout, Car les passions, et affections du seul chien auroit besoin d'une estrange multitude de ressorts pour pouuoir estre faites sans ame, et ie m'assure que vous estes de mon sentiment.</p>
+<p>Avec cette lettre [?] vous receurez l'une des plus subtiles philosophies, qui ayent jamais esté faites, auec ses decouuertes. On me dit que vous auez assiegé vne place forte pour fauoriser la prise de Donkerke, et les autres le nient, vous m'apprendrez ce qui en sera. J'attends tousiours le retour de nostre Cour pour voir le Sr Gobert;<note n="#6"/> ie le conuieray de venir disner chez moy, si tost qu'il sera revenu affin que toute laprezdisnée nous chantions vos Airs, et que nous les baillions à Mr. <persName>Ballard</persName><note n="#7"/> pour jmprimer.</p>
+<div type="closer">
+<p>En attendant, je suis tousjours
+<lb/>Monsieur vostre tresobeissant serviteur <persName key="mers004">Mersenne</persName>.</p>
+</div>
+<p>Vous aurez icy un mot ou 2 pour le sr <persName key="sorb001">sorbiere</persName><note n="#8"/> ie vous prie de le luy faire tenir à <placeName key="leide001">Leyden</placeName> ou à <placeName key="denha004">la Haye</placeName>, où il est marié et medecin.<note n="#9"/>
+</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huijgens sieur de Zuijllichem</persName>, et Secretaire de Monsieur le Prince d'Orange au Camp.</p>
+</div>
+<p>Recommandé à Monsieur <persName key="tass006">Tassin</persName><note n="#10"/> au petit Bourbon.</p>
+</body>
+</text>
+</TEI>

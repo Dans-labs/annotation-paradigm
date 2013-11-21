@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0236"/>
+<meta type="date" value="1655-10-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0236">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> <date>Kal. Oct. 1655</date>.</p>
+<p>Mon frere.</p>
+</div>
+<p>Je suis marry de ne pouvoir pas vous satisfaire encore pour ce que est de deux choses que vous requirez de moy. toutefois donnez vous la vertu de patience (comme dit Monsieur <persName key="tass006">Tassin</persName>) et je tascheray de vous contenter. Quant nous quittasmes Montglas nous eusmes dessein de nous mettre en pension chez mademoiselle Mouchon et de fait nous fusmes chez elle. Mais les Evesques et les Abbez tenoyent toute la maison, si bien qu'il eust fallu loger en quelque chambre garnie proche de là, que mademoiselle sa soeur prit la peine de nous faire voir. l'autre estoit sortie, de sorte que
+je n'ay pas encore l'honneur de la cognoistre, mais quant à cette petite soeur, elle n'est ny belle ny agreable si elle a quelque chose en recompense je n'en scay rien. j'ay envie d'aller faire une visite la dedans tout expres pour contenter vostre curiosite, qui sans doute doit proceder de la souvenance de quelque traitement extraordinaire que vous ayez receu de la belle hostesse. Pour ce que est des airs nouveaux j'en ay bien, mais non pas de ceux qu'il vous faut. J'en ay ouy chanter à cette fille aux <hi rend="i">honestes curieux</hi><note n="#1"/>, dont j'ay escrit à mon Pere, et je ne manqueray pas à les demander au Baron de Chamboniere qui en est le maistre. Je scay quelles sont les mistris pour qui vous les demandez et feray tout ce qui me sera possible pour les servir. Vous ne les voyez pas pour vous fortifier dans l'apprentissage de leur langue, mais au contraire vous apprenez cellecy pour les pouvoir mieux entretenir, ou bien pour me faire enrager quand je seray de retour. Vous m'avez promis un desseing de Jupiter avecq ses Zones, je vous prie de me l'envoyer, afin que j'en puisse conferer avecq Mr. <persName key="boul014">Bulliau</persName>. Avanthier il me monstra sa grande lunette que le duc de Florence<note n="#2"/> luy a envoyée, qui me semble assez bonne, mais decouvre trop peu à la fois, comme estant de 10 pieds, et n'ayant aupres de l'oeil qu'un verre concave. Taschez un peu de voir les microscopes van den Poleiser<note n="#3"/>, qui font voir des vermisseaux dans la cresme de laict, dans la farine et dans la chair d'un lievre. Et au reste puis que vous ne voulez pas travailler en mon absence, prenez au moins bien garde que les formes de fer ne se rouillent, mais qu'elles soyent bien conservées. Je vous remercie de vos nouvelles et demeure</p>
+<div type="closer">
+<p>Vostre tres affectionne frere et serviteur <persName key="huyg003">Chr. Huygens de Zuylichem</persName>.</p>
+</div>
+<p>S'il y avoit moyen, je voudrois bien qu'on me pust faire avoir le livre de <persName key="hobb001">Hobbes</persName> que M. <persName>Brereton</persName> m'a envoyez.
+Il pouvoit arriver que quelqu'un de vostre cognoissance se mit en voyage, qui s'en voudroit charger. Souvenez vous tout expres de faire mes treshumbles baisemains aux Tantes et Cousines, Cousins et Oncles, frere et soeur. &amp;c.</p>
+</div>
+<div type="para">
+<p>Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

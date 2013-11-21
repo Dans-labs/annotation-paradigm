@@ -1,0 +1,50 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0049"/>
+<meta type="date" value="1648-05-02"/>
+<meta type="sender" value="mers004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0049">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>puisque vous estes l'un des premiers qui a osé donner son aduis sur le gros liure Vincentij de la Quadrature, qui est extremement long &amp; ennuyeux, ie vous diray premierement qu'il supose vn probleme plus difficile que celuy de la quadrature lequel il ne resoût point, ascauoir ‘Estant données trois grandeurs rationelles, ou irrationelles et deux de leurs logarithmes estant aussi donnez, trouuer Geometriquement le logarithme de la troisiesme, &amp; partant il ne demonstre rien; nous trouuons
+qu'il a peu judicieusement fait, comme vous remarquez fort bien, de mesler tout ce qu'il dit des sections Coniques &amp; mille autres choses.</p>
+<p>Secondement il n'a donné ni application par lignes ni par nombres du cercle au quarré, ce qu'il eust deu faire, s'il eust esté certain de sa quadrature. Troisiemement on m'a dit depuis peu qu'vn de nos Geometres qui demeure à Bloix<note n="#1"/> y a trouué des paralogismes! i'espere luy en escrire affin qu'il me les marque. s'il le fait, ie vous en aduertiray aussi tost.</p>
+<p>Au reste ie suis raui de l'esperance que Mr. vostre pere me donne que vous gouuernerez l'essay du Canon, car ie m'asseure desia que tout y sera obserué exactement si vous y estes present, &amp; qu'on vous veuille croire.</p>
+<p>Or puisque vous auez pris la peine de m'escrire ie ne veux pas que cette lettre s'en aille sans qu'elle vous porte quelques belles propositions qui vous exciteront aussi peut estre à me faire part de quelques peu des vostres.</p>
+<p><figure><graphic url="huyg003oeuv01ill59.gif"></graphic></figure></p>
+<p>Dato cylindro scaleno, jnvenire cylindrum rectum, et ex eius superficie cylindricâ quantumuis productâ, portiones resecare aequales superficiei cylindricae scalenae datae: quae portio sit eiusmodi ut a quocumque termini illius puncto ad vnum, idemque superficiei juveniendi cylindri punctum omnia jnterualla, hoc est, omnes rectae lineae ductae inter se sint aequales.</p>
+<p><figure><graphic url="huyg003oeuv01ill60.gif"></graphic></figure></p>
+<p>Esto recta AB aequalis diametro basis dati cylindri scaleni, secta bifariam in C, recta autem DC esto aequalis axi eiusdem, et angulus DCB sit inclinatio ipsius axis ad planum basis.</p>
+<p>Ducatur recta DE perpendicularis ad rectam AB, productam, si opus fuerit, usque in E, tum intelligatur secundus quidem cylindrus, sed rectus, supra eadem basi, cuius diameter AB, altitudo verum sit aequalis ipsi CD. Intelligatur etiam tertius cylindrus idemque rectus, cuius diameter basis sit CE, et altitudo aequalis eidem CD. Tandem intelligatur quartus cylindrus, rectus quoque, similis tertio, sed cuius superficies aequalis sit dimidio superficiei secundi. In huius enim quarti cylindri superficie cylindrica producta quantum satis, jnteruallo autem lateris eiusdem quarti delineabitur portio quaesita. Demonstratio longa est et difficilior.</p>
+<p>Quartus autem ille cylindrus fic invenietur, Inter AC et CD media proportionalis esto F, jtem inter CE et CD media proportionalis esto G, et vt G ad CD ita fiat F ad H, et vt G ad CE ita fiat F ad I. Vt ergo G media proportionalis est inter CE, CD, sic F media est inter H et I, eritque proportio eadem. Quare
+cylindrus rectus, cuius H erit altitudo, I diameter basis, erit is qui quaeritur, nec difficilis est demonstratio.<note n="#2"/></p>
+<p>N'estoit que ie desire que vous ne perdiez pas l'occasion de pouuoir lire ce Liure nouueau latin du vuide<note n="#3"/>, que vient de faire le Recteur du College des Jesuites d'icy<note n="#4"/>, qu'il enuoye a Mr. <persName key="desc004">des Cartes</persName>, et qu'il receura s'il vous plaist de vostre part apres que vous l'aurez lu, et dont vous me donnerez s'il vous plaist vostre jugement, dont ie fais tres grand estat, si desia ie n'eusse desiré que vous faisiez cette lecture, ie vous eusse encore enuoye quelques autres propositions, mais ce sera pour quelqu' autre voyage, Je vous prie cependant tousiours de me tenir en bonnes graces de Mr. vostre pere et de me croire</p>
+<div type="closer">
+<p>vostre treshumble seruiteur M. <persName key="mers004">Mersenne. M.</persName></p>
+<p>ce <date>2 May 1648</date>.</p>
+</div>
+<p>J'oubliois de vous entretenir de nostre vuide et particulierement sur ce que vous m'auez escrit<note n="#5"/> de la vessie qui s'enfle dans le vuide, vous croyez comme nous que c'est quelque particule d'air qui estant demeuré dedans s'enfle et se rarifie, mais la rarefaction n'estant pas intelligible comme vous scauez que Mr. <persName key="desc004">des Cartes</persName> l'a abandonée à cause de cela, contre quoy pouuez vous encore tenir cette rarefaction.</p>
+<p>Et mesme sa qualité subtile n'est pas capable de faire cet enflement, car elle pasle partout aussi aysement que l'eau par vn filet de pescheur, et partant elle passeroit à trauers la vessie sans l'enfler.</p>
+<p>Vous voyez donc l'affaire jnsoluble, si la clarté de vostre esprit n'y remedie.</p>
+<p>Nous auons aussi trouué qu'vn doigt d'air pur dans le vuide ferait baisser le vif argent d'un doigt, au lieu qu'un doigt d'eau mis dans le mesme vuide ne le ferait baisser que de 1/14 de doigt.</p>
+<p>Je vous prie sur tout qu'à l'essay du Canon, on obserue bien le temps de la portée horizontale, et sa longueur, et celle de 45 degrez d'eleuation auec le temps.</p>
+<p>Par exemple en quel temps le boulet ira de A en C.</p>
+<p>BD est la terre ou l'orizon, BA l'eleuation du canon, qu'il faudra marquer, soit de 5, 6 ou plus de pieds, il faudra auoir vne corde ou chaine pour mesurer BC assez justement et tout de mesme la portée de 45 degrez. Je ne vous dis point les
+<figure><graphic url="huyg003oeuv01ill61.gif"></graphic></figure>
+precautions necessaires tant parce qu'il y a long temps que i'en ay escrit à Mr. vostre pere, que par ce que ie scay qu'estant si excellent geometre, vous n'y obmetterez [?] rien.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestien Huygens</persName> fils de Monsieur <persName key="huyg001">de Zuylichem</persName>, Conseiller et Secretaire de Monsieur le Prince d'Orange
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

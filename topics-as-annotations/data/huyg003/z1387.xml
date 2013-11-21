@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1387"/>
+<meta type="date" value="1665-04-10"/>
+<meta type="sender" value="peyr012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1387">
+<div type="opener">
+<p>de <placeName key="parij001">Paris</placeName> ce 10 Auril 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a trois jours que Monsieur le Conte de Guiche<note n="#1"/> est parti de Paris pour aler en Holande. Et comme il m'honore de sa bienveuillance, je luy ay randu a son depart les tres humbles respêts que ie luy deuois. Il me parla de vous auec beaucoup d'estime. Et vous luy ferez, Monsieur vn singulier plaisir de le voir quand il sera ariué a la Haye. Vous serez raui de sa conuersation. Car il a vn fons merueilleux de vertu et de sauoir. Vous n'ignorez pas qu'il est d'vne Maison fertile en grâns Seigneurs, et en grâns Esprits. Et ce progrez de merite qui se trouue dans vne si illustre succession, <hi rend="i">Vires aquirit eundo.</hi> Vous en saurez bien tôt plus que ie ne vous en dy. Et i'ay creu estre obligé a vous donner cet auis, en me renouuelant dans l'honneur de vôtre souuenir et de vos bonnes graces. Il y a dix ans reuolus<note n="#2"/> de nôtre connoissance. Et ce fut en cete saison que ie vous communiquay mes folies dans vôtre Vranisbourg. Je ne croy pas pouuoir faire vn complimant pareil a celuy cy en pareil jnteruale de tâms. Ce seroit trop pour moy que d'y pretàndre. <hi rend="i">Tua Vitâ dignior aetas.</hi> Je vous la souhaite jeune et longue, comme estant &amp;c.</p>
+<div type="closer">
+<p>Monsieur &amp;c.</p>
+<p>Votre tres humble et tres obeissant seruiteur &amp;c. <persName key="peyr012">La Peyrere</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

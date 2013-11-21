@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1262"/>
+<meta type="date" value="1664-10-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1262">
+<div type="opener">
+<p>Ad <persName key="slus001">Slusium</persName>.</p>
+<p>28 Octobris 1664.</p>
+</div>
+<p>De literis ad Campanum gratias et salute Riccio dicenda.</p>
+<p>De thermometro suo aquae salsae, lentius esse. Expertus sum. Sed tubo breviori. Certius tamen drebbeliano. In vacuo nil erit differentiae.</p>
+<p>Cur calore ascendat, quod sal misceatur magis aquae.</p>
+<p>de pendulis isochronis egit pater Fabrius<note n="#1"/> in libro Mosneri<note n="#2"/> sed pleraque falsa dedit nec quidquam demonstravit.</p>
+<p>Regulam universalem habeo ad plana et solida.</p>
+<p>De constructione ejus problematis solutio ope cujusvis conicae sectionis. Qualibet ellipsi inter duas datas duas medias reperi jam olim ut jam tum<note n="#3"/> significavi.</p>
+</div>
+</body>
+</text>
+</TEI>

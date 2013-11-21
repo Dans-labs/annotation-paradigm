@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXXI"/>
+<meta type="date" value="1680-06-06"/>
+<meta type="sender" value="doub007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXXI">
+</div>
+<div type="para">
+<p>Monsieur
+<lb/>Monsieur <persName key="huyg003">Huguens de Zuijlichem</persName>
+<lb/>demeurant a la Bibliotheque du Roy
+<lb/>rue Vivienne. a Paris.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haije</placeName> le 6<hi rend="sup">e</hi> juin 1680.</p>
+<p>Monsieur mon Frere</p>
+</div>
+<p>A la fin il a plu au bon Dieu de terminer les souffrances et miseres de ma Chere mere<note n="#1"/>, en la retirant a Soij hijer sur les cinq heures du Soir ou environ. Il y a pres de trois mois comme vous scauez que ce dernier accez de son mal la prit auec beaucoup de vehemence, et qui l'a obligé aussi de garder tousiours le lit depuis ce temps la, tantost un peu mieux et tantost se portant un peu moins bien, mais cepandant la pluspart du temps incommodee de tres facheuses douleurs, exepté les deux ou trois derniers jours de sa vie qu'elle a passez assez tranquillement jusques a ce que le bon Dieu la delivree entierement de tous maux par une mort fort douce sans aucune agitation, aijant aussi conservée tousiours une presence d'esprit admirable. Le Sig<hi rend="sup">r</hi>. Padre pour me soulager en quelque façon dans touttes les occupations qui surviennent en foule en pareilles rencontres, auoit pris a charge de vous donner auis de la perte sensible que nous venons de faire, mais cepandant je n'ay pas pu manquer moy mesme a mon devoir, estant Monsieur mon cher Frere</p>
+<div type="closer">
+<p>Vostre tres humble et tres obeissant serviteur
+<lb/><persName key="doub007">Ph. Doublet de St. Anneland</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

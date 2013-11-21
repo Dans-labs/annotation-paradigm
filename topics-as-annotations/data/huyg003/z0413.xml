@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0413"/>
+<meta type="date" value="1657-10-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0413">
+<div type="opener">
+<p><date>11 Oct. 1657</date>.</p>
+<p>Mon frère,</p>
+</div>
+<p>Depuis vostre depart mon Pere a tousjours continuè à dormir jusques a un heure apres midy. Maintenant qu'il est eveillè il semble qu'il se porte mieux, par ce que le hocquet ne l'incommode plus, et qu'il se trouve moins assoupi que cy devant. Pourtant les medecins dirent ce matin que la fievre s'estoit augmentée, ce qui donna une fausse alarme a ma Cousine qui creut qu'il ne se reveilleroit jamais de ce profond sommeil. Mais il s'en rit a cet heure luy mesme, et dit qu'il s'est fort bien apperceu de tout ce qui s'est passè au tour de son lict, et qu'il prenoit plaisir à les laisser faire et dire. Dieu veuille qu'il soit en si bon estat qu'il pense l'estre<note n="#1"/>. Nous ne manquerons pas de vous en informer si souvent qu'il sera possible.</p>
+<div type="closer">
+<p>Adieu.</p>
+<p>Vostre tresaffectioné frere <persName key="huyg003">Chr. Huygens</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0513"/>
+<meta type="date" value="1658-09-09"/>
+<meta type="sender" value="vlie013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0513">
+<div type="opener">
+<p>Nobilissimo Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="vlie013">Janus Vlitius</persName> S.</p>
+</div>
+<lg type="poem">
+<l>Verbis dedisti, acceperamque ego verbis</l>
+<l rend="; 1tab">Tuum libellum<note n="#2"/>, Christiane, lustrator</l>
+<l>Sagacis aevi, temporumque librator,</l>
+<l rend="; 1tab">Et Archimedes alter. Ergo sic, inquis,</l>
+<l>Perfecta res est prorsus, et nihil restat.</l>
+<l rend="; 1tab">Fateor. Sed illud verba ni dare est, quid sit</l>
+<l>Dare verba, tu me nescium doce, quaeso.</l>
+<l rend="; 1tab">Vel si quid ultra non inanis expecto,</l>
+<l>Desiderasque gratias tibi reddi,</l>
+<l rend="; 1tab">Momenta vitae ponderare fallacis</l>
+<l>Certa molybde te docente quod possim;</l>
+<l rend="; 1tab">At, quod dedisti, Christiane, nunc trade.</l>
+</lg>
+<p>Testes Scazontas hos bona fide allego, quod ultimo officio hinc oras discessurus apud Illustrem Parentem teque et Carissimum fratrem Ludovicum volens defungi non possim. Id epistolium hoc te intercedente velim exequatur; simulque, quod peto (nihil enim mediocriter curiositas mea postulat) obtineat, nisi poenituit voluisse dare. Absit ut hoc verear; quod in Constantem virum, et quidem Constantini Filium non cadit.</p>
+<lg type="poem">
+<l>Ast tibi quas grates potero, praeclare, referre</l>
+<l rend="; 1tab">Hugeni, saecli palma, decusque tui?</l>
+<l>Nam tua nunc-inventa licet super aethera cantu</l>
+<l rend="; 1tab">Tollere, et eximium munus ad astra, velim;</l>
+<l>Dicere quid possum, quo tu non plura mereris?</l>
+<l rend="; 1tab">Sidera quae? non sint quae tibi nota magis?</l>
+<l>Laude omni cum sis itaque, omni et celsior astro,</l>
+<l rend="; 1tab">Quid superest, tibi quam denique verba dare?</l>
+<l>Verba sed affectus animi testantia, grati,</l>
+<l rend="; 1tab">Et non fucatam promeritura fidem.</l>
+</lg>
+<p>Adderem, quam meditor, Haganis Amicis xenioli vice relinquere, Oden meam, nisi ultimam manum limamque adhuc desideraret. Habe tamen paucula haec inde excerpta, et si tanti putas, integram<note n="#3"/> expecta porro. Vale, Suavissime Hugeni, et me ama.</p>
+<p>Si bene quid de te merui, fuit aut tibi quidquam Dulce meum.</p>
+<lg type="poem">
+<l>Me sed Hugenij, Siculas per artes</l>
+<l rend="; 1tab">Ducta sub magno Genitore triga</l>
+<l>Mille delectant noviter repertis,</l>
+<l rend="; 2tab">Mille figuris.</l>
+<l>&nbsp;</l>
+<l>Sive Parnassi avia, sive rerum</l>
+<l rend="; 1tab">Mens sit arcanas penetrare causas,</l>
+<l>Sive librato trutinare vitae</l>
+<l rend="; 2tab">Momina plumbo.</l>
+<l>&nbsp;</l>
+<l>Hic novas terras novus Archimedes</l>
+<l rend="; 1tab">Monstrat, et vastos Triviae recessus,</l>
+<l>Ausonum et Regis comites, Jovisque</l>
+<l rend="; 2tab">Indice vitro</l>
+<l>Lynceis quamvis oculis latentes</l>
+<l rend="; 1tab">Prodit; ac quidquid procul hinc videtur,</l>
+<l>Quidquid et visum fugit, intuenti</l>
+<l rend="; 2tab">Cominus offert. &amp;c.</l>
+</lg>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae</placeName> <date>IX. VIIbris die CIƆIƆCLVIII</date>
+<figure rend="inline"><graphic url="huyg003oeuv02fi16.gif"></graphic></figure>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Viro <persName key="huyg003">Christiano Hugenio</persName>. Hagae Com.</p>
+</div>
+</body>
+</text>
+</TEI>

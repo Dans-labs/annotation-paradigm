@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXXVII"/>
+<meta type="date" value="1661-03-04"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXXVII">
+<div type="opener">
+<p lang="it">S<hi rend="sup">r</hi>. <persName key="huyg003">Cristiano Ugenio</persName> 4 Marzo 1661 ab Inc.<hi rend="sup">ne</hi>.</p>
+</div>
+<p lang="it">Essendo uscita alle stampe in questa Citta la traduzione dall'Arabo dell' quinto sesto e settimo libri di Apollonio<note n="#1"/> non ho voluto che per altro mezzo che del mio le pervenga nelle mani, in segno ancora della continuazione del mio affetto verso del merito e virtù di V.S.E sentirei volentieri se Le sia comparso un libretto che le inviai sotto nome di Eustachio Divini<note n="#2"/>, non ne avendo da V.S. avuto alcuno Cenno<note n="#3"/> ma le confermo ad ogni buon fine, e....<note n="#4"/> V.S. si accerti che vivo desidero io d' Incontrare ogni sua sodisfazione, e con tutto l'animo le auguro ogni felicità.</p>
+</div>
+</body>
+</text>
+</TEI>

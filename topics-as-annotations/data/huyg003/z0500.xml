@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0500"/>
+<meta type="date" value="1658-07"/>
+<meta resp="HI" type="sender" value="pasc001"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0499"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0500">
+<p>Ad problemata de Cycloide Additamentum.</p>
+<p>&nbsp;</p>
+<p>Quum circa ea quae de cycloide proposuimus, duo orta esse dubia, nobis illustrissimus Dominus <persName key="carc010">de Carcavi</persName> significaverit, his statim occurrendum duximus, et ita occurrimus.</p>
+<p>Prius inde oritur, quod in proponendis nostris de cycloide problematis hac voce
+usi suerimus, <hi rend="i">in quacumque cycloide:</hi> quum tamen unius tantum speciei cycloidis definitionem attulerimus. Verum nihil aliud intelleximus praeter solam illam simplicem, naturalem ac primariam cycloidem, cujus ex Toricellio descriptionem dedimus; quum enim quae de illa resolvuntur facile sit ad omnes alias species protrahere, qui nostra problemata de hac sola solverit, nobis omnino satisfecerit.</p>
+<p>Posterius in eo consistit, quod a nobis non sit praecise positum an supponamus datam esse rationem basis cycloidis AD<note n="#2"/> cum sua altitudine, seu cum diametro circuli genitoris FC; sed ipsam datam esse rationem pro concesso usurpandum arbitrabamur, et, ut omnino aequum est, datam esse supponimus.</p>
+<p>Nihil ergo jam superest obscuritatis. Unum tamen restare videtur, ut doctissimos geometras ad propositiones nostras commodius et libentius investigandas invitemus; scilicet ea omnia removere quae a perspicacitate ingenii, quam solam magni facimus, et explorare ac coronare instituimus, sunt aliena, qualia sunt tam calculus integer multorum casuum quem postulabamus, quam absoluta solutionum conscriptio; quum ea non a viribus ingenii, sed ab aliis circumstantiis pendeant. Hoc itaque tantummodo jam instituimus, ut sola problematum difficultas remaneat superanda. Nempe:</p>
+<p>Qui publico instrumento, intra praestitutum tempus, illustrissimo domino <persName key="carc010">de Carcavi</persName> significaverit se corum quae quaesita sunt demonstrationem penes se habere; et aut ipsammet demonstrationem quantumvis compendiosam ad ipsum miserit: aut si cartae mandare nondum per otium licuerit, saltem ad confirmandam suae assertionis veritatem, casus quem mox designabimus calculum dederit, seque paratum esse professus fuerit omnia omnino demonstrare ad ipsius domini de Carcavi nutum, hunc nobis satisfecisse declaramus; et consentimus, primum qui haec fecerit primo, secundum secundo, praemio donandum, si sua solutio ab ipso domino <persName key="carc010">de Carcavi</persName> virisque ad id secum adhibitis, quum ipsi visum fuerit, exhibita, geometrica ac vera judicetur, salvo semper erroris calculo.</p>
+<p>Casus autem, cujus solius sufficiet calculus, ille est. Si semicyclois ACF circa basim AF convertatur, et solidum inde genitum secetur plano per ipsam AF (quae jam hujus solidi axis est) ducto, quod quidem solidum dividet in duo semisolida paria: alterutrius horum semisolidorum centrum gravitatis assignari postulamus.</p>
+</div>
+</body>
+</text>
+</TEI>

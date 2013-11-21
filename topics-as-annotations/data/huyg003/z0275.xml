@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0275"/>
+<meta type="date" value="1656"/>
+<meta type="sender" value="page011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0273"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0275">
+<lg type="poem">
+<l>Versus emendandus in Carmine quod Domino Chr. Hugenio missum.</l>
+<l rend="; 1tab"><hi rend="i">Et faciem</hi>, <hi rend="i">et</hi>, <hi rend="i">stabili lege regente</hi>, <hi rend="i">vias</hi></l>
+<l>Vel, si id magis allubescat,</l>
+<l rend="; 1tab"><hi rend="i">Et varias</hi>, <hi rend="i">stabili lege regente</hi>, <hi rend="i">vices</hi>.</l>
+<l>Vel, - - si quid novisti rectius istis,</l>
+<l rend="; 2tab">Candidus infarci, &amp;c.</l>
+</lg>
+<p>siquidem tanti siat carmen illud, ut etiamnum asservetur.</p>
+<p>&nbsp;</p>
+<p>Chartula Domino <persName>Colvio</persName> tradita, quando dicebat se Hagham profecturum, verum ab instituto itinere diversabatar.</p>
+</div>
+</body>
+</text>
+</TEI>

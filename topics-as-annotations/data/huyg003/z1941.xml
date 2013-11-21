@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1941"/>
+<meta type="date" value="1673"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1941">
+<div type="opener">
+<p lang="it">Al Sig. <persName key="huyg003">Cristiano Ugenio</persName>.</p>
+</div>
+<p lang="it">Coll' affetto mio consueto, con il quale considero la parzialità di V.S. verso di me, e la stima che giustemente fo della sua gran virtù e dottrina, io le rendo grazie del libro al solito degno di lei, che si è compiaciuta mandarmi, e visto in parte da me e da questi Intelligenti con estremo gusto ed ammirazione, godendo intanto sommamente di udire, che ella si sia liberata dalle sue indispozioni a segno che abbia potuto applicare ad arricchire la repubblica letteraria di nuove gemme erudite, parti del suo intelletto.</p>
+<p lang="it">Per quello che risguarda all' invenzione del pendolo con asserzione dettata da animo sincerissimo costantemente le affermo di credere mosso da un forte verisimile, che a notizia di V.S. non sia per alcun tempo venuto il concetto che souvenne ancore al nostro Galileo di adattare il pendolo all' oriolo<note n="#2"/>; poichè ciò era a pochissimi noto, e l'istesso Galileo non aveva ridotto all' atto pratico cosa veruna di perfetto a tal conto, come si vede da quel poco che fu manipolato ed abbozzato dal figliuolo<note n="#3"/>, e me rendo certo che quando V.S. avesse avuto alcuna notizia
+di questa cosa non avrebbe taciuto di saperla; perchè nella sfera delli eruditi si è ella acquistata il posto d'uno di quei lumi, che non hanno bisogno di mendicare
+la luce d'altronde, essendo ricca da se stessa dei propri splendori, in guisa di poterne diffondere in copia continuamente nei luoghi dove risplende maggiormente
+l'erudizione. Intanto mi si risveglia di nuove il desiderio di vedere altre degne opere di V.S., le quali già si compiacque accennarmi d'avere assai avanzate: ed
+avvisandole che il nostro Viviano sollevato anch' esso dalle sue indispozioni è in punto di mettere sotto il torchio un' opera geometrica<note n="#4"/> che spero debba riuscir di comune soddisfazione.</p>
+<p lang="it">Resto con augurarle con tutto l'animo perfetta salute ed ogni più desiderabile felicità.</p>
+<div type="closer">
+<p lang="it">Il Card. <persName key="medi012">Leopoldo</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

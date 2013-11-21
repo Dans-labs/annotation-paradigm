@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1292"/>
+<meta type="date" value="1664-12-26"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1292">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Scripsit ad me 6<hi rend="sup">ta</hi> huius Clarissimus Riccius, se meas accepisse Tusculi, curasse verò vt continuò redderentur, quas ad Matthaeum Campanum dederas<note n="#1"/>. Cum autem is Roma abesset (ad patriam<note n="#2"/> nempe redierat, vt addit) easdem curae Josephi fratris<note n="#3"/>, felicis illius tuborum opticorum <hi rend="i">ϑαυματουργοῦ</hi>, commisisse: cuius te certiorem reddendum duxi, vt si forte responsum nondum accepisses, necessariae huius morae causam non ignorares. Abimestri ferè historiolam ad te scripsi<note n="#4"/> meae cum Clarissimo Hobbio velitationis, quam non repeto, cum et meas ad te peruenisse sperem et ex silentio tuo mihi persuadeam, <hi rend="i">ἀνεμώλια</hi> esse quae de libello a Clarissimo Hobbio edito mihi relata erant.</p>
+<p>Cometae aspectum qualem optarem, tum aedes vicinae, tum vel maxime pluuium illud et turbidum coelum hactenus mihi inuident. Ex Lovaniensium relatione intellexi, cum nuper inter Craterem et Coruum obseruatus est, totos octodecim gradus cauda subtendisse. Certiora tu orbj literato propones si coelo clementiore vsus es, aut nostrj saltem Romani obseruatores, qui accuratis illis telescopijs ipsam etiam fortassis cometae materiam scrutarj poterunt. Vale Vir praestantissime hoc annj nouj principio, quem tibi faustum ac felicem cum longa aliorum serie apprecatur ex animo</p>
+<div type="closer">
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam Leodicj 26 Xbris 1664.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

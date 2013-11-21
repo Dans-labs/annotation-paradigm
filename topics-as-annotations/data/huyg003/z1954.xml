@@ -1,0 +1,62 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1954"/>
+<meta type="date" value="1673-07-07"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1954">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 27 juin 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>C'estoit seulement à l'occasion de ce que ie trouvois à propos de faire voir à Mylord Brounker votre demonstration de la Cycloide, que ie parlay de mon intention de luy envoier l'exemplaire dont vous m'auiez fait present. Or puisque ie trouve que vous semblez estre surpris de ce que i'ay dit sur cette occasion, et que vous tesmoignez de ne vous souuenir pas de la personne à qui vous auiez envoié le 12<hi rend="sup">me</hi> exemplaire, ie me sens obligé de vous en faire resouvenir par cete liste, asscavoir</p>
+<p><table>
+<row>
+<cell>M. le Conte <persName>de Kincardin</persName>.</cell>
+<cell>M. <persName key="wall057">Wallis</persName>.</cell></row>
+<row>
+<cell>M. le Baron <persName key="brer010">Brereton</persName>.</cell>
+<cell>M. <persName>Ball</persName>.</cell></row>
+<row>
+<cell>M. <persName key="boyl001">Boyle</persName>.</cell>
+<cell>M. <persName key="newt011">Newton</persName>.</cell></row>
+<row>
+<cell>M. le Chevalier <persName key="mora019">Moray</persName>.</cell>
+<cell>M. <persName>Gregory</persName>.</cell></row>
+<row>
+<cell>M. le Chevalier <persName key="neil020">Neile</persName>.</cell>
+<cell>M. <persName key="hook001">Hook</persName>.</cell></row>
+<row>
+<cell>M. <persName key="wren002">Wren</persName>.</cell>
+<cell>Moymesme<note n="#2"/>.</cell></row>
+</table></p>
+<p>Touchant la Demonstration du Synchronisme des vibrations dans vne Cycloide, imprimée dans les dernieres Transactions, ie ne doubte pas, Monsieur que lors que vous l'aurez attentivement releuë et bien considerée, vous et vos semblables ne s'en rendent maistres. Le Principe, sur le quel se fonde cete demonstration, est (come l'Autheur<note n="#3"/> me l'a dit) que, quand les hauteurs perpendiculaires sont en proportions doubles aux longueurs des lignes, dans lesquelles descendent les balles (respectivement) alors les temps des cheutes sont esgaux: Come dans vn
+<figure><graphic url="huyg003oeuv07ill65.gif"></graphic></figure>
+cercle, la proportion de <hi rend="i">cd</hi> à <hi rend="i">ce</hi> est double à la proportion de <hi rend="i">cb</hi> à <hi rend="i">ca</hi>; donc le temps de la cheute de la balle par <hi rend="i">cb</hi> et <hi rend="i">ca</hi> est egal. Or il est ainsi par toute la cycloide; donc le temps de la cheute de chaque point d'icelle est le mesme<note n="#4"/>.</p>
+<p>Mylord Brounker ayant vû la lettre que vous m'auiez fait l'honeur de m'escrire, a trouué à propos de m'envoier par escrit la teneur de ce billet. asscavoir.</p>
+<p>‘Monsieur Hugens m'oblige trop en ce qu'il dit sur l'occasion de ne m'auoir pas envoié un Exemplaire de son livre, come il a fait à d'autres de ses serviteurs icy: mais assurez le, ie vous prie, que ie fais si grand cas de ce livre lá (l'aiant lû par vostre faveur) que ie n'eusse pas manqué d'en acheter le premier que i'en eusse pû trouver, s'il ne m'eut anticipé par sa promesse de m'en envoier vn: dont vous aurez la bonté de luy faire mes remercimens. Touchant ce qu'il dit sur ma demonstration, i'advouë, que c'est beaucoup plus d'Inventer que de Demonstrer; et que dans ce cas icy ie n'eusse, peut estre, iamais fait ou songé au dernier, si M. Hugens n'eut pas fait et publié le premier. Et ce que i'y ay essayé de faire, n'a esté que pour ma propre satissaction en attendant que luy trouveroit bon de publier la sienne. Ny voudrois ie nullement me faire valoir par là; ce qui paroit assez de ce que ie ne voulois iamais consentir qu'on l'imprimât soubs mon nom, mais la laissois passer comme elle estoit, n'ayant point du loisir de l'expliquer (quoyque ie ne pense pas qu'elle en ait bien besoin;) Et ie fis cela plustost pour l'amour de la methode que de la chose mesme (ayant eu le malheur d'une incendie, qui a consumé quelques papiers dont i'eusse souhaité la conservation) auec intention de m'en servir cy-apres, si i'ay du temps pour presenter quelque chose au public, digne, peut estre, d'estre advoüé de</p>
+<div type="closer">
+<p>Vostre affectionné et fidelle serviteur <persName key="brou051">Brouncker</persName>.</p>
+</div>
+<p>Vous voiez par lá, monsieur, la generosité aussi bien que la modestie de cete
+Illustre personne; ce qui me fait souhaiter que vous n'eussiez pas parlé si diminutivement de sa demonstration come vos paroles le portent, vû qu'il y va de l'interest des sciences, que les personnes d'esprit et de merite ne se chocquent point les vns les autres.</p>
+<p>Quant à la lettre de Monsieur Wallis<note n="#5"/>, nous verrons par vostre responce ce qu'il en faudra juger. Nos mathematiciens icy se font fort, ce me semble, de pouuoir prouver, que le droit de l'Invention d'une ligne droite esgale à vne Paraboloide appartient à feu Monsieur Neile devant tout autre, et qu'il en a fort bien entendu le fondement.</p>
+<p>Touchant le pendule circulaire ie le dis encor, tesmoin le Registre de la Soc. Roiale, qu'il y a plusicurs annees, que M. Hook nous en montra icy les proprietez, et mesmes en fit construire des horologes veuës de plusieurs Estrangers. Et M. Wren en auoit desia parlé devant luy à quelques vns de ses amis icy, qui sont prests d'en rendre tesmoignage<note n="#6"/>.</p>
+<p>Et quant à l'usage de l'Horologe à pendule sur mer, vous scavez que M. le Conte de Kinkardin<note n="#7"/> l'essaia le premier sur mer, et vous en racconta le succes à la Haye, lorsque vous auiez toute la difficulté du monde de croire que cela se pût ainsi pratiquer sur mer<note n="#8"/>. Le dit conte estant astheur à Londres, nous en a repeté toute l'histoire auec toutes les circonstances, qui tesmoignent bien que le monde luy est redevable de la premiere prattique qui en fut iamais faite sur mer.</p>
+<p>Monsieur, permettez moy de vous dire, que m'estant despouillé de toute partialité, et resolú de donner à vn chacun ce qui luy est du autant que ie le scaurois apprendre, Je trouue que nos Philosophes icy ne sont pas portez à s'attribuer les descouuertes des autres: Mais aussi ne voudroient ils pas qu'on leur ostât, ou qu'on supprimât ce qui est veritablement de leur invention. Je le scay bonnement, que bien souvent les Anglois, estant fort Inventifs, devisent et trouuent des verités et des choses nouuelles fort considerables, dont ils parlent assez franchement à d'autres sans les publier aussi tost par la presse; quoyque dans ces dernieres annees, ayant vû comme on a tasché de leur oster l'honeur de leur descouuertes, ils ont pris vn peu plus de soin de se les conserver par mes Transactions.</p>
+<p>Vous voulez bien, Monsieur, que ie vous en parle auec cete franchise, et vous donne a conoitre l'humeur de nos amis communs qui ne manquent pas aux occasions de parler advantageusement de vostre merite, bien qu'aussi ils ne laissent pas de resentir la diminution, que quelques vns taschent de faire à la doctrine et sagacité qu'ils possedent. Si la candeur regnoit par tout, quelles amitiez pourroit on establir parmi les scavans, et quelles advantages en tireroit le public? Vous me pardonnerez d'auoir fait cette excursion, que ie finiray par les assurances d'estre tousiours auec sincerité</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Monsieur, vous trouuerez la maniere de la demonstration de M. Sluse touchant la methode des tangentes à toutes sortes de lignes courbes, dans les Transactions qui sont maintenant sous la presse<note n="#9"/>, et qui vous seront envoiées, s'il plait à Dieu, la semaine qui vient.</p>
+</div>
+</body>
+</text>
+</TEI>

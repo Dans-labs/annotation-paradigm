@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1053"/>
+<meta type="date" value="1662-08-30"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1053">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 30 Aoust 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Si je n'auois esté accablé de maladies et d'affaires depuis vn fort long temps Je ne pourrois pas excuser mon silence apres les obligeantes marques que J'ay receues de l'honneur de vostre souuenir. Mais je m'asseure que vous estes trop persuadé de l'estime extraordinaire que Je fais des excellentes qualitez de vostre esprit pour que vous ayez voulu soubsonner en ce rencontre quelque chose a mon desauantage. Vous auez laissé dans mon ame des jmpressions de veneration et damitié que l'absence ny le temps ne sont point capables d'essacer. Vous me ferez Monsieur la Grace de le croire et que je n'auray jamais plus de joye que lors que vous me ferez naistre quelque occasion de vous faire cognoistre cette vérité par mes seruices. Monsieur de Chesnelong<note n="#1"/> greffier du Conseil du Roy sest voulu charger de ma lettre qui vous explique ces veritables sentimens de mon coeur. Cest vn savant de qualité et mon amy qui allant en Hollande pour y veoir ce qui y est de plus clair pourra satisfaire sa curiosite en voyant vostre personne qui est vn de ses plus grands ornemens, Jl vous dira que Je suis auec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre treshumble et obeissant seruiteur <persName key="monm010">De Montmor Habert</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Huggens de Zullichen</persName>
+<lb/>a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

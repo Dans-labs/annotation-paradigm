@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1438"/>
+<meta type="date" value="1665-08-06"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1438">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 27. Juillet 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Le Chevalier Moray ayant desiré, que ie vous envoyasse la responce de Monsieur Hook à Monsieur Auzout touchant la machine pour tourner des verres optiques, ie n'y ay nullement voulu manquer, vous assurant au mesme temps, que difficilement scaurez vous auoir un bien grand nombre de personnes, plus sincerement portées à vostre service que moy. Monsieur Hook est au champ, aussi bien que la plus part du reste de nostre Société, la peste faisant une grande dissipation de nos communs amis. Nous esperons pourtant, qu'elle ne s'eschauffera pas tant, que quelques vns craignent. Je fais estat de demeurer constamment en ville, à ma maison dans le Palmal, come on l'appelle, où vos commandemens me trouueront, tant qu'il plaira à Dieu me donner la santé et la vie. J'estudie de banir et la crainte et la presomption, vivant regulierement, et evitant les places infectées, tant que ie peux, laissant le reste à Dieu, summum nec metuens diem nec optans.</p>
+<p>Je souhaite vn bon accommodement entre ces deux nations, et suis sans compliment</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble serviteur <persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+<p>Mes treshumbles baise mains à Monsieur vostre pere s'il est à Hollande.</p>
+<p>&nbsp;</p>
+<p>Ayant peur de grossir trop ce pacquet, en vous envoyant l'entiere impression du Journal, dont ie vous envoye l'endroit de la responce de Monsieur Hook, i'ay esté obligé de le tronquer, come vous voyez<note n="#1"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> à la Haye.
+<lb/>20
+<lb/>β 2</p>
+</div>
+</body>
+</text>
+</TEI>

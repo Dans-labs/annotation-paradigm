@@ -1,0 +1,57 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1701"/>
+<meta type="date" value="1669-02-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="fr"/>
+<meta type="link" value="1700"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1701">
+<p>Le chifre estoit<note n="#2"/></p>
+<p lang="?"><table>
+<row>
+<cell><hi rend="i">a</hi></cell>
+<cell><hi rend="i">b</hi></cell>
+<cell><hi rend="i">c</hi></cell>
+<cell><hi rend="i">d</hi></cell>
+<cell><hi rend="i">e</hi></cell>
+<cell><hi rend="i">h</hi></cell>
+<cell><hi rend="i">i</hi></cell>
+<cell><hi rend="i">l</hi></cell>
+<cell><hi rend="i">m</hi></cell>
+<cell><hi rend="i">n</hi></cell>
+<cell><hi rend="i">o</hi></cell>
+<cell><hi rend="i">p</hi></cell>
+<cell><hi rend="i">r</hi></cell>
+<cell><hi rend="i">s</hi></cell>
+<cell><hi rend="i">t</hi></cell>
+<cell><hi rend="i">u</hi></cell>
+<cell><hi rend="i">y</hi></cell></row>
+<row>
+<cell>5</cell>
+<cell>2</cell>
+<cell>2</cell>
+<cell>1</cell>
+<cell>4</cell>
+<cell>1</cell>
+<cell>2</cell>
+<cell>3</cell>
+<cell>3</cell>
+<cell>1</cell>
+<cell>3</cell>
+<cell>2</cell>
+<cell>2</cell>
+<cell>3</cell>
+<cell>2</cell>
+<cell>4</cell>
+<cell>1</cell></row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

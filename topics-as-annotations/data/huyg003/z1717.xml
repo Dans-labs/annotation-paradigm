@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1717"/>
+<meta type="date" value="1669-03-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1717">
+<div type="opener">
+<p>De Londres le 8 Mars. 1669.</p>
+<p>Monsieur,</p>
+</div>
+<p>Voicy l'imprimé<note n="#1"/>, où vous trouuerez la responce<note n="#2"/> de Monsieur Gregory à vos dernieres Animadversions<note n="#3"/> sur ce qui touche son livre. J'eusse souhaité, qu'il eut escrit tout le reste auec la retenue et moderation, qui paroit dans cete piece. Ce nombre de nos Transactions a une Table<note n="#4"/> pour celles de toute l'annee passee, qui se finit au mois de Fevrier, le commancement de tout ayant estè fait au mois de Mars, et le libraire<note n="#5"/> en voulant faire vn volume chaque année.</p>
+<p>Monsieur le Docteur Lower<note n="#6"/>, vn des meilleurs Anatomistes d'Angleterre, a fait inprimer vn livre <hi rend="i">De Corde</hi>, <hi rend="i">et de Motu Sanguinis</hi>, <hi rend="i">deque Chyli in eum transitu</hi><note n="#7"/>; où il y a quantité de belles choses, bien recherchées et raisonnees, en Latin; dont i'envoieray un Exemplaire à Monsieur Justel par la 1<hi rend="sup">re</hi> commodité. L'Autheur y a refuté l'opinion de Monsieur Des Cartes touchant l'Ebullition du sang comme cause du mouuement du Coeur; comme aussi la maniere du mouuement des Muscles, enseignée par Monsieur Willis<note n="#8"/>, <hi rend="i">explodendo explosionem ipsius</hi><note n="#9"/>.</p>
+<p>On s'entretient tousiours dans la Societé Royale auec des Experiences du mouuement en general, pour verifier de plus en plus vostre Theorie; et nous esperons, que vous trouuerez bon de nous communiquer la suite<note n="#10"/>, puisque nous faisons tant de cas du commencement<note n="#11"/>. Je ne doubte nullement, que vous n'ayez receu mes dernieres<note n="#12"/>, accompagnées de la lettre<note n="#13"/> de Monsieur le Chevalier Moray, et de l'Estat de la Controverse entre vous et Monsieur Gregory, comme il a estè deduit<note n="#14"/> par vn de nos mathematiciens, appellè Monsieur Collins, bien versé dans toutes sortes de livres mathematiques, et grand promoteur de cet estude là.</p>
+<p>J'ay fait voir à nos Messieurs vostre observation de Saturne, faite au mois d'Aoust de l'an passé, comme elle a esté inserée<note n="#15"/> dans le dernier Journal des Scavans. Je croy, qu'on la mettra dans les Transactions du mois de Mars auec le discours fait là dessus, apres l'auoir traduit en Anglois<note n="#16"/>.</p>
+<p>J'espere que Monsieur Auzout sera bientost de retour à Paris<note n="#17"/>; et ie ne suis pas marry que Monsieur Slusius de Liège va resider à Rome<note n="#18"/>, come on me le
+mande de Paris, quoyque luymesme n'en parle point du tout dans la lettre<note n="#19"/>, que ie viens de receuoir de luy, qui est fort honeste homme et vn des plus habiles mathematiciens de ce siecle, dans l'estime de plusieurs, et dans celle de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tressobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Monsieur permettez moy de vous presser de vouloir acheuer vostre Dioptrique de peur que vous n'y soyez prevenu de quelque autre<note n="#20"/>, qui, à mon sceu, y travaille astheur puissamment, et estant fort habile homme.</p>
+<p>Quand vous m'escrivez par la poste ne faitez vostre addresse autrement que</p>
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">Grubendol</persName> à Londres.</p>
+<p>Rien que cela.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy
+<lb/>à Paris.
+<lb/>32 β</p>
+</div>
+</body>
+</text>
+</TEI>

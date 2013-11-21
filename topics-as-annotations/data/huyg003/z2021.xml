@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2021"/>
+<meta type="date" value="1675-04-19"/>
+<meta type="sender" value="perr052"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2021">
+<p>Je vous enuoye Monsieur, le projet de lettre<note n="#1"/> que le Sr. Thuret propose d'escrire a Monsieur le duc de cheureuse, pour scauoir si vous en estes content.</p>
+<div type="closer">
+<p><persName value="perr052">Perrault</persName>.</p>
+<p>Ce 19 avril 1675.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

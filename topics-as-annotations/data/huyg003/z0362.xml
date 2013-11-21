@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0362"/>
+<meta type="date" value="1656"/>
+<meta type="sender" value="vond001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0362">
+<p>Op de afbeeldinge vanden Heere <persName key="huyg001">van Zuylichem</persName>, door synen sone <persName key="huyg003">Christiaen Huygens</persName> getekent.<note n="#4"/></p>
+<lg type="poem">
+<l>De braue soon ontfing van God en synen Vader</l>
+<l rend="; 1tab">Het wesen en den swier tot 's hemels prijs en eer:</l>
+<l>Dies voeght de danckbaerheit den soon, en niemant nader.</l>
+<l>Dees schenckt den Vader nu door kunst het wezen weer.</l>
+<l rend="; 1tab">Zoo wordt dan Christiaen de Vader van syn Vader,</l>
+<l rend="; 1tab">En Vader Constantyn de soon van zijnen soon.</l>
+<l>Dus tart de kunst natuer. men eer se met een croon.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><persName key="vond001">J. van Vondel</persName>.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

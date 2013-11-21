@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2732"/>
+<meta type="date" value="1692-02-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2732">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 4 Feb. 1692.</p>
+<p>Monsieur</p>
+</div>
+<p>Je n'aurois pas tant tardè à repondre à vostre derniere sans un rhume accablant qui me tient depuis 15 jours avec des maux de teste continuels<note n="#3"/>.</p>
+<p>Je croiois effectivement que vous ne m'aviez envoiè qu'une partie de vostre methode, trouvant qu'elle ne me pouvait servir<note n="#4"/> que lorsqu'on a reduit le Probleme renversè des Tangentes à la quadrature du Cercle ou de l'Hyperbole, et qu'on connoit en mesme temps, qu'il n'est pas resoluble à moins, comme dans l'exemple de la Logarithmique et ailleurs. Considerant aussi comme un defaut à vostre regle, qu'elle reduit souvent le probleme à ces quadratures impossibles, quoyque la courbe cherchée ne soit que geometrique<note n="#5"/>. Cependant je ne laisse pas de vous estre obligè<note n="#6"/> et vous communiqueray volontiers quelque chose de mes inventions en revanche, si j'en ay que vous puissiez souhaiter. Au reste j'ay bien fait, à ce que je vois, de n'avoir pas envoiè à Mr. <persName key="duil010">Fatio</persName> la copie de vostre écrit, ni rien du contenu. [Et il semble mesme, que comme vous ne croiez pas pouvoir beaucoup profiter de sa methode, il ne souhaite pas grandement la vostre, car il me mande]<note n="#7"/>, qu'en une infinitè de cas il scait trouver l'equation de la
+courbe par la proprietè de la Tangente donnée avec des incommensurables complexes, et qu'il en a fait l'essay avec succes pour la soutangente que j'avois donnée <figure rend="inline"><graphic url="huyg003oeuv10fi448.gif"></graphic></figure>, sans avoir recours à aucune quadrature<note n="#8"/>.</p>
+<p>Il pourroit entreprendre, à ce qu'il m'escrit<note n="#9"/>, une seconde edition du livre de Mr. <persName key="newt011">Newton</persName>, qui fourmille de fautes d'impression, et en a mesme dans la doctrine<note n="#10"/>, que l'autheur avoue<note n="#11"/>. Il pretendoit de l'eclaircir en mesme temps et y joindre quelque chose du sien.</p>
+<p>Ce que vous me dites de l'effet de vostre <hi rend="i">calculus differentialis</hi> dans les recherches touchant la Cycloide<note n="#12"/>, à dire la veritè, me semble peu croiable. Vous apportez une nouvelle facilitè au calcul, mais ne donnez pas l'invention qu'il faut pour la solution des problemes extraordinaires, non plus que Viete par l'Algebre.</p>
+<p>Il me semble que Verulamius n'a pas omis cet art de deviner dans la Physique sur des experiences données en considerant l'exemple qu'il donne<note n="#13"/> au sujet de la chaleur dans les corps des metaux et autres, où il a assez bien reussi, si ce n'est qu'il n'a pas pensè au mouvement rapide de la matiere tres subtile, qui doit entretenir quelque temps le bransle des particules des corps.</p>
+<p>Mr. <persName key="boyl001">Boyle</persName> est mort<note n="#14"/>, comme vous scaurez desia sans doute. Il paroit assez etrange qu'il n'ait rien basti sur tant d'experiences dont ses livres sont pleins; mais la chose est difficile, et je ne l'ay jamais cru capable d'une aussi grande application qu'il faut pour establir des principes vraisemblables. Il a bien fait cependant en contredisant à ceux des Chymistes.</p>
+<p>Je suis de vostre avis en ce que vous souhaitez jusqu'aux conjectures des hommes excellens en ces matieres de Physique. Mais je crois qu'ils nuisent beaucoup, lors qu'ils veulent faire passer leur conjectures pour des veritez, comme a fait Mr. <persName key="desc004">des Cartes</persName>, parce que ils empeschent leurs sectateurs de chercher rien de meilleur.</p>
+<p>Vous pourrez avoir vu maintenant ma division de l'Octave<note n="#15"/> en 31 parties egales, et ne disconviendrez pas de l'utilitè et singularitè de cette division, de
+sorte que j'attens vostre approbation. Dans la Table à la colonne 6<hi rend="sup">e</hi>, le quatrieme et cinquieme nombre doivent estre 4,7577249614 et 4,7768024924, et 12<hi rend="sup">me</hi> doit commencer par 4. Que jugez vous, Monsieur de la methode de Mr. <persName key="tsch002">Tschirnhaus</persName> pour les quadratures<note n="#16"/>. Il ne semble pas qu'il ait voulu estre entendu; mais il doit estre moins obscur pour vous, qui en scavez pour le moins autant que luy. Je me souviens qu'il donna la quadrature d'une courbe que vous aviez proposée dans les Acta de Leipsich<note n="#17"/>, ce qui me semble estre beaucoup. Je suis etc.</p>
+</div>
+</body>
+</text>
+</TEI>

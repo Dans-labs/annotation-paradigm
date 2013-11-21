@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2479"/>
+<meta type="date" value="1687-08-28"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2479">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 28 Aoust 1687.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a déja longtemps que uos escrits mont esté remis entre les mains par Mr. <persName key="chap019">de la Chapelle</persName> a qui on les auoit addressez<note n="#2"/>, mais comme ils n'estoient point accompagnez d'aucun billet de uostre part iesperois tousjours que uous menuoyeriez encore quelqu'autre chose comme uous me l'auiez promis par uostre precedente<note n="#3"/> lettre, et qu'ainsi ie pourois accuser la reception de lun et de lautre tout ensemble. Je croyois dailleurs que uous estiez informé par Mr. <persName>Dallancé</persName> que ce que uous nous auiez enuoyé mauoit esté remis entre les mains. Louurage de Mr. <persName key="fren024">de Frenicle</persName> sur les exclusions<note n="#4"/> est acheué d'imprimer, et ie feray suiure celuy de M. de Roberual des tangentes par les mouuemens composez<note n="#5"/> qui ne contiendra que 4 à 5 feuilles aprez quoy ie feray imprimer ce que uous mauez enuoyé amoins que uous ne souhaittiez que les uostres ne precedent ccux de Mr. <persName key="robe012">de Roberual</persName>, auquel cas uous aurez siluous plait la bonté de m'en auertir au plutost. Je prendray un tres grand soin que tout ce que uous menuoyerez soit imprimé fort correctement et si par hazard ie trouuois quelque difficulté a laquelle ie ne pusse pas remedier, ientens seulement sur la disposition de louurage et non pas sur la matiere, ie uous prie de trouuer bon que ie uous en aduertisse, quelques uns de nos messieurs souhaittoient uoir quelque chose de ce que uous mauez enuoyé mais ie n'ay osé le communiquer nen ayant point dordre et ie les ay remis apres quil seroit imprimé ce qui seroit dans peu de
+temps. Nous esperons Monsieur que uous nous enuoyerez encore autre chose lors que uous aurez la commodité de le faire mettre en estat, ie uous puis seulement asseurer que ces ouurages seront imprimez dans la derniere perfection et il seroit a souhaitter que les uostres seuls peussent remplir le uolume. Je ne scay si uous uous souuenez que Mr. <persName key="mari086">Mariotte</persName> auoit fait quelque chose sur le Barometre double<note n="#6"/> qui est de uostre inuention, et ie suis en doute si ie dois faire imprimer
+ce quil m'en a laissé entre les mains<note n="#7"/>, iattendray sur ce sujet uostre auis. Il y a icy quelques nouueautez qui ne sont pas encore publiques ie ne manqueray pas de uous en faire part, les ouurages du P. Prestet s'auancent fort et celuy de Monsieur <persName key="roll901">Rolle</persName><note n="#8"/> sur le mesme sujet qui est danalyse passe a ce qui me semble tout ce qui a esté fait iusqua present cest un ieune homme d'une uiuacité desprit et dune penetration extraordinaire. lon a imprimé un liure de Mechanique<note n="#9"/> ou l'Auteur prend pour principe les mouuemens composez il dedie ce traité a la compagnie qui la accepté on imprime presentement l'epistre.</p>
+<p>Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="hire005">De la Hire</persName>.</p>
+</div>
+<p>toute nostre compagnie uous saluë.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chr. Hugens de Zulichem</persName> A la Haye Hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

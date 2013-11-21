@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0898"/>
+<meta type="date" value="1661-09-24"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0898">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> Viro Nobilissimo <persName key="huyg003">Christiano Hugenio</persName> S.P.D.</p>
+</div>
+<p>Si ex peregrinatione Gallica Brittannicaque ad tuos iam reversus es, Vir Nobilissime, gratulor tibi mihique hunc itineris tam felicis successum. Tanti enim merito tuo te facio, ut nihil rerum tuarum alienum a me ducam. Ego quadrimestre temporis spatium apud Suecos iam dego, publicis occupationibus sic affixus, ut de studijs privatis cogitare vix possim. Quibus tamen, ut spero, sub hibernam tempestatem, mari clauso, ac negotijs publicis frigentibus, denuo licebit accingi. Nasonem<note n="#1"/> meum iam traditum tibi esse oportet, si ad paternos lares redijsti. Viro etiam illustri Genitori tuo, ac fratri nobilissimo patris cognomini. Quanquam praestitisset fortasse, apud viros tam emunctae naris hanc editionem abortivam dissimulari, cum proposuerim secundis curis omnia luculentiora ac limatiora mox publico dare. De itinere tuo deque studijs si nonnihil me docueris, magni id beneficij loco interpretabor. Vellem ipse te hoc fasce liberatum, sed cum Vossius Walliusque<note n="#2"/>, quos fere solos in civitate vestra amicos literarum peritos habeo, eo sint ingenio, ut scribendis epistolis non nisi nolentes vacent, ad te confugiendum esse duxi, cuius praeter alias plurimas virtutes ea laus est, ut demerendis amicis libenter te praebeas. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="stock001">Holmiae Suecorum</placeName> a.d. Septembris XXIV. A<hi rend="sup">o</hi>. CIƆIƆCLXI.</p>
+</div>
+<p>Illustri viro Genitori tuo fratribusque ac affini Doubletio salutem meis verbis dicas rogo. Nobilissimus Ludovicus quid rerum in Hispania gesserit, scire percupio, quid Escuriaca Regis bibliotheca sperare nos iubeat.</p>
+</div>
+<div type="para">
+<p>Nobilissimo Viro <persName key="huyg003">Christiano Hvgenio</persName>. Hagam Comitum.</p>
+</div>
+</body>
+</text>
+</TEI>

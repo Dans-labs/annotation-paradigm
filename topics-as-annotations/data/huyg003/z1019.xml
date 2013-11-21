@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1019"/>
+<meta type="date" value="1662-05-30"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1019">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo S.P.D.</p>
+</div>
+<p>Alterius Phaenomeni ectypon, quale desiderabas, Martio mense ad te misi<note n="#1"/>, Vir Nobilissime. nec tamen cognosse datur hactenus, an id in manus tuas pervenerit. quae res valde sollictium me habet, cum nihil optem impensius, quam studijs tuis prodesse. Quare aliud ectypon describi curabo, si eius, quod iam missum est, conspectu sinistra fortuna te fraudavit. Apollonij Pergaei Arabici<note n="#2"/> tria exemplaria Serenissimus Princeps Leopoldus ab Etruria Amstelodamum ad Elzevirios mitti curavit, quorum duo priora tibi et Hevelio, tertium mihi munus destinetur. Clarissimi Vossij de Luce Commentarium<note n="#3"/> ab ijsdem Elzevirijs expecto: quapropter studijs Philosophicis iam nunc me coepi accingere. Mirum, ni crabones mox insurgant, et lucem hanc illi certatim involent infestis alis.</p>
+<p>Parentem tuum, Virum Illustrem, re feliciter confecta<note n="#4"/>, brevi reducem vobis sistendum fore auguror.
+Domino <persName>Friqueto</persName><note n="#5"/>, si etiamnum Hagae aetatem agit, plurimam meis verbis, ubi oportunum erit, salutem uti dicas obsecro, etiam amicissimo Wallio<note n="#6"/>. cui scribam proxime, si nunc id fieri per occupationes non licebit. Hinc quod nunciare possim nihil nunc occurrit. Vale, Nobilissime Hugeni.</p>
+<div type="closer">
+<p><placeName key="stock001">Holmiae Suecorum</placeName> <date>CIƆIƆCLXII. a.d. XXX. maij Gregor.</date></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

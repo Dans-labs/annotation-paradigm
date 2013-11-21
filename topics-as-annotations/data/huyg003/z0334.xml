@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0334"/>
+<meta type="date" value="1656-09-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0334">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Bartolinus. Inscriptio. Signum.</p>
+</div>
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName>. S.P.</p>
+</div>
+<p>Hesterna die literas<note n="#1"/> ad Elzevirium isthuc misi quibus inerat alia epistola mea ad
+Ainscomium Jesuitam, quam typis ipsius excudi cupiebam. Postea vero intellexi in Germania abesse Elzevirium nec nisi post 3 hebdomadas reversurum. Itaque te quaeso Vir Humanissime ut literas illas repetere velis meo nomine a domo Elzeviriana quo allatas esse non dubito, atque ad me remittere. Et quoniam in mora periculum est, ne scilicet in Germaniam absenti...<note n="#2"/> rogo ut quamprimum hanc curam suscipias, quam profecto invitus, sed necessario tibi impono cum alioqui ipsi mihi eo proficiscendum fuerit ubi nihil praeterea negotij habeo. Tu si quid invicem rerum tuarum hic curatum voles mihi mandare ne dubita. Vale.</p>
+<p>Inscriptio literarum est: A Monsieur Monsieur <persName>J. Elsevier</persName>. Sed et manum cognosces et sigillum. Bartholinum si nondum forte isthinc discessit<note n="#3"/>, meis verbis plurimum salvere jubeto.</p>
+</div>
+</body>
+</text>
+</TEI>

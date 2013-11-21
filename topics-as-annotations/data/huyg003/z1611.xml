@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1611"/>
+<meta type="date" value="1667-12-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1611">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 2 Decembre 1667.</p>
+</div>
+<p>J'ay estè empeschè par divers accidens de faire response a vostre derniere du 3 novembre dans la quelle estoit enfermée la petite lentille que cellecy vous rapporte. Ce n'est pas son obscuritè qui m'y deplait le plus ni qui fait le plus de mal, mais le peu de soin que vous avez pris a la bien doucir, ce qui paroit quand on la regarde avec un microscope, car on la voit, mesme au milieu, toute pleine de petits creux; et puis que l'ouuerture doit estre si petite, imaginez vous combien peu de rayons <hi rend="i">datter te recht raecken</hi><note n="#2"/>. car le poly gaste encore bien d'avantage un verre ou il y a de ces petits creux qu'un autre bien uni.</p>
+<p>Pour ce qui est du mauuais succes de vos objectifs faits a ma nouuelle maniere<note n="#3"/>. je ne scay pas bien a quoy il faut l'imputer. C'est peut estre qu'en formant vostre verre vous avez gastè la figure de vostre creux, par ce que vous aurez moins usè les bords. a moy cet inconvenient du mauuais douci au milieu du verre n'arrivoit pas quand je travaillay dans ma petite forme de 4½ pieds, mais aussi j'avois une autre de fer pour former le verre auparavant ce qui est tres necessaire. En tout cas pour les longues lunettes il est certain que cette methode est tresbonne, puis qu'on
+ne scauroit mieux doucir un verre que l'est ce grand<note n="#4"/> que j'ay apportè avec moy de Hollande, que les experts d'icy admirent en ce point. Il faudra que j'invente quelque maniere pour fournir une force suffisante au poli sur le plomb, a faute de quoy il est demeurè jusqu'icy sans estre achevè.</p>
+<p>Il faut laisser faire <persName key="spin003">nostre Juif</persName><note n="#5"/> avec ses ouuertures, et l'experience le doit refuter bien mieux que la theorie, parce qu'en effect la determination des ouvertures a son premier fondement dans l'experience. Car il faut scavoir par exemple qu'une lunette de 12 pieds peut souffrir l'ouuerture de deux pouces, et de cela je deduis en suite l'ouuerture de toutes les autres plus longues ou plus courtes. Mais il peut soustenir qu'on n'a jamais fait un bon verre de 12 pieds, s'entend dans sa plus grande perfection, et c'est ce qu'il doit prouuer par son travail en faisant de meilleurs, dont peut estre il n'est pas fort capable.</p>
+<p>Pour le beau verre que vous demandez, j'aurois bien de la peine a vous en trouuer, parce que les ouuriers en ont trespeu, et ne veulent pas s'en defaire, mais je ne scay d'un autre costè s'il est si fort a desirer, par ce qu'il me semble qu'il tient un peu de cette mauuaise qualitè qui accompagne le verre blanc presque tousjours, qui est de jetter le sel, de sorte qu'on le trouue tousjours halè, apres l'avoir laissè quelque temps sans l'essuier. prenez garde si vous ne le remarquerez pas a ces verres de la lunette de mon Pere, car je m'en suis apperceu en d'autres lentilles semblables de la mesme estoffe. Ce deffaut n'est pas seulement incommode mais il gaste aussi peu a peu la figure et le poli des verres. Adieu. Ie suis maintenant a faire des experiences sur le mouuement circulaire pour les quelles j'ay fait faire une table ronde qui tourne sur un pivot et est percee dans le milieu. Je crois avoir trouuè par ces speculations la cause de la gravitè, qui est de consequence.</p>
+</div>
+<div type="para">
+<p>Pour mon frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

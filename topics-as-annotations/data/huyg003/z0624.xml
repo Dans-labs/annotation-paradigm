@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0624"/>
+<meta type="date" value="1659-06-07"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0624">
+<div type="opener">
+<p>Nobilissimo, Clarissimoque Viro Domino <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. à Schooten</persName> S.P.</p>
+</div>
+<p>Librum Pascalij<note n="#1"/>, tuâ operâ mihi transmissum, rectè accepi, eoque nomine maximas tibi gratias habeo. Quantum autem per otium licebit lubens eum evolvam, partim ut Domini de Carcavy desiderio satisfiat, qui meam super illum sententiam (ut scribis) rescire efflagitat, partim ut et meae curiositati locus sit, utpote quem tractatum ante à te mihi commendatum novi, atque etiamnum subtilissimum à te depraedicari rectè conjicio. Caeterum cum novam Cartesij Geometriae editionem<note n="#2"/> nondum sis nactus, nec eandem ex tuis intelligam adhuc prostare, mittere visum fuit exemplar, quod hìc penes me vidisti, quò eo uti possis, donec Elsevirio Amstelodami indicavero, ut et tibi exemplar mittere non gravetur. Si Autori librorum missorum rescribere digneris, rogo meo nomine eum quàm plurimum salutes et pro exemplari donato maximas ei grates rependas. Domino <persName key="carc010">de Carcavi</persName> autem, Deo dante, responsurus sum, quamprimum illud perlustravero. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>7 Junij, 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

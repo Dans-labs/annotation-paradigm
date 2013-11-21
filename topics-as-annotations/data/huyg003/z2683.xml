@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2683"/>
+<meta type="date" value="1691-06-05"/>
+<meta type="sender" value="cupe001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2683">
+<div type="opener">
+<p>Illustri Viro <persName key="huyg003">Christiano Huygens</persName> S.D. <persName key="cupe001">Gisb. Cvpervs</persName>.</p>
+</div>
+<p>Proxima hyeme convenit me Ludolfus<note n="#1"/> quidam, Matheteos in Germania professor, cognatusque Jobi Ludolfi<note n="#2"/>, qui tam praeclaram sibi famam, edita historia sua Aetiopica peperit.</p>
+<p>Cumque me certiorem faceret, te legere equidem velle summaria notarum, quas in opus illud auctor ipse composuit doctissimas et amplissimas, haud gravate illa a me tulit; nec dubito quin tibi tradita sint.</p>
+<p>Commentarium illum, donum viri amp[l]issimi, ante dies aliquot accepi, sed cum significet, summariorum me ante compotem factum esse, et illa propterea commentario adjecta non sint; rogo te vehementem in modum, ut eadem ad me remittere velis, ne liber quantiuis pretii, et molis justae mutilus sit: Vale vir Illustris</p>
+<div type="closer">
+<p>Hagae Com. 5 Jun. 1691.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

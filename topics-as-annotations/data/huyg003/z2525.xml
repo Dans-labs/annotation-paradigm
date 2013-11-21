@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2525"/>
+<meta type="date" value="1688-06-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2525">
+<div type="opener">
+<p>Mr. <persName key="chap019">De la Chapelle</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 29 Jun. 1688.</p>
+<p>Monsieur</p>
+</div>
+<p>Je souhaite fort de scavoir une fois si mes lettres vous ont estè rendues, dont jusqu'icy je suis incertain.
+La premiere ayant manquè je me donnay l'honneur de vous en escrire une seconde<note n="#1"/> et j'adjoutay a cette lettre la copie de la premiere.
+Du depuis j'ay encore escrit a Mons.<hi rend="sup">r</hi> <persName key="hire005">de la Hire</persName><note n="#2"/>, tant pour scavoir ce qu'estoient devenues les susdites lettres avec lesquelles il y en avoit eu une pour luy, que pour apprendre en quel estat estoit l'impression des ouvrages de l'Academie.
+Mais je n'ay point eu de responce. Si son silence et le vostre est une marque que l'on est mal satisfait de moy, je le dois imputer a mon malheur ne scachant pas d'en avoir donnè suject.
+J'ay envoiè quelques copies de mes escrits a Mr. <persName key="hire005">de la Hire</persName><note n="#3"/>, qui a ce que j'ay appris<note n="#4"/> ont estè rendues, et ie l'ay priè de ne rien faire imprimer de moy, dont je n'eusse envoiè pareillement des copies de quoy je vous prie aussi d'avoir soin.
+J'ay encore quelques autres de mes ouvrages<note n="#5"/> a envoier dont je fais plus d'estat que des precedents et desquels je m'espargneray volontiers la peine de l'impression si vous et Mr. <persName key="hire005">de la Hire</persName> voulez bien avoir la bontè de vous en charger comme vous m'avez offert tous deux si obligeamment.
+J'envoie cette lettre dans le pacquet de Mr. <persName>d'Alencè</persName>, dans l'esperance qu'elle vous sera rendue seurement et qu'elle vous temoignera que je suis tousjours parfaitement</p>
+</div>
+</body>
+</text>
+</TEI>

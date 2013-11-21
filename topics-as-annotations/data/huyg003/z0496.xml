@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0496"/>
+<meta type="date" value="1658-07-05?"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0495"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0496">
+<p>Inter extremas datas duas medio loco proportionales inuenire. <hi rend="i">ἀπαγωγή.</hi></p>
+<p><figure><graphic url="huyg003oeuv02ill100.gif"></graphic></figure></p>
+<p>Sint duae datae <formula>AF</formula> maior <formula>FC</formula> minor, ita compositae vt bisectâ vtrâque in <formula>D</formula> et <formula>E</formula> recta <formula>DE</formula> sit normalis ad <formula>FC</formula>, et perficiatur parallelogrammum <formula>AC</formula>, ductâque <formula>DQ</formula> parallelâ <formula>AB</formula>, per <formula>A</formula> punctum ducatur recta <formula>HAG</formula> occurrens rectis <formula>CB</formula> <formula>CF</formula> productis in <formula>H</formula> &amp; <formula>G</formula>, ita ut iuncta <formula>DG</formula> sit aequalis <formula>QH</formula>.
+Dico quatuor <formula>AF</formula> <formula>FG</formula> <formula>HB</formula> <formula>FC</formula> esse in continuâ analogiâ &amp;c.</p>
+<p>Alia.</p>
+<p><figure><graphic url="huyg003oeuv02ill101.gif"></graphic></figure></p>
+<p>Dentur rursus duae <formula>AB</formula>, <formula>AQ</formula>.
+centro <formula>B</formula> interuallo <formula>BA</formula> scribatur arcus <formula>AN</formula>, cui occurrat normalis <formula>QN</formula>, et ductâ <formula>AN</formula> rectâ, bisectâque <formula>AB</formula> in <formula>F</formula>, erigatur <formula>FC</formula> normalis, cui in <formula>C</formula> occurrat <formula>AC</formula> aequalis <formula>AN</formula>, et ducatur <formula>QC</formula> eique parallela <formula>AE</formula>, in quam incidat recta <formula>CED</formula> occurrens <formula>BA</formula> productae in <formula>D</formula>, et faciens aequales <formula>CE</formula> <formula>DA</formula>.
+Dico rursus quatuor <formula>BA</formula> <formula>DE</formula> <formula>DA</formula> <formula>AQ</formula> esse in continuâ <hi rend="i">ἀναλογίᾳ</hi> &amp;.</p>
+</div>
+</body>
+</text>
+</TEI>

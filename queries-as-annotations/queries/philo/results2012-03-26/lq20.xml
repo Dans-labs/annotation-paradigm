@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><!DOCTYPE mql_results [
+  <!ELEMENT mql_results (mql_result)* >
+  <!ELEMENT mql_result ((mql_progress)?, status, (error)?, (warning)?, (table|sheaf|flatsheaf)?) >
+  <!ELEMENT mql_progress (#PCDATA)* >
+  <!ELEMENT status EMPTY >
+  <!ELEMENT error (error_source, error_stage, 
+                   error_message_db, error_message_compiler) >
+  <!ELEMENT error_source EMPTY >
+  <!ELEMENT error_stage EMPTY >
+  <!ELEMENT error_message_db (#PCDATA)* >
+  <!ELEMENT error_message_compiler (#PCDATA)* >
+  <!ELEMENT warning (#PCDATA)* >
+  <!ATTLIST mql_results >
+  <!ATTLIST mql_result  >
+  <!ATTLIST status 
+                success (true|false) #REQUIRED >
+  <!ATTLIST error >
+  <!ATTLIST error_source 
+                source  (compiler|db) #REQUIRED >
+  <!ATTLIST error_stage  
+                stage   (none|parse|weed|symbol|type|monads|exec) #REQUIRED >
+  <!ATTLIST error_message_db >
+  <!ATTLIST error_message_compiler >
+  <!ATTLIST warning >
+  <!ELEMENT table (theader, trow*) >
+  <!ELEMENT theader (theadercolumn)* >
+  <!ELEMENT theadercolumn (tcaption, ttype) >
+  <!ELEMENT tcaption (#PCDATA)* >
+  <!ELEMENT ttype EMPTY >
+  <!ELEMENT trow (tcolumn)* >
+  <!ELEMENT tcolumn (#PCDATA)* >
+  <!ATTLIST table >
+  <!ATTLIST theader >
+  <!ATTLIST theadercolumn >
+  <!ATTLIST tcaption >
+  <!ATTLIST ttype 
+     type (bool|string|integer|id_d|enum|list_of_integer|list_of_id_d|list_of_enum) #REQUIRED
+     enum_type CDATA #IMPLIED >
+  <!ATTLIST trow >
+  <!ATTLIST tcolumn >
+  <!ELEMENT sheaf (straw)* >
+  <!ELEMENT straw (matched_object)* >
+  <!ELEMENT matched_object (monad_set, (features)?, (sheaf)?) >
+  <!ELEMENT monad_set (mse)+ >
+  <!ELEMENT mse EMPTY>
+  <!ELEMENT features (feature)+ >
+  <!ELEMENT feature (#PCDATA) >
+  <!ATTLIST sheaf >
+  <!ATTLIST straw >
+  <!ATTLIST matched_object 
+            object_type_name CDATA #REQUIRED 
+            focus (false | true) #REQUIRED
+            marks (CDATA) #IMPLIED
+            id_d CDATA "nil"
+  >
+  <!ATTLIST monad_set >
+  <!ATTLIST mse
+            first CDATA #REQUIRED
+            last  CDATA #REQUIRED
+  >
+  <!ATTLIST feature
+            feature_name CDATA #REQUIRED
+            feature_type (string|integer|id_d|enum|list_of_integer|list_of_id_d|list_of_enum) #REQUIRED
+            enum_type CDATA #IMPLIED 
+  >
+  <!ELEMENT flatsheaf (flatstraw)* >
+  <!ELEMENT flatstraw (matched_object)* >
+  <!ATTLIST flatstraw
+      object_type_name CDATA #REQUIRED >
+]>
+
+<mql_results>
+   
+   <mql_result>
+      <mql_progress>
+         
+      </mql_progress>
+      <status success="true"/>
+      <sheaf>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="93481">
+               <monad_set>
+                  <mse first="4036" last="4538"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="29471">
+                        <monad_set>
+                           <mse first="4173" last="4174"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="35455">
+                                 <monad_set>
+                                    <mse first="4173" last="4174"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="29472">
+                        <monad_set>
+                           <mse first="4175" last="4176"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="35456">
+                                 <monad_set>
+                                    <mse first="4175" last="4176"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="4176">
+                                          <monad_set>
+                                             <mse first="4175" last="4175"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="4177">
+                                          <monad_set>
+                                             <mse first="4176" last="4176"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="93489">
+               <monad_set>
+                  <mse first="7324" last="7800"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="30067">
+                        <monad_set>
+                           <mse first="7460" last="7464"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="36076">
+                                 <monad_set>
+                                    <mse first="7460" last="7464"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="30068">
+                        <monad_set>
+                           <mse first="7465" last="7466"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="36077">
+                                 <monad_set>
+                                    <mse first="7465" last="7466"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="7466">
+                                          <monad_set>
+                                             <mse first="7465" last="7465"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="7467">
+                                          <monad_set>
+                                             <mse first="7466" last="7466"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="170958">
+               <monad_set>
+                  <mse first="45554" last="46195"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="125023">
+                        <monad_set>
+                           <mse first="45949" last="45950"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="129403">
+                                 <monad_set>
+                                    <mse first="45949" last="45950"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="125024">
+                        <monad_set>
+                           <mse first="45951" last="45952"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="129404">
+                                 <monad_set>
+                                    <mse first="45951" last="45952"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="115206">
+                                          <monad_set>
+                                             <mse first="45951" last="45951"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="115207">
+                                          <monad_set>
+                                             <mse first="45952" last="45952"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="170959">
+               <monad_set>
+                  <mse first="46196" last="46539"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="125092">
+                        <monad_set>
+                           <mse first="46392" last="46393"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="129475">
+                                 <monad_set>
+                                    <mse first="46392" last="46393"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="125093">
+                        <monad_set>
+                           <mse first="46394" last="46395"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="129476">
+                                 <monad_set>
+                                    <mse first="46394" last="46395"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="115649">
+                                          <monad_set>
+                                             <mse first="46394" last="46394"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="115650">
+                                          <monad_set>
+                                             <mse first="46395" last="46395"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="297841">
+               <monad_set>
+                  <mse first="71101" last="71960"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="251706">
+                        <monad_set>
+                           <mse first="71274" last="71275"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="255592">
+                                 <monad_set>
+                                    <mse first="71274" last="71275"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="251707">
+                        <monad_set>
+                           <mse first="71276" last="71277"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="255593">
+                                 <monad_set>
+                                    <mse first="71276" last="71277"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="229804">
+                                          <monad_set>
+                                             <mse first="71276" last="71276"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="229805">
+                                          <monad_set>
+                                             <mse first="71277" last="71277"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="297856">
+               <monad_set>
+                  <mse first="81490" last="82194"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="253452">
+                        <monad_set>
+                           <mse first="81661" last="81665"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="257428">
+                                 <monad_set>
+                                    <mse first="81661" last="81665"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="253453">
+                        <monad_set>
+                           <mse first="81666" last="81667"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="257429">
+                                 <monad_set>
+                                    <mse first="81666" last="81667"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="240194">
+                                          <monad_set>
+                                             <mse first="81666" last="81666"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="240195">
+                                          <monad_set>
+                                             <mse first="81667" last="81667"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="519238">
+               <monad_set>
+                  <mse first="146046" last="146770"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="477407">
+                        <monad_set>
+                           <mse first="146745" last="146749"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="481403">
+                                 <monad_set>
+                                    <mse first="146745" last="146749"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="477411">
+                        <monad_set>
+                           <mse first="146760" last="146765"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="481407">
+                                 <monad_set>
+                                    <mse first="146760" last="146765"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="462158">
+                                          <monad_set>
+                                             <mse first="146760" last="146760"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="462159">
+                                          <monad_set>
+                                             <mse first="146761" last="146761"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="960519">
+               <monad_set>
+                  <mse first="284267" last="284885"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="902934">
+                        <monad_set>
+                           <mse first="284561" last="284562"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="908582">
+                                 <monad_set>
+                                    <mse first="284561" last="284562"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="902935">
+                        <monad_set>
+                           <mse first="284563" last="284564"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="908583">
+                                 <monad_set>
+                                    <mse first="284563" last="284564"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="891214">
+                                          <monad_set>
+                                             <mse first="284563" last="284563"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="891215">
+                                          <monad_set>
+                                             <mse first="284564" last="284564"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+         <straw>
+            <matched_object object_type_name="chapter" focus="false" id_d="1338052">
+               <monad_set>
+                  <mse first="391112" last="392095"/>
+               </monad_set>
+               <sheaf>
+                  <straw>
+                     <matched_object object_type_name="clause" focus="false" id_d="1323814">
+                        <monad_set>
+                           <mse first="391837" last="391838"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="true" id_d="1325109">
+                                 <monad_set>
+                                    <mse first="391837" last="391838"/>
+                                 </monad_set>
+                                 <features>
+                                 </features>
+                                 <sheaf>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                     <matched_object object_type_name="clause" focus="false" id_d="1323815">
+                        <monad_set>
+                           <mse first="391839" last="391843"/>
+                        </monad_set>
+                        <sheaf>
+                           <straw>
+                              <matched_object object_type_name="clause_atom" focus="false" id_d="1325110">
+                                 <monad_set>
+                                    <mse first="391839" last="391843"/>
+                                 </monad_set>
+                                 <sheaf>
+                                    <straw>
+                                       <matched_object object_type_name="word" focus="true" id_d="1320156">
+                                          <monad_set>
+                                             <mse first="391839" last="391839"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                       <matched_object object_type_name="word" focus="true" id_d="1320157">
+                                          <monad_set>
+                                             <mse first="391840" last="391840"/>
+                                          </monad_set>
+                                          <sheaf>
+                                          </sheaf>
+                                       </matched_object>
+                                    </straw>
+                                 </sheaf>
+                              </matched_object>
+                           </straw>
+                        </sheaf>
+                     </matched_object>
+                  </straw>
+               </sheaf>
+            </matched_object>
+         </straw>
+      </sheaf>
+   </mql_result>
+   
+</mql_results>

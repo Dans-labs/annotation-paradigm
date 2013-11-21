@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0009"/>
+<meta type="date" value="1646-06-15"/>
+<meta type="sender" value="desc004"/>
+<meta type="senderloc" value="egmon001"/>
+<meta type="recipient" value="wilh013"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0009">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je vous remercie tres humblement des letres que vous m'auez fait la faueur de m'enuoyer et des nouuelles dont il vous a pleu me faire part.
+Mr. <persName>Pell</persName><note n="#2"/> vient aussy de m'escrire d'Amsterdam qu'il a esté appelé par vos letres de la part de son Altesse<note n="#3"/> a la profession en Philosophie et Mathematiques a Breda, Je me resiouis d'apprendre qu'on veuille ainsy faire fleurir les sciences en vne ville ou i'ay autrefois esté soldat. Il y a quelque tems que le Professeur Schooten m'enuoya vn escrit que le second
+fils de Mr. <persName key="huyg001">de Zuylichem</persName> auoit fait touchant vne inuention de Mathematique qu'il auoit cherchée, et encore qu'il n'y eust pas tout a fait trouué son conte (ce qui n'estoit nullement estrange pource qu'il auoit cherché vne chose qui n'a iamais esté trouueé de personne) il sy estoit pris de tel biais que cela m'assure qu'il deuiendra excelent en cete science, en laquelle ie ne voy presque personne qui scache rien.</p>
+<p>Pour <persName key="voet008">Voetius</persName><note n="#4"/> c'est vn personnage auquel ie ne pense plus du tout, ses iniquitez sont si euidentes et ont esté si manifestement decouuertes par sa propre escriture<note n="#5"/> que ie ne croy pas qu'il y ait d'orenauant aucun homme de bien qui veuille auoir amitié auec luy, ny qui face estat de tout ce qu'il scauroit dire ou escrire. Si nonobstant cela on veut qu'il soit <hi rend="i">ecclesiarum Belgicarum decus et ornamentum</hi> ainsy qu'il se qualifie soymesme, et qu'on l'estime plus necessaire a vostre eglise que St. Jean Baptiste n'a esté a celle de tous les chrestiens, ainsy que soustienent quelques vns de ses idolastres, et que pour ce suiet on luy veuille donner vn octroy pour medire impunement de qui bon luy semble a cause que St. Jean a nommé les Juifs <hi rend="i">engeance de viperes</hi> ce n'est pas a moy a m'en formaliser, car ie voy qu'il s'adresse a d'autres qui ont incomparablement plus de pouuoir que ie n'en ay. Je n'auois point sceu qu'il eust rien fait imprimer contre Mrs. les Chanoines<note n="#6"/>, mais Schoock<note n="#7"/> me semble si froid a soutenir sa propre cause que ie ne le
+iuge pas fort propre a defendre la leur. mesme, ie ne scay si la nouuelle qu'onme vient d'apprendre estvraye ou non, mais on m'escrit qu'il a perdu son proces a Vtrecht<note n="#8"/> faute d'auoir pû verifier
+ce qu'il auoit dit. quoy qu'il en soit permetez moy que ie vous die icy en liberté que lorsque i'auois escrit contre Voetius<note n="#9"/> le droit du ieu estoit qu'il me respondist aussy par escrit et non pas qu'il implorast le secours de son magistrat comme il a fait<note n="#10"/>, mais lorsqu'il escrit contre vn des membres des estats de sa prouince le droit du ieu est qu'on luy face son proces et non pas qu'on s'amuse a faire des liures contre luy. le trop de retenuë de ceux qui ont vn iuste pouuoir et le trop d'audace de ceux qui le veulent vsurper est tousiours ce qui trouble et qui ruine les republiques. ie suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>vostre treshumble et tresobeissant seruiteur <persName key="desc004">Descartes</persName>.</p>
+<p>d'<placeName key="egmon001">Egmond</placeName> le <date>15 Juin 1646</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

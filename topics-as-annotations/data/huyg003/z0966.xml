@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0966"/>
+<meta type="date" value="1662-02-04"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0966">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo S.P.D.</p>
+</div>
+<p>De Phaenomenis ne frustrari viderer expectationem tuam, Vir Nobilissime, unius apographum<note n="#1"/> hic mitto. Alterum quoque non multum dissimile, quod imprimis desiderare te testatus es, mittendum sore certus esto, simulatque ex lenta pictoris<note n="#2"/> manu poterit avelli. Tertium penes me servatur, quod anno huius saeculi vicesimo octavo hic terrarum apparuit, classem navalem referens, et formam virilem diadema regium in vertice exhibentem. Illud quoque quominus ad te perveniat, nil arbitror impedire, si iusseris. De quarto cruces nonnullas ostendente, quod Pragae sit spectatum, pictor ipse mecum egit, atque id penes te exstare asseveravit<note n="#3"/>. Percunctabor et alios harum rerum curiosos, si illi quoque forsan studijs tuis prodesse possint.</p>
+<p>A Capellano responsum<note n="#4"/> necdum habui, ad illam epistolam, tuae fidei commissam<note n="#5"/>, qua mittebam epigrammatia nativitati Delphini Gallici<note n="#6"/> a me dedicata; recte tamen curatam fuisse auguror. Nuper epistolas nonnullas ad alios amicos exaratas tibi curandas commisi, quod literas ad rem publicam non pertinentes negligentius a Bisdommero haberi sim expertus. quare ad te confugiendum mihi fuit: quod et ipsum iterata denuo molestia nunc fit: sed tuis vicissim commodis me invigilaturum promitto. Vale.</p>
+<div type="closer">
+<p>Exarabam Holmiae Suecorum. Anno <hi rend="sc">c</hi>I<hi rend="sc">ƆiƆclxii</hi>. a.d. <hi rend="sc">iv</hi> Februarii Gregoriani.</p>
+</div>
+<p>Nobilissimo fratri tuo salutem plurimam meis a te verbis dici cupio. Indignatus sum tersissimae eius elegiae<note n="#7"/>, quam Nasoni meo dedit, naevos nonnullos operarum typographicarum supinitate irrepsisse.</p>
+</div>
+</body>
+</text>
+</TEI>

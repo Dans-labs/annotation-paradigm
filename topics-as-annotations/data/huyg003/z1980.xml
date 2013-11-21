@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1980"/>
+<meta type="date" value="1673"/>
+<meta type="sender" value="beno022"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1980">
+<p>Pour peindre sur le plastre et pour le preserver des injures de l'air.</p>
+<p>dans une pinte d'huile faite cuire et bien mesler une demie livre de cire. Chauffez bien la figure de plastre, et l'y appliquez tout chaud avec une esponge ou grosse brosse.</p>
+<div type="closer">
+<p>du Sr. <persName key="beno022">Benoit</persName> peintre a Paris<note n="#2"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

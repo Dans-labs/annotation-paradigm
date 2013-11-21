@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0932"/>
+<meta type="date" value="1661-12-23"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0932">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce <date>13 Decembre</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>N'ayant pas a ce moment assez de loisir pour vous escrire au long Je vous fais ce mot seulement pour accompagner le papier cy ioynt<note n="#1"/> et pour vous dire que le porteur Monsieur Arel a ordre de vous apporter une autre copie du Chimiste Sceptique<note n="#2"/> puis qu'il semble que l'autre ne vous a pas este rendu. Je pretends vous escrire amplement ce soir par l'ordinaire<note n="#3"/>. Je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

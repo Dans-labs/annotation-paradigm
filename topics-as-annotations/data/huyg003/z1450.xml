@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1450"/>
+<meta type="date" value="1665"/>
+<meta type="sender" value="hudd002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="1446"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1450">
+<p>A en B elck 3 penningen genomen hebbende speelen &amp;c. vrage nae de kans van B<note n="#1"/>.</p>
+<p><figure><graphic url="huyg003oeuv05ill50.gif"></graphic></figure><note n="#2"/></p>
+<p>Traduction:</p>
+<p>&nbsp;</p>
+<p>A et B ayant pris chacun 3 jetons, jouent &amp;c. On demande la chance de B<note n="#3"/>.</p>
+<p><figure><graphic url="huyg003oeuv05ill51.gif"></graphic></figure><note n="#4"/></p>
+</div>
+</body>
+</text>
+</TEI>

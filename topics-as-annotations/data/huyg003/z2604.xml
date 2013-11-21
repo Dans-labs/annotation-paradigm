@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2604"/>
+<meta type="date" value="1690-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="basn002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2604">
+<p>Je vous envoie une lettre de Mr. <persName key="hosp010">le Marquis de Hospital</persName><note n="#3"/> qu'il veut bien qu'elle soit publiée dans vostre Histoire des ouvrages des Scavans, et qui merite d'y occuper une place. Il en explique luy mesme fort nettement le sujet ainsi il n'est pas necessaire que je m'y arreste. Je diray seulement que son raisonnement par lequel il trouve un pendule isochrone à un composé de 2 a 3 [poids] est bon et legitime. Et qu'il a falu beaucoup de justesse d'esprit pour s'y bien conduire la route estant nouvelle et ou il est aisè de s'egarer<note n="#4"/>. qu'il veut que le fondement (Principe) de Mr. <persName>Bernouilli</persName> soit veritable, en ce qu'il montre la raison pourquoy la vitesse totale d'un pendule composè n'est pas egale a la somme des vitesses de ses parties mues separement, comme vouloit Mr. <persName key="cata001">l'Abbé Catelan</persName>. Cette raison est, dit il, par ce que dans le pendule composè une partie du mouvement se perd en faisant effort sur le point fixe, au lieu qu'il ne se perd rien du mouvement des corps mus separement. Il veut donc que lors qu'il se perd du mouvement il y ait une cause. mais ou sera 't elle dans deux corps durs qui se choquent, et dans ces mesmes corps d'ou viendra l'augmentation de mouvement? Ce n'est pas la quantitè de mouvement qui naturellement se conserve, mais la puissance de monter d'ou ils sont descendus ou bien leur centre commun de grav. il faut beaucoup de justesse d'esprit pour ne se pas egarer dans des routes si nouvelles peu communes et si peu sures. Je dis peu sures par ce que qu'il pose certaines choses qui bien que vraies n'ont pas une certitude fort evidente. Ainsi ses conclusions ne seroient pas fort sures non plus. Mais elles sont confirmees par la
+correspondance avec les mienes.</p>
+<p>Personne n'avoit encore trouvè d'autre voie, outre la miene, pour trouver un pendule isochrone a un pend. composè. Car M. Mariotte et le P. Des Chales n'avoient cherchè que le centre de percussion, qu'ils n'ont pas pu demontrer estre le mesme que le centre d'oscillation.</p>
+<p>Cependant et eux et Mr. <persName key="hosp010">le Marquis de l'Hospital</persName> ne sont pas allez plus loin que le pendule isochrone a un composé de poids enfilez a une ligne droite. au lieu que
+ma prop. 5<hi rend="sup">e</hi> est generale pour toute sorte de disposition et de grandeur des poids.</p>
+<p>Bernouilly soutient faussement que quand le centre de grav. monteroit plus haut que d'ou il est descendu, le mouvement perpetuel ne seroit pas donné. page 360 mense Juillet 1686. Corriger 2 ou 3 fautes d'impression dans mon horol. oscill<note n="#5"/>.</p>
+<p>Il n'est pas necessaire de chercher une autre cause de cette perte de mouvement, si non que s'il ne s'en perdoit point, le centre de gravité monteroit plus haut que d'ou il est descendu. Il se perd souvent du mouvement sans cause, c'est a dire sans qu'on puisse dire ce qu'il devient comme dans le chocq de deux corps de sorte que ce n'est pas une loy naturelle que la quantité de mouvement doit demeurer si elle ne se consume a quelque chose. mais la loy est que les corps gardent la force qui fasse monter leur centre commun de gravité a la hauteur d'ou il est descendu.</p>
+</div>
+</body>
+</text>
+</TEI>

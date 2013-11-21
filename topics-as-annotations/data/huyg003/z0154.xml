@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0154"/>
+<meta type="date" value="1653-04-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="lips006"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0154">
+<div type="opener">
+<p><persName key="lips006">Lipstorpio</persName>.</p>
+<p><date>7 Apr. 1653</date>.</p>
+</div>
+<p>Quicunque istis animi atque ingenij dotibus exornati sunt quas in te Vir Praestantissime, haud obscure animadverto eorum ego amicitiam ut aequum est ambire soleo atque omnibus modis demereri, nedum ut ultro delatam avidissime suscipiam atque amplectar.</p>
+<p>Equidem Tibi non mutuum affectum tantummodo debeo sed gratias quoque profecto amplissimas, quod tantis tamque pulchris encomijs decoratum oculis hominum exponere volueris, etsi te videam in his minimum veritati, at plurimum benevolentiae tribuisse. Si specimina tua<note n="#1"/>, si redivivum <persName>Copernicum</persName> laudibus vicissim meritissimis extollam, nolito credere id eo à me fieri quò mutuas vices rependam; ejusmodi enim ista mihi videntur ut vel ab invitis atque invidentibus admirationem sint reportatura, sive floridi styli considero elegantiam, sive rationum rerumque pondera, sive omnium scientiarum omnisque cultioris literaturae copiam uberrimam exquisito judicio digestam. Gratulari lubet manibus illustris Cartesij cui talis contigit virtutum suarum enarrator simulque adversus aliquorum iniquissimas obtrectationes disertissimus vindex. Tam bona causa suscepta, omnes tibi Vir Clarissime eo nomine obstrictos habes, quorum studia divinis suis inventis ille promovit; sed inter hos nemo referendae gratiae magis idoneus Praestantissimo Schotenio nostro. Itaque omnino gaudeo hunc tibi praeceptorem nobilissimae artis contigisse, è quo tot tantaque discere te posse atque jam didicisse scio quae frustra alibi quaesivisses. Nunquam hercule nisi doctior ab eo discessi quotiescunque de communibus studijs sermones miscere licuit, quorum equidem gratia non semel Leidam commeavi at nunc quum denuo adveniam id petam ab ipso inprimis ut ad Humanissimum Lipstorpium me deducat, quocum propiores jungere dextras et de rebus quampluribus communicare dici non potest quantopere id desiderem.</p>
+<p>Itaque Vale Vir Doctissime atque interea absentem amare perge.</p>
+</div>
+</body>
+</text>
+</TEI>

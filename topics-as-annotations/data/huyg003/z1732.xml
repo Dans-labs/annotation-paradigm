@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1732"/>
+<meta type="date" value="1669-05-06"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1732">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ay creu d'estre obligé de vous envoyer vne copie des Transactions de ce mois, y parlant de vous et de vos regles du mouvement, et faisant vn recit<note n="#1"/> de ce qui s'est passé entre vous et nous depuis peu, touchant cete matiere. Je pense d'y auoir precisement raconté la verité du fait, pour donner à vous, aussi bien qu'à Monsieur Wren, ce qui est dû à l'un et l'autre. J'ay mis punctuellement les dates des lettres, qui se sont passées entre vous et moy, et marqué si exactement les circonstances du temps, que personne ne peut dire, que l'un de vous deux aye emprunté quelque chose en cet argument de l'autre. Ceux, qui liront vostre lettre à l'autheur du Journal des Scavans<note n="#2"/>, quand ils rencontreront ces paroles indesinies. <hi rend="i">Apres qu'il les eut receuës</hi>, <hi rend="i">il me renvoya la Theoris de Monsieur Wren</hi>, pourroient penser (au desadvantage de Monsieur Wren) que ie les auois receuës quelque temps considerable auparavant; ce que i'ay tasché de prevenir par ma lettre Latine, ou toutes les particularitez sont, à mon advis, tellement circonstantiées, que personne ne se pourra plaindre auec raison.</p>
+<p>Vous ayant dit cela, permettez moy de vous saire scauoir, que nos amis communs icy le trouuent bon, que vos Instructions touchant l'Usage des horologes à Pendule sur mer, ayans esté traduites en Anglois, et aucunement eslargies et illustrées par Mylord Brouncker et le Chevalier Moray, soient inprimées icy<note n="#3"/>, soubs vostre nom, cela pouvant estre à grand usage au public. Je ne croy pas, que vous y ayez rien à redire.</p>
+<p>Monsieur Cocheret m'a mandé depuis peu, qu'il peut disposer d'une personne à Rouën, qui entre autres choses a trouué les Longitudes; et que Messieurs de l'Academie Royale luy ont desia offert de la part du roy cent soixante mille livres. Je voudrois bien scauoir, si aucuns de ces Messieurs ayent examiné son Invention, qui consiste, à ce qu'on m'a escrit, dans vne demonstration Astronomique, dont ie ne scay pas si on peut esperer beaucoup, quand à la pratique sur mer.</p>
+<p>Si les Horologes à pendule, comme vous les auez adjustees, n'y reussissent, ie
+commenceray à desesperer de la possibilité de la chose. Vous aurez la bonté de nous dire, dans combien de temps vous croyez d'entendre de nouuelles de celle là, que vous auez envoyée vers l'Amerique.</p>
+<p>Discourant l'autre iour auec vne personne, qui a demeuré quelque temps en Hollande, et parlant de vos regles du mouuement, il me dit, que Monsieur Hudden à Amsterdam ayant trouué, que vos regles differoient d'auec celles de Monsieur Des Cartes, s'estoit declaré, que celuy-cy les auoit consideré <hi rend="i">abstracté</hi>, et qu'en cet esgard elles estoient toutes veritables. Quant à moy, ie ne scay pas, quelles idees on peut auoir du mouuement <hi rend="i">abstracté à Corporibus</hi>, puisqu'on n'en peut point imaginer sans corps. Peut estre qu'il a dit ou voulu dire, que Des Cartes n'auoit consideré que <hi rend="i">Corpora perfecté dura</hi>. Je serois tresaise d'entendre de vous mesmes, si vous auez iamais eu de conference sur cela auec ledit sieur Hudden, qui d'ailleurs est habile homme, mais à present tellement employé ès affaires publiques<note n="#4"/>, qu'il ne peut gueres vacquer aux meditations philosophiques. Je suis,</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur
+<lb/><persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 26. Avril 1669.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>à la Bibliotheque du Roy à Paris.
+<lb/>38 β</p>
+</div>
+</body>
+</text>
+</TEI>

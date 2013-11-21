@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2061"/>
+<meta type="date" value="1675-10-07"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2061">
+<div type="opener">
+<p>Londres le 27 Sept. 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>Venant de parler auec Mylord Brouncker il m'a desiré de vous prier de faire haster la seconde montre au possible, et d'auoir soin, qu'elle aye la plus grande perfection, que vous et l'ouvrier luy pouvez donner, elle estant destinée pour son Altesse royale le Duc de York<note n="#1"/> mesme, qui porte astheur dans sa poche celle<note n="#2"/> de Mylord Brouncker; lequel vous prie de plus, de vouloir faire faire le plus promptement que vous pourrez, encor vne demi douzaine de vos montres, et de les envoier icy, ledit Mylord Brouncker engageant sa parole de faire payer pour tout, aussi tost qu'elles seront arrivées icy. Monsieur, vous ne manquerez pas de donner bon ordre à tout ce qui dessus, c'estant fort pour vostre credit.</p>
+<div type="closer">
+<p>Je suis
+<lb/>Monsieur
+<lb/>vostre treshumble serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

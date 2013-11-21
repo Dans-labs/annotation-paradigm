@@ -1,0 +1,120 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXVI"/>
+<meta type="date" value="1646-10-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXVI">
+<div type="comment">
+<p>D'après la copie de de Waard (nous négligeons les différences d'orthographe et plusieurs autres différences où il nous semble que le sens des paroles de la lettre est le même que celui de la minute):</p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="i">au lieu de</hi></cell>
+<cell role="header"><hi rend="i">il faut lire</hi></cell></row>
+<row>
+<cell>T. I p. 24 l. 5-6</cell>
+<cell>Mais voicij ce que je responds à vos objections. Vous dites en premier lieu que...</cell>
+<cell>Premierement donc je respondray à vos objections [conformément à la note <hi rend="i">a</hi>], dont la premiere est que...</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 24 l. 9</cell>
+<cell>toute chose</cell>
+<cell>tout corps</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 24 l. 11</cell>
+<cell>point d'air nij autre empeschement</cell>
+<cell>point d'air</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 24 l. 13</cell>
+<cell>paille ou chose semblable</cell>
+<cell>paille ou matiere plus legere</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 24 l. 14-28</cell>
+<cell>...qu'elles iroient de vistesse egale, à scavoir de celle qu'avoit la chorde de l'arcen retournant en sa premiere posture, et ne cesseroyent jamais, car il n'y a cause imaginable qui les arresteroit; Ie dis donques que tout corps est capable de quelconque vistesse, et que la paille et la laine tirees hors d'un Canon tombent tout court, ne procede d'autre chose que...</cell>
+<cell>qu'elles voleront de vistesses egales et que celle de bois ne devancera point celle de paille; car ayant eu egale vistesse pendant que la cordede l'arc les poussoit encore, il s'ensuit du principe susdit qu'elles la garderont aussi puis apres. Je dis donc qu'in vacuo tous corps sont capables de quelconque vistesse, et que ce que la paille et la laine poussées par une arquebuse tombent presque seulement hors de la bouche du canon, ne procede d'autre cause que...</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell role="header"></cell>
+<cell role="header"><hi rend="i">au lieu de</hi></cell>
+<cell role="header"><hi rend="i">il faut lire</hi></cell></row>
+<row>
+<cell>p. 25 l. 7</cell>
+<cell>la balle</cell>
+<cell>la boule</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 25 l. 11</cell>
+<cell>balle</cell>
+<cell>boule</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 25 note <hi rend="i">b</hi> l. 2</cell>
+<cell>quelque peu haut</cell>
+<cell>quelque peu en haut</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 25 note <hi rend="i">b</hi></cell>
+<cell>la place</cell>
+<cell>sa place</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 25 (l. 12)-26 (l.6)</cell>
+<cell>Or tel...6 a 30.</cell>
+<cell>Cet alinéa de la minute ne se trouve pas dans la lettre, comme d'ailleurs le fait comprendre la note <hi rend="i">b</hi>.</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 26 l. 9-10</cell>
+<cell>Car comme le temps par AB a esté egal au temps par BC ainsi le temps par AD a esté egal au temps par DG.</cell>
+<cell>Car comme le temps par AB a esté le premier et par BC le second, ainsi le temps par AC a esté le premier et par CE le second, et par AD le premier, par DG le second.</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 27 l. 11-9 d'en bas.</cell>
+<cell>Et ie ne trouve point d'autres progressions qui ayent quelque regularité, et la proprieté requise que cellecy. Et pour cela je croij qu'il n'y a point d'ordre du tout, ou que c'est celuy de ces nombres impairs.</cell>
+<cell>Et parce que je ne trouve point d'autres progressions qui ayent cette proprieté requise, et outre cela quelque regularité, je croij pour certain que c'est cellecy.</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 27 l. 4-3 d'en bas</cell>
+<cell>...in vacuo le mouvement donné au missile qui le fait aller de costé de vistesse egale, ne cessera jamais si quelque chose ne l'empesche;</cell>
+<cell>...in vacuo le mouvement horizontale demeurera tousjours uniforme tant que quelque chose ne l'empesche;</cell></row>
+<row>
+<cell cols="3"></cell></row>
+<row>
+<cell>p. 28 l. 8-9</cell>
+<cell>Vostre humble.
+<lb/>Christien Huygens</cell>
+<cell>Vostre tres humble serviteur
+<lb/>Chrestien Huygens.</cell></row>
+</table></p>
+</div>
+<div type="opener">
+<p>à Leiden le 28 d'octobre 1646.</p>
+</div>
+</div>
+<div type="para">
+<p>Au Reuerend Pere Le R.P. Marin Mersenne Religieux Minime au Couuent de la place Royale A Paris. Port quatre sols.</p>
+</div>
+</body>
+</text>
+</TEI>

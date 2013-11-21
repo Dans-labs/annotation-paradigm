@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1632"/>
+<meta type="date" value="1668-03-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1632">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 29 Mars 1668.</p>
+</div>
+<p>Je n'ay rien receu par le dernier ordinaire ce qui me fait croire que Mon Pere n'est pas encore de retour<note n="#1"/>. Je luy ay adressè 2 ou 3 livres parmy lesquels il y a un Poeme de la Peinture<note n="#2"/>; c'estoit un secretaire de l'ambassadeur de Venise qui s'en chargea. Je vous prie de me mander s'ils sont arrivez parce qu'il m'importe. Voicy une lettre<note n="#3"/> de Suseke Caron pour ma soeur<note n="#4"/>, que je luy eusse envoiè moy mesme si j'eusse eu loisir de luy escrire.</p>
+<p>J'ay veu la lettre que Leen Pergens<note n="#5"/> luy a escrite, qui ne contient rien du tout qui vous regarde, et n'est qu'un compliment sur ce qu'un de ses amis (c'est son frere<note n="#6"/>) luy avoit mandè que cette belle luy avoit dit du bien d'elle. Madame de Buat<note n="#7"/> m'a dit une nouvelle considerable touchant le Cousin M. Zuerius<note n="#8"/> et Jonker Jan van Raesveldt<note n="#9"/> dont je m'estonne que vous ne m'avez rien mandè, et je vous en demande les particularitez.</p>
+<p>Je n'ay pas encore fait commencer a travailler a ma Cariole<note n="#10"/> quoyque j'en aye desia parlè a 2 charrons; tant parce que je n'ay pu demeurer d'accord avec eux du prix, qui monte pour le train a 24 ou 22 escus que parce que j'ay commencè a mediter quelque remede aux branslement de costè qui changeroit en quelque facon la construction. J'ay tousjours peur que comme il arrive souvent aux inventeurs, vous ne sentiez pas assez l'incommoditè de ce bransle, et j'attens ce que vous en direz dans vostre response a ma derniere<note n="#11"/>. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huijgens de Zulichem</persName>
+<lb/>A la Haye.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

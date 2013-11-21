@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1924a"/>
+<meta type="date" value="1673-02-26"/>
+<meta type="sender" value="gall047"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a1924">
+<p>Comme vous auez le principal interest, Monsieur, a un ecrit que Monsieur de la Reynie<note n="#1"/> m'envoia hier pour scavoir de moy si je juge qu'on le puisse imprimer, i'ay trouué à propos de vous le communiquer. Je vous supplie de le voir, et si vous auez quelque auis à me donner là dessus, vous m'obligerez de me le mander. Au reste je ne diray point que je vous aye fait voir cet ecrit, parce qu'il est à propos que l'on voye qu'il s'est fait à vostre insceu. Je suis Monsieur, vostre tres humble et tres obeissant seruiteur</p>
+<div type="closer">
+<p><persName key="gall047">Galloys</persName>.</p>
+<p>Ce dimanche 26 février.</p>
+</div>
+<p>Dans le dernier Journal d'Angleterre que je receus hier, il y a une maniere de trouuer les tangentes des lignes courbes<note n="#2"/>, qui est ce me semble, la mesme que vous proposastes il y a cinq ans à l'Academie<note n="#3"/>. J'ay cru que ie deuois vous en donner auis, de peur que vous n'ayez pas encore vû ce Journal.</p>
+</div>
+<div type="para">
+<p>Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

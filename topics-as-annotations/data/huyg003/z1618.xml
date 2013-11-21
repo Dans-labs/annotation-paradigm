@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1618"/>
+<meta type="date" value="1668-01-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1618">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 6 Janvier 1668.</p>
+</div>
+<p>Je ne scay pas si vous estes de retour de Zuylichem, mais je le souhaite, afin que vous puissiez aider Monsieur de Gent<note n="#1"/> de vos avis en ce qui regarde l'essay des horologes qu'il s'est proposè de faire. L'on en fera bientost autant icy<note n="#2"/> comme je pense vous avoir desia mandè<note n="#3"/>. Un homme qui a estè avec Monsieur de Ruijter a son voiage de Guinée et Terra Nova<note n="#4"/> a dit a Thuret<note n="#5"/>, que dans son vaisseau il avoit eu une Pendule, mais a ce qu'il a pu comprendre elle n'estoit point suspendue; aussi ne s'en estoit ils pas servi fort utilement au rapport de cette personne. Si vous en pouuiez scavoir plus de particularitez j'en serois bien aise; et peut estre j'en apprendray par le moyen du Sieur de Mortagne<note n="#6"/> que mon Pere dit devoir accompagner Monsieur van Beuningen<note n="#7"/>. Il y a d'autres gens icy qui se disent avoir l'invention des Longitudes, et en ont parlè a Monsieur <persName key="colb012">Colbert</persName>. Monsieur van Gangel<note n="#8"/> est un des Interessez, quoi qu'ignorant encore le secret, qu'il dit estre trouuè
+par des gens en Hollande. <seg org="Pcut" resp="#AD" type="corr">Peut</seg> estre auront ils fait la proposition a Messieurs les Etats aussi bien qu'icy, ce que je vous prie de scavoir.</p>
+<p>Ils parlent de leur Invention comme d'une chose nullement douteuse, et ne semblent estre en peine seulement, que de quelle maniere ils feront bien leur traitè avec le Roy pour leur avantage et assurance. Ils demandent 50 mille escus une fois et 10 mille livres de rente.</p>
+<p>Vostre invention de l'arc ne feroit pas l'effect que vous pensez en y suspendant une horologe. J'ay bien songè cy devant a quelque chose de semblable, mais je scay que le chocq d'un vaisseau ne peut estre si subit qu'il soit besoin d'y chercher remede, je dis pour celuy de haut en bas.</p>
+<p>Pour l'employ que vous donnez aux arcs dans vos Carioles, je vous ay dit cy devant<note n="#9"/>, pour quoy je croiois qu'ils ne plieroient pas bien. I'ay songè depuis qu'il vaudroit mieux attacher sur vostre aissieu deux flesches pliantes AB, et deux autres CD, un peu plus haut, appuiees sur ces premieres par les pieces CA, DB. Et la chaise sur les flesches CD. Vous auriez par ce moyen un pliement double car les flesches de dessus et dessous plieroient librement toutes deux se courbant comme dans cette figure. Vous y pourrez penser et en entendre l'avis du frere de
+<figure><graphic url="huyg003oeuv06ill29.gif"></graphic></figure>
+Moggershill<note n="#10"/> Surintendant des Carosses.</p>
+</div>
+</body>
+</text>
+</TEI>

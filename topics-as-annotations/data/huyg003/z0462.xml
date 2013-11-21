@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0462"/>
+<meta type="date" value="1658-02-19"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0461"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0462">
+<p>Inuenire cubum qui additus omnibus suis partibus aliquotis conficiat quadratum<note n="#1"/>. Exempli gratia: numerus 343 est cubus a radice 7. partes eius aliquotae
+sunt 1. 7. 49 quae adiunctae ipsi 343 conficient 400 quadratum a latere 20. Quaeritur alius cubus eiusdem naturae.</p>
+<p>Quaeritur etiam numerus quadratus qui additus omnibus suis partibus aliquotis conficiat numerum cubum &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

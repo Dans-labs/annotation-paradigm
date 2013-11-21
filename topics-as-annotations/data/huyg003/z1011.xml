@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1011"/>
+<meta type="date" value="1662-05-05"/>
+<meta type="sender" value="peti033"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1011">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 5 May 1662.</p>
+</div>
+<p>Je supplye treshumblement Monsieur Huygens de me faire la faueur de Respondre a la lettre<note n="#1"/> que je luy ay escrit jl y a quelque temps &amp; de me Mander en
+outre si la Verge des Palettes de son pendule de 3 pieds est suspendue par vn filet comme lon fait icy dordinaire celles des grands horloges, ou bien si elle porte sur des piuots comme aux petites Montres. Parce que la mienne de Mon grand pendule est suspendue de la sorte &amp; ne porte point sur aucun piuot mais seulement tourne dans des trous ronds &amp; lequel jl croit le Meilleur. de plus Je demande son sentiment scauoir si les palettes estant percees a jour sont Pires ou Meilleures que si elles estoient plaines a lordinaire. Et sil croit que le deffault de Mon pendule qui ne va point puisse encore venir de la. Enfin ne pouuant trouuer par quelle Cause jl ne va point Je ny scaurois apporter de Remede &amp; je seray peutestre Contraint de luy remettre vn balancier.</p>
+<p>Nous auons Maintenant dexcellentes lunettes de 26 pieds sans en auoir pourtant fait aucunes obseruations sur Saturne, Monsieur Despagnet<note n="#2"/> les a faites et essayees sur terre auec vn Oculaire Conuexe moindre que 3 pouces de focus, Messieurs Theuenot, Auzout &amp; Moy en auons essaye beaucoup de 12 &amp; 15 pieds sur Venus de fort bonnes mais sans auoir jamais pu descouurir aucune dentelure ny Eminence.</p>
+<p>Je nay point veu ce quon a escrit<note n="#3"/> d'jtalie contre vous ny ce que vous y auez respondu<note n="#4"/>. Vous Mobligerez de men faire Part ce sujet meritant bien destre esclaircy &amp; vos obseruations garanties de tout reproche.</p>
+<p>Je vous ay enuoyé<note n="#5"/> deux Morceaux de Miroirs polys. Je souhaitte quils vous puissent seruir a ce que vous desirez.</p>
+<p>Monsieur le Marquis Durazzo<note n="#6"/> &amp; sa compagnie M'ont fait lhonneur de Mescrire quils vous auoient veu &amp; M'ont enuoyé la selenographie<note n="#7"/> dHeuelius que je leur auois demande. mais jl y a quelques autres petits traittez que jeusse bien souhaitté qui y eussent esté joins comme le Systeme de Saturne<note n="#8"/> et l'eclipse<note n="#9"/> de 1656<note n="#10"/> le Mercurius &amp; luna in sole<note n="#11"/> dont ils m'ont enuoyé seulement les titres. si vous trouuez quelque occasion de me les faire tenir par les libraires Vous Mobligerez. Jattendray a faire relier le gros liure que jaye ramassé tous ces petits.</p>
+<p>Nous attendons aussi tous les jours auec jmpatience la Continuation de vos Experiences, cepandant Ma femme Ma fille &amp; Moy vous asseurons de nostre grand seruice.</p>
+<div type="closer">
+<p><persName key="peti033">P. Petit</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huggens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

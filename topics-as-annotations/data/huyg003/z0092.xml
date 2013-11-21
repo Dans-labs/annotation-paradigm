@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0092"/>
+<meta type="date" value="1651-03-31"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0092">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>Schoon ick ledich tot u kom, doch met vergeselscapping van des Magisters Lipstorpij specimina<note n="#1"/>, met dewelcke hij<note n="#2"/> sich wenst te mogen insinueren in UE goede gratie en gonst, met vertrouwen hem deselue van UE niet en sal werden geweijgert, maer veel eer daer in geobsigneert: soo heb ick echter niet konnen naerlaten UE te getuijgen sijn sonderling goet humeur, lieftallickheid, ende goede qualiteyten, met dewelcke dan mede vergeselschapt gaet syne uijtnemende beleeftheidt. Op dat hij, die UE kennis voor allen dingen praefereert en hooch acht, des te onbeschroomder een vrijen toeganck tot u hebben mocht, so wanneer hij sich de eer vermeint te geven, van UE in den Hage te gaen besoucken.</p>
+<p>Sende UE hier bij mede een klein bouckjen de Praedestinatio Divina,<note n="#3"/> het
+welck mij van den Autheur<note n="#4"/> gelangt is, om aen Dominus <persName>Batelier</persName><note n="#5"/> (Remonstrants Predicant in S'Gravenhage) eertijts mijn meester, met eenen te senden. Dewelcke so ick vertrouwe woont in het west einde. VE kan soo t'hem belieft daer eerst syn contentement van nemen, van t'selue te doorlesen, daer in dan den Autheur, als UE sien sult, heel Philosophisch is; ende daer naer aen Dominus <persName>Batelier</persName> doen behandigen. Eindigende sal naer mijne recommandatie aen UE, Mijn Heer u Vader, en Broeder verblijven</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>UE altyt dienstwilligen en toegedaenen dienaer <persName key="scho197">Fr. van Schooten</persName>.</p>
+<p>Uijt <placeName key="leide001">Leyden</placeName> den <date>31 Maert 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Huigenius</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>in S'graven-hage. Op t' plein.
+<lb/>Cito port
+<lb/>met een packien geteeckent
+<figure rend="inline"><graphic url="huyg003oeuv01fi05.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

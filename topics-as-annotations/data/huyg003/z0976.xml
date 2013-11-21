@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0976"/>
+<meta type="date" value="1662-02-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0976">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 10 Fevrier 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Apres avoir examinè la demonstration de Monsieur le Mylord <persName key="brou051">Brouncker</persName><note n="#1"/>, je m'asseure qu'il ne m'en voudra point de mal si je dis ingenuement ce qui m'en semble, qui est qu'elle ne prouue nullement mon Theoreme de l'egalitè des temps des descentes dans la Cycloide, et que tout son raisonnement qui tend a cela ne contient rien de vray. Car ayant construit sa courbe H<hi rend="i">d</hi>X des droites infinies egales
+<figure><graphic url="huyg003oeuv04ill15.gif"></graphic></figure> H<hi rend="i">b</hi>, <hi rend="i">bd</hi>, <hi rend="i">df</hi> &amp;c. en sorte que les hauteurs perpendiculaires de leur inclinaisons soient en progression arithmetique, et laissant rouler sa boule depuis X, il veut que les lignes X<hi rend="i">h</hi>, <hi rend="i">hf</hi>, <hi rend="i">fd</hi>, <hi rend="i">db</hi>, <hi rend="i">b</hi>H soient parcourues toutes en temps egaux, ce qu'il n'a pas legitimement demonstrè, ny ne le pourra jamais faire, par ce qu'il est tres faux. Il en suivroit qu'ayant divisè la courbe en deux parties egales comme en L, la boule emploieroit de temps egaux a parcourir XL, et LH en venant de X, la ou j'ay demonstrè qu'en divisant egalement le diametre intercepté OH en N et menant l'ordonnée NM, les temps par XM, et MH seront egaux, dont la partie XM sera tousjours plus courte que MH. Mais pour vous faire veoir en quoy il s'est abusè, c'est qu'il suppose que le temps de la descente par le plan X<hi rend="i">h</hi>, a commencer de X, est la 5<hi rend="sup">e</hi> partie du temps par <hi rend="i">b</hi>H, à commencer la
+cheute depuis <hi rend="i">b</hi>, par ce que la hauteur de la perpendiculaire X<hi rend="i">j</hi> est quintuple de <hi rend="i">ba</hi>, les lignes X<hi rend="i">h</hi> et <hi rend="i">ba</hi><note n="#2"/> estant egales. Il suppose cette consequence disje sans la prouuer, et aussi n'est elle point veritable. Quelque peu apres il conclud que la boule en descendant du point X, et estant arrivè en <hi rend="i">h</hi>, elle y aura la mesme vistesse qu'elle avoit en X, ce que je n'entens pas comment il peut concevoir, puis qu'en X elle n'avoit nulle vistesse, et qu'en descendant de là elle passe par tous les degrez de tarditè, selon les principes que je suis. Desquels je voy qu'il tombe d'accord, à sçavoir qu'en temps egaux les degrez de vistesse s'augmentent egalement, qui est la seule chose que je suppose, ou que je demonstre plustost, car ma premiere supposition est encore plus simple. Et voyla Monsieur, pour vous faire veoir que tout ce qui ressemble a des demonstrations mathematiques ne l'est pas pour cela. Lors que j'estois l'hyver passè a Paris, Monsieur Auzout qui est fort bon geometre me donna aussi une demonstration du mesme Theoreme qui estoit pareillement fausse, de sorte que le Mylord <persName key="brou051">Brouncker</persName> verra qu'il n'est pas le seul qui s'y soit trompè, que s'il veut continuer a chercher la veritable il apprendra, soit qu'il la trouue ou non, qu'elle est assez mal aisée. Quant à l'autre partie de sa demonstration qui est pour prouuer que la ligne proposée est une Cycloide il y a un endroit ou elle me semble defectueuse, ou il est dit, <hi rend="i">and therefore</hi><note n="#3"/> AH. HI∷Δ EMD. Δ E<hi rend="i">ϰu</hi>, car je ne scay pas d'ou il tire cette consequence. Pourtant je ne doute
+pas que la proposition ne soit vraye<note n="#4"/>. La proprieté de la Cycloide, de ce que par son evolution, il se descrit une courbe pareille n'estoit pas difficile a demonstrer apres que Monsieur Wren a decouuert la dimension de cette ligne, mais a trouuer methodiquement la dite proprietè comme j'ay fait, il y avoit plus de peine. Il me fasche que je ne sçaurois encore donner au public le traitè de l'horologe ou j'ay escrit de toutes ces choses.</p>
+<p>Les experiences du vuide et la construction de la machine m'ont emportè beaucoup de temps, comme encore plusieurs autres choses, pour vaquer a toutes les quelles il faudroit avoir plus d'un corps. J'espere que Monsieur Southwel sera ensin arrivè a Londres et que par luy vous aurez receu ma lettre<note n="#5"/> ou j'ay rapportè quelques unes des dites experiences. La plus considerable est celle que je vous envoyay l'autre semaine<note n="#6"/>, de la quelle je ne sçaurois encore veoir la fin, d'autant que je n'ay pas des tuyaux de 4 pieds et d'avantage, et qu'il seroit mesme mal aisè, les ayant, de m'en servir, a faute de ceux la j'ay essayè avec l'argent vif s'il demeureroit suspendu dans le tuyau comme l'eau après que le recipient est vuide; mais tousjours je l'ay vu descendre mesme dans des tuyaux qui
+n'avoient que la hauteur de 2 pouces et moins. Je doute si ce n'est pas a cause que je ne le scaurois assez parfaitement purger d'air, encore qu'il n'y en reste point qui soit visible.</p>
+<p>Pour establir la mesure universelle, il est superflu a mon avis de rechercher la puretè de l'argent ou mesme de faire quelque difference des metaux, parce qu'il n'importe pas que par tout on se serve du mesme. Aussi n'est-il pas necessaire ou mesme expedient d'arrester une proportion precise<note n="#7"/> entre le diametre de la boule et la longueur du pendule, (comme vous dites d'un a 54) cela ne pouuant seruir qu'a rendre la pratique de cette mesure plus difficile, car il faudra plus d'une fois refaire vostre boule. Et je scay par experience que pour avoir un pendule dont chaque vibration soit de demie seconde, il suffit de faire en sorte que le diametre de la boule soit moindre seulement que la 6<hi rend="sup">e</hi> partie de la hauteur du pendule, et qu'il est tout un si la boule est de plomb, d'yvoire ou de cristal, quand on ne prend que les petites vibrations. Ainsi ce seroit assez aussi de determiner pour la longueur du pendule de secondes que le diametre de la boule n'en excedast pas la 20<hi rend="sup">me</hi> ou peut estre le 10<hi rend="sup">me</hi> partie, et que d'autre costè il ne fut pas moindre que le 50<hi rend="sup">me</hi> ou 60<hi rend="sup">me</hi> partie, afin de prevenir qu'elle ne fut trop legere.</p>
+<p>Si j'avois un copiste a la main je vous envoyerois maintenant la table pour l'equation du temps. Tous les jours y sont marquez ce qui fait qu'elle demande plus de loisir a estre copiee que je n'en ay a present. Ce sera donc pour l'ordinaire prochain s'il vous plaist, et alors je vous feray aussi part des divisions qu'il faut marquer sur la verge du pendule, pour en haussant ou baissant le petit plomb mobile accelerer ou retarder son mouuement d'une quantitè donnée, comme d'une minute ou 2, ou autant de secondes par jour, ce qui est si necessaire pour ajuster l'horologe que sans cela je le croy impossible. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant Seruiteur <persName key="huyg003">Christian Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>For Mr. <persName>Blair</persName>, Marchand at the Sign of S. Andreu in Rood Lane.
+<lb/>To deliuer to Sir <persName key="mora019">Robert Moray</persName>.
+<lb/>London.
+<lb/>8 d.</p>
+</div>
+</body>
+</text>
+</TEI>

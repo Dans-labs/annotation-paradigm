@@ -1,0 +1,431 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,False}}
+{{extend 'layout.html'}}
+
+
+<script src="{{=URL('static','jscolor/jscolor.js')}}"></script>  
+
+{{
+selectablefeatures = 20
+fdefvalues = {
+1: {'show': 'false', 'showb': 'false', 'name': 'language', 'fvalue': 'Hebrew', 'color': 'F0F0F0', 'bcolor': 'FFFFFF'} ,
+2: {'show': 'true', 'showb': 'false', 'name': 'gender', 'fvalue': 'feminine', 'color': 'FF40CC', 'bcolor': 'FFFFFF'} ,
+3: {'show': 'true', 'showb': 'false', 'name': 'gender', 'fvalue': 'masculine', 'color': '4040FF', 'bcolor': 'FFFFFF'} ,
+4: {'show': 'true', 'showb': 'false', 'name': 'phrase_dependent_part_of_speech', 'fvalue': 'verb', 'color': '12A320', 'bcolor': 'FFFFFF'} ,
+5: {'show': 'false', 'showb': 'true', 'name': 'tense', 'fvalue': 'perfect', 'color': '000000', 'bcolor': '73F6FF'} ,
+6: {'show': 'false', 'showb': 'true', 'name': 'tense', 'fvalue': 'imperfect', 'color': '000000', 'bcolor': 'EFFFAD'} ,
+7: {'show': 'false', 'showb': 'true', 'name': 'noun_type', 'fvalue': 'proper', 'color': '000000', 'bcolor': 'F0F0DA'} ,
+}
+for n in range(8,21):
+	fdefvalues[n] = {'show': 'false', 'showb': 'false', 'name': '...', 'fvalue': 0, 'color': '000000', 'bcolor': 'FFFFFF'}
+}}
+{{pass}}
+
+
+<script language="javascript">
+
+var book = {};
+{{for b in booklist:}}book[{{=b[0]}}] = {{=b[2]}};
+{{pass}}
+
+function fillchapter(bookid) {
+   var chapterselect = document.getElementById('chapterselect');
+   options = "";
+   options += "<option value=0>...</option> ";
+   for (var i = 1; i <= book[bookid]; i = i + 1) {
+    options += "<option value=" + i + ">" + i + "</option> ";
+   }
+   chapterselect.innerHTML = options;
+}
+
+function getbook(){
+   var x = document.study.book.selectedIndex;
+   return document.study.book.options[x].value;
+}
+
+function submitchapter() {
+    document.study.submit();
+}
+</script>
+
+<script language="javascript">
+var features = {
+{{for fn, fvals in sorted(features.items()):}}
+	'{{=fn}}' : { {{for fv, fid in sorted(fvals.items()):}}
+		'{{=fv}}' : {{=fid}},{{pass}}
+	},{{pass}}
+}
+
+var fhighlights = {}
+{{for fn, fvals in sorted(featureshl.items()):
+sep = ''
+}}
+fhighlights[{{=fn}}] = [{{for fv in fvals:}}{{=sep}}'{{=fv}}'{{sep=","}}{{pass}}]{{pass}}
+
+</script>
+
+<script language="javascript">
+
+function getNumberOfSelectableFeatures() {
+  return {{=selectablefeatures}}
+}
+
+function fillvalues (i) {
+	var fnameo = document.getElementById("featureName_" + i)
+	var fvalo = document.getElementById("featureValue_" + i)
+
+	var x = fnameo.selectedIndex
+	var fname = fnameo[x].value
+
+	var fvalues
+	if (fname == "0") {
+		fvalues = { '...' : 0}
+	}
+	else {
+		fvalues = features[fname]
+	}
+
+	var valuestr = ""
+	for (var v in fvalues) {
+		valuestr += "<option value='" + v + "'>" + v + "</option>\n"
+	}
+	fvalo.innerHTML = valuestr
+}
+
+function dofhighlight (oaid, doc, givencolor, dobc, givenbcolor) {
+    var wordlist = fhighlights[oaid]
+    for (var w in wordlist) {
+        var wn = wordlist[w]
+        var wo = document.getElementById(wn)
+		if (doc) {
+        	wo.style.color = '#'+givencolor;
+		}
+		if (dobc) {
+        	wo.style.backgroundColor = '#'+givenbcolor;
+		}
+    }
+}
+
+function unfhighlight () {
+	for (var fid in fhighlights) {
+		dofhighlight(fid, true, '000000', true, 'FFFFFF')
+	}
+}
+
+function featureChanged() {
+  unfhighlight()
+  for (var idx=1; idx <= getNumberOfSelectableFeatures(); idx++) {   
+	var show = $('#featureShow_'+idx).is(":checked");
+	var showb = $('#featureShowb_'+idx).is(":checked");
+	var name = $('#featureName_'+idx).val();
+	var fvalue = $('#featureValue_'+idx).val();
+	var color = $('#featureColor_'+idx).val();
+	var bcolor = $('#featureBColor_'+idx).val();
+	if (name != "0") {
+		var fvid = features[name][fvalue]
+		if (fvid != "0") {
+			dofhighlight(fvid, show, color, showb, bcolor);
+		}
+	}
+  }    
+}
+
+function initfvalues () {
+	  for (var idx=1; idx <= getNumberOfSelectableFeatures(); idx++) {   
+	  	fillvalues(idx)
+	  }
+}
+
+function defaultsettings (carryout) {
+/*
+Sets the highlighting configuration to the default value, and
+if carryout = true, applies the that highlighting.
+
+In most cases you call defaultsettings(true).
+
+However, defaultsettings(false) is called once before the words to be highlighted have been rendered.
+In that case no attempt to highlight them will be made.
+When all the words are loaded, an unconditional highlight instruction must be given.
+This is done by featureChanged() at the end of the <div> that contains the words.
+*/
+	{{for i in range(1,selectablefeatures+1):}}
+			document.study.show_{{=i}}.checked = {{=fdefvalues[i]["show"]}}
+			document.study.showb_{{=i}}.checked = {{=fdefvalues[i]["showb"]}} 
+			document.study.color_{{=i}}.value = "{{=fdefvalues[i]["color"]}}"
+			document.study.bcolor_{{=i}}.value = "{{=fdefvalues[i]["bcolor"]}}"
+			document.study.fname_{{=i}}.value = "{{=fdefvalues[i]["name"]}}"
+			fillvalues({{=i}})
+			document.study.fvalue_{{=i}}.value = "{{=fdefvalues[i]["fvalue"]}}"
+	{{pass}}
+	if (carryout) {
+		featureChanged()
+	}
+}
+
+var memsettings = []
+
+function offsettings () {
+	{{for i in range(1,selectablefeatures+1):}}
+			memsettings[{{=i}}] = {}
+			memsettings[{{=i}}]['show'] = document.study.show_{{=i}}.checked
+			document.study.show_{{=i}}.checked = false
+			memsettings[{{=i}}]['showb'] = document.study.showb_{{=i}}.checked
+			document.study.showb_{{=i}}.checked = false
+	{{pass}}
+	featureChanged()
+}
+
+function lastonsettings () {
+	{{for i in range(1,selectablefeatures+1):}}
+			if (memsettings[{{=i}}]) {
+				document.study.show_{{=i}}.checked = memsettings[{{=i}}]['show'] 
+				document.study.showb_{{=i}}.checked = memsettings[{{=i}}]['showb'] 
+			}
+	{{pass}}
+	featureChanged()
+}
+
+function showsettings () {
+	var fstr = ''
+	{{for i in range(1,selectablefeatures+1):}}
+			fstr += document.study.show_{{=i}}.checked + ','
+			fstr += document.study.showb_{{=i}}.checked + ','
+			fstr += document.study.color_{{=i}}.value + ','
+			fstr += document.study.bcolor_{{=i}}.value + ','
+			fstr += document.study.fname_{{=i}}.value + ','
+			fstr += document.study.fvalue_{{=i}}.value + "\n"
+	{{pass}}
+	var so = document.getElementById('hlsettings')
+	var ss = document.getElementById('showsettings')
+	var sd = document.getElementById('hidesettings')
+	var sa = document.getElementById('applysettings')
+	so.style.display = 'block'
+	ss.style.display = 'none'
+	sd.style.display = 'inline'
+	sa.style.display = 'inline'
+
+	so.value = fstr
+	so.focus()
+	so.select()
+}
+
+function hidesettings () {
+	var so = document.getElementById('hlsettings')
+	var ss = document.getElementById('showsettings')
+	var sd = document.getElementById('hidesettings')
+	var sa = document.getElementById('applysettings')
+	so.style.display = 'none'
+	ss.style.display = 'inline'
+	sd.style.display = 'none'
+	sa.style.display = 'none'
+}
+
+function applysettings () {
+	var so = document.getElementById('hlsettings')
+	var ss = document.getElementById('showsettings')
+	var sd = document.getElementById('hidesettings')
+	var sa = document.getElementById('applysettings')
+	so.style.display = 'block'
+	ss.style.display = 'none'
+	sd.style.display = 'inline'
+	sa.style.display = 'inline'
+
+	var freshvalues = []
+	var fstr = so.value
+	var lines = fstr.split("\n")
+	for (var l in lines) {
+		var line = lines[l]
+		var fields = line.split(",")
+		freshline = {
+			'show': fields[0] == 'true',
+			'showb': fields[1] == 'true',
+			'color': fields[2],
+			'bcolor': fields[3],
+			'fname': fields[4],
+			'fvalue': fields[5]
+		}
+		freshvalues[l] = freshline
+	}
+	{{for i in range(1,selectablefeatures+1):}}
+		document.study.show_{{=i}}.checked = freshvalues[{{=i-1}}]['show']
+		document.study.showb_{{=i}}.checked = freshvalues[{{=i-1}}]['showb']
+		document.study.color_{{=i}}.value = freshvalues[{{=i-1}}]['color']
+		document.study.bcolor_{{=i}}.value = freshvalues[{{=i-1}}]['bcolor']
+		document.study.fname_{{=i}}.value = freshvalues[{{=i-1}}]['fname']
+		fillvalues({{=i}})
+		document.study.fvalue_{{=i}}.value = freshvalues[{{=i-1}}]['fvalue']
+	{{pass}}
+	featureChanged()
+}
+
+</script>
+
+<div>
+<form name="study" action="{{=URL()}}" method="post">
+<table width="100%">
+    <tr height="100%">
+        <td width="25%">
+			<h1 class="columntitle">Word features</h1>
+			<a href="javascript:void(0)" onclick="defaultsettings(true)">default</a>
+			<a href="javascript:void(0)" onclick="offsettings()"> | off</a>
+			<a href="javascript:void(0)" onclick="lastonsettings()"> | last on</a>
+			<a href="javascript:void(0)" onclick="showsettings()" id="showsettings" style="display: inline;"> | show</a>
+			<a href="javascript:void(0)" onclick="hidesettings()" id="hidesettings" style="display: none;"> | hide</a>
+			<a href="javascript:void(0)" onclick="applysettings()" id="applysettings" style="display: none;"> | apply</a>
+			<textarea id="hlsettings" rows="22" style="width: 100%; display:none;" wrap="off"></textarea>
+			<div class="scroll" id="featurel">
+			<table>
+				<tr>
+					<td width="5%">&nbsp;</td>
+					<td width="10%">fg</td>
+					<td width="5%">&nbsp;</td>
+					<td width="10%">bg</td>
+					<td width="30%">feature</td>
+					<td width="40%">value</td>
+				</tr>
+				{{for i in range(1,selectablefeatures+1):}}
+				<tr>
+					<td width="5%">
+						<input id="featureShow_{{=i}}" name="show_{{=i}}" class="flex" type="checkbox" onclick="featureChanged()"/>
+					</td>
+					<td width="10%">
+						<input id="featureColor_{{=i}}" name="color_{{=i}}" class="color" value="000000" onchange="featureChanged()">
+					</td>
+					<td width="5%">
+						<input id="featureShowb_{{=i}}" name="showb_{{=i}}" class="flex" type="checkbox" onclick="featureChanged()"/>
+					</td>
+					<td width="10%">
+						<input id="featureBColor_{{=i}}" name="bcolor_{{=i}}" class="color" value="FFFFFF" onchange="featureChanged()">
+					</td>
+					<td width="30%">
+						<select id="featureName_{{=i}}" name="fname_{{=i}}" class="flex" onchange="fillvalues({{=i}})">
+							<option value="0">...</option>
+							{{for fn in sorted(features.keys()):}}
+							<option value="{{=fn}}">{{=fn}}</option>
+							{{pass}}
+						</select>
+					</td>
+					<td width="40%">
+						<select id="featureValue_{{=i}}" name="fvalue_{{=i}}" class="flex" onchange="featureChanged()">
+						</select>
+					</td>
+				</tr>
+				{{pass}}
+			</table>
+			</div>
+			<script language="javascript">
+				initfvalues()
+				{{if request.vars["color_1"]:
+					pass
+				  else:
+				}}
+				defaultsettings(false)
+				{{pass}}
+				{{for i in range(1,selectablefeatures+1):}}
+					{{if request.vars["show_"+str(i)]: }}
+						document.study.show_{{=i}}.checked = true
+					{{pass}}
+					{{if request.vars["showb_"+str(i)]: }}
+						document.study.showb_{{=i}}.checked = true
+					{{pass}}
+					{{if request.vars["color_"+str(i)]: }}
+						document.study.color_{{=i}}.value = "{{=request.vars["color_"+str(i)]}}"
+					{{pass}}
+					{{if request.vars["bcolor_"+str(i)]: }}
+						document.study.bcolor_{{=i}}.value = "{{=request.vars["bcolor_"+str(i)]}}"
+					{{pass}}
+					{{if request.vars["fname_"+str(i)]: }}
+						document.study.fname_{{=i}}.value = "{{=request.vars["fname_"+str(i)]}}"
+						fillvalues({{=i}})
+					{{pass}}
+					{{if request.vars["fvalue_"+str(i)]: }}
+						document.study.fvalue_{{=i}}.value = "{{=request.vars["fvalue_"+str(i)]}}"
+					{{pass}}
+				{{pass}}
+			</script>
+        </td>
+        <td width="50%" id="bodyc">
+            <p><select name="book" onchange="fillchapter(getbook())" class="book">
+            {{for b in booklist:}}{{=OPTION(str(b[1]), _value=str(b[0]))}}
+            {{pass}}
+            </select>
+
+            <select id="chapterselect" name="chapter" onchange="submitchapter()" class="num">
+            </select></p>
+<script language="javascript">
+{{if book: }}
+    document.study.book.value = {{=book}};
+    fillchapter({{=book}});
+    {{if chapter: }}
+        document.study.chapter.value = {{=chapter}};
+    {{pass}}
+{{pass}}
+
+function qresults (qid) {
+    var cbres = document.getElementById("res"+qid)
+    var cbchecked = cbres.checked
+    dohighlight(qid, cbchecked)
+}
+
+function dohighlight (oaid, hi) {
+    var wordlist = qhighlights[oaid]
+    var hicolor = ''
+    if (hi) {
+        hicolor = 'yellow'
+    }
+    for (var w in wordlist) {
+        var wn = wordlist[w]
+        var wo = document.getElementById(wn)
+        wo.style.backgroundColor = hicolor;
+        if (w == 0) {
+            wo.scrollIntoView()
+        }
+    }
+}
+
+function showmore (oaid, more) {
+    var material = document.getElementById('extra' + oaid)
+    var controll = document.getElementById('ctll' + oaid)
+    var controlm = document.getElementById('ctlm' + oaid)
+    var matdisp
+    var ctlldisp
+    var ctlmdisp
+    if (more) {
+        matdisp = "block"
+        ctlldisp = "inline"
+        ctlmdisp = "none"
+    }
+    else {
+        matdisp = "none"
+        ctlldisp = "none"
+        ctlmdisp = "inline"
+    }
+    material.style.display = matdisp
+    controll.style.display = ctlldisp
+    controlm.style.display = ctlmdisp
+    return false
+}
+
+</script>
+            <div class="scroll">
+{{for v in verselist:}}
+                <table width="100%">
+                    <tr>
+    {{=TD(XML(v[1]),_width="95%",_class="htext")}}
+    {{=TD(str(v[0]),_width="5%",_class="vnum")}}
+                    </tr>
+                </table>
+{{pass}}
+            </div>
+			<script language="javascript">
+				featureChanged()
+			</script>
+        </td>
+        <td width="25%">
+            <!--<h1 class="columntitle"><a href="javascript:void(0)" onclick="ajax('oannot',[],'oannotq')">Get queries...</a></h1>-->
+            <h1 class="columntitle"><a href="javascript:void(0)" onclick="ajax('{{=URL('default','oannot')}}',[],'oannotq')">Get queries...</a></h1>
+            <div id="oannotq" class="scroll"></div>
+        </td>
+    </tr>
+</table>
+</form>
+</div>

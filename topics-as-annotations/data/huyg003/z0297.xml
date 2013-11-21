@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0297"/>
+<meta type="date" value="1656-06-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0297">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>I'ay veu sa demonstration et il faut qu'il y ait bien d'autres choses qui luy ayent acquis la reputation. Mes exemplaires 2. Raport de Milon 1. Mersenne. j'avois 15 ans. Fermat. 3. ma question. ses questions. 4. peu versè dans les nombres. poinct dans la Parabole 5. Asymptotes de l'Ellipse &amp;c. 6. Pour les autres qu'il s'explique. 7. peut estre qu'il les a desia trouvees. 8. 9.</p>
+</div>
+<div type="opener">
+<p>A Monsieur <persName key="carc010">Carcavy</persName>.</p>
+<p>Monsieur<note n="#1"/></p>
+<p><date>1 Jun. 1656</date>.</p>
+</div>
+<p>Devant que de venir en France je scavois le rang que vous tenez parmy les beaux esprits de ce siecle, et Monsieur <persName key="mylo002">Mylon</persName> m'ayant enseignè le lieu de vostre demeure
+j'ay estè fort marry de ne vous y point rencontrer. Mais je ne vous ay pas cherchè en vain puis que en revenche vous avez eu la bontè de me venir trouver chez moy en m'escrivant en de termes si obligeants, et me donnant des louanges dont peut estre vous m'eussiez trouvè indigne si vous m'aviez connu de plus prez. Cependant si j'ay quelque part dans vostre estime je croy devoir baucoup aux raports de Monsieur <persName key="mylo002">Mylon</persName>, et fort peu a la valeur et au merite de ce que vous pouvez avoir veu de mes escrits. le Pere <persName key="mers004">Mersenne</persName> m'honoroit de sa correspondance pour m'inciter a l'estude des mathematiques a la quelle il me voyoit portè naturellement; et m'envoyoit souvent des escrits de vous autres illustres et principalement de Monsieur <persName key="ferm011">de Fermat</persName>, que j'ay commencè a entendre a mesure que jay profitè dans ces sciences<note n="#2"/>. Ainsi j'ay eu des mon premier apprentissage une merveilleuse estime pour ce grand homme, la quelle s'est augmentée de beaucoup quand j'ay appris estant en France que de mesme qu'aux mathematiques il excelloit en toute chose ou il daignoit d'appliquer son esprit. Je me croiray donc tresheureux d'estre cognu d'une personne si rare par vostre moyen, et de participer par fois de ses belles inventions. les deux problemes numeriques que Monsieur <persName key="mylo002">Milon</persName> m'a envoyez sont de bien difficile recherche et je doubterois presque s'il y auroit moyen de trouver d'autres tels nombres autrement que par hazard, si l'on ne m'asseuroit que Monsieur <persName key="ferm011">de Fermat</persName> en a des regles certaines, lesquelles je croy pourtant estre de cette sorte, qu'il faille premierement chercher quelque nombre a l'avanture qui ait certaines proprietez, comme dans les reigles qu'on a donnè pour les nombres parfaits et amicables. Si j'estois plus versè que je ne suis dans des semblables questions des nombres peut estre que je ne trouverois pas la difficultè si grande, mais c'est ou je me suis adonnè le moins. Monsieur <persName key="ferm011">de Fermat</persName> qui s'est exercè dans toutes sortes de problemes et particulierement dans ceux des partis de jeux n'aura pas tant pareille de peine à resoudre celuy que j'ay proposè touchant les dèz, qui n'est aucunement difficile a ceux qui scavent les principes de ce calcul et un peu de l'algebre. Vous m'avez fait grand plaisir de le luy avoir envoyè et je verray avec beaucoup de contentement la solution qu'il en aura donnèe.
+En parlant des inventions de Messieurs <persName key="pasc001">Paschal</persName> et Desargues il semble que vous supposez que je sois tout scavant dans leurs escrits<note n="#3"/> ce qui n'est point car je n'ay rien veu du premier touchant les sections
+coniques<note n="#4"/>, et fort peu dans un certain traictè<note n="#5"/> de Monsieur <persName>Desargues</persName>, que Monsieur <persName key="mylo002">Milon</persName> me presta estant à Paris<note n="#6"/>, mais qui m'estoit bien obscur a cause de quantitè de nouvelles definitions, et sa maniere de demonstrer.
+Je ne pense pas y avoir rien veu du foyer de la parabole ou des autres sections. Et pour trouver un point dans la parabole qui corresponde au centre de l'hyperbole ou ellipse, il n'est pas possible a mon advis. aussi ne puisje comprendre quelles asymptotes il y peut avoir au cercle a l'cllipse ny a la parabole. Je vous prie Monsieur de m'esclaircir sur ces poincts. car au moins ces asymptotes ne sont pas de nonconcurrentes. la construction et demonstration universelle de deux problemes coniques qui sont à la sin de vostre lettre seroit fort belle, et j'ay bien envie d'y penser quand j'auray un peu de loysir, quoyque je doubte fort que vous ne les ayez desia trouvees. parce que vous me promettez d'en parler plus amplement une autre fois ce que je vous supplie de ne point obmettre. Monsieur <persName key="mylo002">Milon</persName> vous pourra faire voir ma construction pour mener une perpendiculaire a une parabole d'un point donne avecque la demonstration que l'on n'a pas trouvè mauvaise. Je luy ay envoyè deux exemplaires de chacum des deux traitez que j'ay fait imprimer cydevant, desquels je pense qu'il en a demandè une pour vous, autrement je tascheray encore de vous en faire avoir. car je pense y avoir interest. Au reste je vous supplie de disposer absolument de ce qui est dans mon pouvoir et de croire que je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur Chr. H.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

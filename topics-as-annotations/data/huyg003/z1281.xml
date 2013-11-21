@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1281"/>
+<meta type="date" value="1664-12-06"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1281">
+<div type="opener">
+<p>Perillustri, Nobilissimo et Clarissimo Viro <persName key="huyg003">Christiano Hugenio</persName> Suo <persName key="kinn013">Godefr. Al. Kinner</persName> S.P.D.</p>
+</div>
+<p>Vix amplius credo, stylum cognosces aut manum amantissimi quondam Tui Kinneri, Praestantissime Hugeni, et id meà quidem siue negligentiâ siue culpâ, qui tanto hucusque tempore<note n="#1"/> nullas ad te literas dedi. Tenuit me septem, et quod excurrit annos Aula Caesarea<note n="#2"/> non minus ocij quam negotij palaestra, quorum alterum nisi in tam diuturni silentij purgationem admiseris, at confitenti saltem reo, quae tua humanitas est ueniam dabis. Mors demum sub exspiraturi mox anni principium, dum Serenissimum Principem meum<note n="#3"/> uitae, me pariter Aulae uinculo soluit; sed alio nunc adstructum tenet corporis inualitudo, quae â pluribus iam quidem annis, uerum a duobus maximè solitò insolentius ius in me suum vel iniurias potius exercet, ut non corpus duntaxat aut membra sed ipsum quoque (quod aegrius fero) molestis suis incursionibus animum grauet, quominus assuetis eidem studijs liceat intendere. Tu vero Clarissime Hugeni quid interim agis? Quid operum tuorum noui mundo dedisti? Equidem praeter Saturnium Systema, quod Viennam ad me direxeras, nihil è tuis hucusque conspexi. Quodsi quid ab eo tempore foecundissima tua Minerva parturijt noui, quantocius, oro, mone, quò tam cupito solatio quam primum liceat frui.</p>
+<p>His paucis finio, donec è tuis intelligam te etiamnum meminisse</p>
+<div type="closer">
+<p>Tui</p>
+<p>deuotissimi et amantissimi <persName key="kinn013">Godefr. Kinner</persName>.</p>
+<p>Pragae 6 Decembris 1664.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

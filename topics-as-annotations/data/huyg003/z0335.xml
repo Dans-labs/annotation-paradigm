@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0335"/>
+<meta type="date" value="1656-09-27"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0335">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName>. S.D.</p>
+</div>
+<p>Epistolam tuam ab Elsevirij famulo repetitam tuo jussu remitto. Offendi in ea Cartesij literas à Te insertas, quae licèt mentem ejus circa Clarissimi Vicentij Quadraturam ingenuè exponunt, nescio tamen utrum consultum sit eam omnibus patefacere. Amicè enim illam communicare mihi cum ad id à me invitatus haud denegaverit, fieri posset ut alioquin negotium hoc non nisi difficulter suscepturus fuisset, si judicium ejus circa illam Quadraturam ab aliquo divulgatum iri cognovisset. Quod enim communicavit, dum ei non nisi librum per duos aut tres dies evolvere contigit, si quidem eum mihi cum alio libro, quem diutius retinuerat, ob alia quae tunc temporis prae manibus habebat, remittere voluit, paucis tantum, ut apparet, perstrinxit. Quòd si nihilominus Tu Vir Clarissime ea in publicum sic emittere destinaveris, haud ineptè (judicio meo) et ea, quae à Clarissimo Domino <persName key="beau901">de Beaune</persName> super eam rem à me Tibi unà communicata sunt, pari modo subjunges. Caeterum mitto Catalogum variorum librorum insignium Mathematicorum, quorum auctio hic
+habebitur ad diem 14 Octobris, ut si illorum aliqui Tibi fortè placuerint, Tu quid de illis fieri volueris, decernas. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>27 Sept. 1656</date>.</p>
+<p>Dominus <persName>Bartholinus</persName> die veneris<note n="#1"/> praeterito vesperi hinc discessit, quem Amstelodamum usque sum comitatus, domum revertens die Solis. Iterum Vale.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Huijgens</persName>, gelogeert ten huijse van d'Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>op t' pleijn
+<lb/>In S'Graven-Hage.
+<lb/>Cito Cito port</p>
+</div>
+</body>
+</text>
+</TEI>

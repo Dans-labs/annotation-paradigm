@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0392a"/>
+<meta type="date" value="1657-06-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0392">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 22 juin 1657.</p>
+<p>Mon frere</p>
+</div>
+<p>J'ay eu la mesme pensee que vous touchant l'augmentation de nostre train, et il y a desia 15 jours que j'ay pris un valet, et l'ay fait habiller de deuil<note n="#2"/>, car en tout cas je scavois bien qu'il faudroit un habit pour le garçon qui est avec vous. Mais si nous pouvons obtenir de mon Pere qu'il nous laisse encore cet autre il ne sera pas necessaire a mon advis de faire la despence d'encore un habit.
+En france, a ce que m'a dit Mr. <persName>de la Plate</persName><note n="#3"/>, l'on laisse aux garcons la casacque de couleur, et ne leur donne t on que simplement un habit noir. Sed de his coram. le principal est de maintenir la possession. J'eusse escrit à mon Pere, mais il faut que je m'en aille à Leyden pour chercher quelque quadrant astronomique afin de pouvoir observer avecq Mr. <persName key="boul014">Bouillaut</persName> l'eclipse qui sera lundi prochain<note n="#4"/>, dont il m'a priè. Coster<note n="#5"/> a obtenu l'octroy pour 21 an. dont il a recu la lettre<note n="#6"/> ce matin. Je suis marry que vous passez mal vostre temps. Adieu</p>
+<div type="closer">
+<p>Vostre tres affectionè frere <persName key="huyg003">Chr. Huygens de Z.</persName></p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">Louis Huygens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

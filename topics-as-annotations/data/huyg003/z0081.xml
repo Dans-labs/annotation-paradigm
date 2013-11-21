@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0081"/>
+<meta type="date" value="1650-04-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0081">
+<div type="opener">
+<p>A <placeName key="denha004">la Haije</placeName> ce <date>5 de Avril 1650</date>.</p>
+<p>Mon Frere,</p>
+</div>
+<p>J'aij receu deux de vos lettres a la fois, dans l'une des quelles vous m'envoyez le crayon des Alpes, et dans l'autre des louanges que mes vers ne meritent point, comme estans les premiers qu'aye jamais produit l'autheur, qui a peine peut escrire en bon François, quand il ne se attache point a la rime.
+Quand M. d'Aumale veut donner la plus haute louange a ceux de Mon Pere ou de moij, il dit qu'ils sont sans faute, ou n'en ont que fort peu. quant aux miens, c'est plus que je n'espere si ils sont tels, mais je n'en croy pas a M. d'Aumale, nij le tiens pour juge competent, veu qu'il ne s'arreste qu'au superficiel, et qu'il s'efforce seulement à controuver quelque cacophonie (comme il les appelle); sans s'appercevoir que ses propres vers sont pleins de fautes plus reelles et manquent bien souvent de sens et de pointe.
+Le bastard de Ripperda<note n="#1"/> ayant esté quelque temps dans la prison, ou Mon pere et beaucoup d'autres l'ont esté voir par curiosité, à la fin a esté condamné a estre envoijé aux Indes, et pour cet effect on l'a emmene d'icij à Amsterdam; ce voyage la le met au desespoir et pourtant il est bien certain qu'il n'en seroit pas quite à si bon marché si ce n'estoit en contemplation de son pere et de ses parents qui se sont emploijez pour luij.
+Nous scavons cent contes des beaux exploits qu'il a faits, et Mon Pere disoit tousjours qu'il le faudroit condemner a descrire l'histoire de sa vie. Je suis</p>
+<div type="closer">
+<p>Vostre tresaffectionne frere et serviteur <persName key="huyg003">Chr. Huygens</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

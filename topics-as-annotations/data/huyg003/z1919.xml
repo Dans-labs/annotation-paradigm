@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1919"/>
+<meta type="date" value="1673-01-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1919">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>du barometre. corrige 28½ pouces n'evapore point perpendicule a adjouter, qui ne doit pas estre parallele aux tuyaux.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 14 janvier 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous aurois fait responce dans le temps que je devois a deux de vos lettres<note n="#2"/>, si des occupations un peu plus pressées qu'a l'ordinaire ne m'avoient emportè le temps ailleurs. Je vous rends graces de vos deux journaux et j'aurois eu soin de vous faire tenir le dernier de Monsieur Galois<note n="#3"/>, si je ne croiois qu'on vous les envoie reglement, et qu'il ne faut pas vous charger deux fois du port d'un tel pacquet. Vous y aurez vu mes considérations sur Saturne<note n="#4"/> et la construction d'un nouveau barometre<note n="#5"/>, dans la quelle il y a à corriger à la page 154 à la 4<hi rend="sup">e</hi> ligne, ou il faut lire de 28 pouces et demi ou lieu de 27½. Et a la mesme page ligne 4<hi rend="sup">e</hi> d'embas il faut mettre MN au lieu de BC, car pour la faute qui est dans la figure ou il y avoit un L au lieu de M, je crois que l'imprimeur l'aura fait corriger. Dans la pratique de ce barometre, qui reussit tres-bien, j'ay remarquè qu'il est necessaire sur tout pour mesurer des hauteurs, d'adjouter un perpendicule à la planche qui porte le barometre parce qu'il importe fort qu'il soit tousjours droit de mesme. Ce perpendicule est attachè par en haut, et passe en bas par un petit trou de cette largeur O, du quel on juge facilement quand il occupe le milieu. Pour ce qui est de l'huile que j'ay dit qu'on pourroit mettre sur l'eau je ne le trouve pas necessaire jusqu'icy, ayant experimentè que l'eau contenue dans un tuyau si long et si estroit, ne s'evapore
+aucunement, au moins pendant cette saison de l'année<note n="#6"/>.</p>
+<p>J'ay veu<note n="#7"/> comme Monsieur Newton prend peine a soutenir sa nouvelle opinion touchant les couleurs. Il me semble que la plus importante objection qu'on luy fait
+en forme de <hi rend="i">Quaere</hi> est celle, s'il y a plus de deux sortes de couleurs? Car pour moy je crois qu'une hypothese qui expliqueroit mechaniquement et par la nature du mouvement la couleur jaune et bleue suffiroit pour toutes les autres parce que celles cy estant seulement plus chargees (comme il paroit par les prismes de Monsieur Hook)<note n="#8"/> produisent le rouge et le bleu obscur, et que de ces quatre tout le reste des couleurs se peut composer. Je ne vois pas aussi pourquoy Monsieur Newton ne se contente pas des 2 couleurs jaune et bleu, car il sera bien plus aisè de trouver quelque hypothese par le mouuement qui explique ces deux differences que non pas pour tant de diversitez qu'il y a d'autres couleurs. Et jusqu'a ce qu'il ait trouuè cette hypothese il ne nous aura pas appris en quoy consiste la nature et difference des couleurs mais seulement cet accident (qui assurement est fort considerable) de leur differente refrangibilitè.</p>
+<p>Pour ce qui est de l'autre, à scavoir la composition du blanc de toutes les couleurs ensemble il se pourroit faire que le jaune et le bleu seroient encore suffisants pour cela, ce qui vaut la peine d'estre essayè et il se peut par l'experience que Monsieur Newton propose de recevoir contre la muraille d'une chambre obscure, les couleurs du prisme et d'esclairer par leur lumiere reflechie sur un papier blanc. Il faudroit empescher les couleurs des extremitez scavoir le rouge et le pourpre de donner contre la muraille et laisser seulement les couleurs d'entre deux, le jaune verd et le bleu pour voir si la lumiere de celles cy seules ne feroit pas paroitre blanc le papier, aussi bien que quand elles esclairent toutes. Je doute mesme si l'endroit le plus clair du jaune ne feroit pas tout seul cet effect, et je l'essaieray a la premiere commoditè, car cette pensee ne m'est venue qu'a cette heure.</p>
+<p>Vous voiez bien cependant Monsieur, que si ces experiences succedent, l'on ne pourra plus dire que toutes les couleurs sont necessaires pour composer le blanc et qu'il sera tres vraisemblable que toutes les autres ne sont que des degrez de jaune et bleu, plus ou moins renfoncez.</p>
+<p>Au reste pour ce qui est de l'effect des differentes refractions des rayons dans les verres de lunettes, il est certain que l'experience ne s'accorde pas avec ce que trouve Monsieur Newton, car a considerer seulement la peinture distincte que fait un objectif de 12 pieds dans une chambre obscure, l'on voit qu'elle est trop distincte et trop bien terminée pour pouvoir estre produite par des rayons qui s'escarteroient de la 50<hi rend="sup">me</hi> partie de l'ouverture<note n="#9"/> de sorte que, comme je vous crois
+avoir mandè desia cy devant la difference de la refrangibilité<note n="#10"/> ne suit pas peut estre tousjours la mesme proportion dans les grandes et petites inclinations des rayons sur les surfaces du verre. En passant ce costè du feuillet je commence a apprehender que je vous ennuie par de trop longs raisonnements. C'est pourquoy je n'adjousteray plus rien si non pour assurer que je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et obeislant seruiteur <persName key="huyg003">Hugens de Zulighem</persName>.</p>
+</div>
+<p>Dans la disposition du barometre quand on y adjoute le perpendicule il y a encor cecy a remarquer qu'il ne faut pas que les tuyaux montants soient tout a faits perpendiculaires, mais environ en sorte que les deux boetes soient perpendiculairement l'une au dessus de l'autre parce que dans cette situation l'eau montera le plus haut dans le tuyau ce qui me surprit lorsque je n'en scavois pas encore la raison.</p>
+<p>Monsieur Leibniz est parti d'icy pour Angleterre<note n="#11"/> et vous le verrez bientost qui vous montrera une ebauche de sa machine<note n="#12"/> pour les multiplications de nombres qui est fort ingenieuse.</p>
+</div>
+</body>
+</text>
+</TEI>

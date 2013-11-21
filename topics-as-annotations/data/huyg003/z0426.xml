@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0426"/>
+<meta type="date" value="1657-11-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="burg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0426">
+<div type="opener">
+<p>a <persName key="burg001">Vander Burgh</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je receus hier celle<note n="#1"/> dont il vous a pleu accompagner les beaux vers de Monsieur <persName>Vos</persName><note n="#2"/>, lesquels j'ay estè aussi tost presenter à mon Pere. Il avoit esperè de vous
+pouvoir remercier bientost, et de ceux que vous luy avez procurez, et sur tout de ceux dont vous l'avez honorè vous mesme; en vous envoyant quant et quant ses oeuures imprimées. Mais voyant et à regret qu'il s'ecoulera encore quelques jours devant que tout s'acheve, il veut que je vous asseure cependant du ressentiment qu'il a eu en recevant ces nouuelles marques de vostre anciene affection.
+Je n'entreprendray pas, Monsieur, d'emettre icy les louanges qui sont deues a vos vers et a ceux de ces autres rares personnages, qui ont suivy vostre exemple, mais en laisse le soing à mon Pere, qui au moins s'en scaura mieux acquiter que moy, et ne differera pas de vous faire response et a Monsieur <persName key="vond001">Van Vondel</persName> aussi tost que ses forces le luij permettront.
+Je vous prieraij seulement de croire que je vous demeure fort obligè d'avoir satisfait si promptement et si amplement a la requeste<note n="#3"/> dont il a fallu que je vous importunasse.
+J'en suis de mesme redevable a Monsieur <persName key="vond001">Van Vondele</persName>, et en outre de ce qu'en s'adressant à moy par ses vers<note n="#4"/>, il m'a fait de l'honneur que je n'avois ny meritè ny attendu.
+Quand vous le verrez je vous supplie de le luy tesmoigner de ma part, et de l'asseurer que je luy suis comme a vous</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Le treshumble serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+<p><date>14 Novemb. 1657</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

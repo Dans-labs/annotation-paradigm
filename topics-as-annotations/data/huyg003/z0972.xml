@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0972"/>
+<meta type="date" value="1661-12-20"/>
+<meta type="sender" value="fren024"/>
+<meta type="recipient" value="wall057"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0968"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0972">
+<p>Ad Clarissimi Domini <persName key="wall057">Wallisij</persName> Solutionem Responsum proponentis.</p>
+<p>&nbsp;</p>
+<p>Si absque alia conditione proponantur investigandi duo numeri <hi rend="i">a</hi>, <hi rend="i">e</hi>, ita constituti vt <hi rend="i">a</hi><hi rend="sup">4</hi> + 5 <hi rend="i">e</hi><hi rend="sup">4</hi> + 6 <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">e</hi><hi rend="sup">2</hi> + 8 <hi rend="i">ae</hi><hi rend="sup">3</hi> sit numerus quadratus; facillima erit hujus Problematis Solutio. Sit namque <hi rend="i">a</hi> quilibet numerus puta 2, <hi rend="i">e</hi> = 2 <hi rend="i">a</hi>, nempe 4. Erit <hi rend="i">a</hi><hi rend="sup">4</hi> + 5 <hi rend="i">e</hi><hi rend="sup">4</hi> + 6 <hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">e</hi><hi rend="sup">2</hi> + 8 <hi rend="i">ae</hi><hi rend="sup">3</hi> = 2704, numero quadrato cujus radix 52.</p>
+<p>Attamen non sufficit quaestioni ad quam solvendam numerus <hi rend="i">a</hi> excedere deberet numerum <hi rend="i">e</hi>, in quo casu non ita faciles sunt inventu hi duo numeri <hi rend="i">a</hi>, <hi rend="i">e</hi>. In his autem perquirendis stat omnis quaestionis nodus.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2807"/>
+<meta type="date" value="1693-07-02"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2807">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>C'est avec bien du chagrin Monsieur que j'ai appris votre indisposition. J'espere qu'elle n'aura eu aucune suite et que vous en serez à present parfaitement gueri. Je vous envoye les trois differentes voyes qui m'ont conduit à la quadrature de
+la feuille de Mr. <persName key="desc004">Descartes</persName>, parce que vous me paroissez en auoir quelque enuie.
+<figure><graphic url="huyg003oeuv10ill131.gif"></graphic></figure> 1.<hi rend="sup">re</hi> maniere. L'équation à la courbe est <hi rend="i">x</hi><hi rend="sup">3</hi>+<hi rend="i">y</hi><hi rend="sup">3</hi>=<hi rend="i">axy</hi>, la differentielle est 3<hi rend="i">xxdx</hi>+3<hi rend="i">yydy</hi>=<hi rend="i">axdy</hi>+<hi rend="i">aydx</hi>, et multipliant par <hi rend="i">y</hi>, et mettant a la place de <hi rend="i">y</hi><hi rend="sup">3</hi> sa valeur <hi rend="i">axy</hi>-<hi rend="i">x</hi><hi rend="sup">3</hi>, on trouue <figure rend="inline"><graphic url="huyg003oeuv10fi188.gif"></graphic></figure>, et prenant de part et d'autre les sommes on aura la somme des <hi rend="i">ydx</hi>, c'est à dire l'espace <figure rend="inline"><graphic url="huyg003oeuv10fi187.gif"></graphic></figure><note n="#2"/>.</p>
+<p>2.<hi rend="sup">e</hi> maniere, on supposera <hi rend="i">y</hi>=<hi rend="i">zxx</hi>/<hi rend="i">aa</hi>, d'ou l'on tire par la substitution <figure rend="inline"><graphic url="huyg003oeuv10fi189.gif"></graphic></figure>, et prenant les differences <figure rend="inline"><graphic url="huyg003oeuv10fi190.gif"></graphic></figure>, et partant <hi rend="i">zxxdx</hi>/<hi rend="i">aa</hi>, c'est-à-dire <figure rend="inline"><graphic url="huyg003oeuv10fi191.gif"></graphic></figure> et prenant les sommes, celle des <hi rend="i">ydx</hi>, c'est-à-dire l'espace <figure rend="inline"><graphic url="huyg003oeuv10fi192.gif"></graphic></figure><note n="#3"/><note n="#4"/>.</p>
+<p>3<hi rend="sup">e</hi> maniere, on change l'equation qui exprime la relation de AB a BC, en vne autre qui exprime celle de AF a FC, et on prend ensuite les sommes. ce que je vous expliqueray plus au long si vous le souhoitez. Vous voyez que ces trois manieres dependent d'une mesme methode qui consiste à donner à l'equation une forme telle qu'il y ait d'une part <hi rend="i">ydx</hi> ou <hi rend="i">xdy</hi> et de l'autre des quantités dont on puisse prendre les sommes.</p>
+<p>Au reste Monsieur j'ai mille remercimens à vous faire de la maniere obligeante dont vous parlez de moi dans uos journaux<note n="#5"/>. C'est vn pur effet de vôtre honnestetè que je reconnais ne meriter en aucune façon. Je vous prie de vous ressouuenir de m'enuoyer les regles que vous avez pour l'inuerse des tangentes et de me croire tres veritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="hosp010">Le M. de l'Hospital</persName>.</p>
+</div>
+<p><figure><graphic url="huyg003oeuv10ill132.gif"></graphic></figure></p>
+<p>J'oubliois à vous mander que j'ay trouvé la solution d'un probleme<note n="#6"/> que Monsieur <persName>Bernoulli</persName> frere du professeur à Basle vient de proposer publiquement dans les actes de Leipsic<note n="#7"/>. Ce probleme est tel: La courbe ABC a une proprieté telle, que chacune de ses touchantes BD est toujours à la partie AD de l'axe prise entre son origine A et la rencontre D de la touchante, en raison de <hi rend="i">p</hi> à <hi rend="i">q</hi>. On demande la nature de cette ligne ou la maniere de la décrire.</p>
+<div type="closer">
+<p>A <placeName key="parij001">paris</placeName> ce 2 juillet.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

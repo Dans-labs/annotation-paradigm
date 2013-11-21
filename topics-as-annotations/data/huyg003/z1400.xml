@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1400"/>
+<meta type="date" value="1665-04-30"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1400">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 20. Auril 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Ce mot nest que pour vous dire 2. ou 3. petites choses. J'ay donné a ce porteur Monsieur Boreel le traitté que Monsieur <persName key="boyl001">Boile</persName> à fait<note n="#2"/> sur le froid, pour vous le presenter. J'auois enuie aussi de luy donner le trouble de vous apporter un thermometre qui est tout fait, seulement Je crains qu'il ne sera pas emboetté assez à temps dans la cassette pour le luy donner deuant que ses hardes soyent empacquetees. Je tascheray pourtant de le faire. Monsieur Dauidson me mande qu'il sera difficile de m'enuoyer l'Horologe<note n="#3"/> par la voye qu'il sestoit proposé de peur qu'il ne sont<note n="#4"/> gasté. C'est pourquoy Je prieray Monsieur Boreel de me faire la faueur de sen vouloir charger à son retour et Monsieur Dauidson en payera ce que vous luy ordonnerez. Mais si d'auanture il part demain sans que Je le voye, parlez luy en de ma part, et en reuenche chargez de vos commandemens</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>Monsieur Holmes ne m'a point encore tenu parole et cela retarde l'impression des Instructions pour les pilotes &amp;c.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

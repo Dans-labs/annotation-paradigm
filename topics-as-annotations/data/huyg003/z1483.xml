@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1483"/>
+<meta type="date" value="1665-10-22"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="spin003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1483">
+<div type="opener">
+<p>Clarissimo Viro <persName key="spin003">Benedicto De Spinosa</persName> <persName key="olde010">Henricus Oldenburgius</persName><note n="#2"/>.</p>
+<p>Vir praestantissime, Amice colende,</p>
+</div>
+<p>Facis, ut Virum cordatum et Philosophum decet, quod Viros bonos amas; nec est, quod dubites, quin illi te redament, et merita tua, prout par est, aestiment. Dominus <persName key="boyl001">Boylius</persName> una mecum salutem plurimam tibi nunciat, utque strenue et <hi rend="i">ἀϰριβῶς</hi> philosophari pergas, te hortatur. Imprimis, si quid tibi lucis affulserit in ardua illa indagine, quae in eo versatur, ut cognoscamus, quomodo unaquaeque pars Naturae cum suo toto conveniat, et qua ratione cum reliquis cohaereat, ut illud nobis communices, peramanter rogamus. Causas, quas memoras, tanquam incitamenta ad Tractatum de Scriptura concinnandum, omnino probo, inque votis efflictim habeo, me usurpare jam oculis posse, quae in argumentum istud es commentatus. Dominus <persName>Serrarius</persName><note n="#3"/> forte fasciculum aliquem<note n="#4"/> brevi ad me transmittet, cui, si visum ita fuerit, committere tuto poteris, quae ea de re jam composuisti, et reciprocam officiorum nostrorum promptitudinem polliceri.</p>
+<p>Kircheri Mundum Subterraneum<note n="#5"/> quadantenus evolvi, et quamvis ratiocinia ejus et theoriae non commendent ingenium, Observationes tamen et Experimenta, nobis ibi tradita, collaudant diligentiam Auctoris, ejusque de Republica Philosophica bene merendi voluntatem. Vides igitur, me plusculum illi tribuere, quam pietatem, facileque dignoscis eorum animum, qui Benedictam hanc aquam illi adspergunt. Quando verba facis de Tractatu Hugeniano de Motu, innuis, Cartesii Regulas motûs falsas fere omnes esse. Non jam ad manum est libellus, quem antehac edidisti de Cartesii Principiis Geometrice Demonstratis<note n="#6"/>: non subit animum, num ibi falsitatem istam ostenderis, an vero Cartesium, in aliorum gratiam, <hi rend="i">ϰατὰ πόδα</hi> fueris secutus. Utinam tandem proprii ingenii foetum excluderes, et orbi Philosophico fovendum et educandum committeres! Memini te alicubi indigitasse, multa ex iis, quae Cartesius ipse captum humanum superare ajebat, quin et multo sublimiora et subtiliora, evidenter posse ab hominibus intelligi et clarissime explicari. Quid haeres, mi Amice, quid metuis? Tenta, aggredere, perfice tanti momenti provinciam, et videbis totum vere Philosophantium Chorum tibi patrocinari. Fidem meam obstringere audeo, quod non facerem, si liberare me eam posse dubitarem. Nullatenus crediderim, in animo
+tibi esse, quicquam contra Existentiam et Providentiam Dei moliri; et fulcris hisce incoluminibus, firmo talo stat Religio, facileque etiam quaevis Contemplationes Philosophicae vel defenduntur vel excusantur. Rumpe igitur moras, nec scindi tibi penulam patiaris.</p>
+<p>Brevi putem te accepturum, quid de Cometis nuperis sit statuendum. Disceptant inter se de factis Observationibus Hevelius Dantiscanus, et Auzoutus Gallus, ambo Viri docti et Mathematici<note n="#7"/>. Dispicitur hoc tempore controversia, et quando judicata lis fuerit<note n="#8"/>, mihi, credo, res tota communicabitur, et a me tibi. Hoc asserere jam possum, omnes, qui quidem mihi cogniti sunt, Astronomos judicare, non unum, sed duos Cometas fuisse, nec in quenquam hactenus incidi, qui ex Hypothesi Cartesiana ipsorum Phaenomena conatus fuerit explicare.</p>
+<p>Rogo, si quid porro acceperis de studiis et laboribus Domini Hugenii, deque
+successu pendulorum, ut et de ipsius transmigratione in Galliam, mihi quamprimum significare non graveris. Adjungas ea, rogo, quae apud Vos forte dicuntur de Tractatu pacis, de Suecici exercitûs, in Germaniam transvecti, consiliis, deque Episcopi Monasteriensis progressu<note n="#9"/>. Totam credo Europam sequenti aestate bellis involutum iri, et omnia videntur ad mutationem inusitatam vergere. Serviamus nos summo Numini casta mente, et Philosophiam veram, solidam, et utilem excolamus. Nonnulli ex Philosophis nostris, Regem Oxonium secuti, non raros ibi coetus agitant, et de promovendis studiis Physicis consulunt. Inter alia in Sonorum naturam inquirere nuper caeperunt. Experimenta, credo, facient, ut explorent, qua proportione augenda sint pondera ad extendendam chordam absque ulla vi alia, ut intendatur eadem ad Notam ejusmodi acutiorem, quae facit assignatam consonantiam cum sono priori. De his plura alias. Optime Vale, et vive memor</p>
+<div type="closer">
+<p>Tui Studiosissimi <persName key="olde010">Henr. Oldenburg</persName>.</p>
+<p>Londini 12. Octobris 1665.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

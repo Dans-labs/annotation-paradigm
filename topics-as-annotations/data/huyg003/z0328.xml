@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0328"/>
+<meta type="date" value="1656-08-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colv001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0328">
+<div type="opener">
+<p><persName key="colv001">Colvio</persName>.</p>
+<p><date>28 Aug. 1656</date>.</p>
+</div>
+<p>Mensis propemodum abijt cum ad te bina vitrorum paria misi capsulae inclusa quorum alterum tibi donaveram alterum rogaveram<note n="#1"/> ut una cum epistola Domino <persName key="page011">Pageto</persName> tradere velles. Ea si accepisti quaeso me quoque sollicitudine leves. incipio enim metuere ne perlata non sint, cum nihil accipiam a vobis responsi. Magna profecto jactura erit si perierint, mihique eo intolerabilior quod tanto tempore inofficiosus apud te audiero idque immerito meo. Utinam non tam diu tacuissem. Nam si intercidere aegrè puto recuperari poterunt nec tamen quidquam intentatum relinquemus. Sed spero meliora; Vale, et nisi incommodum quam primum reseribe.</p>
+</div>
+</body>
+</text>
+</TEI>

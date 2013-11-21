@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0644"/>
+<meta type="date" value="1659-08-01"/>
+<meta type="sender" value="bodd011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0644">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Radicem<note n="#2"/> Binomii in integris propositi praeter ½ nullas fractiones admittere, ita demonstratur<note n="#3"/>.</p>
+<p>Regula H. Cardani solvens Aequationem Cubicam facit ut valor radicis seu <hi rend="i">x</hi> sit aequale duplo numeri sine signo √ notati in dati binomii radice. In Exemplo clarius. Sit datum Binomium <hi rend="i">a</hi> + √ <hi rend="i">b</hi> quod invenio in hac aequatione</p>
+<p><figure><graphic url="huyg003oeuv02ill151.gif"></graphic></figure><note n="#4"/><note n="#5"/><note n="#6"/></p>
+<p>Si ex <hi rend="i">a</hi> + √ <hi rend="i">b</hi> possit √C extrahi necesse est <hi rend="i">a</hi><hi rend="sup">2</hi><figure rend="inline"><graphic url="huyg003oeuv02fi02.gif"></graphic></figure> <hi rend="i">b</hi> differentia nempe □ <hi rend="sup">r3</hi><note n="#7"/> ipsius <hi rend="i">a</hi> <figure rend="inline"><graphic url="huyg003oeuv02fi02.gif"></graphic></figure> √<hi rend="i">b</hi> sit cubus rationalis<note n="#8"/>: sed <hi rend="i">c</hi><hi rend="sup">3</hi> ∞ <hi rend="i">a</hi><hi rend="sup">2</hi> <figure rend="inline"><graphic url="huyg003oeuv02fi02.gif"></graphic></figure> <hi rend="i">b</hi><note n="#9"/> ergo <hi rend="i">c</hi><hi rend="sup">3</hi> &amp; per consequens <hi rend="i">c</hi> numerus integer rationalis ac propterea &amp; 3 <hi rend="i">c</hi> numerus in aequatione &amp; 2 <hi rend="i">a</hi> est integer nam <hi rend="i">a</hi> est integer. constat igitur aequatio proposita ex numeris integris;</p>
+<p>&nbsp;</p>
+<p>Nam sint 3 valores ipsius <hi rend="i">x</hi> in proposita aequatione
+<figure><graphic url="huyg003oeuv02ill152.gif"></graphic></figure></p>
+<p>Si, <hi rend="i">d</hi>, <hi rend="i">e</hi>, aut, <hi rend="i">f</hi>, sit fractus necesse est duo simul fracti sint, aliter enim secundus terminus abesse non posset, deinde debent &amp; communem denominatorem habere, non possent enim aliter integrum constituere, debetque 3tius integer posse per quadratum denominatoris dividi, non posset enim aliter 2<hi rend="i">a</hi> esse numerus integer. Sit
+<figure><graphic url="huyg003oeuv02ill153.gif"></graphic></figure></p>
+<p>3 <hi rend="i">c</hi> ∞ <hi rend="i">rs</hi>/<hi rend="i">zz</hi> + <hi rend="i">ryz</hi> + <hi rend="i">syz</hi> quod numerus integer esse nequit ac proinde 2<hi rend="i">p</hi> integer: quod ostendi debebat.</p>
+<p>Erit igitur et <hi rend="i">x</hi> numerus integer ac idcirco 2<hi rend="i">p</hi> idque vel par vel impar. si par nullas fractiones, si impar ½ tantum, una pars radicis binomii dati admittet &amp; per consequens altera ¼, quod erat ostendendum.</p>
+<p>Pro donis<note n="#10"/> gratias nunquam intermorituras reddo. Dominum Blaew conveni de Mullerio<note n="#11"/>, sed illis non cognitus erat, quapropter Elsevirios adii, quibus quidem notus, sed non ubi locorum commoretur, quoniam multorum debitor. Navis est quae propediem Gedanum proficiscet, ut communiter hic tales multae: In alterutris Dominationis vestrae libris scheda unica deest, nempe illa quae continet paginas 33, 34, 35, 36, 37, 38, 39, 40 quod, illas legendo repperi. Pro Mesolabo, &amp; Nobilitati vestrae &amp; Auctori Acutissimo magnas gratias habeo. Cui libros demandem, si Mullerium non videro rogo mihi Dominatio Vestra imperet. Vale.</p>
+<div type="closer">
+<p>Nobilitatis Vestrae Humillimus Servus <persName key="bodd011">A. Boddens</persName>.</p>
+<p>Dabam Ocyssime <placeName key="amste001">Amstelodami</placeName> <date>A<hi rend="sup">o</hi>. 1659 Ipsis Kalend. Augusti</date>.</p>
+</div>
+<p>Elsevirii ubi Dominum Mullerium viderint, domi nostrae ipsum mittere mihi promiserunt ut ipsi libros tradere possim.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Huijgens</persName> ten huijse van Mijn Heer <persName key="huyg001">Constantijn Huijgens, Ridder Heer van Zulichem</persName> &amp;c. tot 's Gravenhaege.
+<lb/>Cito</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1670"/>
+<meta type="date" value="1668-11-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1670">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 13 Novembre 1668.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous prie de tesmoigner a ces Messieurs de la Societè Royale que j'estime beaucoup l'honneur qu'ils me font en me considerant tousjours comme un de leur corps, et que je leur suis obligè de ce qu'ils veulent bien avoir cette consideration pour moy, que de ne me point prevenir dans la publication des choses ou ils scavent que j'ay mis quelque estude, et fait quelques decouvertes. Et quant a la matiere du mouuement, n'ayant pas encore le loisir de paracheuer tout ce que j'en ay meditè de temps en temps, je suis pret a leur en communiquer le contenu, c'est a dire les regles et theoremes, que j'ay trouuez dans toutes les especes du mouuement, puis qu'ils me promettent de les examiner et verifier par leur experiences, et de leur donner place dans leur registres, qui est sans doute un moien tres seur pour empescher qu'on ne soit frustrè de l'honneur des inventions qu'on a trouuées. Je vous prie donc Monsieur de me mander de quelle partie du mouuement ils veulent que je traite la premiere, car il y en a plusieurs comme vous scauez, dont je crois avoir considerè la pluspart, a scavoir la proportion de la cheute des corps pesant, tant sans la resistance qu'avec la resistance de l'air. Le mouuement des pendules, les centres d'agitation: le mouuement circulaire et conique, et de la force à s'eloigner du centre. La communication du mouuement par la rencontre des corps, dont je
+me souviens que Messieurs Wren et Rooke<note n="#1"/> me firent veoir leur experiences quand j'estois<note n="#2"/> en Angleterre, et qu'elles s'accordoient tres bien avec ce que j'en avois determinè sur le champ suivant mes hypotheses. Cependant comme je vois dans l'histoire de la Societè que quelques uns s'y sont pleus a examiner cette mesme matiere des mouuement<note n="#3"/>, je serois fort aise de voir ce qu'ils en ont trouuè et s'ils se sont par fois rencontrè avec moy dans le mesme chemin. Et sur
+tout je souhaiterois avoir part de leur experiences touchant la cheute des corps par l'air et par l'eau.</p>
+<p>Je n'ay pas le loisir de vous rien dire touchant le mechant procedè de Monsieur Gregory, mais par ce que j'en parle assez amplement dans la lettre cy jointe a Monsieur Wallis<note n="#4"/>, j'ay voulu que vous la vissiez auparavant que la luy envoier. Je vous prie de la refermer apres et d'avoir la bontè de la depescher au plustost et Vous obligerez</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres affectionnè serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="olde010">Oldenburg</persName>, Secretaire de la Societè Royale
+<lb/>A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

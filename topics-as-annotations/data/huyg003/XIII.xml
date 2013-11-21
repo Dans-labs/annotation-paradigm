@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XIII"/>
+<meta type="date" value="1642-08-11"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XIII">
+<p>Postquam absolutus noster Silius absolvit taedium tuorum, praegustatam Maronis majestatem, praeceptas Nasonis veneres, nec affectatas, delicatiore palato ubique desiderantium; postquam Tristibus quoque defuncto Doctori satis jam, satis lachrijmarum videtur et querelarum ut operae non sit curioso studio has audiendi in Pontum transire; postquam historicae et Graecae et Logicae res denique illae mutationem spectant hae auspicium: restat vox tua, Domine, voluntas tua quae fiat deinceps sententia tua quae de sententia Brunonis sententiam ferat, instituendae porrò institutioni et rebus norma gerundis...</p>
+<div type="closer">
+<p>Scribebam <placeName key="denha004">Hagae</placeName> III Eid. Augustissimi mensium MDCXLII.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

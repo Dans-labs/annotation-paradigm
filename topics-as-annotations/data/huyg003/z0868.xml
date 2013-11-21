@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0868"/>
+<meta type="date" value="1661-06-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0868">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>24 Juin 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je suis fort de vostre avis, que nous bannissions les compliments et civilitez superflues hors de nos lettres, Et je voy bien que quand j'aurois envie, comme je n'ay aucunement, de vous attaquer par là, que vous en scavez cent fois plus que moy et que je n'en sortirois jamais à mon honneur. Vostre lettre par ce qu'il y avoit dans la superscription Constantin au lieu de mon nom a estè envoyée d'icy a Brusselles ou mon Pere estoit<note n="#1"/>, qui me l'a renvoyée. Sans cet abus je vous aurois fait response par l'ordinaire de la semaine passée.</p>
+<p>Il me tarde extremement de veoir le discours<note n="#2"/> de Monsieur <persName key="digb001">Digby</persName> que vous avez entendu. Cette matiere est tresbelle et trescurieuse, et je ne doute point que dans ledit discours il n'y ait des observations et de lumieres nouuelles pour nous en faire comprendre les misteres plus clairement que l'on a fait jusqu'icy.
+Monsieur <persName key="desc004">des Cartes</persName> n'a rien dit dans sa Philosophie touchant la vegetation, toutesfois je sçay qu'il s'estoit adonnè un temps a l'estudier, et qu'il avoit des verres pleins de terre dans la quelle il plantoit de la graine de quelques herbes, en sorte qu'elles touchoient le verre par dedans, a fin qu'il les pût observer en croissant. Je suis bien aise que vous persistez tousjours dans le bon dessein de faire travailler aux lunettes d'approche. J'ay observè tous ces jours passèz Saturne avec les mienes, et je voy distinctement qu'il n'y a pas la moindre partie du globe de Saturne qui avance hors de l'ovale de l'anneau par dessus ny par dessous, ce qui ne devroit pas estre ainsi, selon la proportion des diametres de l'anneau et dudit globe que j'avois mise de 9 ad 4. J'ay donc connu qu'il faut poser l'anneau plus grand a proportion, et que son diametre a celuy du globe doit estre pour le moins comme 17 à 6. Je me suis fait construire un Saturne avec un cercle de cuivre, comme est celuy que j'ay veu chez vous, mais dans la proportion susdite; et l'ayant tout revestu de papier blanc, je voy qu'estant vû de loin et bien eclairè, il me raporte fort bien toutes les phases. Je frotte le papier de craye ce qui le fait paroistre egalement blanc partout.</p>
+<p>Je ne manqueray pas de vous envoyer des exemplaires de mon Antidivinis<note n="#3"/>, quand je trouueray quelque commoditè pour cela.</p>
+<p>Je vous avois priè d'interceder pour moy aupres de Monsieur <persName key="boyl001">Boyle</persName> afin qu'il me voulut communiquer l'observation des parelies. Ayez donc la bontè de vous en souuenir.</p>
+<p>L'on m'escrit de Paris<note n="#4"/> que l'academie chez Monsieur <persName key="monm010">de Montmor</persName> se rechauffe par l'emulation de la vostre, et que l'on s'y veut appliquer aux experiences preferablement à tout autre exercice, ou il n'y a que l'esprit qui ait part. Voila un bon effect qu'a produit seulement vostre exemple. Vous m'obligerez infiniment en me donnant avis de temps en temps de ce que l'on traite dans l'Illustre assemblee et des resolutions notables que l'on y prend. Croyez que dans son establissement et dans tout ce qui la regarde je ne m'interesse pas moins qu'aucun de ceux qui la composent, et que je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>L'horologer icy m'a dit qu'il y a desia un mois qu'une horologe avec un pendule de 3 pieds estoit partie pour Londres par ordre de Monsieur <persName>Brus</persName><note n="#5"/>. Je croy que e'est celle qu'il vous avoit promise, et seray bien aise d'entendre comment vous la trouuez.</p>
+</div>
+</body>
+</text>
+</TEI>

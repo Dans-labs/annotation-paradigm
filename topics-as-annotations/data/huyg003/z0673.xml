@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0673"/>
+<meta type="date" value="1659-10-04"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0673">
+<div type="opener">
+<p lang="la">Clarissime Domine</p>
+</div>
+<p>Moram jn posterum non aegre feram responsi tuj quoties talj foenorj coniunctum adueniet quod litterae tuae penderunt. iucunda sane fuit librj tui jnspectio quem jntegre cursim decurrj. renouavit antiquas similium phasium species quarum aspectibus vt fruerer noctes integras centenas jmo plures insumpsi ante annos pene quinquaginta dum e Belgio Venetias Venetijs deinde Romam a Domino <persName>Scholiers</persName><note n="#1"/> delatum telescopium Magistro quondam suo Antuerpiae Patri Odoni Malcotio<note n="#2"/> professori tum Matheseos oblatum fuit. Vix crediderim aliquem ante nos qui Patris Clauij Academicj dicebamur astrum hoc detexisse. superuenit postmodum Galilaeus cuius instrumentum satis luridum aspectu cum nostris minimè inferioribus contulimus et noua phaenomena illo spectante toti Vniuersitatj in nostro Collegio Gregoriano exposuimus. Et Venerem circa Solem voluj manifeste demonstrauimus non absque Philosophorum murmure coniunctissima tum temporis velut auriculae aut ansae apparebant per instrumenta nostra quae separata in libro tuo exhibes phaenomena ab astroque seiuncta. Gratias ex animo ago pro munere neque dubito Domino <persName key="kinn013">Kinnero</persName> donum in delicijs fore si ad me exemplar transmiseris quod in me suscipio illj tradendum. gaudebit occasionem sibi hoc dono oblatam cum
+Serenissimo Leopoldo<note n="#3"/> tum etiam ipsi Caesarj<note n="#4"/> admirandas has phases ostendendi. Si auaritiae suspicionem non vererer alterum flagitarem Romam nomine vestro nostro Gottignies offerendum, admirationi liber jlle non minus futurus est Patri Kirchero et Romanis quam quo fraus<note n="#5"/> circa artificium noui horologij detecta fuit.</p>
+<p>Dioptrica quibus jnsudas non sine impatientia expectabo cum ea sponte offeras, spero interim dum tantisper a Mezolabio<note n="#6"/> calamum substraho aliquid intercalare expedire idque ad te gratitudinis symbolum mittere. Si graue tibi non sit officium mihi pergratum impendes eorum quae de superficiebus Conoidum et Sphaeroidum excogitaris participem me si feceris. jdem argumentum non semel in mentem
+subijt maxime cum de superficiebus Vngulae Cylindricae theoremata prosequerer. Verum vnica difficultas me transmissum egit quod pars omnis alter<note n="#7"/> parti ita foret absimilis vt recta a circularj jnflectione. vt concludam opto vt Deus votis tuis obsecundet et rogo vt eo me affectu digneris quo te in visceribus meis esse meus mihi testatur animus. Vale et Viue memor</p>
+<div type="closer">
+<p>Ad obsequium tuum paratissimi <persName key="vinc027">G.A.S. Vincentio</persName>.</p>
+<p><placeName key="gent_001">Gandauj</placeName> <date>4 Octob. 1659</date>.</p>
+</div>
+<p>Optarem exemplar incompactum potius quam compactum si tibi aliquid mittere est animus.</p>
+</div>
+</body>
+</text>
+</TEI>

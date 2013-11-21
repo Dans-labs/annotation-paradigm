@@ -1,0 +1,100 @@
+0	0,00756	dans aveq vers trouppes hommes heures quartier pied encor contre enemi ils mil canon vol officiers fois innemen maria 
+1	0,00677	cie polen dor dansick saude ome diener pels coning may well brieven churvorst sweden blijve dennemarcken ontfangen rijxdagh stadt 
+2	0,07097	camp vijand graaf leger morgen gisteren troepen hertog bericht franschen compagnie fort juin heden stad weer gaan aoust aangekomen 
+3	0,01203	nederlanden engelant zaecken vereenigde zaecke zien hollant zulcx coninck parlement meene zeggen oost dunct vrede tijd denemarcken onzen zeelant 
+4	0,00257	von soll stilo novo secretaris mantuae maria gonzaga vrouwe weeten segen provisie 
+5	0,02483	viant volck leger brieven commen lant macht seggen graeff dagen stat paerden gebracht secours houden binnen schrijft compangi comt 
+6	0,00338	hertoch vranckrijck coniginne cardinal fran monsieur oysen coninck duysent tijt raed gesonden seght coninx spaigne benefici spaignien soon compt 
+7	0,00168	que contre doit mis nos ergo quand alser res ont forces pape schepen gevoecht apr dach 
+8	0,00867	seydt tijdt yet schrijft god leste brieff landt goedt weynich metten weten lang gelegenheyt utrecht laten saeck komen derwaerts 
+9	0,014	breda professor school leiden illustre studenten rivet rector dauber zoons zoon college regent theologie eersten planten gekocht misnoegen accoord 
+10	0,00803	proces don namen graafschap nassau recht charny winnen zuster vreemde vrijgelaten rechters procureur gewoon 
+11	0,0043	song broer hoop heel goet tijt lang dunckt kunnen seggen compt godt selver weet uut denckt isser sijt enigen 
+12	0,00553	golilas humelus caesar vosbergen cimons beria sigthunius grave pampieren aisma cimon rector aysma wachte asmundus overleden matroosen out sibi 
+13	0,05763	dienst god eere bidde laten dienaer godt gelieve goeden sien kinderen bidden gelieven werck nemen handen goet comen jaren 
+14	0,01243	wesen hand haghe komen god sien will konde spreken verre gevalle vertrouwen hierneffens coningh gravenhage eere luyden noodigh ure 
+15	0,00444	zeide gheweest goedt weeten weet man bijaldyen waer gheschreven tijdt neef reigersberch waeren meeninge zeggen hollandt mijnne verstaen laeten 
+16	0,00265	zomerghem penninghen terwijl spelen voert moghen edelen heemskerck 
+17	0,00261	comen hooch india uut wesen bewinthebberen banda rotterdam soldaten brieff coningen coninck indi lant proffijt schepen galeyen pieter gevalle 
+18	0,02374	cardinael coning broeder monsieur coninginne parlement hertogh conincx prins moeder conings gesonden comen rijck orangie seggen richelieu itali ambassadeurs 
+19	0,07507	gaarne compagnie kapitein kunt utrecht staten luitenant neef plaats garnizoen brenger helpen sept hage gestorven graaf vaandrig jan breda 
+20	0,00525	sweedsche sweden excellentie deensche generael schepen major munster mayesteyt ambassadeurs waaren overste gans torstenson blijve coomen fransche gallas alrede 
+21	0,01264	hertogh grave volck zegt catelagne carel gezonden harcourt motte zaecken zaecke tweeduizent plaetze spaegnie zeggen plaetzen majesteit bouillon zooveel 
+22	0,00418	excellentie schepen hollant mansvelt hoope weinych frere teresteyn godt hetghene gebruickt middelburch wiert vorst indi varen gheeft zeelant dickmael 
+23	0,01482	koning zweden gedaan buiten verstaan komen hollandt lang meen gekomen zulks zeggen oude gezegt recht plaats weet goet jaar 
+24	0,00358	excellentie tselve huysvrau seynden veluwe laeten eerste quaelijck vranckrijck hollant jonghe eersten insonderheyt gebiedenissen hooghen relligie pleghen seelant cornelis 
+25	0,0022	hooge haege hoff keuren heemraden wegh werck suppoosten straet vaert staten regierders delff hooftingelanden hollandt questie placcaet concept gestelt 
+26	0,00414	guarde cancelier xvicxxiiii seaux croonen puyssieux huwelick pensioen ntie paus hoff mesme houdt eersten clachten keert danckbaerheyt half 
+27	0,0086	hoogh negotiatie spaingen mog ambassadeurs gelyck munster mogelyck voorn pointen staten vranckrijck schryven cie seelant yder hoog gisteren volgens 
+28	0,01676	tijt commen neeff weet goet felix weten garen saecke broeder verstaen yet dagen meent oordeelen gelegentheyt meene waer gesproocken 
+29	0,00653	prins staeten vranckrijck hollant dienaer trefves blijve kommen hyades tijt gescreven brussel minor hertoch saecken dewijle scrijven gelove hage 
+30	0,07131	hagae dank boek gaat gedicht com cal zend zenden gedichten aug werk hag geschreven eens prins vers genoegen febr 
+31	0,00208	gen tres woord passagie gelesen explicatie personas personarum coninx dyenaer 
+32	0,00532	hoocheijt hoocheyt stucken deesen guldens stuck antwerpen laeten voer wenste antwoorde vertrouwende roep weeten weesende julius 
+33	0,00955	compagnie west oost indische indi oostindische westindische geloof tijd planten hooge vereeniging octroy bewinthebbers nieus wapenen participanten decembris 
+34	0,00204	penningen voorz tijt soc somme genoechsaem neringe persoonen andersins schout out 
+35	0,01661	hertogh volck coninc becomen gesonden soon comt keiser saecken sien prins brisac saecke grisons vijant geseit switsers rijn chastillon 
+36	0,00697	gestr amsterdam eed eere gelijk wezen handt magh zien genoegh dies zooveel hooft goedt tijdt houden ontfangen stoffe ooren 
+37	0,13299	zoon hoop dank gaarne eens huis haye vrouw broeder dienst vader kunnen dankbaar man dochter zien kunt dood komen 
+38	0,01292	eens godt schryven hooren quam laet dach comt jaer synde sout huys man uren waer blyven volck waert hooft 
+39	0,00293	uex exc jongman helmstadt tselve circa andtwoorde gelegenheyt considererende genaemt opgestaen 
+40	0,04273	broeder eens brief schrijven geven brieven geschreven vader weet gesonden soon gulden godt moeder seggen eersten amsterdam hage monsieur 
+41	0,00224	land china tyd mogol stad september verhael raedt vermids besoecken gehoort wesende 
+42	0,00685	excell sweden protectie bedancke hooch dienst ambassadeurs daegen daerentegens desselfs weynich coninck ambassadeur vranckrijck alderhoogsten vernemen waermede niets croone 
+43	0,02241	conynck engelant staet scepen vranckerijck weynych hollant sweden keyser commen wesen garen staten zee meenen hoocheyt spaense vergaderynge opinie 
+44	0,0282	landt coning vrunden broeder monsr tijdt mon religie engelant dienstwillige comen gunt huysvrouw yet saeck parijs geschreven meen gebiedenisse 
+45	0,01017	engelant coninginne hertogh parlement spaignie francfort volck marescal orleans gezonden regente keizer londen gezegt becomen vrede paus parlamentarissen beieren 
+46	0,00301	geseyt verstaen gevraecht gesproocken broeder waerop seggende hoocheyt dage comen moste meerman saecke wiste dussen weeten oom mids dyen 
+47	0,00592	londres gezant ambassadeur veneti mon gezanten stile caron vader audientie spanje groeten zijden schoenen theologie varen ouders 
+48	0,00398	stuck campen hendrick spelen staende ampliatie mael vlooswijck noode memorie goedt dinghen verhael seelant 
+49	0,01944	non est quod sed qui cum quae quam mihi esse sunt nec aut quo quid etiam pro sit tibi 
+50	0,00484	parlament conynck parlement grave majesteyt portugael biscoppen coninginne sint prins joachimi portugesen gemaekt schriften hoge spangi spaengien soon hetselffde 
+51	0,00353	voet glasen glas oogh son pendulum wit hollandt brederode stuck derde binnen landt genoech communiceeren 
+52	0,0098	brieven volck hertogh bernhard mons papieren engelant sweden seggen vijant rijcxcancellier weten geschreven valette waer laeste senden graeff hoop 
+53	0,00662	lingen hoecheit zwol koemen soldaten believen kunnen end gesonden enighe metten meerder synde binnen willem geheele datelick jonghen soen 
+54	0,03575	orange beauregard pachters parlement bedarrides kasteel gaut betalen koning sauzin gevangen munt orenge sylvius bezons bureau laten weer soldaten 
+55	0,28564	brief zaak haye gaat koning kunnen prins spoedig oranje brieven laten eens weer komen gaan schrijven raad geschreven geven 
+56	0,00564	geest eighen vol lof minsten gewoon bevonden hooren antwoordt qui betalen 
+57	0,01732	comen vrancrijck buyten nopende dunckt dyenen weynigh yet landt misschyen drye tijdt dyenst saecke keyser luyden wegh geseyt last 
+58	0,00241	the and that his have for this not your which but him her will hee may shall more hath 
+59	0,00829	remonstranten amsterdam weet seggen vergadering schrijven houdt opt gesien arminianen luyden magistraet kerckelicke hoff bid kercken gesonden gedeputeerde broeder 
+60	0,01295	mogende edele saecke staten edelen generael procureur zeelant hove voorschreven hollandt proces verstaen excellentie requeste gravenhage mogenden goetgevonden zaecke 
+61	0,00358	eed godt zoon dochter waerde lieve almachtich schryven plaetse tijdt oeck landt saecke gelegentheit well oversulcx remonstranten wenschen wesende 
+62	0,00285	graden inventie suppliant comeet octroy nieuwe gestelt son voornoemden mogenden wercken aertkloot tijt stellen brengen nederlanden december werck jaren 
+63	0,09998	wesen goet sien tijt gesonden ontfangen nemen laten ordre resolutie brengen saecke seggen huys buyten beyde versocht lant eynde 
+64	0,00547	hoogheyt isser doctoren waerinne behalven yets seynde gelyeven cento mans 
+65	0,00096	nous waeren indi oost majesteyt conferentie geschrift conde handel concept contracten beginnende waerop geseyt indes generael gedeputeerde termen stuck 
+66	0,02906	que les est qui pour vous nous par bien une plus pas comme faire son mais sur faict avec 
+67	0,05777	vrancrijck coning comen monsieur iet hollant oorlogh engelant vrede gelt buiten coninginne garen gemaect sweden parlement ambassadeur tijdt lang 
+68	0,00329	huys breur comen goet adieu vast weer nacht heel bruer brief weet thuys beter weest synen elck schoon houwen 
+69	0,00528	ved haerlem leijden mons weeten dienaer sende leyden weesen eerder schooten frans ontfanghen gehoort mette tgunt 
+70	0,00285	druck swaricheit deele exemplaer recht doctor weesende 
+71	0,22999	waer verstaen staet houden geven beter vinden gegeven weten stellen blijven eer geschreven weet brieven schrijven gestelt nemen helpen 
+72	0,00216	kromme centrum gravitatis vinden quadratura aequatie ueds methode slusius dominus diameter problemata methodus punt demonstratie afgesneden wanneer stuck nemende 
+73	0,03555	waer komen sien weten gevonden gesien komt dewijl aengaende vinden plaets eerst gestelt recht bekent bevonden eerste wesen dienaer 
+74	0,00812	generael ceulen armee keyser may sterck bannier volck trouppen keyserl gesanten comen churfurst schrijft keysersche voorsr waeren landen saxen 
+75	0,00504	horologien caep lengde min schip horologie verschil graef sec volgens journael observatien breedte stierluyden reys colomne correctie schepen tafel 
+76	0,00164	dierkens water kleijne hont vaten sien openingh comt bekennen getal laten bloet wateren staen geobserveert succes missive uren extract 
+77	0,0039	middelburch provincie zeelandt hollandt vijant juweelen middelburg lande segghen oude twelcke gewelt pedro principalijck cornelis daghen jansen 
+78	0,00914	exc coning dienstwilligste hamburg ambassadeur vranckrijck verblijve staat wegen armee keysersche laeten sterck waermede dennemarcken aengecomen staten hoocheit geschreven 
+79	0,00192	horologie ure uren son graden sons minuten seconden horologien min daghen gestelt tijdt plaets lenghde gangh gevonden dagh getal 
+80	0,00992	gevoelen boeck gereformeerde materie synode confessie schrift lutherschen leere tilenus termen opinie conferentie bisschop onlancx godes coningh overheyt roomsche 
+81	0,01657	hooch hage sake prince gecommitteerden mog gelyck missive comen laten resolutie zyde vergaderinge princesse well raet wegen audientie groeningen 
+82	0,00592	stede staten hollant stadt supplianten burgemeesteren voorn hugo privilegi vergadering gedeputeerden raiden placcaet goederen gevanckenisse laste jaere gedeputeerde fiscael 
+83	0,00208	eerw tuae meae quas salut algemeene noodigh hoogen quanquam zee 
+84	0,00718	schepen rochelle engelschen xvicxxviii gallus monsr leger stadt verwachten dyenstwillige ambassadeurs aurelianus engelsche anthemius aelius mantua binnen vivres verus 
+85	0,00337	majesteyt hollandt staten suppliant gheweest tijdt wetten saken recht ghelijck ghestelt persoonen sonderlinghe landen oprechte deur kennisse swagher edele 
+86	0,0081	staten excellentie hollant utrecht gedeputeerden generael steden rotterdam provinci intentie poincten accommodatie middelen tgunt rechters godt vergaderinghe gunt waertgelders 
+87	0,0058	wensch geluk opschrift nostro huwelijk musaeo geboorte vis geeft fauten leew 
+88	0,03291	man volck stadt leger gevangen paerden geslagen binnen stucken gebleven brengen voet vijant quartier waeren regiment sterck wacht ingenomen 
+89	0,04381	hertogh man coning leger fransoisen becomen cardinael marescal paus itali stadt coninck voet fransche spaignaerden prince casteel waeren meent 
+90	0,0018	god wet menschen swaert gesalfde recht waer macht apostel straffen conen oorloch tijt reeden godes sonden geseyt waerheyt goet 
+91	0,00422	gelijk uedelheijt witte swarte spel ducaet eerst zouw waar dewijl kans munt eerste regel woorden gegeven quaestien volgens conditie 
+92	0,00136	water ijssel voet neder roeden voeten rhijn canael verval plaetsen waters bevonden rivieren rivier hooger tijdt nieuwe diepte sesthien 
+93	0,00833	cimon vindex manlius aristoteles gracchus calaber caesar gisteren xenocrates irenaeus aelianus justinus thucydides fabius gesel bidde saxen wint mustafa 
+94	0,00628	schepen schip zee admirael admiraliteyt don revisie capiteyn vice vlissingen boort haven west exceptie voorsegde verleent kusten gelt segen 
+95	0,0035	godt amsterdam joost deo laus gekoomen borgemeesteren weynich dienstw prince tijt duysent magistraet coninck staten persoonen thuys luyden datelick 
+96	0,00699	engellant spaigni churf saecken rst longueville saecke plaetsen coninck itali leger gesonden savoie harcourt seggen bannier palsgraef schotten sesduisent 
+97	0,00549	genade furstelijcke rstelijcke doorluchtige furst hoochgeboren dienaer parijs godt majesteit rst hoochste tijdt affectie almachtigh brief hamburg geobligeert gantsch 
+98	0,00357	godt kercke gevoelen roomsche republique tijden menschen augustinus christi gelooven brief gebruyck heyligen veeleer geboden verborghen 
+99	0,00423	parlement london essex coninck coningh vrede comen leger waller grave teit vwt antwoort brief hollandt commissarissen waeren plaetsen zee 

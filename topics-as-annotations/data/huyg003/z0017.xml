@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0017"/>
+<meta type="date" value="1646-11-16"/>
+<meta type="sender" value="mers004"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0017">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Le peu de temps qui m'est resté depuis vostre demonstration recüe ne m'a pas permis de vous escrire des Centres de Percussion, ce sera dieu aydant à l'autre voyage, ou
+du moins lors que j'auray recu l'autre demonstration, que vous m'asseurez qui prouue que la chaine, ou la corde bandée, et s'affaissant de son poids propre au milieu, ne fait pas la parabole, comme auoit crû <persName key="gali003">Galilée</persName><note n="#1"/>; et de plus en quelle maniere [?] doit estre la pression pour luy faire faire ladite parabole, et si vous aioutez comme il la faut presser pour luy faire faire l'hyperbole et l'ellipse, vous vous surmonterez vous mesme.</p>
+<p>Ie vous asseure que i'ay si sort admiré la gentillesse de vostre demonstration des cheutes, que ie croy que <persName key="gali003">Galilée</persName> eust esté raui de vous auoir pour garand de son opinion. Ce n'est pas qu'il ne m'y reste quelque scrupule, mais j'aymeray mieux attendre à vous le proposer lors que vous serez icy, (car Monsieur vostre pere l'honneur [?] des Muses me le fait ainsi esperer). I'ay oublié à scauoir de luy si vous scauez toucher le Luth, si cela est, ie vous prie de voir si vous soudrez bien ce beau probleme, a scauoir
+<figure><graphic url="huyg003oeuv01ill13.gif"></graphic></figure>
+pourquoy la chorde AB, telle que vous voudrez, par exemple la chanterelle, attachée fermement en A et faisant quelque son, doit elle estre tendüe en B 4 fois plus fort, que deuant, pour monter à l'octaue, veu qu'il ne faut l'accourcir de moitié en C pour la faire monter à ladite octaue. J'entreuoy que vostre fondement de Mechaniques aprand[?] que pour faire vn mouuement 2 fois plus viste, il faut peut estre vne force quadruple, vous ferez l'ouuerture de la demonstration, laquelle me sera bien precieuse de vostre main.</p>
+<p>Mais affin que la presente ne s'en aille pas sans quelque petit present, vous receurez nostre miracle [?] de St. Iean, &amp; le ferez voir à vos professeurs de Leyde qui loueront nos beaux caracteres &amp; vous reconnoistrez la verve francoise d'un ieune homme, qui reussira bien en ces vers auec le temps.</p>
+<p>Si vous voyez le professeur de Mathematiques de <placeName key="leide001">Leyde</placeName>, tant Monsieur <persName key="goli002">Golius</persName><note n="#2"/>, que l'autre<note n="#3"/> que j'ay icy vû, ie vous prie de leur presenter mes humbles recommandations. I'ay quasi envie de vous enuoyer l'une des belles demonstrations que vous ayez jamais vûes, ascauoir d'un cylindre hyperbolique lequel estant insini, est egal a vn corps &amp; cylindre fini. Nous auons aussi des espaces ou surfaces qui ont mesme proprieté. Oubien ie vous restitueray le tout lors que vous serez en cette ville. Ie suis cependant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres affectionné seruiteur <persName key="mers004">Mersenne m.</persName></p>
+<p>Ce <date>16 Nouembre 1646</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestien Huygens</persName>
+<lb/>A <placeName key="leide001">Leyde</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

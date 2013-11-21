@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1330"/>
+<meta type="date" value="1665-02-13"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1330">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Heri a Serenissimo Principe Leopoldo ab Hetruria literas accepj, quibus significat desiderare se Obseruationes vltimi Cometae hisce in partibus factas. Cum vero quas habebam, iam ab aliquot septimanis miserim, Te rogatum venio vt si quid apud te reperiatur quo Serenissimi et Eruditissimi Principis desiderio satisfierj possit, eius me participem facias: nisj fortasse missurus es ipse vel etiam misistj. Adiunxit suis ad me literis obseruationes aliquot Florentiae Romae<note n="#1"/> Bononiae<note n="#2"/> et Venetijs<note n="#3"/> factas, quas, si forte ad te aliunde non pervenerint, a me, cum iubebis, accipies. Vale Vir praestantissime meque ama vt soles. Dabam Leodicj 13 februarij 1665.</p>
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> &amp;ca. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

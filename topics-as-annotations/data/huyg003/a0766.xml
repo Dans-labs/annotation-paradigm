@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0766a"/>
+<meta type="date" value="1660-08-05"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0766">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="boul014">Ismaeli Bullialdo</persName> Viro Clarissimo S.</p>
+</div>
+<p>Illustrissimi Thuani summam benignitatem et incredibile in ornandis literis studium recte commendas et laudas, mi Bullialde. nec quicquam tam magnificum aut amplum de eius virtutibus dici potest, quod illae non exsuperent longe ac antevertant. Quo magis mihi enitendum sentio, ne tam obvia et profusa comitate abutar. Quapropter rogo te enixe atque obtestor, ne auctoritatem summi viri in discrimen voces, si negotium de Sancti Germani et Sancti Victoris bibliothecis anceps aut repulsus obnoxium esse deprehendes, aut multa cum difficultate conjunctum. Fore enim rem impetratu difficilem Menagianae literae praesagiunt. Spem tamen facit
+amicus ille noster de <persName>Mentelianis</persName><note n="#1"/> codicibus, atque aliis, quos ipse sit missurus. Si perspectam satis habeo comitatem tuam, non gravaberis Thuanis sarcinis adjicere, quicquid ille librorum tibi crediturus est. Quid impulerit Serenissimum Leopoldum ab Etruria, ne gratias ageret Hugenio nostro pro systemate Saturnio, jam novi. Miserat enim Hugenius illi libellum suum nulla addita epistola, sed sola comitatum praefatione typis descripta. Ejus rei certiorem me fecit nuper<note n="#2"/> admodum Carolus Datus intimae apud Principem admissionis: addiditque, Principi rem gratam fore, si Hugenianis literis compelletur<note n="#3"/>, nec de responsione dubitandum. excusare amicum nostrum hac in re vix possum ut dicam ingenue quod res est: frater certe eius<note n="#4"/> causae Principis favebat, et recte ab eo factum contendebat, quod tacuisset. Militasse etiam pro silentio suspicionem de compilatis Galilaei scriniis conceptam facile persuadeor ut credam. De Peyraredio risum movisti. Antiquum ille obtinet, quantum video, quem esuritio et vanae jactantiae inanitas pergant pascere. Posset ille aliquid in literis praestare, nisi crederet se plurimum praestare posse. Labbaei Glossaria et Themistium jam prodiisse opinabar, utrumque
+librum valde a me desideratum, nunc desiderium sufflaminandum est, dum prodeant. De Londinensi typographo<note n="#5"/> queritur Menagius noster: de illo vicissim queritur typographus. Mericus certe Casaubonus<note n="#6"/> datis ad Gronovium nuper literis serio affirmat nihil Laertii editionem morari praeter Menagianas notas, quum testudineo procedant gradu. De Anacreonte Fabri<note n="#7"/> salivam mihi movisti.</p>
+<p>Festivissimi enim poetae editionem parat<note n="#8"/> Joannes Cottonus<note n="#9"/> Eques Anglus,
+cui cum nuper mihi adesset in comitatu regio, parentis mei<note n="#10"/> ad scriptorem hunc animadversiones tradidi. In Codice Vaticano epigrammatum Graecorum <hi rend="i">ἀνεϰδότων</hi> nonnulla Anacreontis exstant, quae lucem hactenus non viderunt. Nisi ea editioni suae Faber adjecit magnam Cottonianae editioni accessionem reliquam fecit. Sed de his aliisque rectius in congressum nostrum differetur confabulatio. Vale, vir amicissime et celeberrime.</p>
+<div type="closer">
+<p>Dabam properans <placeName key="denha004">Hagae Comitum</placeName> <date>A<hi rend="sup">o</hi>. CIƆIƆCLX a.d. v sextil. Gregoriani</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

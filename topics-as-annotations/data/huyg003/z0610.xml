@@ -1,0 +1,65 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0610"/>
+<meta type="date" value="1659-05-03"/>
+<meta type="sender" value="nier005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="nieuw901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0610">
+<div type="opener">
+<p><persName key="huyg003">Christiaen Hugens van Zuijlichem</persName> zeer goede vrient</p>
+</div>
+<p>Ick hebbe uwe schrijven van den 9 April<note n="#1"/> wel ontfangen, en daer in enige woorden aldus luijden. <hi rend="i">waer door dan het punt</hi> B <hi rend="i">lichtelijk gevonden wort</hi>, <hi rend="i">als men alleenlijk op</hi> 2 <hi rend="i">sijden des driehoeks</hi> DFG <hi rend="i">circelboogen beschrijft die de gevonden hoeken tot de sijden behoorende begrijpen. want de doorsnijding van sulke</hi> 2 <hi rend="i">boogen is het punt</hi> B.</p>
+<p>Om dit te ondersoeken hebbe ick gemaeckt dese figuer, alwaer op de zijde DF (tegen over het kleijnste gewicht G, maekende den grootsten hoek DBF) is beschreven met de grootste half midlijn CF, de kleijnste booge DBF 104-15<note n="#2"/> de helft is 52-7½ diens hoekmaet<note n="#3"/> is voor EF 78935 welke gestelt wort op 600 roeden.</p>
+<p><figure><graphic url="huyg003oeuv02ill133.gif"></graphic></figure></p>
+<p><table>
+<row>
+<cell>CFE</cell>
+<cell>37-52½</cell>
+</row>
+<row>
+<cell>AFH</cell>
+<cell>18-26</cell>
+</row>
+<row>
+<cell>EFH</cell>
+<cell>60-0</cell>
+</row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+</row>
+<row>
+<cell>CFA</cell>
+<cell>116-18½</cell>
+</row>
+</table></p>
+<p>Om nu ook de lenkte CF in de zelfde deelen te vinden men zette Choekmaet/78935 - EF/600 - hoekmaet E/100000. komt 760 voor CF.</p>
+<p>Van gelijken is beschreven op de zijde GF (tegen over het grootste gewicht D) maekende den minsten hoek GBF 143-8 de helst is 71-34 diens hoekmaet is voor HF 94870 die ook gestelt is op 600 roeden, ende voort om AF te vinden men zette 94870-600-100000 komt AF 632 roeden.</p>
+<p>Vergaert nu de hoeken als hier boven komt 116-18½ voorden hoek CFA en de zijden CF 760 en AF 632 waer door men vint de hoeken C en A, als ook de rechtstandige FI 363½ dat is voor FB 727 roeden, waer door dan de resterende licht te vinden zouden zijn.</p>
+<p>Om dit nu voort met een proeve t ondersoeken heb ick gemaekt dese figuer, alwaer
+<figure><graphic url="huyg003oeuv02ill134.gif"></graphic></figure>
+DH evenwijdich getrocken is met BF, also dat de zijden des driehoeks DBH evenredich zijn met de gewichten, waer door dan de hoeken gevonden worden, als FBG 104-15 FBD 143-8 GBD 112-37 dese GBD trekt van 180 blijft 67-23 voor beijde hoeken als BDG en BGD dit van 120 graden blijft 52-37 voor beijde hoeken BDF en BGF.</p>
+<p>De lenkte van BF nu hier voor gevonden zijnde 727 ick zette dan, gelijk DF 1200 tot hoekmaet van zijn over staende hoek DBF 59995, also de sijde BF 727 tot hoekmaet BDF 36347 diens booge is 21-19, ende gelijk FG 1200 tot hoekmaet FBG 96923 also BF 727 tot hoekmaet boge BGF 35-57, dese twe hoeken vergaert moeste komen 52-37 en komt nu 57-16. Also dat het op dese manier niet kan goet gemaekt worden<note n="#4"/>, of ten waer dat ick uwe schrijven niet wel en verstonde: gelijk ook de volgende woorden van ue schrijven, die ick niet kan verstaen, aldus luijdende:</p>
+<p><hi rend="i">Den triangel</hi> DFG <hi rend="i">gelijksijdich zijnde</hi>, <hi rend="i">zo moet het getal van t swaerste gewicht gequadreert sijnde</hi>, <hi rend="i">niet grooter zijn</hi>, <hi rend="i">als de</hi> 2 <hi rend="i">quadraten van de kleijnder gewichten met te saemen het produckt van haer multiplicatie.</hi> Ick wenschte wel breder bescheijt hier van te sien bij gelegener tyt.</p>
+<p><figure><graphic url="huyg003oeuv02ill135.gif"></graphic></figure></p>
+<p>Wat voort aengaet de ontbindinge van ue voorgestelde vrage<note n="#5"/>, hier toe heb ick dese figuer AK evenwijdich getrocken met CB, en AI met DB, als ook de hangende IKLCD. Als nu heeft de linie CK tot CA gelijk het gewicht C tot het gewicht hangende onder A dat is alhier als 2 tegen 4.</p>
+<p>Van gelijken heeft de linie DI tot DA gelijk het gewicht D tot het gewicht hangende onder A dat is alhier als 14 tegen 8, want DI is dubbelt van DL dat is 14. Ende het quadraet CL 1 trekt van 't quadraet CA 16 blijft voor AL √15 hier toe het quadraet LD 49 komt 64 diens wortel is 8 voor DA.</p>
+<p>Also<note n="#6"/> dat het gewicht C<note n="#7"/> tegen 't gewicht onder A hangende is als 14 tegen 8 ofte 7 tegen
+4, ende t gewicht C tegen t gewicht onder A hangende als 2 tegen 4: daerom t gewicht D tegen t gewicht C als 7 tegen 2 voor t begeerde. Hier op enich schrijven verwachtende, hoop ick ue wel-vaert en goede kennisse te verstaen.</p>
+<div type="closer">
+<p>Bij mij Ue seer toegedaene vrient <persName key="nier005">Dirck Rembrandtsz. van Nierop</persName>.</p>
+<p>In <placeName key="nieuw901">nieu-nierop</placeName><note n="#8"/> den <date>derden maij 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aan den wel edelen seer geleerden heer Jonck-heer <persName key="huyg003">Christiaen Hugens van Zuijlichem</persName> woonende bij het prinsenhof tot 's graevenhage loont<note n="#9"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

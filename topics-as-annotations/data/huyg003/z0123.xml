@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0123"/>
+<meta type="date" value="1652-03-29"/>
+<meta type="sender" value="brer010"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0123">
+<div type="opener">
+<p>Amice Honorande.</p>
+</div>
+<p>Consuetudo nostra Bredana, licét tám frequens non fuit, ut familiaritas dici debeat, tuas tamén egregias animi dotes mihi itá notas fecit, ut (earum causâ) iusté, tuam amicitiam permagni facere, &amp; possim, &amp; debeam. (Earum causâ, dico) Quia nemini cupiam haberi amicus, nisi quem virtute suâ alijs praelucere videam, sicut inter stellas Luna minores. Talem veró te esse, pro indicijs habeo certissimis; quod isti scientiarum generi, animum tuum applices, quae caeteris longé praestantiores sunt, &amp; si qua est certitudo, omnium procul dubio certissima: Mathematicis nempé. Quorum claves nactus, nihil iam te latiturum videtur, quod in illis continetur; (si modó ex praeterito successu, liceat de futuro conijcere). Quod in Mathesi quó minus fiat, nullam causam video; Quum ex ijsdem principijs, omnes eius etiam difficillimae Propositiones oriantur, ideoque, principia ista, summâ curâ observantem, certoque ordine prosequentem, latêre nequeant. Tám magnificam autem meam de te opinionem confirmârunt viri multò me oculatiores, Cavendissius<note n="#2"/> nempé, &amp; Hobbius<note n="#3"/>, (quos Pellio contrá Longomontanum<note n="#4"/> adstipulari,
+in libello, de istâ controversiâ edito<note n="#5"/>, vides) lecto libello tuo, quem a
+Fratre tuo optimo acceperam, &amp; illis detuleram. De quo libro licet nondúm iudicium ferre possum, quum multas adhuc propositiones ignoro, quarum praecognitione opus est ad tuorum Theorematum examinationem, apud me tamén servare constitui, continuóque ante oculos habere, utet instar calcaris sit, quod me ad praeclara illa studia urgeat; (quum videam, ad tám altas &amp; reconditas veritates, pervenire posse iuvenes) nec é memoriâ meâ sinat abire promissum, quo me obstringo, fore ad omnia amica officia tibi praestanda paratissimum</p>
+<div type="closer">
+<p><persName key="brer010">Gulielmum Brereton</persName>.</p>
+<p><placeName key="londe002">Londini</placeName>, <date>Martij 29<hi rend="sup">o</hi> 1652. Stylo novo</date></p>
+</div>
+<p>Cognatum tuum <persName>Eyckbergium</persName><note n="#6"/>, rogo meo nomine salutes.</p>
+</div>
+<div type="para">
+<p>Nobilissimo, Praestantissimoque <persName key="huyg003">Christiano Hugenio de Zuylichem</persName>, Hagae-Comitis.</p>
+</div>
+</body>
+</text>
+</TEI>

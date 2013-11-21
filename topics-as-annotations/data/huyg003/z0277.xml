@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0277"/>
+<meta type="date" value="1656-04-01"/>
+<meta type="sender" value="wall057"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="oxfor001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0277">
+<div type="opener">
+<p><placeName key="oxfor001">Oxoniae</placeName>. <date>Martij 22. 1656. stilo Juliano</date>.</p>
+</div>
+<p>Accepi nudius tertius, Clarissime Vir, literas tuas, <placeName key="denha004">Hagae Comitis</placeName> datas Martii 15 stilo novo et gratulor tibi visa tua. Ne autem te solum ea vidisse putes, faciet (credo)
+<figure><graphic url="huyg003oeuv01ill147.gif"></graphic></figure><note n="#1"/> quod sic exponas licet; <hi rend="i">Saturni Comes quasi lunando vehitur. Diebus sexdecim circuitu rotatur. Novas nuper Saturni formas Telescopo vidimus primitus. Plura speramus</hi>. Ad plenum vero Saturni phasium systema rectius colligendum, faciet fortasse tuarum cum nostris jam inde ab anno 1649 praestitis observationum collatio. Quod autem ad phasin Saturni mox exspectandum attinet; an hac forma <figure rend="inline"><graphic url="huyg003oeuv01fi32.gif"></graphic></figure> quam tua videtur indicare pagina, an hac potius <figure rend="inline"><graphic url="huyg003oeuv01fi33.gif"></graphic></figure> conspiciendus erit, eventus brevi indicabit; ad quam tamen, ex forma rotunda, sensim perveniat necesse est. Libros quod attinet, cum ultimis meis literis ad te missos, me male habet eos tardius ad te fuisse delatos, nec tibi cum literis ut oportuit traditos. Quos spero tamen te jam antehac
+accepisse. Quippe cujus curae a me mandati Bibliopola noster<note n="#2"/>, se a Domino <persName>Pulleyn</persName><note n="#3"/> Bibliopola Londinensi certò accepisse ait, tum literas tum libros ab illo missos fuisse tibi tradendos; nec dubitare se quin ad te tutò perventuri fuerint. Fieri autem posse arbitror, ut libri illi, cum majori suorum sarcina missi, tardius aliquanto quam literae adveniant. Monendum tamen Dominum <persName>Pullenium</persName> curabo, ut sicubi adhuc lateant, repetitis literis tradendos curet. Vale, Vir Clarissime, et amare pergas</p>
+<div type="closer">
+<p>Tui observantissimum
+<lb/><persName key="wall057">Johannem Wallis</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Doctissimoque Viro Domino <persName key="huyg003">Christiano Hugenio</persName>, etc. Constantini filio, tradantur
+<lb/>Hagae-Comitis.</p>
+</div>
+</body>
+</text>
+</TEI>

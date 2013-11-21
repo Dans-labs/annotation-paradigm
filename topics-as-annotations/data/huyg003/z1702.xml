@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1702"/>
+<meta type="date" value="1669-02-04"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1702">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 4. Fevrier 1669.</p>
+<p>Monsieur,</p>
+</div>
+<p>Apres auoir lû les theoremes du mouuement, qu'il vous a plû envoyer<note n="#1"/> à la Societé Royale, et les comparé auec les regles de Monsieur Wren<note n="#2"/> on a trouué d'abord, qu'ils sont equipollens, et plusieurs entre nous sont assez persuadés de leur verité. Mais il faut plus de temps et de consideration, pour en dire quelque chose de plus precis, la matiere estant aussi delicate qu'importante. La Societé y travaille à present, et ie pense, qu'Elle ne quittera point ce sujet, qu'Elle n'y voye bien clair, et ne donne à chacun de ceux, qui y ont travaillé, l'honneur, qui luy appartient.</p>
+<p>Il y a encore trois autres de la dite Societé, qui ont aussi exhibé leur meditations sur la mesme chose, asscavoir Messieurs Wallis<note n="#3"/>, Neile<note n="#4"/>, et Croon<note n="#5"/> dont celles du premier se pourront, peut estre, accommoder à vostre theorie et consequemment a celle de Monsieur Wren; mais celles des autres deux, point, que ie croy.</p>
+<p>A fin de faciliter la communication des papiers de Messieurs Wallis et Wren aux Membres de nostre Societé, et à d'autres aussi (pour resveiller tant mieux les Esprits par tout) on l'a iugé a propos de les faire inprimer dans les Transactions, dont ie prens la liberté de vous envoyer icy vn Exemplaire<note n="#6"/>.</p>
+<p>Si i'eusse eu vostre permission, et que vous nous eussiez communiqué le som maire de tout ce que vous en auez medité, ien aurois enrichi les mesmes Transactions de grand coeur. Ce que Monsieur Wallis en dit<note n="#7"/> ne sont que les chefs, qu'il deduit bien amplement dans vn assez grand volume<note n="#8"/> à present sous la presse.</p>
+<p>Je ne scay pas, si i'ose vous conseiller de prendre le mesme chemin, c'est à dire, de mettre au iour, comme vn avantcoureur, le sommaire de vostre travail sur cete matiere. Si d'avanture vous le trouuiez bon, de faire ainsi, ie vous assure, qu'en cas que vous voulussiez m'ordonner de les mettre dans nos Transactions<note n="#9"/>, ie le ferois non seulement auec Joye, mais encore auec cette attestation, que, quoy qu'il vit le iour apres les travaux de Messieurs Wallis et Wren, il auoit esté entre mes mains au mesme temps, que ceux là, et encore qu'il y a plusieurs années<note n="#10"/>, que vous en auiez esté le possesseur; comme cela se peut verifier par plusieurs Experiences, dont vous predisiez icy le succes par la force de la theorie, que vous auiez desia conceuë de cete matiere, quoy que vous ne trouuiez pas alors à propos, d'en faire part à nos Philosophes icy.</p>
+<p>La Societé le trouue fort bon, ce que vous proposez comme vn Expedient pour assurer à chacun l'honneur de ses descouuertes et inventions; et Elle m'a ordonné de vous remercier du commencement, que vous auez fait dans vostre derniere, de le mettre en pratique, et de vous assurer, que ce que vous leur auez envoyé, sera enregistré incontinent<note n="#11"/>.</p>
+<p>Je croy, que Monsieur le Chevalier Moray vous envoiera<note n="#12"/> par ce mesme ordinaire ce qu'il a à vous dire touchant la dispute entre vous et Monsieur Gregory; de la quelle Monsieur Collins<note n="#13"/>, qui est estimé fort honeste homme
+et bon mathematicien a donné l'abbregé<note n="#14"/>, qui vous sera communiqué. Et quant à la replique<note n="#15"/> de Monsieur Gregory à vostre responce<note n="#16"/>, elle sera inserée, auec tout le respect, qui vous est dû, dans les Transactions de ce mois<note n="#17"/> quoy que ie souhaiterois fort, que cette dispute fut bien terminée, et qu'on n'eut pas besoin d'entretenir les lecteurs de ces Journaux auec des particularitez, qui tesmoignent de la chaleur et de l'animosité des personnes de merite, et auec cela du soupcon de l'incertitude mesme des conoissances Mathematiques. D'ailleurs Monsieur Gregory est vn homme assez modeste dans la conversation, et ie ne scay comment il s'est laissé emporter à des paroles chocquantes dans cette dispute. le chevalier Moray vous en entretiendra plus amplement, pendant que ie vous assure, que tous nos Messieurs retiennent leur ancienne estime et affection envers vous et que ie suis particulierement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné serviteur
+<lb/><persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Je vous prie, Monsieur, de vouloir desormais addresser vos lettres pour moy, ainsi,</p>
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">Grubendol</persName><note n="#18"/> a Londres.</p>
+<p>Rien que cela, et tout me sera bien livré.</p>
+<p>P.S.</p>
+<p>La Societé seroit bien aise, que vous trouassiez bon, de nommer le temps, dedans lequel vous leur expliquerez ceste invention mise en chifre; vous laissant neantmoins la liberté entiere de le faire ou de ne le faire pas.</p>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

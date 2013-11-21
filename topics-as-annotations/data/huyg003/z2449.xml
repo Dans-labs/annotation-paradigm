@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2449"/>
+<meta type="date" value="1686"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2449">
+<p><figure><graphic url="huyg003oeuv09ill11.gif"></graphic></figure></p>
+<p>de Mr. <persName key="duil010">de Duillier</persName></p>
+<p>&nbsp;</p>
+<p><hi rend="i">ab</hi> raion d'une des rouës. <hi rend="i">bd</hi> raion de l'autre rouë. <hi rend="i">cb</hi> raion d'un cercle dont le centre est <hi rend="i">c</hi>. Si le cercle <hi rend="i">cb</hi> roule sur la circonference <hi rend="i">bf</hi>, et que par le point attaché <hi rend="i">b</hi> hors de sa circonference si l'on veut il decrive une epicycloïde interieure <hi rend="i">bif</hi>. Et si le meme cercle <hi rend="i">cb</hi> roule sur la circonference <hi rend="i">bg</hi> et que par le même point <hi rend="i">b</hi> il décrive l'epicycloïde <hi rend="i">bhg</hi>. Les deux epicycloïde <hi rend="i">bhg</hi>, <hi rend="i">bif</hi>, agiront l'une contre l'autre avec une meme force, lors que l'une ou l'autre des rouës sera meuë egalement.</p>
+<p>Au lieu du point generateur <hi rend="i">b</hi> pris au dedans ou dehors de la circonference et qui est sans grosseur on peut prendre pour generateur des figures correspondantes, un cercle decrit du centre <hi rend="i">b</hi> de quelque diametre que ce soit, et ce cercle alors
+est comme un point generateur qui a quelque grosseur. Les bords du cercle decrivent pendant le mouvement deux lignes paralleles pour une rouë et deux lignes paralleles pour l'autre; les deux interieures sont correspondantes entrelles et les deux exterieures le sont aussi entr'elles<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

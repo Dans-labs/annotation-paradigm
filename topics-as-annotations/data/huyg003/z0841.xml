@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0841"/>
+<meta type="date" value="1661-02-17"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0841">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo S.P.D.</p>
+</div>
+<p>Quanquam nihil causae erat, cur te inviderem Urbium principi Lutetiae, aut dignissimis tuo conspectu Celtis, laetabar tamen haud modice, cum frater tuus nuper admodum spem mihi fecit mox fore, ut pedem ad nos referres. Unice enim cupiebam te praesentem amplecti ante meum ex patria discessum. At nunc intelligo obsecutum te sententiae ac voluntati Illustris Viri Parentis Tui de adeunda Britanniê cogitare, priusquam patriam revisas. quem sane nuncium tam ingratum indigne, ne quid dissimulem, tuli, deiectus omni spe ac fraudatus maturandi recursûs ad nos tui, quem mihi votis flagrantissimis nuper promittebam. Vossium vero, Vir nobilissime, apud Britannos fore a te inveniendum, non est quod opinere: cum is suâ omnino arbitretur interesse, ut Reginam Christinam Aprili mense nobis adfuturam expectet
+ac praestoletur. Affirmat quippe Silvercronius<note n="#1"/>, ex Suecia ante biduum redux, dubium sibi non esse, de herili ad Batavos nostros sub id tempus excursu. Velim equidem plurimas ob causas profectionem Suecicam differri a me posse in adventum Reginae, sed vix reor integrum id mihi per Proceres nostros fore. Florentia epistolam nuper habui, sed quae flagitaret indicem a me operum Francisci Vietae<note n="#2"/> ineditorum, nihil praeterea contineret aut prae se ferret studiorum nostrorum, nisi quod Datus noster (is enim exararat epistolam) dissertationem<note n="#3"/> de Saturni tui Zonâ, quam nuper contexuit, sperare brevi nos iubet. Bullialdum<note n="#4"/> Hamburgum advenisse ex Langermanni<note n="#5"/> literis proxime sum edoctus, qua in urbe aliquamdiu videatur haesurus. Capellanum si Beuningio sistes, multum me demereberis. Opinor enim homini advenae et ingeniorum maximo fautori nihil gratius, praestantiusque ac numeris omnibus absolutius-ostendi posse, quam hunc virum, in quo virtus cum elegantia atque urbanitate certat. Simultates, inter illum Menagiumque me
+invito ac nolente exortae sunt: optemque vehementer tuam operam conferre nonnihil posse instaurandae inter viros egregios concordiae. Menagij officijs multum debiturus est meus Naso<note n="#6"/>, cum codices manu exaratos suppeditarit mihi nonnullos vatis optimi, quos lucubrationibus meis utiles atque oportunos sim expertus. Caeterum quod persuades tibi, hominem officiosum mea potissimum de causa tuis commodis studere, nimis profecto modeste de te sentis. cum nulla comitas cuiquam tanta sit, ut meritis tuis ingentibus antevertat. Audio Amstelaedamum appulisse fasciculum illum, in quem Commentarij de Maximis et Minimis<note n="#7"/> sui exemplaria nonnulla, inter viros hic terrarum literatos dividenda, Vivianus<note n="#8"/> congessit. Verum cum inseriptio fasciculi non me sed Turrianum<note n="#9"/> Legati Hispanici<note n="#10"/> vicinum spectet, non video, qui destinata nobis munera consequamur, nisi copiam eorum Turrianus nobis faciat. Vale, Vir Summe.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName>. <date>CIƆIƆCLXI. ad diem XVII. Februarii</date>.</p>
+</div>
+<p>Decreveram nonnihil literarum ad Capellanum nostrum his addere, sed per temporis angustias non licet. proxime tanto uberius ac verbosius id fiet.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huygens</persName> a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

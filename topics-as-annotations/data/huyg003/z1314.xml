@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1314"/>
+<meta type="date" value="1665-01-23"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1314">
+<div type="opener">
+<p lang="la">Clarissime Domine</p>
+</div>
+<p>Misi Romam tuum munusculum<note n="#1"/>, et Pragam litteras tuas<note n="#2"/>, vbique gratissimum sincerae amicitiae symbolum. Curiosius voluj ac reuoluj argumentum litteris apertis<note n="#3"/> contentum; Indignabar loco mutj litterarum commercij coram animj sensa vtrimque communicandj integrum non esse. Laudo interea et miror animos ac industriam tuam circa contemplationes, quae longitudinibus investigandis inserviunt, gratissimum longioribus praesertim nauigationibus solatium. Dioptrica etiam promittis, spartam non minus desideratam atque arduam. De eadem materia inter nos sermo fuit dum Clarissimus Schoten<note n="#4"/> Gandauj ante aliquot annos me jnuiseret, aiebamque inter caeteras lucubrationes meas exstare hanc propositionem.</p>
+<p>Lineam rectam speculo concauo aut convexo ita constituere ut appareat punctum opticum. Deinde linea recta jmo et circularis, praeterea Elliptica, vlterius parabolica, denique hyperbolica.</p>
+<p>Mentionem Cometae varijs e locis accepj sed solius qui Decembrj mense visus fuit; nullas hucusque reperj, quae secundi<note n="#5"/> (qui hucusque apparet) meminerint. Credunt nonnullj unum esse eundemque quj praesenti mense et elapso nostrum hemisphaerium jnviserit, cum tamen prior meridiem versus cursum suum direxerit, secundus Septentrionem continuo petat. Roma intelleximus Reginam Sueciae<note n="#6"/> a Patre Kirchero et Patre Fabrj obseruationes postulasse de primo Cometa, qui pluribus diebus Romae apparuit postquam hîc videri desijt.</p>
+<p>Clarissimae Dominationis suae Ex animo obsequijs addictissimus <persName key="vinc027">Gregorius a Sto. Vincentio</persName> octogenario maior</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandauj</placeName> 23 Januarij annj 1665.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

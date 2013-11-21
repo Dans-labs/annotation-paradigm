@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0799"/>
+<meta type="date" value="1660-11-02"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0799">
+<div type="opener">
+<p><date>Mardy 2 Nouembre</date>.</p>
+</div>
+<p>Monsieur <persName key="monm010">de Monmor</persName> ma fait scauoir quil attendra aujourdhuy Monsieur <persName>Huggens</persName> a disner. Je le prie de me mander si sa santé luy permettra d'y venir afin que je luy en donne auis. En ce cas il se rendra ches moy sur les onze heures et demie afin que je luy face compagnie et luy serue de guide.</p>
+<p>C'est son tres humble seruiteur</p>
+<p>&nbsp;</p>
+<p>Chapelain.</p>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huggens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

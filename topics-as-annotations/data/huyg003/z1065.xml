@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1065"/>
+<meta type="date" value="1662-09-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1065">
+<div type="opener">
+<p>25 Septembre 1662.</p>
+<p><persName key="slus001">Slusio</persName>.</p>
+</div>
+<p>Moram in rescribendo rogo ut boni consulas. Jam enim ante ad penultimas tuas respondissem, nisi quaedam circa novum inventum tuum prius expendenda mihi proposuissem, ad quae vix demum paucis hisce diebus liberum otium concessum est. Miratus enim quod scribis de brevitate methodi ad tangentes curvarum abs te repertae, qualis nam ea esset invenire allaboravi sed frustra. Nam illius quidem curvae Gutschovianae quam proponis tangentem nullo negotio investigavi
+varijs modis calculoque brevissimo, qui vix duos hujusmodi versiculos occupet. Atque in tuam constructionem quoque incidi; veruntamen quantum ex verbis tuis conjicio, majus etiamnum compendium reperisti, quodque ad omnes curvas spectet quarum proprietas aequatione expressa sit, nempe ad has quoque quarum implicita
+<figure><graphic url="huyg003oeuv04ill52.gif"></graphic></figure>
+quodammodo est aequatio, ut<hi rend="i">x</hi><hi rend="sup">3</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi> - <hi rend="i">x y n</hi> ∞ o quae est curvae illius quam in Schotenij commentarijs ad Cartesium<note n="#1"/> forsan vidisti, posita AB ∞ <hi rend="i">x</hi> et BC quae illi perpendicularis est ∞ <hi rend="i">y</hi>. data vero rectâ AD ∞ <hi rend="i">n</hi>. Hujus tangentem in dato puncto ego quidem non nisi mediocriter prolixo calculo inveni (ex hac nempe aequatione, nam potest alioqui ad aliam multo commodiorem res deduci) plurimumque mirabor methodum tuam, si absque ullo pene, ac tantum inspectis characteribus istis reperire eam doceat. Caeterum in linea abs te proposita in qua <hi rend="i">y</hi><hi rend="sup">4</hi>/<hi rend="i">aa</hi> - <hi rend="i">yy</hi> ∞ <hi rend="i">xx</hi>. dum accuratius eam contemplor,
+<figure><graphic url="huyg003oeuv04ill53.gif"></graphic></figure>
+ista occurrerunt non indigna notatu. Spatium nempe insinitum inter ipsam DKF curvam, et asymptoton ejus AB interjectum rectaque AD terminatum, aequari circulo cujus AD sit diameter. Et in universum si a quocunque curvae puncto ut F, demittatur in AD perpendicularis FH, spatium FKDH aequari segmento circuli FLE, cujus arcus FL descriptus sit radio FC, aequali DA, ac centro C.</p>
+<p>Praeterea quoque solidum e conversione spatij infiniti DABFKD circa DC,
+aequale esse sphaerae cujus radius DA. Unde sicut in Cissoide<note n="#2"/> rursus calicem existere vides infinitae capacitatis, licet tantilli ponderis.</p>
+<p>Haec autem exigui momenti sunt, nec quae data opera quaerenda ducerem, sponte autem occurrentia non videntur negligenda.</p>
+<p>Literas quas Parisiis ad te dederam<note n="#3"/> intercidisse doleo. In ijs quod de Cycloide scripseram erat hujusmodi, nempe si per superficiem secundum Cycloidis
+<figure><graphic url="huyg003oeuv04ill54.gif"></graphic></figure>
+cavum inflexam, qualis hic ABC, ita ut axis BH situs sit perpendiculariter, si inquam mobile per eam descendat, id eodem tempore ad punctum imum B pervenire e quocumque puncto Cycloidis ut E vel D vel A, dimissum fuerit. Hoc porro inventum ad emendandum penduli motum ita adhibeo, suspenso nimirum pendulo, puta FB, inter lamellas FGA, FKC medio, quorum occursu dum se inflectit filum FB, plumbum B, per arcus cycloidis ABC feratur. Quod sic fieri inveni si duae dimidiae cycloides fuerint FGA, FKC, ipsi ADB pares.</p>
+<p>Soleo autem ad horologia adhibere particulas duntaxat exiguas FG, FK, quia penduli ipsius oscillationes modicae sunt. Ita ut ad hunc usum facta a natura linea ista videtur, fateorque hisce animadversis non parum me fuisse delectatum postea quam et experientia comprobatum est.</p>
+<p>Venio ad alteras tuas<note n="#4"/> in quibus de Boilianis experimentis disseris, deque ijs quae Romae fieri vidisti, diversa ratione, sed circa res easdem parique eventu, praeterquam in animalium morte, quae in machinâ nostra sensim expirant; neque id effluviorum Sanctorij eruptione vel suppressione fieri existimes, sed respirandi facultate ademta, ac fortassis etiam inflatione insolita viscerum ac membrorum omnium quae ordinariae aeris pressioni alioqui exposita sunt. Hac enim remota praeter modum distenduntur, sicut cucurbitulis applicatis carnem tumescere videmus, cujus eadem est prorsus ratio.</p>
+<p>Quod de nolae recipiente conclusac sono refers idem ipse quoque expertus sum, quam licet ita constituissem ut tremor ad vitrum pervenire non posset, aliquid tamen semper exilis tinnitus exaudiri poterat, etsi minor multo cum exuctus esset aer, quam prius, et fortasse nullus plane superfuisset, si penitus extrahi potuisset. Vidisti vero quae de his etiam Dominus <persName key="boyl001">Boile</persName> tradidit, cujus exactam diligentiam merito collaudas. Sicut autem inventis addere facile est, nonnulla aptius in machina mea concinnavi, quibus et melius exhauriatur aer, et exhaustus excludatur, quamquam illud semper incommodum superest, quod antlia semel bene aptata, non diu in optimo statu permanet, nec citra laborem ac temporis dispendium potest resici. Multa interim tum ex Boilianis Experimentis iterato examini subjeci, tum nova quoque aliquot excogitavi, sed de his dicere longum foret; unum vero inter caetera memorabile occurrit, occasionem praebente 19<hi rend="sup">mo</hi> Boilij Phaenomeno, quod sic exhibere consuevi<note n="#5"/>. Phiala vitrea est cum collo oblongo AE; aqua plena atque in vasculum semiplenum ore aperto immersa, hisque
+<figure><graphic url="huyg003oeuv04ill55.gif"></graphic></figure>
+superimpositum vas vitreum majus FG pedalis circiter altitudinis. Accidit ergo ut extracto aere e vase FG, descendat aqua e phiala inversa in vasculum subjectum, eousque ut pene ad parem altitudinem aqua intra collum phialae atque extra consistat, utique si bene officium faciat antlia. Idem vero experimentum cum facere vellem aqua jam ab aere purgata, hoc est quae totam noctem intra vitrum FG aere vacuum stetisset, innumeramque bullularum multitudinem rejecisset, nequaquam ut prius aqua ex phiala AB descendit, quantumlibet exhausto vase FG, idque vel vicies expertus sum. Quod si tamen, ubi jam aliquandiu ita obstinata constitisset aqua, minima quaepiam et pene invisibilis bullula ut E nasceretur intra tubi cavitatem, ea ubi paululum increvisset, sursum tendebat, et simulac ad unius digiti latitudinem superficie aquae CD superior facta esset, inde porro sese sursum extendebat manente basi inferiori, ita ut momento pene temporis totam phialam collumque ipsum occuparet, aqua omni per latera colli celeriter effluente in vasculum CD, nisi quod uno circiter digito altior intra tubum remaneret quam esset superficies ejus, quae vasculo continebatur. Intromisso deinde aere in vas FG, is denuo intra phialam AB aquam compellebat, sed ita ut bulla aeris exigua quantum est semen cannabis in summo superesset, qui quidem aer ex aqua prodijsse videtur, eo praecipuè, quod sic relicta phiala, post horas 24, vel pauciores etiam, bulla ista prorsus evanescere soleat. De seminibus herbarum plures monuerunt ut periculum facerem, sed et hoc et alia multa distuli donec rationem excogitem qua perfectius aerem omnem e phiala educam, namque etsi cum superius istud experimentum caperem, recte sese habebat antlia, vix unquam deinceps successit ut aeque ac tunc votis satisfaceret.</p>
+<p>Quod de Experimentis Academiae Florentinae edendis<note n="#6"/> jam aliquoties inaudiveram, id abs te confirmari gaudeo, neque dubito quin expectationi quam de ijs maximam habeo, sint responsura.</p>
+</div>
+</body>
+</text>
+</TEI>

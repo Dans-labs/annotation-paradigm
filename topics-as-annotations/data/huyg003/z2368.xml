@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2368"/>
+<meta type="date" value="1684-09-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="diere001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2368">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 22 Sept. 1684.</p>
+</div>
+<p>Devant que vous quitiez Dieren je vous prie de choisir un morceau de cette pierre blanche dont vous m'avez envoiè un eschantillon le plus gros et le plus transparent que vous puissiez trouver. C'est du vray cristal ou Talc d'Islande, dont vous m'avez vu de grosses pieces, mais je doute fort si l'on en trouve ailleurs d'aussi clair. Puis que le vostre vient de Lingen, on pourroit estre informè dans quels lieux et en quelle terre il croit ce qui merite d'estre sceu, sur tout pour moy qui ay escrit un traitè de ce cristal<note n="#1"/>. L'autre morceau semble contenir quelque metail, veu sa pesanteur, mais apparemment ce n'est pas d'une mine bien riche puis que l'on s'en sert a faire des grottes.</p>
+<p>J'admire vostre zele en ce que vous proposez touchant le voyage en Angleterre. Si mon affaire des Horloges ne m'arrestoit icy, qui, depuis que j'ay appliquè le pendule triangulaire<note n="#2"/>, succede beaucoup mieux qu'auparavant, je pourrois m'y resoudre sans beaucoup de difficultè, mais je voudrois que ce fut sous quelqu'autre pretexte. J'espere cependant qu'il nous viendra quelque nouvelle de nostre homme<note n="#3"/>. Il eust falu prendre son adresse pour pouvoir luy escrire.</p>
+<p>Le frere Drossart a eu quelque accès de fievre tierce, et pour s'en defaire se sert de remedes du Sr. Charas<note n="#4"/>. Il faudra voir comment il s'en trouvera dans la suite, car pour l'arrester cela ne manque point, et c'est l'effect du ChinaChina quoy qu'il puisse dire.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijnheer <persName key="huyg007">van Zeelhem</persName> &amp;c.
+<lb/>Tot Dieren.</p>
+</div>
+</body>
+</text>
+</TEI>

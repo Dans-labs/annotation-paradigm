@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1674"/>
+<meta type="date" value="1668-11-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="esti011"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1674">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 23 Novembre 1668.</p>
+<p>Monsieur,</p>
+</div>
+<p>Si je ne vous fais pas response aussi tost que je devrois et que vous le souhaiteriez, je vous prie de n'en imputer pas la cause a ma seule paresse parce qu'assurement il y en a d'autres que je pourrois alleguer avec plus d'avantage pour moy. quand je vous expliquai dernierement la fabrique des pendules comme on les fait icy, je croiois et supposois que vous en aviez quelque fois considerè par dedans et que la figure et l'usage des platines en cycloides vous estoient connus. Ce que n'estant pas, je ne m'estonne nullement qu'il y ait eu plusieurs endroits dans ma lettre<note n="#2"/> que vous n'ayez pu entendre. Les quels donc je m'en vais icy vous eclaircir.</p>
+<p>Et premierement quant aux <hi rend="i">portions de Cycloides</hi>, ce sont deux platines recourbées suivant cette ligne courbe qui est la mesme que la roulette comme vous l'avez bien confirmée. Cette ligne est fort connue parmi les geometres et j'ay trouvè qu'entre beaucoup d'autres belles proprietes elle a encore celle de reduire le mouvement des pendules a l'esgalitè en sorte que les grandes et petites vibrations d'un mesme pendule deviennent d'esgale durée. Et en voici l'origine et l'application.</p>
+<p><figure><graphic url="huyg003oeuv06ill61.gif"></graphic></figure></p>
+<p>Soit la regle AB contre laquelle roule un cercle ou rouleau AC sans glisser, comme il est aisè de faire en y appliquant un ruban a l'entour dont un bout soit attachè au rouleau et l'autre a la regle AB. Par ce mouvement si on fiche quelque pointe de fer au point de la circonference A, elle marquera sur la table, ou sur une platine couchée contre la regle AB. le trait de la roulette ADB. Dont j'ay
+premierement decouvert et demontrè cette proprietè, que si dans un creux ou
+<figure><graphic url="huyg003oeuv06ill62.gif"></graphic></figure>
+canal qui ait cette forme de roulette ADB, dont les bouts A, B soient mis a esgale hauteur, l'on laisse rouler une petite boule depuis le point G pris en quelque part que l'on voudra, elle arrivera toujours en mesme temps au point D, le plus bas, et l'ayant passè, et retournant, continuera a faire des allées et venues toutes isochrones. L'autre proprietè que j'ay trouvè qui est merveilleuse aussi et tres utile a nostre sujet est que joignant ensemble deux platines HKA, HLB qui auroit chacune la figure des demies cycloides AGD, BD, en sorte que toute la hauteur HD devenue double de la hauteur de la cycloide DM, la boule attachè au filet HD, en se pliant contre les platines HKA, HLB, parcourra avec son centre de gravitè la roulette ADB, d'ou il est aisè de voir que les vibrations d'un tel pendule doivent estre isochrones aussi bien que les rouleaux de la boule GG desquels cela est demonstrè.</p>
+<p>Pour trouver donc les cycloides a un pendule de longueur donnée, il faut prendre un rouleau dont le diametre soit la moitiè de cette longueur, et la cycloide qu'il decrira sera celle qui est requise, de la quelle il n'est necessaire de prendre que les morceaux HK, HL, suivant que les vibrations du pendule seront amples. Et voila quant a cette premiere de vos difficultez.</p>
+<p>La partie ABC marquoit ces platines cycloidales mais de costè. Les voicy autrement
+<figure><graphic url="huyg003oeuv06ill63.gif"></graphic></figure>
+pour vous les faire mieux comprendre. les lignes que j'y avois tracées dessus vouloient dire qu'il y avoit de la courbure a cette platine et estoient au lieu d'une legere ombre.</p>
+<p>Vous concevez bien naturellement que la figure à la fin de ma precedente lettre estoit celle des cycloides pour le pendule de 3 pieds 8 lignes car je pense vous l'avoir envoiée.</p>
+<p>La partie D est le sommet de la verge du pendule par laquelle passe le fil de soye comme par une poulie, car ce filet est double comme vous voyez et s'attache ainsi entre les deux platines en haut. Les points E estoient aussi au lieu d'ombre pour marquer la partie EK de la petite main qui mesne la pendule, l'embrassant tout a l'entour, comme cette figure fait voir. Pour la grandeur des roues je crois vous l'avoir environ marquée comme elle est, la plus grande d'environ 2½ pouces, mais ce n'est pas tant par ces grandeurs que doibt estre reglée la quantitè du contrepoids que par la hauteur de sa descente en 24 heures eu esgard à la pesanteur du plomb du pendule, qui est dans mon horologe de plus d'une livre. Dans le dessein de vostre horologe, vous faites la poulie petite afin que vostre poids ne descende pas plus vite qu'il ne faut, mais les horologers ne jugent pas que cela soit bon, et c'est pourquoy ils ne font tourner la grande roue qu'en 2 heures plus tard, afin que la poulie ait plus de diametre. Enfin l'experience a fait voir que la forme dont je vous ai envoyè le dessein reussit tres bien, et je vous conseillerois de la suivre; a quoy vous auriez bien plus de facilitè si vous aviez la machine mesme devant vous.</p>
+<p>La petite piece ronde sur la verge et les divisions servent a mettre la pendule au point qu'il faut sans qu'il soit besoin de hausser on baisser le plomb d'en bas qui demeure fixe. Mes divisions sont supputées sur ces propositions icy, scavoir que le petit plomb coulant et la verge mesme de fer, qui est platte, pesent chacun 1/28 du grand plomb de pendule. Et si vous suivez cette proportion, ma division que je vous envoirray, conviendra à vostre horloge. J'espere que tout ce que je vous viens d'escrire quoique a la haste, vous sera assez intelligible, si non vous n'aurez qu'a me le mander et trouverez toujours l'interprette en</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

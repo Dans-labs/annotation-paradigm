@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2769"/>
+<meta type="date" value="1692-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2768"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2769">
+<p>Ut EB<note n="#2"/> ad BT ita SB ad BK. Ergo EB seu PO in BK=BT seu BX<note n="#3"/> in
+<figure><graphic url="huyg003oeuv10ill75.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure> BS. Sed ut PO in BK cum sequentibus inter se ita sunt supersicies ex singulis BK circa asymptoton, ergo hae etiam ut ▭<hi rend="sup">la</hi> ex BX in BS.</p>
+<p>Nota supersiciem ex BK circa ET, toties sumptam quot sunt particulae divisionis in BE, aequari supersiciei ex BX circa TEZ, quia totidem sunt particulae ipsi BK aequales in BT, cui aequalis BX.</p>
+<p><figure><graphic url="huyg003oeuv10ill76.gif"></graphic></figure><note n="#4"/><note n="#5"/></p>
+<p>Sed supersiciei istius cylindricae dimidia est conica superf. ex BT circa ET.</p>
+<p><figure><graphic url="huyg003oeuv10ill77.gif"></graphic></figure><note n="#6"/><note n="#7"/></p>
+<p><figure><graphic url="huyg003oeuv10ill78.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p>Sp<note n="#8"/> logistica sive logarithmica asymptotos TM. BT tangens in B. BM perp. TB. BE perp. TM. BN=BE. TRH perp. TM. TR=TN. TH=TE. RS, HP parallelae TM. SK perp. HP.</p>
+<p>Hic HT ad RT, hoc est P <hi rend="i">ρ</hi> ad S <hi rend="i">π</hi> ut in superiore figura EV seu VN ad XH<note n="#9"/> hoc est ut VS' ad XL, unde KP hic [fig. 2] est <hi rend="i">l</hi>; quae
+nempe ad subtangentem TE=<hi rend="i">a</hi> se habet ut portio hyperbolica VS'LX ad qu. ES'VD in fig. superiori<note n="#10"/>.</p>
+<p>Jam sicut BM [fig. 2] ad BM+KP, ita erit superficies conica ex TB circa TE conversa, ad superficiem infinitam ex BSV circa asymptoton<note n="#11"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

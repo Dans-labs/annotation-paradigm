@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0939"/>
+<meta type="date" value="1661-12"/>
+<meta type="sender" value="scho252"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0938"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0939">
+<p>data area <hi rend="i">mm.</hi><note n="#1"/>
+<figure><graphic url="huyg003oeuv03ill78.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv03ill79.gif"></graphic></figure><note n="#2"/><note n="#3"/></p>
+<p><figure><graphic url="huyg003oeuv03ill80.gif"></graphic></figure><note n="#4"/><note n="#5"/></p>
+<p><figure><graphic url="huyg003oeuv03ill81.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv03ill82.gif"></graphic></figure></p>
+<p>Area trapezij circulo inscriptibilis est <figure rend="inline"><graphic url="huyg003oeuv03fi08.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

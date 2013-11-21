@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1183"/>
+<meta type="date" value="1663-12"/>
+<meta type="sender" value="peyr012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1182"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1183">
+<div type="opener">
+<p>Nobilissimo Viro; et supra annos Mathematico Excelsissimo, <persName key="huyg003">Christiano Hugenio, Constantini Illustris Filio</persName>.</p>
+</div>
+<p>Noli admirari, Vir admirande! si, dicamne semipaganus an paganus totus in Mathematicis, ad sacra Mathematicorum (quae tua sunt) demonstrationem hanc rudem et indigestam affero. Et si quid in illâ vel erraui, vel diuinaui; furentis animi delirium, aut vaticinationem interpretare: aestuabam enim febre ardentissimâ cùm haec primum cogitaui, vt me tibi confessus sum. Nescio quid certe me lactat (videris an spe inani) non nihil consecutum esse: Et si non acu, saltem acutissimo circino rem tetigisse mihi videor. Sed tu hoc meum aes Corinthium examina. Fac illud fusile: et repetitâ tuâ analysi, tanquam exploratore camino coque et recoque; dum faex in fumos et cineres abeat, et si quid auri in illis est purius elucescat. Inuenies obsequentem si me inter cultores virtutis tuae admiseris. Vale.</p>
+<p>Tuus sum</p>
+<div type="closer">
+<p><persName key="peyr012">Isaacus Peyrerius</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

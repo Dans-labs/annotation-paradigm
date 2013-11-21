@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1864"/>
+<meta type="date" value="1672-02-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1864">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 5 febr. 1672</p>
+</div>
+<p>Ce voiage d'Italie est il de vostre invention ou de celle del Signor Padre qui me le conseille de mesme que vous? Je m'y resoudrois fort facilement n'estoit la raison que vous verrez dans la lettre que je luy escris<note n="#1"/>, qui m'enpeschera du moins de l'entreprendre si tost. Mais si jamais je le fais et que vous soyez encore en estat d'estre de la partie, je vous sommeray de l'offre que vous venez de me faire, dont je vous suis tres obligé.</p>
+<p>Il se pourroit a ce que je vois que vostre affaire<note n="#2"/> n'iroit pas encore bientost a conclusion puis que vous vous en remettez ainsi au destin, et que vous doutez si ce ne sera pas pour vostre bien s'il faut que l'on differe la partie. Si la petite B<note n="#3"/> scavoit vostre a todos los demonios je la tiendrois rompue pour jamais. Je suis bien aise d'apprendre encore des nouuelles de mademoiselle H.<note n="#4"/> car apres qu'elle aura quittà la Haye, peut estre je n'en auray pas souuent, mademoiselle Constancia estant si paresseuse qu'elle ne m'en escrit rien quoy qu'elle la voie encore tous les jours. Que sera ce quand elle sera eloignée? mais qu'est devenu le scrupule de la donzella de se hazarder ainsi de passer des matinees dans la chambre des garçons? il est vray que broeder dirck<note n="#5"/> servoit cette fois de chaperon, mais je sçay que d'autres fois il n'y estoit pas. Je suis marry de ne pouuoir avoir part a toutes ces petites parties et rejouissances. Nos patriam fugimus tu Tityre lentus in umbra formosam<note n="#6"/> &amp;c. adieu.</p>
+<p>Le jugement des Ordres de nouuelle invention ne s'est pas encore fait<note n="#7"/>.</p>
+<p>L'on croit que Monsieur le Brun Seer nae de prijs sal dingen<note n="#8"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

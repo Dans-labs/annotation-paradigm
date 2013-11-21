@@ -1,0 +1,44 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0004"/>
+<meta type="date" value="1645-05-09"/>
+<meta type="sender" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0004">
+<p>Norma studiorum et vitae reliquae praescripta Constantino et Christiano Hugeniis, Academiam Leidensem adituris.</p>
+<p>&nbsp;</p>
+<p>Surgent hora quintâ.</p>
+<p>Vestiti legent caput N.T. Graeci et preces vernaculas alternis alter diebus genu flexo recitabunt.</p>
+<p>Sextâ aggredientur studium Juris methodo a Prof. Vinnio<note n="#1"/> partim praescriptâ et porro praescribendâ.</p>
+<p>Durabit ista lectio usque ad dimidiam nonam.</p>
+<p>Hac jentaculum sument, et animum laxabunt.</p>
+<p>A nona ad decimam audient Vinnium legentem, qui nunc commode versatur in Regulis Juris.</p>
+<p>A decima ad undecimam Schootenio<note n="#2"/> mathematico operam dabunt.</p>
+<p>Ab undecima ad meridiem picturae.</p>
+<p>Et hic musices, inter alia <hi rend="i">πάρεργα</hi>, rationem haberi conveniet, ut statis vicibus singula organa tractentur. Etenim <hi rend="i">τὸparta tueri</hi> unice sibi commendatum habebunt.</p>
+<p>A prandio usque ad secundam vel, si volent dimidiam tertiam otiari licebit, prout sibi temporis opus esse sentient ad praeparandum se collegio Vinnii.</p>
+<p>Eo accedent hora tertiâ.</p>
+<p>A quarta ad sextam ludo vel ambulationi vel cuivis animi aut corporis honestae exercitationi vacabunt; quod superest otii ad caenam usque rei literariae daturi sunt, ut alias item de horis feriatis, quandoquidem neque aer neque animus quotidie fert otium ambulando vel ludendo perdere.</p>
+<p>A caena horulam aestivam ambulationi, si volent, brumalem ludis domesticis, musicae vel cuivis alii oblectamento impendent.</p>
+<p>Decima decubituri caput iterum testamenti Graeci et preces vernaculas, ut mane, recitabunt.</p>
+<p>Diebus dominicis concionem unam vernaculam, alteram Gallicam frequentabunt. Horam item unam aut alteram dabunt lectioni sacrae scripturae, catecheseos et utriusque interpretum.</p>
+<p>Conciones et lectiones publicas semper una frequentabunt; neque nisi quod rarissime soli aut seorsim in platea conspicientur.</p>
+<p>Magistratum urbis et professores reverenter habebunt et hos quidem subinde invisent brevi alloquio, ne fastidium sui cuiquam pariant.</p>
+<p>Sodalium amicitia utentur, quantum eius fieri poterit semper se meliorum ac doctiorum, utique honestissimorum et communibus studiis serio addictorum.</p>
+<p>Otiosorum et malorum commercia ut pestem fugient. Omnes tamen et quoscumque comi prompta et liberali salutatione excipient, neque in hoc genere exterioris officii a quoquam se praeteriri patientur.</p>
+<p>Patrem quam saepissime de valetudine et studiorum progressu per literas certiorem facient, praecipue dum in castris erit.</p>
+<p>Rogo denique supplex Deum Opt. Max. (quem non dubito quin ubique ob oculos habituri sint) hisce praeceptis et consiliis insistere det charissimis amicis meis.</p>
+<div type="closer">
+<p>Scribebam distractissimus <placeName key="denha004">Hagae Com.</placeName> <date>9 Maii CIƆIƆCXLV</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

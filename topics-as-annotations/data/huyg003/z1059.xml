@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1059"/>
+<meta type="date" value="1662-09-08"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1059">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Librum<note n="#1"/>, de quo me monueras<note n="#2"/>, ab aliquot diebus accepi, et continuâ lectione, vt ita dicam, deuorauj. Gratias igitur ago pro indicina, eo ampliores, quo maiorem, quam speraueram, voluptatem ex eo sum consecutus. Auctorem<note n="#3"/> enim agnouj doctum, accuratum, et, quod de Hipparcho Ptolemaeus, <hi rend="i">φιλόπονον ϰαὶ φιλαλήθη</hi>. Machinam vero illius ingeniosam, sed quam ni fallor industria tua aptiorem reddes. Cum essem Romae et sepiuscule de rebus Mathematicis, Physicis, Anatomicis, vt fit, cum Clarissimis Viris Riccio<note n="#4"/>, Maggiotto<note n="#5"/> et Trullio<note n="#6"/>, colloquia miscerem, incidit nobis cogitatio occasione phaenomeni <persName key="torr901">Torricellianj</persName>, experiendj, num in illo, vti apparet, vacuo, animal aliquod moueri ac viuere posset. Sed nihil nobis successit, cum ea quae tubis inclusimus, Mercurij pondere elisa prius expirarint, quam quidquam obseruare licuerit. Cum vero Maggiottus <hi rend="i">ὁ μαϰαρίτης</hi> in eà esset sententia, quae aerem soni vehiculum ac medium esse tuetur (quidquid tandem ille sit) nec Kircherj experimento fidem haberet, vt rem accuratius examinaremus, in tubo vitreo, in cuius extremitate bulla satis ampla et aperta erat, nolam inclusimus duos tresue digitos latam et valde sonoram, obstructoque, quantâ fieri potuit diligentiâ superiori, cui annectebatur foramine, tubum hydrargyro impleuimus. ac, vt experimentum exigit, non sine labore propter Mercurij pondus depleuimus. Stetit ille in altitudine consuetâ, concusso vero tubo tam debilis e nolâ sonus auditus est, vt incertos nos dimiserit an non ex ipsius tubi tremore oriretur, a nolâ scilicet, cui vt dixi, arcte colligabatur, impresso. Nosti enim in longissima etiam trabe, si vna sui extremitate pulsetur, sonum ad alteram ratione continuitatis partium subitò deferri.</p>
+<p>Aeris elaterem dudum varijs experimentis edoctus eram, sed illo maxime Roberuallij quod in Pecqueti<note n="#7"/> anatomicis<note n="#8"/> editum est. Nam Gassendj rationibus acquiescere nunquam potuj, qui vesicae fibras ad statum naturalem redeuntes hic caussatur. Hinc etiam non minimam respirationis caussam petendam arbitratus sum, et cur adeo necessaria sit in lucem editis, immò et in vtero conclusis si Hippocrati et <persName key="demo901">Democrito</persName> fides, quorum sententiam (saltem quoad foetus per os nutritionem) nuper renouauit<note n="#9"/> Courueus<note n="#10"/> Regis Poloniae Medicus. Jn his tenebris lucem expecto a tuis experimentis quibus etiam illustratum iri confido, quantum aer effluuia<note n="#11"/> Sanctorij<note n="#12"/> promoueat vel retardet, et an non ex horum suppressione vel eruptione subitâ, mors animalium recipiente inclusorum oriatur. aliquid certe in luminis inclusi extinctione <hi rend="i">ἀνάλολον</hi> videre videor, quod tu accuratius obseruabis. Sunt et alia circa chymicorum operationes non contemnenda, vt quid ad fermentationem vel praecipitationem, quam vocant, aer conferat, et an ille misceatur ijs salibus (tartari exempli gratia) ex quibus olea per deliquium
+fiunt, quae pondere duplo, triplo et amplius augeri solent: et quid tandem sit occultus ille vitae cibus quem in aere latere scribit<note n="#13"/> <hi rend="i">ϰοσμοπολίτης</hi> ille Sendiuogius<note n="#14"/>. Jnsuper quid plantarum vegetationj aer conducat: cum enim semina, puta nasturtij aut lactucae,
+ita macerarj spiritu vini aut alio liquore possint vt terrae mandata pauco tempore erumpant, posset in experimentum deducj, an in illo recipientis vacuo idem effectus sequeretur. Sed horum iam <hi rend="i">ἅλις</hi>: superest tantum vt hanc <hi rend="i">ἀπςραντολογίαν</hi> excusem, quam a me viri nobilissimi experimenta, et spes quam de tuis concepi maximam, expresserunt. Vnum tamen adhuc addo, monitum esse me septimanâ proxime elapsâ a Clarissimo Riccio, Academicos Florentinos iam esse in procinctu, vt experimenta physica edant in lucem<note n="#15"/>, quae Serenissimi Principis Leopoldi auspicijs, his vltimis annis fecerunt. Sed hoc fortassis ab illis iam accepisti. Vale igitur Vir Clarissime meque amare perge.</p>
+<div type="closer">
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>VIIJ Septembris MDCLXII</date></p>
+<p>Tui Obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

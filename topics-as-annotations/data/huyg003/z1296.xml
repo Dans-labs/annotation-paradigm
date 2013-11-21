@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1296"/>
+<meta type="date" value="1664-12-31"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gouf011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1296">
+<div type="opener">
+<p>31 decembre 1664.</p>
+<p>au duc <persName key="gouf011">de Roanetz</persName>.</p>
+</div>
+<p>Mespris des anglois de sa chaise roulante. Extrait des lettres de Moray<note n="#1"/>. je leur communiqueray ce qu'il m'a escrit du bon succes. je luy envoieray l'invention de Deslons<note n="#2"/> quand je l'auray. Le privilege obtenu de mon horologe<note n="#3"/>. En France vaudroit la peine.</p>
+</div>
+</body>
+</text>
+</TEI>

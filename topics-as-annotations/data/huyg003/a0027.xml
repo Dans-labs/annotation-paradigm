@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0027a"/>
+<meta type="date" value="1647-01-14"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0027">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous avez trop grande opinion de mon <persName key="huyg003">Archimede</persName> mais je sçay bien qu'il ne dementira jamais celle que vous en devez avoir.
+Je luy envoyeray le tiltre de la selenographie de <persName key="heve011">Hevelius</persName><note n="#1"/>, si cest auteur ne me donne partage dans ce nouveau monde, il faict prejudice au bon droict qui desja m'y est acquis<note n="#2"/>, par la division du mathematicien de Bruxelles<note n="#3"/>, dont vous aurez veu le project<note n="#4"/>, puis que c'est chose qui vous touche<note n="#5"/> aussi pour vostre contingent.</p>
+<p>Ce que le lunettier de Naples<note n="#6"/> publiera de ses observations faictes par son telescope de 15 ou 20 pieds, est plus receuable que ce que faict esperer vostre fourbe d'Advocat de son instrument plus court que d'autres, et plus estendu de veüe qui est paradoxe en optique.</p>
+<p>Je voudroy que ces observations Napolitaines<note n="#7"/> parvinssent jusques à nous, et si
+vous avez moyen de me recouvrer parfois de semblables productions nouvelles en quelque partie de la philosophie ou autre matiere que ce soit, vous m'obligerez de me les faire achepter sans prendre esgard aux prix que je porte volontiers et attens en suitte la nouvelle philosophie<note n="#8"/> in 4<hi rend="sup">o</hi> que vous me promettez.
+M. <persName key="tass006">Tassin</persName> sera bien content de fournir l'argent, et je donneray bon ordre à le faire rembourser. Maintenant que ma jeunesse est parvenue à la capacité de juger des belles choses et sublimes, je m'y divertis plus volontiers que jamais aveq elle. Nostre musicien<note n="#9"/> continue à se comporter sagement et desjà se trouve dans une presse de près de 20 escoliers, outre celà j'espere encor luy faire du bien aveq le temps. Nos grands violistes<note n="#10"/> sont partis aveq la famille de Monsieur l'Electeur, vers Cleves; mais le meilleur des deux reviendra. Son Altesse l'a demandé à Monsieur l'Electeur et j'espere que nous y ajousterons l'excellent joueür d'espinette, Beer<note n="#11"/> que je vous ay nommé et celebré autrefois. Ce seront deux bonnes pierres mises en oeuvre, pour bastir dessus un plus grand concert, que je minute, si Dieu donne vie à Son Altesse. Le violiste s'appelle Stephelius<note n="#12"/>, et a une science monstrueuse sur cet instrument où je pense avoir excellè jusques ores en nos Provinces, mais je ne me tiens pas digne de le debotter. Vous avez ouy beaucoup de bonnes choses, mais celle-cy vous surprendroit. Je voy qu'il faut attendre aveq quelque patience tantost le loysir, tantost la santé du Sieur Ballard, et l'affaire n'estant pas de haulte importance je m'y accommode volontiers, si ce n'est pour la peine que vous vous en donnez.
+Je vous supplie de dire ou de mander en billet à M. <persName key="gobe019">Gobert</persName> (je ne sçauray luy escrire pour ce coup) que je transposeray quelques Basses que j'ay veu qui le chocquent en ce qu'elles montent pardessus le subject. Je donneray celà à son goust car pour moy j'en ay quelqu'autre pensée qu'il ne vault pas la peine d'estendre par lettre.</p>
+<p>Je vous rends l'offre de la nouvelle année, si j'en suis demeuré en faulte, ce qui n'arrivera jamais ou j'auray moyen de vous temoigner que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres affectionné seruiteur <persName key="huyg001">C. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName>, le <date>14 janvier, 1647</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2740"/>
+<meta type="date" value="1692-02-19"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hanno901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2740">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous m'avéz allarmé en me parlant de vostre indisposition. Je scay assez combien les sciences sont interessees dans vostre conservation. Vous pouuez faire des
+choses si importantes en Physique, que je fais conscience de vous donner occasion de trop rever à la Geometrie.</p>
+<p>Je ne scay si vous avés vu un petit liure d'un nommé Monsieur <persName>Eisenschmid</persName><note n="#3"/>, de Strasbourg De figura terrae, où il pretend prouver, en conferant ensemble les differentes observations de ceux qui ont voulu donner la mesure de la terre, ou la grandeur d'un degré, qu'ils ont varié selon qu'ils se sont plus approchés du pole, et par consequent, que la terre est elliptique en effect, mais qu'elle est plus enflée sous les poles, au lieu que selon vous et Mons. <persName key="newt011">Newton</persName> elle doit estre plus enflée sous l'equateur. Cela merite d'estre consideré<note n="#4"/>.</p>
+<p>Le liure de Mr. <persName key="newt011">Neuton</persName> est un de ceux qui meritent le plus d'estre perfectionnés et Mr. <persName key="duil010">Facio</persName> fera bien de s'y appliquer. Je ne m'etonne pas si parmy tant de recherches difficiles, il s'y est glissé quelque faute de doctrine.</p>
+<p>Cette reduction aux quadratures, que vous appellés impossibiles est ce que je souhaiterois de pouuoir tousjours obtenir pour les problemes des tangentes renversées. Enfin je ne demande presque que cela pour la perfection de la plus importante partie de la Geometrie. Il 1e peut bien que nous ne nous entendions pas, puisque une chose de fait, que j'avois rapportée, vous paroist peu croyable.</p>
+<p>Il est vray comme vous dites, Monsieur, qu'il n'est pas assez de faciliter le calcul, il faut souuent quelqu'autre chose. Cela se voit dans l'Algebre même. Pour scauuoir l'Algebre on ne s'avisera pas d'abord de trouuer les racines irrationelles des racines cubiques, à la maniere de Scipio Ferreus<note n="#5"/>, ny de la division des equations egalées à zero par leur racines. Il en est de même de mon calcul transcendant. Mais quand on a reduit les methodes à un simple calcul on s'avise plus aisément de ces adresses.</p>
+<p>La Methode des quadratures, que Mr. <persName key="tsch002">Tschirnhaus</persName> a publiée quand elle est bien entendue, revient à une partie des miennes. Je luy en avois parlé bien des fois à Paris, et ce n'est que par oubli qu'il peut avoir crû<note n="#6"/> de donner quelque chose de nouueau. Cependant il me semble qu'il s'y prend d'une maniere bien embarassée. Et de plus ce qu'il donne n'est pas si general qu'il avoit crû. Je luy donnay une instance que je fabriquay sur la lunule d'Hipprocrate<note n="#7"/>; cela l'arresta. Au bout de quelques années quand je n'y pensois plus (car je n'avois pas voulu le pousser) il avoit fait quelque calcul sur les lunules (comme son discours temoigne
+assez)<note n="#8"/> et cela l'avoit fait rencontrer ce calcul, et luy avoit fait voir la quadrature. Mais ce n'estoit pas et ne peut estre pas la methode qu'il auoit proposée.</p>
+<p>Un de ces jours je pourray m'appliquer derechef à cette matiere, pour la mettre dans son jour.</p>
+<p>La methode de Mr. <persName key="duil010">Facio</persName> pour les tangentes renversées, autant que j'en puis juger, ne peut servir que pour les courbes ordinaires, au lieu que la mienne donne et les ordinaires et les transcendantes. Je crois de vous auoir déja dit, Monsieur, que j'en ay une aussi qui est propre aux ordinaires, par le moyen de la quelle je pourrois fabriquer quantité de canons particuliers, tels que je croy que M. Facio a; mais je ne m'y amuse point, et je pense la rendre un jour universelle pour determiner s'il est possible de trouuer une ligne ordinaire satisfaisante. Mais j'ay dit que pour en rendre l'usage court et facile, il faudroit dresser quelques Tables.</p>
+<p>Vous avés raison, Monsieur, de dire que des Cartes a parlé d'un ton trop decisif de l'arrangement des parties de la matiere. Cependant ce seroit dommage
+si nous n'avions pas son systeme. Ainsi je voudrois que Mons. <persName key="boyl001">Boyle</persName> nous eut laissé ses conjectures. Mais c'est encor plus dommage que ses plus curieuses experiences le plus souuent ne sont rapportées qu'a demy. Tantost il s'excuse parce qu'un amy ne luy donne pas le pouuoir de les publier; tantost sur quelqu'autre raison.</p>
+<p>La negligence de nos libraires fait que je n'ai pas encor veu l'Histoire des ouvrages des scavans ny vostre division de l'octave. Elle est de vous, c'est tout dire. Plust à Dieu que vous pensassiés à donner vos conjectures sur les parties de la matiere; car nous avons bien des connoissances que des Cartes n'avoit pas, dont je ne connois personne qui puisse mieux user que Vous pour en tirer des consequences.</p>
+<p>Il est vray que le Chancelier Bacon scavoit quelque chose de l'art de faire les experiences et de s'en servir; mais ce que vous dites de feu Mr. <persName key="boyl001">Boyle</persName>, est encor veritable à son egard, qu'il n'estoit pas capable d'une assez grande application pour pousser les consequences autant qu'il faut.</p>
+<p>J'espere que vostre santé sera retablie; ce sera une des plus agreables nouuelles que je pourray receuoir. Je vous avois encor écrit une seconde lettre<note n="#9"/>, et je m'étonne qu'il ne paroist pas que vous l'ayés receue. Je suis avec zele</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="leib013">Leibniz</persName>.</p>
+<p>Hanover ce 4/19 feurier 1692.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

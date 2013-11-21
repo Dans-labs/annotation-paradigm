@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1574"/>
+<meta type="date" value="1667-02-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1574">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 4 février 1667.</p>
+</div>
+<p>J'ay receu la vostre avec la lettre de change<note n="#1"/> dont je suis d'avis d'aller prendre l'argent tant pour ce que ce seroit de la peine a vous d'aller redemander celuy que vous avez donnè, que parce que mes comptes pour vous, le frere de Moggershil<note n="#2"/> et mon Pere excedent desia cette somme de 80 escus estant de 107, de 112, et 61 livres qui font 280, de sorte qu'en prenant la peine de demander al Signor Padre ce que j'ay deboursè pour luy, vous aurez 40 livres de reste, pour payer le Thè et ce que je vous dois des graines. Pour l'avenir nous verrons si le remboursement se peut faire par des commissions reciproques comme vous proposez, quoyque je ne croie pas que j'aye jamais a vous en donner a l'egal des vostres. Outre que j'ay par delà mes 100 livres annuelles de ma rente a vie, que je vous prieray de recevoir pour moy au mois d'Avril. Je ne scay si j'en ay laissè la lettre entre vos mains ou celles du frere de Zeelhem<note n="#3"/> ce que je vous prie de me faire scavoir, car au moins je ne l'ay pas icy<note n="#4"/>.</p>
+<p>Je ne vous envoie que pour 11 francs de vases de verre craignant qu'ils ne fussent bien a vostre grè. il n'y en avoit pas des couleurs de Madame de Bennebroek<note n="#5"/> qui me semblassent assez beaux, et de plus c'est la mode maintenant que ces vases d'esmail comme je vous en envoie. Il y en a de beaucoup plus grands de la mesme sorte mais je crois qu'il y auroit assez de danger a les envoier. que si la dame veut neanmoins de la Faience je verray ce qu'il y a de beau dans la foire Saint Germain et vous le feray scavoir.</p>
+<p>Vostre perruque aura peutestre receu quelques mauvais plis dans la boete ou elle est, mais cela s'en ira en la laissant reposer quelque temps bien peignée.</p>
+<p>Les 3 telescopes<note n="#6"/> sont fort egaux en bontè, pour vostre vuü et celle de mon Pere il faut les racourcir un peu au dela des marques, c'est a dire, enfoncer tant soit peu le tuyau le plus menu.</p>
+<p>Avanthier se maria Mademoiselle Colbert<note n="#7"/> et en mesme temps la soeur<note n="#8"/> de son espoux<note n="#9"/>. Je vis la comedie que l'on y joua et une partie des cerimonies.</p>
+<p>Nous sommes occupez depuis 3 jours a veoir la dissection<note n="#10"/> d'un corps, d'une fille qui avoit laissè mourir son enfant, et qu'on a pendue. C'est dans une chambre ceans ou l'operation se fait, à la quelle l'on m'appelle maintenant. Adieu. Souvenez vous de m'envoier le Thè que j'ay demandè<note n="#11"/>.</p>
+<p>Je ne pourray pas escrire a mon Pere cette fois, dont je luy demande pardon.</p>
+</div>
+<div type="para">
+<p>Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huygens</persName>
+<lb/>Chez Monsieur <persName key="huyg001">de Zuylichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

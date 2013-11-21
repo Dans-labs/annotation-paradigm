@@ -1,0 +1,112 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2710"/>
+<meta type="date" value="1691~"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2709"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2710">
+<div type="section">
+<head rend="h4">§ I.</head>
+<p>Ad inveniendam summam secantium ad angulos crescentes uno gradu, vel gradu dimidio vel 4<hi rend="sup">a</hi> parte, vel 8<hi rend="sup">a</hi>. vel 16. etc.</p>
+<p><figure><graphic url="huyg003oeuv10ill46.gif"></graphic></figure></p>
+<p>Summa secantium ad singulos gradus superat summam totidem secantium ad angulos dimidio gradu minores, paulo plus quam dimidiâ CD, qua maxima priorum secantium superat radium cum omnes differentiolae secantium <hi rend="i">de</hi> sint paulo plus quam dimidiae differentiolarum <hi rend="i">oe</hi>, quae simul faciunt DC totam.</p>
+<p>Ergo si duplicetur summa secantium ad singulos gradus, et à producto auferatur tantum dimidia differentia CD, habebimus pauxillo plus quam summam secantium ad singulos semigradus. Quod si jam rursus duplicemus hanc summam, et a producto auferamus dimidium DC, habebimus proxime, et pauxillo plus, quam summam secantium ad singulos graduum quadrantes.</p>
+<p>Et rursus si hanc summam duplicemus et a producto auferamus dimidium DC, habebimus summam proximam majorem secantium ad singulos graduum octantes; atque ita porro.</p>
+<p>Sit summa secantium ad singulos gradus=<hi rend="i">s</hi>; dimidia DC=<hi rend="i">d</hi>.</p>
+<p><table>
+<row>
+<cell>Ergo secunda summa=2<hi rend="i">s</hi>-<hi rend="i">d</hi> secantium ad ½ gr.</cell>
+<cell>} vera major.</cell></row>
+<row>
+<cell>et tertia+4<hi rend="i">s</hi>-3<hi rend="i">d</hi> secantium ad ¼ gr.</cell>
+<cell>} vera major.</cell></row>
+<row>
+<cell>et quarta=8<hi rend="i">s</hi>-7<hi rend="i">d</hi> secantium ad ⅛ gr.</cell>
+<cell>} vera major.</cell></row>
+<row>
+<cell>et quinta=16<hi rend="i">s</hi>-15<hi rend="i">d</hi> secantium ad 1/16 gr.</cell>
+<cell>} vera major.</cell></row>
+</table></p>
+<p>Sed quia semper tantum unam <hi rend="i">d</hi> amplius auferendo, oritur <hi rend="i">s</hi>-<hi rend="i">d</hi> multiplex per numerum competentem progressionis 1, 2, 4, 8, 16, etc.+<hi rend="i">d. d</hi> autem infinite parvum fit respectu multiplicis <hi rend="i">s</hi>: hinc patet multiplicem <hi rend="i">s</hi>-<hi rend="i">d</hi>, seu <hi rend="i">ms</hi>-<hi rend="i">md</hi>, tandem accipi posse pro <hi rend="i">ms</hi>-<hi rend="i">md</hi>+<hi rend="i">d. m</hi> numerus seriei 1, 2, 4, 8, 16 etc.</p>
+<p>Itaque si velim comparare primum summam secantium ad gradus integros, cum summa totidem radiorum, erit earum ratio ut <hi rend="i">s</hi> ad <hi rend="i">nr</hi> ponendo <hi rend="i">n</hi>=numero graduum in arcu proposito; at si velim comparare summam secantium ad infinite parvas particulas graduum, cum summa totidem radiorum, earum ratio erit proxime quam <hi rend="i">ms</hi>-<hi rend="i">md</hi> ad <hi rend="i">nmr</hi>, hoc est quam <hi rend="i">s</hi>-<hi rend="i">d</hi> ad <hi rend="i">nr</hi>; cum alioqui ratio ista esset ut <hi rend="i">s</hi> ad <hi rend="i">nr</hi>.</p>
+<p>Itaque cum ad arcum 45 gr. summa secantium ad gradus singulos seu <hi rend="i">s</hi>, sit inventa 507081503 ad datum radium 10000000 et totidem radii faciant 450000000=<hi rend="i">nr. d</hi> autem seu ½ DC tunc sit 2071068: Si ab <hi rend="i">s</hi> auferatur haec <hi rend="i">d</hi>, fiet 505010435 quae ad 450000000 proxime majorem rationem habebunt quam summa secantium crescentium cum minimis particulis graduum, usque ad 45 gradus ad summam totidem radiorum.</p>
+<p>Sed adhuc propius accedemus si sit <hi rend="i">s</hi> summa secantium ad singulos dimidios gradus quam invenimus additione ex tab. sinuum esse 1012061091; tunc enim <hi rend="i">n</hi>=90 et <hi rend="i">nr</hi>=900000000 et <hi rend="i">s</hi>-<hi rend="i">d</hi>=1009990023. Eritque ratio summae secantium ad minimas particulas graduum ad summam totidem radiorum proxime major ut 1009990023 ad 900000000, hoc est ut 504995012 ad 450000000<note n="#2"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II.</head>
+<p>Inventio termini minoris summae infin. secantium ad totidem radios.</p>
+<p><figure><graphic url="huyg003oeuv10ill47.gif"></graphic></figure></p>
+<p>Ut GD ad DI differentiam inter DA, EA ita sit CD ad aliam P. Hâc ablatâ a summa secantium DA, HA, KA, reliquum minus erit summa secantium EA, LA, MA.</p>
+<p>Adeoque si a dupla summa secantium DA, HA, KA auferatur P, reliquum minus erit summâ tangentium<note n="#3"/> DA, EA, HA, LA, KA, MA. Unde (per progressionem sicut pag. 26 lib. G)<note n="#4"/> erit ratio summae secantium DA, HA, KA, minus P, ad totidem radios, semper minor ratione infinitarum secantium ad totidem radios.</p>
+<p>Ratio est quod auferendo DI ab DA, fit quidem EA, sed in caeteris nimium aufertur, cum ab HN ex. gratia aufertur pars proportionalis ejus in eadem ratione GD ad DI. Hoc autem fit in caeteris omnibus secantium primarum differentiis, quandoquidem totius CD pars proportionalis ejusmodi aufertur.</p>
+<p><table>
+<row>
+<cell>sec. 45<hi rend="sup">o</hi></cell>
+<cell>14142136</cell>
+<cell>14142136</cell></row>
+<row>
+<cell>sec. 44<hi rend="sup">o</hi> 30′</cell>
+<cell>14020321 sec. 44<hi rend="sup">o</hi> 45′</cell>
+<cell>14080831</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>121815 GD:</cell>
+<cell>61305 DI=4142136 DC: 2084584</cell></row>
+<row>
+<cell></cell>
+<cell>1012061091</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>2084584</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>1009976507</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>3</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>_____<note n="#5"/></cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>3029929521 minor vero</cell>
+<cell>30299392 verus</cell></row>
+<row>
+<cell></cell>
+<cell>30299392 verus<note n="#6"/></cell>
+<cell>30299700 major<note n="#7"/></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>97 diff.<hi rend="sup">a</hi></cell>
+<cell>308 diff.<hi rend="sup">a</hi></cell></row>
+</table></p>
+<p>minor terminus propior quam terminus major.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0533"/>
+<meta type="date" value="1658-10-11"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0533">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>In aestu maximo sum, quem vt explices rogo: scripsi ad Te<note n="#1"/> iam sunt dies quindecim, et epistolam remisj, quam ad Astronomum Siculum destinaueras, quod ita
+corruptam in manus illius venire non debere iudicarem: maxime cum vererer, ne in numeris (quibus plenam arbitrabar) labes accidisset. Sperabam autem fore vt primo cursore vel aliam vel eandem (si consilium Tibi meum non probaretur) remitteres. Sed secus accidit. Hactenus enim siles, et silentio tuo (veré dicam) me maceras. Vereor enim ne vel meae perierint, vel aliorsum forsitan acceperis quod optimo consilio factum existimabam. Libera igitur me hac sollicitudine, et scito me ex animj tuj sententiâ, et hoc negotium, et aliud quodlibet pro captu meo, sedulo curaturum. Wallisij librum<note n="#2"/> a triduo accepj, doctum sane et elegantem. De triumphis illis et <hi rend="i">ἀλαζονείᾳ</hi> quid dicam? Idem illud quod a Te scriptum inuenj, demirarj me diuersa hominum studia<note n="#3"/>. Addam et aliud quo frequenter vti soleo <hi rend="i">ὅσον τὸ ϰενόν.</hi> Fermatij Problema de circulo, ad calcem operis, generalius est, et porrigitur ad omnes Ellipses, dummodo quadrata aequalium erectarum simul sumpta ad quadratum axis, eandem habeant rationem quam idem axis, ad latus rectum. Sed de his alias. Librum primâ commoditate recipies, cum gratiarum actione quam in antecessum ex nunc rependo. Vale Vir praestantissime meque ama</p>
+<div type="closer">
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>XI Octob. CIƆIƆCLVIII</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

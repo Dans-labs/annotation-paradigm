@@ -1,0 +1,82 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0227"/>
+<meta type="date" value="1655-07-01"/>
+<meta type="sender" value="wall057"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="oxfor001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0227">
+<div type="opener">
+<p>Clarissimo Doctissimoque Viro Domino <persName key="huyg003">Christiano Hugenio</persName> S.</p>
+</div>
+<p>Literas tuas (Eruditissime Vir) <placeName key="denha004">Hagae Comitis</placeName> datas Jun. 13. 1655. st. n. hoc ipso die accepi, et lubenti animo acceptavi. Quae de Curvâ nostrâ habes, non est cur multis ventilem. Geometricam istam esse, ubi intelligas (quod, spero, jam citò fiet) quomodo istuc pervenerim, non fore credo ut dubites. Quaenam autem illa sit aequatio quae singula indifferenter respiciat puncta, id ipsum erat quod Domino <persName key="scho197">Schotenio</persName> considerandum proposui, in quo et ipsius opem si vacaret expetivi. Quousque illam disquisitionem ipse perduxeram, aut etiamnum perduxi, brevi spero fiet ut intelligas; tractatus enim aliquot sub prelo jam aliquandiu habui, qui nisi Typographorum morae impedîssent diu antehac lucem conspexerant: unde etiam simul intelligasqua ratione ad Circulum pertineant et illa et aliae curvae illic expositae. Nec tantum ad circulum (cujus solius mentio facta est in illa quam ad Dominum <persName key="scho197">Schotenium</persName> nuper transmisi chartulâ) sed et ad Ellipsin, Hyperbolam, Parabolam, Paraboloidea omnigena, aliasque figuras curvilineas innumeras quadrandas; sed et ad
+alia quamplurima abstrusiora Matheseos problemata, partim ab alijs antehac excogitata, partim penitus neglecta et a nobis primitus detecta. Cur autem chartulam illam libri prodromum<note n="#1"/> praemiseram, in causa erat quòd audiveram quendam apud nos<note n="#2"/> jactitâsse se circuli quadraturam absolvisse, aliaque miranda praestitisse. Unde facilè conjiciebam fieri posse ut ipsius cogitata aliqua cum nostris coincidant. Et propterea quousque ego rem illam ante complures annos perduxeram viris Mathematicis significandum judicavi, ne deinceps forsan videar, si fortè libellus ejus citius prodiret, ab illo didicisse. Propositionem autem illam Cyclometricam quam nuper ad vos transmisi, (quamque ante aliquot annos excogitatam fuisse et Tu et Dominus <persName key="scho197">Schotenius</persName>, inter alios quamplurimos, testes estis,) divulgare solam placuit, sine ullâ reliquorum quae a nobis sunt inventa et demonstrata mentione: quoniam si vel hoc unum a nobis olim inventum esse constiterit, non insuper dubitabitur an et ea etiam cognoverim quae nos illò perduxere, et sine quorum cognitione ne hoc quidem excogitâsse potui. Postquam autem hanc nostram Cyclometriam palam professus fueram, et typis concreditam divulgaveram; mihi nunciatum erat Dominum <persName key="hobb001">Hobbes</persName> nostratem, in ipsius opere quod tunc (sicut et nostrum) sub prelo erat, circuli quadraturam penitus absolvisse, et quidem Geometricè (ut loquuntur) solius regulae et circini beneficio. Ubi autem hoc nunciatum est, quamquam non dubitârim Circuli quadraturam utcunque persiciendam, rem fore possibilem (quam quidem annon et ipse perfecerim judicent Mathematici ubi ea quae scripsi publici juris fient;) tamen ut hoc solâ regulâ et circino perficiatur, quod ille prae se serebat, rem planè incredibilem et supra omnium Mathematicorum fidem et ego et alij pronunciavimus, non dubij quin alicubi mirè fuerit hallucinatus. Nec quidem secus accidit. Hac enim (uti loquitur ille
+<hi rend="i">praepropera malevolorum infultatione</hi> monitus), re maturius cum amicis perpensâ illam de quo gloriatus fuerat Circuli quadraturam retractum ibat, et, quaternionibus aliquot quos operae jam ante absolverant laceratis, eorum loco, post secundas curas, alios substituit, aliumque prioris loco tetragonismum: et tandem, cum neque ita res in tuto erat, chartis aliquot tertijs adhuc curis immutatis, ingenuè se fatetur rem neutiquam absolvisse, et quae prius ut apodictica professus erat, jam vult ut tantum problematicè dicta intelligantur. Sed et libelli ipsius prout tunc erat imperfecti editionem properabat, (non exspectatâ vel reliquorum erratorum emendatione, vel sectionis secundae quae deest adjectione,)
+partim ut <hi rend="i">amicis</hi> id <hi rend="i">flagitantibus</hi> satisfaciat, partim etiam <hi rend="i">alijs de causis</hi>, <hi rend="i">quas</hi> (inquit) <hi rend="i">dicere non est necessarium:</hi> inter quas fieri potest ut haec una sit, ne, si nostra fortè (quam tunc publicè promiseram) Cyclometria prius prodiret, ipsius pseudotetragonismo non sit opus; vel ne ille<note n="#3"/> etiam quem <hi rend="i">Academiarum Vindicem</hi> toties appellat (vir doctus et speciatim Matheseos peritissimus, qui, in libello Anglicano cui titulum fecit <hi rend="i">Vindiciae Academiarum</hi><note n="#4"/> contra nebulonem quendam anonymum Academiarum universim omnium calumniatorem nuper edito, etiam obiter <persName key="hobb001">Hobbesij</persName> procaciores in Academias item omnes insultus, ipsius <hi rend="i">Leviathani</hi><note n="#5"/> insertos, lepidè castigaverat,) aliquid ipsi laudis praeriperet. Utut sit, cautionem illam quam adhibui non planè in castum esse deprehendo; quamquam enim libro ipsius jam ante aliquot dies (praeterita septimana) apud nos edito edoctus sim ab ipsius quadratura circuli non opus esse ut formidem, attamen quae istic habet de Parabolastri mensurâ (si paralogismos excipias et <hi rend="i">ψευδαποδείξεις</hi> quibus passim scatet) pars est eorum quae nos olim methodo nostrâ de Paraboloidibus invenimus, ijsdem principijs nixi quibus et circuli quadraturam investigavi: quorum ope ea quae apud te in <hi rend="i">ἐξετάσει</hi> tuâ Cyclometriae Vincentianae occurrunt (quae in nuperis meis ad Dominum <persName key="scho197">Schotenium</persName> literis me more meo examinâsse dixeram) vera deprehendi. Quod non ita tamen intellectum velim acsi a nobis haec habuerit, (unde enim habuit, aut an ipse invenerit, nessio;) sed eadem utrique, quod rem eandem tractantibus non rarò accidit, obvenere.</p>
+<p>Quod autem ego obiter monui (in nuperis meis ad Dominum <persName key="scho197">Schotenium</persName>) ad paginam 36. lineam 2. tuae <hi rend="i">ἐξέτασεως</hi>, leviculum erat, quod ad pleniorem demonstrationis <hi rend="i">ἀϰρίβειαν</hi> videbatur deesse, sed quod siquis postulet suppleri posset. Si autem illud addere (uti ais) non esset, ad hominem, necessarium, fateor eo tutius omitti posse.</p>
+<p>Gryphum tuum quod attinet, ego eum Domino <persName>Wardo</persName> ubi Domum redierit communicabo; et gratulor tibi observata tua; nam et nos etiam nostrique hic terrarum Mathematici ejusmodi observationibus aliquando vacamus, perspicillis et varij generis et variae longitudinis instructi, putà pedum 6, 12, 24, 52, lentibus autem nunc solis convexis, nunc concavis et convexis; et quidem numero 2, 3, 5. et non pauca forsan alibi haud observata deteximus. Et Gryphi tui loco liceat mihi tecum alium deponere, quem et posthac si forte opus fuerit deposcam.</p>
+<p><table>
+<row>
+<cell>9</cell>
+<cell>1</cell>
+<cell>5</cell>
+<cell>4</cell>
+<cell>9</cell>
+<cell>1</cell>
+<cell>1</cell>
+<cell>12</cell>
+<cell>3</cell>
+<cell>6</cell>
+<cell>6</cell>
+<cell>7</cell>
+<cell>5</cell>
+<cell>1</cell>
+<cell>11</cell>
+<cell>13</cell>
+<cell>8</cell>
+<cell>17</cell>
+<cell>1</cell></row>
+<row>
+<cell><formula>aaaaaaaaa</formula></cell>
+<cell><formula>b</formula></cell>
+<cell><formula>ccccc</formula></cell>
+<cell><formula>dddd</formula></cell>
+<cell><formula>eeeeeeeee</formula></cell>
+<cell><formula>f</formula></cell>
+<cell><formula>h</formula></cell>
+<cell><formula>iiiiiiiiiiii</formula></cell>
+<cell><formula>lll</formula></cell>
+<cell><formula>mmmmmm</formula></cell>
+<cell><formula>nnnnnn</formula></cell>
+<cell><formula>ooooooo</formula></cell>
+<cell><formula>ppppp</formula></cell>
+<cell><formula>q</formula></cell>
+<cell><formula>rrrrrrrrrrr</formula></cell>
+<cell><formula>sssssssssssss</formula></cell>
+<cell><formula>tttttttt</formula></cell>
+<cell><formula>uuuuuuuuuuuuuuuuu</formula></cell>
+<cell><formula>x</formula>.</cell></row>
+</table></p>
+<p>Quae <hi rend="i">de Circuli magnitudine inventâ</hi> anno praeterito edisti, fateor me vidisse quidem (nuper;) at nondum ea vel examinare vacavit, vel quidem perlegere; (quod tamen cito me facturum spero:) adeóque nihil est quod eâ de re dicendum habeo. Videtur autem, ni fallor, ad <hi rend="i">ἐυμηχανίαν</hi> tetragonismi vero proximi collimare; saltem prout ex levi inspectione conjectare licet.</p>
+<p>Caeterum Vale, Vir Erudite, et meo nomine saluta etiam Dominum <persName key="scho197">Schotenium</persName> quam humanissimè: et scias denique, si tibi placuerit inceptam hanc familiaritatem continuare, gratissimum id futurum esse</p>
+<div type="closer">
+<p>Tui observantissimo
+<lb/><persName key="wall057">Joh: Wallis</persName>.
+<lb/>Scribebam <placeName key="oxfor001">Oxoniae</placeName>, <date>21 Junij 1655. st. vet.</date> <date>1 Julij 1655. st. n.</date></p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Doctissimoque Viro Domino <persName key="huyg003">Christiano Hugenio</persName>,
+<lb/>Constantini Filio,
+<lb/>tradantur
+<lb/>Hagae-Comitis.</p>
+<p>Leave it at y<hi rend="sup">e</hi> forraigne Post-house in London, to be sent to y<hi rend="sup">e</hi> Haghe in Holland.</p>
+</div>
+</body>
+</text>
+</TEI>

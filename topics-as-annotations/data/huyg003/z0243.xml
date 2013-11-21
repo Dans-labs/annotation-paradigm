@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0243"/>
+<meta type="date" value="1655-10-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0243">
+<div type="opener">
+<p>Mon Frère.</p>
+<p>A <placeName key="parij001">Paris</placeName> le <date>29 Oct.</date></p>
+</div>
+<p>Je ne vous diray pas encore des particularitez touchant vostre bonne hostesse. si vous me demandez pourquoy je respondray que les chaises coustent trop cher, et que quand je vous fis promesse par ma precedente<note n="#1"/> de l'aller voir, je ne me souvenois pas du mauvais estat ou estoit ma bourse. Vous qui avez esprouvè la vie de Paris, vous deviez nous estre utile aupres de mon Pere et le conseiller de ne plaindre pas l'argent qu'il nous envoye. Il est vray pourtant que hier j'estois dans le quartier ou elle demeure, et que je l'eusse pu voir sans beaucoup de peine si je m'en fusse souvenu. Je la verray apresdemain quand il m'en devroit couster une pistole. Maintenant parce que selon toute apparence vous serez fachè je veux vous adoucir par ce petit air que monsieur <persName>Gobert</persName> me donna hier. Voyez la page suivante.</p>
+<p>Nous avons sçeu par 3 diverses lettres le bel exploit du cousin Huygens, qui est tout à fait digne de luy. Mon cousin Doublet n'a jamais tant rij, que quand il l'entendist. omnibus nequitijs colophonem imposuit.</p>
+<p>&nbsp;</p>
+<p>Je vous prie que nos ferremens soyent bien conservez sans se rouiller car selon toute apparence je retourneray dans peu à mon mestier. Je suis</p>
+<div type="closer">
+<p>Vostre tresaffectionè frere et serviteur <persName key="huyg003">Chr. Huygens de Z.</persName></p>
+</div>
+</div>
+<div type="para">
+<p>Pour mon frère <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

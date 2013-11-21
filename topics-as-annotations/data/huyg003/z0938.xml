@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0938"/>
+<meta type="date" value="1661-12-28"/>
+<meta type="sender" value="scho252"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="wurzb901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0938">
+<div type="opener">
+<p>Nobilissime atque Amplissime Domine.</p>
+</div>
+<p>Duplici, eoque ingenti gaudio me affecit Nobilissima Dominatio Vestra suis ultimis Hagâ Comitis 24. Nouembris datis<note n="#1"/>, et ante biduum mihi redditis, et quòd recuperatam valetudinem suam denuntiauit, et quòd desideratissima Experimenta<note n="#2"/> Illustrissimi Domini Boyles communicauit. Pro utroque ingentes ago Deo gratias, pro ultimo etiam Nobilissimae Dominationi Vestrae. Vtinam par aliquid referri queam. Extat huius beneficij memoria in Physica mea Curiosa<note n="#3"/>, (quae praelum iam eluctata est, sed ante Paschales nundinas Fracofurtenses lucem non videbit.) extabitque in alijs secuturis Opusculis. Viri Illustrissimi Humanitas quam suo in Libello prodit, sinceritasque, et exactissima diligentia, cum rara doctrina, pellexerunt me ut in eius amicitiam me insinuare (importune fortassis) audeam: at quoniam alia via non se offert, qua id praestem, rogo enixè ut Suam ea in re operam mihi locare non dedignetur, inclusasque
+commodâ aliquâ occasione ad Ipsum destinet.</p>
+<p>Ad Geometrica quod attinet, habeo in quibus olim iuuenis me exercui, sed admodum exilia, quae proinde mittere non audeo. Eorum loco mitto inclusum Problema, aliâ, si placet, viâ soluendum<note n="#4"/>.</p>
+<p>Est hîc qui ex ultimis nundinis Francofurtensibus huc attulit quinque Tractatus, recentissimos Venetijs editos praeterito anno, Auctore Stephano de Angelis Veneto<note n="#5"/>. Continet Opuscula Geometrica de Infinitorum Spiralium Spatiorum mensura<note n="#6"/>; de Infinitis parabolis, et solidis, ex varijs rotationibus ipsarum genitis. Miscellaneum Geometricum in 4. partes diuisum; Miscellaneum hyperbolicum et parabolicum; et Problemata Geometrica sexaginta. Item Elementa Geometriae Speciosae<note n="#7"/>, et Geometriam Speciosam<note n="#8"/>, Auctore Petro Mengoli<note n="#9"/>, Bosco. Tractatus sunt merè Geometrici, sed excessiui pretij, meo quidem iudicio; minori enim quàm quinque Imperialium (<hi rend="i">Reichsthaler</hi>) vendere non vult. Puto Francofurti posse haberi meliori pretio. Ex ijs propono interim quae sequuntur.</p>
+<p>Coni habent inter se proportionem compositam ex proportione basium, et altitudinum.</p>
+<p>Conus ad sphaeram habet proportionem compositam ex proportione altitudinis coni ad semidiametrum sphaerae, et ex proportioni quadrati radij basis coni ad quadratum diametri sphaerae.</p>
+<p><figure><graphic url="huyg003oeuv03ill77.gif"></graphic></figure></p>
+<p>Sit recta <formula>AB</formula>, secta bifariam in <formula>C</formula>, et non bifariam in <formula>D</formula>. Dico quadratum <formula>AD</formula> maius esse quam sesquitertium<note n="#10"/> duorum mediangulorum <formula>ADC</formula>, <formula>ACD</formula><note n="#11"/>.</p>
+<p>Datam <formula>AB</formula>, sectam bifariam in <formula>C</formula>, rursus secare in <formula>D</formula>, inter <formula>CB</formula>, ut quadratum <formula>AD</formula>, ad duo rectangula <formula>ACD</formula>, <formula>ADC</formula>, sit in data proportione.</p>
+<p>Datis duobus semicirculis extra se positis, nec se contingentibus, quorum diametri sint sibi in directum, reperire in linea intermedia inter duos semicirculos punctum, à quo ductis tangentibus semicirculos, et à punctis contactus ductis sinibus rectis, abscindant isti sinus versos in data proportione.</p>
+<p>Datis duabus rectis lineis, unam illarum taliter producere, ut quadratum compositae ex data et producta, unà cum quadrato productae, sit ad quadratum alterius lineae datae in data proportione.</p>
+<p>Datam rectam lineam taliter secare in puncto, ut quadratum totius, ad rectangulum sub tota, et sub uno segmento, cum quadrato eiusdem segmenti, sit in data proportione.</p>
+<p>Haec si placent, mittam alia, aut faciam ut libri ipsi mittantur Francofurtum, si fortassis ibidem non reperirientur ampliùs. Spero Clarissimum Dominum Deusingium<note n="#12"/> accepisse meas, quas per Nobilissimam Amplitudinem Vestram transmisi<note n="#13"/>; quam interim divinae protectioni commendo.</p>
+<div type="closer">
+<p><placeName key="wurzb901">Herbipoli</placeName> <date>28/18 Decembris 1661</date>.</p>
+<p>Nobilitatis et Amplissimae Dominationis Vestrae Addictissimus <persName key="scho252">Casparus Schott</persName>. S.I.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

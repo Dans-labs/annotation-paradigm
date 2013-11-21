@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0810"/>
+<meta type="date" value="1660-11-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0810">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce <date>19 Nov. 1660</date>.</p>
+</div>
+<p>Pour ce qui est de l'invention d'escrire des lettres a peu de frais, je croy que peut estre il y en a qui s'en servent, mais pour moy je ne m'en suis pas servi cette fois, et vous prie d'en oster le soupcon à mon Pere, s'il en peut avoir aucun.</p>
+<p>Hier j'acheptay vostre livre di G. Baglione a 4 l. 10 s. il n'est pas fort espais. Il n'y a point de portraits dedans que de l'autheur; qui n'escrit pas si bien ny de beaucoup pres avec tant de circonstances que Vasari, et faute de scavoir les particularitez des vies des maistres, il s'occupe le plus a specifier les tableaux ou statues qu'ils ont laissees. vous y trouuerez plus de 150 vies tant de Peintres, scoltori que intagliatori, Italiens, Francois, Flamands. Il y a de ceux que je connois, Annibal Caracci<note n="#1"/>, Antonio Tempesta<note n="#2"/>. Cornelio Cort<note n="#3"/>. Georgio Vasari<note n="#4"/>. Giuglio Clovio<note n="#5"/>. les 3 Sadelers<note n="#6"/>. Henri Golzius<note n="#7"/>. Michel angelo da Carauaggio<note n="#8"/>. Pietro Paolo Rubens<note n="#9"/>. Mais van Dyck<note n="#10"/> point, dont je m'estonne, ou il faut qu'il ait encore estè en vie, lors que le livre se faisoit. Vostre receuil sera beau à la fin si vous continuez de la sorte et je seray bien aise de veoir ces belles pieces que vous m'escrivez y avoir adjoutées.</p>
+<p>Je vous remercie des autres nouuelles. Celle de Mademoiselle Kien me feroit bien languir si j'estois de ses amoureux, car tant que j'ay receu de vos lettres et de Mon Pere en parlent, et tantost elle s'en va mourir tantost il y a de l'apparence qu'elle vive. De Tassin je ne puis scavoir de nouuelles auparavant que je voye Monsieur le Premier<note n="#11"/>. En ayant appris je vous en feray part.</p>
+<p>J'ay saluè Vlaerdingen de vostre part, qui vous baise les mains. Il est plaisant a cetheure en parlant francois et en jurant, comme chez nous il l'estoit par son chant, quand il se servoit de sa belle methode. J'ay pris plaisir de veoir que la ou il est logè on l'appelle tousjours Monsieur le Comte. Il a maintenant un carosse à luy, et un cheval de selle, avec cela 3 valets. En sorte qu'il fait une belle despense, et pourtant bien inutile, car il est encore incapable de veoir les bonnes compagnies par ce qu'il ne scait pas parler. Peut estre la semaine prochaine nous irons ensemble nous promener a Veau pour veoir le magnifique bastiment et jardins de Monsieur le Surintendant<note n="#12"/>. Quand il viendra des nouuelles du frere Louis n'oubliez pas je vous prie de m'en faire part. J'escris tresmal pour avoir grand froid aux mains, ce qui me doibt aussi servir d'excuse aupres de Mon Pere<note n="#13"/>. Je suis vostre &amp;c.</p>
+</div>
+<div type="para">
+<p>Pour mon frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

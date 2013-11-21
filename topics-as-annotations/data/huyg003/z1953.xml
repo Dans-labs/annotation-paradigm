@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1953"/>
+<meta type="date" value="1673-07-03"/>
+<meta type="sender" value="mout015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="lyon_001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1953">
+<div type="opener">
+<p>A Lyon le 3 juillet 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Il n'est pas en mon pouvoir de vous remercier dignement de l'honneur, que vous m'avez fait, en m'envoyant votre livre<note n="#1"/>. C'est un ouvrage, qui est dans sa derniere perfection, &amp; qui meritoit de tomber entre meilleurs mains que les miennes; Il contient une doctrine si profunde, que si, pour raison de mon incapacité, je n'en peux beaucoup profiter, du moins j'en feray plus d'estime que personne: Car je suis persuadé, que rien ne peut partir de votre genie, qui ne soit tres excellent. Je vous auray obligation toute ma vie de la bonté &amp; courtoisie, que vous m'avez temoigné en ce rencontre: Je vous offre en eschange mes petits services, vous priant de m'honorer de vos commandemens, &amp; de me croire</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="mout015">G. Mouton</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Huijgen de Zulichem</persName>
+<lb/>A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

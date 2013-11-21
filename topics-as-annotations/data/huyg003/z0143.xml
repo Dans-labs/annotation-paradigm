@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0143"/>
+<meta type="date" value="1652-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0143">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+</div>
+<p>Nondum penitus me febris reliquit; adeo ut scribendis Theorematibus adhuc supersedere cogar. Lectione tamen Geometricorum scriptorum non abstineo, quum non videatur fieri posse ut sanitati noxiam adferant quae tam mirifice delectant. Gratissimum igitur mihi facies si epistolam Professoris Oxoniensis<note n="#1"/> de qua nuper nobis sermo erat, miseris perlegendam, et si quid praeterea novae rei tibi obvenerit. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

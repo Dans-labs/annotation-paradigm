@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0411"/>
+<meta type="date" value="1657-10-01"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0411">
+<div type="opener">
+<p><date>1 Oct. 1657</date>.</p>
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.P.</p>
+</div>
+<p>Literas tuas in vernaculam linguam, Nobilissime Hugeni, à te conversas rectè nudius tertius accepimus, pro quibus, uti et adjunctis, hactenus nobis commodatis, maximas tibi habemus gratias. Quòd autem diutius hasce retinuerimus, est quòd huc usque Dominum Dragon Leydae exspectaverimus, quò ipsi insigne Domini de Trouquet<note n="#1"/> piae memoriae ostenderemus; licet eum hìc nondum offenderimus. Quòd utique mirum nobis visum, cum se aliàs in his sat curiosum indicaverit, pollicitus rem gratam ei nos facturos, si hanc curam in nos recipere non dedignaremur. Quocirca postquam hujus insignis aliqua tandem adumbratio à me facta esset, literas istas remittere cum gratiarum actione aequum duximus. Dolet utique, monimentum hoc adeò parvum aut lubricum extare, sic ut difficile planè sit quicquam accuratè dignoscere. tua fortè, quae parasti tibi, microscopia, si adhiberentur, aliquid suggerere possent adjumenti; meum certè parum aut nihil ad id subministrare valuit.</p>
+<p>Editio Belgica utrum brevi suscipietur nescio, cum Elsevirius, qui eam utrâque linguâ susceperat, nondum Francofurto, quòd sciam, sit reversus; illeque paulò ante ejus discessum difficultatem mihi Belgica exemplaria distribuendi objecerit, quandoquidem ipsi, uti ajebat, cum bibliopolis, non nisi vernacula distribuentibus, nullum erat commercium. Cujus quidem cuncta in utraque lingua conscribendi labori supersedere potuissem, si mentem suam initio exponere mihi dignatus fuisset. Certè planè me illius poeniteret, si ita incassum hac in parte operam collocassem, cum eam alibi longè utilius impendere potuissem. Porrò, quae pagina 525 Propositione IV perperam collocata monuisti, illico à me etiam in autographo sunt emendata, sicut etiam error paginae 527, qui Ducquio me tuo nomine illius monente protinus fuit castigatus, ita ut nunc omnia vernaculâ quoque linguâ parata sint, illaque non nisi praelo sint committenda. Caeterum egregia sunt, quae te invenisse scribis de Curva, à Domino <persName key="slus001">de Sluze</persName> propositâ, ut et de duabus medijs proportionalibus, ope Ellipsis. Impraesentiarum mihi ob privatas institutiones parum ocij ad ipsa investiganda relinquitur, attamen conabor alios ad ea quaerenda instigare, cum pulchra omnino nec minimè vulgaris sit haec contemplatio. Augmentum Commentariorum meorum, quod tibi examinandum atque perspiciendum mittere decreveram, Amstelodamum ut imprimeretur transmisi, prout per 4 aut 5 septimanas
+impressionem eorum distuleram, quò omnia prius reviderem atque digererem. Quocirca cum typographus ulteriorem moram vix tulerit, fit ut omnibus quasi jam destitutus haud secus ac nudus aut veste spoliatus ad te accedam. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>1 Octob. 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Mijn Heer, Mijn Heer <persName key="huyg001">van Zuijlechem</persName> in S'Graven-Hage op t' pleijn.
+<lb/>cito
+<lb/>port</p>
+</div>
+</body>
+</text>
+</TEI>

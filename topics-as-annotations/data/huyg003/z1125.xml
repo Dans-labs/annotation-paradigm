@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1125"/>
+<meta type="date" value="1663-06-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1125">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce 29 Juin 1663.</p>
+</div>
+<p>Vostre portrait de miniature estant dans vostre lettre toute ouverte Il Signor Padre s'en est emparè le premier et n'a point envie de s'en defaire, c'est pourquoy vous ne devez pas me l'imputer si je ne la renvoie point. Je trouve que pour estre vostre premier ouvrage il a tresbien reussi, et vous feriez bientost aussi bien que vostre maistre si vous aviez la patience de continuer. Mais puis que vous dites qu'il y va tant de temps je ne croy pas que ce sera vostre fait. Il me semble que vous avez voulu corriger en quelque facon ce qui n'est pas bien dans le tableau<note n="#1"/> de Hanneman<note n="#2"/>, comme la longueur du visage, le trait de la bouche, et cela ne vous a pas tout a fait mal reussi, mais d'un autre costè vous avez fait l'oeil gauche un peu trop long, de sorte que le portrait ressemble mieux quand on couvre cet oeil. Il n'a point estè endommagè par le chemin du tout; c'est pourquoy vous pouvez bien m'adresser aussi la belle brune<note n="#3"/> quand elle sera achevée, et je vous promets d'en dire mon avis aussi franchement que de cett' autre. J'ay veu ces jours passez une partie des desseins de Lanier<note n="#4"/>, et entre autres une grande quantitè de Raphael qui sont incomparables. Lilly<note n="#5"/> ne m'a pas encore donnè sa recepte pour le pastel, parce que je ne l'ay pu trouver chez luy depuis, ou bien s'il y estoit, there was a Lady sitting.</p>
+<p>Je demanderay a Monsieur Morray qui est cet habil homme qu'il m'avoit adressè. Pour estre of the Royal Society, il ne faut pas que vous vous imaginiez que ce doive estre quelque chose d'extraordinaire, Car je voy qu'on y admet assez facilement tout le monde. Il y a 2 jours<note n="#6"/> que j'en suis aussi sans que je me trouve plus habile, en quoyque ce soit, qu'auparavant.</p>
+<p>&nbsp;</p>
+<p>Ayez soin je vous prie de l'enclose<note n="#7"/> a Monsieur van Leeuwen. Celle<note n="#8"/> que vous m'avez envoiee de sa part estoit plus vieille de 15 jours que la vostre.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

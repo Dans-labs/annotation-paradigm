@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0396"/>
+<meta type="date" value="1657-07-20"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0396">
+<div type="opener">
+<p lang="la">Nobilissime Domine.</p>
+</div>
+<p>Humanitatem et doctrinam tuam abunde testatus es ijs literis quas a Te heri accepi: et illam quidem, cum videri voluisti meas esse aliquid putare nugas; hanc vero, cum tibi olim perspectam fuisse Problematis non contemnendj naturam oftendistj. Mirificè itaque gauisus sum, quod in easdem tecum cogitationes incidissem ex eadem locorum planorum contemplatione, quos dum ad calculos reuocarem vidj sic vniuersaliter Problema proponi posse et solui, vt et alia multa, quae ad vnum genus, vt Geometris familiare est, reuocantur. Vnum mihi mirum accidit, te semper illam centri grauitatis et puncti quaesitj <hi rend="i">ταυτότητα</hi> in eodem plano obseruasse, quod quomodo accipiendum sit, ignoro. Constat enim mihi illud centrorum grauitatis leges non sequj; siue plani centrum intelligas quod lineae datae puncta connectentes includunt, siue ipsarummet linearum. Paucos omnino casus excipio, qui vná breuique regulâ comprehendj possunt, et in quos cum ab initio incidissem, in spem magnam adductus sum reperiendae methodj quae centra grauitatis planorum omnium palam faceret; sed <hi rend="i">δευτέραι ϕροντίδες</hi> et repetiti calculi docuerunt quam vanum esset, quod inani fiducia praesumpseram. Tu igitur faculam tenebris meis alluce, et simul aliquid mitte ex tuo vel Clarissimi Schotenij penu depromptum, in quo <hi rend="i">ἀνάλυσιν</hi> meam exerceam, aut cuius solutionem saltem ingenuâ ignorantiae confessione a vobis exprimam. Feriarum nunc apud nos tempus est, quo solemus curas omnes Spadanis aquis ex animo eluere. fac itaque vt aliqua otij mej ratio constet, ne videatur, vt ille ait, transactum sine literis mors esse et viui hominis sepultura.
+Vtinam aliqua tecum conferendj nasceretur occasio, multa enim sunt quae epistolarum angustijs satis explicari non possunt.
+Inuiderem, si id liceret, Clarissimo et celeberrimo <persName key="boul014">Bullialdo</persName> hanc felicitatem, qui accuratum illud tuum Horologium et tubos illos lynceos, vt mihi persuadeo satis admirari non potest. Romanus ille artifex quem praedicas, Eustachius est cognomento Diuinus; quod a Majoribus accepit quamuis ob artis praestantiam primus obtinuisse mereatur. Illius tubos nullis alijs cedere expertus sum, licet duabus tantum lentibus instructos. Arbitror autem tanto tuis posthabendos esse quanto ipsum <hi rend="i">ϑεωρίᾳ</hi> praecellis; est enim plane <hi rend="i">ἀγεωμέτ ρητος.</hi> Vale Vir Nobilissime et quâ caepisti beneuolentia me
+porro prosequj perge: animum addes, vt schedas meas Geometricas recolligam et vna tecum si quid fortassis aptius exciderit, recognoscam.</p>
+<p>Iterum vale a</p>
+<div type="closer">
+<p>Tuo et Tibi Addictissimo <persName key="slus001">Renato Francisco Slusio</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>20 Julij 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Domino D. <persName key="huyg003">Christiano Hugenio de Zulichem</persName> Viro Clarissimo etc. Hagam-comitis.
+<lb/>VI<note n="#1"/></p>
+</div>
+</body>
+</text>
+</TEI>

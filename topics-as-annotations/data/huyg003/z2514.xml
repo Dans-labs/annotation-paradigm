@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2514"/>
+<meta type="date" value="1688-02-15"/>
+<meta type="sender" value="chap019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2514">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> le 15 febr. 1688.</p>
+<p>Monsieur</p>
+</div>
+<p>Jai temoigné a Mess<hi rend="sup">rs</hi> de lacademie l'jnterest que vous preniés a ljmpression des ouurages qui sont sous la presse, jls m'ont paru fort contents de vos sentiments, et je me suis chargé de vous mander que non seulemen on n'jmprimera rien de ce que lon a de vous sans vostre participation, mais encore qu'jls sattendent que vous y adiousteres dautres ouurages apres auoir perfectionné ceux que vous leur aués laissés. Si Mr. <persName key="hire005">De la hyre</persName> n'auoit pas esté malade depuis trois mois, ce recueil<note n="#1"/> seroit plus auancé d'jmprimer, jl se porte mieux presentement, et jl recommence a corriger les feuilles. jl espere auoir acheué dans 3 mois tout ce qujl y a de Mr. <persName key="robe012">de Roberual</persName><note n="#2"/>, quoi que les figures tiennent du temps a grauer on en est a la moitié du traitté des mouuements composés que vous scaués qu'jl n'auouoit pas pour estre de luy mais seulement den auoir donné des leçons a vn gentilhomme bourdelois que la redigé en vn ordre ou M. De roberual trouuoit encore des choses a corriger.</p>
+<p>Comme la compaguie a dessein de donner en suite les description des principales machines qui ont esté jnuentées par Mrs. de lacademie ou laissées dans le cabinet de lassemblée a lobseruatoire sous la garde de Mr. <persName>Couplet</persName>, vous ne voudriés pas Monsieur que la description de vostre machine des planettes<note n="#3"/> dont j'ay fait recit a Monseigneur de louuois meme manquast a ce recueil, Cest pourquoi je vous suplie d'y trauailler auant toutes choses. Je me tiendrai fort honoré si vous voulés vous seruir de moi pour faire bientost vn si agreable présent a la Compagnie et me communiquer tout ce que vous desireres que je lui fasse scauoir de vostre part. Je prie Mons. <persName>Dalencé</persName> de demander a Mr. <persName>Romer</persName> la meme chose pour ses machines<note n="#4"/> car quoi que les ayant jcy nous pussions en faire la description sans luy donner cette peine, cest vne deference que je crois deuoir luy temoigner. Des que M. De la hyre se portera assez bien pour vous escrire je le prierai de le faire, nayant pas de mon costé tout le loisir que je souhaiterois pour m'aquiter de ce
+deuoir et pour vous assurer que je suis plus que personne du monde et par jnclination et par tout lestime que vous merités</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="chap019">La Chapelle Besse</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hughens</persName> de lacademie royalle des Sciences.
+<lb/>De Louuois.
+<lb/>a La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

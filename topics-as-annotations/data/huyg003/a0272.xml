@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0272a"/>
+<meta type="date" value="1656-03-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colv001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0272">
+<div type="opener">
+<p>Reverendo Clarissimoque Viro Domino <persName key="colv001">Andr. Colvio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.D.</p>
+</div>
+<p>Observationem de Saturni luna<note n="#1"/> tibi mitto, quam viri quidam<note n="#2"/> egregii in Galliâ agenti<note n="#3"/> ut publici juris facerem hortati sunt. Tibi vero jam antehac eam nisi fallor, exposui, uti et Doctissimo Collegae tuo anglicanae ecclesiae ministro<note n="#4"/>. Ei si placet
+exemplar horum unum imperties; reliqua quibus videbitur. Porro <persName key="kalt002">Calthovio</persName><note n="#5"/> ubi eum videris dices, optimo successu lentes nos expolire in ea quam novissimè nobis fabricavit lamina, telescopiaque inde 24 pedum longitudine nos lunae syderibusque admovere. Ea in horto disponimus trochleisque in altum attollimus, quibuscum si priora illa 12 pedum conferantur plane vilescunt, etiamsi pro longitudine sua sint eximia. Equidem vel ad centenos pedes ea producere me posse existimo, mirabilesque effectus polliceri ausim. Verum tanta mole, quomodo tractabilia reddi possent inventu difficile est. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

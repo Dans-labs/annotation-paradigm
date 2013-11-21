@@ -1,0 +1,36 @@
+// This query has been composed to tackle a translation problem in
+// Ps~67:7-8. See Eep's article in ACEPT 18 and the Calvin Theological
+// Journal of November 2001. It tries to find parallel constructions as
+// evidence for the hypothesis that the first clause is a temporal or
+// conditional clause dependent on the second, which is the (probably
+// modal) main clause.
+
+// ident @(#)lq03.mql	1.1 04/02/17
+
+/*
+<metadata>
+<meta type="research_question">Translation problem in Ps 67:7-8</meta> 
+<meta type="researcher" value="Eep Talstra"/>
+<meta type="date_created" value="2004-02-17"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">It tries to find parallel constructions as evidence for the hypothesis that the first clause is a temporal or conditional clause dependent on the second, which is the (probably modal) main clause.</meta>
+<meta type="publications"><pub>Eep Talstra: . ACEPT 18 and the Calvin Theological Journal. November 2001</pub></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [phrase first determination = indetermined]
+   [phrase
+      [word FOCUS first and last tense = perfect]
+   ]
+]
+[clause
+   [phrase
+      [word FOCUS first and last tense = imperfect]
+   ]
+]
+
+go

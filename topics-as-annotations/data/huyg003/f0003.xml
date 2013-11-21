@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0003f"/>
+<meta type="date" value="1644-10-15"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="berge003"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="f0003">
+<div type="opener">
+<p>Perillustris Domine,</p>
+</div>
+<p>Complusculi sunt dies, fateor, quod nihil litterarum a me habuisti. Non id accidit officij mei vel oblivione vel negligentia; neque tam diu fueram taciturus, nisi quotidiana exspectatio Zulichemensis itineris<note n="#2"/>, quotidie, praeter opinionem nostrorum omnium, procrastinati, tam diu suspensum me habuisset. Et cogitabam accuratius aliquanto ac signatius, coram dici, quam scribi posse, ea quae de studijs tuorum tecum erant conferenda. denique putabam, si maximè scriberem, responsum ad me redire non posse priusquam Zulichemi conveniremus. Interea, ut decuit diligentes, nihil aut ego aut tui remisimus a discendi docendique assiduitate; potuit quae plurima virtus esse, fuit. Constantinus atque Christianus jam suis auspicijs, suo marte iram Pelidae Achillis evolvunt, in media Iliade versantes, mox similiter, si jubebis, vel nullo cortice, vel suo subnixi. Odijsseam <hi rend="i">ϰαὶ ἄνδρα πολύτροπον</hi> tranabunt, uterque ipse suae rector remex, antenna carinae. Sed, quanquam Homerum, qui omnis Philosophiae pater appellatus est, soli legunt, naturalem tamen Philosophiam in Burgersdicio<note n="#3"/> mecum perscrutantur. Clarissimus verò doctissimusque dominus doctor, Seneca
+Tragico et Curtio nuperrimè absolutis, non nisi Graeci testamenti et Posselianae<note n="#4"/> Sijntaxeos<note n="#5"/> lectione mecum occupatùr; seorsim autem, subinde Historicorum, subinde Poëtarum, quos ante legerat, repetitioni vacat; quoties nimirum ego ipsi per majorum fratrum vel Philippuli studia vacare non possum. Philippuli aetatulam pro captu suo exercere soleo nunc praeteritorum ac supinorum doctrina, nunc thematibus dictandis, nunc denique Grammatica tua. Sed de his et alijs melius, spero, ac latius brevi coram. Ita te, nobis ac patriae incolumem, incolumes conspiciamus suspiciamusque.</p>
+<div type="closer">
+<p>Scribebam <placeName key="denha004">Hagae Com.</placeName> <date>Idib. Octobr. CIƆIƆCXLIV</date>.</p>
+<p>Perillustris Domine tuus omni obsequio servus <persName key="brun004">Henricus Bruno</persName>.</p>
+</div>
+<p>Penè oblitus fueram rescribere de <persName>Westerbanio</persName><note n="#6"/>, cui <hi rend="i">Momenta</hi> tua per Hubertum misi. agit gratias prolixissimas, addito nihil sibi magis in votis esse, quàm benignitatem tuam quavis observantia atque servitio demereri.</p>
+</div>
+<div type="para">
+<p>Mijn Heere, Mijn Heer <persName key="huyg001">van Zuijlichem</persName> etc. Ridder, Raed en Secretaris van Sijn Hoogheijt
+<lb/>tot Berghen op Zoom.</p>
+</div>
+</body>
+</text>
+</TEI>

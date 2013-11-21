@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LIV"/>
+<meta type="date" value="1669"/>
+<meta type="sender" value="gall047"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LIV">
+<div type="opener">
+<p>Ce dimanche matin.</p>
+</div>
+<p>Je vous envoie, Monsieur vos deux ecrits de la Comete auec le billet de M. Chapelain et le Journal d'Angleterre, que vous avez eu la bonté de me communiquer. Je vous en remercie tres humblement et ie vous supplie d'excuser si ie vous renvoie si tard le Journal d'Angleterre. J'apprens l'anglois, et ie voulois acheuer de l'expliquer a mon maistre l'anglois, comme vous m'aviez assuré que vous n'en aviez pas affaire, i'ay cru que vous ne trouviez pas mauvais que ie le gardasse iusqu'à present.
+Je vous envoie monsieur les annales des travaux d'Allemagne, dont vous iugerez. Je vous supplie de n'oublier pas les observations que vous m'avez promises touchant le vif argent, et touchant la machine de M<hi rend="sup">r</hi> Comiers<note n="#2"/>.
+Je suis Monsieur vostre tres humble et tres obeissant seruiteur</p>
+<div type="closer">
+<p><persName key="gall047">Galloys</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

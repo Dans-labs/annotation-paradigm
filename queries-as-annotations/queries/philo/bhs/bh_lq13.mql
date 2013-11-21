@@ -1,0 +1,34 @@
+// This query looks for constructions similar to the one in Qoh 1:17 if
+// you consider the second DA<AT to be a noun. The question is whether
+// the second DA<AT is an infinitive or a noun.
+
+// ident @(#)lq13.mql	1.1 04/03/04
+
+/*
+<metadata>
+<meta type="research_question">Qoh 1:17</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-03-04"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query looks for constructions similar to the one in Qoh 1:17 if you consider the second דַעַת to be a noun. The question is whether the second דַעַת is an infinitive or a noun.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [phrase
+      [word FOCUS tense = infinitive_construct]
+   ]
+   [phrase
+      [word FOCUS first part_of_speech = noun]
+      [word FOCUS lexeme = "W"]
+      [word FOCUS
+	 part_of_speech = noun and
+	 state = construct and
+	 paradigmatic_pron_suffix = "Absent" //DR is is Absent or Not_applicable ?
+      ]
+   ]
+]

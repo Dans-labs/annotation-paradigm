@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1858"/>
+<meta type="date" value="1672-01-11"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1858">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 1. Janvier 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je me trouue obligé de ne differer pas plus longtemps ma responce à la vostre du 7 novembre, vous ayant d'abord souhaité, auec cete nouuelle annee, vne nouuelle confirmation de vostre santé et vn accroissement de toute autre felicité. Les observations de Monsieur Cassini touchant la suite des Taches solaires<note n="#1"/>, accompagnees de celles qui regardent Saturne (pour la communication desquelles nous vous sommes bien obligéz) s'impriment presentement en Anglois dans les Transactions<note n="#2"/> qui appartiennent au mois de Decembre, mais qui ne sont pas encore achevées, à cause de l'interruption que ces iours de festes donnent aux ouvriers. Je vous les pourray envoier la semaine qui vient, auec quelques lettres latines de Monsieur Hevelius touchant ses propres observations du mesme Planete; la derniere Eclipse de la lune; une occultation de la 1<hi rend="sup">ere</hi> des Jovialistes par l'ombre de Jupiter; vn transit de ♃ et ☽; comme aussi les observations faitez à Hamburg<note n="#3"/> touchant les taches du soleil retournees etc.</p>
+<p>Au mesme temps ie fais estat de vous expliquer l'invention d'une nouuelle sorte de Telescope par Monsieur Isaac Newton<note n="#4"/>, Professeur de Mathematiques à
+Cambridge<note n="#5"/>. Tout ce que ie vous en diray à present, c'est, que par le premier Essay, qui en a esté vû et examiné icy, il apparoit, qu'un telescope d'environ 6 pouces, a representé l'object 9 fois plus grand qu'vn Telescope ordinaire de 25 pouces, en comparant la mesure de l'une et l'autre image. Cela se fait, par deux reflexions, dont l'une, refleschit l'object d'un concaue metallin à vn miroir metallin plan, l'autre, de ce miroir à vn petit verre oculaire plano-convexe, qui envoye l'object à l'oeil, et l'y represente sans aucune couleur et fort distinctement en toutes ses parties. Vous en aurez la figure, et vne entiere description, par le prochain ordinaire, s'il plait à Dieu.</p>
+<p>Touchant la suite des verres non-spheriques, auxquelles Monsieur Smethwick travaille, ie vous diray, que l'autheur pousse tousiours son dessein, et croit d'y pouuoir reussir, ayant depuis peu fait vn petit Tube d'environ 6. pouces, qui fait voir l'object aussi bien et aussi nettement qu'une lunette ordinaire, assez bien travaillée, de 18. pouces, à ce que quelques personnes intelligentes l'estiment. Il y va lentement, par ce qu'il ne se sert de personne que d'un valet pour travailler dans sa chambre, voulant perfectionner la chose en particulier, devant que de la faire publique et commune.</p>
+<p>J'ay receu cejourdhuy vne lettre<note n="#6"/> de Monsieur Sluse, qui respond à la mienne<note n="#7"/>, ou ie luy auois mandé ce que vous m'escriuistes dans vostre derniere touchant la construction dudit Sieur Sluse sur le probleme d'Alhazen; vous vous proposant alors d'en communiquer auec luy mesme. Sur quoy il m'a envoyé vn discours fort docte, contenant ses polterieures meditations sur le dit probleme, qui estant trop longues pour estres copiées dans le peu de temps, qui me reste acetheure, il faut que i'en remette aussi le detail iusques à une autre fois. Cependant ledit Hugens<note n="#8"/> adjoute ces paroles: <hi rend="i">A Clarissimo Hugenio nihil adhuc accepi</hi>, <hi rend="i">aliis</hi>, <hi rend="i">ut existimo</hi>, <hi rend="i">studiis occupato</hi>. La lettre fut datée VI Cal. Januar. 1672.</p>
+<p>Au reste, i'ay la 3<hi rend="sup">me</hi> partie du livre de Monsieur Wallis pour vous l'envoyer de sa part: ce que i'executeray par le premier amy, qui passera d'icy à Paris.</p>
+<p>Vos amis icy seront tres-aises d'entendre des bonnes nouuelles touchant vostre
+pendule, que vous ditez estre ajustée d'une maniere nouuelle pour observer les longitudes et estre envoyée dans vn voyage en Amerique.</p>
+<p>J'ay depuis peu envoyé a Monsieur Vernon la figure et la description imprimée de la Trompe<note n="#9"/> de Monsieur Moreland<note n="#10"/>, l'ayant prié de vous la saire voir, et d'entendre vos pensées la dessus particulierement sur le probleme, qu'il y a inseré, touchant la veritable sigure, et les dimensions d'un instrument, qui aggrandit le mieux et le plus la voix humaine. Je ne doubte pas, que vous ne l'ayez desia vû et consideré, et que vous n'ayez la bonté de nous en dire vostre sentiment; ce qui obligera particulierement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName> à la Bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

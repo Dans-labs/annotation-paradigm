@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1885"/>
+<meta type="date" value="1672-05-16"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1885">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 6 May 1672.</p>
+<p>Monsieur</p>
+</div>
+<p>Voicy vn autre journal Anglois<note n="#1"/>, oú vous trouuerez la suite<note n="#2"/> de ce que Monsieur Newton a fait pour advancer sa nouuelle lunette. Je trouue que dans le 8<hi rend="sup">me</hi>
+memoire<note n="#3"/> de Monsieur Denys<note n="#4"/> on a descrit vn telescope<note n="#5"/> qui y est estimé plus spirituel, come parle l'autheur, que celuy de nostre Anglois. Cependant, si ie ne me trompe fort on trouue la mesme façon donnée par Monsieur Gregory, l'Escossois, dans son <hi rend="i">Optica Promota</hi> p. 92. 93. 94. qui fut imprimée à Londres l'an 1663, que vous prendrez la peine, s'il vous plait, de considerer<note n="#6"/>.</p>
+<p>De plus, le mesme M. Denys a fait imprimer dans son 9<hi rend="sup">me</hi> memoire<note n="#7"/> les proportions de la trompette de Monsieur Moreland; dont ie seray bien aise d'entendre vos pensees.</p>
+<p>Vous trouuerez, parmy les livres de ces Transactions, quelque chose faite par Monsieur Pell<note n="#8"/>. Si vous m'ordonnez de vous envoyer le livre mesme, ie vous obeiray come</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vtre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Ce que vous m'auez escrit touchant vostre abregement de la construction du probleme d'Alhazen i'ay envoyé á Monsieur Sluse, dont i'attends vne lettre tous les iours. Touchant Kinkhuysen, son introduction est traduite en latin, et sera
+eslargie par les notes de Monsieur Newton, pour servir come vne introduction à sa methode generale des quadratures analytiques; et quand celles-cy viendront à Londres pour y estre imprimées la dite introduction de Kinkhuysen sera aussi imprimee<note n="#9"/>.</p>
+<p>De plus, le dernier livre dudit Kinkhuysen, des problemes geometriques, a esté traduit aussi en latin; la quelle traduction est astheur entre les mains de Monsieur Bernard<note n="#10"/> professeur de l'Astronomie à Oxford, qui l'adjustera pour la presse.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName>,
+<lb/>dans la bibliotheque du Roy à Paris.
+<lb/>30 β</p>
+</div>
+</body>
+</text>
+</TEI>

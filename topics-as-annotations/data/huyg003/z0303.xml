@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0303"/>
+<meta type="date" value="1656-06"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0303">
+<p>De Saturni Phaenomeno.</p>
+<p><formula>aaaaa b ccc d eeee g h iiiiiiiiii ll mm nnnnn ooo p q rrrrrr ssss ttttt uuuuuuu</formula>.</p>
+<div type="closer">
+<p><persName key="heve011">Joh. Hevelius</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

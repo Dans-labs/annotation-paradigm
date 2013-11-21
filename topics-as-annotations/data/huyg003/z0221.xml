@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0221"/>
+<meta type="date" value="1655-05-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0221">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Franc. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Ex libris illis qui nuper Harlemi venierunt in auctione quorumque catalogum mihi per Dukium exhiberi curasti aliquos in chartula annotaveram quos mihi emptos cupiebam. eam si acceperis, non dubito quin diligenter negotium gesseris, quod sponte suscepisti, et profecto non parum tibi eo nomine me debiturum intelligo. Quod si tamen ob immodicum praetium vel alia de causa haberi non potuere facito quaeso ne frustra eos diutius expectem; fortasse enim aliunde conquirendi sese offeret occasio. Pater meus nuper inter manuscripta quae olim à Mersenno missa sunt invenit libros duos Locorum planorum Apollonij<note n="#1"/> à Fermatio<note n="#2"/> restitutorum. Si
+te scirem eos inspicere velle mitterem lubens, sed credidi causam esse posse cur nolles. Videntur mihi demonstrationes Fermatij tuis demonstrationibus nequaquam aequiparandae; multa quoque aut perfunctorie nimis tractavisse aut in totum omisisse. In prima tamen Pappi propositione universali, quae legitur in fine paginae 162, aliquid amplius habet nisi fallor quam à te inspectum sit. Non enim
+<figure><graphic url="huyg003oeuv01ill132.gif"></graphic></figure>
+memini videre in tuis, quod si à puncto uno vel duobus rectae duae agantur datum angulum continentes ut AC, BD; habeantque vel inter se datam rationem, vel datum comprehendant spatium, quod tum si unius terminus, puta C, contingat locum planum positione datum etiam alterius terminus D locum planum continget. Haec autem ejusmodi sunt ut etiamsi à te non restituantur, nemo tamen crediturus sit propter difficultatem nimiam praetermissa esse. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>, <date>26 Maji 1655</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName>
+<lb/>Professor der Mathematycken inde Universiteijt
+<lb/>Tot Leijden.
+<lb/>Heeresteegh.</p>
+</div>
+</body>
+</text>
+</TEI>

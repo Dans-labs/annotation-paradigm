@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1730"/>
+<meta type="date" value="1669-04-16"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1730">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 16 Auril 69.</p>
+<p>Monsieur</p>
+</div>
+<p>Ce n'a pas esté comme Juge mais comme amy que je me suis meslé<note n="#1"/> au diferent qui est entre vous et Monsieur Gregory. Et comme Je n'ay pas touché a la matiere dont il est question entre vous, mais seulement aux circumstances et maniere d'agir et ce qui en depend, Je n'ay pas cru qv'il fust necessaire de vous celer ce que J'en pensois iusqu'a ce que Jeusse de l'un et de l'autre information de l'affaire, de sorte que n'ayant qu'il me souuienne fait aucun iugement de la chose a vostre preiudice, mais seulement quelques obseruations sur le procedé des deux costez il vous sera tousiours entier de me gaigner a vostre costé aussi tost qu'il vous plaira de prendre la peine de me representer ce que vous auez a dire sur le suiet.</p>
+<p>Vous croirez aisement que Je n'ay pas brigué linformation dont Je vous ay envoye copie<note n="#2"/>. Monsieur Gregory estoit en Escosse deuant que Je l'ay eue, mesme il n'en sçait rien du tout, iusqu'a cette heure, quoy que deuant qu'il partist d'icy Je luy auois dit quelques uns de mes sentiments touchant son humeur et son procedé assez nettement.</p>
+<p>Pour ce qui est des Reigles de repercussion produites par Monsieur Wren imprimees dans les Transactions Philosophiques, Monsieur Oldenbourg vous en aura rendu comte<note n="#3"/>. Je ne vous en diray si non que parfois le Conseil de la Societé luy donne ordre de publier quelque choses bien que rarement. Mais c'est luy seul qui les compose sans que la Societé y ait aucune part. Au reste ceux qui ont eu l'auantage destre temoins de ce que vous decouuristes des reigles que vous auiez toutes prestes lors que sur le champ dans vostre chambre au Comun Jardin vous declarastes la resulte de quelques experiences qu'on vous representa auec un exactitude bien surprennante, ceux disje qui y estoyent alors present, au moins ceux du nombre qui sont encor au Monde ne manquent pas ens<note n="#4"/> toutes occasions de vous en attribuer lhonneur qui vous est deu. Et comme Jestois alors present et me souuiens fort bien de ce qui sy est passé Je ne manque pas d'en rendre temoignage toutes les fois qu'il en est question. Mais comme d'ailleurs vous m'auouerez bien que des lors Je vous ay assez souuent et auec empressement solicité de publier vos reigles au plus tost de peur que quelqu'autre ne vous preuint: aussi faut il que vous m'accordiez, quil est bien possible que deux personnes puissent tomber sur une mesme inuention sans que l'un reçoive aucune lumiere, mesme sans qu'ils soyent connus l'un de l'autre. Cest une chose hors de Contrauerse et dont Je sçay plusieurs exemples. Mais aussi des personnes diferentes se rencontrent quelques fois dans une mesme inuention et produisent les mesmes choses par des methodes et moyens differents. Et en tel cas il me semble que lhonneur de linuention se peut attribuer a tous les deux sans faire tort a l'un ou à lautre.</p>
+<p>Jl est vray que lors qu'une persone qui est desia possesseur d'une inuention parle de la chose sans descouurir la methode ou les moyens dont il se sert, si là dessus une persone qui l'entend parler de son inuention s'applique a le trouuer de son chef et y reussit qu'il luy manque quelque chose de l'honneur du premier inuenteur parce que sans luy lautre ny auroit peut estre iamais pensé bienque en effet le dernier peut estre tout aussi abile homme que le premier. Or Je crois que Monsieur Wren (qui est maintenant surintendant des Bastiments du Roy) auoit songé aux reigles du mouuement lors que vous nous fistes cette experience des vostres comme les ayant desia toutes dressees. Comme que c'en soit Je ne crois pas que Monsieur Wren pretende a vous contester aucun honneur qui vous est deu.</p>
+<p>Quant a la derniere responce<note n="#5"/> de Monsieur Gregory que Monsieur d'Oldenbourg vous fist tenir<note n="#6"/> il y a quelque temps, Je vous auoueray franchement que jusque icy Je nay rencontré personne qui prenne ce qu'il y auance pour des demonstrations.</p>
+<p>Monsieur du Hamel vous aura fors doubte fait tenir<note n="#7"/> les 100. Escus qu'on luy a mis entre les mains pour cette effet.</p>
+<p>Je seray fort aise dapprendre que vos Horologes auront eu le bon succes que vous vous en promettez. Vous nous en direz des nouuelles lors quils seront de retour. Cependant faites nous scauoir les changements que vous y auez faits pour ce qui est du mouuement.</p>
+<p>Je n'ay rien sceu de la proposition<note n="#8"/> que Monsieur Mercator a fait a Monsieur <persName key="colb012">Colbert</persName> deuant que vous me l'auez mandé. Jauray de la peine a croire quil y ait songé a malice. C'est un bon homme qui na pas la mine a vouloir faire tort a personne. Et peut estre aura il crû que le mouuement qu'il a adiousté a vostre pendule par lequel les aiguilles monstrent tousiours l'heure et minute exactement sans auoir besoin de Tables d'equation, pourra meriter quelque chose sans vous faire preiudice.</p>
+<p>Ce que vous dites de l'Anagramme que vous nous auez enuoyé<note n="#9"/> m'a fait songer a une ou deux choses. l'une est, la perte quil y pourra auoir si l'inuention ou la proposition qu'on aura descritte dans cette Anagramme estant utile au monde lautheur venoit a mourir sans la decouurir. Je serois aise que vous y pussiez proposer un remede.</p>
+<p>L'autre est, que Je trouue fort a propos que vous nous fassiez sçauoir si vous trauaillez a la chose qui est portee dans vostre anagramme. Au reste de ce que Je viens de dire jl semble nestre pas desraisonable qu'en cas de mortalité on fasse en sorte que telles Anagrammes soyent interpretees, asin que si lAutheur vient a mourir deuant quil ait acheué une invention utile quil se seroit proposé au meme l'on puisse scavoir ce que cestoit. Et lors la chose cest a dire le Titre ou description de la chose estant connue il se pourra rencontrer quelque Teste assez abile pour venir about de linuention proposee a quoy il nauroit iamais songé si la chose ne luy auoit esté nommee.</p>
+<p>Mais Je me donne trop de liberté lors que Je rencontre une heure pour vous entretenir. Ce qui m'est assez difficile Je vous assure parce que ayant lhonneur destre lun des deux qui seruent sa Maiesté dans son laboratoire Chymique a peine quelque semaines entieres ay je un moment a moy depuis le matin jusquau soir si ce nest sur le Mydy. Comme que cen soit puis quil me reste encore place pour deux ou 3 lignes et un moment de temps pour le remplir il faut tempter un peu dauantage vostre patience pour vous dire que quelque peu dapparence quil y ait que tout le monde se donne la peine dapprendre le language Vniuersel<note n="#10"/> on peut fort facilement se seruir du charactere pour sexprimer et se faire entendre en toute langue. Le Roy la desia appris, et a son example tout le monde sy applique. il est desormais temps de vous dire que je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur
+<lb/><persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

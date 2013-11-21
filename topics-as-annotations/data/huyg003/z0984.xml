@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0984"/>
+<meta type="date" value="1662-02-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0984">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 24 février 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Voicy les divisions du pendule<note n="#1"/> que j'oubliay d'enfermer dans ma precedente<note n="#2"/>, par une nonchalance d'autant plus lourde que je venois de remarquer la vostre en pareil cas. Vous entendrez donc ce que signisient les nombres mis a costè de la ligne, et comment il faut approprier le pendule, de ce que dans la dite lettre
+<figure><graphic url="huyg003oeuv04ill18.gif"></graphic></figure>
+j'en ay escrit. Pour vous enquerir si les platines ont la forme requise de Cycloide, il en faut avoir une platte limée exactement de la forme qui se doit ajuster entre les deux platines courbes, ainsi l'horologer<note n="#3"/> me dit qu'il a observè la vraye figure le plus exactement qu'il a pu, mais je vous en crois plustost si vous trouuez le contraire. Apres que vostre horologe sera mise une fois au point qu'il faut, ne craignez pas que le changement de l'air en altere le train, au moins je ne me suis aucunement apperceu de cela dans la miene, qui a marchè a cet heure plus de 4 mois sans manquer d'une minute. Cette grande justesse m'a donnè envie d'essaier avec une plus petite horologe, à la quelle on travaille maintenant, si estant suspendue et agitée elle fera quelque chose d'approchant, pour veoir ce qu'il en faut esperer pour les Longitudes.</p>
+<p>J'attens avec impatience ce que Monsieur <persName key="boyl001">Boile</persName> aura dit de l'experience que je vous ay envoiée<note n="#4"/>, touchant l'eau qui ne descend point. La derniere que j'ay faite a estè pour trouuer la pesanteur de l'air, dans la quelle je me sers d'une phiole qui peut tenir environ 130 onces d'eau, et que je puis oster facilement de la machine apres qu'elle est vuidée. J'ay trouuè la proportion de la pesanteur de l'air a celle de l'eau assez pres la mesme que Monsieur <persName key="boyl001">Boile</persName> a scavoir comme 1 à 960, c'est a dire environ, car la tres juste mesure on ne scauroit l'avoir, si ce n'est que par un autre moyen plus penible, que je me suis imaginè. Mandez moy je vous prie ce que vos geometres jugeoient de la demonstration<note n="#5"/> de Monsieur Milord <persName key="brou051">Brouncker</persName>, et ce que luy mesme en pense apres avoir vu mes remarques<note n="#6"/>.</p>
+<p>Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>Je baise tres humblement les mains a Monsieur Ball<note n="#7"/> et me souuenant tousjours de l'accueil qu'il me fit chez luy, je souhaite avec passion de luy pouuoir rendre service, et temoigner la grande estime que j'ay pour sa personne.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="mora019">Robert Moray</persName> Chevalier &amp;c. demeurant dans Whithall du costè du Jardin
+<lb/>A Londres.
+<lb/>8 st.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1759"/>
+<meta type="date" value="1669-09-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="esti011"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1759">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 7 Septembre 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Nos vacances me donnant plus de loisir que je n'en ay eu il y a long temps, je songe à satisfaire à ce que je vous doibs, esperant que l'occupation que vous a donnè la construction de vostre carte, vous aura fait supporter plus patiemment ce long retardement, puis qu'aussi bien la fabrique de vostre horloge en a estè interrompue.</p>
+<p>La figure<note n="#2"/> que je vous en ay envoiée cydevant ayant estè faite par coeur, sans avoir d'horologe devant moy, a causè, par son imperfection, les doutes qui sont dans vostre pénultieme lettre<note n="#3"/>, dont le premier est touchant la position de l'eguille
+<figure><graphic url="huyg003oeuv06ill100.gif"></graphic></figure>
+du balancier, qui en effect doibt passer par le centre de la roue de rencontre quand le nombre de ses dens est impair comme icy; mais estant pair, l'eguille doibt passer a costè du centre, et c'est de la que m'estoit restè l'idée. Il n'y a point de difficultè au reste de la faire passer par le centre, cette construction se voyant dans toutes les montres de poche. Mais vous le verrez aussi dans la figure de l'horologe, qui va cy jointe<note n="#4"/>, ou l'eguille des palettes ayant l'un de ses points en A et l'autre en C, elle passe à travers la piece B, dans la quelle aboutit un des pivots de la roue de rencontre, de sorte qu'il faut concevoir cette piece B percée d'un trou a y pouvoir passer la dite eguille avec une des palettes. Tout cette pièce DBA est
+<figure><graphic url="huyg003oeuv06ill101.gif"></graphic>
+<figDesc>toute cette division ne monte qu'a environ la moitiè de la verge.</figDesc></figure> virée en D contre la grande platine du mouvement, laquelle est percée à l'endroit ou doibt passer une partie de la roue de rencontre, comme vous voiez. Il est vray que c'est tout que de pouvoir reconnoitre quelque chose par ce mechant griffonnement, qui est tel que je le traçay dernierement sur une de nos bonnes horologes; pour le mettre ensuite au net, comme vous pourrez faire de mesme; et si vostre ouvrage n'estoit pas encore beaucoup avancè, ce modelle pourroit servir à vous y conduire, puis que les mesures y sont assez exactement gardées. La partie qui represente comment les aissieux passent l'un à travers l'autre pour faire marquer les heures et les minutes, vous fera le plus de peine, mais je m'assure que vous en viendrez a bout et voicy ce qui pourra vous y aider. Sur l'aissieu de la grand' roue qui traverse jusqu'en H, il y a premierement une roue de 36 dens, avec une petite cannule qui tourne assez ferme sur le dit aissieu, et qui est quarrée à son bout K pour porter l'equille des minutes. Cette roue de 36 engraine dans une de 18, à laquelle est attachè un pignon de 6 qui engraine dans une autre roue de 72, qui a une cannule courte, qui passe seulement un peu hors de la platine des quadrans, pour porter l'eguille des heures, et cette cannule tourne fort librement sur la cannule de la roue de 36, mais fort juste dans le trou de la platine.</p>
+<p>Vous verrez les divisions de la verge du pendule en tournant ce feuillet<note n="#5"/>. Il faut mettre ces 3 parties bout à bout prenant celle à main gauche pour la plus basse. Chaque minute y est divisè en 4 parties, de sorte que pour faire aller l'horologe plus lentement de 15 secondes en 24 heures, il faut baisser le petit poids coulant d'une de ces parties. Je vous ay mandè comme je crois cydevant<note n="#6"/> que ce poids coulant doit estre 1/28 du poids du pendule, et que la verge de mesme doibt estre 1/28 de ce poids.</p>
+<p>Pour ce qui est des regles du mouvement que j'ay données<note n="#7"/>, elles consistent tout à fait dans le raisonnement, comme vous verrez quelque jour par les demonstrations que j'en ay faites<note n="#8"/>, qui sont très certaines, et ces Messieurs en Angleterre quoyque d'abord ils ne les comprinssent point, m'ont mandè du depuis qu'ils en estoient satisfaits<note n="#9"/>. Je n'y considere point le centre de gravitè, quoyque j'en tire dans la suite ces proprietez qui le regardent que vous avez vues.</p>
+<p>&nbsp;</p>
+<p>Je suis Monsieur</p>
+<p>&nbsp;</p>
+<p>Vostre tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

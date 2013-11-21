@@ -1,0 +1,41 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0233"/>
+<meta type="date" value="1655-09-02"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0233">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>2 de Sept. 1655</date>.</p>
+<p>Mon Frere</p>
+</div>
+<p>Ne m'ayant escrit qu'une seule lettre<note n="#1"/> vous avez tort de m'accuser<note n="#2"/> de negligence, car je vous ay respondu<note n="#3"/> esperant que ma response vous trouveroit encore a Paris.
+Depuis que vous estes partis dela ma foy j'avois fait dessein de ne vous point escrire jusques a ce que vous fussiez de retour, dans la crainte que j'avois que mes lettres ne s'esgarassent ou bien ne vous fussent rendues que fort vieilles.
+Mais voyant que vous prenez le tour si long, j'ay changé d'advis de peur de vous laisser sans de nos nouvelles.
+J'escris pourtant cecy dans une haste extreme. <hi rend="i">Belieft den slechten stijl te excuseren</hi>.</p>
+<p>Pour ce qui est des lunettes, j'ay a vous dire que je n'ay fait aucune nouvelle observation depuis.
+Mars n'est point en estat de pouvoir estre veu avec des cornes comme vous pouvez scavoir.
+et Venus je ne l'ay point veue de long temps a cause qu'il a tousjours fait mauvais temps, et quand il a fait beau je n'ay point fait d'observation ayant esté la plus part du temps en voyage.
+pour Jupiter je l'ay consideré
+souvent, le soir vers les 10 ou 11 heures et parfois a 4 du matin, et j'ay remarqué que le regardant le soir je n'e m'ay jamais pu appercevoir de la ligne qui est au milieu, par ce que les vapeurs de la terre m'en empeschoyent, mais le matin quand il estoit plus vertical je l'ay veue tres-distinctement.
+Quand vous serez a Paris je vous envoyeray un desseing de mon observation.
+Il y a au milieu ou un peu plus vers en hault une ligne claire et des deux costés dicelle deux autres noires qui la bornent.
+Pain et Vin<note n="#4"/> a envoyé des eschantillons de verre qui sont bien beaux mais non pas meilleurs pourtant que nos meilleurs verres convexes.
+Vous les verrez a vostre retour. Je n'ay point eu de response de <persName key="colv001">Kolvius</persName> ny de <persName key="kalt002">Kalthoven</persName><note n="#5"/>.
+Aussi je ne scay pas s'il sera fort expedient que je travaille avant que vous soyez de retour.
+en beaucoup de choses je commence a ressentir l'incommodité de vostre absence.
+<persName key="wyck005">Van Wijck</persName><note n="#6"/> tourne luy mesme des formes de fer a ce que m'a dit mon Pere, je l'iray voir au premier jour, je pense que ce ne sera rien qui vaille.
+Les Cousines Zuerius<note n="#7"/> sont encores icy mais s'en vont lundy prochain.
+Monsieur <persName key="bred901">de Brederode</persName> est encore fort mal et on ne croit pas qu'il la face fort longue<note n="#8"/>. On dit que soubs main le Prince de Tarente<note n="#9"/> brigue desja sa charge de Mareschal de Camp. Monsieur <persName>d'Opdam</persName> s'en va avec une flotte de 16 vaisseaux dans l'Oostzee<note n="#10"/>.
+Mademoiselle d'Osmael<note n="#11"/> se devoit marier avec le Dyckgraef <persName>van der Hoeven</persName><note n="#12"/> a Delft, mais les enfants du premier lict ont controuvé tant d'obstacles qu'il semble que l'affaire est et demeurera au croc.
+Dans la haste ou je suis je ne trouve plus rien a vous mander. Adieu.</p>
+</div>
+</body>
+</text>
+</TEI>

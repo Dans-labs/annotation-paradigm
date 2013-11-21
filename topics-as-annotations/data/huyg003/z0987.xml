@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0987"/>
+<meta type="date" value="1662-03-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="stock001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0987">
+<div type="opener">
+<p>Illustri Viro Domino <persName key="hein009">Nic. Heinsio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Binas tuas accepi, quarum priores tantum adhuc spem faciebant de phaenomenis, alterac picturam elegantem attulere illius quod anno 1658 fuit observatum; qua profecto non mediocriter gauisus sum, magnique muneris instar habebo quaecunque alia hujus generis mihi impertiueris. Praecipue autem illius quod in templo extat parelij formam cognoscere desidero atque co nunc magis, quod isti quod nuper accepi non multum dissimile esse scribis. Sunt enim in co quaedam adeo ab omnibus alijs, quae usquam observata sciam, diuersa, ut vix ad rei veritatem descripta mihi persuadeam nisi eadem etiam alias apparuisse constiterit. Pigerrimo
+itaque pictori<note n="#1"/> saepe non optima praecari soleo qui in re tantilla tamdiu nos suspensos tenet.</p>
+<p>Ludovicus frater suo nomine quam diligentissime tibi salutem dicere jussit<note n="#2"/>. ad ea vero quae ab ipso petieras<note n="#3"/> respondit, cum primum posset Bibliothecam regiam se aditurum quaeque ibi extent Ovidij exemplaria recogniturum. In Coenobio autem Sancti Laurentij Metamorphoesos codicem antiquissimum atque optimum suo judicio cum tua editione contulisse, quanquam obiter tantum; annotasse autem praeterea quinam alij illic supersint quasque operis partes singuli complectantur. Sed scedulam in qua haec descripserit reposuisse in locum unde depromi nisi ab ipso nequeat. Ejus itaque ubi e Gallia redierit copia tibi fiet, quanquam sane non adhuc scio quam brevi id futurum sperare debeam. Literas tuas ad Capellanum Vlitium caeterosque omnes optime curatas esse ne dubita. Illum vero nihil hucusque rescripsisse, maximi cum materiam praebeant elegantissimi versus tui<note n="#4"/>, quibus Delphini natales celebrasti, nescio quid causa esse dicam, qui sciam quam alioqui soleat in his esse officiosus.</p>
+<p>Ab Illustrissimo Monmorio nuper dono accepi Patris Mambruni, E Societate Jesu, poemata<note n="#5"/>, quae Virgilij scilicet exemplo trifariam divisa sunt, ut pars prima Eclogas contineat, altera de cultura animi libros, stylo Georgicôn scriptos, ultima denique Epicum carmen, Idololatria debellata seu Constantinus inscriptum. Ex omnibus minime placent Bucolica. In heroico aliquanto melius successit quanquam optima quaeque ex Virgilio expressa ac translata animadvertam. Vellem de his judicium tuum intelligere liceret. Zelemius<note n="#6"/> te resalutat, de naevis illis typographicis saepe antea mihi questus est, sed quid remedij nisi ut altera forsan editione expurgentur. Vale.</p>
+<div type="closer">
+<p>Dabam Hagae comitis 6 Martij 1662.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="hein009">Nic. Heinsius</persName> Resident van wegen Hare Hoog Mogenden in Sweden
+<lb/>Tot Stockholm.</p>
+</div>
+</body>
+</text>
+</TEI>

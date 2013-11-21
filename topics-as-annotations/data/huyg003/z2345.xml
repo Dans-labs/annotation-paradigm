@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2345"/>
+<meta type="date" value="1684-06-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2345">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 26 Juin 1684.</p>
+</div>
+<p>J'ay estè ce matin chez M. Talbot, qui dit qu'il pourra avoir des nouvelles touchant le verre dans 5 ou 6 jours, et gueres plustost. Je seray bien aise d'apprendre ce que vous aurez trouvè chez le Jesuite et chez l'Avocat, qui peut estre ne surpasseront gueres les S.<hi rend="sup">rs</hi> van Durven, de qui je n'ay plus rien appris depuis la visite qu'ils m'ont rendu<note n="#1"/>. Je ne vous envoie pas encore les exemplaires de mon Astroscopie parce que la figure n'est pas encore imprimée, par les lenteurs des correspondants de Leers qui doivent procurer cette impression a Rotterdam. Mais il m'a fait dire qu'asseurement il en aura quelques exemplaires a ce soir. S'ils viennent a temps, j'en envoieray 2 ou 3 a la poste. Je comprens fort bien la structure de vos croix de bois, et qu'il n'y avoit pas autrement moyen de braquer la lunette dans des chambres pavees de brique, mais ayant ces croix, il me semble que les vis ne seront plus necessaires, au moins celles qui entroient dans terre. Je crois que vous n'estes plus en peine presentement de scavoir ce qui s'est passè dans les affaires publiques, puis que Mr. <persName>d'Achtienhoven</persName><note n="#2"/> et les autres deputez en auront porté la nouvelle a S[on] A[ltesse] scavoir que Utrecht s'est rangé avec les Provinces qui ont voulu le traitè et qu'il a estè signè samedy dernier. L'on ne publie pas encore ce qu'il contient. Ce matin et mesme des hier au soir il s'est repandu icy un bruit comme s'il y avoit des grands changements en Angleterre. Que le Sr. Armstrongh<note n="#3"/>, que ceux de Leyde avoient livrè, auroit estè mis en libertè. Que les bourgeois de Londres auroient demandè au Roy par une Requeste qu'il assistast les Espagnols contre la France que le Duc de Yorck se seroit sauvè hors de Londres. Il y en a qui disent qu'il y a des Lettres d'Angleterre qui
+en parlent, mais d'autres asseurent en avoir vu plusieurs qui n'en disent rien du tout et que tout est faux, ce qui me paroit plus croiable.</p>
+<p>J'ay ajustè un petit bout de tuyau joignant celuy qui contient le verre oculaire du telescope pour observer les diametres des planetes, ce qui se fait par le moyen d'une vergette platte de cuivre qui traverse ce tuyau postiche, et qui va en diminuant. car ayant remarquè l'endroit de cette verge qui couvre justement la planete<note n="#4"/>, il ne faut que comparer cette largeur avec la longueur du telescope, qui se mesure par le filet, et alors les tables des Sinus font voir [le]<note n="#5"/> diametre de la planete, c'est a dire l'a[ngle] sous le quel il est vu. Je crois que Jupiter [n'a] presentement qu'environ 40 secondes. Et cela me fera trouver a peu pres mon compte, dont j'estois en peine l'autre jour, comme je vous ay escrit<note n="#6"/>. J'en feray l'experience a ce soir. Saturne ne se voit plus, se couchant derriere la grande salle de la Cour. Demain il y aura Eclipse de Lune ou plustost aujourdhuy a une heure apres minuit.</p>
+</div>
+</body>
+</text>
+</TEI>

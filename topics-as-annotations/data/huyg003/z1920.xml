@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1920"/>
+<meta type="date" value="1673-01-23"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1920">
+<div type="opener">
+<p>Monsieur<note n="#1"/></p>
+</div>
+<p>Quoyque je ne scays pas, si vous recevez ces petits traitez, que ie vous envoye de mois en mois, vous me l'ayant ainsi ordonné, ie continue neantmoins de vous
+les adresser<note n="#2"/> voulant croire, que vos meilleures occupations ne vous permettent pas de nous escrire souvent. Je suis persuadé, que les observations<note n="#3"/>, qui se trouvent dans ce Journal, faitez par Monsieur Boyle ne vous desplairont pas. Vous verrez bientost quelque autre chose de sa composition, qui n'est pas vulgaire non plus. Il va faire un Barometre de la facon, que vous avez descrite dans le dernier Journal de Monsieur Galloys. Vous aurez vû sans doubte ce que Monsieur Boyle a publié dans la continuation de ses Experiences Physico-mechaniques. p. 68 et seqq. touchant un Barometre portatif, comme aussi ce que Monsieur Hook a fait imprimer dans sa Micrographie d'un Barometre à rouë<note n="#4"/>, qui marque toutes les differences, mesme les plus petites, de la pesanteur de l'Air. Nous esperons de voir bientost vostre Traité des Pendules, et d'entendre de bonnes nouvelles du Pendule, que vous avez envoyé sur mer.</p>
+<p>Je ne scaurois pas vous celer la responce de Monsieur Sluse à ce que vous m'escrivistez le 27 Sept.<note n="#5"/> dernier sur sa construction du probleme d'Alhazen; vous ayant desia dit par ma lettre du 11<hi rend="sup">me</hi> Novembre que i'avois pris la liberté de luy communiquer cela. Voicy ses propres paroles<note n="#6"/>.</p>
+<p>Non tanti mihi fuerunt unquam vel sunt etiamnunc Geometria studia<note n="#7"/>, ut eapropter cum quoquam contentionis funem ducere velim; nedum cum viro docto et amico, cujus ingenium et eruditionem qualibet occasione commendare soleo. Itaque nihil ad tuas ultimas<note n="#8"/>, quod quidem ad Problemata Alhazeniana attinet, reponerem, nisi vererer, ne silentium meum secus ac vellem interpretareris.</p>
+<p>Accipe igitur constructionem, quam à me desideras, ex schedis meis excerptam. Sed ne actum agam, recole<note n="#9"/>, si placet quae scripsi 22 junii, cum Aequationem in quam omnium primam incidi, nempe
+<figure><graphic url="huyg003oeuv07ill58.gif"></graphic></figure>
+in hanc verti debere indicavi. □<hi rend="i">e</hi> - <hi rend="i">qq/k</hi> + <hi rend="i">my/p</hi>//<hi rend="i">yy</hi> -<hi rend="i">qqky/bp</hi> -2<hi rend="i">qqmy/kp</hi> +<hi rend="i">q</hi><hi rend="sup">4</hi>/<hi rend="i">kk</hi>.</p>
+<p>Sint itaque data puncta E, B; circulus cujus centrum A. Ductis EA, AB, EB, eat per tria puncta A, E, B, circulus alius, et cadat in EB normalis AO, producta ad eundem circulum in T, ductâque diametro AS, jungatur ST. Punctum quaesitum sit P ex quo in AO cadat normalis PR. Nunc in terminis Analyticis erit AR // <hi rend="i">a</hi>. PR // <hi rend="i">e</hi>. AO // <hi rend="i">b</hi>. AT // <hi rend="i">m</hi>. EO // <hi rend="i">z</hi>. OB // <hi rend="i">d</hi>. ST // <hi rend="i">z-d</hi> // <hi rend="i">k</hi><note n="#10"/>. SA // √<hi rend="i">mm + kk</hi> // <hi rend="i">p</hi> et radius circuli dati // <hi rend="i">q</hi>. Fiat ut ST<note n="#11"/> ad radium, ita hic ad AI // <hi rend="i">qq/p</hi> eodem modo ut TA // <hi rend="i">m</hi> ad <hi rend="i">q</hi>, ita hic ad AD = <hi rend="i">qq/m</hi>. Producatur ID utrimque, donec occurrat rectis AE, AB, PR productae in punctis X, V, M et rectae AL parallelae PM in L. Erit <hi rend="i">q</hi> pariter media inter EA, AX, et BA, AV. Et quoniam est ut TS ad SA, sive <hi rend="i">k</hi> ad <hi rend="i">p</hi>, ita RD ad DM, vel RA // <hi rend="i">a</hi> ad ML; erit ML <hi rend="i">pa/k</hi> // <hi rend="i">y</hi>. Eadem ratione ut ST ad TA, sive <hi rend="i">k</hi> ad <hi rend="i">m</hi>, ita DR = <hi rend="i">a -qq/m</hi> ad RM // <hi rend="i">ma-qq/k</hi>, sive (posito pro <hi rend="i">a</hi> ejus valore <hi rend="i">ky/p</hi>) erit RM // <hi rend="i">my/p -qq/k</hi>, et tota PM <hi rend="i">e</hi> + <hi rend="i">my/p</hi> -<hi rend="i">qq/k</hi>.</p>
+<p><figure><graphic url="huyg003oeuv07ill59.gif"></graphic></figure></p>
+<p>Habes eodem modo AL // <hi rend="i">qq/k</hi> cum sit ut ST ad TA, ita DA ad AL. Et cum angulus AVL aequalis sit angulo AEB (ob proportionales) et angulus ad L communis triangulis ALX, AVL, erit ut VL ad LA, ita LA ad LX, et rectangulum VLX aequale quadrato LA // <hi rend="i">q</hi><hi rend="sup">4</hi>/<hi rend="i">kk</hi>. Sumtâ itaque VG aequali XL, erit rectangulum GVL // <hi rend="i">q</hi><hi rend="sup">4</hi>/<hi rend="i">kk</hi>. Nunc est ut ST ad TA, ita AI ad IL // <hi rend="i">qqm/kp</hi>; et ut AO ad OE, ita AI ad IV = <hi rend="i">qqz/bp</hi>. Igitur tota LV // <hi rend="i">qqm/kp</hi>. + <hi rend="i">qqz/bp</hi>. Est autem ut AO ad OB, ita AI ad IX // <hi rend="i">qqd/bp</hi>. Igitur LI minus IX, erit <hi rend="i">qqm/kp</hi> - <hi rend="i">qqd/bp</hi> // LX vel VG; et tota LG // 2<hi rend="i">qqm/kp</hi> + <hi rend="i">qqz-qqd/pb</hi>. hoc est (quoniam <hi rend="i">z - d</hi> // <hi rend="i">k</hi>) 2<hi rend="i">qqm/kp</hi> + <hi rend="i">qqk/bp</hi>. Itaque MG erit <hi rend="i">y</hi> -2<hi rend="i">qqm/kp</hi> -<hi rend="i">qqk/bp</hi> et rectangulum LMG // <hi rend="i">yy</hi> -2<hi rend="i">qqmy/kp</hi> --<hi rend="i">qqky</hi>/<hi rend="i">bp</hi>, quod cum rectangulo LVG // <hi rend="i">q</hi><hi rend="sup">4</hi>/<hi rend="i">kk</hi> aequatur rectangulo XMV (ob aequales scilicet LX, VG). Est itaque rectangulum XMV // <hi rend="i">yy</hi> -2<hi rend="i">qqmy</hi>/<hi rend="i">kp</hi> -<hi rend="i">qqky</hi>/<hi rend="i">bp</hi> +<hi rend="i">q</hi><hi rend="sup">4</hi>/<hi rend="i">kk</hi>. Ostendimus autem PM esse <hi rend="i">e</hi> +<hi rend="i">my</hi>/<hi rend="i">p</hi> -<hi rend="i">qq</hi>/<hi rend="i">k</hi>: inventa igitur est hyperbola aequalium laterum, quam Aequatio indicabat, cujus latus transversum XV, vertex V, una applicatarum PM, et quae proposito satisfacit, ut patet regrediendo per vestigia Analyseos. Caeterum, quamvis lineae omnes, quas duximus, ad constructionem ex analysi deducendam necessariae
+sint, ad hyperbolam tamen, cum innotuit, describendam evidens est ea sufsicere, quae in alia Epistola indicavi<note n="#12"/>.</p>
+<p>Atque haec quidem hactenus eo tantum sine, ut Tibi, Vir Cl. morem gererem. Nam Cl. Hugenius communicari fortasse non expedit, ne, quod nollem, aliquid adhuc sit quod ipsi displiceat. Universalis mea Analysis iisdem principiis nititur, quibus summam Aequationis ad AE vel AB, olim retuleram; inventione nimirum trium harmonicè proportionalium, quarum usum in hujusmodi Problematibus jam dudum ostendi. Poterit autem, qui calculi prolixitatem non aversabitur, aliam quoque similem prorsus instituere, ductâ qualibet lineâ, non modo per A, sed etiam per E et B. Verum, ut existimo, res non est tanti.</p>
+<p>C'est à vous, Monsieur, de considerer comment Monsieur Sluse s'est acquitté, qui semble estre adversaire fort honeste à celuy, qui est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 13 janvier 1673.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

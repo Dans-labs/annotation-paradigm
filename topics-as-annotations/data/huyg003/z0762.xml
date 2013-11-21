@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0762"/>
+<meta type="date" value="1660-07-28"/>
+<meta type="sender" value="gast014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0762">
+<div type="opener">
+<p><date>28. Juillet 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Depuis la lettre que vous m'auez fait l'honneur de m'escrire touchant l'horologe que j'auois pris la liberté de vous recommender, la personne pour qui c'est me charge de vous prier qu'elle soit s'il y a moyen à ressort, et non à contrepoids: Du reste qu'elle sonne les heures, et marque simplement les minutes sans secondes, ainsy que je vous ay mandé. Vous ne serez pas sans doute fasché de scauoir que
+Monsieur Pascal se porte notablement mieux qu'il ne faisoit, selon ce que m'escrit son Beaufrere<note n="#1"/> qui est auec luy à Clermont en Auuergne. Je luy feray scauoir bientost la maniere obligeante dont vous m'en escriuez, et le dessein que vous auez de venir à Paris à ce mois de Septembre. Si je pouuois, Monsieur, vous rendre quelque seruice par deça, disposez de moy absolument comme de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp; tres obeissant seruiteur <persName key="gast014">Du Gast</persName>.</p>
+</div>
+<p>J'ay veu Monsieur Brunetti qui vous honnore parfaitement, et m'a dit le regale que vous luy auez fait chez vous<note n="#2"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chr. H[ugens] de Zulichem</persName><note n="#3"/> A la Haye.
+<lb/>poste d'Hollande</p>
+</div>
+</body>
+</text>
+</TEI>

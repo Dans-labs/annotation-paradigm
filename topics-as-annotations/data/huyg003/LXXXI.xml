@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXXXI"/>
+<meta type="date" value="1693-12-25"/>
+<meta type="sender" value="hoge034"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="voorb901"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXXXI">
+<div type="opener">
+<p>Mijnheer en Neef.</p>
+</div>
+<p>Alsoo wij geresolveert sijn toekomende Maendaeg avont het lighaem van mijn lieve vrouwtje ter aerde te bestellen soo is 't dat wij UEd<hi rend="sup">e</hi>. versoecken om het selve de laeste Eere aen te doen met het behelpen onder de aerde te brengen.</p>
+<div type="closer">
+<p>Mijn Heer
+<p>UEd. onderdanige dienaer
+<lb/><persName key="hoge034">G.J. van Hogendorp</persName></p>
+<lb/>Hage den 25 7<hi rend="sup">ber</hi> 1693.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer de H<hi rend="sup">r</hi>. <persName key="huyg003">van Zelem</persName> Present op sijn Ed. <hi rend="sup">ens</hi> Hofstede genaamt Hofwyck tot Voorburgh.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0189"/>
+<meta type="date" value="1654-04-17"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0189">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+<p><date>17 Apr. 1654</date>.</p>
+</div>
+<p>Remitto tibi Epistolas nuncupatorias<note n="#1"/> quas perlegere me voluisti. Video autem maximè in connexione periodorum te laborare, quam proinde nonnullis locis
+restituere
+conatus sum. Etsi perdifficile fuit sensum sententiamque verborum tuorum quae sane optima est retinere ubique mutato licet ordine. Equidem omnino necessarium nobis studium existimo exercendi excolendique styli utique si nonnunquam in publicum Philosophari velimus. nescio enim qua ratione, sed ita <seg org="sieri" resp="#AD" type="corr">fieri</seg> animadverto ut quanto magis in Mathematicis proficimus, minus nos comitetur orationis ubertas concinnitasque. In me certe quotidie hoc experior neque tamen magni pendo, paucis praefari contentus. quod et Praecipuos quosque Geometras olim factitasse videmus, neque tamen unicam ipsos causam habuisse imbecillitatis suae conscientiam arbitror, sed hanc quoque quod praeclara opera sua nulla verborum commendatione indigere existimarent adeo ut prolixe aut ornate dicere nec potuerint nec voluerint. Spero jam Cyclometricum meum te invicem evolvisse et castigasse, quem proinde in crastinum quoque expectabo. Quaeso nè frustra. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

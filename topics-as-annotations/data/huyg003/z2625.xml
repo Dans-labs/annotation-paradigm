@@ -1,0 +1,169 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2625"/>
+<meta type="date" value="1690-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2623"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2625">
+<div type="section">
+<head rend="h4">§ I.</head>
+<p>Fundamentum omnium eorum quae de curvae catenae reperimus<note n="#3"/>.</p>
+<p><hi rend="i">Fili gravitate carentis</hi>, <hi rend="i">et aequalia ponder a innexa habentis</hi>, <hi rend="i">tria qualibet internodia continua ac sursum tendentia ita ad planum horizontale inclinantur</hi>, <hi rend="i">ut tangentes angulorum hujus inclinationis crescant aequali excessu</hi><note n="#4"/></p>
+<p><figure><graphic url="huyg003oeuv09ill91.gif"></graphic>
+<figDesc>Fig. 1</figDesc></figure></p>
+<p>Sint catenae pondera aequalia innexa habentis <hi rend="i">A</hi>, <hi rend="i">B</hi>, <hi rend="i">C</hi>, <hi rend="i">D</hi>, internodia tria sursum tendentia <hi rend="i">AB</hi>, <hi rend="i">BC</hi>, <hi rend="i">CD</hi>, producanturque internodia extrema et conveniant in <hi rend="i">P</hi>. Et per <hi rend="i">P</hi> ducatur ad horizontem perpend. <hi rend="i">NPK</hi> eique occurrant horizontales <hi rend="i">BK</hi>, <hi rend="i">CN</hi>. Est ergo internodii <hi rend="i">AB</hi> inclinatio ad horizontem angulus <hi rend="i">PBK</hi>, et internodii <hi rend="i">BC</hi> inclinatio angulus <hi rend="i">FBK</hi>, et internodii <hi rend="i">CD</hi> inclinatio angulus <hi rend="i">PCN</hi>. Dico itaque tangentem ang.<hi rend="sup">i</hi> <hi rend="i">PBK</hi> tantum superari a tangente ang.<hi rend="sup">i</hi> <hi rend="i">FBK</hi> quantum haec superatur à tangente ang.<hi rend="sup">i</hi> <hi rend="i">PCN</hi>.</p>
+<p>Quia enim concursus rectarum <hi rend="i">AB</hi>, <hi rend="i">DC</hi>, hoc est punctum <hi rend="i">P</hi> incidit in perpendicularem horizonti quae per centr. gr. ponderum <hi rend="i">BC</hi> transit; sunt autem pondera haec aequalia, necesse est perpendicularem <hi rend="i">KPN</hi> secare internodium <hi rend="i">BC</hi> aequaliter in <hi rend="i">F</hi>, unde et <hi rend="i">BK</hi>, <hi rend="i">CN</hi> aequales erunt. Quarum utrovis pro radio adsumta, apparet <hi rend="i">PK</hi> tangentem anguli <hi rend="i">PBK</hi> eadem recta <hi rend="i">PF</hi> superari a tangente ang.<hi rend="sup">i</hi> <hi rend="i">FBK</hi>, qua tangens hujus anguli, sive illi aequalis, <hi rend="i">FCN</hi> superatur a tangente ang.<hi rend="sup">i</hi> <hi rend="i">PCN</hi>. Sunt autem hi anguli ut jam diximus inclinationes internodiorum <hi rend="i">AB</hi>, <hi rend="i">BC</hi>, <hi rend="i">CD</hi> ad planum horizontis. Ergo constat propositum.</p>
+<p>Catenae seu fili suspensi aequalia pondera innexa habentis, si infimum internodium horizonti parallelum fuerit erunt deinceps anguli reliquorum internodiorum cum horizontali plano tales, ut eorum tangentes crescunt secundum rationem numerorum ab unitate incipientium 1, 2, 3, 4, 5, etc.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#5"/>.</head>
+<p>Catena composita ex virgulis aequalibus <hi rend="i">WS</hi>, <hi rend="i">SP</hi>, <hi rend="i">PG</hi>, <hi rend="i">GB</hi> et dimidia <hi rend="i">BA</hi>, quae horizonti parallela. <hi rend="i">AB</hi> = <hi rend="i">a</hi>. <hi rend="i">AC</hi> = <hi rend="i">b</hi>.</p>
+<p><figure><graphic url="huyg003oeuv09ill92.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p>Angulorum <hi rend="i">GBO</hi>, <hi rend="i">PGU</hi>, <hi rend="i">SPT</hi>, <hi rend="i">WSX</hi>, etc. tangentes aequaliter crescunt.</p>
+<p><hi rend="i">GO</hi> ad <hi rend="i">OB</hi> ut <hi rend="i">b</hi> ad <hi rend="i">a</hi>,</p>
+<p><hi rend="i">PU</hi> ad <hi rend="i">UG</hi> ut 2<hi rend="i">b</hi> ad <hi rend="i">a</hi>,</p>
+<p><hi rend="i">ST</hi> ad <hi rend="i">TP</hi> ut 3<hi rend="i">b</hi> ad <hi rend="i">a</hi>,</p>
+<p><hi rend="i">WX</hi> ad <hi rend="i">XS</hi> ut 4<hi rend="i">b</hi> ad <hi rend="i">a</hi>.</p>
+<p>Hoc facile absque calculo potest demonstrari. Vid. p. 92<note n="#6"/>.</p>
+<p>Y<hi rend="i">S</hi> ad <hi rend="i">SV</hi> ut <hi rend="i">WX</hi> ad <hi rend="i">XS</hi> ducta scilicet <hi rend="i">S</hi>Y perpend. in <hi rend="i">SW</hi> er <hi rend="i">V</hi>Y parall. <hi rend="i">XS</hi>.</p>
+<p><figure><graphic url="huyg003oeuv09ill93.gif"></graphic>
+<figDesc>Fig. 3.</figDesc></figure></p>
+<p>Y<hi rend="i">S</hi> ad <hi rend="i">SV</hi> ut 4<hi rend="i">b</hi> ad <hi rend="i">a</hi>,</p>
+<p>sed <hi rend="i">SV</hi> = <hi rend="i">a</hi>,</p>
+<p>Y<hi rend="i">S</hi> = 4<hi rend="i">b</hi></p>
+<p><hi rend="i">c</hi><note n="#7"/> = longitudo catenae <hi rend="i">WA</hi>,</p>
+<p>½<hi rend="i">c</hi>:<hi rend="i">SV</hi> = Y<hi rend="i">S</hi>(4<hi rend="i">b</hi>):<hi rend="i">AC</hi>(<hi rend="i">b</hi>) = <hi rend="i">S</hi>Y.<hi rend="i">SV</hi>/½<hi rend="i">c</hi>, facile enim apparet toties contineri <hi rend="i">SV</hi> in ½ <hi rend="i">c</hi> sive dimidia longitudine catenae, quoties <hi rend="i">b</hi> sive <hi rend="i">AC</hi> continetur in <hi rend="i">S</hi>Y.</p>
+<p>Ergo et <hi rend="i">A</hi>Π = 2.Y<hi rend="i">S.SV</hi>/<hi rend="i">c</hi>, ducta <hi rend="i">D</hi>Π parall. <hi rend="i">BA</hi>. Ducta est enim curva quae tangit rectam <hi rend="i">AB</hi> in <hi rend="i">A</hi>, <hi rend="i">BG</hi> in <hi rend="i">D</hi>, <hi rend="i">GP</hi> in <hi rend="i">L</hi>, quam pro curva catenae hic habeo, et quam pro circumferentia circuli, aut etiam parabola, reputo, cujus circumferentiae diametrum hic porro investigo<note n="#8"/>.</p>
+<p><hi rend="i">b</hi> = <hi rend="i">A</hi>Π = 2.Y<hi rend="i">S.SV</hi>/<hi rend="i">c</hi>: <hi rend="i">AD</hi><note n="#9"/> (2<hi rend="i">a</hi>) = <hi rend="i">AD</hi> (2<hi rend="i">a</hi>): diam.</p>
+<p>diam. = 2<hi rend="i">c.SV</hi>/Y<hi rend="i">S</hi>, nam 2<hi rend="i">SV</hi> = <hi rend="i">AD</hi>,</p>
+<p>½ diam. = <hi rend="i">c.SV</hi>/Y<hi rend="i">S</hi> = <hi rend="i">r</hi></p>
+<p>Sed ut Y<hi rend="i">S</hi> ad <hi rend="i">SV</hi> ita <hi rend="i">WX</hi> ad <hi rend="i">XS</hi> et ita <hi rend="i">W</hi>Φ ad ΦI<note n="#10"/>. Ergo <hi rend="i">c.</hi>Φ<hi rend="i">I</hi>/<hi rend="i">W</hi>Φ = <hi rend="i">r</hi> radius curvitatis in <hi rend="i">A</hi>. Theorema praecipuum<note n="#11"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#12"/>.</head>
+<p>25 Sept. 1690.</p>
+<p>Sit in puncto curvae aliquo <hi rend="i">K</hi> recta <hi rend="i">KE</hi> (fig. 4) ipsi ad ang. rectos quae conveniat cum axe in <hi rend="i">E</hi>, et a <hi rend="i">C</hi>, centro curvitatis in <hi rend="i">A</hi>, ducatur <hi rend="i">CI</hi> parallela <hi rend="i">KE</hi>, usque ad
+<figure><graphic url="huyg003oeuv09ill94.gif"></graphic>
+<figDesc>Fig. 4.</figDesc></figure>
+tangentem in vertice <hi rend="i">AI</hi>. Dico rectam <hi rend="i">AI</hi> aequalem fore curvae <hi rend="i">AK</hi>. Nam quia perp. <hi rend="i">KL</hi> ad <hi rend="i">LE</hi> ut curva <hi rend="i">AK</hi> ad <hi rend="i">AC</hi>, ut dictum pag. 3<hi rend="i">a</hi> ante hanc.<note n="#13"/>. Ut autem <hi rend="i">KL</hi> ad <hi rend="i">LE</hi> ita est <hi rend="i">IA</hi> ad <hi rend="i">AC</hi>; erit curva <hi rend="i">AK</hi> ad <hi rend="i">AC</hi> ut recta <hi rend="i">IA</hi> ad <hi rend="i">AC</hi>, ideoque curva <hi rend="i">AK</hi> aequalis rectae <hi rend="i">IA</hi>.</p>
+<p>Ergo si <hi rend="i">F</hi> sit punctum curvae ubi illius tangens inclinatur ad plan. horiz. angulo semirecto, erit curva <hi rend="i">AF</hi> aequalis recto <hi rend="i">AC</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ IV<note n="#14"/>.</head>
+<p>Ex <hi rend="i">C</hi> ducantur <hi rend="i">CH</hi>, <hi rend="i">CI</hi> minimum angulum ad <hi rend="i">C</hi> constituentes. Sitque <hi rend="i">NR</hi> parall. <hi rend="i">HC</hi>, eademque curvae <hi rend="i">AK</hi> ad ang. rectos. Item <hi rend="i">KR</hi> parall. <hi rend="i">IC</hi>, eademque curvae ad ang. rectos. Erit jam <hi rend="i">AN</hi> = <hi rend="i">AH</hi>, et <hi rend="i">AK</hi> = <hi rend="i">AI</hi> ex superius traditis. Unde <hi rend="i">NK</hi> = <hi rend="i">HI</hi>.</p>
+<p><hi rend="i">IW</hi> est perp. <hi rend="i">CI</hi>, itemque <hi rend="i">HM</hi>. Cumque sicut <hi rend="i">KN</hi> ad <hi rend="i">MH</hi>, hoc est <hi rend="i">IH</hi> ad <hi rend="i">MH</hi>, ita sit <hi rend="i">KR</hi> ad <hi rend="i">MC</hi> seu <hi rend="i">KR</hi> ad <hi rend="i">IC</hi> ut <hi rend="i">WI</hi> ad <hi rend="i">IA</hi> (nam ut <hi rend="i">IH</hi> ad <hi rend="i">HM</hi> ita <hi rend="i">WI</hi> ad <hi rend="i">IA</hi>) sive ut <hi rend="i">WC</hi> ad <hi rend="i">CI</hi>. Itaque <hi rend="i">WC</hi> aequ. <hi rend="i">KR</hi>, hoc est = <hi rend="i">AC</hi> + curva <hi rend="i">CR</hi>, et ablata communi <hi rend="i">CA</hi>, sit curva <hi rend="i">CR</hi> = <hi rend="i">AW</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ V<note n="#15"/>.</head>
+<p>Cumque angulus <hi rend="i">NRK</hi> sit aequalis <hi rend="i">HCI</hi> propter parallelismum continentium, erit triang. <hi rend="i">NRK</hi> ad triang. <hi rend="i">HCI</hi> sive <hi rend="i">HCM</hi> (ducta <hi rend="i">HM</hi> perp. in <hi rend="i">CI</hi>) sicut quad. <hi rend="i">NR</hi> ad quad. <hi rend="i">HC</hi>, seu ut quad. <hi rend="i">KR</hi> ad quad. <hi rend="i">IC</hi>, nam <hi rend="i">IC</hi>, <hi rend="i">HC</hi> aequales propter angulum in <hi rend="i">C</hi> minimum.</p>
+<p>Sed <hi rend="i">KR</hi> est aequ. <hi rend="i">CW</hi>. Ergo triang. <hi rend="i">KRN</hi> ad triang. <hi rend="i">ICH</hi> ut qu. <hi rend="i">WC</hi> ad qu. <hi rend="i">CI</hi>, hoc est ut <hi rend="i">WC</hi> ad <hi rend="i">CA</hi>.</p>
+<p>Si <hi rend="i">IZ</hi> ponatur = <hi rend="i">CW</hi>, erit <hi rend="i">Z</hi> ad parabolam vertice <hi rend="i">C</hi>, axe <hi rend="i">CO</hi>, latere recto <hi rend="i">CA</hi><note n="#16"/>. Et quia triang. <hi rend="i">KRN</hi> ad <hi rend="i">ICH</hi> ut <hi rend="i">WC</hi> ad <hi rend="i">CA</hi>, hoc est ut <hi rend="i">ZI</hi> ad <hi rend="i">Ie</hi>, hoc est ut ▭ <hi rend="i">ZH</hi> ad ▭ <hi rend="i">εH;</hi> estque ▭ <hi rend="i">εH</hi> = duplum triang. <hi rend="i">ICH</hi>, erit et ▭ <hi rend="i">ZH</hi> duplum triang. <hi rend="i">KRN</hi>. Atque ita spatium totum <hi rend="i">ACRKA</hi> dimidium spatii <hi rend="i">ACZIA</hi>, quod aequale rectangulo <hi rend="i">AD</hi> cum tertia parte rectang. <hi rend="i">CZ</hi>. Itaque
+spatium <hi rend="i">ACRKA</hi> aequale triangulo <hi rend="i">ICA</hi> + ⅓ triangulo <hi rend="i">IAW</hi>, hoc est ½ <hi rend="i">cr</hi> + + ⅙ <hi rend="i">ce</hi><note n="#17"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ VI<note n="#18"/>.</head>
+<p>Sit <hi rend="i">KS</hi> tangens in <hi rend="i">K</hi>. Dico superficiem genitam ex conversione curvae <hi rend="i">AK</hi> circum axem <hi rend="i">AC</hi>, aequari circulo cujus radius medius proportionalis sit inter <hi rend="i">AC</hi> et duplam <hi rend="i">AS</hi>. Unde patet curvas ex conversione <hi rend="i">KA</hi> et <hi rend="i">FA</hi> circa axem <hi rend="i">AC</hi>, esse inter se sicut <hi rend="i">AS</hi>, <hi rend="i">AG</hi> quas abscindunt tangentes in terminis <hi rend="i">K</hi> et <hi rend="i">F</hi>.</p>
+<p>Demonstratur ex eo quod si ex <hi rend="i">T</hi> intersectione tang. duum <hi rend="i">AT</hi>, <hi rend="i">KS</hi> ducatur <hi rend="i">TX</hi> axi parall., ea debet transire per centrum gravitatis curvae <hi rend="i">AKF</hi> quia tangentes in <hi rend="i">K</hi> et <hi rend="i">A;</hi> hoc est fila catenam <hi rend="i">FKA</hi> sustinentia conveniunt in <hi rend="i">T</hi>.</p>
+<p>Jam ut <hi rend="i">KL</hi> ad <hi rend="i">LE</hi>, hoc est ut <hi rend="i">SL</hi> ad <hi rend="i">KL</hi>, sive ut <hi rend="i">SA</hi> ad <hi rend="i">AT</hi>, ita curva <hi rend="i">KA</hi> ad <hi rend="i">AC</hi> ex supradictis<note n="#19"/>. Unde quod fit ex <hi rend="i">SA</hi> in <hi rend="i">AC</hi> aequ. facta ex <hi rend="i">AT</hi> in curvam <hi rend="i">AK</hi>, ideoque superficies ex conversione curvae <hi rend="i">AK</hi> aequalis cylindricae superficiei cujus altitudo <hi rend="i">AC</hi>, semidiameter basis <hi rend="i">AS</hi>, hoc est circulo cujus radius media prop. inter <hi rend="i">AC</hi> et duplam <hi rend="i">AS</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ VII<note n="#20"/>.</head>
+<p>Angulorum <hi rend="i">GBO</hi> (fig. 2), <hi rend="i">PGU</hi>, <hi rend="i">SPT</hi>, <hi rend="i">WSX</hi>, etc. tangentes aequaliter crescunt, atqui <hi rend="i">BG</hi>, <hi rend="i">GP</hi>, <hi rend="i">PS</hi>, <hi rend="i">SW</hi> sunt aequales. Ergo <hi rend="i">GO</hi>, <hi rend="i">PU</hi>, <hi rend="i">ST</hi>, <hi rend="i">WX</hi> sunt sinus angulorum quorum tangentes aequaliter crescunt et <hi rend="i">BO</hi>, <hi rend="i">GU</hi>, <hi rend="i">PT</hi>, <hi rend="i">SX</hi> eorundem angulorum sunt sinus complementorum.</p>
+<p>Ut inveniatur summa omnium sinuum ut <hi rend="i">σε</hi>, ΠΔ (fig. 5), quorum tangentes respectivae crescunt aequaliter, accipiuntur iisdem sinubus aequales in rectis <hi rend="i">ρχ</hi>, <hi rend="i">λμ</hi> atque ita fit ut summa sinuum quaesita (puta arcus <hi rend="i">αζ</hi>) ad totidem radios, sit ut spatium <hi rend="i">δωΘζ</hi> ad ▭ <hi rend="i">αζ</hi><note n="#21"/>.</p>
+<p><figure><graphic url="huyg003oeuv09ill95.gif"></graphic>
+<figDesc>Fig. 5.</figDesc></figure></p>
+<p>Constructio curvae <hi rend="i">δ</hi>Θ</p>
+<p><hi rend="i">x</hi> = <hi rend="i">δχ</hi> = <hi rend="i">χγ</hi> = <hi rend="i">ψε</hi>,</p>
+<p><hi rend="i">y</hi> = <hi rend="i">ωχ</hi> = <hi rend="i">σε</hi>,</p>
+<p><hi rend="i">σδ</hi> = <hi rend="i">a</hi>,</p>
+<p><hi rend="i">ρδ</hi> = √ <hi rend="i">aa</hi> + <hi rend="i">xx</hi>,</p>
+<p>√<hi rend="i">aa</hi> + <hi rend="i">xx</hi>∶<hi rend="i">a</hi> = <hi rend="i">x</hi>∶<hi rend="i">y</hi><note n="#22"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ VIII<note n="#23"/>.</head>
+<p>Summa sinuum compl. pro tangentibus aequaliter crescentibus (puta arcus <hi rend="i">αζ</hi>) est ad totidem radios ut spat. <hi rend="i">α</hi>Θ<hi rend="i">ζδ</hi> ad ▭ <hi rend="i">αζ</hi>, nam ipsi sinus compl. accipiuntur in rectis aequaliter distantibus respectivis, ita nempe ipsi <hi rend="i">σφ</hi> aequalis <hi rend="i">ψχ</hi> in recta <hi rend="i">ρχ</hi>.</p>
+<p>Constructio curvae <hi rend="i">α</hi>Θ</p>
+<p><hi rend="i">ρδ</hi>∶<hi rend="i">grδ</hi> = <hi rend="i">ρχ</hi>∶<hi rend="i">ψχ</hi> quae itaque aequalis <hi rend="i">σφ</hi></p>
+<p>√<hi rend="i">aa</hi> + <hi rend="i">xx</hi>∶<hi rend="i">a</hi> = <hi rend="i">a</hi>∶<hi rend="i">y</hi>,
+<lb/><hi rend="i">aayy</hi> + <hi rend="i">xxyy</hi> = <hi rend="i">a</hi><hi rend="sup">4</hi>,</p>
+<p><hi rend="i">yy</hi> = <hi rend="i">a</hi><hi rend="sup">4</hi> / <hi rend="i">aa</hi> + <hi rend="i">xx</hi> curva <hi rend="i">α</hi>Θ.</p>
+<p>Si itaque <hi rend="i">αD</hi> sit hyperbola aequilatera et sint proportionales <hi rend="i">Dχ</hi>, <hi rend="i">ρχ</hi>, <hi rend="i">ψχ</hi> erit punctum ψ in curca <hi rend="i">α</hi>Θ; nam qu. <hi rend="i">Dχ</hi> = qu. <hi rend="i">δχ</hi> + qu. <hi rend="i">ρχ</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ IX<note n="#24"/>.</head>
+<p>Ex sinubus qui conveniunt tangentibus Tabularum, inveniuntur sinus qui conveniunt tangentibus proximis aequaliter crescentibus.</p>
+<p>Idemque in sinubus complementis.</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>sinus</cell>
+<cell>½<hi rend="i">r</hi></cell>
+<cell>50000</cell></row>
+<row>
+<cell>12500<note n="#25"/></cell>
+<cell>12406</cell>
+<cell>1</cell>
+<cell>99228</cell></row>
+<row>
+<cell>25000</cell>
+<cell>24253</cell>
+<cell>2</cell>
+<cell>97014</cell></row>
+<row>
+<cell>37500</cell>
+<cell>35113</cell>
+<cell>3</cell>
+<cell>93636</cell></row>
+<row>
+<cell>50000</cell>
+<cell>44722</cell>
+<cell>4</cell>
+<cell>89442</cell></row>
+<row>
+<cell>62500</cell>
+<cell>53001</cell>
+<cell>5</cell>
+<cell>84799</cell></row>
+<row>
+<cell>75000</cell>
+<cell>60000</cell>
+<cell>6</cell>
+<cell>80000</cell></row>
+<row>
+<cell>87500</cell>
+<cell>65850</cell>
+<cell>7</cell>
+<cell>75257</cell></row>
+<row>
+<cell>100000</cell>
+<cell>35356 dimidium 70711</cell>
+<cell>½ 8<hi rend="sup">ae</hi></cell>
+<cell>35356</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>330701</cell>
+<cell></cell>
+<cell>704732</cell></row>
+<row>
+<cell cols="4"></cell></row>
+<row>
+<cell cols="4">800000:330701:704732 = 1000000:41338:88091<note n="#26"/>.</cell></row>
+</table></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0064"/>
+<meta type="date" value="1649-09-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0064">
+<div type="opener">
+<p>A <placeName key="denha004">la Haije</placeName> ce <date>6 Sept. 1649</date>.</p>
+<p>Mon frere</p>
+</div>
+<p>Il ij a presque un mois que nous avons quitté Breda pour n'ij plus retourner. Je croyois que Mon Pere seroit tout prest pour nous envoijer en France, mais ce ne sera pas encore si tost a ce que je voij, et s'il ne presente quelque fort belle occasion nous demeurerons a tout le moins encore cet hyver icij a la Haije, ou il veut que nous aillions frequenter le Rolle<note n="#1"/>, mais j'espere que ce ne sera pas pour longtemps. Cependant je passe icij le temps le mieux que je puis. Nous venons de faire une Promenade par l'Isle de Voorn et Beyerland avecques M. van Leeuwen<note n="#2"/> et le Capitaine Bisschop: et si tost que S.A. sera partie pour Dieren, (qui sera si tost que les Estast d'Hollande seront separez) je m'en vaij avecq mon Pere pour voir nostre Seigneurie de Zeelhem<note n="#3"/> et en retournant nous passerons par Louvain, Malines et Anvers. Je vous prie de m'escrire aussi de vos nouvelles et de m'envoyer quelque Air nouveau si vous en avez: Mademoiselle la Barre<note n="#4"/> en a envoijé deux a mon Pere qu'il ma permis de copier, mais les voulant monstrer pour quelque chose de rare j'en aij trouvé qui les avoyent eu longtemps devant moij. Ce qu'on estime le plus dans les Airs c'est la nouveauté, de sorte que quand ce ne seroit
+que quelque petite chanson a Boire que vous m'envoijez je ne laisseraij pas de vous en avoir beaucoup d'obligation; et s'il ij a en ce païs en quoij je vous puisse servir, je seraij tousjours tresaijse de tesmoigner combien je suis</p>
+<div type="closer">
+<p>Monsieur.
+<lb/>Vostre tres affectionné frere et serviteur. <persName key="huyg003">Chr. Huijgens</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">C. Huijgens</persName>. Secretaire de S.A. d'Orange.</p>
+</div>
+</body>
+</text>
+</TEI>

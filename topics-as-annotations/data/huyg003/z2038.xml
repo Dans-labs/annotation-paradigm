@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2038"/>
+<meta type="date" value="1675-07-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2038">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 5 juillet 1675.</p>
+<p>Mon frere</p>
+</div>
+<p>Monsieur Boreel<note n="#1"/> vous rendra cellecy et une boete ou j'ay enfermè la montre que vous scavez<note n="#2"/>. comme encore un petit paquet ou il y a les 4 paires de ciseaux que vous auez demandez. Il m'a mandè que je luy envoiasse le tout dès aujourdhuy, de sorte que la garniture d'espée n'estant pas encore preste, je croy qu'il en faudra charger quelqu'autre de nos prisonniers relachez, qui partira quelques jours apres luy.</p>
+<p>La montre comme vous verrez se monte par le costè du quadrant, et il faut tourner la clef du sens que l'eguille marche et jusques a ce que vous sentiez qu'elle ne puisse tourner d'avantage, comme aux pendules. Il y a une petite clef pour faire avancer ou reculer la petite piece qui est au ressort spirale tournant premierement la clef, pour desserer la vis qui arreste cette piece, et puis la faisant glisser sur le petit bras pour racourcir le petit ressort si la montre retarde, ou l'alonger si elle va trop viste, ce qui estant fait on serre derechef la vis. Il faut monter la montre une fois en 24 heures.</p>
+<p>S'il faloit pour quelque accident qu'un horlogeur defist la montre il doit estre adverti d'oster premierement la platine esmaillée du quadrant, afin de pouvoir detendre commodement le grand ressort. Notez que ce grand ressort se relachera quelque peu les premiers 2 ou 3 mois ce qui diminuera un peu les tours du balancier, mais il en a aussi de reste.</p>
+<p>Vous avertirez Monsieur le Prince que la montre doit estre portée dans une pochette qui ne soit pas profonde, et qui ne serve qu'a cela. Cela conservera en mesme temps la boete d'or, a la quelle je n'ay pas fait faire d'estui de chagrin parce que je ne trouve pas qu'il serve à rien, et qu'il grossit beaucoup le volume. Je ne scache pas que jaye d'autres avertissemens a vous donner.</p>
+<p>La figure de poire a ce que je crois ne sera pas trouvée desagreable, et elle a sa
+raison qui est que le bacillet du grand ressort par ce moyen est plus grand qu'il ne seroit si la montre estoit ronde, et que le balancier peut estre placè au milieu de la platine.</p>
+<p>Pourtant dorenavant nous trouverons moyen d'avoir assez de force en conservant la figure ronde, et on fera les montres si petites qu'on les a faites sans cette invention.</p>
+<p>Adieu. J'ay receu l'argent de vostre lettre de change.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>Conseiller et Secretaire de S. A<hi rend="sup">e</hi> Monseigneur le Pr. d'Orange.</p>
+</div>
+</body>
+</text>
+</TEI>

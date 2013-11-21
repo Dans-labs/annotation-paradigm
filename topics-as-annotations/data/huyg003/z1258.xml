@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1258"/>
+<meta type="date" value="1664-10-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1258">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 10 octobre 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>Vostre derniere a estè du 9 Septembre a la fin de la quelle vous me promettez l'autre moitiè<note n="#1"/> de votre responce par le prochain ordinaire, la quelle n'est pas encore venue. Cependant il me tarde de veoir votre machine pour la mesure de la descente des corps et en quoy elle differera de celle, dont je vous ay envoyè la figure.</p>
+<p>Je croy vous avoir escrit<note n="#2"/> que j'avois receu le petit livre de Montani; ou il rapporte sa nouuelle observation de Saturne, et les merveilles de son Tour pour faire les verres sans se servir de formes. Depuis peu l'on m'a encore envoyè une figure imprimée<note n="#3"/>, qui outre la dite observation Saturniene en represente une fort belle de Jupiter, dans le disque du quel ils ont veu passer les ombres de deux de ces satellites, qui passoient entre luy et nos yeux, et peu apres se degagerent du dit disque. Je n'avois jamais pensè, que cete observation se pust faire, veu la petitesse de ces compagnons, et il faut aucunement que leurs verres soient d'une perfection extraordinaire. Si celuy de Reeves de 60 pieds est aucunement bon, il ne scauroit manquer de decouvrir les dites ombres, lorsque ces Eclipses arrivent. J'attends encore le diametre de ce verre et celuy de son ouuerture.</p>
+<p>Il est bien vray, qu'il y a long temps, qu'il y a des horologes qui ont deux ressorts; dont le grand, de temps en temps, remonte le petit, mais c'est tout autre chose de les faire a contrepoids, et en sorte que pendant que le petit poids se remonte, il ne cesse dauoir justement la mesme force a faire tourner la roue de rencontre a la quelle il est pendu immediatement. Quand vous verrez l'invention vous l'estimerez plus, que vous ne faites maintenant. L'horologer<note n="#4"/> a deux de ces ouurages entre les mains, qui sont achevez a moitiè, et dont l'un sera pour vous. mais cependant faites moy le plaisir de m'expliquer l'idee, que vous auiez conceue pour une pareille machine.</p>
+<p>Depuis ma derniere il estoit arriuè quelque inconvenient à ma nouuelle Horologe, qui m'a empeschè de faire des observations de son exactitude tant que j'ay estè a la campagne, mais je l'ay fait racommoder a cet heure, et on vient de me la raporter. N'entendrons nous jamais parler de celles, qui ont estées en Guisnee<note n="#5"/>.</p>
+<p>Je ne scay pas, si Mylord Brouncker aura depuis songè à la determination des vibrations de la chorde esgales a celles du pendule, que scauez<note n="#6"/>; mais je trouvay sa promesse bien hardie. Ces jours passez je suis tombè dans une speculation pas fort esloignée de celle-la. J'ay cerchè des pendules simples isochrones a des triangles et autres figures et corps, diversement suspendus ou j'ay rencontrè des propositions assez plaisantes et qui peuvent mesme servir a establir commodement la mesure universelle, a quoy le dit Milord s'est estudiè.</p>
+<p>Par exemple, je trouue qu'un triangle rectangle et isoscele comme <formula>BAC</formula> estant
+<figure><graphic url="huyg003oeuv05ill07.gif"></graphic></figure>
+suspendu par le sommet <formula>A</formula> ou par le milieu de sa base <formula>D</formula>, et agitè de costè, est isochrone au pendule simple de sa hauteur <formula>AD</formula>.</p>
+<p>Qu'un cercle suspendu par un point dans sa circonference comme <formula>A</formula>, et agitè de costè est isochrone au Pendule de ¾ de son diametre et de mesme toute portion comme <formula>ABCD</formula> ayant les costez <formula>AB</formula>, <formula>AD</formula> egaux.</p>
+<p>Qu'une ellipse <formula>ABCD</formula>, dont le grand axe a son quarrè triple de celuy du petit, suspendu par l'extremitè du petit Axe <formula>A</formula>, et agitè de costè est isochrone au pendule <formula>AC</formula> et de mesme toute portion coupée par une ou deux paralleles a l'axe <formula>BD</formula>.</p>
+<p>Si le Milord Brouncker gouste ces speculations, je vous en envoyeray davantage, car j'ay la determination generale pour tous triangles et rectangles, suspendus par un des angles, ou par le milieu des costez. Item des cercles suspendus par des filets comme est le cercle <formula>B</formula> en <formula>A</formula>. et ce qui a estè le plus difficile a trouuer, la longueur des pendules isochrones a une sphere suspendue de mesme par un filet ce qui sert principalement a la mesure universelle.</p>
+<p>Car notez qu'une sphere grande n'est pas isochrone a une petite, qui auroit le
+centre egalement distant du point de suspension. Les Mathematiciens en France ont autrefois cerchè ces choses sans en pouuoir venir a bout a ce que je voy par des lettres<note n="#7"/> que j'ay du Pere <persName key="mers004">Mersenne</persName>.</p>
+<div type="closer">
+<p>Je suis</p>
+<p>vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1146"/>
+<meta type="date" value="1663-08"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1146">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Apologiam Timauri Antiatis, seu potius Clarissimi Caroli Datj, prioribus meis<note n="#1"/> non adiunxeram, quod an illam Florentia accepisses, a te certior fieri expectarem,
+et non magni referre arbitrarer hanc modicj temporis moram, cum te Hagae-Comitis esse mihi persuaderem.</p>
+<p>Sed aliquot postquam ad te scripseram diebus, transijt hac Nobilis Vir Dominus <persName>Monconisius</persName><note n="#2"/>, qui et Parisijs nuper fuisse, et nunc Londinj agere te mihi retulit; multaque adiunxit de praeclaris virorum literatorum conatibus, qui Scientiam Naturalem experimentis stabilire contendunt. Anceps itaque eram an meas accepisses, cum me sollicitudine liberarunt literae tuae datae 3a huius<note n="#3"/>, quibus lectis, continuo mittendam censui Apologiam eadem viâ quà priores acceperas. De Celeberrimi Pascalij obitu<note n="#4"/> certiorem me reddidit idem Monconisius, non sine magno animj mej moerore, qui viri doctrinam et humanitatem maximj faciebam. Sed, vt ait ille, ad hoc sacramentum adacti sumus fere mortalia, <hi rend="i">ϰαὶ τῇ ἀνάγϰῃ συγχωρεῖν</hi>. Non ingratum tibi futurum arbitror si adiungam id quod nuper ad me Florentia scriptum est, primam nempe experimentorum physicorum in Academiâ Serenissimi Principis factorum, partem<note n="#5"/>, iam editioni paratam: Eximium Borellum<note n="#6"/> breui daturum in lucem librum Physicomathematicum de motu animalium<note n="#7"/>; Rinaldinum<note n="#8"/> vero artem Analyticam<note n="#9"/>: alium denique, opusculum de Aquarum fluxu<note n="#10"/>, quibus scientiarum pomaeria promouenda confido. Nuper etiam Patavio scripsit ad me Pater Stephanus Angeli<note n="#11"/> Mathematum illic Professor et celebris Caualerij discipulus, se hac aestate Libellum Geometricum edidisse in quo Spatiorum Spiralium mensuras<note n="#12"/>
+ostendit, et Clarissimi Vallisij errores<note n="#13"/> notat. Res hoc schemate explicari potest.
+<figure><graphic url="huyg003oeuv04ill72.gif"></graphic></figure>
+Jntelligatur centro B circulus AVCG, in quo descripta Spiralis ADB, et quilibet radius secans spiralem, BDC. Nunc si spiralis ita composita intelligatur, vt sit eadem ratio CB, ad DB, quae est circumferentiae ACGA, ad arcum CGA, spiralis erit Archimedis.</p>
+<p>Sin autem retentâ eadem ratione CB ad DB, intelligatur ita esse quaelibet dignitas circumferentiae ACGA, ad homogeneam arcus CGA, tunc producentur illae insinitae spirales quas Pater Stephanus examinat, et asserit spatium spirale ABIDA ad circulum, esse in primâ seu Archimedis, vt j ad 3, in secundâ vt j ad 5, in tertiâ vt j ad 7 et sic in infinitum in ratione vnitatis ad numeros impares. Vallisius vero (si eum recte intellexit) pronunciat primum spatium esse ad circulum vt j ad 3, secundum vt j ad 4, et sic semper in ratione vnitatis ad numeros ternarium sequentes. Cum vtriusque Auctoris librj non essent ad manum, rem ad calculos reuocauj, sed generalius; considerando nempe spirales ita componj, vt eadem sit ratio cuiuslibet dignitatis CB, ad homogeneam DB, quae est cuiuslibet dignitatis circumserentiae ACGA, ad homogeneam arcus CGA: et regulam facilem invenj quâ totum negotium absoluitur. Est enim semper vt exponens dignitatis quae consideratur in radio et eius partibus, ad eundem exponentem, vna cum duplo exponentis dignitatis quae consideratur in circumferentiâ et eius partibus, ita totum spirale ad circulum, cuius assertionis veritatem....<note n="#14"/></p>
+</div>
+</body>
+</text>
+</TEI>

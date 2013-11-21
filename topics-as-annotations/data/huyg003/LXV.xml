@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXV"/>
+<meta type="date" value="1678"/>
+<meta type="sender" value="roqu005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXV">
+<p>Si uous jugiez monsieur par uostre nouuel examen que l'inuention du P. Lana meritat d'estre donnée au Public, non pas comme une chose seure, mais seulement comme meritant que l'on s'y attachat pour uoir si l'on pourroit la perfectionner j'aurois lieu d'en parler dans le Journal de Lundy prochain. ayez la bonté s'il uous plaist monsieur de me dire uostre sentiment là dessùs et de me marquer à peu prez de quelle maniere il faudroit toucher la chose. l'amitié que uous me temoignez me fait prendre cette liberté, et cette confience<note n="#2"/>.
+Je suis Monsieur de tout mon coeur</p>
+<div type="closer">
+<p>Vostre tres humble seruiteur</p>
+<p>A <persName key="huyg003">Monsieur Hugens</persName></p>
+<p><persName key="roqu005">De la Roque</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1527"/>
+<meta type="date" value="1666-04-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="else021"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1527">
+<div type="opener">
+<p><persName key="else021">L. Elsevier</persName>.</p>
+<p lang="la">Eodem die.</p>
+</div>
+<p>om 3 exemplaren van 't Iournal<note n="#1"/> de St. Amour<note n="#2"/> 2<hi rend="sup">e</hi> partie.</p>
+</div>
+</body>
+</text>
+</TEI>

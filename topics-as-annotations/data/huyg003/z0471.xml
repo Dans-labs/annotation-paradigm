@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0471"/>
+<meta type="date" value="1658-02-28"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0470"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0471">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce <date>dernier feurier 1658</date>.</p>
+</div>
+<p>La Lettre<note n="#2"/> que vous m'aués communiquée m'a paru si elegante et si curieuse que j'en ay voulu prendre vne copie. Je croy que vous approuuerés cette liberté, et que je face part de cette nouuelle à vn Illustre Solitaire Duc et Pair de France, qui obserue presentement auec mes Lunettes. J'auois autresfois dit mes pensées touchant le Systeme de Saturne à feu Monsieur <persName key="gass001">de Gassendy</persName> sur diuerses obseruations qu'il en auoit faittes, et sur ce que j'en auois veu. Mais il n'a jamais rien voulu prononcer, parce qu'il n'auoit pas obserué tout le cours entier de cette Planette. Je ne doute point que vostre Amy, qui a eu le bonheur d'auoir desjà descouuert la Lune, nait encore l'auantage de trouuer les raisons de ce Phenomene que j'ay grande impatience de sçauoir. Il les pourroit confier à vostre probité et sincerité qui est connüe partout. Et mesme je n'estime pas qu'il doiue apprehender qu'il y ait icy de ses voleurs de Planettes, comme en Allemagne qui courent jusques sur
+les Terres de Jupiter et de Saturne. Pour moy, bien que mes Lunettes de treize ou quatorze pieds ne m'ayent point encore fait voir cette Lune, je tiens pourtant l'obseruation veritable, par l'estime que je fais du sçauoir et de la vertu de vostre Amy qui doit auoir bien de la satisfaction d'auoir descouuert le premier vne verité si importante à l'Astronomie. Et bien que je n'ay pas le bonheur de sa connoissance, qu'il sache par vous que je prens part à la joye qu'il en doit auoir. Vous m'obligerés de prendre cette peine. Cette descouuerte du Royaume de Saturne fera naistre à quelque Prince l'enuie d'en restablir le Regne si celebré par les Poëtes. Et je n'ay peu m'empescher d'en faire le souhait par ces vers:</p>
+<lg type="poem">
+<l>Arte noua terris Saturnia Regna retexit</l>
+<l rend="; 1tab">Huggenius Bataui gloria prima soli.</l>
+<l>O quis restituet terris Saturnia Regna?</l>
+<l rend="; 1tab">Vnum te, iste Labor, Rex Lodoïce manet.</l>
+</lg>
+<p>Nous deuons l'esperer de la bonté de Dieu et de nostre Roy.</p>
+<p>Je vous feray voir toutes les figures de Saturne obseruées par feu Monsieur <persName key="gass001">de Gassendy</persName>, et mes conjectures que j'escriuis àlors, ce qui seroit trop long à escrire.</p>
+<p>Je vous prie d'esclaircir auec vostre Amy si la j<hi rend="sup">e</hi> figure de Saturne est exactement representée, et si ce trait qui est à gauche est quelque apparence dans le corps de la Planette, qui marque que la dite Planette soit sur cette anse gauche.</p>
+<p>Si vous pouués aussi obtenir quelque description de l'Horloge, ce sera vn sujet agreable d'entretien.</p>
+</div>
+</body>
+</text>
+</TEI>

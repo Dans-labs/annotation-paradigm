@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1293"/>
+<meta type="date" value="1664-12-26"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1293">
+<div type="opener">
+<p>Praeclarissime Domine</p>
+</div>
+<p>Nactus sum occasionem, felicia ineuntis annj auspicia deprecandi; quae etsi perexigua tibj viderj possit, mihi nihilominus solatio fuit. Aliquid simultatis jnter Patrem Fabrj, et Systematis Saturnij authorem exstitisse, non ignoras: de qua re, pridem<note n="#1"/> dolere me, tibi jndicauj. Modo ex litteris Patris Gottignies, qui Romae matheseos disciplinas profitetur, haec habeo quae officij mej, munerisque esse iudico, etiam tibj communicandj vt solatij mej participem faciam<note n="#2"/>.</p>
+<p>Ecce, jam habes plenissimam Systematis tuj publicam approbationem, Palinodia, aduersarij manifestatam. Optaret idem Pater Gottignies sibj transmittj exemplar Systematis Saturnij<note n="#3"/>; cogor ad te recurrere, vt saltem quo loco venalis sit, jnquiram: alioquin, donum quod a te recepj mittendum jlli foret, quo plane jnuitus carerem; cum tuj apud me affectus memoriam amplector obuiam, quoties seriem librorum Mathematicorum peruoluendj sese offert occasio. Vt autem finem jmponam felix annj jneuntis auspicium adprecor</p>
+<div type="closer">
+<p>Tuus quem nostj <persName key="vinc027">Gregorius a S<hi rend="sup">to</hi>. Vincentio</persName>.</p>
+<p>Gandauij 26 Decembris 1664.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

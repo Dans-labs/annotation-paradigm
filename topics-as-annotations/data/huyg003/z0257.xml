@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0257"/>
+<meta type="date" value="1656-01-20"/>
+<meta type="sender" value="colv001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0257">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>Voicy la platine de fer, avec un petit marteau, que ie vous envoye de la part de Monsieur <persName key="kalt002">Kalthof</persName>, esperant que cet ouvrage vous aggreera; et qu'il sera propre à quoy il est destiné. Si ie vous puis servir en autre chose ie vous prie de me commander absolument. J'ai reçeu un mot de lettre de Monsieur vostre tres-noble pere, qui ne requiert point de responce; mais de remerciement de l'honneur de sa bonne affection envers moi, qui en suis indigne. Je lui offre en contre-eschange tout ce qui est moi. demeurant de grande affection</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres-obligé, et tres-obeissant serviteur <persName key="colv001">A. Colvius</persName>.</p>
+<p>De <placeName key="dordr001">Dordrecht</placeName> ce <date>20 de Jan. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestien Huijgens</persName> 's Graven-haghe.
+<lb/>met een ijsere plaet.</p>
+</div>
+</body>
+</text>
+</TEI>

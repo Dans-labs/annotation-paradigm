@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1731"/>
+<meta type="date" value="1669-04-29"/>
+<meta type="sender" value="gran029"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1731">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Puis que vous auez agreable l'offre que je vous feis hier de mon liure de l'Aymant<note n="#2"/>, Je vous demande la grace d'examiner soigneusement l'Jmmobilité que Jay reconnue en cette pierre contre le mouuement au tour de ses poles, &amp; de juger si la consequence que J'en tire de l'Immobilité de la terre vous semble raisonnable. Vous mobligerez extremement de me marquer les difficultez que vous y trouuerez a vostre loisir, rien ne me presse. Je me donneray lhonneur de vous entretenir a diuerses occasions, et feray l'estat que Je doibs de vos Jugemens auec lestime &amp; le respect que Je doibs a vne personne de vostre merite de qui Je tiens a faueur de me dire comme Je suis veritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Le treshumble &amp; tresobeissant seruiteur
+<lb/><persName key="gran029">Jacques Grandamy</persName>.</p>
+<p>Au college de Clairmont le 29. d'Apuril 1669.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens</persName>
+<lb/>Proche la maison de Monsieur <persName key="colb012">Colbert</persName>.
+<lb/>Auec vn petit liure.</p>
+</div>
+</body>
+</text>
+</TEI>

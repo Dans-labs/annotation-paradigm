@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1602"/>
+<meta type="date" value="1667-09-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1602">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 23 Septembre 1667.</p>
+</div>
+<p>Ie vous dois encore des remercimens des nouuelles que contient vostre lettre du premier Septembre.</p>
+<p>Ie vois que vous y parlez d'un voiage<note n="#2"/> que mon Pere pourroit faire en Angleterre, dont je m'estonne, car apparemment a l'issue de cette guere l'argent ni abondera guere, et il y aura bien de debtes a payer outre celle de Monsieur le Prince. L'on debita icy dernierement la disgrace du Chancelier<note n="#3"/> et mesme sa detention mais cela n'a point estè consirmè depuis.</p>
+<p>Qu'est ce qu'est venu faire Madame Ferin? n'est ce pas une visite a son ancien amant?</p>
+<p>Il y a longtemps que j'ay ouy souhaiter a Madame Cr.<note n="#4"/> l'ambassade que vous dites, et plus encore celle en cette Cour icy, mais cela ne se peut, je dis la derniêre, parce qu'il faut que ce soit quelqu'un<note n="#5"/> de nostre Prouince.</p>
+<p>Ma soeur<note n="#6"/> m'offre d'estre parrain de son enfant a venir<note n="#7"/>, ce que j'ay acceptè, et estant necessaire que quelqu'un tiene ma place en l'Eglise je vous prie de vous en vouloir donner la peine et de promettre pour moy. Ie ne croiois pas que le terme fut encore si proche, n'y ayant pas plus de 2 mois que mon Pere m'a fait scavoir sa grossesse.</p>
+<p>Ie suis bien aise que la perruque<note n="#8"/> ait passè sans mauuaise rencontre, et qu'elle soit a vostre grè. S'il y avoit moyen de m'addresser quelque pacquet par les voitures ordinaires des barques qu'on va establir entre Rotterdam et Diepe je vous demanderois de la toile de 3 ou 4 francs l'aune pour les 5 louis d'or que j'ay deboursè, et quelques 30 francs que je vous feray donner par Mon Pere.</p>
+<p>Ie n'ay nulle connoissance de la debte de 40 sous du couvreur, et pour l'art of swimming<note n="#9"/> je pense estre assurè ne l'avoir jamais eue que par emprunt de Monsieur Thevenot. Toutefois si mes creanciers persistent je suis content que vous les paijez pour moy.</p>
+<p>Pour des petits ouurages que vous demandez je n'en vois pas souuent qui vaillent la peine d'estre envoiez, ou quand ils sont bons je m'imagine que vous les avez aussi tost par de la, comme ces Satires de Boilleau<note n="#10"/>, je croiois qu'il y avoit 8 mois ou plus que vous les deviez avoir vues. I'en auray soin a l'avenir.</p>
+<p>Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0034a"/>
+<meta type="date" value="1647-04-27"/>
+<meta type="sender" value="phil033"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0034">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Me sentant extremement honoré, comme Je suis de la charge que vous m'avez faict l'honneur de me commettre l'année passée, J'en ay reçeu un contentement que ne se peut egaller à rien. Je suis veritablement, Monsieur, touché d'un extreme ressentiment de ce que Je ne m'en suis peu mieux acquitter; mais les excuses de Monsieur vostre fils sur quelques incommoditez: ayant commencé un college particulier entre quelques gentilhommes Polonois, auquel Je me suis donné l'honneur de le prier d'assister, luy offrant pour ce subject mon travail et ma vigilance, m'en ont à mon
+tres grand regret empesché. C'est le subject Monsieur qui faict que je me donne l'honneur de vous escrire celle cy, vous assurant que Je suis desireux plus que jamais d'accomplir vos commandemens, lorsqu'il vous plaira d'y faire condescendre Monsieur vostre fils. Je vous adresse Monsieur mes tres-humbles baisemains, et à luy en attendant que par des preuves et effects plus apparens Je vous puisse tesmoigner, combien Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName>Jean Philemon</persName>.</p>
+<p>De <placeName key="breda001">Breda</placeName> ce <date>27 Jour d'Avril 1647</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur <persName key="huyg001">Huygens Chevalier Seigneur de Zuijlichem</persName>.
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

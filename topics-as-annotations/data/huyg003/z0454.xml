@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0454"/>
+<meta type="date" value="1658-01-24"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0454">
+<div type="opener">
+<p lang="la">Nobilissime Domine.</p>
+</div>
+<p>Obseruationes a Clarissimo Riccio, non Romanas vt arbitrabar sed Siculas, et Saturni non Lunulae, hoc meridie demum accepi. Eas vix perlectas, statim Tibj
+sistendas<note n="#1"/> putauj, maxime cum ab Autore<note n="#2"/> (qui mihi ignotus est) ad Te dirigantur<note n="#3"/>. Nec longo sermone Te morabor, rogo tantum vt scribas, quid huius systematis rationes a tuis differant, et nouo beneficio cumulabis</p>
+<div type="closer">
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>24 Anni 1658</date>.</p>
+</div>
+<p>Jam dudum ad Te peruenisse arbitror meas 8 huius datas<note n="#4"/>, ijs quando otium erit responsum expecto.</p>
+</div>
+</body>
+</text>
+</TEI>

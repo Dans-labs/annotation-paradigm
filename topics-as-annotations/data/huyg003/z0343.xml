@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0343"/>
+<meta type="date" value="1656-10-13"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0343">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.</p>
+</div>
+<p>Clarissimus Dominus <persName>Lipstorpius</persName>, qui nudiustertius hinc in Angliam discessit, sibique constituerat Te coram, Hagam pertransiens, salutare, eodem die per Delphos est profectus, qua de re ut Te certiorem facerem per amicum rogavit, ne quid aegrè feras, cum aliorum consortio, cum quibus est profectus, iter suum ex animo instituere ipsi non datum fuerit. Post tres autem vel 4<hi rend="sup">or</hi> septimanas, se, Deo dante, huc reversurum asseveravit, quo tempore Tuam Claritatem compellare ipsi visum fuit. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>13 Octobris 1656</date>.</p>
+</div>
+<p>Literas meas<note n="#1"/> die Lunae praeterito ad Te missas quòd receperis non diffido, atque insertas ad Mylonium destinatas simul fuisse amandatas. Iterum Vale.</p>
+</div>
+<div type="para">
+<p>Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, gelogeert ten huijse van Myn Heer <persName key="huyg001">van Zuijlechem</persName>.
+<lb/>op t'pleyn In S'Graven-Hage.
+<lb/>Cito
+<lb/>cito
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

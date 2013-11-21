@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2590"/>
+<meta type="date" value="1690-05-11"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="hire005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2590">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>le 11 Mei 1690.</p>
+<p>Qu'il faut un passeport de Mr. <persName>de la Renie</persName><note n="#1"/> pour faire passer mes Exemplaires a Peronne.</p>
+</div>
+</div>
+<div type="para">
+<p>A Mr. <persName key="hire005">de la Hire</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

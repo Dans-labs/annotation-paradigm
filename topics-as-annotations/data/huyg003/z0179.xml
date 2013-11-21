@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0179"/>
+<meta type="date" value="1654-03-03"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0179">
+<div type="opener">
+<p>Clarissimo Viro, Domino Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Ergone ita parum verecundus ego, quod serias tuas occupationes ausu temerario interpellem! Rationem verò si quaeris, facti audaciam meritis tuis adscribere non verebor, quippe quae non solum me, verum etiam Lipstorpium nostrum in tui amorem ita concitarunt, ut vel ipse nunquam ex oculis nostris esse possis. Quocirca cum nuper illius literas, Vinariâ 8/18 Januarij ad me datas, acceperim, qui te suis quam
+honorificentissimè salutat, intermittere non potui, quin id ad Te perscriberem, ac te simul ejus jussu de suarum rerum statu certiorem redderem. Etenim significatâ illi morte clarorum hìc virorum Salmasij<note n="#1"/> et Boxhornij<note n="#2"/>, ut et binorum florentissimae aetatis magnaeque spei Doubletiorum<note n="#3"/>, sic ille ad me<note n="#4"/>.</p>
+<p>Haec igitur, ut Amico morem geram, qui dum Te, Vir Clarissime, de rerum suarum statu, ut intellexisti, meis certiorem factum voluit ad Te perscribere, cum ejus salute, praetermittere non potui, Te rogans, ut, si forte amicissimo nostro Lipstorpio rescribere grave non ducas, eumque ob honorificam à se acceptam conditionem, congratulari, tuas meis includere queam, easque simul brevi ad illum amandem. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugduni Batavorum</placeName> <date>3 Martij, 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur, Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Mijn Heer <persName key="huyg001">van Zuijlechem</persName>, op t' plein
+<lb/>in S'graven-Hage.
+<lb/>Cito port.</p>
+</div>
+</body>
+</text>
+</TEI>

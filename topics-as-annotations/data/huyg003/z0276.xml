@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0276"/>
+<meta type="date" value="1656-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="robe012"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0276">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Excuse pas decouvert envoye prediction. fautes Des Cartes.</p>
+</div>
+<div type="opener">
+<p><persName key="robe012">Roberval</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Que dans mon dernier entretien avec C.<note n="#1"/> il ne s'est rien passè touchant cette affaire là qu'il vous importe de scavoir, vous l'avez pu juger par mon silence, car s'il eust estè autrement je n'aurois pas manquè de vous en advertir. Il ne m'est rien escappè qui luy puisse avoir donnè de l'ombrage, et de ce qu'en m'escrivant il estalle si amplement les vertus et le merite de P.<note n="#2"/>, je voy bien qu'il ne scait pas que j'en suis si bien informè. M.<note n="#3"/> au contraire en parle si peu qu'il luy est possible, par ou je juges qu'il en a eu le vent. Mais laissons la ces choses. Je vous envoye le feuillet<note n="#4"/>, que j'ay fait imprimer du conseil de Monsieur <persName key="chap002">Chapelain</persName>,
+contenant
+l'observation que je vous ay desia communiquèe estant à Paris; depuis que j'en suis revenu je ne me suis attache attentivement qu'a cette speculation qui regarde les lunettes d'approche de la quelle de jour en jour je voy des plus beaux effects.
+J'y ay mis dans ce billet une prediction, que peut estre vous trouverez assez hardie touchant le retour des bras de Saturne; toute fois ne croyez pas que j'aye rien hazardè trop legerement, qui me pourroit faire passer pour faux prophete.
+Vous me ferez plaisir de m'enseigner le lieux dans la Geometrie de <persName key="desc004">des Cartes</persName> ou vous avez trouvè de l'abus<note n="#5"/>, car il y a icy des personnes qui soustienent que tout se peut concilier. Je suis</p>
+<div type="closer">
+<p>Monsieur etc.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

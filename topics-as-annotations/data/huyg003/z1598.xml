@@ -1,0 +1,311 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1598"/>
+<meta type="date" value="1667-08"/>
+<meta type="sender" value="buot010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1598">
+<p>Calcul de l'angle du grand diametre de l'anneau de ♄ auec son cercle de longitude et de langle de ljnclination de son plan auec le plan de lEcliptique, supposant lobseruation du 16. Juillet 1667. du grand diametre de l'anneau qui estoit parallele a lhorison a 13 heures 15′ a Paris, en posant aussy que le plan du mesme anneau prolongé a ljnfiny coupe lEcliptique au 20. 30′ de ♍.</p>
+<p><figure><graphic url="huyg003oeuv06ill24.gif"></graphic></figure></p>
+<p><table>
+<row>
+<cell>La longitude de ♄ est</cell>
+<cell>29<hi rend="sup">o</hi>. 10′. ♃.</cell></row>
+<row>
+<cell>Sa latitude meridionale</cell>
+<cell>0. 19.</cell></row>
+<row>
+<cell cols="2"></cell></row>
+<row>
+<cell>Le lieu du soleil</cell>
+<cell>24. 10. 30. ♋.</cell></row>
+<row>
+<cell>Son ascension droitte</cell>
+<cell>116. 7. 10.</cell></row>
+<row>
+<cell>Le temps reduit depuis mydy</cell>
+<cell>198. 48. 0+les 3′<note n="#2"/></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell>Ascension Droitte du MC le ♈K.</cell>
+<cell>314. 52. 10 scauoir</cell></row>
+<row>
+<cell>Lascension oblique pour Paris larc ♈C.</cell>
+<cell>44. 52. 10 scauoir</cell></row>
+<row>
+<cell>∠ de lobliquité C♈D</cell>
+<cell>23. 31. 0</cell></row>
+<row>
+<cell>∠ de lhorison a lequateur scauoir ∠ C</cell>
+<cell>41. 7. 0</cell></row>
+</table></p>
+<p>Il faut trouuer ∠ de lEcliptique a lhorison, et le point ascendant soit par les tables, ou par ces analogues.</p>
+<p><table>
+<row>
+<cell>Comme rayon / Tangente de ∠ C 41. 7′</cell>
+<cell>9.9409486</cell></row>
+<row>
+<cell>// Sinus Complement de larc C ♈ 44. 52. 10″</cell>
+<cell>9.8504723</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell>/ Tangente Complement de ∠ du sommet C ♈ O</cell>
+<cell>19.7914209</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>ou repond</cell>
+<cell>58. 15. 30″. auquel si on adjouste ∠ de lobliquité</cell></row>
+<row>
+<cell>scauoir</cell>
+<cell>23. 31. 0. on aura</cell></row>
+<row>
+<cell cols="2">_____</cell></row>
+<row>
+<cell></cell>
+<cell>81. 46. 30. pour ∠ du sommet du 2<hi rend="sup">o</hi> Δ D ♈ O.</cell></row>
+</table></p>
+<p>En suitte comme le Sinus de ∠ du sommet du 1<hi rend="sup">er</hi> Δ. 58. 15′. 30″.</p>
+<p>/ Sinus Complement de son ∠ sur la base C. hauteur de lequateur</p>
+<p><table>
+<row>
+<cell>41. 7′. 0″</cell>
+<cell>9.8770096</cell></row>
+<row>
+<cell>// Sinus de ∠ du sommet du 2<hi rend="sup">d</hi> Δ 81. 46. 30″</cell>
+<cell>9.9955097</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>19.8725193</cell></row>
+<row>
+<cell></cell>
+<cell>9.9296379</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell>/ Sinus Complement de ∠ sur la base D</cell>
+<cell>9.9428814</cell></row>
+</table></p>
+<p>ou repond 28<hi rend="sup">o</hi>. 44′. 40″ pour ∠ de lEcliptique a lhorison ou la hauteur du 90<hi rend="sup">e</hi> degré de lEcliptique</p>
+<p>&nbsp;</p>
+<p>Et comme le Sinus Complement de ∠ du sommet du 1r. Δ 58<hi rend="sup">o</hi>. 15′. 30″.</p>
+<p><table>
+<row>
+<cell>/ Tangente Complement de larc ♈ C</cell>
+<cell>44. 52. 10</cell>
+<cell>10.0019792</cell></row>
+<row>
+<cell cols="2">// Sinus Complement de ∠ du sommet du 2 Δ 81. 46. 30″</cell>
+<cell>9.1555206</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>19.1574998</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>9.7210602</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell cols="2">/ Tangente Complement de larc de lEcliptique ♈ D</cell>
+<cell>9.4364396</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell cols="3">Ou repond 74<hi rend="sup">o</hi>. 43′. 15″. ou 14<hi rend="sup">o</hi>. 43′. 15″ 11 pour lascendant.</cell></row>
+<row>
+<cell></cell>
+<cell cols="2">ou 2<hi rend="sup">s</hi>. 14. 43. 15 d'ou ostant</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>3. 0. 0. 0 Reste</cell></row>
+<row>
+<cell cols="3">_____</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>11. 14. 43. 15″ scauoir le 14<hi rend="sup">o</hi>. 43′. 15″ de ♓ pour le 90<hi rend="sup">e</hi> degré de</cell></row>
+</table></p>
+<p>l'Ecliptique.</p>
+<div type="section">
+<head rend="h4">Pour trouuer l'jnclination du grand diametre de l'anneau le supposant parallele a lhorison.</head>
+<p><figure><graphic url="huyg003oeuv06ill25.gif"></graphic></figure></p>
+<p>HZO. est ☉ nonagenaire passant par les poles de l'Ecliptique P et par le Zenith. Z.</p>
+<p>HO. est l'horison et EC. lecliptique. A. est le point descendant opposé et lascendant qui par consequent est le 14<hi rend="sup">o</hi>. 43′. 15″ ⇸</p>
+<p><table>
+<row>
+<cell>C. est le 90<hi rend="sup">e</hi> degré de lecliptique a</cell>
+<cell cols="2">14<hi rend="sup">o</hi>. 43′. 15″♓ ou 11s. 14<hi rend="sup">o</hi>. 43′. 15″</cell></row>
+<row>
+<cell>Q est le lieu de ♄ reduit a lecliptique a oster</cell>
+<cell cols="2">29. 10. 0 ♃ ou 9. 29. 10. 0.</cell></row>
+<row>
+<cell></cell>
+<cell cols="2">_____</cell></row>
+<row>
+<cell>Reste QC. mesure de ∠ P.</cell>
+<cell>45. 33. 15.</cell>
+<cell>1. 15. 33. 15.</cell></row>
+<row>
+<cell>et CO. ou PZ. distance du Pole au Zenith est</cell>
+<cell>28<hi rend="sup">o</hi>. 44′. 40″.</cell>
+<cell></cell></row>
+</table></p>
+<p>C'est pourquoy au Δ PDZ. on aura</p>
+<p><table>
+<row>
+<cell>Comme le rayon / Tangente de PZ.</cell>
+<cell>28. 44′. 40″</cell>
+<cell>9.7391708</cell></row>
+<row>
+<cell>// Sinus Complement de ∠ P.</cell>
+<cell>45. 33. 15″</cell>
+<cell>9.8452430</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell>/ Tangente de la base PD</cell>
+<cell></cell>
+<cell>19.5844138</cell></row>
+</table></p>
+<p>ou repond 21<hi rend="sup">o</hi>. 0′. 40″ quil faut oster de P ♄ composé du quadrant PQ et de la latitude Q ♄ 19′ meridionale, et reste D ♄. 69. 18′. 20″. et partant</p>
+<p><table>
+<row>
+<cell>Comme le Sinus de D ♄.</cell>
+<cell>69. 18′. 20″.</cell>
+<cell></cell></row>
+<row>
+<cell>/ Sinus de PD base du 1 Δ</cell>
+<cell>21. 0. 40″</cell>
+<cell>9.5545485</cell></row>
+<row>
+<cell>// Tangente de ∠ P</cell>
+<cell>45. 33. 15</cell>
+<cell>10.0084100</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>19.5629585</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>9.9710337</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell>/ Tangente de ∠ ♄</cell>
+<cell></cell>
+<cell>9.5919248</cell></row>
+<row>
+<cell>Ou repond 21. 20′. 40″.</cell>
+<cell cols="2"></cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Pour trouuer ∠ B. compris de lecliptique et du plan de lanneau leqnel passant en B. au 20<hi rend="sup">e</hi> degré 30′ de ♍ coupe le vertical Z ♄ a ∠ doit<note n="#3"/> en F.</head>
+<p>Au Δ K ♄ Q. rectangle en Q. auquel ∠ ♄. est 21<hi rend="sup">o</hi>. 20″. 40″ par la precedente et la latitude Q ♄. de 19′.</p>
+<p><table>
+<row>
+<cell>Comme rayon /S de ∠ ♄</cell>
+<cell>21. 20′. 40″</cell>
+<cell>9. 5610702</cell></row>
+<row>
+<cell>// Sinus Cpmplement de la ⊥ Q ♄</cell>
+<cell>0.19′</cell>
+<cell>9.9999934</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell>/ Sinus Complement de ∠ K</cell>
+<cell></cell>
+<cell>19.5610636</cell></row>
+</table></p>
+<p>ou repond 68. 38′. 20″ supplement de ∠ BKF.</p>
+<p><table>
+<row>
+<cell>Et comme le rayon /Tangente de ∠ ♄.</cell>
+<cell>21. 20. 40″</cell>
+<cell>9.5919296</cell></row>
+<row>
+<cell>// Sinus de la ⊥ Q ♄.</cell>
+<cell>0. 19′. 0″</cell>
+<cell>7.7424775</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell>/ Tangente de la ⊥ QK.</cell>
+<cell>0. 7′. 30″</cell>
+<cell>17.3344071</cell></row>
+</table></p>
+<p>Nota. qu'aux Δ qui ont les costez si tres petits, on pourroit prendre le complement de ∠ ♄ pour ∠ K et trouuer le costé QK comme aux rectilignes ou par la derniere analogie.</p>
+<p><table>
+<row>
+<cell>Ensin Q. longitude de ♄. est</cell>
+<cell cols="2">29. 10′ ♃ ou 9. 29. 10′. 0″.</cell></row>
+<row>
+<cell>B. est le</cell>
+<cell cols="2">20. 30′ ♍ ou 5. 20. 30. 0.</cell></row>
+<row>
+<cell></cell>
+<cell cols="2">_____</cell></row>
+<row>
+<cell>donc larc de lecliptique BQ. est</cell>
+<cell>128. 40″</cell>
+<cell>4. 8. 40. 0 au quel jl faut</cell></row>
+<row>
+<cell>adjouster larc de lecliptique QK.</cell>
+<cell>7. 30″</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell></row>
+<row>
+<cell>vient pour larc BK</cell>
+<cell cols="2">128. 47. 30″ dont le supplement est 51. 12′. 30″.</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>Et partant comme le rayon / Tangente de ∠ K</cell>
+<cell>68. 38. 20</cell>
+<cell>10.4076978</cell></row>
+<row>
+<cell cols="2">// Sinus Complement de lhypothenuse BK. scauoir de son supplement 51. 12. 30</cell>
+<cell>9.7969144</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>_____</cell></row>
+<row>
+<cell>/ Tangente Complement de ∠ requis B.</cell>
+<cell>31. 38. 35″</cell>
+<cell>10. 2046122</cell></row>
+<row>
+<cell>ce qui estoit proposé a trouuer.</cell>
+<cell cols="2"></cell></row>
+</table></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

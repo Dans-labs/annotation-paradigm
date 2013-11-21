@@ -1,0 +1,86 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0021"/>
+<meta type="date" value="1646"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="mers004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0021">
+<div type="section">
+<head lang="la" rend="h4">Propositio 5.</head>
+<p><figure><graphic url="huyg003oeuv01ill19.gif"></graphic></figure></p>
+<p>Si il y a tant de gravitez qu'on veut comme <formula>S</formula>, <formula>R</formula>, <formula>P</formula>, <formula>Q</formula> pendues à une corde <formula>ABCD</formula>. je dis que <formula>MD</formula> et <formula>BC</formula> continuées s'entre-couppent en <formula>L</formula> au diametre pendule des gravitez <formula>P</formula> et <formula>Q</formula>.
+<formula>AB</formula> et <formula>DC</formula> en <formula>K</formula> au diametre pendule des gravitez <formula>R</formula> et <formula>P</formula> et ainsi du reste. Car si on arreste<note n="#2"/> quelque deux poincts <formula>A</formula> et <formula>D</formula> (en laissant deux autres entre deux comme <formula>B</formula> et <formula>C</formula>), en la situation ou ils sont, cela ne changera poinct celle des poincts <formula>B</formula> et <formula>C</formula><note n="#3"/>; mais les poincts <formula>A</formula> et <formula>D</formula> estants arrestez, l'intersection des continuées <formula>AB</formula> et <formula>DC</formula><note n="#4"/> doit estre au diametre pendule des gravitez <formula>R</formula> et <formula>P</formula>.
+C'est donc signe qu'aussi auparavant elle ij a esté: Et ainsi le prouvera ton des autres.</p>
+</div>
+<div type="section">
+<head lang="la" rend="h4">Propositio 6.</head>
+<p><figure><graphic url="huyg003oeuv01ill20.gif"></graphic></figure></p>
+<p>Eadem methodo probatur si <formula>AB</formula>, <formula>BC</formula>, <formula>CD</formula> etc sint virgulae ponderantes<note n="#5"/> aequalis ponderis, quasque duas productas ut <formula>CD</formula>, <formula>FE</formula>, sese intersecare in pendula gravitatis diametro ejus quae intermedia relicta est ut <formula>DE</formula>.
+Ergo si omnes aequalis sunt ponderis, <formula>DR</formula> debet aequalis esse <formula>RE</formula>, <formula>EP</formula> aequalis <formula>PF</formula> etc.<note n="#6"/></p>
+</div>
+<div type="section">
+<head lang="la" rend="h4">Propositio 7.</head>
+<p>Si sint quotcunque pondera vel virgulae aequalis ponderis eo situ ut bina quaeque internodia ut <formula>BC</formula>, <formula>ED</formula> producta sese invicem intersecent in
+<figure><graphic url="huyg003oeuv01ill21.gif"></graphic></figure>
+pendula gravitatis diametro intermedia <formula>CD</formula>, dico hunc situm esse, quo pendere possunt, et debent.</p>
+<p>Si enim punctum <formula>D</formula> firmetur apparet quidem virgulas <formula>AB</formula>, <formula>BC</formula>, <formula>CD</formula> dato situ mansuras: porro autem si firmetur punctum <formula>E</formula> omisso <formula>D</formula>, dico punctum <formula>D</formula> tamen è loco non recessurum, ideoque virgulas <formula>AB</formula>, <formula>BC</formula>, <formula>CD</formula>, <formula>DE</formula> dato situ mansuras; si enim firmato puncto <formula>E</formula> punctum <formula>D</formula> mutare locum dicatur, (quia ergo per 4 tam suppositionem possibile est punctum <formula>E</formula> eo loci teneri ut punctum <formula>D</formula> locum non mutet) sit hoc in <formula>E</formula>.
+Dicatur itaque oportet hoc situ punctum <formula>D</formula> locum non mutaturum; Ergo neque si praeterea firmetur punctum <formula>B</formula>; Sed quoniam <formula>ED</formula> producta conveniebat in pendula gravitatis diametro cum producta <formula>BC</formula>, <formula>ED</formula> producta non illic concurret; Ergo neque firmatis punctis <formula>B</formula> et <formula>E</formula> virgulae hunc situm habere possunt,<note n="#7"/> ergo neque punctum <formula>D</formula>.
+Quia itaque videmus punctum <formula>E</formula> extra datum locum teneri non posse, ut punctum <formula>D</formula> suum non mutet, necessario sequitur ex dicta 4<hi rend="sup">ta</hi> suppositione datum locum eum esse. Quod erat demonstrandum.
+Eadem ratione de caeteris punctis <formula>F</formula> et <formula>G</formula> demonstrabitur.</p>
+</div>
+<div type="section">
+<head lang="la" rend="h4">Propositio 8.</head>
+<p><figure><graphic url="huyg003oeuv01ill22.gif"></graphic></figure></p>
+<p>Sit suspensa catena <formula>HGABCDK</formula> constans virgulis aequalis longitudinis, ponderis et sigurae; dico puncta juncturarum <formula>GABCDK</formula> non posse coincidere in eandem lineam parabolicam.</p>
+<p>Ex propositione 6 apparet quomodo hae virgulae pendere debeant nempe ut <formula>H</formula> sit in media <formula>BC</formula>, <formula>P</formula> in media <formula>CD</formula> etc.
+Sit itaque nunc descripta parabola <formula>RABCF</formula> per tria puncta <formula>ABC</formula> transiens, dico non transire hanc per punctum <formula>D</formula> et reliqua: producatur enim <formula>ECD</formula> donec sit <formula>FC</formula> ad <formula>CE</formula> ut <formula>AB</formula> ad <formula>BE</formula>, ergo ducaturque <formula>AF</formula>, haec ergo et parallela erit <formula>BC</formula> et similiter à linea <formula>EL</formula> in <formula>L</formula> bifariam secabitur, ideoque erit punctum <formula>F</formula> in eadem parabolâ cum punctis <formula>ABC</formula>, nam <formula>EL</formula> est diameter parabolae <formula>B</formula>, et non punctum <formula>D</formula>. alias enim linea <formula>ECDF</formula> deberet parabolicam in tribus punctis secare quod est absurdum, vel punctum <formula>D</formula> coincidere cum puncto <formula>F</formula> quod impossibile est, nam <formula>FC</formula> major
+<figure><graphic url="huyg003oeuv01ill23.gif"></graphic></figure>
+est <formula>AB</formula> sive <formula>DC</formula>, quia <formula>CE</formula> major est <formula>BE</formula>.</p>
+<p>Quia itaque parabola descripta per puncta <formula>ABC</formula>, non transit per punctum <formula>D</formula>; etiam ea quae per puncta <formula>GBD</formula> describitur, non transit per puncta <formula>A</formula> et <formula>C</formula> sed ea excludit. Demonstrabo autem neque eam per puncta <formula>H</formula> et <formula>K</formula> transire; descripta enim sit alia parabola <formula>GARCDS</formula>, quae transeat per puncta <formula>G</formula>, <formula>A</formula>, <formula>C</formula>, <formula>D</formula>, quae ideo secabit priorem parabolam in <formula>G</formula> et <formula>D</formula>; si itaque parabola <formula>GARCDS</formula> demonstrata fuerit non transire per puncta <formula>H</formula> et <formula>K</formula>, multo minus per ea transibit altera <formula>GBDN</formula>. At hoc sic demonstratur; Prolongetur <formula>EB</formula> usque dum occurrat parabolae <formula>GARCDS</formula> in <formula>Q</formula>, quia itaque puncta <formula>D</formula>, <formula>C</formula> et <formula>Q</formula> sunt in parabola <formula>GARCDS</formula> et linea <formula>CD</formula> in <formula>P</formula> à diametro parabolae <formula>EP</formula> bifariam dividitur,
+<figure><graphic url="huyg003oeuv01ill24.gif"></graphic></figure>
+oporteret si punctum <formula>K</formula> in eadem esse dicatur, ut <formula>EC</formula> esset ad <formula>CQ</formula> sicut <formula>ED</formula> ad <formula>DK</formula>, hoc vero fieri nequit, cum etiamsi <formula>CQ</formula> non esset longior <formula>DK</formula>, tamen <formula>DE</formula> longior sit <formula>CE</formula>: cum itaque punctum <formula>K</formula> non possit esse in parabola <formula>GARCDS</formula>, multo minus erit in parabola <formula>GBD</formula>, quod erat demonstrandum.</p>
+<p>Hac ratione iterum demonstrari potest parabolam quae per puncta <formula>HBK</formula> descripta est non transire per extremitates sequentium virgularum: et sic in infinitum.</p>
+</div>
+<div type="section">
+<head lang="la" rend="h4">Propositio 9.</head>
+<p>Unde itaque manifestum fit, si sit suspensa catena composita ex virgulis ejusdem longitudinis et gravitatis, parabolam quae describitur per extremum ejus <formula>A</formula>, et duo alia ejus puncta <formula>B</formula> et <formula>C</formula>, per nulla alia ejus puncta transire, sed excludere ea omnia quae infra dicta puncta <formula>B</formula> et <formula>C</formula> sunt, includere vero ea quae ijs superiora sunt. Nulla ergo catena pendet secundum lineam parabolicam.</p>
+</div>
+<div type="section">
+<head lang="la" rend="h4">Propositio 10.</head>
+<p>Sed ne quis putet quod si ex virgulis valde minutis esset composita, nulla notabilis differentia futura foret inter lineam secundum quam penderet et lineam parabolicam, consideretur catena <formula>ABCDEFGHI</formula>, composita ex infinitis numero virgulis; Et dico nullam notabilem differentiam esse inter lineam secundum quam pendet, et eam secundum quam penderet si esset composita ex virgulis aequalibus <formula>AB</formula>, <formula>BC</formula>, <formula>CD</formula> etc. Ponatur enim inflexibilis fieri catena composita ex virgulis
+<figure><graphic url="huyg003oeuv01ill25.gif"></graphic></figure>
+infinitis, praeterquam in punctis <formula>A</formula>, <formula>B</formula>, <formula>C</formula>, <formula>D</formula> etc.<note n="#8"/> habebimusque catenam quae constat ex virgulis incurvatis aliquantum, quae quum sibi invicem tum pondere tum figura quam proxime aequales sint, eodem penè modo pendere debebunt ac virgulae rectae <formula>AB</formula>, <formula>BC</formula> etc. ergo et antea catena sic pendebat. quod erat demonstrandum.</p>
+<head lang="la" rend="h4">Lemma.<note n="#9"/></head>
+<p><figure><graphic url="huyg003oeuv01ill26.gif"></graphic></figure></p>
+<p>Si duas parallelas lineas <formula>BD</formula>, <formula>AE</formula> parabolas utrinque occurrentes diameter parabolae <formula>CH</formula> in eandem proportionem dividat, utramque bifariam secabit. Si enim dicantur non bifariam sectae in <formula>I</formula> et <formula>H</formula> secentur ab alia diametro <formula>FG</formula> bifariam in <formula>K</formula> et <formula>G</formula>. quoniam igitur <formula>BK</formula> est ad <formula>AG</formula> ut <formula>BD</formula> ad <formula>AE</formula> et etiam <formula>BI</formula> est ad <formula>AH</formula> ut <formula>BD</formula> ad <formula>AE</formula>, erit <formula>BI</formula> ad <formula>AH</formula> ut <formula>BK</formula> ad <formula>AG</formula>. et ablatis hinc <formula>AG</formula> inde <formula>BK</formula>, remanet <formula>KI</formula> ad <formula>GH</formula> ut <formula>BK</formula> ad <formula>AG</formula>, quod est absurdum cum <formula>KI</formula>, <formula>GH</formula> sint aequales: <formula>BK</formula>, <formula>AG</formula> inaequales.</p>
+</div>
+<div type="section">
+<head lang="la" rend="h4">Propositio 11.</head>
+<p><figure><graphic url="huyg003oeuv01ill27.gif"></graphic></figure></p>
+<p>Sit <formula>ABCDEFG</formula> parabola cujus diameter <formula>PD</formula> perpendicularis ad horizontem <formula>HM</formula> sit linea eam in vertice <formula>D</formula> contingens, quae utrimque ex <formula>D</formula> in quotlibet aequales partes sit divisa in <formula>KLM</formula> etc. Hincque perpendiculares erigantur <formula>CI</formula>, <formula>KE</formula>, <formula>LF</formula>, <formula>MG</formula>, et per puncta ubi parabolae occurrunt <formula>B</formula>, <formula>C</formula>, <formula>E</formula>, <formula>F</formula>, <formula>G</formula>, filum tendatur, et filo huic in ijsdem punctis aequalia pondera <formula>HIRKLM</formula> appendantur; dico, si haec catena in punctis <formula>A</formula> et <formula>G</formula> ligetur, ex ijsque libere pendeat, omnia puncta <formula>B</formula>, <formula>C</formula>, <formula>D</formula>, <formula>E</formula>, <formula>F</formula> eundem locum retentura quem ante habebant. Producantur namque <formula>CD</formula>, <formula>FE</formula> usque ad intersectionem in <formula>Q</formula>; <formula>DE</formula>, <formula>GF</formula> usque ad intersectionem in <formula>S</formula>. Cum igitur per praemissum lemma <formula>Q</formula> sit in pendula gravitatis diametro ponderum <formula>D</formula> et <formula>E</formula>, <formula>S</formula> in pendula gravitatis diametro ponderum <formula>E</formula> et <formula>F</formula>, sequitur per propositionem 7. non alio quam hoc situ pendere posse. Primo sciendum est <formula>KE</formula> esse 1, <formula>LF</formula> 4, <formula>MG</formula> 9 et sic deinceps.</p>
+</div>
+<div type="section">
+<head lang="la" rend="h4">Propositio 12.</head>
+<p>Sint appensa filo <formula>IGCFH</formula>, aequalia pondera, et interstitia <formula>AB</formula>, <formula>BC</formula>, <formula>CD</formula>, <formula>DE</formula> sint aequalia, dico puncta <formula>IGCFH</formula> in eadem esse parabola. Cum enim pendere dicantur, sequitur ex propositione 5, productas <formula>GC</formula>, <formula>HF</formula> invicem intersecare
+<figure><graphic url="huyg003oeuv01ill28.gif"></graphic></figure>
+in <formula>L</formula>, in pendula gravitatis diametroponderum pendentium ex <formula>C</formula> et <formula>F</formula>. cum igitur <formula>LM</formula> secet <formula>CF</formula> bifariam in <formula>M</formula>, secabit quoque producta bifariam lineam <formula>GH</formula>, cum spatia <formula>BR</formula>, <formula>RE</formula> sint aequalia; et quia <formula>GLH</formula> est triangulum et in eo lineae <formula>GH</formula>, <formula>CF</formula> ex angulo <formula>L</formula> in eandem proportionem sectae, necessario quoque sunt parallelae, atque adeo puncta <formula>G</formula>, <formula>C</formula>, <formula>F</formula>, <formula>H</formula>, in eadem parabola cujus diameter <formula>KL</formula>. Sic quoque demonstratur punctum <formula>I</formula> in eadem parabola esse cum punctis <formula>GCF</formula> ergo omnia in eadem parabola, quod erat demonstrandum.</p>
+<p><figure><graphic url="huyg003oeuv01ill29.gif"></graphic></figure></p>
+<p><hi rend="i">Manifestum. φανερὸν</hi>.</p>
+<p>Hinc manifestum est si filo <formula>ABC</formula> etc imponantur trabeculae seu parallelepipeda aequalis ponderis, magnitudinis et figurae, puncta <formula>ABC</formula> etc in quibus filum premunt, omnia futura esse in eadem parabola, si nempe eo ordine disposita sint ut <formula>D</formula> et <formula>E</formula>, <formula>C</formula> et <formula>F</formula>, <formula>B</formula> et <formula>G</formula> aequali sint altitudine infra vero unica gravitas <formula>R</formula> appendatur. Cum autem quo minor est latitudo parallelepipedorum eo minoris sit momenti, duplicatio ponderis parallelepipedi infimi; constat inde si infinita sit eorum multitudo, eam ne quidem in considerationem venire.</p>
+<p>Hinc porro manifestum fit quaenam pressio
+<figure><graphic url="huyg003oeuv01ill30.gif"></graphic></figure>
+requiratur supra filum seu lineam mathematicam flexibilem, ut parabolae circumferentiam flectatur, ea scilicet quae secundum latitudinem aequabiliter premit; Sic si sit filum <formula>ACB</formula> quod teneatur in <formula>A</formula> et <formula>B</formula> linea autem quae puncta haec jungit divisa sit in quotlibet partes aequales ut <formula>AE</formula>, <formula>ED</formula>, <formula>DF</formula> etc. fiat autem pressio aequalis in filum dictum, per unumquodque spatiorum <formula>AE</formula>, <formula>ED</formula>, <formula>DF</formula> etc. hanc voco pressionem aequabilem secundum latitudinem. Talem vero ventus efficit, et aqua fluens, adeo ut si velum <formula>ABC</formula> quod ubique aequalis sit latitudinis suo impetu tendant, illud figuram parabolicam sit relaturum.</p>
+<p>Talis item est quam aqua efficeret si tanta altitudine velo <formula>ABC</formula> superstaret ut altitudo <formula>CP</formula> in considerationem non veniret, quia videlicet exterior ejus superficies semper plana est.</p>
+<p>Denique talis est quâ aqua premit retia piscatorum vel simile quid, quae in eâ vi protrahuntur.</p>
+<p>Unde et haec videmus parabolam referre.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

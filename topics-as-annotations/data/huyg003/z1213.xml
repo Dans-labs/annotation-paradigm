@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1213"/>
+<meta type="date" value="1664-02-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1213">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 20 fevrier 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>Ne recevant point de response aux deux dernieres<note n="#1"/> que je me suis donnè l'honneur de vous escrire, j'ay creu long temps que c'estoit a cause que vous estiez prest de nous venir trouuer icy, et que peut estre vous estiez desia en chemin, mais ayant appris depuis peu de Monsieur l'Abbè de Beaufort que dans les lettres qu'il recevoit de vous, vous ne faisiez aucune mention de ce voiage, je retourne a vous adresser celle-cy, tant pour m'enquerir si au moins mes precedentes<note n="#2"/> vous ont estè delivrées, que pour vous donner avis du succes qu'a eu nostre machine pour la poste<note n="#3"/>, lors que le Roy l'essaia ces jours passez au bois de Bologne. lequel succes a estè si bon, que l'inventeur et ses associez ne l'eussent peu souhaiter meilleur. Je n'y fus pas present, ne l'ayant pas voulu, mais l'on m'a raportè que sa Majestè y fut longtemps dedans la faisant courir a toute bride. qu'elle trouva la voiture agreable et commode: qu'en suite quelques Messieurs de la Cour s'y mirent et d'autres sur le cheval, qu'ils firent aller par tous les plus mauvais chemins et les plus inegaux dont ils se peurent aviser, a fin de faire verser la machine sans que pourtant ils en pussent venir a bout de sorte qu'apres une si rude espreuue l'on peut bien dire qu'elle ne scauroit verser du tout qui est une qualitè qui ne se trouue point en aucune autre voiture. Le Roy voulut qu'on essaiait de faire une semblable carriole pour tenir deux personnes, et c'est a quoy
+l'on travaille presentement. Elles seront assises a costè l'une de l'autre, et l'on y mettra deux chevaux dont celuy de devant portera le postillon et l'autre la machine, qui par consequent sera chargè a peu pres comme il l'estoit en trainant la machine simple. Je vous prie de communiquer tout cecy a Monsieur Silvius, a qui j'escrirois si j'avois autre chose a luy escrire.</p>
+<p>Il me tarde de veoir quel debit aura l'invention lors qu'on la donnera au publiq. ce qui ne se peut pas encore, par ce que les Lettres ne sont pas encore verifiées au Parlement.</p>
+<p>J'ay taschè de scauoir de Monsieur Rohaut son hypothese<note n="#4"/> qu'il dit avoir pour scaver<note n="#5"/> les phenomenes du mercure et de l'eau purgee d'air qui ne descendent point, mais il ne veut pas me la dire. Celle de Monsieur Auzout depend, a ce qu'il dit, du peu de grosseur du tuyau et c'est pour cela qu'il desire fort de scavoir quelle a estè celle dont Milord Brounker et Monsieur <persName key="boyl001">Boile</persName> se sont servis, et s'ils en ont essayè de grosseur differente. J'ay aussi pensè quelque chose pour expliquer cette estrange experience mais qui ne me satisfait pas pleinement.</p>
+<p>N'aurons nous jamais response<note n="#6"/> de Monsieur le Comte de Kincardin<note n="#7"/> j'ay peur que la siene ne venant point, ne soit cause du retardement de la vostre, dont je serois fort marry. Je ne puis croire que vous me donniez tort en cette affaire, mais s'il en estoit autrement, vous m'obligerez tousjours de me faire scavoir vostre sentiment.</p>
+<p>Je vous baise les mains et demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

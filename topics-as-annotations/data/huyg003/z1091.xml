@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1091"/>
+<meta type="date" value="1663-01-12"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1091">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Constitueram saepius respondere iucundissimis tuis decimâ mensis elapsi datis<note n="#1"/>, sed sub ipsum Tabellarij discessum tot tricae semper inciderunt, vt hactenus differre coactus sim. Facilè tamen, vt spero, mihi condonabis hanc moram; molestiarum forensium proprio etiam experimento non ignarus, in quibus aetas mihi ferme tota conterenda est <hi rend="i">ἀλλα τὰ μὲν ἐάσομεν ἀχνύμενοιπέρ</hi>.</p>
+<p>Gaudeo Te ac Clarissimum Huddenium in tangentium methodum meae non absimilem incidisse: an vero eadem sit necne, hoc <hi rend="i">τεϰμηρίῳ</hi> colliges. Ego meam docere possum vel omnino rerum Geometricarum rudem; breuissimis enim regulis adiutus, quamlibet propositam aequationem, leui aliquot charterum mutatione, in eam quae tangentem indicat, absque vllo calculo conuertet. Hanc vero ex ea deduxi quâ decennio et amplius vsus fueram, sed non absque aliquâ calculj molestiâ; in quem dum attentius inspicerem, methodum tandem inueni qua faciliorem arbitror darj non posse.</p>
+<p>Punctum flexus in Conchoide nouâ<note n="#2"/> solito ingenij acumine a Te repertum est; credo et alia ad locos spectantia, quae tam in illâ quam in aliâ veterum observasse me scripseram. Roberuallij vel cuiusuis alterius (nam de auctore adhuc incertus sum) artificium<note n="#3"/>, si recte meminj, hoc est.
+Data sit quaelibet curua <formula>AGD</formula>, cuius axis <formula>AC</formula>, versus <formula>A</formula> indefinité productus, applicata <formula>CD</formula>, tangens quaeliber <formula>GI</formula>
+<figure><graphic url="huyg003oeuv04ill61.gif"></graphic></figure>
+occurrens axi in <formula>I</formula>, et ex <formula>G</formula> puncto applicata <formula>GB</formula>. Ducatur nunc ex <formula>I</formula>, recta <formula>IH</formula>, parallela et aequalis <formula>BG</formula>, et sic semper siat, donec per puncta <formula>AHH</formula> duci possit curua, quae quidem terminum accipiet in rectâ <formula>DF</formula> parallela <formula>CA</formula>, si tangens in puncto <formula>D</formula> occurrat axi producto, sin minus extendetur in insinitum circa asymptoton <formula>DF</formula> vt patet. Ostensum est ab auctore spatium vel sinitum vel insinitum <formula>AHFDGA</formula>, aequale esse spatio <formula>ACDGA</formula>.</p>
+<p>Demonstratio nunc ad manum non est, nec vacat exquirere; eam itaque tibj cum otium erit inuestigandam relinquo. Mentio Roberuallij memoriam mihi refricat Clarissimi Pascalij de quo iam ab annis aliquot nihil intellexj. Ea propter rem mihj gratissimam facies, si de eius statu ac studijs me certiorem reddideris<note n="#4"/>.</p>
+<p>Praeuideram argumenta, quae adversus rationes a me in explicationem experimentj tui hydrostaticj allatas<note n="#5"/>, adducis: et dicj quidem posset plumbum, vel aliud quodlibet in phialâ descendens, vel leuissimo aeris residuj impulsu ad motum
+deorsum determinarj, cum ad tollendam eius, vt ita dicam, <hi rend="i">ἀδιαΦορίαν</hi>, vel minima caussa sufficiat.</p>
+<p>Sed non adeo mihi arridet commentum vt in eo confirmando operam impendere velim. Ad aliud igitur experimentum transeo, quod mihi omnes de naturâ glaciej rationes conturbauit. Si enim aqua in glaciem coit, cum eius partes a materiâ subtili flecti non possunt, idque praesertim cum tenuissimae illarum vi caloris auolarunt, consequens sane videtur, dum bullis purgata est, facilius congelarj debere: videmus quippe eam glaciem esse solidissimam in quâ minores bullae apparent. Quid vero tandem illae sunt aliud quam aer inclusus? At, dicent <persName key="demo901">Democriticj</persName>, absque aere aqua non congelascit, vnde et a superficie, non ab imo aluej in fluuiis glacies incipit. Jta Gassendus, cuj tamen quotidiana experientia refragatur: cum plerumque in imo formarj glaciem, quae Mosae nostre supernatat, notius sit, quam vt in dubium reuocarj queat. Vrgeo nunc cur oleum quod aere maxime ac bullis abundat, concrescit tantum, non etiam in glaciem coit, spiritus vini vero, quj bullis non caret, nequidem rigidissimo gelu vel minimum concrescit? Non igitur ab aere incluso vel excluso conglaciat liquor, sed caussa aliunde petenda est: vnde autem non video. Jtaque ad solemnem mihi in rebus physicis <hi rend="i">ἐποχην</hi> rursus reuoluor, et vlterius in glaciej naturam inquirendum censeo. Decreueram hac gelidâ anni tempestate aliquot experimentis mihi viam aperire, sed dum saepius interpellor, praeter aliquot lagenarum iacturam, quas aeri gelido exposueram, nihil successit. Pergam tamen, dum tu me ijs, quae in instrumento tuo pneumatico fieri possunt, experimentis adiuuare velis. Quod vt facias, et me quo soles affectu prosequaris, etiam atque etiam rogo. Vale.</p>
+<p>Dabam Leodij <hi rend="sc">xii</hi> Anni <hi rend="sc">mdclxiii</hi> quem tibi faustum ac felicem precor ex animo. Jterum Vale.</p>
+<div type="closer">
+<p>Tui Obseruantissimus</p>
+<p><persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+</div>
+<p>Cum ignorem vbinam degat Clarissimus Heinsius, boni consule, quaeso, si Epistolam hic adiunctam ad ipsum dirigendam<note n="#6"/> curae tuae committam. Sed tantum cum tibi commodum erit, nihil est enim quod festinet.</p>
+</div>
+</body>
+</text>
+</TEI>

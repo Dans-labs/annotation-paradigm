@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0463"/>
+<meta type="date" value="1658-02-21"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0463">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. à Schooten</persName> S.P.D.</p>
+</div>
+<p>Binas tuas nuperas<note n="#1"/> rectè à me receptas esse, testatum hisce volui, Nobilissime Hugeni, quò simul intelligeres eas à me Heuratio nostro unà fuisse traditas, ut ex ijs mentem tuam rescire posset, et ego quid statueret. Respondit, quòd, postquam haec tibj significassem, mihi gravis esse ulterius nollet; cum ad Te super hac re, datâ occasione, ipse rescribere destinaverit<note n="#2"/>, rogante me ut haec sola indicare tibi non dedignarer. Quod utique me facturum promisi, atque lubens praestiti. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>1658 die 21 Febr.</date></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

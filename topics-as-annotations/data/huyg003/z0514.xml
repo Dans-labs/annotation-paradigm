@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0514"/>
+<meta type="date" value="1658-09"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0514">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Plurimum debere me fateor humanitati tuae, quod horologij tuj descriptionem ad me miseris, quam merito publicj iuris fecistj. Arbitror enim te non falso ominarj<note n="#2"/>, futuros fuisse quj praereptum irent vel auctum eam gloriam, quae tota tua est. Ego illam, si fors dabitur, Tibj constanter asseram: odi enim fucos <hi rend="i">ὁμως ἀιδαο πύλῃσι</hi>, et cordato viro semper indignum existimauj quod ait Comicus<note n="#3"/></p>
+<lg type="poem">
+<l>Labore alieno magno partam gloriam,</l>
+<l>Verbis saepe in se transmouet, qui habet salem.</l>
+</lg>
+<p>Gallorum Problematj vacare hactenus non licuit, tum propter alia, tum maxime propter valetudinem, quam hac aestate, praeter morem meum, non satis firmam expertus sum. Jmo etiam, vt quod res est dicam, non multum libuit: gaudeo interim et Tibj gratulor quod eatenus processeris. Mouistj mihj saliuam commemoratâ Vallisij
+epistolâ dicam an libro? quem editum ne fando quidem audiueram. Scribe igitur (sed cito, si me amas) et titulum et locum vbi prostet, vt eum per Bibliopolas nostros adferrj curem. Iter Romanum, cum nihil sit quod vrgeat, bona meorum veniâ, in aliud tempus distulj, quo fiet vt et commercio tuo, quo maxime delector, diutius fruj et quod pollicitus sum facilius praestare possim. Exigis enim nunc pro iure tuo meam de duabus medijs Diatribam quam fortasse non tam diu distulissem, si mihi eadem quae Tibj editionis commoditas adfuisset. Sed hic frigent, imo ignota sunt <hi rend="i">ϰαὶ εὐϰαταϕρονητὰ</hi> eiusmodj studia, et quj ijs delectentur, paucj, vel vt planius dicam, <hi rend="i">οὐδεὶς.</hi> Epistolam, quam meditaris ad Astronomum Siculum<note n="#4"/>, sj ita Tibi videbitur, per Clarissimum Riccium commode transmittam, qui pro eâ quâ est humanitate, lubens, suo, suscipiet hanc curam. Perge igitur inuentis tuis ornare hoc saeculum, et me constantj semper affectu credito</p>
+<div type="closer">
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+</div>
+<p>Trepidatum est hic per hosce dies<note n="#5"/> alicuius coniurationis metu, quae tamen, Deo bene iuuante, in ipsis incunabulis suffocata est. <hi rend="i">ἄλλὰ ταῦτα οὐδὲν πρὸς γεωμετρίαν.</hi></p>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

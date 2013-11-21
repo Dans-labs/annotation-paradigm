@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0585"/>
+<meta type="date" value="1659"/>
+<meta type="sender" value="pasc001"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0583"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0585">
+<p>Resolution ou analise de la proposition de Monsieur <persName key="huyg003">Huygens</persName>.</p>
+<p><figure><graphic url="huyg003oeuv02ill125.gif"></graphic></figure></p>
+<p>Soit vne parabole donnée <hi rend="i">b</hi>IC, dont <hi rend="i">b</hi>C soit la base, <hi rend="i">a</hi>I l'axe.</p>
+<p>Il faut trouuer la dimension de la surface du Conoide, descrit par la ligne parabolique tournant au tour de l'axe <hi rend="i">a</hi>I.</p>
+<p>Soit vne parabole pareille <hi rend="i">b</hi>DC sur la mesme base et de l'autre part pour ne point brouiller la figure ayant le mesme axe <hi rend="i">a</hi>D quj est <hi rend="i">a</hi>I prolongée.</p>
+<p>Jl est demonstré dans le traitté des trilignes<note n="#2"/>, que pour trouuer la dimension de la surface descritte par la ligne courbe <hi rend="i">bm</hi>D tourné autour de <hi rend="i">a</hi>D jl suffit de connoistre la somme des sinus sur <hi rend="i">a</hi>D; c'est a dire en diuisant la ligne <hi rend="i">b</hi>D en parties egales et jndefinies aux points <hi rend="i">m</hi>, et menant les perpendiculaires <hi rend="i">mn.</hi></p>
+<p>Jl a esté aussy demonstré dans le mesme traitte que pour connoistre la somme de ces sinus <hi rend="i">mn</hi> jl suffit (en diuisant <hi rend="i">a</hi>C en parties jndefinies et egales aux petits arcs egaux <hi rend="i">mn</hi><note n="#3"/> et menant les perpendiculaires <hi rend="i">gh</hi> jusqu'a la courbe) de connoistre la somme des courbes C<hi rend="i">h.</hi></p>
+<p>Or Monsieur Auzout a demonstré que la ligne courbe entiere C <hi rend="i">h</hi> D, est representée par la somme des droittes <hi rend="i">b f</hi> (en diuisant <hi rend="i">a</hi> E double de <hi rend="i">a</hi> I en vn nombre jndefiny de parties egales) ou a la somme des perpendiculaires <hi rend="i">f</hi> L, quj sont egales aux droittes <hi rend="i">b f</hi>, et lesquelles <hi rend="i">f</hi> L forment le dehors d'vne hyperbole.</p>
+<p>Et de mesme chaque portion D <hi rend="i">h</hi> sera representée par la somme des droittes <hi rend="i">b f</hi> ou <hi rend="i">f</hi> L comprises entre le point I, et chacune des droittes <hi rend="i">f</hi> L c'est a dire que chaque D <hi rend="i">h</hi> sera representée par chaque espace I <hi rend="i">f</hi> L; Et partant chaque portion C <hi rend="i">h</hi> sera representée par chaque espace E<hi rend="i">f</hi>LL.</p>
+<p>Donc la somme des C <hi rend="i">h</hi> est representée par la somme des espaces E<hi rend="i">f</hi>LL. c'est a dire par la somme triangulaire des droittes <hi rend="i">f</hi> L a commencer du costé de I. (comme il a esté monstré dans la lettre a Monsieur de Carcauy jmprimée auec le traitte de la Roulette) c'est a dire a la somme des rectangles I <hi rend="i">f</hi> en <hi rend="i">f</hi> L:</p>
+<p>Or la somme de ces rectangles est donnée puis que le solide de l'hyperbole touné<note n="#4"/> au tour de l'axe est donné. Donc la somme des arcs C <hi rend="i">h</hi> est donnée. Et partant aussy la dimension de la surface du Conoide parabolique.</p>
+<p>Je ne vous enuoye pas cela pour pretendre aucune part a cette admirable jnuention. Car ie scay trop combien c'est peu de chose de demonstrer ce qu'vn autre a enoncé, outre que cette analyse ne s'estand pas aux Conoides hyperboliques, ny aux spheroides ou la chose me paroist bien plus difficile, ainsy ie n'y penseray pas seullement car ie suis persuadé qu'il y a plustost du blame que de l'honneur a accquerir en trauaillant sur les ouurages d'autruy et principalement quand ils sont traittez par des personnes excellentes comme Monsieur Hugguens<note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

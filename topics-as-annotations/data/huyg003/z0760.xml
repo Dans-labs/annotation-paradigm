@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0760"/>
+<meta type="date" value="1660-07-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0760">
+<div type="opener">
+<p><date>15 Iulii A. 1660</date>.</p>
+<p>A Monsieur <persName key="carc010">de Carcavy</persName>.</p>
+</div>
+<p>Revenu du voyage<note n="#1"/> je trouue sa lettre, tres rejoui. Schoten mort<note n="#2"/>. Examen de ce qui s'est passè; misi apographum litterarum<note n="#3"/> me illi misisse, in quo<note n="#4"/> de tertijs literis<note n="#5"/>, de quibus in libello<note n="#6"/> altum silentium. accepisse scio ex Bronckero mihi non respondit.</p>
+<p>Remercie de ce qu'il me communique, et qu'il remercie Monsieur Fermat de ma part, du livre. de solutione Problematum Geometricorum<note n="#7"/>. non opus ut mihi describatur, quia brevi ipse adero.</p>
+<p>Constructio de superficie conoidis circa applicatam<note n="#8"/> subtilis. si aliam methodum habet, vellem ederet. Item si curvas aliâ methodo rectificat, ut videtur. Heuratius in una ista prevenit, methodus ejus elegans per truncum etiam sed universalior. nam alias item infinitas rectificabiles ostendit. Constructio ejus bona sed prolixa. constructio brevior Heuratij quam videbit mea qualis.</p>
+<p>Mirum non vidisse epistolam Heuratij<note n="#9"/> jam anno 1659 impressam quam Wallisius jam viderat, et mense Ianuario datam Salmurii. Fermatij posterior inventio<note n="#10"/> subtilissima. mea methodus ad Cycloidem etiam pertinet. longe alia est, quot sunt curvae tot curvas diversas rectis aequales per eam inveniri.</p>
+<p>de spirali<note n="#11"/> non ignorabam, visis quae prius ex Fermatij literis descripsit et cognita jam paraboloidis dimensione. non accusavi Fermatium nec accuso, sed per me licet ut quisque genio suo obsequatur.</p>
+<p>Curvam superficiem ungulae quadrare jam vetus est. an de alia intelligat.</p>
+</div>
+</body>
+</text>
+</TEI>

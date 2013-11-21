@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0203"/>
+<meta type="date" value="1654-10-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0203">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.</p>
+</div>
+<p>De morbo tuo nihil inaudiveram priusquam evasisse te eum significasti; quod sanè laetus accepi, plurimum enim mea interesse arbitror ut diu te fruamur incolumi. Observationes Eclipseos quandoquidem commodè nancisci nequeo non videtur operaepretium ut anxie inquirere pergam. non convenire aliquando cum caelorum motibus astronomorum praedictiones non adeo miror, quam quod non multo magis quandoque aberrent. De Restitutione annua<note n="#1"/> Nic. Mercatoris scire velim cui fini proposuerit; num enim Calendarium emendare instituit Cromwellus<note n="#2"/> ut prisca aetate Caesar? Examen vero Cyclorum istorum cum supputationem longiorem exigit quam ego à me ipso impetrare possem, tum Tabularum quoque Astronomicarum inspectionem atque earum quibus ipse destituor, levem enim tantum hisce studijs operam dedi. Cartesij opera quod attinet quorum iteratam editionem parari scribis, nihil equidem in ijs corrigi postulas opinor, nisi typographica sphalmata, aut si quid non satis rectè interpretes verterunt. Itaque quae circa haec pauca annotavi propediem tibi mittam<note n="#3"/>. adjungam autem et quae in Geometria et dioptricis hinc inde ad marginem adscripsi. Quorum quae scitu digna videbuntur an in margine extremo paginarum subjicienda sint an alia ratione adponenda tuo statues arbitrio. Dioptrica mea non existimo cum Cartesij operibus conjuncto volumine edenda; nonenim video quare sic magis ad hominum manus perventura sint. Imo contra minus divenditum
+iri ea ratione vereor: quis enim vel tantillum curiosus aut geometriae amans non pridem Cartesij libros possidet? At horum nemo fere novam editionem empturus est. Ita lectoribus cariturus essem quos maxime contingere mihi exoptaverim. Jam hoc quoque molestum quod Amstelodamum concedere opus foret, atque ad tempus non exiguum. Alia igitur occasione in lucem ista edere est animus. Tibi nihilominus gratias ago summas, monenti quod in rem meam fore credidisti. Eadem mente dissuadere te mihi scio compositionem Regularum impulsus quae Cartesij regulis adversentur. Attamen perlectis quae hac de materia non sine labore conscripsi, aliter puto senties. Si enim Cartesij praeter primam omnes falsae non sunt et suismet ipsius principijs repugnantes, non equidem amplius quid verum aut falsum sit discernere novi. Demonstrationum circa haec nostrarum aliquas nondum mittere tibi possum quoniam unae alijs connexae sunt et posteriores à prioribus pendent. Nemini tamen prius quam tibi ullas exhibebo, cui et probari ipsas postulo antequam ad plures perveniant. Vale.</p>
+<p>&nbsp;</p>
+<p>Ducquium non ita pridem conveni bene valentem, imo ad te cogitantem quare miror nondum tibi visum.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>, <date>29 Oct. 1654</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName>
+<lb/>Mathematices in Academia Lugdunobatava Professori. Leidam.</p>
+</div>
+</body>
+</text>
+</TEI>

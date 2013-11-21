@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0030"/>
+<meta type="date" value="1647-01-24"/>
+<meta type="sender" value="mers004"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0030">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>aprez auoir admiré vostre speculation de la chorde qui ne fait pas la parabole, ie vous diray seulement, qu'encores que tout ce qui y est soit veritable, ce n'a pas neantmoins esté par la force de vos demonstrations, que la verité nous en a paru, car il faudroit, ce me semble, commencer par vostre Corollaire de la 2 proposition et la demonstrer, et puis vous pourriez demonstrer le 1 et 2<hi rend="sup">d</hi> theoreme et le reste iroit assez bien. Semblablement à la fin de la 4 page hoc tamen eorum situm nihil jmmutabit <hi rend="i">nulla enim causa est</hi>. encore que vous n'en voyez point de cause, il ne s'ensuit pas qu'il ny en ayt, nous ne voyons pas tout de prime abord, et ce qui ne nous parust pas en vn temps paroist souuent dans vn autre, il suffit qu'on puisse douter qu'il y ayt quelque cause.</p>
+<p>Ce que ie ne vous dis pas pour amoindrir l'exactitude de vostre speculation, à Dieu ne plaise, car ie continue tousiours en mon mesme aduis de la grandeur de vostre genie: seulement ne peinez pas trop vostre esprit, car vous auez tant d'années de reste, que quand vous ne feriez qu'une demonstration chaque année, aussi belle que celle de cette chorde, vous auriez assez pour tenir le haut bout parmi toute la noblesse.</p>
+<p>Or affin que ma lettre ne s'en aille pas sans quelque chose de nouveau, vous considererez le probleme<note n="#1"/> qui suit, et que ie croy que vous jugerez si beau, qu'il a fallu
+auoir du genie, et du fond de Geometrie pour le trouuer: dont la demonstration estant trop longue et difficile, son auteur ne l'a pas voulu escrire.</p>
+<p>Je vous prie de me dire vostre aduis d'un liure d'equations Cubiques<note n="#2"/> du Sr. <persName key="scho197">Scoten</persName>, qu'on m'a dit estre icy arriué depuis peu pour vendre.</p>
+<p>Monsieur voyla pour ce voyage en attendant encore mieux pour ceux qui suiuront, s'il se rencontre quelque chose qui merite vostre lecture, si vous estes à Leyde, lors que vous receurez la presente et que vous voyiez le Sr. <persName key="scho197">Scoten</persName>, ie le salue, et suis tousiours</p>
+<div type="closer">
+<p>Vostre treshumble seruiteur <persName key="mers004">Mersenne. M.</persName></p>
+<p>ce <date>24 de l'an 1647</date>. à <placeName key="parij001">Paris</placeName> où nous vous attendons.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestien Huijghens</persName>.
+<lb/>A <placeName key="leide001">Leyde</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

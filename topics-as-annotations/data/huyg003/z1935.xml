@@ -1,0 +1,140 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1935"/>
+<meta type="date" value="1673-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="roye044"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1934"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1935">
+<p>Pour Mr. <persName key="roye044">Royer</persName>. Pour marquer les cercles de latitude sur la table Planetaire.</p>
+<p>&nbsp;</p>
+<p>Ex <persName key="kepl901">Keplero</persName><note n="#1"/>.</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>nodus ascendens ♄</cell>
+<cell>Inclinatio.</cell>
+<cell></cell></row>
+<row>
+<cell>1600</cell>
+<cell>20. 59′ 59″ ♋</cell>
+<cell></cell>
+<cell>20. 59. 59</cell></row>
+<row>
+<cell>74</cell>
+<cell>1. 28. 7</cell>
+<cell></cell>
+<cell>1. 59. 5</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>22. 28. 6 ♋</cell>
+<cell>2<hi rend="sup">o</hi>. 32′. 0″</cell>
+<cell>22. 59. 4.</cell></row>
+<row>
+<cell></cell>
+<cell>nodus ascendens ♃</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>1600</cell>
+<cell>5. 25. 58 ♋</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>74</cell>
+<cell>4. 19</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>5. 30. 17 ♋</cell>
+<cell>1<hi rend="sup">o</hi>. 19′. 20″</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>nodus ascendens ♂</cell>
+<cell></cell>
+<cell>59. 32</cell></row>
+<row>
+<cell>1600</cell>
+<cell>16. 44. 32</cell>
+<cell></cell>
+<cell>2</cell></row>
+<row>
+<cell>74</cell>
+<cell>49. 1</cell>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell></cell>
+<cell>59. 4</cell></row>
+<row>
+<cell></cell>
+<cell>17. 33. 33 ♉</cell>
+<cell>1<hi rend="sup">o</hi>. 50′. 30″</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>nodus ascendens ♂</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>1600</cell>
+<cell>13. 0. 45</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>74</cell>
+<cell>57. 58</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>13. 58. 43 Π</cell>
+<cell>3<hi rend="sup">o</hi>. 22′. 0″</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>nodus ascendens ☿</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>1600</cell>
+<cell>12. 25. 22 ♉</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>74</cell>
+<cell>43. 8</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>13. 8. 30 ♉</cell>
+<cell>6<hi rend="sup">o</hi>. 54′. 0″</cell>
+<cell></cell></row>
+</table></p>
+<p>Tendez le fil, qui part du soleil A sur le degrè de l'Ecliptique BC, ou est le noeud ascendant de l'orbite de la Planete DHEG, comme en Saturne au 29.28.6 de ♋, et marquez dans l'orbite le point D ou le fil l'entrecouppe. Puis
+<figure><graphic url="huyg003oeuv07ill61.gif"></graphic></figure>
+menez la ligne droite DAE, qui marquera de l'autre costè de l'orbite le noeud descendant E, et par le centre de l'orbite F menez une autre ligne droite LFH qui couppe la premiere DAE a angles droits, en N et l'orbite aux points G et H. Tirez en suite la ligne NM, qui fasse l'angle HNM d'autant de degrez qu'est l'inclinaison de l'orbite, comme ici en Saturne de 2<hi rend="sup">o</hi>32′. Et ayant dressè HM perpendiculaire sur NH, et qui rencontre NM en M, prenez HK egale à HM. Et decrivez un cercle qui passe par les points DKE, duquel le centre sera necessairement dans la ligne HG. la partie DKE de ce cercle qui est interieur à l'orbite servira pour les latitudes boreales et l'autre partie DLE pour les australs.</p>
+<p>Pour plus grande exactitude, on pourroit apres avoir descrit l'arc DKE, trouver le point L de la mesme maniere qu'on a trouvè K c'est a dire en faisant l'angle GNO egal à HNM, et prenant GL egal à la perpendiculaire GO. Et puis descrire un arc par les points D L E qui ne se rencontrera pas justement estre du mesme cercle que DKE, mais qui servira a marquer plus precisement les latitudes australes.</p>
+</div>
+</body>
+</text>
+</TEI>

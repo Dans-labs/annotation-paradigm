@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2541"/>
+<meta type="date" value="1689-08"/>
+<meta type="sender" value="newt011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2541">
+<p>AG horizonti parallela
+<figure><graphic url="huyg003oeuv09ill61.gif"></graphic></figure>
+AB, BC, CD &amp;c. aequales A<hi rend="i">a</hi>, B<hi rend="i">b</hi>, C<hi rend="i">c</hi>. &amp;c. continue proportionales et ipsi AG perpendiculares.</p>
+<div type="section">
+<head rend="h4">Prop. 1.</head>
+<p>Si resistentia secundum lineam horizonti parallelam sit in duplicata ratione velocitatis, projectile curvam <hi rend="i">as</hi><note n="#3"/> describens percurret spatia <hi rend="i">ab</hi>, <hi rend="i">bc</hi>, <hi rend="i">cd</hi>, <hi rend="i">de</hi> temporibus quae sunt in progressione geometrica (per Prop. V, Lib. II Princip. Math.) &amp; uniformi descensu conficiet spatia temporibus proportionalia B<hi rend="i">b</hi>-A<hi rend="i">a</hi>, C<hi rend="i">c</hi>-B<hi rend="i">b</hi>, D<hi rend="i">d</hi>-C<hi rend="i">c</hi>, E<hi rend="i">e</hi>-D<hi rend="i">d</hi>, etc.</p>
+</div>
+<div type="section">
+<head rend="h4">Prop. 2.</head>
+<p>Producatur J<hi rend="i">i</hi> ad <hi rend="i">s</hi> et agatur <hi rend="i">st</hi> Horizonti parallela et sit <hi rend="i">it</hi> spatium a projectili dato tempore descriptum, et resistentia quadrato velocitatis proportionalis, erit secundum lineam descriptam <hi rend="i">it</hi> ut lineae illius <hi rend="i">it</hi> quadratum, adeoque secundum lineam horizontalem <hi rend="i">st</hi> ut <hi rend="i">it</hi> × <hi rend="i">st</hi>, &amp; propterea sub finem motus infinite continuati, ubi <hi rend="i">it</hi> propemodum datur ut <hi rend="i">st</hi> quam proxime.</p>
+<p>Res. corporis in AB<note n="#4"/>, ad refist. corp. in AD ut AB<hi rend="i">q</hi> ad AD<hi rend="i">q</hi>.</p>
+<p>Res. corp. in AD moventis, ad resistentiam illius partem secundum AB ut AD ad AB, seu AD<hi rend="i">q</hi> ad AB × AD.</p>
+<p>Ergo ex aequo</p>
+<p>Res. corp. in AB mov. ad resistentiam alterius partem secundum AB ut AB<hi rend="i">q</hi> ad AB × AD id est ut AB ad AD.</p>
+<p><figure><graphic url="huyg003oeuv09ill62.gif"></graphic></figure></p>
+<p>Moveatur corpus in AB data cum velocitate. Deinde Impellatur Corpus idem versus E ut motu composito percurrat eodem tempore lineam AD et resistantia R in priore casu erit ad resistentiam S in hoc casu ut AB<hi rend="i">q</hi> ad AD<hi rend="i">q</hi>. Sed corporis in AD moventis resistentia absoluta S qua corpus urgetur in AD est ad resistentiam illius partem T qua corpus idem urgetur in parallelam ad AB, est ut AD ad AB hoc est ut AD<hi rend="i">q</hi> ad AB × AD. Ergo resistentia R corporis in B moventis est ad resistentiae alterius S partem T qua corpus urgetur in parallela ad AB ut AB<hi rend="i">q</hi> ad AB × AD id est ut AB ad AD.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

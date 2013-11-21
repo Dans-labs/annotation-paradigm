@@ -1,0 +1,174 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1766"/>
+<meta type="date" value="1669"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1765"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1766">
+<p>Sur l'Essay des Horologes sur Mer par Monsieur <persName>la Voye</persName> dans le Vaisseau de Monsieur <persName>de Beaufort</persName> au voiage de Candie en 1669.</p>
+<p>&nbsp;</p>
+<p>Quand il auroit estè depuis le 22 juliet jusqu'au 29 septembre sans voir terre, qui sont 2 mois et 7 jours il auroit determinè la longitude entre Candie et Toulon ainsi qu'il a fait a 5 ou 6 lieues pres, la ou les Pilotes n'ayant estè que 2 jours sans voir terre, scavoir du 23 au 25 septembre, s'estoient egarez de beaucoup plus.</p>
+<p>Il n'a eu qu'une horologe, ce qui fait voir qu'a peu de frais on pourra pratiquer l'invention.</p>
+<p>Il a bien fait les calculs selon les regles et la methode et a donnè une bonne forme de Journal, et des operations qu'il faut faire.</p>
+<p>Le tremblement du vaisseau pendant toutes les canonades et le fracas du vaisseau Sainte Catherine, qui sauta par ses poudres, sont une bonne espreuve pour l'horologe et l'inalterabilitè du pendule.</p>
+<p>La contestation de Pilotes avec la Voye fait veoir qu'il s'est fiè a l'horologe, et oste le soupçon de falsification.</p>
+<p>Il n'auroit pas estè aisè de falsifier ces observations.</p>
+<p>Il pourra donner beaucoup de lumieres touchant la pratique de cette invention tant a l'egard de l'horologe que des observations.</p>
+<p>Il faloit embarquer premierement l'horologe et observer apres sa difference journaliere soit par le coucher du soleil, soit par les fixes, en faisant signe.</p>
+<p>Il faloit avoir observè au retour a Toulon, quelques jours durant si l'horologe, estait encore reglee comme a Candie, savoir avec retardement de 1′ par jour. Et cette espreuve doibt estre une grande confirmation à la verité des Longitudes observees.</p>
+<p>Il semble qu'elle ait encore retardè tant soit peu<note n="#1"/> d'avantage, de sorte que le filet peut estre s'est allongè de quelque chose, car il ne faut qu' 1/360 de ligne pour retarder 1″ par jour.</p>
+<p>Il faudra attacher le pendule a un filet de lin ou de chanvre qui ne soit point tors.</p>
+<p>Comment il a calculè les 3″ environ qu'il met entre le temps du vray et de l'apparent coucher de soleil.</p>
+<p>Rectifier de temps en temps la petite sur la grande.</p>
+<p>Augmenter le contrepoids et diminuer selon le besoin, mais le remettre toujours a l'ordinaire.</p>
+<p><table>
+<row>
+<cell>Le 9 juillet le lieu apparent du centre de soleil eu egard a la refraction, se trouve par le calcul a</cell>
+<cell></cell>
+<cell>4h.</cell>
+<cell>47′</cell>
+<cell>44″</cell></row>
+<row>
+<cell>Le 19 juillet le mesme lever se trouve par le calcul a</cell>
+<cell></cell>
+<cell>4</cell>
+<cell>53</cell>
+<cell>8</cell></row>
+<row>
+<cell>L'intervalle du temps apparent est donc de 10 jours</cell>
+<cell></cell>
+<cell>0</cell>
+<cell>5</cell>
+<cell>24</cell></row>
+<row>
+<cell>L'aequation dans cet intervalle est de</cell>
+<cell cols="2"></cell>
+<cell>1</cell>
+<cell>2</cell></row>
+<row>
+<cell>Qu'il faut adjouter parce qu'il y a plus au premier jour qu'au dernier</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>26</cell></row>
+</table></p>
+<p>Et la somme sera l'intervalle du temps moyen que devroit avoir marquè l'horologe pour estre bien reglee.</p>
+<p><table>
+<row>
+<cell>Or, le 9<hi rend="sup">me</hi> juliet le centre du soleil estoit à l'horison quand l'horologe marquoit</cell>
+<cell></cell>
+<cell>2h.</cell>
+<cell>56′</cell>
+<cell>6″</cell></row>
+<row>
+<cell>Et le 19 juliet le centre du soleil estoit a l'horizon quand l'horologe marquoit</cell>
+<cell></cell>
+<cell>2</cell>
+<cell>52</cell>
+<cell>28</cell></row>
+<row>
+<cell>L'intervalle du temps que marquoit l'horologe est donc</cell>
+<cell>9</cell>
+<cell>jours 23h.</cell>
+<cell>56′</cell>
+<cell>22″</cell></row>
+<row>
+<cell>Qui devoit estre de</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>26</cell></row>
+<row>
+<cell>La difference donc ou le retardement de l'horologe en 10 jours est</cell>
+<cell></cell>
+<cell>0</cell>
+<cell>10′</cell>
+<cell>4″</cell></row>
+</table></p>
+<p>Ce qui est egal à <hi rend="i">b</hi> - <hi rend="i">d</hi> - <hi rend="i">a</hi> + <hi rend="i">c</hi> + <hi rend="i">e</hi>.</p>
+<p><table>
+<row>
+<cell>Il s'est abusè de 10″, en disant que la difference entre le lever apparent du 9 juliet selon le calcul et selon l'horologe estoit</cell>
+<cell>1</cell>
+<cell>51′</cell>
+<cell>48″</cell></row>
+<row>
+<cell>au lieu qu'il y a</cell>
+<cell>1</cell>
+<cell>51′</cell>
+<cell>38″</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>car ostant</cell>
+<cell>2</cell>
+<cell>56′</cell>
+<cell>6″</cell>
+<cell>lever selon l'horologe</cell></row>
+<row>
+<cell>de</cell>
+<cell>4</cell>
+<cell>47′</cell>
+<cell>44″</cell>
+<cell>lever selon le calcul</cell></row>
+<row>
+<cell>reste</cell>
+<cell>1</cell>
+<cell>51′</cell>
+<cell>38″</cell>
+<cell></cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>Le retardement donc en 24 heures estoit par ce premier intervalle</cell>
+<cell>1′</cell>
+<cell>0″</cell>
+<cell>24‴</cell></row>
+<row>
+<cell>par le second</cell>
+<cell>1′</cell>
+<cell>4″</cell>
+<cell>0‴</cell></row>
+<row>
+<cell>par le troisieme</cell>
+<cell>1′</cell>
+<cell>2″</cell>
+<cell>0‴</cell></row>
+<row>
+<cell>par le 4<hi rend="sup">me</hi></cell>
+<cell>1′</cell>
+<cell>3″</cell>
+<cell>0‴</cell></row>
+<row>
+<cell>par le 5<hi rend="sup">me</hi></cell>
+<cell>1′</cell>
+<cell>1″</cell>
+<cell>0‴</cell></row>
+<row>
+<cell></cell>
+<cell cols="3">_____</cell></row>
+<row>
+<cell>somme</cell>
+<cell>5′</cell>
+<cell>10″</cell>
+<cell>24‴</cell></row>
+<row>
+<cell>Pour avoir le milieu, diviser par 5. donc le retardement en 24 heures</cell>
+<cell>1′</cell>
+<cell>2″</cell>
+<cell>5‴</cell></row>
+</table></p>
+<p>Selon quoy l'intervalle de longitude trouuee au retour entre Candie et Toulon sera plus grand de 2 ou 3 minutes de temps qu'il ne l'a fait, et partant il respondra fort bien a l'intervalle trouuè en allant vers Candie.</p>
+<p>Les heures prises par l'observation le 30 Aoust estant tant soit peu moindres que celles de l'horologe, semblent montrer qu'il avoit trop avancè l'horologe ce jour là en donnant 1′ par jour pour retardement, et qu'il n'eust falu conter que 1′ moins ½ seconde. Et toutefois, le calcul cy dessus donne encore plus de retardement qu'une 1′, mais il se faut plustost defier des heures prises par les hauteurs que de celles du coucher du soleil.</p>
+<p>Il a adjoutè a l'heure de l'horologe, au retour, à raison d'une 1′ par jour. S'il avoit donc ajoustè 1′ 2″, l'heure de Candie auroit estè trouuée plus grande qu'elle n'a estè trouvée. donc l'heure de Candie auroit excedè d'avantage l'heure de Toulon, qu'elle en faisoit selon son calcul,donc la difference de longitude auroit estè plus grande. Le contraire arrive quand on va d'Ouest vers l'Est, de sorte qu'il faut tenir pour regle, que quand l'horologe retarde plus qu'on ne pense, cela fait qu'en allant d'Est a l'Oust les differences des longitudes se trouuent moindres qu'elles sont en effect, mais en allant de Ouest a l'Est, elles en devienent plus grandes que les veritables.</p>
+</div>
+</body>
+</text>
+</TEI>

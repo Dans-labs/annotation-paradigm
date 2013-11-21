@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2443"/>
+<meta type="date" value="1686-10-21"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2443">
+<div type="opener">
+<p>Nobilissime Vir</p>
+</div>
+<p>Quid Nob. D. de Tschirnhaus ex additis literis<note n="#1"/> percipies, ut nimirum Parisios ableges exemplaria<note n="#2"/> Academiae destinata, et hoc ipsum quanto ocyus praestes.
+Nec Ego, nec ille de hac re dubitamus. Doleo sane typographos adeo pigros fuisse et impressionem in tantum tempus produxisse. Animus mihi est ad D. Tschirnhaus literas brevi exarare, si aliquid penes te latet, quod ipsi, ut petit, indicare animus est, meis poteris includere. Indica quaeso? schedula quâdam num exemplaria tibi recte sint tradita. Plura hoc tempore addere prohibet hora. Vale Nobilissime Vir</p>
+<div type="closer">
+<p>Tuus omni Studio <persName key="gent015">Petrus à Gent</persName>.</p>
+<p>Raptim Amst. 21 Octob. 1686.</p>
+</div>
+<p>P.S. Tuas credo, D. Tschirnh. junges, et si quid defecerit addes et post lectas ad D. du Hamel sigillo munies. Rursum Vale.</p>
+<p>&nbsp;</p>
+<p>Achter de Groote hal in de Nes in de witte poort.</p>
+</div>
+<div type="para">
+<p>Wel Edel gebooren Heer Mijn Heer Mijn Heer <persName key="huyg003">Christiaan Hugens, Heer van Zelem</persName>. presentement à la Haye.
+<lb/>No. 20.
+<lb/>met een kasje getek.
+<lb/>C.H. port.</p>
+</div>
+</body>
+</text>
+</TEI>

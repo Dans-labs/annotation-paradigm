@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0689"/>
+<meta type="date" value="1659-12-01"/>
+<meta type="sender" value="hesi003"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0688"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0689">
+<div type="opener">
+<p><persName key="huyg003">Cristiano Hugenio</persName> <persName>Guilielmus Hesius</persName>. S.</p>
+</div>
+<p>Quod ad Gregorium a Sancto Vincentio misistj Systhema Saturnium, scientiae ac beneuolentiae munus tuae, hic mihj commune fecit, tamquam amatorj et aestimatorj disciplinae eius cuius ipse mihj ab annis iam quadraginta rudimenta prima dedit.
+Acceperit, non dubito, munus idem <persName key="tacq001">Andreas Tacquetius</persName> meus, quem meum dicere mihi videor posse quem olim in Philosophicis Mathematicisque discipulum habuj, sed iam supra Docentem se intelligentem magis. Legj auide, expendi, probauj scriptum tuum; et probarj dignum est, etiam eo nomine quod eos a quorum sententia discedit humaniter tractat non sine laude. Ita decet Veritatis non partium studiosum, et amantem, etiam in errante, errorem quem peperit non odium, quod contumacium proprium est, sed ignoratio, Verj subsidijs praesertim necessarijs destituta. Verum amabo te, sicut qui fuere ante te Virj amantes capacesque coelj aptis telescopijs destitutj, errauere, et errasse conuincuntur a te deceptj visu nimis infirmo, an non ita qui post te uenturi sunt oculati magis vel arte vel natura fors etiam te errasse conuincent? Sed enim in magnis et voluisse sat est. Et, si error
+erat, causas habuit tamen error honestas. Simus utinam, quod crebrum mihi votum est, et statu et loco tali, quo hanc exutj mortalitatem caeci et pigri corporis sine adminiculis artis et scientiae humanae videamus eum sicutj est, et in eo omnia quae fecit! Huc certe tamquam ad compendium Veri omnis et boni contendere nos decet studio saltem et cura parj, qua ad dilutas et saepe euanidas plusque habentes falsj quam Veri vmbras humanae scientiae adspiramus. Sensum tibj meum scripsj de lucubrationibus tuis, primâ laude dignis, et adiecj votum pro scientia sempiternâ. Vale in eo et per eum in quo est salus et uita nostra. Hoc precatur affectu sincero et pleno tuus</p>
+<p>Et totus <persName key="hesi003">Guilielmus Hesius</persName>. S.I.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandaui</placeName> <date>Calendis Decembribus annj Christiani MDCLIX</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

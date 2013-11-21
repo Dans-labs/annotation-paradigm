@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0833a"/>
+<meta type="date" value="1661-02-02"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0833">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>j'enuoye apprendre de vos nouuelles dont je suis en peine, ne vous ayant point veu hier ches Monsieur de Monmor ou vous estes asses assidu et ou en attendant vn temps fauorable je me rens aussi volontiers pour vous y rendre mes visites. Si vous vous portes bien comme je le souhaite, et que vous ne soyés point engagé a quelque affaire pour cette apres disnée je vous enuoyeray vn carosse pour vous amener chés moy ou sera Monsieur Ampiou<note n="#1"/> le Conseiller au Parlement dont je vous parlay dernierement pour vous y voir et vous offrir son amitié et son seruice et quil vous eust esté offrir chés vous si jeusse peu souffrir le carosse vn si long chemin en l'y accompagnant.</p>
+<p>Dans la mesme apres disnee nous irons ches Monsieur Hardy<note n="#2"/> Conseiller au chastellet homme de grand nom parmy nous et qu'vne pareille incommodité que la mienne empesche de sortir de chés luy par quelque voye que ce soit, sans quoy il vous auroit esté chercher par lestime qu'il fait de vostre vertu et par la prosession quil fait d'estre Amy et seruiteur de Monsieur vostre Pere. Je seray rauy de vous rendre ces deux petits offices puisque je n'ay pas lieu ni occasion de vous en rendre de plus grands. Je ne le seray gueres moins de passer cette couple dheures en vostre compagnie, a la quelle je ne prefere rien. Mandes moy donc je vous supplie par vn billet si vous estes libre pour cette apres disnée et ne faites pas difficulté du carosse, dont vous pouues vser sans scrupule. Il sera ches vous incontinent apres deux heures. Si vous n'estes pas en estat mandés le moy aussi afin que je contremande ces Messieurs. Je suis tout a vous</p>
+<div type="closer">
+<p><persName key="chap002">Chapelain</persName>.</p>
+<p>Ce Mecredy 2 Feurier</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huygens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

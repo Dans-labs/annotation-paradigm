@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0848a"/>
+<meta type="date" value="1661-03-14"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0848">
+<div type="opener">
+<p>Lundy apres disné.</p>
+</div>
+<p>Vous aués bien du croire que je me portois mal puis que je nestois pas allé ches vous receuoir vos ordres auant vostre depart<note n="#1"/> et vous demander la continuation de vostre amitié qui m'est si vtile et si agreable. Je suis encore detenu aujourdhuy a la chambre et je ne scay encore si je pourray sortir demain par la bizarrerie de mon incommodité.
+Mais si vous demeures encore icy quatre ou cinq jours j'iray vous rendre vn si juste deuoir et vous embrassant vous souhaitter vn heureux voyage.
+Cependant songes vn peu a ce que vous me voudrés commander et me croyes tousjours tout a vous</p>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huygens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

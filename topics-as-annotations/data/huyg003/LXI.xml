@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXI"/>
+<meta type="date" value="1673-09-09"/>
+<meta type="sender" value="rump004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXI">
+<div type="opener">
+<p>à <placeName key="parij001">Paris</placeName> le 9 septembre 1673.</p>
+</div>
+<p>J'ay esté malheureux ce matin, Monsieur, que je n'ay peu vous rencontrer chez vous ou je me suis donné l'honneur de me rendre deux fois pour vous remercier du beau present que vous auez eu la bonté d'envoyer a uostre petite fille lequi [sic] sera toute sa vie vostre humble servante, je le garderoij soigneusement pour elle comme
+une marque de la generosité de M<hi rend="sup">r</hi> son Parain, a qui je suis estroitement obligé, tout ce que je puis en reconnoissance de tant de bienfaits est de vous asseurer Monsieur que le Pere la Mere et la fille ne laisseront echapper aucun occasion de vous faire paroistre combien ils sont a Vous.</p>
+<p>Les Exemplaires de l'Extraordinaire du dernier combat naval sont rares, d'autant qu'ils ont esté la plus part interceptez, j'en ay tiré au plus viste une Copie que je vous envoije, excusez la mauvaise escriture, on ne m'a donné qu'un quart d'heure du temps, je vous prie de me la renvoijer cachetée quand vous n'en aurez plus besoin. je suis plus que personne...</p>
+</div>
+</body>
+</text>
+</TEI>

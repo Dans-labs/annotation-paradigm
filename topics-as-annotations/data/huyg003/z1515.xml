@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1515"/>
+<meta type="date" value="1666-01-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1515">
+<div type="opener">
+<p><persName key="chap002">Chapelain</persName>.</p>
+<p>21 Janvier 1666.</p>
+</div>
+<p>Pour scavoir ce qui adviendra de l'affaire de ma vocation<note n="#1"/>. de l'observation de Cassini<note n="#2"/>, et que je travaille aux longues lunettes<note n="#3"/> et espere de luy mander bientost des nouuelles du bon succes.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0001c"/>
+<meta type="date" value="1639-07-11"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="c0001">
+<div type="opener">
+<p>Per-illustri Domino Domino <persName key="huyg001">Constantino Hugenio</persName>, Domino meo clementissimo S.P.D.</p>
+</div>
+<p>Sententiam Domini <persName>Herlersiegij</persName><note n="#1"/>, doctissimi undequaque viri, et, quod hic palmarium, in erudiendâ juventute dexterrimi, exercitatissimi, aperirem, Nobilissime Domine; nisi et ab utroque filio, et eo ipso, luculenter scirem praestitum, adeò ut non semel actum agere jure viderer. Judicium suum cum primis judiciosum, quam cumulatè cum hîc, tum saepè alias probârit, dicerem sanè, si aut ego digne scirem dicere, aut tu Amplissime Domine nescire posses, et ille frivolas depraedicationes meas non infinite superâsset. Nisi operam, ut cum ratione insanirem, darem, si calculum hic auderem interponere, aut vel niger ullius momenti, vel niveus pretij esset, unum tacere nequirem, rationi ejus <hi rend="i">omnimodis me subscribere</hi>. restat ut et Nobilitati Vestrae placitum suum placeat indicare: cujus jam vocem, id est leges, avidissime nobilissimi filioli, ego et avidissimè, et humillimè, expectamus. Interim quod jusseras et res monet ipsa, fit sedulò. repetimus Sleidanum. Prosodiae nuper supremum vale diximus, quod expeditos satis in recitandis regalis, ac usu caetera jugique
+exercitatione comparanda, cum omni, nî fallor, republicâ litterariâ, existumarem. Constantinus quidem, nunquam sine stupore nominandus, acutum heri, atque adeò, penè dixerim ex tempore, in Alexandri magni mortem, distichon composuit, quod sic habet.</p>
+<lg type="poem">
+<l>Hic jacet ille ingens (hospes consiste) Monarcha,</l>
+<l rend="; 1tab">Exceptis fatis singula qui domuit.</l>
+</lg>
+<p>Ait plura se additurum, atque ubi perfecerit, Nobilitati Vestrae missurum. Etiam ego tum subito furore, sed furore, incitatus, nonnulla in eundem conscribillavi, verum nec oculis tuis digna, nec auribus, sed Vulcano confestim mandanda. Rhetoricam jam semel levi brachio percurrimus, curâ secundâ accuratiore curiosius curandam, cujus usum, cum exemplis varijs, tum lectione poëtarum, ac oratorum, largius percipiemus. In Musicis adeò proficiunt strenuè, ut jam omnibus admirationi sint. Neutri hîc nunc plus adscribitur, pares sunt ingenio, pares studio, pares laudibus, par, et duplex gloria maximi parentis; Animus meus suspensus, saucius utriusque amore, utrumque inter, et utriusque amorem, versatur dubius, negatque scire, uter sit prior altero duorum, cum par, nec prior altero sit alter, nec par, aut prior, altero sit usquam. Ludovicus themata Latinius scribet solito, in Adelphis procedit non oscitanter; proficit sic satis feliciter. Philippus srigidè, sed quid? puerulus est, olim caeteris nihil concedet. Disputatio mea (quam quod non abnueris Vestrae Nobilitati habeo gratiam) differenda est: quippe ob occupationum segetem, simul quia Sijnodus Lugduni Batavorum habetur<note n="#2"/>, (in quâ et ipse suas obit partes) negat se vacare mihi posse Dominus <persName>Regens</persName><note n="#3"/> Praeses meus<note n="#4"/>, ante ferias Caniculares. Vale Amplissime virorum, Domine aeternum observande, submisse veneratus</p>
+<div type="closer">
+<p>Ab Amplitudinis tuae cliente devotissimo
+<lb/><persName key="brun004">Henrico Brunone</persName>.</p>
+<p><placeName key="denha004">Hagae</placeName> <date>V Idvs Ivlias CIƆIƆCXXXIX</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Per-illustri viro <persName key="huyg001">Constantino Hugenio</persName>, Equiti, Zulichemi Domino, celsissimo Auriaco principi a consilijs et secretis.<note n="#5"/></p>
+</div>
+</body>
+</text>
+</TEI>

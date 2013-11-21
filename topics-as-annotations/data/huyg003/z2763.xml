@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2763"/>
+<meta type="date" value="1691-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2762"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2763">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill69.gif"></graphic></figure></p>
+<p>AC=<hi rend="i">x</hi>; CB=<hi rend="i">y</hi>; CD=<hi rend="i">z</hi>; BH=<hi rend="i">ϰ</hi>; HK=<hi rend="i">λ</hi>. AB est curva. AC recta; ad quam ordinatim applicata BC ad ang. rectos. BD est tangens in B, occurrens CA productae in D. Si compleatur ▭ BCDE erit punctum E ad curvam quandam AE, quae facit spatium BAE, aequale spatio BAC. Quod magni usus est.</p>
+<p><table>
+<row>
+<cell>BH:HK=DC:CB</cell></row>
+<row>
+<cell><hi rend="i">ϰ</hi>:<hi rend="i">λ</hi>=<hi rend="i">z</hi>:<hi rend="i">y</hi></cell></row>
+<row>
+<cell><hi rend="i">ϰ</hi>/<hi rend="i">z</hi>=<hi rend="i">λ</hi>/<hi rend="i">y</hi></cell></row>
+<row>
+<cell><hi rend="i">xy</hi>=<hi rend="i">λz</hi>.</cell></row>
+</table></p>
+<p>Spat. HC=spat. BE<note n="#3"/>; unde et summae aequales, hoc est spat. KAF=spat. KAM; vel etiam BAE=BAC.</p>
+<p>Hinc quadratura parabolae. Nam quia ibi est CD seu <hi rend="i">z</hi>=2<hi rend="i">x</hi>, fit AD=<hi rend="i">x</hi>; estque DE=<hi rend="i">y</hi>. Itaque AE est parabola eadem ac AB, cumque spat. AEB sit=ABC vel AED, erit ergo ABC=⅓ ▭ CE seu ⅔ ▭<hi rend="sup">i</hi> CO ipsius CE dimidii.</p>
+<p>[Spatium BAE circa axem DC facit duplum solidum ejus quod ex spat. ABC circa eundem axem, quia centr. gr. spatii FB duplo amplius distat ab AC, quam centr. gr. spat. HC]<note n="#4"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#5"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill70.gif"></graphic></figure></p>
+<p>Hinc et dimensionem curvae, ex qua pendet constructio lineae Catenariae, reducere poteram ad quadraturam hyperbolae.</p>
+<p>Sit enim AC<note n="#6"/> hyperbola aequilatera, cujus centrum D, axis DC applicata BC, tangens BE; et compleatur ▭ EAHF. Jam erit F punctum ad curvam quandam AF, quae facit spatium FAB=spatio hyperb<hi rend="sup">o</hi> ABC, unde spatium AFGD dabitur si à ▭<hi rend="sup">o</hi> CG auferatur duplum spatii hyperbolici ABC. Est autem curva AF ea ipsa cujus dimensione opus erat ad constructionem Catenariae, quandoquidem ducta AH parallela CB, proportionales sunt BG, HG, FG; propter proprietatem tangentis hyperbolae EB, quae invenitur faciendo proportionales DC, DA, DE. Curvam autem nostram ita construxeram, sumtis ubique proportionalibus BG, HG, FG vid. lib. G, pag. 20<note n="#7"/>.</p>
+<p>Patet<note n="#8"/> ex jam dictis, ductâ recta DB, triangulum DCB ablato spatio hyp<hi rend="sup">o</hi>. ABC relinquere spatium DBA aequale dimidio spatii AFGD; est autem sp. DBA sector hyperb,<hi rend="sup">s</hi> aequalis spatio ABLK, ductis BL, AK ad asumptoton DL perpend<hi rend="sup">bus</hi>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

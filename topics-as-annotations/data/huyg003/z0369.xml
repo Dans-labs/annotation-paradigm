@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0369"/>
+<meta type="date" value="1657-01-28"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0369">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.P.</p>
+</div>
+<p>Responsum<note n="#1"/> ad Milonij litteras<note n="#2"/> ecce tibi, Vir Clarissime, sisto, quò videas utrum haec quae ipsi mittere destinavi rectè se habeant: quandoquidem in locum eorum, quae à nobis suppleri efflagitavit (ut desiderio ejus satisfacere operam darem) mittere visum fuit. Quibus à Te examinatis, rogo supplex ut simul omnia per bibliopolam aliquem, Vlacquium puta, aliumve tibi notissimum aut etiam mercatorem Hagiensem, ad ipsum amandari curare velis. Maximas enim ut tibi in illis recipiendis gratias habeo, sic infinitas reddes si operam hanc deflectere haud graveris. Porrò pro epistola, quam Nobilissima tua Cognata à fratre suo acceperat, tuque etiam mittendi eam nobis copiam feceras uxor summas item utrique vestrum grates agit, quam epistolam ubi cum sigillo Domino <persName>Dragonio</persName><note n="#3"/>, postquam Leidam venerit, ostendit, remittere pollicita est. Remitto autem Milonij litteras quò tibi omnino constet quid à nobis fieri postulat, ut si ipsi super hac re rescribere non molestè feras, tu rem ab ipso et tibi et mihi delatam fuisse ex ijs intelligas.</p>
+<p>Caeterum gaudeo plurimum Horologij novam fabricam à te inventam, teque indies in novis excogitandis ingentes progressus facere, jucundissimâque frui quotidie speculatione, quod utinam et si mihi absque multa interpellatione liceret, felicem me hercle haud illibenter depraedicarem. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>28 Januarij 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, gelogeert ten huijse van de Heer <persName key="huyg001">van Zuijlechem</persName>. in S'Graven-hage op t' pleijn.
+<lb/>Cito
+<lb/>Cito
+<lb/>port met een packjen.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0247"/>
+<meta type="date" value="1655-11-12"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="wrocl901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0247">
+<div type="opener">
+<p>Perillustri, Nobilissimo, Praestantissimoque Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="kinn013">Godefridus Aloysius Kinner</persName> S.P.D.</p>
+</div>
+<p>Si è literarum frequentià metri soles amicitias, pridem apud te causâ cecidi, Hugeni Nobilissime, quem non indiligentiae tantum, sed deserti propemodum officij reum agere potes. Verum non ages, opinor, mecum iure tam stricto, qui nimis quàm bene novisti, non esse semper in potestate nostra officiosos nos esse, sed avocari ad alia quandoque vel invitos. Literae tuae posteriores multum mihi voluptatis attulerunt Tuo atque Mathematicae nomine. Tuo quidem, quòd perspicillorum quoad perfectionem augmento, magnum tuae gloriae incrementum adiecisti: Mathematicae verò, quòd Lynciae iam antè novum oculum addidisti. Macte hâc tuâ felicitate dicam an industriâ? an utraque? non enim minus hîc, quam in agricultu Labori et Eventui puto litandum. Tametsi enim in hac arte praeceptorum sibi demonstratio constet, in effectu nihilominus exhibere rem ipsam, hoc opus, hîc labor est, qui ut non imperitè quidam, vix ab humana sed angelica manu expectari pro rei dignitate potest. Vt proinde multum ab illo Fortunae deberi existimem, si cui subtiles praeceptionum apices materiei tot casibus et imperfectionibus obnoxiae licuerit applicare. Quo nomine tibi tuaeque felicitati multum gratulor, Praestantissime Hugeni, qui, ut opinor, acutissimas Cartesij de conicarum sectionum perspicillis inventiones (neque enim existimo machinationem tuam intra communium tuborum metas consistere) quae desperatâ fere praxi solius ingenij nomine nobis hucusque probabantur, plus ultra et extra speculationum terminos ad usum deduxisti. Multum autem tibi debebo, si quamprimum exposueris characteres illos tuos transpositos, quibus mysterium novum coelitus deprehensum involvisti, simulque apertius tubi tui constructionem edocueris. Neque vereri te oportet Plagiatum â me; ut enim tubi optici primitus inventi gloriam Bataviae vestrae libens concedo, ita neque eidem invideo novi honoris accessionem, cui
+utique in solo, quod iam diu occuptionis<note n="#1"/> iure suum fecit, inaedificare quidvis liberum licitumque est. Salutem ad te habeo officiosissimam ab insigni Mathematico Patre Balthassare Conrado Professore olim meo, quem his diebus Wratislaviae conveni, coëgique in laudes tuas exhibito eidem opusculo tuo de circuli magnitudine, qui eidem, summopere probatur. Non moror nunc Pragae, sed in Silesia, unde literas quas ad me dederis Glacium in Boëmia dirigere potes, quas inde opportunè repetam, sicut et aliàs soleo undecunque ad me venientes. Vale, mî Hugeni, et scriptionis indiligentiam per amoris incorrupti (qui semper apud me viget) perennitatem benignus excusa.</p>
+<div type="closer">
+<p><placeName key="wrocl901">Wratislaviae</placeName> <date>12 Novembris 1655</date>.</p>
+</div>
+<p>PS. Si Chymiâ delectaris, insinua, miscebimusque deinceps etiam de nobili illa scientia sermonem.</p>
+</div>
+<div type="para">
+<p>Perillustri Generosissimo, Nobilissimoque Domino <persName key="huyg003">Christiano Hugenio</persName>, Domino atque amico mihi semper Colendissimo observandissimoque.
+<lb/>Per Francofurtum ad Moenum. 4.
+<lb/><placeName key="denha004">Hagae Comitis</placeName>. 's Graven Haagen.</p>
+</div>
+</body>
+</text>
+</TEI>

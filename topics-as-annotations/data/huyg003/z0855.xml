@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0855"/>
+<meta type="date" value="1661-04-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0855">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce <date>12 Avril 1661</date>.</p>
+</div>
+<p>Je vous prie de monter a ma chambre dont j'ay donnè la clef en garde a ma Cousine<note n="#1"/>. Vous trouverez là dans la boete qui enferme la machine de Monsieur <persName>Pascal</persName> qui est sur ma table, la clef du plus grand de mes 2 cabinets. l'ayant ouvert il faut encore l'ouvrir par dessus ou j'ay mis mes verres de la grande lunette, lesquels vous prendrez la peine s'il vous plait d'empacqueter dans une boete un peu forte avec du cotton ou chose semblable, et ayant fait la superscription a Monsieur <persName>van Hulst</persName><note n="#2"/> Secretaire de nos Ambassadeurs vous envoyerez cette boete par la
+poste si quelqu'autre occasion ne se presente. l'on m'a dit que la femme<note n="#3"/> de Monsieur <persName>van Hoorn</persName><note n="#4"/> l'un des Ambassadeurs<note n="#5"/> devoit venir bientost, mais elle sera peut estre desia partie. Je ne fais pas volontiers cecy de hazarder ainsi mon bon verre, mais apres que je me suis vantè qu'il estoit meilleur et de plus grand effect que ceux de 35 pieds que l'on m'a fait veoir icy, l'on ne me laisse pas en repos, et je ne seray pas creu a moins que l'on ne les aye comparè ensembles. Ne manquez donc pas pour quoy que ce soit, de me l'envoyer. J'espere que mon Pere aura receu ma derniere<note n="#6"/> du 8 de ce mois et je m'estonne de ce que je n'ay pas receu de response a celle<note n="#7"/> que j'escrivis de Calais, car ce dernier ordinaire ne m'a rien apportè. Je luy aurois escrit a cet heure, mais il faut que j'aille encore trouuer le Marquis de Montjeu<note n="#8"/> pour ajuster ensemble nostre voyage que nous avons resolu de faire demain vers Oxfort<note n="#9"/>, et il est desia tard. Je laisse icy cette lettre pour l'ordinaire de vendredy, ne devant estre de retour que dimanche ou samedy au soir au plus tost. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName>, chez Monsieur <persName key="huyg001">de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0181"/>
+<meta type="date" value="1654-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0181">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+<p><date>Mart. 1654</date>.</p>
+</div>
+<p>Saepe me literis tuis interpellari velim mi Schoteni neque ulla unquam minus excusatione opus habuisti quam ista, nuper cum partem literarum Domini
+Lipstorpij mihi descriptam misisti. Gaudeo equidem quod Juveni optimo meique studiosissimo omnia pro votis eveniunt, idque literis istis testari volui quas tuis inserturum te promisisti. De studijs Geometricis aliqua addidi, deque novissimo invento nostro ad Circuli dimensionem. Quae ut tu quoque si libeat cujus nimirum ope cognoscere possis, ideo apertam tibi epistolam mittere visum fuit. comprobare<note n="#1"/> quibus rationem diametri ad peripheriam inclusit. Ex trigintangulo autem et 60 angulo inscriptis, quod minor est diametri ad circumferentiam ratio quam 10000000000 ad 31415926533 major autem quam 31415926537; quibus inveniendis polygona fere 400000 laterum adhibere necesse habuit Vieta, et Ludolphus<note n="#2"/> Archimedeam methodum sequuti.</p>
+</div>
+</body>
+</text>
+</TEI>

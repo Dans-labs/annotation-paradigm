@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1474"/>
+<meta type="date" value="1665-10-04"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1474">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 4 octobre 1665.</p>
+<p>Monsieur,</p>
+</div>
+<p>Vostre lettre m'a esté enuoyée a la campagne ou J'ay faict vn sejour plus long que je ne m'estois proposé. Je donné charge a mon secretaire d'enuoyer l'argent que vous auez payé de la Pendule Et jay esté faché de ce que les asseurances qu'on luy auoit donnees que vous estiez en chemin l'ont empesché de satisfaire a ce deuoir. Depuis mon retour ayant faict prier Monsieur van Beunighen<note n="#1"/> de trouuer bon que cet argent fut donné a son secretaire pour vous le faire rendre Jl ma confirmé les asseurences de vostre voyage<note n="#2"/> Et ne ma pas conseille de rien enuoyer qu'il neust eu de vos nouuelles que jattendray par le prochain ordinaire, apres lequel je ne manqueray pas de prendre une lettre de change si j'apprends que vous ne soyez point encore parti. Mesme Je pourray l'adresser a l'ouurier<note n="#3"/> si vous estez partj. Cependant Jescris cette lettre au hazard pour vous rendre compte de ce retardement qui est contre ma volonté et qui ne sera pas long.</p>
+<p>Je souhaite que Monsieur de Zulichem soit arriue chez luy en parfaite santé apres voyage assez long<note n="#4"/> et qui n'a pas deu luy estre desagreable puis quil a trouué beaucoup d'honnestes gens qui ont este rauis de le veoir. Et qui ont cognue [?] et estimé son merite. Le Pere Bertet<note n="#5"/> est cause de ce que jacheté la Lunette de Monsieur de Monconys<note n="#6"/>. Car M'ayant aduerti de sa Mort<note n="#7"/> et de la vente de son Cabinet Je luy escriuis que Monsieur de Zulichem<note n="#8"/> m'auoit parlé de cette lunette comme dvne piece excellente, Et que sil estoit encore a Orenge quil luy en donnast l'auis. Jl me respondit qu'il estoit alle a Geneue et que dela jl iroit
+plus loing et que cependant le fils de Monsieur de Monconys vendoit les Pieces de son Cabinet et que si je ne lachetois elle pourroit estre vendüe a d'autres. Je luy donné charge de l'acheter Et me layant enuoyée Je la fis espreuuer par Monsieur Auzout qui ne la trouua pas bonne et apres l'auoir comparée auec vne autre de Mainard<note n="#9"/>, Jl la jugea moindre. depuis Je la donné a vn gentilhomme de mes amis qui est gouuerneur en Picardie<note n="#10"/> auquel j'ay escrit de me la renvoyer pour mander que je luy ay promise sur ce que le pere Bertet m'a faict sauoir que Monsieur de Zulichem la souhaitoit auquel je la renueray [?] si je la resois [?] du gentilhomme. Mais jay quelque opinion que ce ne soit pas cette excellente Lunette que Monsieur de Zulichem auoit veüe<note n="#11"/> chez Monsieur de Montconis et que le fils n'estant pas cognoissant jl y aura eu quelque changement, dont le Pere Bertet n'a point esté auerti. Je vous prie Monsieur de vouloir asseurer Monsieur de Zulichem de mes tres humbles seruices et d'estre persuadé que je suis auec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="monm010">de Montmor</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichen</persName> chez Monsieur <persName key="huyg001">de Zulichen</persName>. a La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

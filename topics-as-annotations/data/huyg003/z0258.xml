@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0258"/>
+<meta type="date" value="1656-02-04"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0258">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce <date>4e feurier 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Si j'auois en effect autant contribuè a vostre diuertissement pendant que vous estiez a paris, comme vous me le faites paroistre<note n="#1"/>, Je souffrirois plus patiemment toutes vos ciuilitez, mais J'ay peur de ne m'estre pas bien acquitté de ce que Je deuois a vostre merite et a l'amitié que vous me faisiez l'honneur de me temoigner. Il est vray que J'esperois repasser et estudier auec vous ces belles sciences ou vous excellez. Je croyois auoir assez de temps cet hyuer pour les voir ensemblez et comparer vos belles Inventions auec celles de nos Geometres, mais vostre retour precipité a coupé ces desseins, Je ne vous ay fait voir que peu de chose a la haste, &amp; en ce peu de temps Je n'ay pas laissé de profiter de vos belles propositions et de vostre Liure, c'est donc a moy a m'excuser et a vous en remercier; Je reçois a grande faueur l'offre que vous me faitez a present, J'en ay fait feste a tous nos messieurs pour les engager au trauail, mais Je n'en espere pas ce que je souhaite, Je crains fort qu'ils ne fournissent ne pas Assez pour entretenir nostre commerce, en ce cas vous me permettrez bien de visiter mes registres et d'y auoir recours [?] pour vous enuoyer des propositions de dix ou douze ans que vous n'ayez pas encor veues, mais J'attends beaucoup de vous et de monsieur <persName key="scho197">de Schooten</persName>. Je vous supplie de luy faire tenir la Lettre enclose a luy faire part de l'obseruation de Monsieur Bouillaut<note n="#2"/> qui vous baise les mains. La belle scauante<note n="#3"/> vous remercie, elle m'a dit auoir leu vostre Liure auec grande satisfaction, Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeïssant seruiteur
+<lb/><persName key="mylo002">Mylon</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chr. Hugens de Zulichom</persName>
+<lb/>A la haye en hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

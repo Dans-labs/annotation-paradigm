@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2086"/>
+<meta type="date" value="1676-02-17"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2086">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 7. février 1676.</p>
+<p>Monsieur,</p>
+</div>
+<p>Ces lignes ne sont pas pour vous importuner, vostre indisposition me le defendant absolument, mais pour vous assurer, que tous vos amis icy, entre lesquels Monsieur Boyle et moy ne sommes pas des derniers, en sont tres-sensibles, et souhaitent vostre reconvalescence auec beaucoup d'affection. Ayant entendu quelque chose de la qualité de vostre mal, et en parlé à M. Boyle, il m'a desiré de vous saluër de sa part, et de vous persuader de prendre au temps de vostre coucher bonum haustum <hi rend="i">jusculi tenuis pulli gallinacei</hi>, pour vous faire dormir agreablement;
+la dite liqueur humectant les visceres et particulierement le foye, et envoiant des vapeurs benignes au cerveau pour causer du sommeil. Ou, si vous voulez, de prendre une bonne dose d' <hi rend="i">Aqua simplex paralyseos</hi>, (comme on l'appelle) au temps de dormir: Et il ne doubte pas, que vous n'en trouuiez du soulagement, et du repos. Il adjouste, que luy mesme ayant esté quelque fois travaillé de ces insomnies, il se fit porter souvent lorsqu'il faisoit beau temps, dans son carosse, oú par vne agitation moderée il se prit à dormir fort doucement par vne heure ou deux; ce qui le refraischit grandement. Monsieur, C'est l'interest que nous auons dans vostre santé, qui nous donne cete liberté de vous proposer ces choses, qui quoyqu'elles semblent petites, pourront contribuer à vostre repos, qui, à ce que nous venons d'entendre, vous manque fort. Dieu vueille benir tous les remedes, dont vous vous servez, à fin que le monde puisse jouir encor longtemps des fruits de vostre esprit. C'est le voeu sincere de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0666"/>
+<meta type="date" value="1659-09"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0666">
+<p>Dans vn entretien que j'eus le 4 Septembre 1659 auec Monsieur <persName key="robe012">de Roberual</persName> sur son Dessein dhorloge dont j'ay enuoyé la copie<note n="#1"/> a Monsieur Hugens j'ay reconnu que</p>
+<p>Le gros balancier qui est mis sur le faiste de l'horloge a chaque vibration qu'il
+fait, fait passer vne dent de la rouë la plus proche de luy et quainsi c'est le balancier qui fait aller lhorloge et non pas le contrepoids quoy que le contrepoids y contribue par sa pesanteur.</p>
+<p>Que si la vibration nestoit entretenue lhorloge n'iroit point quoy que le poids tirast, lequel en tirant aux autres horloges est le moteur et la cause du mouuement du balancier.</p>
+<p>Que la vibration s'entretient par elle mesme jusques a vn certain nombre de reciprocations contees, passe lesquelles saffoiblissant elles ne feroient plus passer la dent si elles n'estoient renouuellees par vne detente, laquelle au dernier esbranslement de ce certain nombre de vibrations doit faire son effet de renouueller la vibration en sa premiere force, ce qui se fera en faisant tomber vn des poids dispose pour cela dans la Machine ou a ses costés par le moyen de cette detente, laquelle je m'imagine qui s'execute par quelque languette auancée en vne des dents de la roue la plus proche du balancier, la quelle rouë n'a quautant de dents qu'il en faut pour reuenir juste au nombre des vibrations vtiles pour faire passer chaque dent, et quainsi a chaque retour de cette languette le renouuellement se feroit de la vibration asses forte, et ce qui me le fait imaginer ainsi cest que Monsieur <persName key="robe012">de Roberual</persName> me dit qua chaque renouuellement de vibrations deuoit tomber sans retour vn de ces poids qui le causeroient, et que quand on monteroit lhorloge il y faudroit mettre autant de ces poids quil en faudroit pour la faire aller vingtquatre heures par exemple plus ou moins selon qu'on voudroit.</p>
+<p>Il ne mexpliqua point comment cette detente feroit tomber ces poids pour le branslement du balancier. Il me dit seulement que cestoit le moins difficile et que cela se pouuoit faire en cent manieres par les intelligens en mechanique comme Monsieur Hugens.</p>
+</div>
+</body>
+</text>
+</TEI>

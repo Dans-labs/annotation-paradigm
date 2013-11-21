@@ -1,0 +1,17 @@
+book_name_t
+boolean
+clause_constituent_relation_t
+clause_type_t
+determination_t
+gender_t
+number_t
+person_t
+phrase_function_t
+phrase_relation_t
+phrase_type_t
+psp_t
+state_t
+subphrase_kind_t
+subphrase_type_t
+verbal_stem_t
+verbal_tense_t

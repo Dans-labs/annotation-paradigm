@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXVII"/>
+<meta type="date" value="1679"/>
+<meta type="sender" value="cham016"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXVII">
+<div type="opener">
+<p>ce mardy</p>
+</div>
+<p>Joublie hier Monsieur de vous laisser les imprimés que je vous auois promis, Jy ay remarqué quelque annotations de celuy qui me la presté, mais Je m'assure quil na pas sy bien observé les remarques qu'on y peut faire, comme je croy que vous le ferez.</p>
+<p>M<hi rend="sup">r</hi>. Poulydori avoit apresent une pierre d'ayman qui est admirable parceque Jay conseillé Monsieur <persName>Catillon</persName> qui est arriué d'Espagne, et qui la aportée de la luy faire armer, Je ne croy pas quelle pese demi Liure et sij ie ni suis trompé elle en leuera bien 12. Il en a aussy quelques petites qui me semblent for bonnes, quil luy doit faire armer c'est Monsieur votre tres obeissant seruiteur</p>
+<div type="closer">
+<p><persName key="cham016">Chamard</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

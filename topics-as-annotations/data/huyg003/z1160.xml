@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1160"/>
+<meta type="date" value="1663-10-31"/>
+<meta type="sender" value="vlie013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1160">
+<div type="opener">
+<p>Illustri Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="vlie013">Janus Vlitius</persName> S.P.</p>
+</div>
+<p>Humanitas semper tua tanta erga me, et novissime iterum fuit, ut verbis eam velle redhostiri, prima ingrati nota fuerit. Res meae Principi Dominae<note n="#1"/> satis placere mihi videntur, ex eo quod Bellimontium<note n="#2"/> Senatorem nuper hic studia mea et consuetudinum editionem<note n="#3"/> criminantem, satis acriter refellerit; et data passim occasione diligentiam meam approbaverit, teste praesenti Rompfio<note n="#4"/> ejus Archiatro. Sed interim pendent opera, interrupta, minaeque unius atque alterius malevoli <hi rend="i">ϰαὶ ἀμούσων</hi> obstant. Gothica et Anglosaxonica Euangelia<note n="#5"/> propemodum typis absoluta sunt, secuturo ea Glossario Gothico, cui strenuam operam navat gnarissimus istarum Linguarum optimusque Senex Junius<note n="#6"/>. Ejus Nepos Vossius<note n="#7"/> pro <hi rend="sc">lxx</hi> suis ultimum depugnat certamen<note n="#8"/>, quo obtrectatores<note n="#9"/> omnes, ceu una
+fidelia, depingere, et conficere sperat. Quod, cum hominum istorum loquacitatem et irrequietos spiritus considero, vereor ut illi succedat. Principes crastino mane hinc Geertrudenbergam, navibusque inde Hagam proficiscentur. Princeps Avia<note n="#10"/> totam pene aestatem et hic et Turnhalti [cujus aeque ac Salehemij<note n="#11"/>, quod nunc ad Amplissimum Fratrem tuum pertinet talis in Lege Salica mentio fit] male se habuit, adeo ut paucissimis contigerit eam accedere; quod et mihi saepius tentanti denegatum. Burstedij Burstediaeque<note n="#12"/> Illustrem Parentem tuum teque mecum plurimum salutant. Vale Astrorum Coelique decus, et, ut facis, amare me perge. Dabam Bredae e Senaculo nostro, quod Hausmanni<note n="#13"/> defuncti loco, caeteris manentibus, Zuerius<note n="#14"/> tuus meusque affinis adauxit. Pridie Kal. Novembres <hi rend="sc">cIƆIƆclxiii</hi>.</p>
+<p>Optimae indolis Juvenem, Bouartij Chirurgi<note n="#15"/> filium qui, ut operam Anatomico studio navet, Parisios abit, et hasce tibi tradet, quoad usus illi fuerit, commendatum tibi volo; et ut mei memineris, si forte in Dictionarium Aremoricum<note n="#16"/>, aut id genus alios libros incideris. Impressum illud in 4<hi rend="sup">to</hi> circa anno 1566 Parisijs, nisi fallor.</p>
+<p>Iterum atque iterum vale.</p>
+</div>
+<div type="para">
+<p>Monsieur
+<lb/>Monsieur <persName key="huyg003">Chrestien de Zulichem</persName>
+<lb/>a Paris.
+<lb/>par amis.</p>
+</div>
+</body>
+</text>
+</TEI>

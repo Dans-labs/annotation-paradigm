@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XVII"/>
+<meta type="date" value="1644-07-29"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XVII">
+<div type="opener">
+<p>Perillustris domine</p>
+</div>
+<p>Luciano absoluto in Homeri lectione jam sumus. Philosophiam quoque moralem vidimus ex Burgersdicio<note n="#1"/>: ea, ut et Logica, disputationibus tantùm deinceps videtur exercenda. Sed in Physicis quid fiet? quid sequemur? Philosophiamne hodie in Academijs receptam et Aristotelem, et Aristotelicos? an illum qui novatorem fecit Aristotelem, et cujus Physica jam diu sub praelo est? Inter Aristotelicos Wendelinus<note n="#2"/>, qui Physicam edidit, multum commendatur Burgersdicij disputationes naturales quas Collegium Physicum inscripsit, elegantes sunt et accuratae<note n="#3"/>. multa vidit ille vir quae alios fugêre...Quod ad rem Historicam, Ludovicus egoque Caesari summam manum imposuimus; novus est successor habendus. An Florus? An Curtius? An Livius?...</p>
+<div type="closer">
+<p>Scribebam raptissime, urgente tabellario, Hagae IV. Cal. Aug. MDCXLIV.</p>
+<p>Perillustris domine tuus omni obedientia servus
+<lb/><persName key="brun004">Henricus Bruno</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

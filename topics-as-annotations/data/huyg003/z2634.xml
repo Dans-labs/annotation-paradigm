@@ -1,0 +1,58 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2634"/>
+<meta type="date" value="1690-11"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="leib013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2633"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2634">
+<div type="section">
+<head rend="h4">§ I.</head>
+<p><figure><graphic url="huyg003oeuv09ill106.gif"></graphic></figure></p>
+<p>AKH hyperbola aequilatera, centro B, semi axe BA. BE perp. AB. ut et AS. HE parall. AB. Proportionales sunt HE, SE, RE. Item KC, DC, LC, et ita ubique. et curva ALR<note n="#2"/>. [Jam si sit in fig. pag. 14<hi rend="sup"><hi rend="i">a</hi></hi>, ut WX ad XS, ita hic BE ad BA. Erit ibi longitudo catenae VSPA ad rectam AZ, sicut hic ▭ BS ad spatium ALREB]<note n="#3"/>.</p>
+<p>Triangulum minimum FA est ad ▭ minimum ER in ratione composita ex Δ<hi rend="sup">o</hi> FA ad Δ<hi rend="sup">o</hi> EA et ex Δ<hi rend="sup">o</hi> EA ad ▭ ER. Hoc est in rat. compos. ex rat. qu. AF, ad qu. AE et rat<hi rend="sup">e</hi> SE ad 2RE. Est autem RE=FG sinui compl.<hi rend="sup">i</hi> anguli EAB, quia HE = AE et quia prop.<hi rend="sup">les</hi> HE, SE, RE ut et AE, ES, FG.</p>
+<p>Dicatur AF, <hi rend="i">r</hi>. AE, <hi rend="i">s</hi>; FG seu RE, <hi rend="i">c</hi>. Ergo ratio triang.<hi rend="sup">i</hi> seu sectoris minimi</p>
+<p><table>
+<row>
+<cell>AF ad ▭ ER componitur</cell>
+<cell>ex <hi rend="i">rr</hi> ad <hi rend="i">ss</hi></cell></row>
+<row>
+<cell></cell>
+<cell>et <hi rend="i">r</hi> ad 2<hi rend="i">c</hi></cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell>ergo quam</cell>
+<cell><hi rend="i">rrr</hi> ad 2<hi rend="i">css</hi></cell></row>
+<row>
+<cell>seu, quia <hi rend="i">r</hi> ad <hi rend="i">s</hi> ut <hi rend="i">c</hi> ad <hi rend="i">r</hi> quam</cell>
+<cell><hi rend="i">crr</hi> ad 2<hi rend="i">csr</hi></cell></row>
+<row>
+<cell>seu quam</cell>
+<cell><hi rend="i">r</hi> ad 2<hi rend="i">s</hi></cell></row>
+</table></p>
+<p>adeoque sector totus FAB ad spatium ERLABE sicut radius multiplex per numerum integrorum omnium graduum arcu FB contentorum ad duplam summam omnium secantium graduum integrorum usque ad secantem AE inclusive<note n="#4"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II.</head>
+<p>BVZ est hyperb. aequilatera centr. A vertice B.</p>
+<p>AD et BC perpend. AB.</p>
+<p><figure><graphic url="huyg003oeuv09ill107.gif"></graphic></figure></p>
+<p>VN, RN, QN proportionales, et sic ubique. Curva est BQ<hi rend="i">θ</hi><note n="#5"/> per puncta sic inventa.</p>
+<p>BD quadrans peripheriae centro A. Eam secat RA in E. ET perp. AB.</p>
+<p>Jam est AT = NQ et TEQ recta linea<note n="#6"/>.</p>
+<p>Ostensum est pag. 17<hi rend="sup">a</hi> in fine<note n="#7"/>, sectorem ABE esse ad spatium ABQN sicut radii omnes sectoris ABE, arcum BE in particulas aequales dividentes, ad duplam summam omnium secantium, arcubus aequaliter per istas particulas crescentibus convenientium.</p>
+<p>Sicut autem secans earum quaevis dupla ut LA (posita nempe AK = 2AB et KL perp.<hi rend="sup">i</hi> ÀK) ad radium EA, ita triangulum minimum MAX (sumpta MA media prop.<hi rend="sup">i</hi> inter LA, EA, vel inter GA, RA; quia GA dupla EA, et RA dimidia LA) ad triangulum minimum EA<hi rend="i">δ</hi>, seu sectorem minimum. Ideoque si totus sector BAE ita in sectores minimos aequales divisus intelligatur et simul eorum radiis continuatis spatium AHM in triangulos minimos. Erit omnes isti sectores minimi ad omnia haec triangula minima, hoc est totus sector ABE ad spatium AHM, ut omnes radii sectorem ABE dividentes ad omnes duplas secantes ipsis convenientes, hoc est ut sector idem ABE ad spatium ABQN. Ideoque spatio huic aequale erit spatium AHM. Fit vero et spatium BTQ aequale spatio HPM, quia triang. APM = rectang.<hi rend="sup">o</hi> TN, ut facile demonstratur.</p>
+<p>Si AP sit <hi rend="i">x</hi>:PM = <hi rend="i">y</hi>. AB = <hi rend="i">a</hi>, fit 4<hi rend="i">a</hi><hi rend="sup">4</hi> - <hi rend="i">x</hi><hi rend="sup">4</hi> = <hi rend="i">xxyy</hi><note n="#8"/> aequatio curvae HM. Si AN sit <hi rend="i">x</hi>:NQ = <hi rend="i">y</hi>, fit <hi rend="i">a</hi><hi rend="sup">4</hi> - <hi rend="i">aayy</hi> = <hi rend="i">xxyy</hi>, aequatio curvae BQ<hi rend="i">θ</hi>, quarum quadratura unius a quadratura alterius pendet. AH med. prop. AK, AB. AP, AH, AM semper sunt proportionales. quia 4<hi rend="i">a</hi><hi rend="sup">4</hi> = <hi rend="i">xxyy</hi> + <hi rend="i">x</hi><hi rend="sup">4</hi>, unde <hi rend="i">xx</hi> + <hi rend="i">yy</hi> ad 2<hi rend="i">aa</hi> ut 2<hi rend="i">aa</hi> ad <hi rend="i">xx</hi>, et √<hi rend="i">xx</hi> + <hi rend="i">yy</hi>∶√2<hi rend="i">aa</hi> ut √2<hi rend="i">aa</hi>∶<hi rend="i">x</hi>, hoc est MA ad HA ut haec ad AP.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

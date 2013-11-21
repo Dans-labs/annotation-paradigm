@@ -1,0 +1,150 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1684"/>
+<meta type="date" value="1668"/>
+<meta type="sender" value="greg020"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1684">
+<div type="section">
+<head rend="h4">Praefatio<note n="#3"/>.</head>
+<p>Tanta est in ratiocinio Mathematico certitudo &amp; evidentia, ut eo ritè considerato nihil non audeant etiam Viri modestissimi: si tamen magni quid tentaverint, ideo innata est humano generi invidia &amp; aemulatio, ut generalis quasi fiat consensus, illos ludibrio exponendi: eorum enim inventa (etiamsi verissima) à prorsus ignaris deridentur, à sciolis vel surripiuntur vel rejiciuntur, &amp; à verè doctis (quorum judicio &amp; authoritati talia submittuntur) neglecta manent. Imo non desunt<note n="#4"/>, qui, ejusdem inventi partem ignobiliorem, aliis quippe approbatam, sibi arrogant, &amp; reliqua longè subtiliora non sine famae suae jacturâ fastuosè rejiciunt; responsa interim spernunt, praeclarius existimantes, infallibiles haberi apud ignaros, quàm ingenui apud doctos: O coeca famae libido, quae homines ita dementat, ut omniscii apparere satagant! Non carent hoc communi fato nostrae de circulo &amp; hyperbolâ lucubrationes, quas à paucissimis video vel intelligi vel examinatu dignas aestimari: Censores enim plerique scriptorum potius famam quàm rationes considerant; nam adeo arridet hominibus authoritas, ut nihil novi (quod alicujus momenti sit) à novis authoribus inveniri credant. Ego tam iniquis censuris stimulatus, hisce exercitationibus conabor ostendere, etiam in rebus Mathematicis maximè obviis &amp; usui humano necessariis, non pauca esse quae subtilissimos Geometras hucusque latuerunt; atque ita fortasse de aliis nostris speculationibus minùs rigidè judicabitur. Quae interim objiciuntur à praestantissimo
+Geometra<note n="#5"/> contra nostram Doctrinam, hic resolvere conabor. <hi rend="i">Admitto</hi> (inquit) <hi rend="i">in Propositione</hi> 11 <hi rend="i">Demonstratum esse</hi>, <hi rend="i">quod Sector ABIP non sit analyticè compositus à triangulo ABP &amp; Trapezio ABFP; sed non video ubi demonstretur Sectorem ABIP non esse analyticè compositum ex aliis quantitatibus</hi>. Ego facilè agnosco infinitas alias esse quantitates, è quibus analyticè componitur Sector ABIP, sed Reverendum Virum interrogo, quomodo innotescant illae quantitates è datis solummodo triangulo ABP &amp; Trapezio ABFP, nam hae Problema determinant, &amp; proinde aliae frustra dantur: si autem invenviantur; inveniuntur vel analyticè vel non analyticè; si posterius, concedo totum; si autem analyticè inveniantur è quantitatibus ABC, ABFP, &amp; Sector rursus analyticè componatur ex illis; Idem Sector etiam analyticè componetur ex quantitatibus ABP, ABFP, quod est absurdum, nempe contra Propositionem 11, quae admittitur. Si autem insistatur, Sectorem posse componi analyticè ex aliis quantitatibus, quae illam determinant praeter ABP, ABFP: dico ABP, ABFP, vel posse componi analyticè ex aliis illis quantitatibus vel non; si posterius, concedo totum, sed tales quantitates exhiberi desidero; si prius, Analyseos tenorem examinando, satis constabit alias illas quantitates etiam analyticè componi ex ABP, ABFP, &amp; ita ad primum casum relabimur. Satis etiam sciunt Geometrae, perinde esse quo ad solutionem, quomodocunque determinetur problema; si igitur solutio analytica sit impossibilis ex quantitatibus ABF, ABFP, illud determinantibus; impossibilis etiam erit ex aliis, quas, analyticè exhiberi possunt. Existimabam duas nostras petitiones unà cum scholio Propositionis 11. huic dubio satisfecisse; sed fateor humeris meis
+onus impar, nova principia (etiamsi intellectui claro &amp; exercitato evidentissima) ita stabilire, ut unicuique satisfaciat. Possem aliis objectionibus hic respondere, quae me anxium tenebant, dum haec primò mente revolverem; sed animadverto objectiones Mathematicas cuilibet praeter Authorem proprium frivolas apparere. In Epistola <hi rend="i">verae Circuli &amp; Hyperbolae quadraturae</hi> pagina 5. agnosco me totum institutum ad puram Geometriam non reduxisse, quoniam robur principalis propositionis nempe 11. dependet tantùm ex Canonibus analyticis; adeo certa tamen est, ut, eâ vacillante, necessario corruat tota Analysis; at in reliquis omnibus existimo me rigorosè satisfecisse. Si autem quis velit rigore Geometrico propositionem 11. demonstrare; poterit fortasse in institutum assequi hac ratione. Demonstretur primò haec notio incommensurabilitas: Si fuerint duae vel plures quantitates inter se commensurabiles &amp; quaedam alia, quae ex illarum Additione, Subductione, Multiplicatione, Divisione, non potest componi; erit illa alia quantitas prioribus incommensurabilis, &amp; vice versâ: deinde ex hac notione deducatur universalis doctrina incommensurabilitatis; quae erit non solùm analoga huic doctrinae non analyticae, sed illi etiam viam sternet.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Appendicula</hi> Ad Veram circuli &amp; hyperbolae quadraturam.</head>
+<p>Ante menses aliquot evulgavit Nobilissimus Vir <hi rend="i">Christianus Hugenius</hi> animadversiones quasdam<note n="#6"/> in meam Circuli &amp; Hyperbolae quadraturam, quibus existimo me<note n="#7"/> (in transactionibus Philosophicis Mensis <hi rend="i">Julii</hi>) solide satisfecisse: duae autem fuerunt parvi momenti, quibus tunc temporis respondere non potui; utpote in ejus scriptis nequaquam versatus: prima erat, quod mea circuli approximatio esset minùs praecisa quam sua<note n="#8"/>; secunda, quod mea Hyperbolae mensuratio esset optima, quam tamen non credebat Regiae Societati apparere novam, quoniam illam eandem Hyperbolae quadraturam ante aliquot annos supposuit; Dum Regiae Societati monstraret methodum suam inveniendi aëris gravitates in diversis a terra distantiis<note n="#9"/>. Conatur hic tacitè <hi rend="i">Hugenius</hi> me ignorantiae &amp; plagii accusare; sed non animadvertit se sibi contradicere, dum meam Hyperbolae mensurationem amplectitur, circularem autem rejicit, cum utraque una &amp; eadem sit: oportet ergo ut non percipiat ultimas suas approximationes in libro de magnitudine Circuli<note n="#10"/> (quas tanti aestimat) Hyperbolae etiam esse applicabiles; debuit igitur &amp; meam Hyperbolae quadraturam rejicere: at animadvertendum est ultimam meam approximationem (cujus demonstratio ex hac appendicula
+dependet) in fine Propositionis 25, magis esse praecisam &amp; multo minus laboriosam quam ulla <hi rend="i">Hugeniana</hi>. Quod attinet ad secundam <hi rend="i">Hugenii</hi> accusationem: expectabam certe à tanto viro majorem ingenuitatem; Nec enim potui hactenus edoceri, esse quenquam è Societate Regia, qui tale quid ab <hi rend="i">Hugenio</hi> unquam prolatum recordatur<note n="#11"/>. Non solum praedictae rationes sed etiam aliae mihi quasi persuadent Hyperbolae quadraturam, saltem ante tot annos, <hi rend="i">Hugenio</hi> non innotuisse; nam nihil in tota Geometria à Mathematicis adeo est desideratum, immo nec usui humano magis accommodatum; quis ergo Geometra speculationem non solum celeberrimam sed etiam maximae utilitatis 7 vel 8 annorum spatio adeo superstitiosè celaret; &amp; praecipuè <hi rend="i">Hugenius</hi>, qui non adeo alienus est à scribendi pruritu, ut res ordinarias aliquando etiam satis prolixè non edat in lucem: testantur <hi rend="i">Theoremata de Quadratura Hyperboles, Ellipsis &amp; Circuli ex dato portionum gravitatis Centro</hi><note n="#12"/>, quae sunt solummodo consectaria ad generalia <hi rend="i">Guldini</hi> inventa, anno 1635 impressa, supposito tantum solido rotundo Hyperbolico circa Diametrum conjugatam, quod inventu non est difficile: testatur quoque <hi rend="i">liber de Magnitudine Circuli</hi><note n="#13"/>, qui aliud non est quam comparatio segmenti Circularis cum segmento parabolico inscripto vel circumscripto eidem triangulo, satis etiam prolixe
+in lucem editus: atque haec omnia subtilitate utilitate &amp; gloriâ Hyperboles quadraturae longè cedunt, hanc autem suo nomine indignam, vel reliquis saltem indigniorem censuit <hi rend="i">Hugenius</hi>. At parum refert quis sit ejus primus inventor, satis enim constat me primum esse publicatorem; neque mihi esset difficile affirmare (si modo mentiri vellem) me ante 20 annos illam cognovisse: utcunque fit, conabor hic Circuli &amp; Hyperbolae quadraturam ad talem perfectionem promovere, ut <hi rend="i">Hugenius</hi> prolem suam vix cognoscat.</p>
+<p>Invenimus nos duplex compendium in mensuratione Circuli &amp; Hyperbolae; Primum consistit in continuatione seriei convergentis; Secundum in methodo inveniendi approximationes.</p>
+<p><table>
+<row>
+<cell>2L</cell>
+<cell></cell>
+<cell>A B.</cell></row>
+<row>
+<cell>M</cell>
+<cell><hi rend="i">a</hi></cell>
+<cell>C D.</cell></row>
+<row>
+<cell>P</cell>
+<cell>2Q</cell>
+<cell>E F.</cell></row>
+<row>
+<cell>R</cell>
+<cell>4S</cell>
+<cell>G H.</cell></row>
+<row>
+<cell>T</cell>
+<cell>8V</cell>
+<cell>J K.</cell></row>
+<row>
+<cell>X</cell>
+<cell>16Y</cell>
+<cell>N O.</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>Z.</cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Propositio</hi> I.</head>
+<p>Inter A, B quantitates arbitrarias est media Geometrica C, item inter C, B sit media harmonica D, &amp; continuetur series convergens, ut sit ejus terminatio, seu Circuli, Ellipseos vel Hyperbolae sector Z. Sit ut B ad C ita quantitas ad libitum 2 L ad M, sitque inter L &amp; 2 L + M media Geometrica P, &amp; fiat Q<hi rend="sup">2</hi> = differentiae inter 4 L<hi rend="sup">2</hi> &amp; P<hi rend="sup">2</hi>, item <hi rend="i">a</hi><hi rend="sup">2</hi> = differentiae inter 4 L<hi rend="sup">2</hi> &amp; M<hi rend="sup">2</hi>. Dico <hi rend="i">a</hi>∶2Q∷C∶E. Nam B∶C∷2 L∶M, &amp; convertendo &amp; componendo C + B∶B∷M + 2 L∶ 2 L, sed C + B∶B∷2 C∶D, &amp; ideo 2 C ∶D∷M + 2 L∶2 L; &amp; duos ultimos analogiae terminos ducendo in differentiam inter M &amp; 2 L, 2C est ad D ut differentia inter 4 L<hi rend="sup">2</hi> &amp; M<hi rend="sup">2</hi> ad differentiam inter 4 L<hi rend="sup">2</hi> &amp; 2 ML, &amp; consequentes duplicando, item priores terminos bipartiendo, C est ad D ut differentia inter 4 L<hi rend="sup">2</hi> &amp; M<hi rend="sup">2</hi> ad differentiam inter 8 L<hi rend="sup">2</hi> &amp; 4 ML = 4 Q<hi rend="sup">2</hi>, hoc est, C<hi rend="sup">2</hi> est ad E<hi rend="sup">2</hi> ut differentia inter 4 L<hi rend="sup">2</hi> &amp; M<hi rend="sup">2</hi>=<hi rend="i">a</hi><hi rend="sup">2</hi> ad 4 Q<hi rend="sup">2</hi>, &amp; ideo C∶E∷<hi rend="i">a</hi>∶2 Q, quod, <hi rend="i">&amp;c</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Propositio</hi> II.</head>
+<p>Eisdem positis quae in antecedente. Dico E∶D∷P∶2 L. ex antecedente 2 C∶ D∷M + 2 L∶2 L, &amp; ultimos terminos ducendo in L, 2 C∶D∷M L + 2 L<hi rend="sup">2</hi>∶ 2 L<hi rend="sup">2</hi>, &amp; consequentes duplicando, item priores bipartiendo C∶D∷M L + 2 L<hi rend="sup">2</hi> = P<hi rend="sup">2</hi>∶4 L<hi rend="sup">2</hi>, &amp; ideo E∶D∷P∶2 L, quod, <hi rend="i">&amp;c</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Propositio</hi> III.</head>
+<p>Eisdem positis, sit inter L &amp; 2 L + P media Geometrica R, sitque S<hi rend="sup">2</hi> = differentiae inter 4 L<hi rend="sup">2</hi> &amp; R<hi rend="sup">2</hi>. Dico C∶G∷<hi rend="i">a</hi>∶4 S. Est enim E∶D∷P∶2 L, &amp; componendo E + D∶D∷P + 2 L∶2 L, sed E + D∶D∷2E∶F, &amp; proinde 2 E∶F∷P + 2 L∶2 L, &amp; posteriores terminos ducendo in differentiam inter 2 L &amp; P, item consequentes duplicando &amp; priores terminos bipartiendo, E est ad F ut disserentia inter 4 L<hi rend="sup">2</hi> &amp; P<hi rend="sup">2</hi> = Q<hi rend="sup">2</hi> ad differentiam inter 8 L<hi rend="sup">2</hi> &amp; 4 P L = 4 S<hi rend="sup">2</hi>, &amp; ideo E∶G∷Q∶2 S, &amp;E∶G∷2Q∶4 S, at ex hujus 1ma C∶E∷ <hi rend="i">a</hi>∶2 Q, &amp; ideo ex aequalitate C∶G∷<hi rend="i">a</hi>∶4 S, quod, <hi rend="i">&amp;c</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Propositio</hi> IV.</head>
+<p>Eisdem positis, dico G∶F∷R∶2L, ex antecedente 2 E∶F∷P + 2 L∶2 L, &amp; posteriores terminos ducendo in L, 2 E∶F∷P L + 2 L<hi rend="sup">2</hi>, &amp; consequentes duplicando, item priores terminos bipartiendo, E∶F∷P L + 2 L<hi rend="sup">2</hi> = R<hi rend="sup">2</hi>∶4 L<hi rend="sup">2</hi>, &amp; ideo G∶F∷R∶2 L, quod, <hi rend="i">&amp;c</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Propositio</hi> V.</head>
+<p>Eisdem positis, sit inter L &amp; 2 L + R media Geometrica T, sitque V<hi rend="sup">2</hi> aequalis differentiae inter 4 L<hi rend="sup">2</hi> &amp; T<hi rend="sup">2</hi>. Dico C∶I∷<hi rend="i">a</hi>∶8 V. Est enim G∶F∷R∶2 L &amp; componendo G + F∶F∷R + 2 L∶2 L, sed G + F∶F∷2 G∶H, &amp; ideo 2 G∶H∷R + 2 L∶2 L, &amp; posteriones terminos ducendo in differentiam inter 2 L &amp; R, item consequentes duplicando &amp; priores terminos bipartiendo, G est ad H ut differentia inter 4 L<hi rend="sup">2</hi> &amp; R<hi rend="sup">3</hi> = S<hi rend="sup">2</hi> ad differentiam inter 8 L<hi rend="sup">2</hi> &amp; 4 R L = 4 V<hi rend="sup">2</hi>, &amp; ideo G∶I∷S∶2 V, &amp; G∶I∷4 S∶8 V, &amp; ex hujus 3<hi rend="sup">tia</hi> C∶ G∷<hi rend="i">a</hi>∶4 S, &amp; ideo ex aequalitate C∶I∷<hi rend="i">a</hi>∶8 V, quod, <hi rend="i">&amp;c</hi>.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Scholium</hi>.</head>
+<p>Ex praedictis manifestum est, seriem <hi rend="i">a</hi>, 2 Q, 4 S, 8 V, 16 Y <hi rend="i">&amp;c</hi>. esse analogam seriei C, E, G, I, N; &amp; proinde ut <hi rend="i">a</hi> ad terminationem suae seriei ita C ad sectorem Z∶at posita 2 L binario cum numero quodam cyphrarum, inveniuntur omnes M, P, R, T, X, ex tot radicis quadratae extractionibus; &amp; proinde poterit series <hi rend="i">a</hi>, 2 Q, <hi rend="i">&amp;c</hi>. produci ad libitum à paucis operationibus, exempli gratia si desiderarem terminum 16 Y; produco seriem M, P, <hi rend="i">&amp;c</hi>. in X, cujus quadrati differentia à 4 L<hi rend="sup">2</hi> est quadratum ipsius Y∶ si autem quaeratur terminus convergens debitus termino 16 Y, dividatur duplum quadrati ipsius 16 Y per 8 V + 16 Y, &amp; quotus dabit quaesitum. Atque hoc est compendium non inelegans ad producendas Circuli, Ellipseos vel Hyperbolae prolixiores series convergentes; non tamen est dissimulandum hanc methodum esse lubricam &amp; in longa continuatione multas è notis posterioribus falsificare, ob continuam Multiplicationem Numerorum Progressionis Geometricae duplae à binario.</p>
+<p>Antequam accedamus ad secundum nostrum compendium, considerentur hic Circuli proprietates quaedam eximiae.</p>
+<p>Sit A polygonum regulare Circulo inscriptum, B eidem simile circumscriptum, C polygonum inscriptum, duplum habens laterum numerum, D eidem simile circumscriptum, &amp; continuetur series convergens, <hi rend="i">&amp;c</hi>.</p>
+<p>C erit medium Geometricum inter A &amp; B.</p>
+<p>D erit medium harmonicum inter C &amp; B.</p>
+<p>Si B ponatur perimeter polygoni B, erit C perimeter polygoni A, quoniam similia polygona B, A, sunt in duplicata ratione perimetrorum; erit quoque D perimeter polygoni D, quoniam polygona Circulo circumscripta sunt in eadem ratione cum suis perimetris; eodem modo erit E perimeter polygoni C, Item F perimeter polygoni F, &amp; sic deinceps.</p>
+<p>Perimeter polygoni D erit medium harmonicum inter perimetros polygonorum A, B.</p>
+<p>Perimeter polygoni C erit medium Geometricum inter perimetros polygonorum A, D.</p>
+<p>Hae proprietates non solum insunt Circuli integro, sed etiam (consideratis considerandis) omni sectori: tertiam autem proprietatem si animadvertisset <hi rend="i">Hugenius</hi>, illi non opus fuisset tam prolixis demonstrationibus easdem approximationes à polygonis ad eorum perimetros revocare, cum series polygonorum eadem sit cum serie perimetrorum.</p>
+<p>Secundum nostrum compendium consistit in methodo inveniendi approximationes, quae sequenti theoremati superstruitur.</p>
+</div>
+<div type="section">
+<head rend="h4">Theorema.</head>
+<p><table>
+<row>
+<cell>P</cell>
+<cell>A</cell>
+<cell></cell>
+<cell>B</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>C</cell>
+<cell></cell>
+<cell>D</cell>
+<cell><hi rend="i">In quacunque serie convergente</hi> A B, C D, <hi rend="i">&amp;c. cujus terminatio</hi> Z, <hi rend="i">si fuerint quantitas</hi> P <hi rend="i">eodem modo composita à terminis</hi> A, B, <hi rend="i">quo</hi> H Q <hi rend="i">à terminis</hi> C, D, <hi rend="i">&amp;</hi> P <hi rend="i">major fuerit quam</hi> Q: <hi rend="i">denique si componatur</hi> Q <hi rend="i">eodem modo à quantitatibus aequalibus</hi> X, X, <hi rend="i">quo à terminis</hi> C, D <hi rend="i">erit</hi> X <hi rend="i">major quam</hi> Z: <hi rend="i">si autem</hi> P <hi rend="i">fuisset minor quam</hi> Q, <hi rend="i">foret</hi> X <hi rend="i">minor quam</hi> Z.</cell></row>
+<row>
+<cell></cell>
+<cell>E</cell>
+<cell></cell>
+<cell>F</cell>
+<cell></cell></row>
+<row>
+<cell>Q</cell>
+<cell>G</cell>
+<cell></cell>
+<cell>H</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>I</cell>
+<cell></cell>
+<cell>K</cell>
+<cell></cell></row>
+<row>
+<cell></cell>
+<cell>L</cell>
+<cell></cell>
+<cell>M</cell>
+<cell></cell></row>
+<row>
+<cell>X</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>Z</cell>
+<cell cols="2"></cell></row>
+</table></p>
+<p>Quoniam enim P eodem modo componitur à terminis A, B, quo Q à terminis C D, &amp; P major est quam Q, erit etiam Q major quam quantitas eodem modo composita à terminis E F, &amp; haec major quam quantitas eodem modo composita à terminis G H, &amp; sic in infinitum usque ad Z; &amp; proinde Q multo major erit quam quantitas eodem modo composita à Z, Z, quo Q à C D vel X, X; hoc est, Q composita à X, X, major est quam quantitas eodem modo composita à Z, Z; &amp; ideo X major est quam Z, quod, <hi rend="i">&amp;c</hi>. Eodem prorsus modo demonstratur secunda Theorematis pars.</p>
+<p>Ex hoc Theoremate (caeteris paribus) facile patet differentiam inter X &amp; Z eo esse minorem, quo minor fuerit indefinita differentia inter P &amp; Q. Hinc patet campus vastissimus inveniendi approximationes non solum in Circuli &amp; Hyperbolae mensura, sed etiam in omnium aliarum serierum convergentium terminationibus: nos tamen unam particularem methodum eligimus, quam existimamus esse reliquis faciliorem &amp; minus prolixam, nempe ex inventorum terminorum combinatione; in hac enim prolixae operationes Arithmeticae evitantur. Ope nostrae methodi sequentes invenimus approximationes, quae hic examinandae subjiciuntur.</p>
+<p>Sint duo polygona complicata A, B, nempe A intra Circuli vel Ellipseos sectorem, B extra: continuetur series convergens in infinitum (nempe in CD, EF, G H, <hi rend="i">&amp;c</hi>.) ut sit ejus terminatio seu Circuli vel Ellipseos sector Z. Erit Z minor quam 16C+2B-3A/15 &amp; major quam 16D+A-2B/15, haec approximatio veras notas terminorum CD triplicat. Erit Z minor quam [768F+256E-76D-4C+B]∶945 &amp; major quam 1024E+128D-208C+3A-2B/945, haec approximatio veras notas terminorum EF quadruplicat. Erit Z minor quam 12288E+16384F-576D-1328C+2B+5A/26775 &amp; major quam 512E+512F-72C+A-8D/945, haec approximatio veras notas terminorum E F quintuplicat. Erit Z minor quam 524288G+524288H-74240E-8704F+1096C-A+8D/966735 &amp; major quam 12582912G+16777216H-606208F-1372160E+2624D+6448C-2B-5A/27390825, haec approximatio sextuplicat veras notas terminorum G H. Erit Z minor quam [51539607552I+68719476736K-2499805184H-5632950272G+11354112F+27783168E-10816D-26928C+2B+5A]∶ 112165428375 &amp; major quam [2147483648I+2147483648K-304611328G-36175872H+4563456E+41472F-5192C-8D+A]∶3958779825, haec approximatio septuplicat veras notas terminorum I K.</p>
+<p>Ut apparat hanc nostram methodum etiam esse applicabilem seriebus simplicibus, sequentes considerentur approximationes. Erit Z major quam 64E-20C+A/45, quae veras notas triplicat; &amp; major quam 4096G-1344E+84C-A/2835, quae quadruplicat; &amp; major quam 1048576I-348160G + 22848E-340C + A/722925, quae quintuplicat; item &amp; major quam 1073741824L-357564416I+23744512G-371008E+1364C-A/739552275, quae sextuplicat.</p>
+<p>Erit quoque Z minor quam 64F-20D+B/45, quae triplicat, &amp; major quam 4096H-1344F+84D-B/2835, quae quadruplicat; &amp; minor quam 1048576K-348160H+22848F-340D+B/722925, quae quintuplicat; &amp; major quam 107341824M-357564416K+23744512H-371008F+1364D-B/739552275, quae sextuplicat.</p>
+<p>Quod, si quis desideret approximationes omnium possibilium simplicissimas, sequentes tales esse non sine ratione affirmo. Erit Z minor quam 8C+8D-A/15, &amp; major quam 12D+4C-B/15, quae triplicat; &amp; minor quam 320E+256F-52C+A/525, &amp; major quam 48C+64D-2B-5A/105, quae quadruplicat; item minor quam 24704E+35072F-1356D-2460C+5B/55965, &amp; major quam 512E+512F-72C+A-8D/945, quae quintuplicat.</p>
+<p>Omnes hae approximationes (si analytice examinentur) praecedenti Theoremati quadrabunt; &amp; insistendo vestigiis analyseos, dicto Theoremati superstruenda est compositio Geometrica, quae satis difficilis &amp; intricata reperietur. Methodum has approximationes inveniendi, ob diveras rationes mihi satis perspectas, celare statuo: paratus tamen sum non solum alias longè differentes harum loco substituere, sed etiam approximationes exhibere, quae veras notas octuplucent, nonuplicent, decuplicent, <hi rend="i">&amp;c</hi>. in infinitum etiam in aliis seriebus convergentibus ex sola hac terminorum convergentium combinatione.</p>
+<p>Posito A polygono sectori Hyperbolico circumscripto, &amp; B inscripto, <hi rend="i">&amp;c</hi>.
+eaedem approximationes inserviunt Hyperbolae, hoc solo observato quod (in verarum notarum triplicatione, quintuplicatione, septuplicatione, <hi rend="i">&amp;c</hi>.) major approximatio nunc fiat minor &amp; è contra.</p>
+<p>Non opus est ut lectorem admoneam (modo praedicta intellexerit) has approximationes inservire curvis circularibus &amp; earum adscriptis: Placet tamen sequentes approximationes exhibere huic proposito accommodatas. Sit A sinus alicujus arcus, B ejusdem tangens, C chorda &amp; D tangens resecta a recta per terminum diametri, seu duplum tangentis semissis arcus: erit arcus minor quam 96C-22A+B/75, item minor quam 16C-3A+2D/15, quae utraque veras notas triplicat, &amp; major quam 320C+52D-56A-B/315, quae quadruplicat.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXII"/>
+<meta type="date" value="1644-12-21"/>
+<meta type="sender" value="desc004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="egmon001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXII">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>Estant reuenu chercher vn lieu de retraite icy au quartier d'Egmond où ie m'estois cy deuant assez bien trouué, i'y ay rencontray le Sieur Schooten<note n="#2"/> en la maison de M<hi rend="sup">r</hi> de Bergue<note n="#3"/>, et voyant qu'il auoit inclination à s'en aller l'esté prochain demeurer à la Haye pout y enseigner les Mathematiques, ie l'ay fortifié le plus que i'ay pû en ce dessein, et mesme ay voulu luy persuader d'y aller dez à present, pensant que vous seriez peutestre bien ayse de vous en seruir pour donner entrée en l'Algebre à ceux de M<hi rend="sup">rs</hi> vos enfans qui y auront le plus d'inclination; car ie ne sçache personne en ce païs, et ie n'en connois guere aussy ailleurs, qui en soit si capable que luy. Mais il est si desireux de s'instruire soy mesine, et se plaist si fort à cete sorte d'estude, qui me semble estre la clef de toutes les autres, que la raison pour laquelle il m'a dit ne se pouuoir resoudre à demeurer à la Haye dez cet hyuer est qu'il craindroit d'auoir tant de disciples qu'il ne luy resteroit pas assez de loysir pour vacquer à sa propre instruction. Il m'a toutefois promis de vous aller offrir son seruice aussy tost qu'il sera à Leyde, et ie luy ay voulu donner cete lettre affin de l'y obliger, et par mesme moyen vous assurer que ie suis auec passion</p>
+<div type="closer">
+<p>Monsieur,
+<lb/>Vostre tres humble et tres obeissant seruiteur,
+<lb/><persName key="desc004">Des Cartes</persName></p>
+<p>D'<placeName key="egmon001">Egmond</placeName>, le 21 Decembre 1644.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1050"/>
+<meta type="date" value="1662-08-24"/>
+<meta type="recipient" value="boul014"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1050">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 24 Aoust 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous rends graces tres humbles tant de ce que vous me faites l'honneur de me mander de vos nouvelles, que du present de vostre Traitè<note n="#1"/>, que je viens de recevoir. Quand il sera reliè j'en considereray de plus pres le contenu, car je n'ay encore fait que le feuilleter, et je remarque que vous disputez en plusieurs endroits contre les opinions d'Aristote et de ses sectateurs, qui est tousjours une bonne oeuvre. Sed utinam tam facile esset vera invenire quam falsa redarguere, principalement dans cette matiere si difficile et profonde. les 2 Exemplaires à Messieurs Vossius et Hudde leur ont estè rendus.</p>
+<p>Apres l'avis que vous m'avez donnè de l'Estoile in Collo Ceti, je l'ay aussi observée pour la premiere fois le 15 de ce mois, et la trouve au mesme lieu ou la met Monsieur Hevelius, et presque egale en clartè a celle de la Mandibula<note n="#2"/>. C'est une
+chose merveilleuse si elle souffre tous ces changemens que raconte ledit Hevelius<note n="#3"/>, comme je n'en doute point, et il me tarde de les remarquer moy mesme.</p>
+<p>Vous ne parlez point de l'horologe que vous vouliez faire venir d'icy pour Madame de Thou<note n="#4"/>, ce qui me fait croire que vous en avez trouvè des bonnes a Paris, et en effect Mon Pere me mande<note n="#5"/> qu'on y travaille mieux desia en ces sortes d'ouvrages que non pas icy. Toutefois si vous avez besoin de mon service ou en cela ou en toute autre chose j'espere que vous me ferez la grace de m'emploier librement et de croire que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp; tres obeissant seruiteur
+<lb/><persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

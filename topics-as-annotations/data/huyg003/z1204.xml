@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1204"/>
+<meta type="date" value="1664-01-15"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1204">
+<p>Mon incommodité, Monsieur, et l'eloignement de vostre demeure sont de grands ennemis de ma joye et de ma consolation puisque je suis priué par la du bonheur que la Fortune m'offre de vous voir sans vous aller chercher jusqu'en Hollande comme vous le merités. Sans cela vous me verriés tous les jours chés vous et je profiterois bien plus que je ne fais de vostre amitié et de vos lumieres. Je me resjouis au moins du soulagement que vous ressentés de vostre mal de teste et du moyen qu'il vous a donné de me tenir parole pour la Relation<note n="#1"/> de leffet de vos Pendules sur mer, dont je vous rens mille treshumbles graces et pour payer cette faueur je lemployeray toute pour vostre gloire, n'ayant rien dauantage en la pensee que de la publier par tout ou lon est digne de la connoistre. Jespere que vous aurés mis dans vostre dernier paquet mon billet<note n="#2"/> pour Monsieur de Beuning et je vous en fais vn remerciment du coeur comme vous le pouues attendre Monsieur de</p>
+<div type="closer">
+<p>Vostre treshumble et tres obeissant seruiteur <persName key="chap002">Chapelain</persName>.</p>
+<p>Ce 15 Janvier 1664.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Christianus Huggens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

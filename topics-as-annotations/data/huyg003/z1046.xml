@@ -1,0 +1,45 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1046"/>
+<meta type="date" value="1662-08-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1046">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Lettre, avec l'experience. Evelyn quod me, et inventum de grande recherche. Methode du Prince Rupert extendu. Regle pour l'air. Sententia de <persName key="hobb001">Hobbij</persName> geometria.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 18 Aoust 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay receu par Monsieur Kilpatric<note n="#1"/> la vostre du 7 Juli et avec 2 livres nouveaux dont je vous remercie tres humblement et je l'aurois fait plustost si je n'avois estè absent<note n="#2"/> pendant 2 ordinaires. Celuy<note n="#3"/> de Monsieur Evelin<note n="#4"/> est docte et de grandissime recherche et j'ay eu beaucoup de satisfaction en le lisant, sans compter celle la de m'y avoir inserè si honorablement. J'eusse a peine creu qui m'auroit dit que je
+trouuerois mon anneau de Saturne mentionè dans un livre d'un suject si fort eloignè. Je me souviens tres bien d'avoir eu l'honneur de veoir l'autheur dans vostre chambre plus d'une fois<note n="#5"/> mais je ne suis pas bien assurè si c'estoit luy mesme qui promettoit un ample traitè du Jardinage<note n="#6"/>. Si c'est ainsi je ne doute pas que ce ne sera un ouurage tresaccompli et curieux. Il me semble que je comprens assez la methode nouuelle<note n="#7"/> du Prince Rupert<note n="#8"/> quand je considere cette teste de sa façon et le peu d'ouuerture que Monsieur Evelin nous a donnè. C'est un merveilleux abbregè en des choses ou il y a beaucoup d'ombres et fait un tres bel effect.</p>
+<p>Que vous diray je maintenant du livre<note n="#9"/> de Monsieur <persName key="hobb001">Hobbes</persName>? a force d'estre absurde, il devient plaisant, et je ne scay si je fais bien de contribuer a le faire taire cy apres en condamnant ses paralogismes. Toutefois par ce que vous le voulez j'envoie a son libraire mon jugement<note n="#10"/> de sa duplication du cube et quadrature, ou je monstre assez clairement en quoy il s'est mepris, comme vous verrez par cette copie.</p>
+<p>Je voy que vous ne parlez que d'une lettre<note n="#11"/> que vous auriez receue de moy, ce qui me fait douter si celle<note n="#12"/> que je vous ay escrit depuis vous aura estè rendue. mais peut estre qu'elle aura estè plus long temps en chemin qu'elle ne devoit. Elle estoit principalement pour vous prier de remercier Monsieur <persName key="boyl001">Boile</persName> de ma part
+de son dernier livre<note n="#13"/> dont il m'a fait present, et j'y avois adjoustè une description pertinente<note n="#14"/> de mon Experience de l'eau purgée d'air qui ne descend point dans le vuide ou il y a des circonstances assez remarquables.</p>
+<p>Apres que j'eusse envoyè cette derniere lettre j'ay meditè sur le suject de l'Extension de l'air, et j'ai trouuè premierement que la hauteur de l'atmosphere est infinie quand on suppose veritable ce que les 2 experiences de Monsieur <persName key="boyl001">Boile</persName> semblent prouuer, et de plus j'ay formè une regle tres facile pour scavoir dans une hauteur donnée, combien du poids de l'air est encore de la vers en haut: comme par exemple qu'estant sur une montagne haute de 22873 pieds de Londres l'on aura encore la moitiè du dit poids par dessus la teste et si l'on parvenoit a la hauteur de 380010<note n="#15"/> pieds, qu'on n'y aura que 1/100000 de l'air vers en haut. Je suppose touchant la gravitè de l'air icy bas qu'elle est a celle de l'eau comme 1 a 970. comme a peu pres je l'ay trouuè par mes experiences, et qu'un cylindre d'eau de 34 pieds contrebalance un cylindre d'air jusqu'au bout de l'atmosphere, comme enseigne encore l'experience. La Regle est donc telle que voicy<note n="#16"/>.</p>
+<p>J'ay quelque peur que celle cy n'arrive apres que vous serez parti de Londres, mais je m'en console aisement par ce que j'auray d'autant plus tost le contentement de vous veoir icy qui me sera un des plus grands que je scaurois souhaiter. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp; tres obeissant seruiteur
+<lb/><persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="mora019">R. Moray</persName>, chevalier et du Conseil prive du Roy pour les affaires d'Escosse dans Whithall du costè du Jardin
+<lb/>A Londres.
+<lb/>8 d.</p>
+</div>
+<p><figure><graphic url="huyg003oeuv04ill45.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv04ill46.gif"></graphic></figure></p>
+</body>
+</text>
+</TEI>

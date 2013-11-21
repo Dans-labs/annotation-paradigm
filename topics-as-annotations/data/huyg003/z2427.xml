@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2427"/>
+<meta type="date" value="1686-07-05"/>
+<meta type="sender" value="cass021"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2427">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> le 5 juillet 1686.</p>
+<p>Monsieur</p>
+</div>
+<p>L'occasion la plus fauorable qui se put presenter pour vous enuoier mes lettres et les dernieres obseruations que j'ay faites sur les satellites de Saturne est celle du voyaje de Mons. <persName>Bontemps le fils</persName> et de Monsr. <persName>l'Abbe Charlan</persName> qui ont la bonte de s'en vouloir charger, et ont temoigne la joie qu'ils auront de voir vn homme si illustre parmis ceux dont ils sohaitent auoir la connoissance. Vous scauez Monsieur quel est le rang que Mons. <persName>Bontemps</persName> tient dans les graces du Roy, et comme il le fait connoitre par les effects fauorables aux personnes de merite. C'est pourquoy je ne doute point que vous n'ayez la bonte d'estre fauorable a Mons. son fils qui espere de profiter de vos entretiens.</p>
+<p>J'ay tarde monsieur a vous enuoier ce que je donnay au journal sur la fin du mois d'Auril<note n="#2"/> dernier, parce que je ne l'eus pas plustost publie, que par des nouuelles obseruations je vis que je pouuois perfectioner d'auantage les hypotheses des nouueaux satellites que je uenois d'ebaucher<note n="#3"/>. Je le croyois un affaire de peu de jours, mais m'estant engage insensiblement dans un gran trauail de composer ensemble toutes les obseruations faites, et d'en faire des nouuelles pour une plus grande verification de ce que j'auois apris des precedentes; ce que je voulus vous communiquer tout ensemble a demande plus de temps que je n'auois suppose. Voicy ce que j'ay apris de nouueau par ce raport d'obseruations. La distance du premier satellite au centre de Saturne m'a paru variable, et son cours un peu excentrique et inegal parcourant presentement auec plus de vitesse le demicercle occidental, que l'oriental. Sa moyenne distance au centre de Saturne m'a paru un peu moindre du diametre de son anneau enuiron de sa quarantieme partie<note n="#4"/>.
+A cette distance ce satellite doit parcourrir le diametre de l'anneau en 7<hi rend="sup">h</hi> ¾ ayant suppose sa moyenne periode d'un jour 21<hi rend="sup">h</hi> 19 minutes comme auparauant, et comme elle a este confirmee par d'autres obseruations a peu de secondes pres.</p>
+<p>Je n'ay pas jusqu'a present trouue dans le second satellite aucune variation sensible de distance au centre de Saturne. Elle me paroit bien etablie d'un diametre et un quart de l'anneau. Sa moyenne periode paroit de deux jours 42 minutes et un quart, et il doit parcourir le diametre de l'anneau en 8 heures 6/10.</p>
+<p>Ces distances sont assez bien marquees dans la figure, et exprimez par les nombres corriges dans le journal que je vous enuoie.</p>
+<p>Les Epoques du 14 d Auril pour le premier et du 30 de mars de cette annee pour le second sont assez bien etablies dans le journal autant qu'il suffit pour preuoir leur configurations. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="cass021">Cassini</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

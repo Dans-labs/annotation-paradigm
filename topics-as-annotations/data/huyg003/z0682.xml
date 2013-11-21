@@ -1,0 +1,141 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0682"/>
+<meta type="date" value="1659"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0681"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0682">
+<p>Octobris 29.</p>
+<p><table>
+<row>
+<cell role="header">Altitudines marginis infer. ☾</cell>
+<cell role="header">Altitudines Centri correctae</cell>
+<cell role="header">Tempus</cell>
+<cell role="header"></cell>
+</row>
+<row>
+<cell>gr. ′.</cell>
+<cell>gr. ′. ″.</cell>
+<cell>H. ′. ″.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>47. 32.</cell>
+<cell>48. 26. 42.</cell>
+<cell>13. 48. 12.</cell>
+<cell>Initium penumbrae</cell>
+</row>
+<row>
+<cell>46. 24.</cell>
+<cell>47. 19. 29.</cell>
+<cell>13. 57. 40.</cell>
+<cell>jnitium verum.</cell>
+</row>
+<row>
+<cell>46. 12.</cell>
+<cell>47. 7. 38.</cell>
+<cell>13. 59. 32.</cell>
+<cell>Initium transierat</cell>
+</row>
+<row>
+<cell>43. 32.</cell>
+<cell>44. 29. 32.</cell>
+<cell>14. 23. 0.</cell>
+<cell>Digiti III ½</cell>
+</row>
+<row>
+<cell>41. 28.</cell>
+<cell>42. 10<note n="#1"/>. 53.</cell>
+<cell>14. 43 0.</cell>
+<cell>Digiti V</cell>
+</row>
+</table></p>
+<p>coelum non omnino clarum fuit, nam ante medium defectus sub nubibus Luna tota latuit. Initio nullae stellae comparebant, sed Luna clare satis sub tenuibus nubibus cernebatur. a Digitis V. decrescentibus fixae videbantur.</p>
+<p><table>
+<row>
+<cell>Alto Procyone ad ortum 44. 0.</cell>
+<cell>15. 45.</cell>
+<cell>Digiti V</cell>
+</row>
+<row>
+<cell>Alto corde ♌ ad ortum 34. 21.</cell>
+<cell>16. 3.</cell>
+<cell>Digiti III &amp; vltra</cell>
+</row>
+<row>
+<cell>36. 15.</cell>
+<cell>16. 16.</cell>
+<cell>Digiti III fere</cell>
+</row>
+<row>
+<cell>37. 38.</cell>
+<cell>16. 26.</cell>
+<cell>Digiti I &amp; amplius.</cell>
+</row>
+<row>
+<cell>39. 7.</cell>
+<cell>16. 37.</cell>
+<cell>Finis verus</cell>
+</row>
+<row>
+<cell>40. 7.</cell>
+<cell>16. 43.</cell>
+<cell>Finis penumbrae</cell>
+</row>
+</table></p>
+<p>Tota duratio ex obseruatione colligitur Horarum 2.′39.″20. et medium seu maxima obscuratio Horarum 15.′17.″20. Attigit digitos VII. At vero Tabulae Philolaicae exhibent vt sequitur.</p>
+<p><table>
+<row>
+<cell cols="3" role="header">Tabulae Philolaicae.</cell>
+<cell role="header"></cell>
+</row>
+<row>
+<cell></cell>
+<cell>H. ′. ″.</cell>
+<cell>Latitudo ☾</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Initium</cell>
+<cell>13. 55. 53.</cell>
+<cell>Initio 43.″34.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Veram ☍<note n="#2"/></cell>
+<cell>15. 16. 51.</cell>
+<cell>Fine 35. 23.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Maximam obscurationem</cell>
+<cell>15. 23. 51.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell>Finem</cell>
+<cell>16. 51. 50.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+</table></p>
+<p>Totam durationem 2. 55. 57.</p>
+<p>&nbsp;</p>
+<p>Differt a Coelo tempus durationis ′16.″37. quibus excedit calculus Tabularum. Punctum maximae obscurationis tardius exhibent Tabulae ′6.″31.</p>
+<p>Agarratus<note n="#3"/> obseruauit Parisiis Finem</p>
+<p>alto Corde ♌. graduum 39.′20. Id est Horarum 16.′38.</p>
+<p>Antonius Marchais<note n="#4"/> Vir Clarissimus Serenissimi Ducis Aurelianensis<note n="#5"/> Astronomus obseruauit Blaesis initium</p>
+<p>alto margine ☾ superiori graduum 48.′15 id est altitudine centri correcta graduum 48.′38. 9. Id est Horarum 13.′51.″24.</p>
+<p>Quod tempus congruit nam Blaesarium castrum, ′6 circiter occidentalior est Lutetia.</p>
+</div>
+</body>
+</text>
+</TEI>

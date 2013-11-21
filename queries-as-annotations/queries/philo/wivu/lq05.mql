@@ -1,0 +1,15 @@
+// This query addresses the phenomenon that demonstratives and
+// sometimes the article introduce relative clauses in Hebrew
+// (Gesenius-Kautzsch 138g-k). It searches for clauses that begin with
+// a demonstrative pronoun or article followed by a finite verb form.
+
+// ident @(#)lq05.mql	1.1 04/02/24
+
+select all objects where
+
+[clause
+   [word first psp = demonstrative_pronoun or psp = article]
+   [word psp = verb and paradigmatic_nominal_ending = -1]
+]
+
+go

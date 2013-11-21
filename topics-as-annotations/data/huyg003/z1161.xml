@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1161"/>
+<meta type="date" value="1663-11-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1161">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 2 Novembre 1663.</p>
+</div>
+<p>Quoyque je vous aye priè par ma precedente<note n="#1"/> de payer pour moy a van Dalen les 41 livre que j'ay deboursè pour vostre perruque, et encore 29 livres d'avantage cela n'empeschera pas que vous ne l'ayez de la maniere que vous avez fait estat, pourveu qu'il Signor Padre y consente comme je ne doubte point qu'il ne fasse. Mais jusqu'icy je n'ay sceu avoir ny la restitution de mes 4 pistoles et demie ny de l'argent pour moy. lors que je les auray receues je vous les feray avoir par lettre de change si vous voulez avec le reste de ce que je vous devray. Cette apres dinee je vous chercheray des tablettes de chagrin comme vous les desirez et vous les envoyeray par Monsieur Elveston gouverneur des Messieurs de Gent<note n="#2"/>, qui part demain pour Hollande.</p>
+<p>Il faut que l'horologe pour Monsieur Brounker soit comme le vieux que j'ay, c'est a dire pour la forme et cercle unique. Les indices estoient bien ordonnez dans celuy qu'il<note n="#3"/> vendit a Monsieur Bouillaut<note n="#4"/> a long pendule. et qu'il imite cestuy la en tout, si ce n'est qu'il soit bien assurè de pouuoir faire mieux. J'espere qu'a la fin il aura estè payè de l'autre horologe qu'a eu Monsieur Bouillaut<note n="#5"/>. Le frere Louis avoit promis de le faire, et je serois bien aise de scavoir s'il s'en est acquitè.</p>
+<p>J'ay trouvè le Palais et toutes les boutiques fermees a cause du jour de feste<note n="#6"/>, quoyqu'on m'eust dit que l'apres dinee elles seroient ouvertes. Vous n'aurez donc les tablettes que par l'ordinaire prochain.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

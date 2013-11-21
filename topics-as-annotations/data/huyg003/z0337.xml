@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0337"/>
+<meta type="date" value="1656-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="wall057"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0337">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Hyperbolac quadratura. Arithmetica Meibomii. longius idonea. <persName key="hobb001">Hobbes</persName>. quod epistolac meae partim. Horologium. Saturnus. Hevelius deceptus. Bullialdo ostendi. Epistola mea ad Aynscom. Symbola moderatè adhibenda.</p>
+</div>
+<p>Tu quidem Vir Clarissime nova quotidie prodis diligentiae tuae specimina cujusmodi sunt ea quae nuper mihi per Dominum <persName>Trommium</persName><note n="#1"/> deferenda curasti, pro
+quibus ingentes tibi gratias ago. at ego a tempore aliquo prorsus perfunctorie in studijs hisce versor, et fere in totum cessator evasi, dum valetudini parum firmae curam adhibere cogor, atque et moderavi mihi ab intenta ista meditatione. Nunc cum quasi postliminio et mathesin, et Eruditorum virorum commercium repetam, video te imprimis esse ad quem plurima scribendi materia suppetat. Ac primum quidem illis tuis literis respondebo quas mihi Dominus <persName>Bartholinus</persName> tradidit<note n="#2"/>. e quibus illud primum intelligere gavisus sum tetragonismum tuum arithmeticum, supputatione Domini <persName key="brou051">Bronker</persName> comprobari.
+Hinc enim manifesto constat recte sese habere propositiones omnes tuas, quibus co pervenisti.</p>
+</div>
+</body>
+</text>
+</TEI>

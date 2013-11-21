@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1699"/>
+<meta type="date" value="1669-02-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1699">
+<p>Ne pouvant trouver le Borghini<note n="#1"/> chez les libraires, je hasarderay de vous envoyer celui que j'ay icy a mon <hi rend="i">risico</hi>, pourveu que vous me promettiez de le renvoyer au plus tost. Il partira dans quelque tems des hardes pour Monsieur Boreel, a ce que Monsieur Romf m'a dit, avec lesquelles je pourray le mettre.</p>
+<p>Le Seigneur Baron de Nulandt commence a parler<note n="#2"/> en grand docteur, et me mande froidement, d'avoir trouvè les mesmes proportions de verres, pour imiter l'Hyperbole, dont je lui avois parlè dans ma lettre, quoique je sasche bien que cela passe infiniment sa capacitè.</p>
+<p>Les calculs qu'il m'envoye sont trop eloignez de la veritè, et je ne manqueray pas de le lui remontrer<note n="#3"/>. Voila un bon autheur pour escrire contre Monsieur des Cartes. Vous ne parlez plus des oculaires que vous m'avez promis<note n="#4"/>.</p>
+<div type="closer">
+<p>A <placeName key="parij001">Paris</placeName> ce 1 Féburier 1669.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

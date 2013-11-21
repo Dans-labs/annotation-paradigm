@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1695"/>
+<meta type="date" value="1669-01-14"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1695">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 4 Janvier 166 8/9.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je viens de receuoir tout astheure la vostre, que ie crois contenir ce que vous auez eu la bonté de promettre<note n="#1"/> à la Societé Royale. Je fais scrupule de l'ouvrir tout seul, c'est pourquoy ie le garderay fermé iusques à ce que ie rencontre nostre President<note n="#2"/>, ou iusques au Jeudy prochain, le iour<note n="#3"/> de nostre Assemblee. Cependant, puisque dans vostre lettre<note n="#4"/> au Chevalier Moray vous semblez attendre reciproquement quelque chose de ce qu'on pourra auoir medité icy sur ce sujet,
+principalement ce que Monsieur Wren y a speculé, ie n'ay pas voulu manquer de vous envoyer le papier enclos<note n="#5"/>, qui est la copie de ce que Monsieur Wren presenta à nostre Societé il y a 15<note n="#6"/> iours, estant desia par leur ordre enregistré: comme Elle ordonnera sans doubte d'enregistrer ce qu'il vous a plû de leur addresser; dont vous serez plus amplement informé par le prochain ordinaire, dieu aidant.</p>
+<div type="closer">
+<p>Je suis
+<lb/>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy
+<lb/>à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

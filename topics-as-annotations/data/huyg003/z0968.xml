@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0968"/>
+<meta type="date" value="1662-02-09"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0968">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 30. Janvier 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>Voycy, selon ce que Je vous ay promis dans ma derniere<note n="#1"/>, les lettres que vous m'auez enuoyees<note n="#2"/>, auec copie de celles<note n="#3"/> que nous auons euës de la mesme main. Dans cellecy il semble que Monsieur Wren y soit assez interessé pour y faire quelque responce: Mais il n'en a point d'enuie; disant que tout ce qu'il y a à dire, est que Monsieur Frenicle s'est imaginé, qu'il a des opinions qu'il n'a point. Vous iugerez ce qui en est en lisant ce qu'il dit. Monsieur Wallice n'a point encor veu ce qui le touche: mais il le verra dans peu de iours, et vous sçaurez la responce qu'il y fera. Dans ma derniere, J'oubliay d'adiouster au nombre de 54. une
+fraction, de ¾, en parlant de la mesure Vniuerselle. Mais depuis, Monsieur le Mylord <persName key="brou051">Brunker</persName> a fait faire des balles d'argent pur et a rendu sa reigle bien plus facile, pour la trouuer. C'est qu'il faut faire une pendule d'un fil de soye bien deliee, &amp; une balle d'argent pur, dont le diametre estant la 50<hi rend="sup">me</hi> partie de la longueur du fil, chaque vibration se puisse faire en une seconde, les excursions n'excedans point 5. degrez de chaque costé. alors la longueur du fil, depuis le centre de la balle, en haut, sera la mesure uniuerselle desiree, qui se peut faire partout, et pourra seruir de fondement pour toutes les autres mesures dont on a besoin. Or pour faire cette mesure on peut prendre une balle d'un diametre moindre que le poulce d'un homme ordinaire, et l'ayant attachee à un fil de soye de la longueur requise pour des secondes, si elle n'est pas 50. fois plus grande que le diametre de la balle, il en faut prendre une autre de diametre plus petite ou plus grande iusqu'a ce qu'on ait rencontre la proportion proposee. Faites en une Je vous prie de cette façon, et enuoyez nous en la longueur en poulces de Rhynland, a finque nous la puissions comparer auec celles que 4. ou 5. de nostre<note n="#4"/> se sont chargez de faire. Je crois vous auoir dit dans ma precedente que des balles de plomb de differente grandeur ne font pas des vibrations egalles en temps, quelques petites qu'en soyent les excursions, selon ce que nous auons experimenté, quoy qu'il semble que vous n'y ayiez point trouué de difference ny en differentes matieres, ny en differentes grandeurs. Je pretends vous enuoyer dans ce pacquet une autre iolye chose<note n="#5"/> qui vient aussi de Mylord Brunker, si le Copiste me tient parole, dont Je crois, vous ne serez pas mal satisfait. C'est une demonstration pour prouuer, qu'un Cannon commence a reculer deuant que la balle en soit sortie. Vous y trouuerez des experiments qui vous surprendront d'abord, si Je ne me trompe. Ce sera la premiere Copie qui en a esté donnee. En voylà assez pour cette fois cy. Mais il y a apparence que la responce que vous ferez a ma derniere me donnera suiet de vous entretenir plus long temps. Vous sçauez que Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>pendant que J'acheve descrire voyez Mylord Brunker qui entre, et m'apporte une demonstration de la proportion qu'il faut aux Corps de diferentes matieres pour rendre la velocité de leur descente egalle. Je vous ay bien dit dans ma precedente<note n="#6"/> que vous ririez de ce que luy et moy auions tous deux oublié, ce que vous m'en auiez mandé (ce que je ne reconnus, qu'apres auoir releu vostre lettre)<note n="#7"/> Mais, à cette heure si vous faites comme luy et moy auons fait, vous rirez bien demy heure durant. Il se trouue que J'auois oublié les termes de sa proposition aussi, me souuenant seulement qu'au fonds, elle s'accordoit auec la vostre: mais par ce papier<note n="#8"/> qu'il vous enuoye, auec ses baisemains, vous verrez qu'il y a de la difference entre les deux propositions, (cest a dire la sienne et la vostre) non pas seulement en ce qui regarde les termes, mais aussi en ce que la sienne est plus vniuerselle que la vostre. la sienne estant. Que pour faire que deux Corps de diferente matiere tombent en mesme temps de pareille hauteur, <hi rend="i">il faut que la superficie de l'une soit a la superficie de l'autre</hi>, <hi rend="i">comme leur pesanteur actuelle</hi><note n="#9"/>, au lieu que la vostre parle de la proportion des Diametres, &amp; de la persanteur<note n="#10"/> specifique. la vostre estant vraye seulement des Corps
+solides; et la sienne comprenant aussi ceux dont le dedans est vuide (si cela se peut dire) ou plein de quelque autre matiere. Maintenant je crois que l'Apostille vous agreera autant que tout le reste. A Dieu.</p>
+<p>&nbsp;</p>
+<p>jl me souuient n'auoir pas eu le loisir de relire ma derniere apres l'auoir escritte, ce qui sera cause sans doubte que le sens y sera bien souuent embrouïllé, puis qu'il m'est bien ordinaire d'oublier des paroles qu'il faudroit escrire.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

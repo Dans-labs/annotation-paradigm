@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0275a"/>
+<meta type="date" value="1656-03"/>
+<meta type="sender" value="page011"/>
+<meta type="recipient" value="colv001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0275">
+<div type="opener">
+<p>Reverende atque amicissime Domine <persName key="colv001">Colvi</persName>.</p>
+</div>
+<p>Ut tester quantum me affecerit chartula multis nominibus gratissima, revera novellae sidereae<note n="#1"/>, quas authoris<note n="#2"/> nobilissimi jussu mihi tradidisti<note n="#3"/>, Carmen hoc<note n="#4"/> qualecunque è venulâ nostrâ, flevili sane atque pauperculâ profudi; seu potius, quae nostra est in hoc genere tarditas, guttatim expressi. Id si tibi non prorsus oculis ejus indignum videatur, ceu redhostîmentum, beneficii accepti vice, cum tuis ad eundem transmittendum exhibeo. Quid si generosissimus iste heros, promissi perquam liberalis memor, nos hîc etiam aliquando arcanorum istorum, quae primus propalare coepit, epoptos efficiat; ut quod illi nunc lubenter meritoque gratulamur, nobismet solidius gaudeamus. Siquidem Calthovius<note n="#5"/> noster Telescopium suum aliò amandavit; nisi subindicatae benignitatis participes evadamus, spes ista decollavit. Modo lentes idoneae mihi mitterentur, tubum duodecempedalem, Calthovii dicti auspiciis, propriis sumptibus hîc construi curarem. Sed haec tibi in aurem. Dispiciemus alias latius &amp; coram, quomodo voti istius compotes fieri possimus. Interim valide valeto &amp; amare pergito</p>
+<div type="closer">
+<p>Tuum <persName key="page011">R. Pagetium</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Reverendo Doctissimo Domino <persName key="colv001">A. Colvio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

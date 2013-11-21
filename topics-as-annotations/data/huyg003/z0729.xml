@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0729"/>
+<meta type="date" value="1660-03-14"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0729">
+<div type="opener">
+<p>Nobilissimo, Clarissimoque Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. a Schooten</persName> S.D.</p>
+</div>
+<p>En mitto Tibi, Vir Clarissime, de quo olim locutus fueram Tractatum<note n="#1"/> de concinnandis demonstrationibus Geometricis ex Calculo Algebraïco, quem propediem me missurum nuper nuntiavit Ducquius<note n="#2"/> noster. Rogo itaque ut eum diligenter perlegere digneris, quàm primum poteris, quoniam Typographus praelo committere ipsum efflagitat, ut finem operi imponeret. Quòd si quae à me commissa
+passim plumbo Hispanico vel rubrica annotaveris, vel aliter rectius se habitura judicaveris, rem hercle longè gratissimam mihi feceris, utpote qui sum semperque ero</p>
+<p>&nbsp;</p>
+<p>Tibi devinctissimus <persName key="scho197">Fr. à Schooten</persName>.</p>
+<p>&nbsp;</p>
+<p>Dabam Lugd. Bat. die 14 Martij 1660.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van d' Heer <persName key="huyg001">van Zuijlichem</persName>, Raedt ende Rentemeester van Sijn Hoocheijt, resideerende in S'Graven-hage.
+<lb/>Cito Cito port met een packje.</p>
+</div>
+</body>
+</text>
+</TEI>

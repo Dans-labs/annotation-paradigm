@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2421"/>
+<meta type="date" value="1686-04-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="puy_011"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2421">
+<p>Viro Nobili Carolo du Puij Epinassio, per hanc temporum iniquitatem, dum religioni consulit, è Gallia profugo, mihique antehàc, dum illic agerem, optimè noto; quandoquidem hoc ipsum meo testimonio comprobari expetiit, lubens volensque qualecumque hoc officium praestiti. Adeoque haec visuris adsevero virum hunc eximium, in Academià Parisina, Geometriae et rerum naturalium studiis excolendis a Ludovico XIV instituta, mecum annos aliquot versatum, qui, si bene memini fuere a Christo Nato 1670, cum diebus proxime sequentibus, quo tempore et annuâ pensione Regis illius Serenissimi nomine dotatum scio; et Exercitijs observationibusque cum Astronomicis tum Geometricis egregiam operam navasse; donec ab Illustrissimo Colberto, Caleti atque aliorum locorum munitionibus procurandis praeficeretur.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> 12 Aprilis A<hi rend="sup">o</hi>. 1686.</p>
+<p><persName key="huyg003">Chr. Hugenius de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,20 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0866"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0865"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0866">
+<p><figure><graphic url="huyg003oeuv03ill46.gif"></graphic></figure><note n="#1"/></p>
+<p>Astronomus quidam Londinensis nomine Street<note n="#2"/>, semidiametrum solis tunc temporis calculo inveniebat 15′.45″. Ego vero hora 2<hi rend="sup">da</hi>. Mercurium vidi occupare locum C, (quantum nimirum oculi aestimatione determinare poteram) ita ut distantia ejus à verticali AB per centrum ☉ transeunte esset circiter 4′.20″. distantia vero a margine solis 3′.20″. Invertendum autem est Schema.</p>
+</div>
+</body>
+</text>
+</TEI>

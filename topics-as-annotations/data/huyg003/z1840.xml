@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1840"/>
+<meta type="date" value="1671-08-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1840">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 20 Aoust 1671.</p>
+</div>
+<p>Je crois que vous devez desia estre de retour a la Haye et pour cela je vous adresse les lettres cyjointes pour faire tenir ou il faut.</p>
+<p>J'ay parlè ces jours passez avec des gens qui se connoissent en livres touchant l'histoire de Mezeray<note n="#1"/>, qui m'assurent que l'abbregè in 4<hi rend="sup">o</hi><note n="#2"/> vaut bien mieux que la grande histoire comme elle est presentement, dans la quelle l'autheur mesme a reconnu beaucoup de fautes et faussetez qu'il a corrigées dans le dit abbregé. Il se vend 8 escus a ce qu'ils m'ont dit.</p>
+<p>Ces jours passez nous avons observè une tasche fort notable au soleil, ce qui n'est arrivè en 20 ans<note n="#3"/>, et comme elle a passé hier a l'autre costé du soleil, il y a apparence que dans 12 jours d'icy elle pourra revenir encore. Les figures estoyent etranges et chaque jour differentes quand on regardoit avec nos grandes lunettes.</p>
+<p>Saturne apres avoir esté rond pendant 2 ou 3 mois a repris ses bras devant que je les eusse attendus, mais si minces qu'a peine sont ils visibles, et je predis maintenant que vers la fin de l'annee ils disparoistront encore. Vous avez de trop bons verres pour n'observer plus.</p>
+<p>Je vous prie si vous voyez Monsieur de Ginhoven<note n="#4"/> de le prier de faire response a la lettre que je luy ay escrit<note n="#5"/>. ou mandez le moy s'il n'est peutestre point a la Haye. J'ay recommandé la mesme chose au frere Louis<note n="#6"/> mais je doute s'il ne sera point restè a Zulichem. Il Signor Padre ne reviendra t'il jamais<note n="#7"/>. Il y a longtemps que je n'ay point eu de ses lettres.</p>
+<p>Je recommande a ma soeur de Zeelhem la garde du depost que je luy ay laisse entre les mains. Je me suis mis en despense ayant acheté des chevaux etc. de sorte que peut estre je pourray avoir afaire bientost de ce sac de reserve. Adieu.</p>
+</div>
+</body>
+</text>
+</TEI>

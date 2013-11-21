@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1561"/>
+<meta type="date" value="1666-10-06"/>
+<meta type="sender" value="foge011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hambu001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1561">
+<div type="opener">
+<p>Nobilissime &amp; doctissime Vir.</p>
+</div>
+<p>Literas has quod serius accipis, partim inde factum est quod te <placeName key="denha004">Hagae Comitis</placeName> adhuc commorari sperabam, partim morbi mei culpâ accidit, qui hactenus tantum levaminis mihi non concessit, ut tibi potuissem scribere. Ceterum diu est, quod tua merita in rempublicam literariam aestimem, &amp; propterea valde desideravi tuam amicitiam. Superiore hieme speraveram me illâ Parisiis fruiturum, sed frustra. Nunc cum te Hagae requisierim, denuo cum fortuna conqueri necesse habeo, quod eam mihi plane invidit. Sed faciliorem ad eam aditum mihi promitto, parario Clarissimo Slusio.</p>
+<p>Ego, quantum in me erit, studebo, ut, quocunque loco aut tempore tibi aliquid efficere possim, me non segnem fuisse intelligas. Vale Vir Nobilissime.</p>
+<div type="closer">
+<p>Dabam Hamburgi 6 Octobris 1666.</p>
+<p>Tuus omni cultu et obsequio <persName key="foge011">Martinus Fogelius</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Mr. Mr. <persName key="huyg003">Huguens</persName> presentement
+<lb/>a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0850"/>
+<meta type="date" value="1661-03-21"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0850">
+<div type="opener">
+<p>Jeudy matin.</p>
+</div>
+<p>Je vous dis, Monsieur, encore vne fois Adieu<note n="#1"/> bien mortifié de ne vous le pouuoir dire chés vous de viue voix comme il estoit bien raisonnable que je fisse. Donnes
+moy de vos nouuelles quand vous serés a Londres pour m'oster d'inquietude et mandes moy si Milton<note n="#2"/> y est encore et sans estre recherché du passé.
+Je receus hier vn paquet de Monsieur <persName>Heinsius</persName>.
+I'enuoye la Response a Monsieur <persName key="beun006">de Beuning</persName>.
+Obligés moy de luy bailler la lettre latine que je vous remis hier afin quil la joigne a la mienne et quelles aillent ensemble dans son paquet. Je suis a vous sans reserue.</p>
+<div type="closer">
+<p><persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Huygens de Zulikem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

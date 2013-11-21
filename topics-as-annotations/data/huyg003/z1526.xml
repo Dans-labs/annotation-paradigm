@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1526"/>
+<meta type="date" value="1666-04-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1526">
+<div type="opener">
+<p><persName key="colb012">Colbert</persName>.</p>
+<p>Eodem die.</p>
+</div>
+<p>que je viendray au plustost.</p>
+</div>
+</body>
+</text>
+</TEI>

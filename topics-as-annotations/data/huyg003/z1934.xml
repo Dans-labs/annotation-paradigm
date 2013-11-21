@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1934"/>
+<meta type="date" value="1673-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="roye044"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1934">
+<p>Pour M. <persName key="roye044">Royer</persName> qui avait copié mes Tables pour les imprimer.</p>
+<p>&nbsp;</p>
+<p>Ces tables Representent Orbites, proportion et distances de la terre et des autres planetes a l'entour du soleil selon <persName>Copernic</persName> avec leurs excentricitez et aphelies. Et servent l'Ephemeride perpetuelle au moins pour 200 ans, pour savoir le lieu ou elles paroissent dans le ciel, en longit. et latit. et leur position et distances tant entre elles qu'a l'esgard du soleil, comme il se verra par l'explication.</p>
+<p>Dans la premiere table le ☉ est au milieu de toutes: apres le plus proche est celuy de Mercure et en suite de Venus la Terre Mars &amp; Jupiter Saturne et un cercle a l'entour qui represente l'Ecliptique<note n="#3"/>.</p>
+<p>La lune n'est point icy non plus que les 4 satellites a l'entour de Jup. ni les 2 ou 3 a l'entour de ♄ outre son anneau qui l'environnent parce que les planetes subalternes ou compagnes des planetes ou lunes, sont si pres de celles qu'ils accompagnent a proportion des distances de ces planetes principales du soleil que leur petites orbites estant representees proportionellement ne seroient point ou a peine visibles, car par ex. le plus distant des compagnons de ♃ n'auroit pas son cercle icy de la grosseur d'une teste d'epingle.</p>
+<p>la 2 table represente les orbites des 4 planetes Mercure ♀, la terre, ♂ en plus grande forme afin que les divisions soient plus grandes.</p>
+<p>Pour se servir de ces tables pour cela il faut seulement que les lieux soient connus une fois de chasque planete dans son orbite, que l'on trouve ou par les Tables astronomiques comme il sera dit, ou par les Ephemerides qui marquent le lieu apparent du quel par le moyen de ces tables on trouve facilement le lieu dans le chemin. Et ce lieu estant trouvé une fois pour l'avoir quelque autre temps donnè on n'a qu'a conter par mois ou par jours selon la division des orbites et cela suivant l'ordre des signes, si c'est pour l'avenir ou au contraire, si c'est pour le temps passè.</p>
+<p>Pour trouver a un temps donné par le moyen des Ephemerides le lieu d'une planete dans son chemin orbite ou Eccentrique, (car tous ces noms signifient la mesme chose) il faut tendre le fil qui est attachè au centre, sur le degrè de longit. [dans] l'Ecliptique qui leur est attribuè a ce temps. Et du lieu de la terre a ce mesme temps qui est marquè par le jour du mois dans son chemin, il faut poser une regle parallele au dit filet et a l'endroit qu'elle coupera le chemin de la planete, vers le mesme costè qu'est tendu le fil, ce sera la le lieu de la planete dans son chemin, ou l'on mettra une marque par exemple &amp;c. Il est a noter que d'autant plus que le lieu de la planete pris dans les Ephemerides sera plus proche de sa conjonction ou opposition avec le soleil d'autant plus precisement se trouvera par cette maniere le lieu veritable dans l'orbite. Et si l'on prend le temps de la conjonction ou opposition mesme le filet tendu sur le degrè de longitude en coupant luy mesme le chemin de la planete y montrera le lieu que l'on cherche.</p>
+<p>L'autre maniere de trouver ce lieu dans l'orbite qui est par les Tables Astronomiques est telle. L'on calcule seulement le mouvement moyen de la planete, c'est a dire le degré de sa distance depuis le commencement d'Aries selon ce moyen mouvement, qui n'est qu'une addition a faire. Et ayant tendu le filet sur ce degré de l'Ecliptique il faut poser la regle parall. au filet et qu'elle passe par le centre du moyen mouvement de la planete et la ou elle coupera le chemin de la planete ce sera son lieu au temps donnè.</p>
+<p>Le lieu de la planete dans son orbite estant connu, l'on en trouve le lieu apparent selon sa longitude et latitude de cette maniere. L'on pose une regle en sorte qu'elle passe par le lieu de la planete qu'elle a dans l'orbite; et en mesme temps par le lieu de la terre dans le sien, qui est marquè par le jour du mois, puis l'on tend le fil parallele a cette regle, qui montre dans l'Ecliptique le degrè de longitude que l'on cherche. Et pour avoir en suite la latitude, l'on prend la distance entre le lieu de la terre et celuy de la planete dans son orbite, et on la pose depuis le centre ou est attachè le filet vers quelque degré de l'Ecliptique que l'on veut et au point ou arrive l'autre bout du compas, l'on dresse une ligne perpendiculaire sur la regle egale a l'intervalle qui est entre le lieu de la planete dans son orbite et son cercle de declinaison a cet endroit. Et enfin ayant tendu le filet par le bout de cette perpendiculaire vers l'Ecliptique les degrez qui seront compris entre la regle et ce filet marqueront la latitude de la planete qu'il falloit trouver. laquelle latitude est Septentr. si le cercle qui la marque a l'endroit ou se trouve la planete passe en dedans de son orbite. Mais s'il passe en dehors, la latitude sera meridionale.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2388"/>
+<meta type="date" value="1685-06-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="breda001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2388">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 23 Juin 1685.</p>
+</div>
+<p>J'esprouvay hier matin vostre verre<note n="#1"/> et le trouvay bon, comme j'appris que vous l'aviez aussi trouvè. Toutefois il ne represente pas les lettres tout a fait si noires que vostre autre verre ni que le mien, ce qui doit estre imputè au veines qui y sont en grande quantité et tres vilaines. En comparant vostre bon verre, je n'avois pas pris garde que le cercle de carton qui fait l'ouverture ij manquoit, et qu'ainsi l'ouverture estoit plus grande d'un pouce qu'elle ne devoit, ce qui n'empescha pas qu'il ne fist voir les lettres aussi noires et aussi distinctes que le verre nouveau. d'ou vous pouvez bien conclure que l'ouverture estant comme elle doit, il le surpassoit de quelque chose. La haste que vous aviez, peut estre vous aura empeschè de remarquer les defauts de la matière quoyque tres visibles, et telles que je doute fort si vous voudrez achever ce peu qui y reste au poly. Quand j'y retourneray je me garderay fort de cette pression si vehemente, qui d'ailleurs est d'une trop grande fatigue a un ouvrier comme moy. J'ay envoyè chez van der Burght qui promet que la plaque sera faite lundy a midy apres quoy je la donneray aussi tost a nostre homme pour la dresser.</p>
+<p>Suivant le calcul que je viens de faire la profondeur du creux qu'il faut user doit estre un peu moindre que de 1/50 d'un pouce.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zeelhem</persName> Tot Breda.</p>
+</div>
+</body>
+</text>
+</TEI>

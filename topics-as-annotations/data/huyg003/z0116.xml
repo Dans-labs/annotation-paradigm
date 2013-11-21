@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0116"/>
+<meta type="date" value="1652-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="sara003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0116">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Archimedis brevitas. Gregorij prolixitas. levissimum erat argumentum quod primo loco quanquam non tantum casui hoc deberi convenire. miror si intelligat et clare expressum videatur quod responderi posse credat.</p>
+<p>quod non videatur ipse optimam habere opinionem de P. Gregorij quadratura.</p>
+</div>
+<div type="opener">
+<p>R.P. <persName key="sara003">Alfonso Ant. de Sarasa</persName> <persName key="huyg003">Chr. Hug.</persName> S.D.</p>
+</div>
+<p>Magno eoque immerito encomio me exornat epistola tua Vir Clarissime quod tamen in pauca conferre potuisti nec ultra prosequi debueras postquam dixisti Theoremata mea Tibi placuisse. haec summa meorum votorum est ea scripsisse, quae tui similibus viris legisse sit operae praetium. De priore itaque libelli mei parte rectè habet, verum ad alteram quod attinet, hoc dicere liceat, non satis hic te quod maximè petieram praestitisse, ut quae sentires pronuntiare velles. nullo enim pacto inducor, ut te clarè mentem meam sicut scribis, percipere credam, et tamen existimare non defore quod argumentis reponi possit. Illud sanè si modò objicitur quod praecipuam ex quatuor Quadraturis non impugnavi, non multum me movebit. sufficere enim puto quam fui aggressus eam ipsam esse Primariam autem Patri Gregorio censeri, non eo tantum argumento probavi quod primam fecisset, sed hoc omnium erat levissimum. Et tamen assentire tibi nequeo quod casui potius quam certae autoris dispositioni asscribere mavis hoc quod ante alias eam legi voluit. Sed te credo Vir Clarissime hoc affectui dare non illaudabili ergà Patrem Gregorium, ut nihil praetermittas quod in excusationem ejus adferri possit, et quâcunque tandem ratione defensionem viri optimi suscipias. Si verò Geometras agere volimus potior adhuc debet esse ratio <seg org="vetitatis" resp="#ed" type="corr">veritatis</seg>, quam in inventis Patris Gregorij ubique salvam non esse proculdubio dudum animadvertisti. Ita mihi de te persuasum est, neque aliud sentire patitur magna quaedam doctrinae ac peritiae tuae opinio, quae non temere me incessit neque temere excidet. Vale.</p>
+<p>&nbsp;</p>
+<p>Scribo ad Patrem Gregorium et te quoque rogo ut hoc saltem indices ubi error resideat si quem commisisse videor. Durum hercle est si nihil mihi rescire liceat, priusquam ad omnium motas difficultates simul respondeatur.</p>
+</div>
+</body>
+</text>
+</TEI>

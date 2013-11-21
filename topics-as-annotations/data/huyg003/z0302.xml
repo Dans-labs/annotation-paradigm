@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0302"/>
+<meta type="date" value="1656-06-22"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0302">
+<div type="opener">
+<p lang="la">Nobilissime ac Doctissime Vir.</p>
+</div>
+<p>Non meis sanè de re Astronomicâ meritis, quae admodum sunt exigua; sed singulari Tuae humanitati, summoque Tuo erga me affectu tribuendum puto, quod
+et mihi quantocyus observationem tuam circa Saturnum habitam, et quidem per fratrem tuum<note n="#2"/>, Juvenem Nobilissimum ac Praestantissimum, communicare haud gravatus fueris. Quibus observationibus coelestibus, ut magnoperè delector, sic profectò rem mihi fecisti multò gratissimam: quare non solum gratias ingentes Tibi ago et habeo; sed et allaboraturus, ut nullo non tempore par pari rependam. Gratulor felicitati tuae, lateronem ex numero errantium circa Saturnum detexisse: etsi, verum ut fatear, de illo nihil certi adhuc pronuntiare audeam: vidi, et notavi quidem saepissimè prope Saturnum Stellulam: cum verò singulis continuis diebus Planetam observare rarò operam dederim: idcircò, utrum ea stella, fixa, an verò erratica fuerit? minimè deprehendere potui. Imposterum tamen paulò attentius oculos ad istud phaenomenon dirigam, quò et ego aliquid certius statuere possim. Ad vicissitudinem verò facierum phasiumque Saturni, iam à multis annis diligentissimè attendi, ac etiam annuente Divino Numine certam eius periodum, meo judicio, penetravi. De quo Phaenomeno, quales observationes obtinuerim, et quid sentiam, ex hac dissertatiunculâ<note n="#3"/> pluribus intelliges. Quid tu autem hac de materiâ inveneris, ac iudices; num negotium hocce rectè comprehenderim nec ne? gratum erit primâ occasione percipere.</p>
+<p lang="la">Interea Vale Vir Nobilissime et me ama. Dabam Gedani Ao. 1656 ipso die Solstitij.</p>
+<div type="closer">
+<p>Tuae Nobilitatis Studiosissimus <persName key="heve011">Johannes Hevelius</persName>
+<lb/>Consul Gedanensis.<note n="#4"/></p>
+</div>
+</div>
+<div type="para">
+<p lang="la">Nobilissimo ac Doctissimo Viro, Domino <persName key="huyg003">Christiano Hugenio</persName>.
+<lb/><placeName key="denha004">Hag. Comit.</placeName></p>
+</div>
+</body>
+</text>
+</TEI>

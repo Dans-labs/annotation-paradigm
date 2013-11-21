@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2018"/>
+<meta type="date" value="1675-03-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="gorin001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2018">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 22 Mars 1675.</p>
+</div>
+<p>Par ma derniere lettre a mon Pere<note n="#2"/> je souhaitois un heureux accouchement a Madame vostre chere Espouse. Mais a ce que je vois par la vostre de l'onzieme de ce mois, l'effect a prevenu mes veux et vous voila Pere pour la premiere fois et Pere d'un beau garçon<note n="#3"/>, qui est la supreme ambition de tous les nouveaux mariez. Je vous assure que j'en ay bien de la joye, et je vous en felicite et la puerpera d'aussi bon coeur que vous venez de me feliciter de ma nouvelle production des pendules de poche. Il y a du plaisir d'avoir ainsi matiere de se faire des felicitations reciproques a l'un pour des enfans de chair a l'autre pour des enfans d'esprit. Si vostre garçon est beau ma fille la nouvelle invention est aussi belle en son espece et vivra longtemps, de mesme que les enfans du bon Epaminondas, avec sa soeur la pendule aisnée, et son frere l'anneau de Saturne. En effect cette affaire va tres bien, et quoyqu'il y ait eu un peu de peine a executer la machine en petit volume, la premiere que j'ay fait faire a si bien reussi qu'elle sera presentée au Roy, si tost que ses ornements et ajustemens pour la parer seront achevez. Pour la maniere dont vous me conseillez d'user du Privilege, elle s'accorde tout a fait avec le dessein que j'avois. Si la somme que j'en tireray s'accorde de mesme avec celle a quoy vous taxez l'invention j'auray beaucoup plus que je ne me promets. L'embaras et la fascherie que j'en ay eu dans ces commencements meritent bien quelque recompense. Cependant vous pouvez bien juger qu'il me faudra encore
+du temps pour establir mon droit et puis pour m'en defaire, et que cela fera que mon voiage ne pourra pas encores estre entrepris si tost.</p>
+<p>Pour l'autre project que vous faites, de me faire quiter tout a fait ce Pais icy, nous 'en delibererons a loisir, et pourveu que cela se puisse honnestement, je crois que je n'auray pas trop de peine a suiure le conseil qu'on me donnera la dessus. Adieu, et faites mes treshumbles baisemains a Vostre chere Espouse a qui je souhaite une prompte reconvalescence et vie et santé a son gros Dauphin.</p>
+<p>l'on me dit hier que don Sebastian<note n="#4"/> doit passer bien tost icy en revenant de Madrid. ce que apparemment vous devez bien scavoir par dela et je ne scay pourquoy l'on ne m'en a donné avis si je pouvois l'accompagner le reste du chemin j'en aurois bien de la joye, on luy a fait avoir d'icy un passeport.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>, drossart de Gorinchem et du pais d'Arkel A Gorcum.</p>
+</div>
+</body>
+</text>
+</TEI>

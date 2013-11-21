@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0355"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="robe012"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0353"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0355">
+<p>Propositio.</p>
+<p>Ratio maximi in sphaera circuli ad superficiem trianguli sphaerici, eadem est quae duorum angulorum rectorum ad differentiam sive excessum quo tres anguli trianguli sphaerici superant duos rectos.</p>
+<p><figure><graphic url="huyg003oeuv01ill166.gif"></graphic></figure></p>
+<p>Sit triangulum sphaericum BAC, dico &amp;c. Producantur latera BA, BC donec concurrant in D. Et AC productum occurrat quidem ipsi BA in F, ipsi vero BCD in E. Est igitur BADCB sector sphaerae: item ACFBA, item CDEFC. Estque superficies sectoris BADCB ad superficiem sphaerae ut angulus CBA ad quatuor rectos.<note n="#1"/> Similiter superficies sectoris ACFBA ad superficiem sphaerae, ut angulus BAC ad 4 rectos. Et denique sectoris CDEFC superficies ad superficiem sphaerae ut angulus FCD vel BCA ad 4 rectos. Trium autem horum sectorum superficies simul aequantur superficiei hemisphaerij BADF, una cum duobus triangulis BAC et FDE, hoc est una cum triangulo BAC bis sumpto; nam triangulum FDE triangulo BAC aequale est et simile, ut postea ostendetur. Ergo componendo, erit summa trium sectorum, hoc est, superficies hemisphaerij BADF cum trianguli BAC duplo ad superficiem sphaerae, ut anguli B, A, C simul sumpti ad 4 rectos; vel sumpto consequentium dimidio, erit superficies hemisphaerij BADF una cum duplo triangulo BAC ad ipsam hemisphaerij superficiem ut anguli B, A, C, simul sumpti ad 2 rectos. Et dividendo, duplum triangulum BAC ad superficiem hemisphaerij, sicut excessus angulorum B, A, C, supra duos rectos ad duos rectos. Et sumtis semissibus utriusque terminorum antecedentium; triangulum BAC ad maximum sphaerae circulum (per demonstrata ab Archimede), sicut excessus angulorum B, A, C supra duos rectos ad duos rectos. quod erat demonstrandum.</p>
+<p>Quod autem triangulum BAC sit aequale triangulo DFE sic ostenditur.</p>
+<p>Angulus E aequalis est opposito ECD, ex Theodosio<note n="#2"/>. hoc est ACB. Similiter angulus EDF aequalis est ipsi ADC, hoc est, ABC. denique angulus EFD aequalis BFC, hoc est, BAC. Cum igitur omnes anguli omnibus aequales sint in triangulis BAC, DFE ipsa quoque triangula aequalia erunt.</p>
+<p>Potuisset etiam laterum aequalitatem demonstrasse omissis angulis.</p>
+<p>Nam quia BAD est semicirculus, itemque ADF, dempto arcu communi AD erit arcus BA aequalis DF. Sic quoniam BCD et CDE sunt semicirculi dempto communi CD erit BC aequalis DE. Eademque ratione AC aequalis FE<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

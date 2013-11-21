@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0293"/>
+<meta type="date" value="1656-05-30"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0293">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.P.</p>
+</div>
+<p>Quae nuper, Vir Clarissime, de aleae ludo transinisisti mihi, atque eorum versionem, quae ante communicaveras, omnino facilitare queunt, rectè quidem à me
+accepta sunt, atque pro ijs maximas Tibi gratias habeo. Quoniam autem hactenus tantum temporis non contigit mihi, ut quicquam ejusdem versionis adhuc suscipere potuerim, distuli id in commodius tempus, ubi aliorum versione, quae in eodem tractatu praecedunt, ero defunctus. Priusquam verò eorum praelo quidquam committatur, visenda Tibi omnia destinavi, ut, si quid in ijs addere vel mutare volueris, id Tibi integrum sit. Porrò, quae in tractatu, qui inscribitur <hi rend="i">Wiskonstig Bewijs</hi> tu nimia censes, ego quidem quantum ad haec longè aliter statuendum putarem, quippe hic noster Du Boijs in omnibus fermè conventibus ac consortijs, coram Professoribus, Collegis suis, alijsque Viris literatis, quin immò in curribus ac navibus, adeò pertinaciter (licèt ante erroris monitus fuerit) ac audacter se Systema <persName>Copernicanum</persName> ac Philosophiam Cartesianam funditus evertisse jactabat, ut plures viri cordatiores illi haec ita asseveranti omnino fidem habuerint; illeque non solum post in libello, cui titulus: <hi rend="i">Naecktheyt der Cartesiaensche Philosophie &amp; c</hi><note n="#1"/> ad eandem extirpandam et multorum intolerabilium criminum suspectam reddendam, sed et ad ejusdem fautores apud vulgus odio prosequendos in concionibus publicis operam dederit. Adeò ut in praedicto libello vix satis, judicio meo, pro merito vapulet ac perstringatur. Nuper hìc apud Bibliopolas folium chartae venale extitit, cui titulus erat: <hi rend="i">Specilla Circularia</hi><note n="#2"/>, sed absque nomine Autoris et Typographi in lucem proditum, quod ego cum alijs, propter accurationem, à Te editum credidi, sed, quoniam incertus planè, quid de eo sit, à Te scire aveo, quippe qui in Dioptricis multa ingeniosa hisque similia excogitaveris atque ad foelicem exitum perduxeris.
+Quae etiam ratio est, ut illud ipsum Domino <persName key="wall057">Wallisio</persName>, cui id non ingratum fore credidi, nuper transmiserim; praesertim cum et ille hoc modo, hoc est, viâ Analiticâ, sua, quae de Mathematicis nuperrime edidit, pertractare ac demonstrare non veritus fuerit. Quae de Meibomij tractatu commemoras, mira mihi utique visa sunt, utpote quem in hisce Disciplinis magis semper versatum putavi, quam ut de definitionibus disputationem institueret, quandoquidem ea res, ut rectè judicas, omnino frivola est. Caeterum literae hae ut sub tuarum
+ductu, quas Mylonio destinasti, quàm primum ad ipsum amandentur, humiliter rogo. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>30 Maij 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van Men Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>in S'Graven-hage op t' pleyn.
+<lb/>cito
+<lb/>cito
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

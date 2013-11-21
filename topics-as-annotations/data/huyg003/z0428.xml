@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0428"/>
+<meta type="date" value="1657-11-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="copp007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="amste001"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0428">
+<div type="opener">
+<p><placeName key="denha004">'s Gravenhage</placeName> <date>16 Nov. 1657</date>.</p>
+<p>Monsieur <persName key="copp007">Coppenol</persName>.</p>
+</div>
+<p>Het is beter uytgevallen met het Latynsche dicht dat VE van mijn Vader versocht heeft als ick hadde gedacht: Gelyck VE sult sien uyt dit nevensgaende<note n="#2"/> het welck hy my gister avont gaf om aen VE te senden. Het schijnt dat de begeerte die hij gehadt heeft om VE hier door contentement te geven, stercker geweest is als sijn sieckte. Doch hy verhoopt, dat VE dese syne promptheydt in acht nemende, oock des te vlytigher sult wesen om syn curieusheyt te voldoen in 't gheene hij van VE handt heeft begeert. Vale</p>
+<div type="closer">
+<p>VE dienstwillige vrundt <persName key="huyg003">Chr. Huygens van Zuylichem</persName>.</p>
+</div>
+<p>Mijn vader soude geern weten wie dat is, en wat beroep heeft eenen J. de
+Decker<note n="#3"/>, een seer fraey Poeet aldaer, daer hij een veers van ontfangen heeft. Indien VE hem kent, bidde dat my dien aengaende eenigh berecht wilt geven.</p>
+</div>
+<div type="para">
+<p>Den Eersamen seer Discreten Sr. <persName key="copp007">Lieven van Coppenol</persName> tot Amsterdam.
+<lb/>Inde Haerlemmerstraet tegen over de Eenhoren sluijs Inden ouden Tobias.</p>
+</div>
+</body>
+</text>
+</TEI>

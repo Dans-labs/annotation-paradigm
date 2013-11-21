@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1272"/>
+<meta type="date" value="1664-11"/>
+<meta type="sender" value="brou051"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="1268"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1272">
+<div type="opener">
+<p>de Milord <persName key="brou051">Brouncker</persName>. 1664<note n="#1"/>.</p>
+</div>
+<p><figure><graphic url="huyg003oeuv05ill13.gif"></graphic></figure></p>
+<p><note n="#2"/> According to my Principle, which agrees well with the few Experiments j haue made of that kind, a Pendulum isochrones to any line or plain, or solid giuen equals the distance from the Vertex of the horizontal plaine passing the Center of Grauity of that plaine or solid which is made of the horizontal parts of the giuen line, plain or solid multiplied into the distance from the Vertex<note n="#3"/>.</p>
+<p>For Example AB being a line giuen, the triangle ABC is the plain so made and AD is the distance from the Vertex A of the horizontal plaine ED passing the Center of grauity f, which is therefore the Altitude of the Pendulum isochrone to the line AB (AD = ⅔ AB). And so a Pendulum isochrone to a rightline triangular plaine is ¾ of the Altitude of the triangle &amp;c.</p>
+<p>This pray present to Monsieur de Zulichem with my very humble seruice &amp; thanks for what he has been pleasd to communicate; and assure him of a very acceptable reception of as much more as he shall think fit to oblige me with.</p>
+</div>
+</body>
+</text>
+</TEI>

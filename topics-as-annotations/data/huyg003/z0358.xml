@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0358"/>
+<meta type="date" value="1656-12-12"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0358">
+<div type="opener">
+<p lang="la">Clarissimo Viro Juveni Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Binas hasce epistolas<note n="#1"/>, quas hesterno die Hafniâ à Clarissimo Domino <persName>Bartholino</persName>, meis insertas, accepi, ecce tibi sisto. Earum autem alteram tu facilè Vlacquio<note n="#2"/> tradendam procuraveris. Porrò maximas tibi gratias habeo, pro Epistola tua nuperrime mihi missa, in qua sanè quàm planissimè et doctissime, pro more tuo, difficultatem, quae utrumque nostrum morata ante fuit, explicas; ita ut nil putem Robervallo, praeter ejus libidinem in traducenda Cartesij mente, relictum iri. Adeò enim quadrare tua cum Cartesij mente deprehendo, ut omnino mihi constare videatur, quo consilio ille haec verba in Geometria sua posuerit. <hi rend="i">Et si la quantitè</hi> y <hi rend="i">se trouvoit nulle, ou moindre que rien en cete aequation, lors qu'on a suppose le point</hi> C <hi rend="i">en l'angle</hi> DAG, <hi rend="i">il faudroit le supposer aussy en l'angle</hi> DAE, <hi rend="i">ou</hi> EAR, <hi rend="i">ou</hi> RAG, <hi rend="i">en changeant les signes</hi> + <hi rend="i">et</hi> -, <hi rend="i">selon qu'il seroit requis à cet effect</hi>. E quibus colligere licet, Cartesium non prius Quaestioni penitus satisfactum existimasse, quàm postquam punctum C in omnibus illis 4<hi rend="sup">or</hi> angulis fuerit suppositum; et quidem prout id ipsum directè, hoc est, per veram aequationis radicem (quandoquidem salsae radices vulgò alio planè sensu accipiendae veniunt, et indirectè ad quaestionis solutionem faciunt) fucrit quaesitum. Nondum enim de falsis mentionem fecerat, cum earum naturam in 3<hi rend="sup">tio</hi> libro primum exponat. Quaestionem autem hanc ab ipso haud aliter fuisse pertractatam, quàm ut ibidem simul locorum planorum et solidorum
+compositionem ostenderet, vel inde patet, quòd, in amorem hujus quaestionis, cujus sane nullum usum agnoscebat, nec ejusdem solutionem penitus exhibere in animum induxit unquam, (quippe quae omnes curvas, (sicut ipse notat) quae in Geometriam introduci queunt, comprehendit) paulò ante, pagina 309 haec verba, antequam vel ipsam serio explicare est aggressus, non adposuisset: <hi rend="i">Car il m'ennuje desia d'en tant escrire</hi>. De quibus in commentarijs meis iteratè producturis etiam mentionem sacere decrevi, quemadmodum id è re fore, tu, Vir Clarissime, recte judicasti. Vale.</p>
+<div type="closer">
+<p lang="la">Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>21 Decembr. 1656</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, resideerende ten huijse van de Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>op t' pleyn In <placeName key="denha004">'S graven-hage</placeName>.
+<lb/>Cito
+<lb/>cito
+<lb/>port.</p>
+</div>
+</body>
+</text>
+</TEI>

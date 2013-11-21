@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2290"/>
+<meta type="date" value="1683-03-02"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2290">
+<div type="opener">
+<p>Nobilissime et Clarissime Vir</p>
+</div>
+<p>Quoniam mihi ad Nob. Virum D: de Tschirnhaus scribendum est, officij mei esse putavi, ut Cl. Vir. salutare, et à Te expiscari, num aliquid sit, de quo ipsum certiorem esse cupias. Si quid ergo est quod ipsum ignorare nolis, id vel indices per Epistolam, vel quod malim, tuam ad me mittas rogo: meis includetur, et proximo die veneris, una cum Epistola de l'Abbé Catelan, in Germaniam ablegabitur. Haec te latere nolui. Excusatum me interim propter hanc parrhasiam, qui tibi plane ignotus sum, et tamen tua interturbo negotia, habeas enixè peto. Vale.</p>
+<div type="closer">
+<p>Tuus ex asse <persName key="gent015">Petrus à Gent</persName>. M.D.</p>
+<p>Amstelod. 2 Martij 1683.
+<lb/>Op Boomsloot tegenover 't Haantjes Brouwerij.</p>
+</div>
+</div>
+<div type="para">
+<p>Wel Edele Heer, Mijn Heer <persName key="huyg003">Christiaan Hugens Hr. van Zuilichem</persName>
+<lb/>In 's Gravenhage.
+<lb/>port</p>
+</div>
+</body>
+</text>
+</TEI>

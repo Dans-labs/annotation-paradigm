@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0284"/>
+<meta type="date" value="1656"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="0282"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0284">
+<p>Van Rekeningh in Spelen van Geluck<note n="#1"/>.</p>
+<p>Alhoewel in de spelen daer alleen het gheval plaets heeft de uytkomsten onseecker sijn, soo heeft nochtans de kansse die iemand heeft om te winnen of te verliesen haere seeckere bepaelingh. Als by exempel; die met een dobbelsteen ten eersten een ses neemt te werpen, het is onseecker of hy het winnen sal of niet; maer hoeveel minder kans hy heeft om te winnen als om te verliesen, dat is in sich selven seecker, en werdt door reeckeningh uytgevonden. Soo mede, als ick tegen een ander in drij spelen uyt speel, ende een spel daer van gewonnen hebbe; het is noch onseecker wie eerst sal uyt wesen. doch hoe dat mijn kansse staet tegen de syne, kan seeckerlijck berekent werden, en daer door bekent, ingevalle wij het spel wilden laeten blijven, hoeveel mij meerder toekomen soude van 't gheen ingeset. is als hem. Ofte oock indien iemand anders mijn spel begeerden over te nemen, waer voor ick hem dat soude behooren te laeten. Hier konnen verscheyde questien uyt ontstaen tusschen 2, 3 of meerder getal van speelders. En dewyl diergelycke reeckeningh geensins gemeen en is ende dickmaels kan te passe komen soo fal ick hier in 't korten de wegh daer toe aenwijsen, ende daer nae oock eenighe verklaeringhe doen aengaende de dobbelsteenen.</p>
+<p>Ick neeme tot beyder fondament, dat in het speelen, de kansse die iemand erghens toe heeft, even soo veel weerdt is, als het gheen het welck hebbende hy weder tot de selfde kansse kan geraecken, met rechtmaetigh spel; dat is daer in niemandt verlies geboden werdt.</p>
+<p>By exempel; soo iemand sonder mijn weten in d'eene hand 3 schellingen verberght en in d'ander 7 schellingen, ende mij te kiesen geest welck van beyde ick begeere te hebben, ick segge dit my even soo veel weerdt te sijn als of ick 5 schellingen seecker hadde. Om dat, als ick 5 schellingen hebbe, ick wederom daer toe kan geraecken dat ick gelijcke kans sal hebben, om 3 of 7 schellingen te krijgen ende dat met rechmaetigh spel: gelijck hier naer sal bethoont werden.</p>
+<div type="section">
+<head rend="h4">I. Voorstel.</head>
+<p>Alsickgelycke kans hebbe om <hi rend="i">a</hi> of <hi rend="i">b</hi> te hebben, dit is mij soo veel weerdt als <hi rend="i">a</hi> + <hi rend="i">b</hi> / 2.</p>
+<p>Om desen regel niet alleen te bewysen, maer oock eerst uyt te vinden. soo zy gestelt <hi rend="i">x</hi> voor het gheene dat mijn kansse weerdt is. So moet ick dan <hi rend="i">x</hi> hebbende weder tot de selfde kans konnen geraecken met rechtmaetigh spel. laet dit het spel sijn: dat ick tegen een ander speele om <hi rend="i">x</hi>, en dat den anderen daer tegen mede <hi rend="i">x</hi> insette; ende dat bedongen zij, dat de gheene die wint aen die verliest sal geven <hi rend="i">a</hi>.</p>
+<p>Dit spel is rechtmaetigh, ende het blyckt, dat ick hier door gelycke kans heb om <hi rend="i">a</hi> te hebben, te weten als ick 't spel verlies; of 2 <hi rend="i">x</hi> - <hi rend="i">a</hi>, indien als ick 't win: want alsdan soo treck ick 2 <hi rend="i">x</hi> die ingeset sijn, daer van ick den anderen moet geven <hi rend="i">a</hi>. Indien nu 2 <hi rend="i">x</hi> - <hi rend="i">a</hi> sooveel waer als <hi rend="i">b</hi>, soo soude ick gelycke kans hebben tot <hi rend="i">a</hi> of <hi rend="i">b</hi>. Ick stelle dan 2 <hi rend="i">x</hi> - <hi rend="i">a</hi> ∞ <hi rend="i">b</hi>, komt <hi rend="i">x</hi> ∞ <hi rend="i">a</hi> + <hi rend="i">b</hi> / 2 voor de waerde van myn kans. En het bewijs hier van is licht. Want <hi rend="i">a</hi> + <hi rend="i">b</hi> / 2 hebbende, soo kan ick dat tegen een ander waegen, die mede <hi rend="i">a</hi> + <hi rend="i">b</hi> / 2 sal insetten, ende bedingen dat die het spel wint den anderen sal <hi rend="i">a</hi> geven. Waer door ick gelycke kans sal bekomen om <hi rend="i">a</hi> te hebben, te weten als ick verlies, os <hi rend="i">b</hi>, als ick win; want alsdan soo treck ick <hi rend="i">a</hi> + <hi rend="i">b</hi> dat ingeset is, ende geef hem daer van <hi rend="i">a</hi>.</p>
+<p>&nbsp;</p>
+<p>In getaelen; indien ick gelijcke kans heb om 3 te hebben of 7, soo is door dit Voorstel mijn kansse 5 weerdt; ende het is seecker dat ik 5 hebbende weder tot de selfde kansse kan geraecken. Want speelende om de selve tegen een ander die daer 5 tegen set, met bedingh dat de gheene die wint den anderen 3 sal geven; soo is dit rechtmaetigh spel, ende het blijckt dat ick gelijcke kans hebbe om 3 te hebben, te weten als ick verlies; of 7, indien ick win; want alsdan treck ick 10, daer van ick hem 3 geef.</p>
+</div>
+<div type="section">
+<head rend="h4">II. Voorstel.</head>
+<p>Als ick gelijcke kans hebbe tot <hi rend="i">a</hi> of <hi rend="i">b</hi> of <hi rend="i">c</hi>, het is my soo veel weerdt als of ick <hi rend="i">a</hi> + <hi rend="i">b</hi> + <hi rend="i">c</hi> / 3 hadde.</p>
+<p>Om dit wederom te vinden soo zy als vooren gestelt <hi rend="i">x</hi> voor de waerde van mijn kans. Soo moet ick dan <hi rend="i">x</hi> hebbende weder tot de selfde kansse konnen geraecken door rechtmaetigh spel. laet dit het spel zijn, dat ick tegen 2 andere speele, insettende ieder van ons dryen <hi rend="i">x</hi>; ende laet ick met den eenen dese voorwaerdo maecken; dat soo hy het spel wint hy my sal geven <hi rend="i">b</hi>, ende ick <hi rend="i">b</hi> aen hem, soo ick het kome te winnen. Met den anderen lact ick deze voorwaerde maecken, dat hy het spel wint. &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

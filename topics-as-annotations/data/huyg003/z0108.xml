@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0108"/>
+<meta type="date" value="1651-12-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0108">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+</div>
+<p>Quem tibi nunc libellum mitto fortasse jam dudum expectasti Schoteni Clarissime, sed tijpographorum tarditas moram attulit nimiam de qua pluribus conquererer nisi et tibi non semel expertam scirem. Misi eundem ante biduum Patri Gregorio atque alterum exemplar Patri Sarasae, cui vel imprimis defensio praeceptoris sui videtur esse cordi. In Exetasi adjeci paragraphum <hi rend="i">Atque ut ipsa</hi> usque ad <hi rend="i">Revertor autem</hi>, tuo potissimum suasu, cujus nunc plenam mihi approbationem polliceor, ut et doctorum omnium; Ubique locorum resciri faciam de controversia nostra, scriptoque meo in Gallia impertiar Robervallum, Bruxellis Gotschovium<note n="#2"/>, Bredae Pellium, Golio nunc simul mitto, et in Angliam quoque ad fratrem meum<note n="#3"/>, ut istius regionis Geometris ostendat, pervenire faciam. Nam quanquam summa expectatio et spes est in confessione ipsius antagonistae mei, tamen operam dabo ut ne quid de jure
+suo discessisse dicatur atque ut quam plurimorum rescriptis <seg org="sussragijs" resp="#AD" type="corr">suffragijs</seg>, vicisse me comprobare possim; Inter quae tuum vel praecipuo loco erit, utpote qui cognoscendae causae non exiguam jam ante operam impenderis. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

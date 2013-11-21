@@ -1,0 +1,48 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0455a"/>
+<meta type="date" value="1658-02-01"/>
+<meta type="sender" value="sorb001"/>
+<meta type="recipient" value="hobb001"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0455">
+<div type="opener">
+<p>A Monsieur <persName key="hobb001">Hobbes</persName>.</p>
+</div>
+<p>Reglemens de l'Assemblée de Physiciens, qui se fit à Paris, chez Monsieur <persName key="monm010">de Montmor</persName> l'an 1657.</p>
+<p>&nbsp;</p>
+<p>Monsieur,</p>
+<p>&nbsp;</p>
+<p>Pendant mon seiour à Paris ie n'ay cessé de vous y souhaiter, pour le particulier aduantage que i'eusse retiré de vostre conuersation: mais maintenant ie vous y souhaitterois aussi pour l'interest du Public, qui auroit occasion de se preualoir de vostre presence en l'Assemblée dont ie vous ay parlé. Ie vous ay dit en mes Lettres precedentes, que Monsieur de Montmor m'ayant fait l'honneur de me communiquer le dessein qu'il auoit de receuoir chez luy vn certain nombre de personnes choisies pour s'entretenir de Questions naturelles, ou d'experiences &amp; de belles inuentions; il me donna charge de faire vn proiect de la maniere en laquelle on pourroit former des Conferences, qui tournassent à l'vtilité publique, aussi bien qu'au diuertissement de ceux qui y entreroient. Ie dressay auec Monsieur du Prat<note n="#3"/> quelques Articles, qui furent presentés à la premiere Assemblée qui se trouua formée de bon nombre de personnes curieuses. Ils y furent examinés, auec quelque contestation de la part de ceux qui ne vouloient pas escrire. Ie vous les enuoye, puis que vous me les demandés; &amp; ie seray bien aise qu'ils soient veus de tout le monde: pource qu'ils tesmoigneront nostre bonne intention, &amp; qu'ils ne seront peut estre pas inutiles à ceux qui voudront s'appliquer aux mesmes recherches que nous nous sommes proposées. Le siecle de fer ne durera pas tousiours; la Paix reuiendra à son tour visiter la Terre; les Muses ne seront pas eternellement exilées; les Arts resusciteront; les Sciences reprendront leur place;
+&amp; vne plus douce influence des Astres, que celle qui ne produit auiourd'huy que des soldats &amp; les Capitaines, produira derechef des Gilberts<note n="#4"/>, des Baccons, des Haruaees, des Fra Paolo<note n="#5"/>, des Galilées, des Mersennes, des Descartes, &amp; des Gassendis. Il est de la gloire de nostre age que ces Illustres personnes apprenent à leur retour, que malgré la barbarie au milieu de laquelle nous auons vescu, il s'est trouué vn assés grand nombre d'honnestes gens qui n'ont pas laissé d'aimer les estudes Philosophiques, &amp; ausquels il n'a pas tenu qu' ensuite des grandes ouuertures que ceux que ie viens de nommer nous ont faites, les choses ne soient mieux allées qu'elles ne vont pour l'aduancement de toutes nos cognoissances. Quand ie vous auray nommé vne partie de ceux qui composent nostre Assemblée vous m'aduouërés
+qu'il seroit mal aisé d'en composer ailleurs vne pareille, encore qu'on la choisist parmi tout ce qu'il y a de curieux hors de Paris, &amp; peut estre hors de ce Royaume. Mais il vaut mieux vous faire voir promptement ce que vous desirés.</p>
+<list>
+<label><hi rend="i">Art. I.</hi></label><item><hi rend="i">Que le but des Conferences ne sera point le vain exercice de l' esprit à des subtilités inutiles; mais qu'on se proposera tousiours la plus claire cognoissance des oeuures de Dieu, &amp; l'aduancement des commodités de la vie</hi>, <hi rend="i">dans les Arts &amp; les Sciences qui seruent à les mieux establir</hi>.</item>
+<label><hi rend="i">II.</hi></label><item><hi rend="i">Que celuy qui preside establira, de l' aduis de la Compagnie</hi>, <hi rend="i">la question pour la conference prochaine, &amp; priera nommement deux personnes qu'il en iugera des mieux informées de rapporter leur sentiment</hi>, <hi rend="i">laissant aux autres la liberté d'en dire leurs pensées</hi>.</item>
+<label><hi rend="i">III.</hi></label><item><hi rend="i">Que ces aduis seront leus &amp; donnés par escrit</hi>, <hi rend="i">en termes courts &amp; pleins de raisonnement</hi>, <hi rend="i">sans aucune amplification ny authorités</hi>.</item>
+<label><hi rend="i">IV.</hi></label><item><hi rend="i">Qu'ils seront leus sans interruption; les deux personnes choisies ayans les premieres produit les leurs</hi>.</item>
+<label><hi rend="i">V.</hi></label><item><hi rend="i">Qu'apres toutes les lectures chacun dira par ordre</hi>, <hi rend="i">&amp; en peu de mots</hi>, <hi rend="i">les obiections ou les confirmations sur ce qui aura esté leu. Et qu'apres la responce</hi>, <hi rend="i">on</hi>
+<hi rend="i">n'insistera pas dauantage</hi>, <hi rend="i">sans la permission particuliere de celuy qui preside</hi>.</item>
+<label><hi rend="i">VI.</hi></label><item><hi rend="i">Que l'on pourra enuoyer son aduis sur la question proposée</hi>, <hi rend="i">quand on ne pourra pas venir en personne</hi>.</item>
+<label><hi rend="i">VII.</hi></label><item><hi rend="i">Que l' Assemblée priera ceux qui en ont occasion</hi>, <hi rend="i">d'entretenir correspondance auec lcs sçauans de France &amp; des pays estrangers; asin d' apprendre d'eux ce qui se prepare</hi>, <hi rend="i">ou ce qui est desia publié</hi>, <hi rend="i">ou decouuert dans les Arts &amp; les sciences; dequoy l'Assemblée sera informée en se separant</hi>.</item>
+<label><hi rend="i">VIII.</hi></label><item><hi rend="i">Que l'Assemblée estant formée</hi>, <hi rend="i">on n'y admettra plus personne qui ne le demande</hi>, <hi rend="i">&amp; par le consentement des deux tiers de la compagnie presente</hi>, <hi rend="i">lors qu'on en fera la proposition</hi>.</item>
+<label><hi rend="i">IX.</hi></label><item><hi rend="i">Qu'on n'admettra point d'autres que les Membres de l'Assemblée dans le lieu de Conference</hi>, <hi rend="i">qui sera toute composée de personnes curieuses des choses naturelles</hi>, <hi rend="i">de la Medecine</hi>, <hi rend="i">des Mathematiques</hi>, <hi rend="i">des Arts liberaux</hi>, <hi rend="i">&amp; des Mechaniques; si ce n'est qu'auparauant on ait demandé permission d'y amencr quelque homme de merite</hi>.</item>
+</list>
+<p>Sur ce plan nous auons commencé de bastir nos Conferences, &amp; desia nous y auons traicté methodiquement, &amp; auec vne parfaicte exactitude beaucoup de choses importantes. Mais vous nous manqués au besoin, Monsieur, aussi bien que le bon Pere Minime<note n="#6"/>, &amp; le sage Monsieur <persName key="gass001">Gassendi</persName>, auquel ie m'adresse en vne Preface que ie mettray au deuant de ses oeuures<note n="#7"/>, &amp; en laquelle ie parle de nostre Assemblée.</p>
+<p><hi rend="i">Adsis tu quoque praesens</hi>, <hi rend="i">optime Gassende</hi>, <hi rend="i">vt modestiae &amp; sapientiae tuae semper omnium animis obuersetur imago! Equidem post edita opera tua nihil deerit quominus te totum videamus; neque tantùm vigilijs tuis &amp; eruditione tua sruamur; sed &amp; oculis perpetuo in sapientiam tuam defixis</hi>, <hi rend="i">illà potiore tui parte imitemur veram</hi>, <hi rend="i">cuius tam clarum exemplum praebuisti</hi>, <hi rend="i">philosophandi rationem. Intereris quoque</hi>, <hi rend="i">quà Terrae patent</hi>, <hi rend="i">post innumer abilem annorum seriem studijs hominum ad bonam mentem contendentium</hi>, <hi rend="i">vt si qui reperiantur olim quos iuuet adhuc barbarè vel meteor aticè philosophantium lectio</hi>, <hi rend="i">vnum illud Ciceronis in redargutionem vsurpari possit; Quae est autem ista inter homines tanta dementia: frugibus inuentis</hi>, <hi rend="i">vt glande vescantur</hi>.</p>
+<p>Dieu vueille que ie sois Prophete, au souhait que ie fais qu'on imite la Modestie de Monsieur <persName key="gass001">Gassendi</persName>, que son esprit doux &amp; tranquille regne dans nostre Assemblée, &amp; que cette nouuelle Academie ne trompe point les esperances que peuuent donner les reglemens que ie vous enuoye. Mais il est bien à craindre,
+comme i'auois commencé de dire, que vous ne nous manquiés au besoin, aussi bien que les deux autres Philosophes qui ne sont plus<note n="#8"/>. Nous ne sçaurions nous preualoir de vostre esprit subtil &amp; penetrant, de vostre gayeté, &amp; de vos pensées tousiours pleines de quelque docte allusion, ou de quelque nouueauté surprenante; non plus que nous ne pourrons point profiter de la douceur, de la moderation, &amp; du iugement exquis de celuy que i'ay depeint &amp; proposé en exemple, ny de la diligence &amp; de la facilité du bon Religieux, que vous nommiés si galamment le bon larron; pource qu'il estoit continuellement en action pour recueillir les raisonnemens d'autruy, &amp; pour en faire part à tous ceux qui les vouloient entendre. Mais il me reste la consolation de vous escrire, &amp; de receuoir quelques fois de vos Lettres, ou de voir celles qui s'adressent à nos deux chers amis, Monsieur du Bosc<note n="#9"/> &amp; Monsieur du Prat<note n="#10"/>, &amp; dans lesquelles ie trouue tousiours des marques de vostre souuenir. Ie vous supplie, Monsieur, de ne vous point lasser de m'en donner de nouuelles, &amp; de croire que la possession de vostre amitié m'est si chere, qu'il n'y a rien que ie ne voulusse faire pour me la conseruer. Je suis,</p>
+<div type="closer">
+<p>Monsieur,</p>
+<p>Vostre tres-humble &amp; tres-obeïssant &amp;c.</p>
+<p>A <placeName key="parij001">Paris</placeName> le 1. de Febrier 1658.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

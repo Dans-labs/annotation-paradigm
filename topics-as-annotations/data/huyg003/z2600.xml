@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2600"/>
+<meta type="date" value="1690-07-19"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="oucqu901"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2600">
+<p><note n="#2"/> Je vous suis fort obligé Monsieur de m'auoir enuoyé vos Remarques que je trouue tres judicieuses, vous verrez que j'en ay prosité dans la lettre cy-jointe, et puisque vous voulez bien me demander mon auis, je crois que vous pourriez la faire mettre dans vos journaux et y ajouter les Remarques que vous jugerez a propos<note n="#3"/>. Vous voulez bien cependant me permettre de repondre à vos objections, et pour le faire par ordre, je conuiens auec vous, que rien n'est plus euident, qu'un corps pesant ne sauroit monter par la force de sa pesanteur; mais je ne vois
+pas auec la mesme euidence que les poids en quittant le pendule lors qu'ils ont descendu ne doiuent pas porter leur centre commun de pesanteur plus haut que d'ou il estoit venu et si c'etoit vne suitte claire de ce principe, jl ne resteroit assurement aucun doutte, cependant comme vous voyez, plusieurs personnes ne l'ont pas cru puisqu'ils ont attaquez vostre proposition 4<hi rend="sup">e</hi><note n="#4"/>.</p>
+<p>Quand à Mr. <persName key="bern071">Bernoullj</persName> je distingue le commencement de son raisonnement d'auec la conclusion qu'il en tire que j'avouë estre fausse, et je pretends qu'il a fort bien montré qu'une partie de la force ou de la quantité de mouuement du corps A dans le pendule composé, se consume sur le point fixe D, et par consequent aussi vne partie de sa vitesse, et cela suffit pour faire voir que Mr. <persName key="cata001">l'Abbé Catelan</persName> a eu tort de supposer que la vitesse totale du pendule composé, estoit egale à celle de ses parties muës separement: mais ou il se trompe, c'est lors qu'il determine la partie de la vitesse du corps A qui se consume ou qui se pert sur le point fixe D, et comme il suffit qu'il s'en perde sans determiner de combien, vous voyez que j'ay eu raison de dire que Mr. <persName key="bern071">Bernoullj</persName> auoit detruit les objections de Mr. <persName key="cata001">l'Abbé Catelan</persName>, en faisant voir la fausseté de son principe, n'ayant point vû ce que vous luy auez repondu en dernier lieu.</p>
+<p>La maniere dont vous entendez les vitesses commencantes des corps et leur quantités de mouuement me suffit, dans l'endroit où je dis<note n="#5"/>: <hi rend="i">que si la vitesse ou la quantité de mouvement &amp;c.</hi> il faut lire <hi rend="i">si la vitesse et la quantité de mouvement, &amp;c.</hi> et c'est la faute du copiste, d'auoir mis <hi rend="i">ou</hi> au lieu de <hi rend="i">et;</hi> cecy supposé il est facile de repondre à vostre objection, car si le corps A estoit ¼ B il est vray que sa quantité de mouvement pour descendre separement, seroit ¼ de la quantité de mouuement pour descendre du corps B, mais tant s'en faut que sa vitesse fust ¼ de celle de B, qu'au contraire elle luy seroit egalc, et ainsy cela ne fait rien contre moy. J'auouë qu'il n'est point necessaire de parler des corps inuisibles, ny de dire qu'une partie de la quantité de mouuement du corps A se pert sur le point fixe puisque faisant effort en ce point elle n'est point aneantie. Mais vous ne pouuez pas doutter que la quantité de mouuement du pendule composé ne soit moindre que celle des deux pendules simples, et qu'ainsy le corps A presse le point fixe D auec vne partie de sa force car si cela n'estoit jl me seroit facile de prouuer que vostre proposition 4e. n'est pas vraye.</p>
+<p>Voicy ce que j'ay cru pouuoir repondre à vos objections cependant vous verrez par la lettre cy-jointe qu'elles mont beaucoup seruy à me rendre plus jntelligible. J'ay fait essay de ma methode comme vous me marquiez souhaitter sur un pendule composé de plus que de deux poids, et vous verrez qu'elle s'y estend tres facilement. Je ne comprends pas non plus que vous, comme Mr. <persName key="bern071">Bernoullj</persName> se sert de la fin de son raisonnement qu'il trouue douteuse, contre vostre principe dont il
+auouë ne pouuoir reuoquer en doute la certitude, je crois qu'il sera fort à propos que vous en disiez quelque chose dans vos remarques, je ne puis vous rendre de reponse encore sur vos Exemplaires estant à la campagne despuis quelque jours tout ce que je sçais c'est qu'auparauant de partir de Paris je vis Mr. <persName key="hire005">de la Hire</persName> qui m'assura qu'ils estoient arriuez à Peronne depuis quelque temps, et qu'il falloit vne permission de Mr. le Chancelier pour les faire passer<note n="#6"/>. Sur quoy je ne pû m'empescher de l'accuser de quelque negligence de ne se pas presser d'auantage ayant beaucoup d'jmpatience de voir ce traité, Mr. <persName>de Roanez</persName><note n="#7"/> m'a mené autre fois chez vous, mais comme jl y a tres longtemps et que j'etois fort jeune je ne crois pas qu'il vous en soit resté aucune jdée, cependant, Monsieur, si je pouuois vous estre vtile à quelque chose en ce pays je vous offre de tres bon coeur mes seruices vous assurant que je suis auec toute l'estime jmaginable</p>
+<div type="closer">
+<p>Vostre treshumble et tresobeissant seruiteur <persName key="hosp010">Le Marquis de lHospital</persName>.</p>
+<p>A Ouques ce 19 Juillet 1690.</p>
+</div>
+<p>Je vous prie de me mander si vous avez receu cette lettre.</p>
+</div>
+<div type="para">
+<p>Holande
+<lb/>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> a la Haye en holande.</p>
+</div>
+</body>
+</text>
+</TEI>

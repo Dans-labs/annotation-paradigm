@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2339"/>
+<meta type="date" value="1684-06-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="haut020"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2339">
+<div type="opener">
+<p>A Monsieur l'Abbé <persName>de Hautefeuille</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 8 Juin 1684.</p>
+<p>Monsieur</p>
+</div>
+<p>Outre les remerciements que je vous dois de m'avoir fait part de vostre Traité de l'usage des Telescopes<note n="#1"/> sans tuyaux, il estoit bien juste que je vous envoyasse, ce que je viens de publier sur le mesme suject<note n="#2"/> mais estant un peu gros pour vous l'adresser par la voye de la poste, j'ay priè Mr. <persName>Perrault</persName> le medecin, de vous faire voir l'exemplaire que je luy ay envoyè, en attendant que je trouve quelque occasion, pour vous en faire tenir. Je vois que vous vous estes principalement arrestè, a trouver le lieu et la distance, ou se doit placer le verre oculaire, a quoy vous proposez un moyen, qui me paroit d'un embaras fort grand et superflu scavoir la reflexion d'un miroir concave puisqu'il ne faut qu'un fil pour marquer cette distance, et mesme pour le faire beaucoup plus exactement que ne scauroit faire le miroir. Mais je ne doute pas que d'autres ne vous aient desjà remonstrè la mesme chose, et que cette determination du lieu de l'oculaire estoit une des moindres difficultez qu'il y avoit en cette affaire. L'on n'aura pas manquè non plus de vous dire que vostre verre objectif composè d'anneaux ne pouvoit estre d'aucun usage dans la pratique; la difference des foyers dans un mesme verre estant tout autrement petite que vous ne croiez l'avoir trouvè par experience. Et en effet ce n'est pas ce defaut, qui nous oblige à si fort resserrer les ouvertures des verres, mais un autre incorrigible dont j'ay parlè dans mon escrit. Vous ne trouverez pas mauvais j'espere, que je vous dise ainsi librement mes remarques. Je ne scay si Mr. <persName>Boffat</persName><note n="#3"/>
+aura donnè au public le detail de son invention, qui est hors d'apparence de succes par les raisons que vous avez remarquez, et d'ailleurs il s'y rencontreroit encore bien de la difficultè dans l'execution. Il faut avoir grand egard dans ces choses, à ce qui est pratiquable, et il est bon de s'en asseurer par l'experience, comme vous verrez que j'ay fait. Je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

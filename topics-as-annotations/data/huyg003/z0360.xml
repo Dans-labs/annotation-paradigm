@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0360"/>
+<meta type="date" value="1656-12-20"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0360">
+<lg type="poem">
+<l>Qui Tua cumque meis impendes otia, lector;</l>
+<l rend="; 1tab">Una fer autoris frons sit et una Libri.</l>
+<l>Si pater es, cape quod cupias: cui Filius ortum</l>
+<l rend="; 1tab">Debet, huic vitam prorogat arte Patri,</l>
+<l>Quanta fides, quantae virtutis dextra, Parentem</l>
+<l rend="; 1tab">Quem satis est vivum velle, vetare mori!</l>
+</lg>
+<div type="closer">
+<p><date>20 Dec. 1656</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2866"/>
+<meta type="date" value="1694-07-09"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hanno901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2866">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous aures receu ma derniere. Cependant suivant votre ordre<note n="#3"/> je vous mande que dans les Actes de Leipzig du mois de May, on a inseré la solution du probleme de Mons. <persName>Bernoulli</persName>, donnée par M. <persName key="hosp010">le Marquis de l'Hospital</persName><note n="#4"/> qui avoit esté inserée dans les memoires dans l'Academie royale des Sciences [16] 93, 30 juin. On y adjoute l'objection d'un anonyme inserée dans le Journal des Scavans<note n="#5"/> qui pretend que cette solution n'est point satisfaisante, en ayant fait l'essay dans le cas
+de la proportion double. J'ay appris que M. le Marquis a repondu depuis<note n="#6"/>, et fait voir, que si l'auteur de l'objection avoit pris la peine de pousser son calcul à bout, il en auroit trouué le succés<note n="#7"/>. Je ne doute point que la solution de Mons. le Marquis ne vous soit connue autrement je l'aurois copiée. pour moy je trouue qu'on peut tousjours donner la solution quand la raison est donnée entre deux
+<figure><graphic url="huyg003oeuv10ill210.gif"></graphic></figure>
+fonctions quelconques. J'appelle fonctions l'abscisse AB ou A<hi rend="i">β</hi>, l'ordonnée BC ou <hi rend="i">β</hi>C; la corde AC, tangente AT ou A<hi rend="i">θ</hi><note n="#8"/>, perpendiculaire CP ou C<hi rend="i">π</hi>, sousperpendiculaire BP ou <hi rend="i">βπ</hi>, soustangente BT ou <hi rend="i">βθ</hi>, retranchées, resectas, par la tangente ou par la perpendiculaire AT ou A<hi rend="i">θ</hi>, AP ou A<hi rend="i">π</hi>, corresèctas TP ou <hi rend="i">θπ</hi>, et quantité d'autres. Le probleme se peut tousjours reduire aux quadratures et souuent par là à la Geometrie ordinaire. Meme s'il y avoit une equation, où il n'entreroient d'autres droites que ces fonctions, quelque nombre des fonctions pourroit entrer à la foy, la courbe ne laissera d'estre construisible.</p>
+<p>Dans les memes actes Monsieur <persName>Jean Bernoulli</persName> fait voir<note n="#9"/> par le calcul, que si un fil parfaitement flexible estait poussé par tout par une puissance egale et perpendiculaire à sa courbure, ce fil seroit circulaire. Puis il a fait un calcul sur la force necessaire pour enfler les muscles et dit que la tabelle qu'il en a tirée est bien différente de celle de Borelli<note n="#10"/>. Il me semble qu'il considere seulement les commencemens de l'action de l'elasticite du fluide qui pousse le muscle, mais il faut une acceleration pour produire un effect notable. Quoy qu'il en soit, ce qu'il dit paroist toujours fort ingenieux, et il est bon qu'on tasche d'appliquer les Mathematiques à ces choses. il cite souuent je ne scay quelle proposition fondamentale de Mons. <persName>Varignon</persName>. J'ay parcouru autres fois le liure de Mons. <persName>Varignon</persName><note n="#11"/>, mais il ne me paroissoit point dire des choses fort nouuelles. Il est vray qu'elles ont paru telles a bien des gens<note n="#12"/>.</p>
+<p>Au reste je me rapporte à mes precedentes et vous supplie de me faire part de vos pensées sur les points de ces lettres, ou vous n'avés pas encor touché. Je suis tousjours persuadé de plus en plus qu'il n'y a point d'Atomes ny vuide, et que la moindre particelle de la matiere contient veritablement un monde infini de creatures differentes. Je vous ay supplié un jour<note n="#13"/> de me faire part de ce que Mr. <persName key="newt011">Neuton</persName> vous a communiqué sur les couleurs, si cela vous est permis. Je prends la liberté de vous en faire ressouuenir. Je suis dans la curiosité d'apprendre s'il y aura quelque chose de considerable dans ce que M. Wallis vient de donner de Mr. <persName key="newt011">Neuton</persName><note n="#14"/>. Je suis avec zele.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre treshumble et tresobeissant seruiteur <persName key="leib013">Leibniz</persName>.</p>
+<p>Hanover ce 29 Juin 1694<note n="#15"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

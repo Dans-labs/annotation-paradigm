@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0138"/>
+<meta type="date" value="1652-12-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="guts001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0138">
+<div type="opener">
+<p><persName key="guts001">Gutschovio</persName>.</p>
+</div>
+<p>Semper spes aliqua me tenet venturum tandem abste responsum Gotschovi Praestantissime, quanquam jam mensis integer sit elapsus, ex quo literas meas<note n="#2"/> ad te pervenisse opinor. neque enim adeo apud te Frigere Mathemata mihi sit credibile, ut non saltem novis inventis delectari te quoquo modo testeris, Et videtur quidem illud de quo tibi nuper scripsi, si Schotenio atque alijs haec intelligentibus credere licet non ex postremis in eo genere existere, neque carere utilitate. Eoque summopere mirandum foret te qui multum in Scientia ita sis versatus, ita planè immobilem te praebere ut verbum nullum aut literam tibi extorqueri sineres. Quaecunque igitur causa sit silentij tui, sive per occupationes rescribere hactenus non potuisti, sive secretum ejus artis quam ex te discere concupivi penes te manere vis, fac ut aliquid modo de te inaudiam. Nam si vel repulsam me manere in fatis est, scio id aegrè me ferre non debere, quum utique ex mera liberalitate tua id omne sim habiturus, quo per te fiam peritior. Vale.</p>
+<div type="closer">
+<p><date>10 Dec. 1652</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

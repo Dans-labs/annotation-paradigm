@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1714"/>
+<meta type="date" value="1669-03-16"/>
+<meta type="sender" value="comi002"/>
+<meta type="recipient" value="parij001acad01"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1714">
+<p>Clepsydra Comeriana.</p>
+<p>&nbsp;</p>
+<p>Clepsidra noua et admirabilis. ope aquae perpetuo salientis. contra naturae leges, ita vt in hac clepsidra aqua semper saliat, nec vsquam possit deorsum tendere, nam cum pars clepsidrae in qua aqua salit, jnuertitur ut si fieri posset aqua ordinaria lege facilius deorsum flueret, tunc sistitur, et pars clepsidrae per quam aqua non descendebat dum sit superior, dat aquam salientem.</p>
+<p>Authore Domino Claudio Comiers ebredunensi Presbitero, Praeproposito et Canonico Eclesiae Collegiatae de Ternant, Doctore Theologo Equiti Torquato ordinis militaris Sanctae Crucis, et Prothonotario Apostolico quam Jllustrissimae academiae Parisiensi Examini suplex author submittit Parisiis 16 mars 1669.</p>
+<p>&nbsp;</p>
+<p><persName key="comi002">C. Comiers</persName> Praepositus de Ternant.</p>
+<p>&nbsp;</p>
+<p>Explicatio machinae<note n="#3"/>.</p>
+<p>Vasa A et B vitrea sunt.</p>
+<p>Vasa C, D sint aequalia. Canales E per quos aqua salit in vasis vitreis multo sint strictiores canalibus F per quos eadem aqua descendet et hoc ut altius aqua saliat.</p>
+<p>Per Epistomium A infundatur aqua quae per F descendet in vas D. quo repleto jnfunde adhuc aquam donec per os G in vas B ad duos digitos descenderit, tunc inverte clepsidram. Tunc aqua phialae B descendens per canalem F in vas C, (atrahet ut loquntur non philosophi aquam vasis D per tubum G ut saliat per E).</p>
+<p>ex eo vase C expellet aërem per tubum HE in phialam A et hinc expelletur aer per tubum FI in vas D. qui aer compressus expellet aquam sursum per canalem GE, finit saltu aquae invectae tantum clepsidram. Jterum saliet.</p>
+<p>Videt lector quam haec clepsidra sit omnibus numeris expedita, cum nec gutta aquae pereat, nec de novo ad quamlibet versionem clepsidrae infundenda nec epistomia aperienda et reserenda ut in clepsidris Reverendorum Patrum Kirkerii<note n="#4"/> et Schoti<note n="#5"/>.</p>
+<p><figure><graphic url="huyg003oeuv06ill85.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

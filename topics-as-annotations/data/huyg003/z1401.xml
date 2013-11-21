@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1401"/>
+<meta type="date" value="1665-05-01"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1401">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 21. Auril 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Hier je vous escriuis<note n="#1"/> deux mots qui vous seront rendus par Monsieur Boreel. Je n'estois pas asseuré alors, que J'aurois, assez à temps, le Thermometre pour luy donner. Je l'ay eu ce matin, et l'ay enuoyé a son logis deuant 9. heures. et Je ne doubte pas qu'il ne le vous apporte en bon estat, il est si bien emboetté. L'operateur<note n="#2"/> de nostre Societé qui l'a fait dit qu'il est fort bon; c'est adire bien delicat, et bien adiusté aux degrez du froid et du chaud. lors que la liqueur est au nul O c'est là le degré du froid qui se sent dans de l'cau lors que la superficie en est congelee en glace, et en descendant, les degrez du froid s'augmentent iusqu'à ce que la liqueur soit tout à fait retiree hors du Tuyau: et alors vous auez le degré de froid qui se trouue lors que le Thermometre ayant esté mis dans un vaisseau plain d'eau, toute l'eau est congelee le Thermomettre y estant enuironné tout a fait de glace. (Car c'est par l'epreuue de cecy que le Thermometre qui sert pour le Tarif ou mesure des autres, a este fait). lors que le Thermometre est dans un chambre sans feu, et qu'il y a de la glace sur les eaux qui sont dans l'air à decouuert, la liqueur dans le Thermometre montera iusqu'à la figure de 2. au dessus du zero ou bien pres de là, et quand il y a seulement de la Verdglace sur le champs elle sera plus haut d'enuirons ¾ dun degré d'auantage. Voylà assez pour vous faire sçauoir l'estat de l'air par vostre Thermometre. Maintenant si vous voulez placer aupres du Thermometre un Tube plein de Mercure, et faire des obseruations de temps en temps, des alterations qui arriuent à l'un et à l'autre, et en mesme temps remarquer s'il fait pluye, vent &amp;c. de la methode qu'on
+fait icy en plusieurs lieux Je vous enuoyeray Copie des reigles qu'on y obserue, afin de tout comparer au bout d'un an plus ou moins. Les suites de cela vous ne pouuez que sçauoir trop bien pour auoir besoin d'en estre informé.</p>
+<p>C'est pourquoy Je me haste de me dire</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+<p>N'oubliez de mettre l'Horologe entre les mains de Monsieur Boreel.</p>
+<p>la patente est maintenant soubs le Grand Seau, et m'a coustee 38. liures. 5 shillings sterlins.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

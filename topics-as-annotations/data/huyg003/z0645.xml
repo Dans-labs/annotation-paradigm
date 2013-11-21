@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0645"/>
+<meta type="date" value="1659-08-01"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0645">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>1. Aoust 1659</date>.</p>
+<p>M. <persName key="huyg003">Huygens de Zulichem</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous rends graces treshumbles de vostre lettre que vous m'auez fait l'honneur de m'escrire le 24 du passé dont je vous suis tres obligé, &amp; de tant de soin &amp; de peine que vous auez prise pour faire faire l'horologe que je vous ay demandee; &amp; que vous auez encores eu la bonté de consigner a Monsieur Elzeuir, ne pouuant mieux venir que dans vne balle de liures.</p>
+<p>Je vous remercie pareillement de l'esclarcissement que vous m'auez donné touchant l'egalité du mouuement du pendule. Je ne manqueray pas de faire scauoir a quelquun de l'assemblee de Monsieur de Montmor la response que vous m'auez faite sur le doubte que j'auois proposé, puisque c'est le mesme qui a esté fait dans cette Academie.</p>
+<p>Je suis en grande impatience de voir vostre Saturne<note n="#1"/> j'espere que Monsieur Elzeuir en apportera; Nous aurons moyen de confronter vostre hypothese auec celle de Monsieur Heuelius; comme vos lunettes sont meilleures que les siennes vous auez remarqué ce qu'il n'a pû voir. Je feray mon possible pour me seruir bien tost de vos verres, tousjours verray-je la Lune.</p>
+<p>Nous n'auons rien de nouueau en matiere de Geometrie. Monsieur <persName>Du Laurent</persName><note n="#2"/> que vous auez veu a la Haye Secretaire de Monsieur de Thou s'offre de monstrer par l'Algebre specieuse l'inuention des deux moyennes proportionnelles par les plans, ce que Monsieur <persName key="robe012">de Roberual</persName> luy conteste. Cettuyci dans vne rencontre a traicté Monsieur du Laurent auec vne rusticité &amp; inciuilité insupportable. Il est vray que je ne croy pas que Monsieur Du Laurent puisse venir about de son dessein, mais il n'en faut pas venir aux injures. Je salue auec vostre permission Monsieur Heinsius &amp; je demeure auec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>J'ay rendu moymesme la lettre<note n="#3"/> que vous auez escrite a Monsieur <persName key="carc010">Carcaui</persName>, qui m'a promis de vous faire response.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Huygens de Zulichem</persName>. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

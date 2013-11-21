@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0228"/>
+<meta type="date" value="1655-07-01"/>
+<meta type="sender" value="wall057"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0227"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0228">
+<p>Postquam Epistolam absolveram, subijt animum, tibi forsan non ingratum fore si calculum illum apponerem cujus et suprà et in nuperis meis ad Dominum
+<persName>Schotenium</persName>
+mentio facta est, quo easdem ego me dixi juxta methodum meam rationes invenisse quas tu habes in Ἐ<hi rend="i">ξετάσει</hi> tua: adeoque libet illum breviter hic adjungere.</p>
+<p><figure><graphic url="huyg003oeuv01ill134.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv01ill135.gif"></graphic></figure>
+<note n="#1"/></p>
+<p>Retentâ igitur constructione tuâ, eâque quam pagina 35, et alibi habes figurâ: Placet quantitatem rectae CD, aliarumque ipsi aequalium, notâ <hi rend="i">r</hi> insignire. Erit igitur CR = ¼ <hi rend="i">r</hi>, CO = ½ <hi rend="i">r</hi>, DO = CD - CO = <hi rend="i">r</hi> - ½ <hi rend="i">r</hi> = ½ <hi rend="i">r</hi>, DR = CD - CR = <hi rend="i">r</hi> - ¼ <hi rend="i">r</hi> = ¾ <hi rend="i">r</hi>. Item RΘ = ¼ <hi rend="i">r</hi>, OΓ = ½ <hi rend="i">r</hi>, OZ = <hi rend="i">r</hi> - ½ <hi rend="i">r</hi> = ½ <hi rend="i">r</hi>, R Δ = <hi rend="i">r</hi> - ¼ <hi rend="i">r</hi> = ¾ <hi rend="i">r</hi>. Et proinde (juxta methodum nostram.)</p>
+<p><figure><graphic url="huyg003oeuv01ill136.gif"></graphic></figure></p>
+<p>Quae est tuarum rationum altera.</p>
+<p>Calculi fundamentum habetur in propositionibus 64, 66, 73, nostrae <hi rend="i">Arithmeticae Infinitorum</hi><note n="#2"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

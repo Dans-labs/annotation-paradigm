@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2039"/>
+<meta type="date" value="1675-07-08"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="en"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2039">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 28 juin 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Par ma derniere du 21 courant ie vous rendis graces pour le soin de nous envoyer vostre nouuelle montre. J'ay esté desiré depuis ce temps lá de Mylord Brounker de m'informer de vous, si la dite montre auoit esté ajusté à Paris ou non. Si non, combien elle s'esloignoit en son mouuement de la verité, et si elle alloit trop viste ou trop lentement. On croit, que l'information de ces particularitez importe beaucoup pour juger comme il faut de la bonté de cete machine. Quant à celle de M. Hook, elle est encor entre les mains du Roy, qui n'en veut parler que le privilege n'en soit public; seulement il donne à entendre, qu'il en a fort bonne opinion. Au reste, Mylord Brouncker est prest de payer l'argent que vous auez nommé, s'il vous plait seulement d'appointer la personne, à qui vous voulez qu'on la paye icy; dont i'attendray vostre ordre par le prochain ordinaire, demeurant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+<p>Ayant escrit ce que de l'autre costé, ie receus vne lettre de M. Gregory d'Escosse, qui parle d'une autre maniere de prouuer le mouvement de la terre, que celle de M. Hook. Je vous la donneray en ses propres mots.</p>
+<p>Since I haue read M. Hooks treatise about y<hi rend="sup">e</hi> motion os y<hi rend="sup">e</hi> Earth<note n="#1"/>, I haue had some thoughts thereon, w<hi rend="sup">ch</hi> perchance (if not too obvious, and already known to you) may be of some consequence. Let C, D, be 2 fixt stars, S y<hi rend="sup">e</hi> Sun, CDBA a plain going through y<hi rend="sup">e</hi> 3 points C, D, S, and cutting y<hi rend="sup">e</hi> orbe of y<hi rend="sup">e</hi> Earth in A and B. Let a circle pass through y<hi rend="sup">e</hi> points A, C, D, cutting CB in E. The sine of y<hi rend="sup">e</hi> Angle CAD is to y<hi rend="sup">e</hi> sine of y<hi rend="sup">e</hi> angle CBD as DB to DE; w<hi rend="sup">ch</hi> proportion may be pretty sensible, if y<hi rend="sup">e</hi> Star D be much nearer than C; yea sometimes perchance so sensible, y<hi rend="sup">t</hi> D may from B seem on y<hi rend="sup">e</hi> one side of C, and from A on y<hi rend="sup">e</hi> other side. The points A, B, in y<hi rend="sup">e</hi> Orbe of y<hi rend="sup">e</hi> Earth, may be
+<figure><graphic url="huyg003oeuv07ill83.gif"></graphic></figure>
+wi<hi rend="sup">th</hi> ease found out more precisely, than is required fore this busines. My thoughts briefly are these: If from A and B y<hi rend="sup">e</hi> Angles CAD, CBD be observed and found vnequal, from thence two things may be inferr'd, hitherto question'd, viz. y<hi rend="sup">e</hi> motion of y<hi rend="sup">e</hi> Earth, and y<hi rend="sup">e</hi> unequal distance of y<hi rend="sup">e</hi> Fixt Stars. And these Angles (as to their inequality, if such a thing be) may be observ'd easily, because any two Stars in y<hi rend="sup">e</hi> firmament, if they fall w<hi rend="sup">th</hi>in one view of y<hi rend="sup">e</hi> Telescope, may be chosen for this effect; one of which may be a larger Star of y<hi rend="sup">e</hi> 1. magnit; and consequently in all probability near to vs; and y<hi rend="sup">e</hi> other of y<hi rend="sup">e</hi> 6<hi rend="sup">th</hi>; yea perhaps of y<hi rend="sup">e</hi> 60<hi rend="sup">th</hi> magnitude, and far from vs. And w<hi rend="sup">ch</hi> y<hi rend="sup">e</hi> most of all, this, wi<hi rend="sup">th</hi>out any considerable praeparation, may be easily and exactly observ'd by any sort of a micrometer; or (if D. be seen on both sides of C, wich may sometimes fall out), w<hi rend="sup">th</hi> a simple Telescope. If it be said, y<hi rend="sup">t</hi> from this only can be gathered yt y<hi rend="sup">e</hi> Fixt Stars haue parallax, and not how much it is in this or y<hi rend="sup">t</hi> Star; I answer, y<hi rend="sup">t</hi> 't is y<hi rend="sup">e</hi> main busines to prove, they haue parallax: And yet from a third observation, as suppose at F, may be gathered geometrically y<hi rend="sup">e</hi> parallax of both C and D, if y<hi rend="sup">t</hi> be esteemed operae pretium<note n="#2"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la bibliotheque du Roy, a Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

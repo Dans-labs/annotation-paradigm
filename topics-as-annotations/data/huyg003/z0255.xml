@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0255"/>
+<meta type="date" value="1656-01-14"/>
+<meta type="sender" value="conr031"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0255">
+<div type="opener">
+<p><date>14. Janvier 1656</date>.</p>
+<p>Monsieur,</p>
+</div>
+<p>La lettre qu'il vous a pleû de m'écrire<note n="#1"/> vaut mieux toute seule, que les quatre<note n="#2"/> dont vous me remerciez. Il ne se peut rien voir de plus civil, de plus obligeant, ni de plus purement écrit en vne Langue qui ne vous est pas naturelle; &amp; si vous ne vouliez demeurer en France, que pour l'apprendre, vous avez eu raison de vous en retourner, puis-que vous en savez autant que si vous y estiez né. J'avois seû, par les lettres de Monsieur <persName>le Marquis de Fabert</persName>, le peu de sejour que vous fistes à Sedan; il s'estime malheureux de ne vous y avoir pû retenir davantage; &amp; Monsieur <persName>Dozanne</persName><note n="#3"/>, de ce que vous ne l'avez employé à rien. Pour moy, Monsieur, quoy que Je sois peu capable de vous rendre service, en l'estat où vous savez que Je suis; Je ne laisse pas de souhaiter que vous faciez naistre des occasions où Je vous puisse témoigner combien J'estime vostre mérite, &amp; vostre vertu; &amp; Je vous offre, pour le moins, vn coeur sincére, &amp; plein d'affection pour tout ce qui porte vostre nom. Je vous supplie d'en faire estat, comme d'vn bien qui n'est pas de grande valeur, mais qui vous est fort aquis. Faites-moy aussi la grace d'assurer Monsieur vostre Père, &amp; Monsieur vostre frére de la mesme chose; &amp; recevez les complimens que vous rend pour les vostres, l'illustre Mademoiselle Perriquet. Elle me parle tres souvent,
+&amp; tres-dignement de vous, &amp; le présent que vous luy avez fait l'a extrémement satisfaite. Si vous eussiez tardé plus long-temps jcy, vous eussiez reconnu, en cette rare personne, des merveilles qu'il seroit difficile de trouver ailleurs, au moins en des personnes de son sexe. Je souhaiterois que la curiosité de les découvrir, vous obligeast à y faire vn second voyage; Outre tant de bonnes connoisances que vous y avez déja, nous vous en donnerons encore d'autres, qui méritent d'autant plus d'estre recherchées, que leur modestie les fait cacher, pour éviter l'importunité d'vne réputation trop éclatante. Vous voyez que Je n'obmets rien, pour vous procurer du contentement, &amp; pour m'en procurer aussi à moy-mesme, par le bonheur de vous pouvoir assurer de vive voix, que Je suis véritablement,</p>
+<div type="closer">
+<p>Monsieur,</p>
+<p>Vostre treshumble, &amp; tresobeïssant serviteur <persName key="conr031">Conrart</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Huygens</persName>, chez Monsieur <persName key="huyg001">de Zulichem</persName> son Pére
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

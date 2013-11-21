@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1792"/>
+<meta type="date" value="1670-01-06"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1792">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'espere que vous ayez receu toutes les miennes<note n="#1"/>, que ie vous ay escrites de puis vostre derniere<note n="#2"/>, et ie ne doubte point, que vous n'ayez vû les 2 livres que i'ay depuis peu envoyez à Monsieur Justel, pour vous en donner la lecture, ascavoir de Messieurs Barrow<note n="#3"/> et Wallis.<note n="#4"/>, le dernier ayant esté derechef provoqué par M. Hobbs<note n="#5"/> sur la matiere de Quadratura, duplicatione etc. luy a desia respondu par vn inprimé d'une seule page<note n="#6"/>, y ruinant le fondement sur lequel Monsieur Hobbs bastit sa replique à Monsieur Wallis. Ie ne scay, s'il vaut la
+peine de vous envoyer ces papiers là, et non plus, si ie dois continuer de vous donner l'ennuy de la lecture de nos Transactions Philosophiques.</p>
+<p>Il fait icy un froid extraordinaire, ce qui m'oblige d'estre court pour cete fois, mais tousiours sans faintise</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble serviteur
+<lb/><persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 27. decembre 1667<note n="#7"/>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>à la Bibliotheque du Roy à Paris.
+<lb/>34</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0726"/>
+<meta type="date" value="1660-03-06"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0726">
+<div type="opener">
+<p>ce <date>6<hi rend="sup">e</hi> Mars 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Ayant veu par le passé l'exactitude auec laquelle vous me faisiez l'honneur de respondre à mes lettres, J'aprehendois que vous sussiez jndisposé, Monsieur Boulliaud vous tesmoignera que Je luy ay demandé souuent des nouuelles de vostre santé Et que J'en estois bien en peyne. Je vous rends tres humbles graces Monsieur, de la bonté que vous auez de vous souuenir de moy.</p>
+<p>Si l'horloge de Monsieur de Boismorand cust esté en cette ville ie n'aurois pas manqué de vous en envoyer la description, mais il est à Angoulesme; et ie ne scay s'il pourra le faire venir icy. Je tascheray a l'y obliger, et ne vous en ay escrit que pour preuenir ce que quelqu'autre eust pu vous en mander.</p>
+<p>Je ne vous enuoyai l'escrit<note n="#1"/> de Monsieur de Fermat, que pour iustifier la verité de l'enoncé de Monsieur dEstonuille, et parce que uous me mandiez y auoir trouué de la difficulté, pource qui est des autres lignes dont il parloit dans le mesme escrit, cela n'est pas difficile pour vous, Monsieur, non plus que ce qu'il m'escriuoit des surfaces des conoides et des spheroides, et ie ne voulu pas le retrancher a cause qu'il desduit tout cela d'un mesme principe, mais ie puis vous assurer qu'il ne s'atribuera rien à uostre preiudice, car outre qu'il n'en a jamais vsé de la sorte enuers qui que ce soit, jl a un estime toute particuliere pour ce qui vous regarde. permettez moy de vous dire qu'il se plaint un peu de Monsieur Schooten en ce qu'il n'en a pas vsé de mesme dans la publication des lieux plans d'Appollonius<note n="#2"/>; Ne doutez pas s'il vous plaist, que ce qu'il propose de la mesure de la surface du conoide que fait la parabole autour de son appliquée ne soit veritable, Et si la chose vous agree, ou que vous ne desiriez pas vous peyner à en chercher la demonstration, Je la luy demandcray tres volontiers.</p>
+<p>Il me doit Enuoyer au premier Iour touts ses Escrits de Geometrie et des nombres que I'auois icy, et dont Ie luy ay fait tenir vne coppie, qu'il a voulu reuoir, Et Encore un petit traicté par lequel il donne les lignes les plus simples qu'il se puisse pour resoudre les problemes de chaque degré, En quoy Monsieur Descartes s'est
+mépris, et Monsieur Schooten ne s'en est aperceu, I'ay aussy receu dans sa derniere lettre la proposition suiuance<note n="#3"/>. Voilà Monsieur l'extrait de la lettre de Monsieur de Fermat.</p>
+<p>Vous m'obligerez beaucoup de me faire uoir ce que vous auez adiousté à vostre horloge,</p>
+<p>Ie doute de la verité du mouuement perpetuel, et il me semble que Monsieur Desargues m'a dit autrefois auoir une demonstration du contraire. Vous m'obligez beaucoup, Et Ie vous rends tres humbles graces des exemplaires qu'il vous plaist me promettre des liures de Monsieur de Wite et de Monsieur Walis, Je ne scay pourquoy ce dernier ne nous dit mot du traicté de Monsieur d'Estonuille. il merite bien la peyne d'estre leu, Nous n'auons rien de nouueau qui vaille vous estre Enuoyé, I'aurois tres grande joye de uous presenter quelque chose qui uous fut agreable, et qui vous temoignat de plus en plus le desir que I'ay de me conseruer la qualité.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>de Vostre tres humble et tres obeissant seruiteur, <persName key="carc010">De Carcavy</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens Seigneur de Zulichen</persName>, a <placeName key="denha004">la Haye</placeName>.
+<lb/>17.</p>
+</div>
+</body>
+</text>
+</TEI>

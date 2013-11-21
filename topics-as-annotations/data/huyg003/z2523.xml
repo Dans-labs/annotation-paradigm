@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2523"/>
+<meta type="date" value="1688-05-09"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2523">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce 28 Avril / 9 May 1688.</p>
+<p>Monsieur</p>
+</div>
+<p>J'espere que vous aurez receu une longue lettre que je vous ecrivis d'Oxford<note n="#2"/> il y a quelques mois, et que j'avois envoiée à un de mes amis en Hollande pour vous la faire tenir. Vous m'obligerez sensiblement Monsieur, si vous voulez bien me dire en deux mots vôtre pensée touchant les choses que vous y aurez vûës. Je me suis engagé en quelque maniere à rester encore un an en Angleterre. Vn de mes Amis envoie son sils dans ma chambre pendant quelques heures du jour seulement, et là je prens soin de l'instruire dans quelques sciences que j'ai étudiées. Le parti que l'on me fait est une pension à vie, proportionée au temps que j'aurai eu soin de l'éducation du jeune homme; et ce parti quoi qu'insuffisant au bout d'un an pour m'entretenir le reste de mes jours, si du moins je dois encore vivre si longtemps, est cependant capable de me tirer d'une extreme misere, en cas je ne pûsse rien esperer de ma famille. Je le préfere à mille écus monnoie de France si on me
+les vouloit donner en argent contant. Ce que j'ay fait a été du consentement de Monsieur <persName key="boyl001">Boyle</persName> et en quelque maniere par ses conseils. Je sçai bien Monsieur que l'emploi dont on vous avoit parlé en Hollande m'auroit été plus glorieux: mais outre que j'aime à étre retiré, et que les fruits de celui ci s'étendent aussi loin que ma vie sans aucun embarras de ma part que pendant quelque temps, je croi que je pourrois aussi bien faire mes poursuites à la Haie dans un an ou deux d'ici que dez à present. Du moins Monsieur je sçai bien que cet emploi là ne sera rempli que de vôtre consentement, et que vous pourriez toûjours me le conserver ou même me le procurer.</p>
+<p>Je vous envoie Monsieur avec cette lettre un livre dont le Docteur Bernard<note n="#3"/> vous fait present. Vous y verrez quelque chose que j'ai écrit touchant la mer d'airain de Salomon<note n="#4"/>.
+Vous jugerez Monsieur si mon stile latin qui n'est pas tout à fait tant embrouillé que vous le trouvâtes en Hollande vous paroitroit supportable dans le traducteur de vôtre dioptrique. Si vous en étiez en quelque maniere content j'entreprendrois avec joie même en ce pays ci la traduction de votre manuscript, supposé que vous me le voulussiez bien confier. Monsieur <persName key="boyl001">Boyle</persName> me dit que la figure que j'ai donnée de la mer d'airain de Salomon est fort semblable à un modele de cuivre de cette mer, qui est gardé dans la synagogue d'Amsterdam. Vous m'obligerez Monsieur si vous voulez bien m'éclaircir touchant ce fait là. Je n'ai point vû le modele qu'on garde dans la synagogue, et si j'en avois seulement ouï parler, je n'aurois eu garde de faire rien imprimer sur ce sujet. Sans doute que Monsieur le Docteur <persName>Burnet</persName><note n="#5"/> est en bonne santé.
+Tous les honnêtes gens s'interessent ici beaucoup en ce qui le regarde. Je suis avec un profond respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre treshumble et tresobeissant seruiteur
+<lb/><persName key="duil010">N. Fatio de Duillier</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huygens de Zulichem</persName>
+<lb/>à La Haie.
+<lb/>Avec un livre.</p>
+</div>
+</body>
+</text>
+</TEI>

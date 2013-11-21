@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0067"/>
+<meta type="date" value="1649-12-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="genev001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0067">
+<div type="opener">
+<p><placeName key="denha004">Haye</placeName> ce <date>25 Dec. 1649</date>.</p>
+<p>Mon frere</p>
+</div>
+<p>Il ij a 5 ou 6 jours que je suis revenu de mon voyage de Dennemarck<note n="#1"/> ou j'aij esté avecq Mr. <persName>le Comte Henrij</persName><note n="#2"/> comme vous sçavez. Pour luij il n'a pas esté plus loin qu'en Holsteijn, mais moij, ayant trouvé bonne compagnie j'aij eu assez de curiosité pour passer plus avant j'usques a Coppenhaghe et Elseneur ou les navires ont accoustumé de payer le tribut au Roij; et si la saison l'eust permis, j'eusse peut estre passé plus outre en Schonen et Suede pour ij voir Mr. <persName key="desc004">des Cartes</persName> et la Reine<note n="#3"/>
+dont il escrit tant de merveilles, mais ce n'eust pas esté pour revenir avecq Mr. le Comte. Au commencement j'ay esté avecq luij 10 ou 12 jours a Flensburgh en Holsteijn ou la Cour estoit; la on n'avoit autre passetemps que de manger et boire danser et jouer: L'apresdisner on s'alloit divertir <hi rend="i">ins frauwenzimmer</hi> ou il ij avoit 12 damoiselles de la Reine et quelques <hi rend="i">freuleins</hi>, toutes habillées a la Francoise mais dont pas une ne parloit Francois. Apres souper d'ordinaire on ij dansa le Roij<note n="#4"/> et la Reine aussi bien que le reste; la Reine<note n="#5"/> n'a que 18 ans, mais pour le Roij qui en a plus de 43, j'estois bien estonné au commencement de voir qu'il s'amusoit a danser de sessies avecq nous autres. Monsr. le Comte estoit tousjours de la partie et Beer<note n="#6"/> estoit le maistre qui nous enseignoit de ces contredanses d'Angleterre, ou l'on ne s'en sert plus. Je vous pourrois longtemps entretenir de ce que j'aij veu et remarqué en tout ce voijage, mais pour abreger je vous diraij seulement ce que j'aij trouvé de nouveau en leur facon de vivre. A table horsmis a celle du Roij l'on n'ij a point de serviettes. ils boivent la biere hors de grands pots d'argent qu'on a de la peine à lever. dans leur pain saulces et avecq beaucoup d'autres viandes ils mettent du cumin. par tout on ij couche entre deux lits de plume. on ij disne a 10 et souppe a 5 heures. Je croyois vous en dire bien d'avantage mais je ne m'en scaurois souvenir a cet heure. J'espere que vous vous souviendrez mieux de me respondre et de ce que je suis</p>
+<div type="closer">
+<p>Vostre frere et serviteur <persName key="huyg003">Chr. Huijgens</persName>.</p>
+</div>
+<p>Toot vous escrira sans doute que Frelle Juliane de Brederode<note n="#7"/> est devenüe insensée, et que Mr. <persName>Kinschot</persName><note n="#8"/> n'en est pas loin en ce qu'il a changé de religion.</p>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Mijn Heer <persName key="huyg007">Huygens</persName>, Secretaris van S. Hoocheijt te Geneve.<note n="#9"/></p>
+</div>
+</body>
+</text>
+</TEI>

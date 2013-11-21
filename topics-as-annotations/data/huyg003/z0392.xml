@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0392"/>
+<meta type="date" value="1657-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="kech001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0392">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Horologiën.</p>
+</div>
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName> S.D.</p>
+<p>Clarissime Vir</p>
+</div>
+<p>Heri me Bullialdus convenit, petijtque enixe ut si qua fieri posset deliquium lunae quod in 25 hujus mensis<note n="#2"/> scis incidere, non inobservatum transire sineremus.
+Cum inopiam instrumentorum causarem quibus sane prorsus destituor, non destitit tamen ille urgere, jussitque ut amicos omnes notosque circumspicerem, an in his nemo esset a quo commodato sumere liceret. Quod et facturum me recepi facioque eo libentius, quod nunquam antehac ejusmodi observationibus interfui, ideoque tali magistro complura addiscere spero quae fortasse olim mihi usui futura sint. Cum autem nemo exactam temporis mensuram quanti intersit ope horologiorum quae automata vocant expendi posse nemo, credo Vir Clarissime, te melius novit. liquet enim ex scrupulosissimis tuis Eclipsium et aliorum caeli phaenomenorum observationibus<note n="#3"/> quas pridem magno Astronomorum applausu in lucem emisisti, quantopere circa minimas quasque horarum particulas solicitus sis, quamque diversas explorandi vias secteris ut omnium collatione tanto certius de veris temporum articulis statuas.</p>
+<p>Quamobrem non dubito etiam quin acceptissima tibi futura sit nuperi inventi nostri descriptio, quo rem istam tamdiu à summis Astronomiae magistris exoptatam ac perquisitam ex voto confecisse arbitramur. Occasionem inventionis, pendula ista, quae jam ab annis aliquot usurpari vobis caepta sunt, praebuere. quae cum viderem mira vibrationum suarum aequabilitate distinguendo tempori cumprimis apta esse, coepi exquirere mecum an non ratione aliqua continuus illorum motus fieri posset simulque numerandi taedium tolli. ex varijs quibus id efficeretur modis simplicissimus tandem occurrit, ut sumpto horologio, qualibus uti solemus, dentatis rotis coaptato, parti illi quae totius cursum moderatur ultro citroque oberrando, nostrates <hi rend="i">Onrust</hi> vocant, quasi <hi rend="i">ἄπαυςον</hi> dicas, ut illi inquam non horizontaliter jacenti, sed perpendiculariter constituto pendulum affigerem, ex virgula ferrea non flexili dependens. Quod cum fecissem, ac porro pondus suum horologio appendissem, evenit planè sicut mente perceperam, ut nimirum penduli oscillationes singulae eousque vi horologij adjuvarentur, ut nequaquam paulatim deficiendo angustiores evaderent, sed in certa quadam latitudine continuè perstarent. Aequalibus autem vibrationibus hisce existentibus omnis quoque horologij motus aequabilis efficiebatur.</p>
+</div>
+</body>
+</text>
+</TEI>

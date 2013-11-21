@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1712"/>
+<meta type="date" value="1669-03-13"/>
+<meta type="sender" value="esti011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="chart901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1712">
+<div type="opener">
+<p>a Chartres le 13 mars 1669.</p>
+<p>Monsieur,</p>
+</div>
+<p>L'on dit qu'en travaillant l'on devient ouvrier. En effet car quoy que j'eusse bien examiné le dessein de l'horloge que vous m'aviez envoyée, neantmoins je n'avois pas tout remarqué et il n'y a eu que la pratique et le travail qui m'ont encore fait connoistre que je ne pouvois pas l'executer comme je le croyois, particulierement a l'égard de la situation du balancier lequel j'avois toujours cru devoir passer par le centre de la roue de rencontre lors qu'elle est d'un nombre de dents impair, cependant dans votre figure<note n="#1"/> elle tourne a costé, ce qui n'est pas sans quelque mystere asseurement: c'est pourquoy je n'ay pas voulu passer outre sans auparavant en avoir vostre pensee. Si vous voulez avoir la bonté de m'esclaircir sur ce fait de la mesme maniere que vous avez pris la peine de le faire par vostre derniere<note n="#2"/> sur les difficultez que j'avois, ce me sera encore un surcroit d'obligation, adjoutez y s'il vous plaist cette division dont je vous avois parlé<note n="#3"/> afin qu'il ne me manque rien pour temoigner partout que l'invention de votre horloge est d'une force d'imagination et d'esprit aussy grande qu'on en ait veu de ce siecle. Je vous baise les mains et suis</p>
+<div type="closer">
+<p>Monsieur,</p>
+<p>Vostre treshumble serviteur <persName key="esti011">Estienne</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

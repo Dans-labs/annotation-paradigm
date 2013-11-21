@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2383"/>
+<meta type="date" value="1685-04-21"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="diere001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2383">
+<div type="opener">
+<p>Dieren ce 21 d'avr. 1685.</p>
+</div>
+<p>Je vous ay escrit avanthier<note n="#1"/> et ce n'est icy que pour vous envoyer l'enclose de Mr. le Premier<note n="#2"/> que lon a adressée chez moy par abus, et on s'est mepris à la superscription. Je n'ay pas attendu de là que ce qu'elle porte et la conduite obligeante de Mr. <persName key="tell018">de Louvois</persName> ne se dement point il fait les choses d'aussi bonne grace qu'on pouvoit esperer d'un d'homme fait comme il est<note n="#3"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

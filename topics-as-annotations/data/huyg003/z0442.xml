@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0442"/>
+<meta type="date" value="1657-12"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="jann006"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0442">
+<div type="comment">
+<p>Extraict d'une lettre de Monsieur <persName key="boul014">Boulliau</persName><note n="#3"/>.</p>
+</div>
+<p>Je vous prie de dire a Monsieur <persName key="huyg003">Christian Hugens</persName>, que Monsieur le grand Duc<note n="#4"/>, faict travailler a une horologe, qui doibt faire le mesme effect que la sienne et mesurer toujours le temps egalement. Et que sans la remonter a la main, elle se remontera d'elle mesme par le moien de l'eau.</p>
+<p>Je vous suplie de le saluer de ma part et de l'asseurer de mon service.</p>
+</div>
+</body>
+</text>
+</TEI>

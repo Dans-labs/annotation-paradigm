@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2823"/>
+<meta type="date" value="1693-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leipz001acta01"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leipz001"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2822"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2823">
+<p><note n="#2"/> C.H.Z. de Problemate <persName>Bernouliano</persName> in actis Lipsiensibus hujus anni pag. 235 proposito<note n="#3"/>.</p>
+<p>&nbsp;</p>
+<p>Elegans inprimis esse hoc Problema, cum ex iis quae Clarissimus inventor<note n="#4"/> de eo prodidit, tum ex solutione et commentatione fraterna<note n="#5"/> manifestum est.
+A quo investigando cum propter insignem difficultatem, quae statim sese offerebat, abstinere statuerim<note n="#6"/>, (neq; enim omnibus perquirendis, quae a Viris eruditis exercitii gratia proponuntur, incumbere necesse existimo, aut assequendis parem me profiteor) non desiit tamen quasi invitum compellere recurrens identidem quaesiti non vulgaris idea, donec tandem quod desiderabam obtinui<note n="#7"/>. Inventa nimirum <hi rend="i">aequatione differentiali</hi> in qua ex altera parte erat elementum trapezii hyperbolici, ab asymptoto perpendicularibus intercepti; ab altera elementum spatii curvilinei, quod itidem ad trapesium hyperbolicum reduci posset<note n="#8"/>. Quod apertius exponerem, nisi relinquendam etiamnum aliis putarum inquirendi voluptatem. Inde eo rem deducebam, ut trapezium ejusmodi hyperbolicum secandum esset aut augendum secundum rationem datam<note n="#9"/>. Quod cum per medias aut continue proportionales fieri possit, ubi ratio tangentis ad abscissam est ea quae numeri ad numerum, hinc apparuit curvam quaesitam tunc iis accensendam quae geometricae vocantur, alias esse ex heterogeneis; ac tamen constructionem dari posita lineae logarithmicae descriptione<note n="#10"/>, quam quidem hic adducerem, nisi viderem haud difficulter ex ipsa Jacobi Bernoullii doctissima simul brevissimaque solutione omnia<note n="#11"/> erui posse; ut jam ab alijs occupatam dubitem<note n="#12"/>.</p>
+<p>Colligitur vero ex his illud animadversione dignum, nempe quandocunque in investigatione curvarum ex tangentibus aut subtangentibus ejus, ad similes ei quam dixi aequationes pervenietur, aut in quibus habeatur utrinque elementum spatii ad trapezium hyperbolicum reductibilis; tunc idem hoc, quod mirabile hic accidit, eventurum, ut curvae geometricae diversorum generum graduumque existant, si hyperbolarum ad quas devenitur rectangula quae in asymptotis, fint commensurabilia. Praeterea observanda venit in hoc problemate inusitata ac singularis analysis via, quae ad alia multa in hac Tangentium doctrina aditum aperit, ut egregie jam animadvertit Vir celeberrimus <hi rend="i">calculi differentialis</hi> inventor, sine quo vix esset, ut ad hasce geometriae subtilitates admitteremur. Porro quod ad curvarum, de quibus agitur, designationem in plano attinet, possem, si operae pretium esset, alios modos ac fortasse commodiores indicare<note n="#13"/> quam qui a Cl. Bernoullio praescribitur<note n="#14"/>, atque etiam docere qua ratione optime peragatur descriptio nostrae quadratricis hyperbolae, quae inter <hi rend="i">Tractorias</hi> (ita enim vocari possunt) simplicissima censenda est, cum ad eam filis nihil opus sit, sed bacillo tantum utrimque cuspidem lateri infixam habente, quo fit ut &amp; regressu explorari possit quam recte exarata sit<note n="#15"/>. Sed his supersedendum arbitror, donec insignis usus aliquis harum linearum in lucem proferatur. Interim aliam quandam utilissimam curvam nuper
+mihi repertam Geometrae sciant, cujus opera horologiis aequalis motus consiliatur, ac ejusmodi ut maris agitatione nequaquam turbari aut imminui<note n="#16"/> queat<note n="#17"/>; quod
+in pendulis nostris hactenus usurpatis non satis caveri potuit. Adco ut nova ac certior spes nunc affulgeat perficiendi Longitudinum inventi.</p>
+<p>Curva haec formatur.</p>
+<p><formula>a a b b c d e e e e e f i i i i i l l l m m m m n o r r s s t t u u x</formula><note n="#18"/></p>
+</div>
+</body>
+</text>
+</TEI>

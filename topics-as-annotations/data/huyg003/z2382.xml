@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2382"/>
+<meta type="date" value="1685-04-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="tell018"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2382">
+<div type="opener">
+<p>A Monseigneur <persName key="tell018">de Louvois</persName>.</p>
+<p>du 5 Avr. 1685.</p>
+<p>Monseigneur</p>
+</div>
+<p>Apres avoir attendu longtemps avec le respect que je devois les ordres que vous m'aviez fait la grace de me promettre, pour scavoir si j'avois a retourner en France ou a rester icy<note n="#2"/>, j'ay pris la liberté de m'adresser a Mr. le Premier<note n="#3"/>, qui m'honore de son amitiè, afin qu'il voulust s'enquerir en quel estat estoit cette affaire et ce que je devois en esperer. Et ayant reconnu par ce qu'il a eu la bontè de me mander qu'il n'y avoit point d'apparence que je fusse rapellè, j'ay cru
+que c'estoit autant que si j'avois receu vos ordres mesmes et que c'estoit la volontè du Roy que je ne retournasse point a la quelle je devois acquiescer quoy qu'en ignorant entierement la cause. J'ay donc priè un de mes amis<note n="#4"/> de me renvoier mes livres et mes meubles qui occupent quelques chambres dans l'hostel de la Bibliotheque Royale, ce que pourtant je n'ay osè faire sans me donner l'honneur de vous en escrire et d'en demander vostre permission. Je vous demande en mesme temps Monseigneur la continuation de vos bonnes graces, que je tascheray de me conserver par toute sorte de moyens, estant avec soumission</p>
+<div type="closer">
+<p>Monseigneur
+<lb/>Vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

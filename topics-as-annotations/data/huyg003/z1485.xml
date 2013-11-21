@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1485"/>
+<meta type="date" value="1665-10-23"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1485">
+<div type="opener">
+<p>A Monsieur <persName key="huyg003">Christianus Huggens</persName> A la Haye en Hollande.</p>
+<p>Monsieur</p>
+</div>
+<p>Si j'ay tardé à vous respondre et a vous assurer que vostre Remerciment que vous faisiés au Roy<note n="#1"/> et a Monsieur <persName key="colb012">Colbert</persName><note n="#2"/> pour les nouuelles graces que vous aués receües de Sa Majesté a esté tres bien receu ça esté pour ce que j'attendois une nouuelle lettre de cet illustre Ministre confirmatiue de vostre vocation dans ce seruice. Maintenant que je vous enuoye cette lettre<note n="#3"/>, et que vous n'aurés plus qu'à vous preparer au voyage qui vous establira parmi nous je m'aquite de ma debte, et satisfaisant à vostre billet du XVII du passé, je me resjoüis auec vous de l'accomplissement prochain de cette affaire utile et glorieuse pour vous et d'une extreme consolation pour moy qui auray la joye de voir en vostre exaltation le fruit des semences que j'ay jettees et des soins que j'ay pris a faire connoistre icy vostre merite outre le plaisir de vous posseder de plus pres et de vous gouuerner plus souuent que la distance des lieux ne le permettoit.</p>
+<p>Ce sera alors que vous vous ajusterés auec le Sieur Thuret<note n="#4"/> touchant l'article de vos horloges de terre et de mer par vous mesme et sans doute beaucoup mieux
+que par autruy. Une des choses qui lui a tenu l'esprit plus en suspens pour venir a conclusion auec moy estoit l'opinion que le nouueau secret imaginé par vous pour la parfaitte justesse de ces Machines estoit le mesme que celuy qui luy estoit venu en la pensée pour produire le mesme effet en celles de sa fabrique. Mais afin qu'on ne le prist pas pour un fanfaron ou pour un plagiaire s'il attendoit a descouvrir son inuention qu'il eust veu l'execution de la vostre, il se resolut de me la communiquer en me faifant voir de quelle sorte il pretendoit rendre les heures exactement egales depuis la premiere jusqu'à la derniere, sans qu'il y eust une minute de plus ni de moins dans tout le cours que son ressort luy ferait auoir. Je vis donc dans sa Machine qu'il auoit engagé dans le tour interieur de la roüe qui meut celle de rencontre un petit ressort fort estroit, lequel a chaque tour de roüe se remontoit et remettoit au mesme point par la force du grand ressort de matiere que le petit ne se desployant que d'une fort mediocre estendüe il ne pouuoit manquer de conseruer une pareille vigueur, d'ou la parité du mouuement du balancier estoit consequement necessaire et ainsi l'egalité des heures par la parité des momens. Que si cette inuention est aussi solide que je la trouue ingenieuse il s'ensuyurait que soustenüe par la naturelle egalité du Pendule qui tiendroit le grand ressort dans la necessité de conseruer sa force egale ou du moins son effet, les horloges ainsi fabriquées pourroient estre dans la derniere justesse. Les deux vostres estant depuis venües<note n="#5"/> et Messieurs de Monmor et Carcaui les luy ayant portées par vostre ordre, il a trouué en les remettant en train que vostre secret estoit bien le mesme que le sien pour les deux
+ressorts, mais que les chaisnettes de vostre machine estoient d'un artifice moins simple que le sien, et plus sujet a arrest comme il est arriué dans celle de Monsieur Carcaui et celle de Monsieur de Monmor<note n="#6"/>. Il est vray que c'est peut estre plus par le defaut de la fabrique a l'egard de l'Ouurier ou de la matiere a l'egard de la chaisnette que de l'Inuention a vostre egard. Vous en jugerés bien mieux en les conferant l'une auec l'autre par vos propres yeux. Cependant j'ay creu que je deuois vous en donner une grossiere idée afin que vous m'escriuissiés ce que j'en dois penser, car je n'ay garde de prendre parti en cela que sur vos lumieres et sur vos decisions, estant comme vous estes le maistre et le juge en ces matieres et moy non moins vostre disciple que Vostre serviteur.</p>
+<div type="closer">
+<p>De <placeName key="parij001">Paris</placeName> ce <hi rend="sc">xxiii</hi> Octobre <hi rend="sc">mvi<hi rend="sup">c</hi>lxv</hi>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

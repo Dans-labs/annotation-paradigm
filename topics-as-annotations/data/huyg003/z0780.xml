@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0780"/>
+<meta type="date" value="1660-09-14"/>
+<meta type="sender" value="dati010"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0780">
+<div type="opener">
+<p lang="it">Mio Signore e Padrone Singolarissimo</p>
+</div>
+<p lang="it">Congiunta auera Vostra Signoria la benigna, e cortese risposta al Signor Cristiano Vgenio del Serenissimo Principe Leopoldo Mio Signor<note n="#2"/>. la quale le sarà inuiata
+con questa mia dal Signor Fenoni Agente del Serenissimo Gran Duca di Toscana in Amsterdam. Jo l'assicuro che Sua Altezza ha in quella stima, che si conuien maggiore il ualore del Signor Vgenio, e che questi Signori Academici benche amatori spassionati del uero, sono parzialissimi del Sistema Saturnio da lui messo in luce. E si come ammirano l'ingegno di lui nell' opere pubblicate, cosi sempre n'attendono delle più ammirabili.</p>
+<p lang="it">Spero fra poco d'inuiare l'osservazioni fatte da questi Signori intorno al Sistema, come anche intorno al Pianeta di Saturno medesimo. Non tralascero di dirle che non sono in <placeName key="flore001">Firenze</placeName> senon trè libri del Signor Vgenio, benche infiniti lo desiderino, e lo ricerchino per qualsiuoglia prezzo, ma inuano. Risponderò per altra uia lungamente a Vostra Signoria la prossima. Fra tanto la prego a riuerire ossequiosamente in mio nome il Signor Vgenio e il Signor Vossio, e a conseruarmi l'onore della sua gratia.</p>
+<p lang="it">Di Vostra Signoria Mio Singolarissimo Padrone Seruitore diuotissimo et obbligatissimo <persName key="dati010">Carlo Dati</persName>.</p>
+<div type="closer">
+<p lang="it">Di <placeName key="flore001">Firenze</placeName> li <date>14 Settembre 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

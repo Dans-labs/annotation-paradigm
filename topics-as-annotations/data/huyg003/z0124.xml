@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0124"/>
+<meta type="date" value="1652-04-01"/>
+<meta type="sender" value="lips006"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0124">
+<div type="opener">
+<p>Χ<hi rend="i">αίρειν ϰαὶ εὖ πράττειν</hi>.</p>
+<p>Vir Clarissime, et acutissime, generis splendore Nobilissime.</p>
+</div>
+<p>Anxia diu mecum deliberatione agitavi, utrum citra audaciae notam fas esset. Te liberius compellare, sed vicit cunctationem amor, et <seg org="assectus" resp="#AD" type="corr">affectus</seg> erga Tuam Claritatem, quò bonorum omnium vota concordantibus conspirant suffragiis. Etenim ab
+eo tempore, quo primum tua eximia et rara matheseos specimina, nunc in augustissimo famae theatro ubique collocata, mentis oculis penitius introspexi, in amore Te ac deliciis habui, Teque potissimum tanquam exemplar omnis virtutis et spectatae eruditionis mihi proposui, utinam felici augurio! Postquam vero è Clarissimo domino <persName key="scho197">Schotenio</persName>, Amico nostro communi ac integerrimo, Tuae Claritatis candorem, et propensum erga omnes verae sapientiae studiosos affectum, potissimum erga illos, qui Cartesianis Manibus meritos honores deferunt, cognovi, nihil magis in votis habui, quàm ut liceret mihi aliquo officio Tuae Claritatis amicitiam et benevolentiam provocare, quâ si dignum me iudicaveris, faciam ut omnes intelligant, me nullius amicitiâ magis superbire, quàm Tuae Nobilitatis. Illam autem propter communia studia me facile assequiturum confido, nempe propter Analyseos Speciosae amorem, cui Tuam Nobilitatem dediditissimam<note n="#1"/> esse, quâque adminiculante admiranda cottidie Te patiare, facinora, omnes cordatiores norunt. Eandem ego tanta fidelitate, tanto fervore â Clarissimo domino <persName key="scho197">Schotenio</persName> hactenus hausi, et adhuc dum haurio, ut mihi sequentium annorum decursu largam exinde messem, et Tuae Nobilitatis exemplo excitatus, honestam mihi ambitionem, gloriam nempe apud Tui similes cordatiores viros pollicear. Si tamen unquam eò me pertingere posse auderem sperare, quò Tua Nobilitas felici molimine iam pervenit. Sed ut desint vires, in magnis tamen voluisse sat erit, et tua nihilominus trophaea, non secus ac olim Miltiadis Themistocli, somnum meis oculis excutient. Quodsi nihil amplius officere possum, annitar tamen in id omni ope ac studio, ut dignus Tuae Nobilitatis admirator et amicus existam. Interea, ne tibi multis verborum lenociniis gravis sim, aut tuis sublimioribus musis infestus, hic desinam, ubi prius maiorem in modum â Te, Nobilissime
+Vir, contendero ut eo candore et affectu, quo antehac aliorum labores aestimavisti, meos quoque liberales conatus tenuia genuinae Philosophiae specimina<note n="#2"/> suscipias, nec doni, sed animi aestimatione tenui munus metiaris. Ego enim cum ob virtutem morumque temperiem, tum eruditionem Te et colere iam coepi, et colam; <hi rend="i">dum memor ipse mei, dum spiritus hos reget artus</hi>. Quod si hosce exiguos conatus Tibi, Virorum Nobilissimo, et his literis inprimis imbuto non displicitura intellexero, est quod gaudeam, et de quo mihi valde gratuler. Ego demum te Nobilissime Vir, Supremi Numinis patrocinio ad prosperrimos omnium rerum eventus commendo, teque diutissimè salvere iubeo.</p>
+<div type="closer">
+<p>Vale et Fave Tuae Claritatis et Nobilitatis observantissimo</p>
+<p><persName key="lips006">Danieli Lipstorpio</persName>.</p>
+<p>Art. lib. mag.</p>
+<p>Dabam <placeName key="leide001">Lugduni Batavorum</placeName><note n="#3"/> an. aevo vulgaris 1652. Kal. Aprilis.</p>
+</div>
+<p>A Clarissimo et Optimo domino <persName key="scho197">Schotenio</persName> plurimam Tuae Nobilitati salutem adscribo. Quod si otium sit Tuae Nobilitati paucis verbis suum mihi affectum vicissim obsignare, poterit modo domino <persName key="scho197">Schotenio</persName> literas mittere.</p>
+<p>&nbsp;</p>
+<p>In legendo ut Tua Nobilitas errata in frontispicio libri notata praemittat, vehementer rogo.</p>
+</div>
+<div type="para">
+<p>Viro Nobili, et Praecellenti Dn. <persName key="huyg003">Christiano Hugenio</persName>, Geometrae et Philosopho acutissimo, Domino, et Favitori plurime
+<lb/>colendo
+<lb/>In S'gravenhaag.</p>
+</div>
+</body>
+</text>
+</TEI>

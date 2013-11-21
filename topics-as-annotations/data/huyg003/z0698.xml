@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0698"/>
+<meta type="date" value="1659-09-13"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0698">
+<div type="opener">
+<p>de <placeName key="parij001">Paris</placeName> ce <date>13<hi rend="sup">e</hi> Sept. 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay bien des Excuses à vous faire d'auoir demeuré si longtemps à me donner l'honneur de vous escrire, mais le sciour que J'ay esté obligé de faire presque continuellement depuis trois moys a la campagne ne m'a donné aucun loisir pour vous rendre ce deuoir, Je n'ay pas toutefois negligé ce que vous m'auiez ordonné et ayant eu occasion d'escrire a Monsieur de Fermat Je luy ay fait uoir ce que vous me mandiez par uostre derniere sur le suiet des nombres, et sur la difficulté que vous et Monsieur Sluze n'auiez pu resoudre touchant la proposition de la parabole et de la spirale de Monsieur Destonuille, ce que J'ay fait Monsieur d'autant plus volontiers que Je ne pouuois vous donner l'esclaircissement que vous desiriez, n'ayant ni le liure de Monsieur Destonuille ni le loisir d'examiner derechef une chose qui m'auoit paru veritable, Et que Je n'osois aussy escrire de cela au dit Seigneur Destonuille qui n'est pas mesme encore a present bien remis de son jndisposition, Et qui ne scauroit s'appliquer a la moindre chose qui demande quelque attention, Ce que m'en a escrit le dit Seigneur de Fermat, Et que ie uous enuoye dans ce paquet<note n="#4"/>, m'a fait voir que J'auois peut estre conclu trop uiste la certitude de la proposition dudit Seigneur Destonuille, Et Je ne croyois pas qu'il fallut tant de discours pour en faire uoir l'Euidence. Je joints a cela quelqu' autre chose<note n="#5"/> qu'il m'a escrit que uous serez peut estre bien ayse de uoir, Et Jauray touiours une satisfaction tres particuliere de vous temoigner par mes seruices et mon affection, et l'estime que ie faits de votre merite.</p>
+<p>Pour ce qui est des nombres il ne m'en a rien mandé de particulier, mais je luy ay enuoyé tout ce que J'auois de luy pour l'obliger a le reuoir et le donner au public auec plusieurs autres belles propositions qu'il a encore par deuers luy tant pour les nombres que pour les lignes droictes et courbes, ce que ie crois qu'il fera puisqu'il veut bien se donner la peyne de reuoir ce qu'il en a desia communiqué à ses amis.</p>
+<p>Comme J'alois hyer faire faire un horloge de vostre jnuention, Je trouuay un honest' homme d'Angoulesme nommé Monsieur de Boismorand<note n="#6"/> qui m'asseura en auoir un chez luy il y a tres long tems a peu prez de la mesme façon, du moins auec un pendule qui fut fait enuiron l'annee 1615. ou 1616 par un Allemand pour feu la Reyne mere Marie de Medicis<note n="#7"/>, qu'elle ne prist point a cause de son despart dAngoulesme. Et l'ouurier s'estant marié et decedé quelque tems aprez dans la mesme ville, ledit Seigneur de Boismorand l'a retiré de ses heritiers, dont J'ay cru vous deuoir donner aduis.</p>
+<p>Voicy l'extrait des lettres de Monsieur de Fermat<note n="#8"/>.</p>
+<p>&nbsp;</p>
+<p>Voyla Monsieur l'extrait des deux lettres que J'ay receu de Monsieur de Fermat que je suis raui d'auoir peu vous enuoyer.</p>
+<p>Et comme J'acheuois la presente J'ay receu de Monsieur Boulliaud vostre traicté du Systeme de Saturne dont Je vous rends tres humbles graces, Il m'en<note n="#9"/> aussy donnè un pour Monsieur Pascal qu'il aura dez auiourdhuy, mais ne scaurons nous jamais si ces Messieurs les Anglois, J'entends Messieurs Wrem, Walis, et Ward, ont receu le liure de Monsieur Destonuille, Et le Jugement qu'ils en font<note n="#10"/>. Je vous serois aussy beaucoup obligé si ie pouuois auoir par vostre moyen le liure de Monsieur Walis dont vous m'auez parlé dans quelques unes des vostres, qui a pour titre <hi rend="i">Commercium Epistolicum</hi>, nos libraires n'en ont point icy non plus que le nouueau traicté<note n="#11"/> de Monsieur de Wigt<note n="#12"/> et quelque chose que l'on nous a dit auoir esté imprimee<note n="#13"/> par Monsieur Wrem. si vous faictes part a
+Monsieur <persName key="slus001">Sluse</persName> des lettres de Monsieur <persName key="ferm011">de Fermat</persName> permettez moy de vous supplier tres humblement de le saluer de ma part, et de luy dire que J'ay veu son petit traicté<note n="#14"/> pour la construction des problemes solides qui est tres elegant et qui m'a plu d'autant dauantage que Je m'estois autrefois appliqué aux mesmes constructions, Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur, <persName key="carc010">de Carcavy</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

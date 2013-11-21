@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="V"/>
+<meta type="date" value="1640-01-04"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="V">
+<div type="opener">
+<p>Illustris Domine,</p>
+</div>
+<p>Enimverò jam tacere ultrà nequeo, cogorque adeo et ingenio a querelis, si quod aliud alienissimo, et amori, quo nobilissimos discipulos prosequor, flagrantissimo, juxta vim faciens, quam gravissimas apud illustres aures tuas deponere. Verbo dicam: Imperium sane in eos meum aut nullum, aut certe precarium jam a multis retro mensibus est; neque quod jubeo, moneo, oro, ullus receperint; sed ingenti confidentiâ obnitantur, detrectent, nisi quam exactissimè cum placitis suis conspiret. Atque ita profectò, nisi omnes me rationes fallunt, non patri, cujus ut domini imperium sequor, non mihi paedagogo sane et praeceptori (nisi jam cum re vera rei vocabula quoque amisimus) sed suae libidini obsequuntur. Ego, quod ad me nihil quo haec fiant subesse causae profiteor, quam nimiam ex nimio fortassis amore pullulantem et exundantem indulgentiam; nullius certò alìus mihi conscius sum: si quid est hujus, sanè proferant: si amore si indulgentiâ peccaverim, fateor, habes n.v. habent confitentem reum. Caeterum cogitent quam indignè bonum, penè dixerim, malo pensarint. quam malo simul me exemplo deceperint, qui erecta, excitata, et liberalia ingenia liberaliter, comiter, familiariter tractanda; ducenda non trahenda, pudore non metu, non minis, non manu, in officio continenda, semper duxerim. Et jam studia sola ferè loquor. Mores etiam nullos nisi suos recipiunt. Si vitio quos vertam, odiosè disputant et mordicus tuentur: neque quicquam vetantem me pensi habent, susque adeo deque illis jam est, nisi quod lubet. Ego interim nullo apud eos loco, Bruno nomen, fabula, praeterea nihil. Ad admonitiones omnes omnino (pudet dicere) jampridem occalluere: Naturae vocantes fortasse quae necessitatis sunt. quin si patri quando indicaturum minitor, Ludovicus (cujus aetatulae nimium quantum hactenus dederim) etiam contra minitatum advenit, studijs se, si fecerim, operam non daturum; imo saepissime, si quid
+injungam, vel eo se nomine quod patri indicaturum minatus fuerim, nullus obtemperaturum affirmat. quin docendi causa non regendi me ei praepositum audet dicere. Caeteri etiam ultro imperant subinde, tantum abest, ut mihi audientes sint. Rident praesentem, absentem,
+apud cognatam<note n="#1"/>, ancillas, Spijckium<note n="#2"/>, servos, aliisque deridendum propinant; et quicquid in buccam venerit, effutiunt; nominatim per contemptum versificatorem appellant, unde omnis erectum aliquid meritandi conatus exstinguitur, suffocatur in herbâ: inde adeo strenam N.D.M. nullam misi, tacere coactus, qui primus debueram loqui. Constantinus (quem utinam laudare semper liceret) caetera caeteris tractabilior, intolerandum in modum hîc sibi indulget. Scire equidem percupio, quorum mihi, quotque dominorum jussa excipienda, quorum, quot, quousque irrisiones sint concoquendae. Haec enim omnia (quae cum ingenti dolore, quia eloqui non sustinui, literis quae confidentiores ferè sunt, quia necessum erat, perscribo) haec, inquam, omnia nisi corrigantur, <hi rend="i">exsequias Brunonis profligatoe authoritati</hi>, <hi rend="i">quibus commodum ire</hi>, <hi rend="i">hem tempus est</hi><note n="#3"/>. Corrigenda certè sunt, nam ut ultra indigna haec patiar, ab animo meo impetrare non possum. Ad te interim, Illustrissime Domine, confugio, tuamque, quando mea nihili est, authoritatem imploro; simul, ut si aut tu compertum aliquid habeas, aut discipuli, in quo deliquerim, quo mihi Mirkinio<note n="#4"/> obediant minus, illi libere proferant, tu mi humanissime Domine, vetes. Experientur tecum omnes, me nec istic, nec usquam unquam officio meo defuturum.</p>
+<p>Hic sisto Illustr. vir, et saltem nunc felix anni ineuntis auspicium, feliciorem decursum, felicissimam catastrophen, tibi, et in te patriae, ex animo opto, voveo.</p>
+<div type="closer">
+<p>Ampliss. dignit. vestrae cliens
+<lb/>devotissimus <persName key="brun004">Henricus Bruno</persName>.</p>
+<p><placeName key="denha004">Hagae-Com.</placeName> Ex aedibus tuis te,
+<lb/>si caetera non fovent, conspicuis,
+<lb/>aeternis.</p>
+<p>Prid. Non. Januar. MDCXL.</p>
+</div>
+<div type="comment">
+<p>Une pièce de Bruno du 16 mars 1640 a été publiée par nous à la p. 548 du T.I: on y trouvera une liste des auteurs étudiés par ses élèves. Dans la dernière ligne il faut lire: ‘Ad Oratoriam...animum [non pas: annuum] appulimus’.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

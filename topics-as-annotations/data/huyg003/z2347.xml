@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2347"/>
+<meta type="date" value="1684-07-08"/>
+<meta type="sender" value="perr052"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2347">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 8 Juillet 1684.</p>
+</div>
+<p>Jay communiqué Monsieur vostre traitté de l'Astroscopie a M.<hi rend="sup">rs</hi> de nostre assemblée qui l'ont fort approuué<note n="#1"/>. Je le portay le lendemain a Mr.
+<persName>de la Chapelle</persName><note n="#2"/> où estoient M.<hi rend="sup">rs</hi> Cassiny et Theuenot qui luy en dirent leur auis. Mr. <persName key="cass021">Cassiny</persName> fit quelques difficultez. Mr. <persName key="thev001">Theuenot</persName> dit quil auoit desia pratiqué cette maniere. Je vous enuoye le dessein de ma Machine<note n="#3"/>. l'explication que i'ay ecrite sur la figure est vn peu succincte mais ie croy qu'elle sera assez intelligible pour vous si vous y voulez donner vn peu d'attention. Je l'ay fait executer en grand elle reussit assez bien mais par ce qu'elle est la plus grande partie de bois elle n'a pas vne mesme iustesse dans tous les temps. Je ne vous enuoye point ce qui a été mis dans le journal des sauans<note n="#4"/> sur ce sujet par ce qu'il ne contient qu'vne exposition generalle de la chose. le traitté est entre les mains de Mr. <persName>Borelli</persName> dont iay extrait ce que vous trouuerez icy qui est vne des trois machines que lauteur propose<note n="#5"/>. J'ay choisy celle que i'ay pu comprendre à laquelle neanmoins ie trouue beaucoup de difficulté les mouuemens que lon suppose que le correspondant de l'obseruateur doit donner au miroir me paroissant trop difficiles. et en effect lauteur ne dit point qu'il ait mis en pratique aucune des machines qu'il propose. Mr. <persName key="roqu005">l'Abé de la Roque</persName> m'a chargé de vous dire qu'un mathematicien nomme Barnoully a pris vostre deffence contre l'Abé Catelan<note n="#6"/> et que ce dernier luy a donné sa responce pour la mettre dans le journal<note n="#7"/>.</p>
+<p>Les liures d'Architecture que ie vous ay enuoyez et a Monsieur de St. Agnelan<note n="#8"/> ont eté donnez et recommandez par M. Friquet<note n="#9"/> au Secretaire de Mr. vostre ambassadeur. Ma soeur<note n="#10"/> dit quelle vous ecrit plusieurs fois sans avoir eu de responce, elle vous salue treshumblement de mesme que mon frere. Je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="perr052">Perrault</persName>.</p>
+</div>
+<p>Le tuyau mobile A<note n="#11"/> estant adressé aux objets peut communiquer au Miroir B tous les mouuemens qu'on luy donne tant pour les Hauteurs que pour les
+<figure><graphic url="huyg003oeuv08ill123.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv08ill124.gif"></graphic></figure>
+Declinaisons. Les premiers se font par la petite Poulie I. qui remue la grande poulie K, laquelle estant attachée au petit chassis LL. fait incliner le miroir auquel il est aussy attaché par le piuot MM. La Poulie K. est double de la Poulie I. pour faire que l'inclinaison du Miroir ne soit que de la moitié de celle du tuyau A. Les autres mouuemens se font par l'essieu N. qui fait tourner a droit et a gauche le grand chassis CC. auquel le Miroir B. est aussy attaché. Et afin que ces mouuemens ne soient aussy que de la moitié de ceux du tuyau A. le Diametre de la Poulie F. n'est que de la moitié de celuy de la Poulie GG. qui estant attachée par les essieux HH. au grand chassis, fait tourner la poulie F. egale à la Poulie E. à laquelle le Miroir est attaché par les petits essieux PP. Il faut encore entendre que les poulies FGE estant arrestées par les chaines demeuront toujours horizontales quoy que le petit chassis LL. soit diversement incliné.</p>
+</div>
+</body>
+</text>
+</TEI>

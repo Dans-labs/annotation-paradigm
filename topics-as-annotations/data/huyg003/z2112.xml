@@ -1,0 +1,117 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2112"/>
+<meta type="date" value="1677-12-11"/>
+<meta type="sender" value="rome049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2112">
+<div type="opener">
+<p>Illustrissimo Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="rome049">Römer</persName> S.P.</p>
+</div>
+<p>Tandem Jovem habui propitium. Sexto Decembris obtinui comitem ejus primum in Semicirculo citeriori observatione intra minutum unum aut alterum certissima, cum determinare licuerit tam appulsum umbrae ejús ad medium disci quam exitum ejus ex disco 5 minutis pòst. Collatione facta cúm observatione 11. Septembris elapsae, (ex quo tempore recessimús a Jove 1¼ semid. orbitae nostrae,) intervallum temporis majus est calcúlato medio 12 min. quae tardatio adhuc major est respectú veri et realis motus satellitis quem aliunde comperi esse velociorem Jove versante in parte orbis sui perihelia. út in hoc decimo experimento lumen a coelo Jovis ad nos pervenit servatis iisdem legibus quas solitúm est in novem prioribús factis inde ab anno 1671. Speremque hac observatione votis Tuis benevolentissimis satisfactum<note n="#1"/>. Nihilominus auctuarii loco addam adhuc unam quam, ut spero, efficacissimam judicabis ad extorquendum assensum illis qui adhuc in tot observationúm constanti consensu de nostra hijpothesi dubitare pergant. Macula Jovis est quam 8 Decembris observavi 14 ad minimum minutis tardiorem respectú 12 Septembris quam deberet esse per motus ab excellentiss. D. Cassino stabilitos ex plus quam 12 annorum observationibus. Felicissime intercipiebam hoc phaenomenum Teste ipso D. Cassino. cum macula jam more suo evanescere incipiat út difficulter dignoscatur.</p>
+<p>Est nihilominús observatio ejus certitudinis ut potius tardior fuerit quam eam definivi. Inque illis quae in ea determinatione dubitari poterant malui citra securus subsistere quam praecisionem dubiam invito coelo consectari. Cognoscis hinc in quo statu sit communis nostra causa. Terra inter utrumque observationum par, tantundem recessit a Jove scilicet 1¼ semid: orbis annui circiter. Macula interea confecit revolutiones 210. satelles 49. utraeque abundant ⅕ horae ad minimum cum verisimiliter deficere deberent ob velocitatem acquisitam in Jovis perielio. Adjungo hic tijpum collationis observationum maculae. Vale et favere perge Tibi devotissimo</p>
+<p>&nbsp;</p>
+<p>R.</p>
+<p>Ultimae quas a Te accepi<note n="#2"/> continebant inquisitiones morae lúminis ex ecliptibus Lunae. Ad eas respondi nudius octavus<note n="#3"/> et misi simul observationes ☿<hi rend="sup">ii</hi> in Sole Domini Gallet Avenionensis.</p>
+<p>&nbsp;</p>
+<p>Collatio Observationum maculae Jovis observatae in medio disci die 12 Sept. H. 8. 6. et 8 Dec. H. 5. 49′.</p>
+<p><table>
+<row>
+<cell>Digressio terrae a Sole ex Jove 12 Sept.</cell>
+<cell>5<hi rend="sup">o</hi></cell>
+<cell>55′</cell></row>
+<row>
+<cell>8 Dec.</cell>
+<cell>10</cell>
+<cell>20</cell></row>
+<row>
+<cell>Differentia centri disci illuminati veri et apparentis</cell>
+<cell>4</cell>
+<cell>25</cell></row>
+<row>
+<cell>Sed ob defectum limbi ♃</cell>
+<cell>4</cell>
+<cell>10</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell cols="4">Tempus quo macula consicit arcúm 4<hi rend="sup">o</hi> 10</cell>
+<cell>7 Min. A.</cell></row>
+<row>
+<cell cols="4">Motús ♃ inter 12 Sept. et 8 Dec. abúndat a medio motú 37′ quae conficiúntur a macula</cell>
+<cell>1 Min. B.</cell></row>
+<row>
+<cell cols="3">Prima Observatio.</cell>
+<cell>Ultima.</cell>
+<cell></cell></row>
+<row>
+<cell>Sept. 12.</cell>
+<cell>H.</cell>
+<cell>8 6</cell>
+<cell>Dec. 8</cell>
+<cell>5 49</cell></row>
+<row>
+<cell>Revol. 210 86</cell>
+<cell></cell>
+<cell>21 32</cell>
+<cell>Diff. aequ. dierum</cell>
+<cell>3 subt.</cell></row>
+<row>
+<cell></cell>
+<cell cols="2">_____</cell>
+<cell cols="2">_____</cell></row>
+<row>
+<cell>debet restitui</cell>
+<cell cols="2"></cell>
+<cell>Si dies essent aequales</cell>
+<cell>5 46</cell></row>
+<row>
+<cell>die Dec. 8</cell>
+<cell>H.</cell>
+<cell>5 38</cell>
+<cell>Ob diff. A</cell>
+<cell>7 add.</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell cols="2">_____</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell>Si terra fuisset stationaria respectú ♃<hi rend="sup">is</hi></cell>
+<cell>5 53</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell>Ob diff. B</cell>
+<cell>1 subt.</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell cols="2">_____</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell>Tempús ultimae</cell>
+<cell>5 52</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell>obs. limitatum Sed ex 12 Sept. dedúcitur</cell>
+<cell>5 38</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell cols="2">_____</cell></row>
+<row>
+<cell cols="3"></cell>
+<cell>Tardatio pro lumine</cell>
+<cell>14′</cell></row>
+</table></p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huygens</persName> chez Mr. <persName key="huyg001">de Zuylichem</persName>, A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

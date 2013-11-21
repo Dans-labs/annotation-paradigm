@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0538"/>
+<meta type="date" value="1658-10-19"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0538">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Dum occasionem expecto qua tuto redeat ad Te Vallisius<note n="#1"/> tuus, plusculj dies abierunt, sed, spero benigne accipies hanc moram, et solicitudinj meae condonabis. Multa in libro reperj de quibus alias tecum, quando feriatum intellexero. Timeo enim, vt ait ille, ne in publica commoda peccem, si longo sermone morer tua tempora, quae studijs reipublicae litterariae vtilioribus impendis. Valde me permouit promissa Hyperbolae dimensio, et vereor vt vir acutus fidem suam liberet, saltem eâ methodo quae apud veteres Geometras recepta est. De Pappi textu aliquid legj, quod rursus apud vos editum<note n="#2"/> innuit. Ego non alium vidj quam illum Comandinj<note n="#3"/>. Mone igitur num alius extet, sed id demum cum per occupationes licebit, et me perennj affectu credito</p>
+<div type="closer">
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>19 8bris 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

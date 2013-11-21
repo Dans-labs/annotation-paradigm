@@ -1,0 +1,54 @@
+// In his poem De moeder de vrouw, Martinus Nijhoff introduces a woman
+// singing Psalms. He quotes her: "Prijs God, Zijn hand zal u bewaren."
+// (His hand will protect you.) This query looks for clauses in which a
+// `hand' is subject of a verb meaning `to protect'.
+
+// ident @(#)lq12.mql	1.1 04/02/27
+
+/*
+<metadata>
+<meta type="research_question">resolving reference from Martinus Nijhoff's poem "De moeder de vrouw"</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-02-27"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">In his poem De moeder de vrouw, Martinus Nijhoff introduces a woman singing Psalms. He quotes her: "Prijs God, Zijn hand zal u bewaren." (His hand will protect you.) This query looks for clauses in which a `hand' is subject of a verb meaning `to protect'.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [phrase phrase_function = PreO or phrase_function = Pred
+      [word FOCUS
+         lexeme = "NVR[" or     // ]
+         lexeme = "NYR[" or     // ]
+         lexeme = "PQD[" or     // ]
+         lexeme = "CMR["        // ]
+      ]
+   ]
+   ..
+   [phrase phrase_function = Subj
+      [word FOCUS lexeme = "JD/" or lexeme = "KP/"]
+   ]
+]
+
+go
+
+select all objects where
+
+[clause
+   [phrase phrase_function = Subj
+      [word FOCUS lexeme = "JD/" or lexeme = "KP/"]
+   ]
+   ..
+   [phrase phrase_function = PreO or phrase_function = Pred
+      [word FOCUS
+         lexeme = "NVR[" or     // ]
+         lexeme = "NYR[" or     // ]
+         lexeme = "PQD[" or     // ]
+         lexeme = "CMR["        // ]
+      ]
+   ]
+]

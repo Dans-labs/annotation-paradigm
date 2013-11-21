@@ -1,0 +1,86 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0003g"/>
+<meta type="date" value="1644-08-16"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="mers004"/>
+<meta resp="SG/MvZ" type="senderloc" value="assen003"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="g0003">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je vien vous rendre compte du coup qu'en mon absence j'ay faict tirer au rivage de la mer, proche de la Haye<note n="#1"/> à 45 degrez quoy que cela n'ayt reusci à nostre contentement. Car voyci ce qu'on m'en escrit<note n="#2"/>.</p>
+<p>Le 20<hi rend="sup">e</hi> juillet en presence de personnes entendues on a tiré aveq la mesme piece de 6 ℔ chargee de 1½ ℔ de poudre 4 coups de suitte, sans jamais avoir peu observer ce que devenoit la bale, de sorte qu'elle a esté portée ou en mer à gauche ou à droicte dans les dunes, ce qui est arrivé parce que sur cest affust ordinaire, la piece estant si hault eslevée n'a peu estre empeschee de bransler, et faudroit y faire un engin exprès.</p>
+<p>Le 5<hi rend="sup">e</hi> coup a esté tiré (à mesme charge tousjours) de point en blanq. Lors la premiere cheute de la bale a esté</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>à</cell>
+<cell>398 pas</cell>
+</row>
+<row>
+<cell>le premier bond</cell>
+<cell>à</cell>
+<cell>790</cell>
+</row>
+<row>
+<cell>le second</cell>
+<cell>à</cell>
+<cell>1065</cell>
+</row>
+<row>
+<cell>le troisieme</cell>
+<cell>à</cell>
+<cell>1244</cell>
+</row>
+<row>
+<cell>le quatrieme</cell>
+<cell>à</cell>
+<cell>1394</cell>
+</row>
+<row>
+<cell>le cinquieme</cell>
+<cell>à</cell>
+<cell>1475</cell>
+</row>
+<row>
+<cell>le sixieme</cell>
+<cell>à</cell>
+<cell>1548</cell>
+</row>
+<row>
+<cell>le septieme</cell>
+<cell>à</cell>
+<cell>1626</cell>
+</row>
+<row>
+<cell>le 8<hi rend="sup">e</hi> et dernier</cell>
+<cell>à</cell>
+<cell>1750 où la bale a demeuré.</cell>
+</row>
+</table></p>
+<p>Je croy que ce dernier s'entend aveq son roulement.</p>
+<p>Pour le 6<hi rend="sup">e</hi> coup le maistre ayant encor faict lever la piece à 45 degrez s'en est allé luy mesme devant pour tascher d'observer la bale, et a marché si avant, qu'a grand peine pouvoit il veoir la fumée du Canon. Comme de bonne fortune la bale est venu tomber tout derriere luy, où elle ne fit qu'un petit trou et n'entra qu'à 1½ pied, or ceste distance fut trouvée de 3225 pas.</p>
+<p>Il fut tiré encor d'autres coups depuis, mais point de nouvelle de la Bale.</p>
+<p>De sorte, Monsieur, que nous voylà sans mesure de temps, mais je remarque que,
+comme vous avez prononcé que la Bale verticale devoit avoir esté à 3072 pieds, et qu'a 45 degrez elle devoit aller deux fois aussi loin, cela se verifie icy d'assez prés, par ce qu'aux 45 degrez nous trouvons 3225 pas, desquels pas, chascun contient deux pieds, estant ces pas la marche ordinaire d'un homme, ainsi vous avez moyen de supputer aucunement de la distance au temps.</p>
+<p>Et icy je conclus nostre conference Canonique, en ayant tant d'autre icy autour de mes oreilles jour et nuict, qui reciproquement ne faict que coupper bras et jambes, que je n'ay plus loysir de traicter ces matieres en jouant. Quand vos Canonistes Royaulx seront revenus de la campagne j'attendray qu'à Paris vous leur fassiez faire un essay à leur mode, afin que puissions conferer les experiences, et on ne refuse pas si peu de chose aux gens d'Eglise, et de la consideration dont vous estes par vostre grand mérite.</p>
+<p>Le beau livre Physicomathématique<note n="#3"/> que vous me faictes esperer, n'est pas encor venu. Il me tarde fort de le veoir, selon l'estime que j'ay subject de faire de tout ce qui part de vos doctes mains.</p>
+<p>Vous m'avez aussi bien remué la salive du Traicté des raisons Physiques du systeme du monde mais tout n'est qu'en attente jusques à present. Vous aurez, j'espere, receu le mauvais present que je vous ay envoyé par Calais, je vous en demande pardon.</p>
+<p>La Philosophie de Monsieur Descartes<note n="#4"/> vient de m'estre rendue et de 8 jours je n'auray loysir d'y regarder. Je voudroy vous la pouvoir faire tenir, mais premierement j'attendray sçavoir que mon adresse de Calais soit seure, car j'ay subject d'en doubter pour des pacquets que j'ay faict passer par là, et dont je n'entens point parler. Continuez moy l'honneur de vostre amitié, je tascheray de la meriter en partie comme estant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble serviteur <persName key="huyg001">C. Huijgens</persName>.</p>
+<p>Au Camp devant le <placeName key="sasva001">Sass de Gant</placeName>, place brave et forte et qui a la mine de ne se rendre<note n="#5"/> qu'a petits morceaux ne manquant pas de poudre, ny pour le point en blanq ni pour les 45 degrez.</p>
+<p><date>16 d'aout 1644</date>.</p>
+</div>
+<p>C'est icy que vellem nescire literas pour me pouvoir dispenser de vous donner la triste nouvelle du trespas du pauvre Sieur Bannius<note n="#6"/> soudainement emporté d'un catarrhe et d'une foiblesse survenue la nuict quand se croyant audesus de sa maladie, il avoit renvoyé les parents qui l'estoyent venu visiter. Charitum et musarum iste luctus est. et les sciences y perdent beaucoup, nommement celle qu'il embrassoit si fort, car comme j'ay tousjours dit, il y avoit des choses considerables en ses principes; quoique la prattique n'en reuscissoit pas entre ses mains, car autre chose est de bien sçavoir la prosodie et autre d'estre bon poète. Enfin, un honete amy perdu, mais Dieu l'a faict.</p>
+</div>
+</body>
+</text>
+</TEI>

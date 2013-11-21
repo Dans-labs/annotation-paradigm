@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0652"/>
+<meta type="date" value="1659-08-14"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="dati010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0652">
+<div type="opener">
+<p><persName key="dati010">Carolo Dato</persName> Suo <persName key="hein009">Nicolaus Heinsius</persName> S.</p>
+</div>
+<p>Inter varias aliquandiu curas rei familiaris ac occupationes tetricas iactatus studia et jucundissimam amicorum consuetudinem interrupi, animo invito mehercules et nolente, mi Date. Ita factum est ut tibi alijsque per Italiam amicis iam multo tempore neque scribam neque ulla alià in re prosim. Videor tamen portum nunc spectare post diuturnas iactationes, ut tranquilliori vitae spes affulgeat, post hanc tempestatem, quae me vobis ac mihi ipsi tamdiu subtraxit. Brevi igitur te expectare jubeo literas quae et tuis jam pridem ad me perlatis reponantur respondeantque, et praeterea de studijs communibus quaedam te doceant non ingrata omnino futura, ut auguror. Mitto nunc libellum Christiani Hugenij nuper apud nos editum, magnoque cum applausu à rerum peritis exceptum, quem ille Saturnij
+Systematis nomine inscripsit, et summo scientiarum fautori Principi Leopoldo ab Hetruria dedicavit. Quod suum propositum cum mihi aperuisset<note n="#3"/>, haerente etiamnum inter operarum manus ac praela typographica hoc libello, non potui non applaudere tam opportuno consilio, calcarque subdere fluctuanti, ut clientelae Principis ad augendas literas unicè nati hunc foetum auderet committere. Pater auctoris est Constantinus Hugenius Zulichemius, magnum in republica nostra nomen, Principibus Arausionensibus imprimis carus, intimaeque ac praecipuae apud utrumque nuper admissionis, nunc quoque inter pupilli principis consiliarios qui sit primus. Sed nec minus eruditione ac scriptis in vulgus editis, quam meritis in patriam clarus. Extant eius poemata Latina<note n="#4"/>, exstant et vernacula<note n="#5"/> cum Gallicis Hetruscis Anglicis et vario praeterea idiomate conscriptis. Filios habebat quatuor virtutis suae atque ingenij felicissimi aemulos, quorum natu minimus inter vivos nuper esse desijt<note n="#6"/>. Super est cum duobus alijs Christianus Hugenius qui cum reliquas paternas artes multo non sine successu imbibit, tum praecipuè mathesin, in qua tantum profecit, ut non nostratibus tantum, sed Gallis quoque ac Anglis vobisque Italis jam pridem sit notissimus. Sed laudes ejus ac virtutes ex ipso hoc libello malim aestimes ac metiaris quam ex mea commendatione; munusque istud
+Serenissimo Principi ita offeratur à te rogo, ut nobilissimus juvenis, qui omnia apud me jure optimo potest, mox intelligat, non minus in amicis meis sibi esse praesidij, quam fiduciae hactenus in me collocavit. Haec nunc: plura mox additurus. Romam interim si scribis quaeso Illustrissimus Carolus Antonius Puteanus<note n="#7"/> ex te intelligat jam pridem ad me perlatum esse Ovidianum numisma meque gratiarum actione mox defuncturum per literas, ut par est, pro insigni officio. Scribam etiam Equiti Guidaccio<note n="#8"/> et optimo Cultellino<note n="#9"/>. Salveant interim illi cum reliquis amicis. Marius<note n="#10"/> bibliopola Leidensis negat quicquam ab Elichmanno<note n="#11"/> editum sermone
+Arabico fuisse, praeter ista<note n="#12"/> quae Simplicio Salmasij<note n="#13"/> attexuntur. Langermannum<note n="#14"/> jam saepius monui de scriptis Pythagoricis Hamburgi editis sed nihil certi hactenus respondet. Pergam urgere, dum voti compotes te meque reddat. Vale, decus meum certissimum.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> <date>CIƆIƆCLIX a.d. XIV Aug. Gregor.</date></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0858"/>
+<meta type="date" value="1661-05-07"/>
+<meta type="sender" value="thev001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0858">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Jay retrouué l'extrait<note n="#1"/> de la lettre ou il est parlé de la machine dont Je vous auois promis la description. vous le trouueres joint a ces lignes.</p>
+<p>Lon ma enuoié d'Italie vn liure<note n="#2"/> nouuellement jmprimé qui traite des lunettes et dont l'autheur<note n="#3"/> a eu grande communication auec Eustachio Diuini. Je vous laures desia enuoié si J'auois sceu quelque voie de le pouuoir faire car Je m'imagine qu'estant dans la pensée den ecrire vous seres bien aise de veoir tout ce qui en a esté ecrit par les autres et principalement par vn Italien. si vous aues icy quelqu vn a qui Je le puisse donner vous mobligeres de m'en faire scauoir l'adresse.</p>
+<p>L'Experience dont Je vous ay parlé ma fort bien reussy layant faite depuis peu dans vn petit vaisseau et Je ne doute point que dans vn nauire elle ne tira fort prontement leau qui seroit au fonds de calle mais cest vne epreuue a faire dans vn port de mer.</p>
+<p>Je feray vn essay de cette composition de verre dont vous aues la description et dans peu de jours Je vous manderay ce qui en aura reussy. J'espere que vous me feres la grace de me faire quelque part des decouuertes que vous aures faites en Angleterre en matieres de curiosité, vn personne de ce pays ma asseuré quils auoient quelque conduite particuliere pour la nauigation des Indes Orientales et quils la faisoient communement en moins de temps que les Portugais et les Hollandois.</p>
+<p>Je m'imagine que lon vous aura fait veoir beaucoup d'experiences curieuses dans l'academie de Londres, que vous aures veu Walis Wren et ce Willis<note n="#4"/> qui a ecrit depuis peu de Fermentatione<note n="#5"/> et lautheur des pneumatiques<note n="#6"/> nome Boyle<note n="#7"/> lequel a ce que J'aprens de Monsieur <persName key="olde010">Oldenbourg</persName><note n="#8"/> a diuerses experiences de la fluidité et fermeté du nitre, des elemens &amp;c. Je conterois pour vn grand auantage davoir veu toutes ces belles choses auec des yeus aussy connoissans que les vostres et de scauoir le Jugement que vous en faites. Je suis auec vne passion extreme</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres Affectioné seruiteur, <persName key="thev001">Theuenot</persName>.</p>
+<p>A <placeName key="parij001">Paris</placeName> ce <date>7 May 1661</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

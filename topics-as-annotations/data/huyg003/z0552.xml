@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0552"/>
+<meta type="date" value="1658-12-03"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0552">
+<div type="opener">
+<p>Clarissime Domine et Optime <persName key="huyg003">Christiane</persName>.</p>
+</div>
+<p>Recreauit me non parum, cum nomen tuum, jn epistola ad me tua<note n="#1"/> repertum; tum experimentum cuius in eadem fit mentio, rej hactenus inauditae. statueram prius atque hasce scriberem, ocularis testis fierj: nimiam vero moram nectente artifice, veritus sum jnurbanitatis notam jncurrere, dilatione nimia. hucusque, praeter admirationem, à me jmpetrare potuj nihil, circa jnuentum tuum: haereo enim adhuc, vt causam rej percipiam satis reconditae; jn qua animo magis nutarem, nisi authoritas tua, experimentis firmata formidinem erroris excutere nata esset. differam vlteriorem scriptionem, donec mihi satisfecero per experimenti ocuralem<note n="#2"/> jnspectionem, et contemplationem; quam consideratione judico dignissimam, quae varijs occasionibus jnseruire poterit: mittam exemplar<note n="#3"/> Domino <persName>Kunnero</persName><note n="#4"/> jnscriptum. non dubito gratum eidem donum futurum; praesertim ab eo sibi transmissum, quem jn delicijs habet. De regulis meis proximis latius acturus sum. Salutem amicam adscribo Clarissimo et amicissimo meo Domino <persName key="scho197">Schooten</persName>. Vale et me ama.</p>
+<div type="closer">
+<p>Tuus quem nostj Clarissime Domine <persName key="vinc027">Gregorius a S<hi rend="sup">to</hi> Vincentio</persName>.</p>
+<p><placeName key="gent_001">Gandavj</placeName> <date>3<hi rend="sup">a</hi> Decemb. 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Domino Domino <persName key="huyg003">Christiano Hughenio a Zulichem</persName> <placeName key="denha004">Hagae Comitis</placeName>.
+<lb/>VIII</p>
+</div>
+</body>
+</text>
+</TEI>

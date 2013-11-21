@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1675"/>
+<meta type="date" value="1668-11-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1675">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 18 Novembre 68.</p>
+<p>Monsieur,</p>
+</div>
+<p>Le contenu de la vostre ayant esté communiqué a la Societé Royale<note n="#1"/> de ce que vous vous auiez declaré prest à leur faire part des regles et theoremes, que vous auez trouuez dans toutes les especes du mouuement. Elle receut vostre offre auec beaucoup de plaisir, et m'ordonna presentement de vous en advertir au plustost, et de vous desirer au mesme temps, que vous trouuassiez bon de leur envoyer d'abord cete partie lá, laquelle, conformement à la methode que vous vous estez proposée dans cete matiere, porte de la lumiere aux parties suivantes, et ainsi consecutivement. Cependant ladite Societé croit, que si vous estiez disposé de leur faire voir le scheme tout entier, et d'indiquer auec cela les principales Experiences, par vous faitez pour establir les dites regles, ils pourroient alors mieux juger du tout.</p>
+<p>Quand ie verray Monsieur Wren, ie luy parleray de ce que vous desirez de voir de son travail sur cete matiere, luy estant vn des principaux, qui ait examiné la nature des mouvemens. Cependant, Monsieur, vous ne suspendrez pas d'executer vostre declaration, dans l'assurance, que tout ce que vous aurez la bonté de nous communiquer sur ce sujet, sera aussi tost, et par mon soin particulier, mis dans nos registres, a fin que vous ne soyez point frustré de l'honneur, qui vous sera dû.</p>
+<p>Quand au dernier Inprimé<note n="#2"/> de Monsieur Gregory, ie vous puis assurer, qu'il fut composé et mis au public à l'insceu de nostre Societé, laquelle alors discontinuoit mesme ses Assemblees, et auroit sans doubte, si elle en eut esté advertie, persuadé l'auteur à vne autre maniere d'agir. Je depeschay incontinent vostre lettre latine<note n="#3"/> à Doctor Wallis, qui ne m'a encore rien renvoyé pour vous. Vous y faitez mention d'une responce envoyée auec le mesme pacquet, ou il y auoit ces deux lettres là, l'une pour Monsieur Wallis, l'autre pour moy<note n="#4"/>. Mais ie vous
+assure, que ie n'y trouua rien de tel, croyant que vous auez oublié de l'y inserer, ou que vous auez jugé à propos de l'envoyer par vne autre voye. Je n'ay rien à adjouster sinon que ie suis auec toute sincerité</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres affectionné serviteur <persName key="olde010">Oldenburg</persName> Soc. R.S.</p>
+</div>
+<p>Apres auoir escrit celle-cy ie receus de la part de Monsieur Wallis l'annexe<note n="#5"/> pour vous.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

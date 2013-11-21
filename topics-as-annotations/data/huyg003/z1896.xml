@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1896"/>
+<meta type="date" value="1672-07-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1896">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 8 Juillet 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>A la vostre du 1 juillet, que ie receus le 27 juin (st. vet.) ie me trouve obligé de vous dire d'abord, que le iour auparavant, asscav. le 26 juin du mesme style, ie receus vne lettre de Monsieur Sluse, datée le 22 juin, qui renferma l'original
+de la copie, que voicy<note n="#1"/>. Come ie vous envoye ses meditations, ainsi ie prends la liberté de luy envoyer les vostres, à fin que la subtilité de vos esprits puisse perfectionner la solution du probleme, dont il s'agit, iusques au dernier point. Je suis persuadé, Monsieur, que de vostre part vous ne manquerez nullement de nous mander encor vostre sentiment sur cete piece come ie m'assure, que Monsieur Sluse fera le pareil sur la vostre.</p>
+<p>J'ay mandé a Monsieur Newton ce que vous pensez du plus propre sujet pour perfectionner ses lunettes; come aussi de ce qu'il dit de l'abberration des rayons à travers des verres convexes. Quand i'auray sa responce la dessus, ie ne manqueray pas de vous en faire part<note n="#2"/>. Le livre de Monsieur Boyle touchant l'origine et les vertus des pierres precieuses<note n="#3"/> est astheur public. J'en ay empacqueté vn Exemplaire auec d'autres livres pour Monsieur Justel qui ne fera point de difficulté de vous le faire voir, lors qu'il sera arrivé a Paris. Le discours, ce me semble, est bien philosophique et fort instructif.</p>
+<p>Vous trouuerez dans ces Transactions<note n="#4"/> deux lettres latines<note n="#5"/> touchant la theorie de Monsieur Newton sur la Lumiere et les Couleurs J'en ay deux autres, qui suivront, ie croy, dans le Journal prochain<note n="#6"/>. Cependant vous m'obligerez de me communiquer vos pensees sur ce que vous verrez à present dans l'annexe, que vous accepterez de la part de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant Seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

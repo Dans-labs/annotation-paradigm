@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0563"/>
+<meta type="date" value="1659-01-10"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0563">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Quid actum sit circa Problematum Parisiensum solutionem videbis ex hac schedulâ;<note n="#1"/> quam iam ab aliquot septimanis misissem, nisj in animum induxissem eam Te a Clarissimo <persName key="boul014">Bullialdo</persName> accepisse<note n="#2"/>. Vnus illorum qui operam luserunt, vt arbitror, Vallisius est, vel alius Geometra ex Angliâ. De Pascalio autem, in suspicionem incidj eum esse qui Problemata proposuerit: Itaque ab eo praestanda est eorundem solutio quam in primo scripto solenniter promisit. Mesolabum meum<note n="#3"/> inter varias curas, tamen vtcumque absolutum est. Erit autem paucorum omnino foliorum opusculum, in quo primis propositionibus ostendj methodum exhibendj duas medias inter datas, per circulum et Ellipsim vel Hyperbolam, infinitis modis.</p>
+<p>Addidj deinde aliquot eiusdem Problematis effectiones particulares, vt lectorj occasionem darem promouendj methodum qua vsus fueram. Demum solutionem Problematum solidorum per circulum etiam et Ellipsim vel Hyperbolam ijsdem infinitis modis, iuxta tres illas formulas ad quas reducuntur, exposuj<note n="#4"/>. Nunc exscribitur vt ad Clarissimum Gutiscouium eat, qui editionis curam in se suscepit. desunt enim hic qui figuras eâ quâ par est <hi rend="i">ἀϰριβεία</hi> incidant; ideoque Clarissimi virj operâ, quam humaniter obtulit, vtj mihi necessarium fuit. Demonstrauj autem omnia methodo antiquorum, nec quidquam recentioris <hi rend="i">ἀναλύσεως</hi><note n="#5"/> admiscuj, tum quod illam gratiorem ac notiorem arbitrarer, tum quod <hi rend="i">ἀνάλυσιν</hi> quâ in haec et similia incidj alteri operi, sj Deus vitam et otium dederit, reseruarem, cuius hoc velutj specimen est. Vtinam Tibj tuique similibus non improbetur, omne enim punctum tulisse videbor. Jnterim si quid in studijs nostris, vel a Te<note n="#6"/>, vel ab alio, nouum emerserit, fac me, quaeso, certiorem. Quiescit enim et languet in me omnino sj quae est <hi rend="i">γεωμετριϰὴ δύναμις</hi>, nisi externâ aliquâ specie excitetur. Sed inprimis iudicium
+tuum expecto<note n="#7"/> de Clarissimi Bullialdi Geometricis circa Spirales<note n="#8"/> (ni fallor), quae apud Bibliopolas nostros tandem nactus sum. Vale Vir praestantissime ab eo qui constantj affectu <hi rend="i">εὔχεται εἶναι</hi></p>
+<div type="closer">
+<p>Tui obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName>, <date>x annj 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

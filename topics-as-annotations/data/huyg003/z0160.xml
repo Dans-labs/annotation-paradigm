@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0160"/>
+<meta type="date" value="1653-07-18"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0160">
+<div type="opener">
+<p>Perillustris, Generosissime, Clarissimeque Domine, Domine ac Patrone colendissime.</p>
+<p>Salutem â Domino et omnem felicitatem Dominationi Tuae animitus apprecor.</p>
+</div>
+<p>Diuturnior literarum tuarum emansio fecit, ut infelicitatem meam accusarem, in quam me coniectum arbitrabar, aut voluntate Tuâ suavissimum literarum commercium mecum aversante; aut cursorum negligentiâ, apud quos literas ad Te meas<note n="#1"/> periisse arbitrabar. Gratulari verò nunc meam cogor ipse mihi Fortunam, dum Tuas Cal. Januarijs ad me destinatas tandem tandem Idibus Junij aspicio. Quas oculis primum ac osculis deinceps etiam exceptas dum ex me nunc intelligis, excusabis forsitan facti insolentiam, per quam charissimos mihi peregrè adventantes hospites venerari me oportebat. Gaudeo placere tibi coeptum bonis avibus literarum inter nos commercium; quod ex parte mea sic temperabo, ut neque literarum raritas famem excitet, neque frequentia procuret nauseam. Non committam, ut hae literae sine maximi viri Gregorij (cui amicitiae nostrae conciliationem ambo debemus) memoria in conspectum Tuum veniant: de quo nimis periculosum, meoque iudicio minus probale axioma statuis, cum videlicet quoad Geometrica in errore versari. Vt enim tibi concedam, quadraturam circuli secundum methodum primo loco positam non optimè procedere, neque illam defacto exhiberi posse; attamen secundam perinde esse erroneam non facilè mihi persuaseris. Examinavi illam, quam potui diligentissimè, ac contextum illius et ordinem in propositiones 35 redactum Geometris nostris monstravi, quorum iudicio legitima per illum fit quadraturae demonstratio.
+Fortassis lucubratiunculam illam brevî in lucem dabo, ut tandem pateat, quid Patri Gregorio Geometria debeat. Qua in re, tametsi ex parte mea errorem non adverto, potuisse tamen ob exiles ingenij mei vires irrepere naevum aliquem, inficias ire non ausim. Superum illa felicitas est, ad quam frustrà mortalis adspiret. Caeterum quod super Vietae, <persName key="gali003">Galilaei</persName>, Cartesijque lucubrationibus
+iudicium meum quaeris, tametsi tantis viris venerationem potius debeo, quam censuram, quia tamen ita iubes, dicam quod sentio. Vietae theoremata satis probant, quid facere potuisset vir eximius, si plus Geometricis per Politicas curas vacare licuisset. Magnum, fateor, Geometriae lumen est, sed nondum meo iudicio ad Gregorij splendorem ascendit. Cartesij praeter dioptrica non vidi quidpiam, è quibus potissimum mihi placet illa de Jridis explicatione speculatio, quam ex Tractatu dioptrico<note n="#2"/> Marci Antonij
+de Dominis<note n="#3"/> videtur desumpsisse.
+<persName key="gali003">Galilaei</persName> scripta tametsi non vidi hactenus, laudari tamen frequentius audivi. Finirem epistolam, sed revocat Tua in me liberalitas, et pauculas lineas iubet adiungere. Gratias tibi ago quàm possum maxumas, pro transimisso elegantissimo theoremate, cuius demonstrationem per ocium exquiram, si tamen tuam libuerit adiungere, facies rem mihi non ingratam. Et nè me arguas parsimoniae, en aliud Theorema pro cuiusque arcûs tripartitione serviens (in qua materia aliquid hactenus speculatus sum) tuo quidem quoad elegantiam multum dispar, fortè tamen propter constructionis simplicitatem haud contemnendum subi ungo.</p>
+<p>In dato circulo sit arcus ABC quem trifariam dividere oporteat. Applicata ad
+<figure><graphic url="huyg003oeuv01ill101.gif"></graphic></figure>
+circuli centrum D regula secet subtensam AC in E, et arcum ABC in F, eâ lege, ut ducta subtensa CF sit aequalis rectae CE. Dico arcum CF totius ABC tertiam partem esse. Demonstrationem, quia literae multum excreverunt, non libet subiungere; si iubes, addam proximis. Interea DEVS te servet incolumem, Nobilissime Juvenis, faveatque ut multum studijs tuis illustres Geometriam; de quorum fructibus, si me quoque vis esse participem, plurimum, mihi crede, me delectabit, si quid de innatantibus humido, aut dioptricis, aut purè <seg org="Geo,etrocos" resp="#AD" type="corr">Geometricis</seg> (mihi enim mathematica omnia placent, praeter ea, quae morosissimo studio siderum nocturnis vacant aucupijs) transmittere non gravaberis. Vale, meque, ut coepisti, amare porrò perge.</p>
+<div type="closer">
+<p>Perillustris ac Generosissimae Dominationis Tuae servus paratissimus M. <persName key="kinn013">Godefridus Aloysius Kinner a Löwenthurn</persName>.</p>
+<p>Dabam <placeName key="praag001">Pragae</placeName> <date>14 Cal: Augusti S.N. 1653</date>.</p>
+</div>
+</div>
+<div type="para">
+<p><hi rend="i">Manu propriâ</hi> [?]
+<lb/>Perillustri, Generosissimo, Clarissimoque Domino, Domino
+<persName key="huyg003">Christiano Hugenio</persName> etc. Domino ac Patrono mihi plurimum colendo ac observando.
+<lb/>Hagam Comitis.
+<lb/>Graven Hage.
+<lb/>6
+<lb/><figure><graphic url="huyg003oeuv01ill102.gif"></graphic></figure>
+<note n="#4"/></p>
+</div>
+</body>
+</text>
+</TEI>

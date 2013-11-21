@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0049a"/>
+<meta type="date" value="1648-05-03"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0049">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>N'ayant que peu de matiere et moins de loisir à vous entretenir pour ceste fois, je veux vous dire en trois mots sur la difficulté que je voy vous exercer touchant la vessie platte qui s'enfle dans le vuide, que mon petit Archimede la resoult ainsi:
+que l'air, qui est notoirement dans ceste vessie aplatie, s'enfle ou s'estend tant qu'il peut pour secourrir la nature dans ce vuide vel quasi qui est dans le tuyau. Voyez si ce garçon raisonne mal à vostre advis. Ce n'est pas trop sottement parlé, et peut estre aura on de la peine à trouver quelque chose de plus solide. Nisi quid tu docte tributi.</p>
+<p>Voyons cependant ce que le jeusne <persName key="pasc001">Pascal</persName> a produict si publici juris est; celà serait trop long, pour estre remis à nostre venue en France, qui n'est pas des plus certaines pour encor. J'envoyeray à Amsterdam informer de ce que vous demandez de <persName key="blae002">Blau</persName><note n="#1"/> et demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble serviteur <persName key="huyg001">C. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName>, le <date>3 may, 1648</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

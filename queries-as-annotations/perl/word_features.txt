@@ -1,0 +1,57 @@
++------------------------------------------+------------------+----------------------+-----------------+
+| feature name : string                    | type : string    | default : string     | computed : bool |
++------------------------------------------+------------------+----------------------+-----------------+
+| aramaic_definite_article                 | string           | ''                   | false           |
+| gender                                   | gender_e         | 'none'               | false           |
+| graphical_aramaic_definite_article       | string           | ''                   | false           |
+| graphical_aramaic_definite_article_plain | string           | ''                   | false           |
+| graphical_lexeme                         | string           | ''                   | false           |
+| graphical_lexeme_utf8                    | string           | ''                   | false           |
+| graphical_locative                       | string           | ''                   | false           |
+| graphical_locative_plain                 | string           | ''                   | false           |
+| graphical_nominal_ending                 | string           | ''                   | false           |
+| graphical_nominal_ending_plain           | string           | ''                   | false           |
+| graphical_preformative                   | string           | ''                   | false           |
+| graphical_preformative_plain             | string           | ''                   | false           |
+| graphical_pron_suffix                    | string           | ''                   | false           |
+| graphical_pron_suffix_plain              | string           | ''                   | false           |
+| graphical_root_formation                 | string           | ''                   | false           |
+| graphical_root_formation_plain           | string           | ''                   | false           |
+| graphical_verbal_ending                  | string           | ''                   | false           |
+| graphical_verbal_ending_plain            | string           | ''                   | false           |
+| graphical_word                           | string           | ''                   | false           |
+| language                                 | language_e       | 'Hebrew'             | false           |
+| lexeme                                   | string           | ''                   | false           |
+| lexeme_utf8                              | string           | ''                   | false           |
+| lexical_set                              | lexical_set_e    | 'Absent_lexical_set' | false           |
+| locative                                 | string           | ''                   | false           |
+| noun_type                                | noun_type_e      | 'none'               | false           |
+| number                                   | number_e         | 'none'               | false           |
+| old_lexeme                               | string           | ''                   | false           |
+| old_lexeme_utf8                          | string           | ''                   | false           |
+| paradigmatic_nominal_ending              | string           | ''                   | false           |
+| paradigmatic_preformative                | string           | ''                   | false           |
+| paradigmatic_pron_suffix                 | string           | ''                   | false           |
+| paradigmatic_root_formation              | string           | ''                   | false           |
+| paradigmatic_verbal_ending               | string           | ''                   | false           |
+| parents                                  | list of id_d     | ''                   | false           |
+| part_of_speech                           | part_of_speech_e | 'none'               | false           |
+| person                                   | person_e         | 'none'               | false           |
+| phrase_dependent_part_of_speech          | part_of_speech_e | 'none'               | false           |
+| pronoun_type                             | pronoun_type_e   | 'none'               | false           |
+| self                                     | id_d             | '0'                  | true            |
+| state                                    | state_e          | 'none'               | false           |
+| stem                                     | stem_e           | 'none'               | false           |
+| suffix                                   | string           | ''                   | false           |
+| suffix_gender                            | suffix_gender_e  | 'none'               | false           |
+| suffix_number                            | suffix_number_e  | 'none'               | false           |
+| suffix_person                            | suffix_person_e  | 'none'               | false           |
+| surface_consonants                       | string           | ''                   | false           |
+| surface_consonants_utf8                  | string           | ''                   | false           |
+| tense                                    | tense_e          | 'none'               | false           |
+| text                                     | string           | ''                   | false           |
+| text_plain                               | string           | ''                   | false           |
+| vocalized_lexeme                         | string           | ''                   | false           |
+| vocalized_lexeme_utf8                    | string           | ''                   | false           |
+| word_number_within_book                  | integer          | '0'                  | false           |
++------------------------------------------+------------------+----------------------+-----------------+

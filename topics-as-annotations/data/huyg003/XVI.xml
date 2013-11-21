@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XVI"/>
+<meta type="date" value="1643-08-18"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XVI">
+<p>...Lucianum potiùs quàm Xenophontem junioribus praelegendum esse, mecum censebat clarissimus Golius<note n="#1"/>, quicum heri multos sermones quàm familiariter caedebamus quatuor viri...Ratio Graecae lectionis quam praescribis observabitur sedulò. Celeberrimus Barlaeus<note n="#2"/> Hagâ jam pridem discessit. Si me jubes de re Logicâ eum consulere per epistolam, factum puta...Leidae vidi apud Juniorem Heinsium<note n="#3"/> Dan. Colonij<note n="#4"/>, viri, dum vixit, doctissimi, compendium ex Keckermanno<note n="#5"/> concinnatum, quod sanè quam succinctum videbatur et accuratum. Quia verò, aliquos profectus in Logicâ Burgersdicianâ<note n="#6"/> fecerunt tui, non arbitror consultum ut, neglectis quibus
+assueverunt praeceptis, nova addiscant; sed ut potius, secundum ea quae jam aliquam partem imbiberunt exercitia dialectica instituantur in genesi et analijsi et quaestiunculis subinde ex naturâ sijllogismi ventilandis. Memini videre Amesij<note n="#7"/> libellum et Stresonis<note n="#8"/> quoque, de usu Logices. sed neutrum legi. Adrianus Heereboordius, Logicus in Academiâ Leidensi professor<note n="#9"/>, (apud quem salutem tuam, quod pace sesquicatonis Ultrajectini dictum sit, meis faucibus nudiustertius hauriebam, collegis viris incomparabilibus Heinsio<note n="#10"/> ac Vinnio<note n="#11"/> juvenis est et amicissimus mihi, et peritissimus artis quam profitetur; adeo, ut sime visipsum, vel coram vel per litteras consulere, neque de fideli consilio, neque de subacto judicio hominis dubitare possis. Solum si nactus fuissem, spontè quod in animum induxeram, ipsi de Logicâ fueram locuturus...</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> XVIII Aug.<hi rend="sup">ti</hi> 1643.</p>
+</div>
+<div type="comment">
+<p>Nous avons publié, aux p. 553-556 du T. I, les lettres de Bruno de novembre 1643 (liste des auteurs étudiés) du 17 avril 1644 et du 24 juin suivant.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

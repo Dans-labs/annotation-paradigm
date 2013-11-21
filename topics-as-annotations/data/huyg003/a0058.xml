@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0058a"/>
+<meta type="date" value="1648-11-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0058">
+<div type="opener">
+<p>Mon Frere</p>
+</div>
+<p>Voicij la recepte que je vous envoye que le barbier qui me sert, me dit hier estre une lessive preparée de la sorte comme s'ensuit. Prenez une pinte d'eau de pluije, mettez y une demie livre de cendres de bois de laurier, un quart de livre de cendres de rosmarin et autant de cendres de saulge, laissez le tout dans cette eau par 12 heures environs, apres remuez la et mettez ij une pinte de vin clairet; et la mettant sur un petit de feu par l'espace de 3 ou 4 heures vous la remuerez quelque fois. Coulez la apres par un linge qu'elle deviene claire; et quand vous vous en voudrez servir, il faut qu'elle soit si chaude que vous la pouvez souffrir sur la tête; laquelle apres en estre lavée l'on doit seicher avecque des serviettes chaudes. Je croij que le barbier qui m'a lavé moij, (qui n'est pas le mesme que cettuicij) n'y mettait pas tant d'ingrédients car sa lessive ne coustoit pas le quart de ce que cousteroit cellecij, et neantmoins elle n'a pas laissé de me servir tres bien; c'est pourquoij il ne faut pas estre fort scrupuleux a chercher toutes les cendres que je viens de nommer, et me semble mesme que l'autre ne prenoijt que des cendres de bois de vigne qui se trouvent assez aupres des Apoticaires. Tant ij a il faut que se soit une lessive chaude. Adieu. Je suis</p>
+<div type="closer">
+<p>Vostre frere et serviteur
+<lb/><persName key="huyg003">Chrestien Huijgens</persName>.</p>
+<p>le 6 de Nov. 1648.</p>
+</div>
+<p>Hier je receus la lettre de J. van Huls<note n="#2"/> par laquelle mon pere tesmoigne qu'il desire avoir response de M<hi rend="sup">e</hi>. Swann<note n="#3"/>, mais elle n'a garde de respondre, car j'aij renvoijé la lettre a mon Pere qu'il luij avoit escritte.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn heer <persName key="huyg007">C. Huygens</persName>
+<lb/>Secretaris van S.H.<hi rend="sup">t</hi> de Prince van Orange.
+<lb/>In 's Gravenhaeghe.</p>
+</div>
+</body>
+</text>
+</TEI>

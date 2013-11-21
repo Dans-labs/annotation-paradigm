@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2059"/>
+<meta type="date" value="1675-10-04"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2059">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 24 Sept. 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je souhaite fort vne si bonne occasion pour nous faire porter vostre seconde montre, comme estoit celle du Sieur Dominique<note n="#1"/>, qui vous rendra celle-cy, et qui s'acquitta fidelement de ce que vous luy auiez confié. Il est, ce me semble, plus honeste homme que de n'auoir point d'autre employ, que de jouër des comedies. Vous estez obligé, à mon avis, de luy tesmoigner vostre bienvueillance, aussi bien que nous auons tasché de le servir en ce païs icy: Et s'il eust voulu, on eut eu de loisir de faire connoissance auec Mylord <persName key="brou051">Brouncker</persName>, il ne l'eut pas receu auec moins d'humanité, qu'il fit M. <persName key="papi014">Papin</persName><note n="#2"/>. Au reste, i'espere, que la montre, que nous auons tant de fois desiré de vous<note n="#3"/>, sera parti devant que celle-cy vous sera rendue. Celle de M. Hook donne iusques icy tout contentement au Roy, qui pourtant ne montre pas encor son ouvrage interieur: C'est pourquoy nous voudrions bien, que la vostre parût icy promptement.</p>
+<p>J'ay baillé au porteur de celle-cy vn Exemplaire de l'Anatomie des Plantes de <persName key="malp001">Malpighi</persName><note n="#4"/> pour le service de Monsieur Justel à qui ie le devois, et qui pourtant
+ne manquera pas de vous la faire voir et fueilletter, comme ie l'ay prié de le prester à Monsieur du Hamel, qui sera prest de vous en donner part. Vous m'obligerez de m'indiquer, quand l'ouvrage de vostre Academie sur les vegetaux<note n="#5"/> sera imprimé, et le dessein d'iceluy. C'est Monsieur, à</p>
+<div type="closer">
+<p>Vostre treshumble et tres-obeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

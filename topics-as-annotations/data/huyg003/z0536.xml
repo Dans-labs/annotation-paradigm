@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0536"/>
+<meta type="date" value="1658-10-18"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0536">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>18 Octobre 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Par ce petit billet je vous donneray aduis que Monsieur <persName key="medi012">le Prince Leopold de Florence</persName> m'a fait l'honneur de m'escrire &amp; de me faire scauoir que les liures des Coniques d'Apollon Pergaeus qu'ils ont trouuez sont en Arabe. Dans le titre il y a huict liures, mais en effect il n'e s'en est trouué que sept. Celluy qui est intitulé le 8e. n'est pas d'Apollonius &amp; il traicte d'autre matiere. L'on<note n="#1"/> a faict la traduction &amp; l'on va les faire imprimer<note n="#2"/>.</p>
+<p>Ils ont aussi trouué vn Opuscule d'Archimede traduit de Grec en Arabe dont voicy le titre &amp; le commencement traduits en Latin.</p>
+<p>In nomine Dei misericordis miseratoris cujus opem imploramus.</p>
+<p>Liber assumptorum Archimedis interprete Thebith Ben-Kora, &amp; exponente doctore Almocohasso<note n="#3"/> Abilhasan Hali Ben-Ahmad Nosuensi Propositiones XVI.</p>
+<p>Asserit Doctor Almocohasso<note n="#4"/> hunc librum referri ad Archimedem in quo sunt propositiones pulcherrimae paucae numero, vtilitatis vero maximae de Principiis Geometriae, optimae atque elegantissimae, quas annumerant professores<note n="#5"/> huius scientiae summae intermediorum quae legi oportet inter librum Euclidis &amp; Almagestum &amp;c.</p>
+<p>Lon fera aussi imprimer cet opuscule d'Archimede<note n="#6"/>.</p>
+<p>Je vous supplie de me vouloir encores enuoyer deux des imprimez de la description de vostre horologe, j'ay enuoyé a Florence celluy que vous m'auiez donné.</p>
+<p>Monsieur <persName key="peti033">Petit</persName><note n="#7"/> qui vous escrit la lettre cy jointe est homme qui propose plus de difficultez que personne n'en peut resoudre, vous luy respondrez s'il vous plaist.
+Je salue Messieurs <persName key="goli002">Golius</persName>, <persName key="scho197">Schotten</persName>, &amp; <persName key="gron010">Gronouius</persName> &amp; je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

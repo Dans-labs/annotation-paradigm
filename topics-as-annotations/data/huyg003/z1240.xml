@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1240"/>
+<meta type="date" value="1664-07-10"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1240">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 30. Juin 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>En suite de ce que vous m'ordonnez dans votre derniere du 4 Juillet<note n="#1"/> Je feray payer a Monsieur votre pere les 110. liures que vous m'y marquez<note n="#2"/>. Je m'informeray aussi du poids du Contrepoids de l'Horologe et vous le feray scauoir.</p>
+<p>Je seray rauy de scauoir cette nouuelle inuention dont vous me parlez<note n="#3"/>. Monsieur Hook nous fait une petite machine<note n="#4"/> pour mesurer exactement la vistesse des corps descendants. dont vous sçaurez la structure aussi tost qu'il est acheué. Nous sommes aussi bien empressez à trouuer un moyen<note n="#5"/> pour faire respirer une personne soubs l'eau le plus profond et le plus longtemps qu'il se peut. Nous auons desia trouué<note n="#6"/> par une experience assez jolie qu'un passereau, ou un sourris respire et meuue a son aise dans de lair comprimé a la douziesme partie de l'espace qu'il occupoit auparauant: qui respond a la compression que l'air soustient dans la profondeur denuirons 200. Brasses d'Eau. et les animaux aquatiles se meuuent auec la mesme facilité dans l'eau qui est comprimee au mesme degré de qui estoit lair dont Je viens de parler, que si elle
+ne l'estoit point du tout. Mais nous ne sommes pas encore satisfait qu'un homme en pourroit faire de mesme en la profondeur de 200. Brasses. J'entends principalement pour ce qui est de la respiration, y ayant apparence que le mouuement luy seroit assez libre: seulement la compression que soustiendront tous les membres de son corps l'incommoderoit, à ce que nous craignons, à un point qu'il ne scauroit endurer, ayant appris d'une personne qui en a ou fait, ou veu, l'experience, à la profondeur d'enuirons 25. Brasses, que le sang luy sortoit par les narines et autres ouuertures de la teste excepté la bouche.</p>
+<p>En voylà assez pour vous faire comprendre cette matiere. si vous auez enuie d'en sçauoir d'auantage vous n'auez qu'à le dire à</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant et tres affectioné Seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christiaan Hugens de Zulichem</persName> A la Haye.
+<lb/>XII
+<lb/>1 β</p>
+</div>
+</body>
+</text>
+</TEI>

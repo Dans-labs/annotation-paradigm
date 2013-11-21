@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0404"/>
+<meta type="date" value="1657-09-04"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0404">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Poemata Illustrissimi virj Parentis Tuj, vna cum Clarissimi Scotenij Libris vt accepi, statim in ratiocinia tua de aleae ludo inuolauj, docta, acuta, Te digna. Voluj
+etiam obiter libare Clarissimi Scotenij opuscula, ac sectiones miscellaneas imprimis, quas selectioribus inuentis refertas existimabam; sed sermonem integrum, vt vocant, deesse animaduertj. Cum enim vltimum folium operis de descriptione sectionum Conicarum, prenotetur charactere <hi rend="i">Zz</hi>, primum eorum quae habeo de sectionibus miscellaneis praefert characterem <hi rend="i">Mmm</hi>, ex quo deesse patet 11 vel 12 folia, famulj vt arbitror incuriâ qui fasciculum compegit, quod an ita se habeat vt me certiorem reddere velis etiam atque etiam rogo. Interim gratias Tibi ajo, sinon quas debeo, saltem quas possum maximas, idemque Epistolio hic adjuncto<note n="#1"/> facere conatus sum, quod vt ad Illustrissimi parentis Tuj manus perueniat, pro tua humanitate, curabis. Abunde mihi satisfactum profiteor in eo Problemate quod proposueram. Itaque nil aliud superest quam vt admirer et summopere laudem acutum illud ingenium tuum, Igneus est olli vigor et caelestis origo. Lineam illam, quando id scire desideras, vna cum plurimis alijs iam a multo tempore construxi et contemplatus sum, earumque saepe aream, saepe solidum aliquando vtrumque demonstrauj. Non raro etiam (quod Tu in Hyperbolâ circulo et Ellipsi) ex areâ centrum grauitatis vel vice versâ reperire docui. sed quoniam haec <hi rend="i">ἀνεμώλια</hi> sunt et veteribus fortasse magis delectaris, contemplare hanc quam ex vltimae antiquitatis tenebris in lucem produco. Esto Hyperbola aequalium laterum EBD, cuius applicata ECD, vertex B, axis CB, in quo producto sumatur quodlibet punctum O, ductâque KM parallela ED, perficiatur
+<figure><graphic url="huyg003oeuv02ill24.gif"></graphic></figure>
+rectangulum KD, Tum ductâ quâlibet HF, secante Hyperbolen in G, erigantur normales HI HL aequales, quarum vnaquaeque possit rectangulum FGH, et sic semper fiat, donec per puncta K I I M L L K describj possit curua vt solet. Hanc multâ varietate iucundam pro diuersâ punctorum O &amp; B distantiâ, ac veterum contemplatione olim celebrem, posterorum incuria neglexit. An autem eam alicubi videris, scire cuperem, arbitror enim me primum eam ex antiquitatis situ eruisse.</p>
+<p>Contemplatione tuâ dignae sunt etiam Parabolae virtuales Patris Gregorij à St. Vincentio quarum naturam nullo modo vidit autor: quod monuisse sufficiat, nam caetera calculus ostendet. Rem gratam mihi facies, si me certiorem reddideris, an aliquid hactenus ediderit <persName key="robe012">Roberuallius</persName>, cuius aemulationem laudé <hi rend="i">ἀγαθή δ᾽ἔρις ἡδὲ βρότοισιν</hi> vt ait Hesiodus, quâ scientiarum fines promouentur, dum ne tandem in inimicitias erumpat, absit enim vt pro inanj saepe gloriolâ humanitatis
+leges vnquam violarj contingat. Δ<hi rend="i">ιπλασιασμὸς ϰυβȣ</hi> per ellipsim et circulum (quando hoc etiam postulas) satis commodâ constructione mihi obtigit. Vale interim vir praestantissime et scito me esse, sed peculiarj affectu</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>4 7bris 1657</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0170"/>
+<meta type="date" value="1649-04-09"/>
+<meta type="sender" value="desc004"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="egmon001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0169"/>
+<meta type="type" value="letter"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0170">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ay gardé vos livres<note n="#1"/> un peu longtemps, pource que je desirois en vous les renvoyant vous rendre compte de la Quadrature du cercle pretendue, et j'avois bien de la peine à me resoudre de feuilleter tout le gros volume qui en traite, en fin j'en ay veu quelque chose et assez ce me semble pour pouvoir dire qu'il ne contient rien de bon qui ne soit facile et qu'on ne pust escrire tout en une ou deux pages. le reste n'est qu'un paralogisme touchant la quadrature du cercle, enveloppé en quantité de propositions qui ne servent qu'a embrouiller la matiere, et sont tres simples et faciles pour la pluspart, bien que la façon dont il les traite les face paroistre un peu obscures.
+Pour trouver son Paralogisme j'ay commence par la 1134<hi rend="sup">e</hi> page ou il dit <hi rend="i">nota autem est proportio segmenti <formula>LMNK</formula> ad segmentum <formula>EGHF</formula></hi>, ce qui est faux, et la preuve qu'il en donne est fondée sur la 39<hi rend="sup">e</hi> proposition en la page 1121 du mesme livre, ou il y a une erreur tresmanifeste qui consiste en ce qu'il veut appliquer à plusieurs quantitez conjointes ce qu'il a prouvé auparavant des mesmes quantitez divisées.
+Car par exemple, aijant les 4 ordres de proportionelles</p>
+<p><table>
+<row>
+<cell>2, 4, 8 et 2, 8, 32</cell></row>
+<row>
+<cell>2, 6, 18, 2, 10, 50</cell></row>
+</table></p>
+<p>bien qu'il soit vraij que 8 est à 32 en raison doublee de ce que 4 est à 8, et que 18 est aussi à 50 en raison doublee de ce que 6 est à 10, il n'est pas vray pour cela que 8 plus 18, c'est a dire 26 soit à 32 + 50 c'est à dire 82 en raison double de celle qui est entre 4 + 6 c'est à dire 10, et 8 + 10 c'est à dire 18.
+Tout ses raisonnements ne sont fondez que sur cette faute, et ce qu'il escrit de Proportionalitatibus, et de ductibus ne sert qu'a l'ambarasser, et ne me semble d'aucun usage, pource que frustra fit per plura quod potest fieri per pauciora.</p>
+<div type="closer">
+<p>D'<placeName key="egmon001">Egmont</placeName>, le <date>9 Avril, 1649</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

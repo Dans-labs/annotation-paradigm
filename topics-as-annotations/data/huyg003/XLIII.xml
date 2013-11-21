@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XLIII"/>
+<meta type="date" value="1664-01-03"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XLIII">
+<div type="comment">
+<p lang="fr">La lettre se trouve dans le T. 23 (F. 85) des Galileiani posteriori à Florence; nous la publions d'après une copie que nous devons, comme celle du Nr. VII qui précède, à Harcourt Brown. Nous ne connaissons pas de réponse de Huygens.</p>
+</div>
+<div type="opener">
+<p lang="it">Al Sig. <persName key="huyg003">Christiano Ugenio</persName> - li 3 Genn<hi rend="sup">o</hi>. 1664 Ab Inc.</p>
+</div>
+<p lang="it">È venuto in pensiero al Ser<hi rend="sup">mo</hi> G. Duca mio S<hi rend="sup">r</hi>. et fratello di ritrovare un modo per esperimentare in che grado di perfezione rimanghino alcunj occhiali che hà S.A. appresso di sè, et alcuni altri che sono miej, ora che, per la concorrenza di tanti Artefici si stima cosi notabilmente raffinata l'arte per lavorargli; et perciò ha fatto scrivere l'A.S. a Roma al Campani et al Divini, come i più periti che si ritrovino in quella Città in tale esercizio, perche facessero diverse osservazioni con i loro Occhiali delle lunghezze più uguali che fuss<hi rend="sup">o</hi>. possibíle a quelle, che quà si sono praticate, e che vengono notate nell'aggiunta Instruzione. Si bramerebbe però che da V.S. fussero fatte le med<hi rend="sup">e</hi>. osservazioni più perfetti con i suoi occhiali e che si contentasse di poi accennare ciò che habbia riconosciuto, accertandola dell'aggradimento particolare che le ne conserverò, et habbia per scusata q.<hi rend="sup">ta</hi> mia confidenza, mentre hà origine dalla certezza che in tante maniere alla mi hà data della parzialità del suo aff.<hi rend="sup">o</hi></p>
+<p lang="it">Fra pochi giorni io vò à Pisa, dove spero di mettere insieme una mano di osservazioni fatte da diversi Virtuosi intorno alla Nuova Cometa, onde mi riserberò a quel tempo a mandarne a V.S. ancora, come è dovere, le notizie più puntuali. Prometto insieme a V.S. un esemplare della Opera data presentemente alla luce da D. Famiano Michelinj, che è stato mio M<hi rend="sup">ro</hi>. delle Matematiche, intorno alla direzione dé fiumi<note n="#1"/>, essendo materia altr'e tanto curiosa che utile, et mi persuado che sarà per incontrare il gusto di V.S., alla quale confermando la mia effettuosa, e parzial volontà, le auguro dal Cielo ogni vero bene<note n="#2"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0215"/>
+<meta type="date" value="1655"/>
+<meta type="sender" value="plac002"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0214"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0215">
+<p>Novum et accuratum Longitudinis locorum scrutinium, Belgis, Gallis, Anglis, Hispanis exoptatissimum, exhibens modum inveniendi longitudinem locorum tam terrestrium quam marinorum singulis diurnis vel nocturnis temporibus, atque sic data loci latitudine et inventa ejusdem longitudine, determinandi situm navis ob tempestatem hinc inde fluctuantis atque errantis &amp;c.</p>
+<p>Dicatum Electori Brandeburgensi.</p>
+<p>&nbsp;</p>
+<p>Primo temporibus illis (mensibus Aprile, Majo, Junio Anni 1655) in loco tuo observa tempus lunae Culminantis, vel diurnum ex altitudine solis erutum vel nocturnum ex altitudinibus stellarum investigatum, quae observatio mathematum cultoribus non ignota, et nautis quoque minus obscura est.</p>
+<p>2<hi rend="sup">o</hi>. Hoc observatum tempus in tuo Meridiano confer cum tempore in tabula annotato et animadvertes differentiam Meridianorum illius loci et Francofurtani in horis et minutis.</p>
+<p>3<hi rend="sup">o</hi>. Differentiam meridianorum inventam converte in gradus et scrupula aequatoris secundum tabulam secundam et obtinebis differentiam longitudinis francofurtanae et tui loci.</p>
+<p>&nbsp;</p>
+<p>Tabula continens tempora lunae culminantis id est in meridiano Francofurtano existentis, ut et caudae <figure rend="inline"><graphic url="huyg003oeuv01fi21.gif"></graphic></figure> et lyrae.</p>
+<p>&nbsp;</p>
+<p>Cujus longitudo est 39 graduum o. minutorum Calculo trigonometrico accurate supputata ad Anni 1655, Menses Aprilem, Majum, et Junium.</p>
+</div>
+</body>
+</text>
+</TEI>

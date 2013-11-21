@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1711"/>
+<meta type="date" value="1669-03-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1711">
+<div type="opener">
+<p>Memoire pour Monsieur <persName key="colb012">Colbert</persName>.</p>
+<p>13 Mars 1669.</p>
+</div>
+<p>Monsieur Mercator propose dans son escrit<note n="#1"/> de perfectionner l'art de naviger en ces deux choses. Premierement a gaigner, comme il dit, une partie du chemin que l'on doit faire, de sorte que ce sera quelque fois la troisieme partie, quelquefois la 4<hi rend="sup">me</hi> ou la 5<hi rend="sup">me</hi>.</p>
+<p>Et cela d'autant plus infailliblement que le vent sera plus contraire et le chemin plus long, et la methode en est a ce qu'il dit aisée a pratiquer et a peu de frais.</p>
+<p>Pour pouuoir mieux juger de l'utilitè de ce secret il faudroit que l'autheur dit plus precisement s'il pourra tousjours faire gaigner du moins un cinquieme du chemin necessairement, parce qu'il pourroit peut estre arriver que le vent n'estant pas assez contraire, ou la distance des lieux pas assez grande, ou qu'ils fussent situez d'une certaine facon a l'egard des paralleles, l'avantage qu'on tireroit de cette invention ne seroit pas fort considerable.</p>
+<p>En second lieu il propose de trouuer les Longitudes sur mer par le moyen des horologes a Pendule, dont il pretend de perfectionner l'usage en plusieurs choses, ne scachant pas ou faisant semblant de ne pas scavoir, qu'on a remediè il y a longtemps a tous les inconvenients qu'il raporte.</p>
+<p>La difficultè qu'il trouve a se servir de tables de l'Equation du temps que j'ay donnee est de nulle importance, car il est tresfacile de se servir de cette table pour reduire le temps egal de l'horologe a celuy des jours qui est inegal, et il vaut mieux de prendre cette peine que d'embarasser les horologes de beaucoup de roues pour faire qu'elles montrent le temps inegal.</p>
+<p>Il y aura tousjours de personnes qui voudront se prevaloir de cette Invention des horologes a pendule pour les Longitudes, parce que c'est assurement le moyen le plus facile de tous pour y reussir et j'ose presque dire l'unique. L'Experience qu'on en a faite l'annee passée<note n="#2"/> a fait voir que le mouvement des horologes ne s'arreste point dans les plus grandes tempestes, et en mesme temps elle a fait remarquer certains defauts dans leur construction qui estant maintenant corrigez, je ne doute plus que ce moyen de trouver les longitudes ne reussisse s'il plait a Monseigneur qu'on les envoie a quelque voiage de long cours, avec une personne capable de s'en servir. et ces derniers changements qu'on y a fait n'estant pas connus en d'autres païs, et estant tres importants et necessaires il y auroit moyen de conserver l'avantage de ce secret a ce royaume privativement.</p>
+<p>Pour ce qui est des inconvenients que remarque Monsieur Mercator dans l'usage de ces horologes et auquels il promet de remedier, supposant qu'on ne l'aie pas fait encore plus considerable (j'en ay fait construire il y a longtemps de cette sorte) est que les horologes seroient sujettes aux changements du temps, mais il devoit scavoir que j'ay remediè a cela par les Cycloides entre les quelles le Pendule est suspendu, puis que j'en ay communiquè l'invention par tout et particulierement en Angleterre.</p>
+<p>Pour ce qui est du mouvement du vaisseau, l'on y a remediè suffisamment par la suspension des horologes, puis que dans les plus grands temps elles n'ont pas laissè
+d'aller, comme l'on a vu dans l'essay qu'on a fait l'estè passè.</p>
+<p>Monsieur Mercator remarque encore une difficultè sur la maniere d'observer l'heure du lieu ou l'on est sur mer, qu'il fait consister en ce qu'il faut scavoir la hauteur du pole pour connoistre l'heure par la hauteur du soleil, Et promet d'y remedier.</p>
+<p>Ce qui n'est pas difficile, et je l'ay fait il y a longtemps dans l'Instruction<note n="#3"/> que j'ay donnee pour l'usage des horologes sur mer. Et l'on peut non seulement connoitre l'heure sans scavoir la hauteur du pole, mais aussi connoistre par le moyen des horologes la hauteur du pole a toutes les heures du jour, au lieu que jusqu'icy on n'a pu la prendre cette hauteur qu'a midy, qui est un autre avantage tres considerable.</p>
+</div>
+</body>
+</text>
+</TEI>

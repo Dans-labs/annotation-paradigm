@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2473"/>
+<meta type="date" value="1687-07-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2473">
+<div type="opener">
+<p>A Monsieur <persName key="duil010">De Duillier</persName> à Londres.</p>
+<p>Monsieur</p>
+</div>
+<p>Sa lettre de Rotterdam receue, je n'ay pas fait de response faute de scavoir son adresse.</p>
+<p>Je souhaitte de voir le livre de Newton. Je veux bien qu'il ne soit pas Cartesien pourveu qu'il ne nous fasse pas des suppositions comme celle de l'attraction.</p>
+<p>Cela me paroit assez etrange que les rayons employent un temps egal et qu'il ait pourtant un autre principe<note n="#1"/>. La proposition du Globe assez paradoxe j'en voudrois voir la demonstration.</p>
+<p>Je m'imagine a peu près de quelle facon vous voudriez expliquer le reflux suivant ma Theorie de la pesanteur, cependant il me reste quelque doute<note n="#2"/> touchant les deux reciprocations en 24 heures.</p>
+<p>Ce que vous dites de vostre invention pour trouver les lignes courbes par la proprietè de la tangente est de plus grande discussion et qui seroit malsaine par le grand chaud qu'il fait.</p>
+<p>Je ne scais pas bien ce que vous appelez ma methode des Tangentes. Si c'est celle, qui estoit parmy les papiers, dont vous avez pris la peine de me faire des copies<note n="#3"/> je ne me souviens plus de la vostre, que vous dites convenir avec elle.</p>
+<p>Elle m'aideroit peutestre a entendre, ce que vous m'expliquez en abregé de vostre nouvelle invention, qui sera belle, si elle est applicable a toutes les courbes Geometriques quand mesme ces dernieres du genre de celle de Mons.<hi rend="sup">r</hi> Leibnitz<note n="#4"/> n'ij seroient point comprises.</p>
+<p>Quel effet prodigieux peut faire la pompe de Mons.<hi rend="sup">r</hi> le Chevalier Gordon, s'il a ostè le frottement et toute superfluitè de mouvement, vous scavez que c'est tout ce qu'on peut faire, et que le poids de l'eau reste toujours a elever.</p>
+<p>Mr. <persName key="tsch002">de Tschirnhaus</persName> aijant veu vos remarques<note n="#5"/> s'est hastè d'ij faire une reponse que son correspondant d'Amsterdam<note n="#6"/> m'a envoyè mais comme elle ne vaut rien, je luij aij conseillè<note n="#7"/> de ne pas la faire imprimer comme l'autheur avoit ordonné et cela pour son honneur. Il ne s'est pas donnè le temps d'examiner vos raisons ni demonstrations, et pretend que les courbes a 2 foyers que vous proposez ne sont pas.</p>
+<p>Mes respects a M. <persName key="boyl001">Boyle</persName>. Ayons le livre de Newton.</p>
+<div type="closer">
+<p>11<hi rend="sup">e</hi> juillet 1687.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1844"/>
+<meta type="date" value="1671-09-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1844">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 22 Septembre 1671.</p>
+</div>
+<p>Ne soyez plus en peine pour ce qui est de la quaisse<note n="#1"/> du Tour, car ce que vous me mandez qu'il faloit faire estoit deja fait. J'ay donnè a Leonard le libraire un certificat que ce qu'il y a dedans est un Tour pour le Roy apres quoy la difficulté a cessè et je l'attens au premier jour. Je croiois que la faute estoit a vous parce qu'il n'y avoit pas d'apparence que le Sieur Leers auroit fait une semblable faute.</p>
+<p>Je laisse vostre perruque<note n="#2"/> enpacquetee entre les mains de Monsieur Romf afin de l'envoier si pendant mon absence il se presente quelque occasion, car je m'en vay a la campagne pour 4 ou 5 jours, que si cependant il n'en trouue point je tascheray a mon retour de vous l'envoier par quelqu'une des voies que vous proposez. Je pars dans 2 heures et m'en vay premierement a Viry<note n="#3"/> ou je mesne 2 dames que vous ne connoissez point. de la a Beaulieu ou j'ay laissè Mesdemoiselles Payot et Jaxon<note n="#4"/> que je dois ramener icy.</p>
+<p>C'est une maison fort belle, et qui est bien autre chose que Viry, si non qu'il n'y a point de fontaines qu'artificielles quoyque de tres bonne eau de source, qu'une machine eleve.</p>
+<p>Je crois que quand le frere de Zeelhem a commencè d'observer les tasches du soleil, elles estoient deja fort diminuees, mais nous les avons pourtant vuës icy encore le 17 Septembre, apres quoy le temps ne l'a plus permis.
+Il y a 4 jours que nous observasmes l'Eclipse de la Lune dans nostre bel observatoire ou Monsieur Cassini s'est logè desia. Les voutes de tout le premier estage sont faites et c'est une chose fort <seg org="magnisique" resp="#AD" type="corr">magnifique</seg> que ces chambres si hautes et solidement basties, avec une si belle veue.</p>
+<p>Vous pourrez paier le marchand de dentelles pres du Capelbrugge car je me souuiens que je luy dois ce que vous dites.</p>
+<p>Pour ce qui est de l'histoire de Silvie de Moliere, l'on dit que ces avantures ont bien du veritable, mais vous pouuez croire qu'on y a bien adjouté.</p>
+<p>L'autheur de la Requeste<note n="#5"/> et de l'arrest<note n="#6"/> est Monsieur de Préau le mesme qui a fait ces belles satires. Adieu.</p>
+<p>Je vous remercie de vos nouuelles. Mes baisemains a ceux de chez nous, et chez la bonne Tante<note n="#7"/> dont je suis marry d'apprendre les souffrances. Mademoiselle Constancia le Leu de Wilhem est une grosse paresseuse de ne me pas faire response ayant tant de choses a me conter.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huygens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

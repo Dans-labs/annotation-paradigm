@@ -1,0 +1,64 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2003"/>
+<meta type="date" value="1675-01-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2003">
+<div type="opener">
+<p>A Monsieur <persName key="olde010">Grubenol</persName>.</p>
+<p>a <placeName key="parij001">Paris</placeName> ce 30 Janvier 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Quoyque je ne m'acquite que par grands intervalles du devoir de vous remercier de la continuation de vos bontez, je vous prie de ne juger pas par la que j'en sois peu sensible. Vostre derniere lettre avec les deux Journaux m'ont esté rendus il y a 4 jours, par le frere de Monsieur Walter<note n="#2"/>; luy mesme n'ayant pas encore eu le loisir de me voir. J'ay veu entre autres choses avec plaisir dans ces journaux les dissertations<note n="#3"/> du Doct. Coxe<note n="#4"/> qui consirme si bien et par raisons et par experiences ses opinions paradoxes en Chymie, qu'elles me paroissent tout a fait vraysemblables. Vous y faites mention a la marge d'un nouveau traitè de Monsieur Boyle touchant des qualitez latitantes dans l'air<note n="#5"/> dont j'attends l'extrait dans le prochain journal avec impatience, et j'aimerois encore mieux le
+traitè mesme si vous trouviez occasion de me l'envoyer.
+Je souhaite aussi fort celuy que vous me promettez de Monsieur <persName key="hook001">Hook</persName> de la construction de son quart de cercle (car je crois que c'est cet instrument que vous avez voulu dire en mettant quadrant) pour voir s'il aura trouvè moien à encherir par dessus ce que l'on a pratiquè icy, en ce qui regarde les dioptrics telescopiques, dont je me souviens d'avoir veu le premier essay, mais encore rude au College de Gresham. Je voudrois bien scavoir quelle foy on adjoute chez vous aux observations de nostre Monsieur Leeuwenhoek qui convertit toute chose en petites boules<note n="#6"/>. Pour moy apres avoir en vain taschè de voir certaines choses qu'il voit, je doute fort, si ce ne sont pas des deceptions de sa vue, et encore plus, quand il pretend decouvrir les particules, dont l'eau, le vin et d'autres liqueurs sont composées, a quoy il a mandè a mon pere qu'il estoit occupè. Je crois vous avoir demandè par ma derniere<note n="#7"/> des nouvelles de Monsieur Sluse, de qui n'ayant point eu de response a trois lettres que je luy ay escrites, je suis encore incertain s'il aura receu l'exemplaire de mon livre des Pendules. Je vous seray fort obligè Monsieur, si en luy escrivant vous voulez avoir la bonté de luy en toucher un mot. J'ay peur d'estre hors de ses bonnes graces sans scavoir pourquoy. A propos de Pendules, je vous diray devant que finir que J'ay trouvè depuis peu une nouvelle invention d'Horologes a la quelle je fais travailler presentement et avec apparence d'un bon succes. J'en mets icy le secret, en anagramme; comme vous scavez que j'ay fait autre fois en cas de nouvelles decouvertes et par la mesme raison.</p>
+<p lang="?"><table>
+<row>
+<cell>4</cell>
+<cell>1</cell>
+<cell>3</cell>
+<cell>5</cell>
+<cell>3</cell>
+<cell>7</cell>
+<cell>3</cell>
+<cell>1</cell>
+<cell>2</cell>
+<cell>3</cell>
+<cell>4</cell>
+<cell>3</cell>
+<cell>2</cell>
+<cell>4</cell>
+<cell>2</cell></row>
+<row>
+<cell>a</cell>
+<cell>b</cell>
+<cell>c</cell>
+<cell>e</cell>
+<cell>f</cell>
+<cell>i</cell>
+<cell>l</cell>
+<cell>m</cell>
+<cell>n</cell>
+<cell>o</cell>
+<cell>r</cell>
+<cell>s</cell>
+<cell>t</cell>
+<cell>u</cell>
+<cell>x<note n="#8"/></cell></row>
+</table></p>
+<div type="closer">
+<p>Je suis
+<lb/>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

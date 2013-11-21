@@ -1,0 +1,20 @@
+// This query tries to find consecutive imperative clauses with an
+// object immediately following the predicate, under the restriction
+// that the imperatives are from the same verb.
+
+// ident @(#)lq16.mql	1.1 04/03/26
+
+select all objects where
+
+[clause
+   [phrase function = Pred
+      [word as w1 verbal_tense = imperative]
+   ]
+   [phrase function = Objc]
+]
+[clause
+   [phrase function = Pred
+      [word lexeme = w1.lexeme and verbal_tense = imperative]
+   ]
+   [phrase function = Objc]
+]

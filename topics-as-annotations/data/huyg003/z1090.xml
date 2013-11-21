@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1090"/>
+<meta type="date" value="1663-01-02"/>
+<meta type="sender" value="bruc026"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1090">
+<div type="opener">
+<p>a <placeName key="londe002">Londres</placeName> ce 2/12 Janvier 1663.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous demande pardon de ne vous avoir poin escrit par le dernier ordinaire. pour vous dire la verité Je l'oublia jusques a ce que la post estoit parti et alors j'estois bien fasché. la raison que je l'oublia, estoit que j'avois si pu a vous escrire touchant cette affaire de mes horologes que il ne ne valoit pas la pain de vous escrire. cette nuit que nous sortismes de Helevoet sluys nous avions le vent si contraire et le vaiseau si petite que quoy qu'il ne faisoit poin de tout orage le vaiseau estoit secoué plus qu'il est possible de secouer un berceau tellement que le vieux tomba de haut en bas le vis qui entret dans la boule estant defait par le branslement du vaiseau. et le nouveau s'aresta et moy, j'estois si extraordinairement malade que Je ne pouvois rien faire au mond. le lendemain je fit toucher le nouveau pour le faire recommencer et le vaiseau n'estant plus si furiesment secoué il continua d'aler jusques a ce que nous arivasmes. voyla tous ce que Je pouvois observer sur mer. estant arivé un officier de limpost les saisoit pour les fair payer le droit
+d'entré tellement que j'estois obligé de les laisser a Harwitch et ils ne sont pas encore arives, mais en deux ou trois jours je les attends icy. voyla comme nous sommes frustrées de nostre attent pour ce fois icy. J'aye donné vostre lettre<note n="#1"/> a Monsieur Moray et la responce<note n="#2"/> que vous aves fait a Monsieur <persName key="hobb001">Hobbs</persName> a esté leu dans nostre assemble<note n="#3"/> avec grand applaudisement. Monsieur Moray astur<note n="#4"/> envoyé au librair<note n="#5"/> de Monsieur <persName key="hobb001">Hobbs</persName>, et ce qu'en arivera vous le scauries avec le temps. Si en aucune chose je vous pourois servir pendent que je suis icy je seray bien aise d'en trouver l'occasion. car j'aye esté si charmé de vostre company pendent que j'aye esté en Hollande que j'estimerois le plus grand bonheur que je puis avoir alieurs de vous pouvoir servir. pourquoy je vous suplie de m'employer et vous trouveres combien je suis avec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tresaffectioné amie et treshumble serviteur
+<lb/><persName key="bruc026">A. Bruce</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian de Zulichem</persName>.
+<lb/>a la Hay.</p>
+</div>
+</body>
+</text>
+</TEI>

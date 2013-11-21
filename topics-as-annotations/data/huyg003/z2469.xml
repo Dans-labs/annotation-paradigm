@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2469"/>
+<meta type="date" value="1687"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2467"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2469">
+<p>13 ou 14 Martii, Mr. <persName key="duil010">de Duilliers</persName> me communiqua sa methode des Tangentes pour les lignes courbes de Mr. <persName key="tsch002">de Tschirnhaus</persName>, par laquelle il paroissoit que ce dernier s'estoit trompè dans une chose ou il se vante d'avoir merveilleusement reussi.</p>
+<p>Le lendemain je luy montray ma demonstration exacte de sa methode et remarquay qu'on pouvait proceder de l'une ligne à l'autre une à une.</p>
+<p>Dimanche le 16 je trouvay que la perpendiculaire à la tangente devait passer par le centre de gravitè de tous les fils qui servent à la description de la courbe en portant sur elles des portions égales depuis le point donné et le demontray dans le cas de deux et de trois fils.</p>
+<p>Lundy 17 Je dis cela a Mr. <persName key="duil010">de Duilliers</persName>, qui voulut le nier d'abord, ayant pourtant estè fort pres de trouver la mesme chose, mais l'ayant ensuite rejettée, et ayant escrit à costè de son raisonnement <hi rend="i">Cecy est fort douteux</hi>, <hi rend="i">et ainsi ma belle methode ou Theorie court grand risque d'estre fausse</hi>. Cependant ce qu'il avoit trouvé de la somme egale des sinus, servoit a demontrer facilement le Theorème susdit du centre de gravité et estait tres beau. Voiez à la page precedente<note n="#3"/><note n="#4"/><note n="#5"/>.</p>
+<p>Il avoit trouvè le centre de gravitè de tous les points N. Puis il considera que
+<figure><graphic url="huyg003oeuv09ill42.gif"></graphic></figure>
+la somme des perpendiculaires tirées d'un point de la ligne AB si elle estoit perpendiculaire à la tangente, devoit estre égale d'un et d'autre costé de cette ligne. Ensuite il crut que ces distances depuis les centres de gravité des fils au point B estant egales d'un costè et d'autre, cela ne convenoit pas au centre de gravitè<note n="#6"/>. Mais s'il avoit menè des points D des sinus sur AB, il auroit vu qu'ils
+estoient chacun egaux aux perpendiculaires de B sur les lignes AN et qu'ainsi BA estoit le vray axe de pesanteur des fils.</p>
+</div>
+</body>
+</text>
+</TEI>

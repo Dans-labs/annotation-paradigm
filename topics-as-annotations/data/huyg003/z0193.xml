@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0193"/>
+<meta type="date" value="1654-07-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="goli002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0193">
+<div type="opener">
+<p><persName key="goli002">J. Golio</persName> Viro Clarissimo Eruditissimoque <persName key="huyg003">Christianus Hugenius</persName> S.D.<note n="#1"/></p>
+</div>
+<p>Praecedentes vigiliolas nostras probando effecisti Vir Clarissime ut hasce etiam luci committere auderemus. Quas tibi cum offerimus, coram aequissimo scilicet rerum geometricarum aestimatore sisti eas scimus, quique unus optimè dijudicet quid dignum fit contemplatione quid secus. Theorema horum XI praesens tibi antehac si bene memini recitavi, in quo demonstrando quod solidorum considerationem usurpo, id vitare equidem potuissem; sed natura Theorematis ejusmodi argumentationem admittere imo postulare videbatur, omni alia multo intricatiore futura atque prolixiore. Simili usus est Archimedes in propositione penultima 2<hi rend="sup">di</hi> de Sphaera et Cylindro, quem ego autorem quacunque praeeuntem sequi non dubitem. Ergo ne hoc quidem miraberes quod rectas lineas circularibus aequales in Problematum inscriptione polliceor: legisti enim ubi ille rationem circuli ad comprehendens quadratum eam definit, quae est XI ad XIX. Vides ut minimarum quoque rerum excusationem adfero, quod non facerem profecto nisi apud censorem accuratum ac diligentem. Caeterum cum judicium tuum usque adeo reverear, facile inde conjicies Vir Clarissime quo loco habiturus sim approbationem. Vale.</p>
+<div type="closer">
+<p><date>4 Jul. 1654</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

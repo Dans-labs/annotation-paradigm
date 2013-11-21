@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1882"/>
+<meta type="date" value="1672-04-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1882">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 22 Avril 1672.</p>
+</div>
+<p>L'apprehension du mal de teste dont j'ay estè incommodè toute cette nuict est cause que je ne vous escris que ces trois mots.</p>
+<p>Il ne faut pas prendre au pied de la lettre la defense de communication et correspondance que contient la Declaration, car je scay de Monsieur Romf que Monsieur de Louvoy luy a fait escrire a Messieurs les Estats s'ils veulent que les Postes soient continuees comme cy devant: tellement qu'il ne tiendra qu'a eux, que le commerce de lettres demeure.</p>
+<p>Monsieur Perrault<note n="#1"/> le controleur se marie avec une jeune brune assez bien
+faite. Le Receveur<note n="#2"/> et sa femme l'ont portè a ce mariage, contre ce que l'on pourroit presumer mais cela est certain. Elle s'appelle Mademoiselle Guichon et du nom d'une terre, Mademoiselle de Rosiers, la famille est honneste, et le pere et mere de leur anciens amis. Dot 70 mille ℔ qui n'est pas bien grande pour icy. Vous en ferez compliment à Monsieur le Receveur. Mademoiselle Marotte<note n="#3"/> en enrage. Je suis tousjours mal avec le pere. J'avois oubliè l'autre fois d'enfermer cette lettre sans suscription dans celle de Mon Pere a qui je vous prie de la donner. Elle est de la part de la vefue de Monsieur de Vaurose. Adieu.</p>
+<p>Je souhaitte bon voiage au frere de Zeelhem. Le Roy part le 28<hi rend="sup">e</hi>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huijgens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

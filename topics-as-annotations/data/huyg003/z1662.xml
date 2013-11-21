@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1662"/>
+<meta type="date" value="1668-09-23"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1662">
+<div type="opener">
+<p>Nobilissimo et Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio a Zulichem</persName> <persName key="slus001">Renatus Franciscus Slusius</persName>. S.</p>
+</div>
+<p>Mesolabum meum paulo nitidius recusum<note n="#1"/> ad te mitto, Vir Nobilissime, qui solebas, meas esse aliquid putare nugas. Partem alteram<note n="#2"/>, ac deinde Miscellanea<note n="#3"/> adiunxi rogatu Typographj, qui molem aliquam libello conciliare voluit: sed dum illi morem gero, vereor ne rebus meis male consuluerim: adeo enim me vrsit hac aestate, vt vix relegendj quae scripseram, otium mihj concesserit. Nam tumultuarié ex schedis meis excerpsi, quae mihi ipsinotaueram, et quae maiore curâ, digerere potuissem, si in animum vnquam incidisset fore vt lucem viderent. Iucundum tamen fuit in memoriam revocare antiqua studia a quibus iam dudum me seiunxeram: et saepe mihi scribentj, gratissima tui recordatio occurrit. Omne interim tulisse punctum videbor si tibj non displicuerint hi conatus mej: Sin minus, benigne, vt soles, illos pro tua humanitate excusabis. Vale Vir Nobilissime et rem literariam feliciter promovere meque in tuorum numero habere perge.</p>
+<div type="closer">
+<p>Dabam Leodij <hi rend="sc">ix</hi> Kal. Octobris <hi rend="sc">ciƆiƆclxviii</hi>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Viro
+<lb/>D. <persName key="huyg003">Christiano Hugenio de Zulichem</persName>
+<lb/>Parisios.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0427"/>
+<meta type="date" value="1657-11-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="brun004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0427">
+<div type="opener">
+<p><date>14 Nov. 1657</date>.</p>
+<p><persName key="huyg003">Chr. Hugenius</persName> <persName key="brun004">Bruno</persName> Heroi S.D.</p>
+</div>
+<p>Literas tuas modo unà cum tuis <persName key="nier006">Nieropijque</persName> epigrammatis accepi, patrique exhibui, qui utrique vestrum summas gratias agit, at majores tibi se debiturum profitetur si nonnulla in carmine tuo, quibus nigrum Theta<note n="#1"/> praefixi, emendare conatus fueris.
+Censura haec ipsius si aequo rigidior tibi videbitur, fastidium ex diuturno morbo in causa esse, scito. humoresque eosdem qui febrem ipsi concitarunt, severum simul et morosum criticum reddidisse. Quanquam sanè non omni ratione carent animadversiones istae. Nam quis divinare queat quae sit ea quam memoras Romana an Babylonia pellex? Itaque intelligibilior locus ille tibi efficiendus est.
+Et in caeteris itidem quae notata invenies immutandis si morem gesseris, nec tuo honori malè consules, et apud monitorem gratiam inibis. Volumen ipsum poematum suorum quod frustra à Vanderburgio te petijsse scribis, ecce tibi jussu Parentis mitto, si quid adhuc fortasse inter legendum dexter dictavit Apollo. Vale et nos ama.<note n="#2"/></p>
+</div>
+</body>
+</text>
+</TEI>

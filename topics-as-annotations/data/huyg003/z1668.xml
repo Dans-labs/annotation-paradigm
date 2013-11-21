@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1668"/>
+<meta type="date" value="1668-10-26"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1668">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 26 Octobre 1668.</p>
+<p>Monsieur,</p>
+</div>
+<p>Quelques vns<note n="#1"/> de la Societé Royale ayans dans la derniere Assemblee<note n="#2"/> proposé, qu'il seroit à propos de faire des Experiences touchant la nature et les loix du Mouuement, et d'autres<note n="#3"/> de la mesme Compagnie ayans remarqué la dessus, que Monsieur Hugues pensoit en auoir desia trouué la Theorie pour expliquer toutes sortes de phenomenes qui le regardent, ces Messieurs m'ordonnerent de vous faire scauoir ce que dessus<note n="#4"/>, et de vous prier, comme vn de leur corps, que vous trouveriez bon de leur signifier, quand vous mettriez au public vos speculations et observations de la dite matiere, et en cas que vous ne fussiez pas porté de les faire inprimer encore, que vous eussiez agreable de leur communiquer vostre hypothese la dessus, la quelle ils tascheroient d'examiner par toutes sortes d'experiences, et l'enregistrer comme la production de vostre Esprit. J'espere Monsieur, que vous ne ferez point aucun scrupule d'accorder à la Societé, dont
+vous estez vn des principaux membres, ce qui a esté ainsi desiré de vous; nos Philosophes suspendans expressement la poursuite de cete matiere, qui est si importante à toute la Philosophie, pour ne vous y prevenir point, ny perdre le temps dans vne chose, qu'on suppose estre desia recherchée et determinée. Vous m'obligerez donc, Monsieur, de me faire scauoir vostre resolution là dessus, le plustost que vous pourrez commodement, a fin que ie rende raison à la compagnie de la commission, qu'Elle a donnée à</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur
+<lb/><persName key="olde010">H. Oldenburg</persName>
+<lb/>Soc. R. Secr.</p>
+</div>
+<p>Monsieur, si vous plait de faire tenir seulement vostre response à Monsieur Justel<note n="#5"/>, elle me sera bien rendue.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du roy à Paris.
+<lb/>Paris.
+<lb/>10 β.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0691"/>
+<meta type="date" value="1659-12-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0691">
+<div type="opener">
+<p>Clarissimo Viro <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.</p>
+</div>
+<p>Heri duo exemplaria accepi hujusce quem vides libri<note n="#1"/> ab autore missa, qui nos ut solet lucubrationum suarum participes facit. Itaque alterum eorum ad te proficiscitur, sicut à me petijt<note n="#2"/>. Nondum mihi otium fuit ut perlegerem, videtur tamen subtiliora quaedam promittere, quam in prioribus libris, quos de hac materia edidit, contineantur.</p>
+<p>Occupatum me habet novum inventum quod hisce diebus excogitavi ad horologium meum exactius etiamnum efficiendum quam fuit hactenus. Scis puto adhibuisse
+<figure><graphic url="huyg003oeuv02ill164.gif"></graphic></figure>
+me in automatis istis lamellas binas incurvatas ut AB, AC, inter quas pendulum suspensum movebatur; idque propterea factum ut omnes penduli vibrationes aequali tempore redirent, quae alioqui non omnino <hi rend="i">ἰσόχρονοι</hi> erant ut in libello meo<note n="#3"/> indicavi. Quod igitur nunquam me inventurum speraveram nunc denique reperi, veram nimirum figuram curvarum AB, AC, quae efficiat ut oscillationes omnes accuratissime exaequentur. Eam ratione geometrica determinavi, ipsosque artifices docebo ut nullo negotio curvam illam lineam describant. Subtilissimo Heuratio non displicebit opinor haec inventio; nam mihi quidem omnium felicissima videtur in quas unquam inciderim. Vale et me invicem certiorem fac si quid isthic est quod me lubenter sciturum existimes.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> <date>6 Decembris 1659</date>.</p>
+</div>
+<p>Si librum <persName key="pasc001">Paschalij</persName><note n="#4"/> seu Dettonvilij Heuratius aut <persName key="hudd002">Huddenius</persName> inspexerunt, cuperem eorum intelligere judicium, ut habeam quod respondeam Domino <persName key="carc010">de Carcavy</persName><note n="#5"/>, qui assiduè a me flagitat ut sententiam nostrorum geometrarum super opere illo ad ipsum perscribam.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Myn Heer <persName key="scho197">van Schooten</persName> Professor der Mathematycken Tot Leijden.
+<lb/>Inde Heeresteegh.</p>
+</div>
+</body>
+</text>
+</TEI>

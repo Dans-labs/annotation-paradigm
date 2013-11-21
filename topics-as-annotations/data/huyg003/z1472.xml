@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1472"/>
+<meta type="date" value="1665-10-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="thev001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1472">
+<div type="opener">
+<p><persName key="thev001">M. Thevenot</persName>.</p>
+<p>1 octobre 1665.</p>
+</div>
+<p>determination du probleme de croix et pile envoiè a Monsieur <persName key="fren024">Frenicle</persName><note n="#1"/> et ma solution et celle de Hudde. mon Observation de l'ombre du 3<hi rend="sup">me</hi> satellite dans Jupiter 26 Septembre<note n="#2"/> mon Pere a Zulichem avec le frère Louis. point escrit.
+le crois que je recevray bientost les ordres du Roy pour partir, que j'en doibs estre bien aise a cause des assurances qu'on me donne que j'auray toute sorte de satisfaction. Baisemains a Auzout. j'espere qu'il a receu ma lettre<note n="#3"/> comme aussi Monsieur de Montmor<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

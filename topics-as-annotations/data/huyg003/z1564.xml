@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1564"/>
+<meta type="date" value="1666-11-12"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1564">
+<div type="opener">
+<p lang="it">Signore <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+<p lang="it">Bramando io che Vestra Signoria possa riconescere in tutte le occasioni l'affettuosa parzialità con che uiene dà mè amata la sua Virtù, e stimato il suo merito, non è douere che io lasci di farle peruenire, in continuazione del mio desiderio, ciò che di nuouo uenga dato quà alla Luce. Jn testimonio dunque' anche della mia uera cordialità uerso di lei, le mando adesso un operetta<note n="#1"/> del Dottore Valerio Chimentelli Lettere d'Vmanità in questo nostro studio di Pisa, et insieme un breue Trattato Geometrico<note n="#2"/> del Signor Michel Angelo Ricci, ben noto à Vestra Signoria la qualé dà questa benche piccola Opera, credo che potrà confermare il concetto che si hà dell' Jngegno, e dell' intendimento del medesimo.</p>
+<p lang="it">Mi farà Vestra Signoria piacere molto grato, sè si compiacerà di dirmi il suo parere intorno all' una, e l'altra Opera, con quella sincerità con la quale ella sà di poter trattar meco, e goderò ancora che Vestra Signoria riconosca questa nuoua confermazione del mio affetto, col quale le auguro intanto ogni felicità. Di firenze</p>
+<div type="closer">
+<p lang="it">Jl di 12 di Novembre 1666.</p>
+<p lang="it">Al Piacer di Vestra Signoria Il Principe <persName key="medi012">Leopoldo</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it">Signore <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

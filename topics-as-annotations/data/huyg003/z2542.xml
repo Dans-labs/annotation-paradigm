@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2542"/>
+<meta type="date" value="1689"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2542">
+<p>ad Propos 2<note n="#3"/> <persName key="newt011">Newtoni</persName></p>
+<p>&nbsp;</p>
+<p>Scimus motum corporis secundum GA, posse considerari tamquam compositum ex motibus per GH et per GK. Quod si jam Resistentiam quam ab aere patitur
+<figure><graphic url="huyg003oeuv09ill63.gif"></graphic></figure>
+corpus in motu par GA exprimamus per lineam BA esset BD refistentia facta motui secundum GH, et BC resistentia facta motui secundum GK, nempe in illa hypothesi quae ponit resistentias velocitatibus proportionales. Sed in altera hypothesi, ubi resistentiae sint ut quadrata velocitatum, dici debet quod si, ui prius resistentia quam patitur motus per GA est BA, tunc resistentia facta motui per GH, erit ad BA ut quadratum GH ad qu. GA. Itemque resistentia facta motui per GK, erit ad AB ut qu. GK ad qu. GA. Adeoque resistentiae istae per GH et per GK minores erunt quam BD et quam BC. Itaque in hac hypothesi non potest resistentia AB considerari tamquam composita ex resistentia BD et BC, ut vult Newtonus<note n="#4"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

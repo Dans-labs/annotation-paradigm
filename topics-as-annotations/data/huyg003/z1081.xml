@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1081"/>
+<meta type="date" value="1662-12-02"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1081">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo S.P.D.</p>
+</div>
+<p>De phaenomeno agri Vbsaliensis<note n="#1"/> ante septennium spectato a plurimis, quam proxime pollicebar, narrationem hic habes<note n="#2"/>. Imaginem eius vivis coloribus expressam a me sperare noli, quam frustra quaesivimus. In Helmaestadiensi tractu nuper admodum spectrum apparuisse, quod classem navalem exacte referret<note n="#3"/>, continuis inde literis huc perscribitur. Sed quod ignorem an operis tui argumentum tam late se extendat, eius aut ectypum aut narrationem necdum circumspexi, praestolaturus literas tuas, quae me doceant, quid fieri hic velis. Ex matronis virisque fide dignissimis intellexi non pauca sibi hic terrarum spectata phaenomena annis proximis, quae ex illorum narratione colligam si iubebis. Nam inter gentes soli propemodum Marti deditas aut diei, quo apparuere, aut horae aut colorum aut aliarum rerum quas a vobis mathematicis sciri intersit, accuratas descriptiones vix est ut exspectes. Vir Illustris tuus pater, quantum video, Comitis Briennae junioris<note n="#4"/> consuetudine quotidiana gaudet. quo viro nihil est elegantius, literatiusque. Nuper admodum versibus Latinis scitis admodum et venustis oppido me compellare est dignatus<note n="#5"/>. Virgilium plurimis locis a me castigatum
+Elzevirijs iam edendum<note n="#6"/> permisi. De Notis, quas paratas editioni habeo, necdum statui: quod membranas plures hinc inde etiamnum exspectem. Habes hic ad amicissimum Wallium<note n="#7"/>.</p>
+<p>Vale, et Nobilissimo Zelemio<note n="#8"/> plurimam meis verbis, ni molestum est, salutem dic.</p>
+<div type="closer">
+<p><placeName key="stock001">Holmiae Suecorum</placeName>. <date>CIƆIƆCLXII. IV Non. Dec. Gregor.</date></p>
+</div>
+<p>Apollonij Pergaei exemplar mihi destinatum ex Italia iampridem accepi, tui quoque tibi copiam ab Elzevirijs factam esse nullus ambigo. Gedano nunciant Hevelium post elatam anno proximo uxorem, de puella quindecenni domum ducenda serio cogitare<note n="#9"/>. Vae astris! quae interim iubebuntur feriari.</p>
+</div>
+</body>
+</text>
+</TEI>

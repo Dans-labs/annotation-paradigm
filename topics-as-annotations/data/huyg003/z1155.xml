@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1155"/>
+<meta type="date" value="1663-10-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1155">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 19 Octobre 1663.</p>
+</div>
+<p>Je vous envoie aujourdhuy vostre perruque par la poste avec deux robbes de watte dont le frere Louis a donnè commission a Monsieur Chieze. Vous pourrez ouurir le pacquet, en cas qu'il soit desia parti; et pour faire en aller les mauvais plis qu'elle aura, pour avoir estè ainsi pressée, vous la mettrez a l'air dans la fenestre un jour durant, bien peignee, et elle se remettra comme il faut. C'est ce que le maistre m'a priè de vous mander, qui est le mesme qui sit la calotte pour Monsieur van Leeuwen, et m'a assurè que ces cheueux icy sont des meilleurs qu'on puisse avoir. Monsieur Chieze les a veu devant qu'il les travaillast, et dit qu'ils estoient frisez naturellement. Il vous semblera peut estre qu'il en a mis trop, mais scachez qu'icy on les porte ainsi, et en tout cas plustost que d'en faire couper, le maistre souhaite que vous la renvoyiez, a sin qu'il en fasse une plus petite. J'en ay payè 4 louis et demy, les quels ayant redemandè al Signor Padre il m'a dit qu'il n'auoit pas de l'argent maintenant<note n="#1"/>.</p>
+<p>Je verray s'il me les voudra rendre sans qu'ils soient deduits de vostre pension, et vous donneray avis de ce qui en arrivera. Je fais faire au mesme ouurier une perruque pour moy par ce que je voy que le tour me gaste tous les cheveux.</p>
+<p>Le Sieur Bosse<note n="#2"/> me donna hier une adresse pour avoir du Carmin, mais je n'ay pu y aller encore. Il me parla aussi d'un excellent peintre en miniature qui demeure en ce quartier, nommè Werner<note n="#3"/>, que j'iray veoir. Il croit que Jul. Clovio<note n="#4"/> n'est pas comparable a ce Suisse, mais le bon homme ne s'y cognoit pas trop.</p>
+<p>Il semble que noster<note n="#5"/> pourroit reussir en cette assaire<note n="#6"/> qu'il a entreprise en
+Zelande. Le seul scrupule que j'y trouve est le mesme que vous avez, touchant les biens du futur beaupere, mais la quantitè et qualitè des rivaux fait que j'en ay meilleure opinion.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

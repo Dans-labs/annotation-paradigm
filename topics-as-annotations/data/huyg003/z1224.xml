@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1224"/>
+<meta type="date" value="1664-04-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1224">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 4 Avril 1664.</p>
+</div>
+<p>J'ay pris grand plaisir a lire vostre relation exacte de la suite du Rapt<note n="#1"/>, et l'ay communiquee al Signor Padre et a plusieurs de mes amis. Tous trouuent la conduitte de la belle extremement sotte, et inclinent fort a croire le pucellage entamè. Sur tout elle est decriée par des certaines vielles filles qui avec l'aide de Dieu ont conservè leur pucellage entier et immaculè par un si grand nombre d'annees, comme entre autres Mademoiselle Jacson<note n="#2"/>, qui bien loin de la pleindre, soustient qu'elle a meritè encore pis et luy dit des injures en quantitè. Pour moy je pourrois avoir assez bonne opinion de tout le reste, s'il n'y avoit un article de ses interogatoires au quel je voy pas qu'elle aie donnè bonne solution qui est celuy du Tuteur<note n="#3"/> renvoiè. Car si cela se faisoit de concert avec luy, pourquoy escrivit il donc a Madame Veth<note n="#4"/> qu'elle ne vouloit pas qu'il l'amenast? Peut estre la troisieme partie du Roman nous apportera quelque esclaircissement la dessus; mais ce que je desire le plus d'y apprendre, c'est l'histoire du Comte de Culembourg<note n="#5"/>, et ce qu'on aura fait du Seigneur de Langerac.</p>
+<p>Je n'ay pas vu Monsieur Thevenot depuis que j'ay receu vostre derniere<note n="#6"/> pour luy faire part de ce qu'il y a pour luy, mais ce sera a la premiere occasion.</p>
+<p>Hier j'eus une lettre de Don Sebastian, qui est a Copet, aupres de Monsieur le Comte de Dona<note n="#7"/>, et s'en va de la a Avignon veoir sa mere ou il demeura<note n="#8"/> un mois. Il me mande que je vous fasse scavoir qu'il a pour vous une boete de montre telle que vous luy aviez demandee.</p>
+<p>Je vous prie de m'envoier par le premier ordinaire de la greine de choux de toute sorte, Savoykool, Blomcool, rodekool et s'il y en a d'autres encore. La cousine Zuerius<note n="#9"/> (a qui je vous prie de faire mes baisemains) scaura vous les indiquer. C'est pour une de mes bonnes amies, c'est pourquoy je ne voudrois pas que vous l'oubliassiez.</p>
+<p>Dites au frere de Zeelhem, que j'ay acheptè hier un petit tableau de miniature pour 20 pistoles, qu'il seroit bien aise de veoir. Il est haut de 6 pouces et large de 4, et represente une Venus nue preste de s'aller baigner dans une fontaine, accompagnee d'un Cupidon; la figure tres belle et bien peinte et la fontaine avec les arbres aupres encore mieux. Je croy pourtant qu'il ne me demeurera pas mais que je l'envoieray en Angleterre a un amy pour qui je fais parfois de telles emplettes. Le maistre<note n="#10"/> ne demeure pas loin d'icy, estant un jeune homme Suisse qui a demeurè longtemps en Italie.</p>
+<p>S'il a de l'argent mignon il y a icy à quoy l'emploier et avec plaisir, car je n'ay jamais rien veu de plus agreable que ces ouurages.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

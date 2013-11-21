@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0219"/>
+<meta type="date" value="1655-03-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0219">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Francisco Schotenio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.D.</p>
+</div>
+<p>Paulo postquam à me discesseras die Martis praeterito locum eum in Cartesij Geometria de quo interrogabas inspexi pagina videlicet 32<hi rend="sup">a</hi> Editionistuae, versu penultimo: invenique in margine antehac à me adscriptum sic fuisse, <hi rend="i">non puto mm signo - affici posse</hi>. Hoc autem patet ex ijs quae habentur in principio paginae praecedentis. Sive enim quod ibi versu 1<hi rend="sup">o</hi> legitur 2<hi rend="i">my</hi>, signum + vel - habeat, semper <hi rend="i">m</hi> in sese ductum accipiet signum +, ut in quadratis aequationibus contingere notum est. Tuum vero est deliberare utrum quod Cartesius hic scripsit emendare velis, an in commentarijs tuis difficultatem lectoribus insinuare. fortasse enim quod ille senserit non satis assequimur. Ε´<hi rend="i">λεγξιν</hi> tuam porro cujus mihi copiam fecisti attentè perlegi, qua quidem multimodis ad absurdum adigis vanissimum Placentini somnium. unum quod de Parallaxeos et refractionum incommodo adjicis non intelligo. Videtur enim neque parallaxis neque refractio efficere posse ut luna in meridiano appareat, nisi ibidem revera consistat; quanquam illa quidem magis humilem ostendat, refractio rursus aliquantum attollat. Attamen à meridiano non recedet, ideoque et Herigonus utrumque hoc incommodum sua methodo evitasse se prositetur, quod observationes dirigat ad Lunam in meridiano existentem. Si tibi otium est quaeso paucis sententiam tuam hac in re mihi perscribe. Caeterum magis hoc scire desidero quodnam à Dominis Ordinibus responsum tuleris, gratiasne egerint, an nondum quid decreverint tibi innotuerit. Hoc ut resciscam omnino mea interest. itaque si me amas ne graveris significare quid tibi contigerit. Vale Vir Praestantissime. Circa Cardani regulas quod à me postulabas brevi accipies<note n="#1"/>.
+sine modò ut chartas atque adversaria mea excutiam.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName>, Professor der Mathematycken inde Universiteijt
+<lb/>Tot Leijden.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0045"/>
+<meta type="date" value="1648-03-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0045">
+<div type="opener">
+<p><placeName key="breda001">Breda</placeName> desen <date>10 Mart. 1648</date>.</p>
+<p>Mon frere</p>
+</div>
+<p>Gisteren is mij den uwen<note n="#1"/> met het Cabinet behandicht daer al vrij wat an ontrampeneert is, en 't erchsten is dat men de laeyen soo quaelijck kan open trecken. Ick sende hier neffens het mijne, dat vrij wat beter is, soo dat me dunckt dat ghij eer aen de beste koop zijt, doch dat is nu te laet gedisputeert: <hi rend="i">Licet contr ahentibus se invicem circumscribere</hi>. Waerom seghje dat ick voor Paesschen most inden Haegh sijn om de fransche Comedianten te sien? sullense dan te Paesschen wech gaen? 'k geloof niet dat de predicanten soo veel te weech hebben konnen brengen nu se de Farcen achter laeten daerse 't gemeenelyck meest tegen hebben. Wij hebben ons
+hier moeten vermaecken met M. la Barre, die hier een tijt lanck de Stadt vereert heeft met sijn presentie en in 't publijck op de merckt farcen gespeelt op sijn eijgen kosten, want heeft van fijn salven soo veel verkocht als niet. Van 't houwelijck van Nicht van Bodeck heb ick hier al gehoort gehadt: En 't Pasquin op Boy en Plante heest Stas me gecommuniceert dat al passelijck is. Secht Moey de Willem dat haer verlies me seer leet is, en Vaert wel.</p>
+<div type="closer">
+<p>Vostre Tresaffectionné frere et serviteur
+<lb/><persName key="huyg003">Chrestien Huygens</persName>.</p>
+</div>
+<p>Soo peroreert Mr. <persName>la Barre</persName>.</p>
+<p><hi rend="i">Si j'estois un charlatan vulgaire, un coureur, tout le monde seroit curieux d'avoir de mes remedes</hi> (een schone consequentie) <hi rend="i">mais a cett' heure que je suis un homme entendu, un homme d'esprit, personne n'achepte rien, tous se contentent de m'ouir parler.</hi> De gemeene luij en de soldaten seggen dat het een Professoor is.</p>
+</div>
+<div type="para">
+<p>Aan mijn Heer Mijn Heer <persName key="huyg007">C. Huygens</persName>, Secretaris van S. Hoocheijt
+<lb/>In 's Gravenhaeghe.
+<lb/>Met een Cabinettie.
+<lb/>P.</p>
+</div>
+</body>
+</text>
+</TEI>

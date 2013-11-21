@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1321"/>
+<meta type="date" value="1665-02-04"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="scho252"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1321">
+<div type="opener">
+<p><placeName key="praag001">Pragae</placeName> 4 Februarii 1665.</p>
+</div>
+<p>Non possum hîc committere, quin Reuerentiae Vestrae communicem insigne quoddam Experimentum, quod paucis ante diebus Praestantissimus &amp; Ingeniosissimus Dominus <persName key="huyg003">Christianus Hugenius</persName>, in Philosophicis Mathematicisque disciplinis supra modum excultus, Amicus meus literarius longè charissimus, à se nuper inuentum, pro affectu in me suo gratiosè communicauit; quod ejusdem Nobilissimi &amp; Clarissimi Viri uerbis, ex epistola ad me data depromptis, placet subjungere<note n="#1"/>.</p>
+<p>&nbsp;</p>
+<p>Haec Nobilissimus Hugenius. Quid ad haec dicemus, qui Mercurium in uitreo tubo ab aëre externo eidem aequiponderante suspensum teneri cum Reuerenda Paternitate Vestra in Technica Curiosa<note n="#2"/> poene demonstratum esse credidimus. Nam illud quidem hoc stante experimento subsistere non potest, de cujus tamen ueritate candor &amp; industria Domini Autoris nil in me prorsus dubii relinquit. Redit hîc illud in memoriam, quod pluribus abhinc annis de hoc Mercurii suspensi negotio ad Dominum Jacobum Dobrzenski<note n="#3"/> tunc Ferrariae degentem perscripseram, ubi spacium illud supernè uacuum repleri ajebam uaporibus quibusdam aqueis, quales circa &amp; intra ☿ jam copiosos existere apud me euicerat ejusdem Domini Doctoris experimentum, quo è 6. ℔. Mercurii, 3 vel 4. uncias aquae quasi purè elementaris elicuerat, idque toties quoties eundem Mercurium jam destillatum aëri libero exposuerat. Videat obsecro Reuerenda Paternitas Vestra Philosophiam de Fontibus<note n="#4"/> ejusdem Domini Doctoris, in qua Paginis 26 &amp; 27 &amp; experimentum suum, &amp; meam inde deductam consequentiam prolixiùs allegat. Scripseram equidem, nisi fallor, in alia deinceps epistola, rogaueramque ut ☿ adhuc à destillatione calentem, priusquàm nouum aërem aut uaporem posset attrahere, tubo infunderet, probaretque quis responderet euentus: quod si factum tunc fuisset, nil omnino dubito, quin ☿, non secus ac apud Hugenium, permansurus fuisset absque descensu. Sed de his mentem
+Reuerentiae Vestrae libenter intelligam; quod ut quantociùs fiat, humanissimè rogo. Aperire se sensim incipit ueritas, ad quam nos manuducere uidentur experimenta; quibus si plura se se potiùs quàm inanibus speculationibus occuparent ingenia, copiosiores utique successu temporis pro uestiganda ueritate maximas, quàm nunc pro excogitandis nouis nouisque indies Chymaeris sophismata numerare contingeret. Hortetur, obsecro, Reuerentia Vestra occasione recudendae proximè Physicae suae Curiosae, efficaci quapiam Paraenesi Europae Principes, ut munificâ suâ liberalitate manus porrigant tam proficuo experimentorum studio, cui sublimia passim ingenia fauere &amp; assuefieri incipiunt, quorum conceptus ardor haud dubiè magis augesceret, si liberalis Principum munificentia de publico sufficeret alimenta: nam priuato quidem aere atque conatibus uix in longum par esse poterit hominum quantumuis ingeniosorum industria, quod Nobilissimus Dominus <persName>Franciscus de Verulamio</persName> in Opusculis suis pridem desiderauit, &amp; questus est....</p>
+<div type="closer">
+<p><persName key="kinn013">Kinnerus</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

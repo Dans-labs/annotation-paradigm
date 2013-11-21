@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0980"/>
+<meta type="date" value="1662-02-15"/>
+<meta type="sender" value="sorb001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0980">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 15. fébrier 1662.</p>
+<p>Monsieur,</p>
+</div>
+<p>estant fort en peine de la santé de Monsieur Renaud mon beaupere<note n="#1"/>, &amp; de sa famille, dont je ne reçois point de nouuelles, encore que je leur aye escrit, je prens la liberté de vous en demander. Il loge si pres de vous, que je puis esperer que vous me ferés la grace de vous en informer sans que vous en receuiès beaucoup d'incommoditè. Commandès moy en reuanche de vous aller rendre quelque seruice d'icy au bout du fauxbourg St. Victor &amp; je le feray tout incontinent de grand coeur.</p>
+<p>J'accompagnay l'autre jour Monsieur uostre pere chez les Jesuites, et si j'estois capable de le seruir en ce pays, je luy ay souuent offert toutes mes habitudes, mais il y a presse à qui le seruira, &amp; les cordons bleus<note n="#2"/> s'estiment fort honorés de le mener chez tous nos curieux. Il m'a dit que vous trauailliés aux experiences de Monsieur Robert Boyle. ô l'admirable homme, qu'il est judicieux, qu'il est exact, qu'il est bien intentionné! I'irois volontiers en Angleterre pour le uoir, &amp; je vous enuie le bonheur que vous auès eu de le conuerser à uostre retour de Paris. Nous n'auons icy que des curieux à nostre mode, de la plus part desquels j'auois honte lors que je uous uoyois chez Monsieur de Montmor. Mais à cela il n'y a point de remede.</p>
+<p>Je me reserre dans mon petit cabinet où je ne manque pas de bons liures, &amp; d'honnestes gens qui me uisitent; &amp; j'espere de m'y entretenir le reste de mes jours agreablement, en repassant dans ma memoire ce que j'ay ueu &amp; remarquè en ma jeunesse. Voila où jen suis. Dieu uueille que les nouuelles que vous m'apprendrés de Monsieur Renaud ne m'obligent pas d'en sortir, quoy je ne desire plus de uoir la Haye, qu'a cause de vous, qui estes <hi rend="i">Bataui gloria prima soli</hi>. J'ay oublié de mettre ceste Epigramme dans ma relation<note n="#3"/>; mais si elle ne se reimprime pas, il escherra ailleurs de la faire uenir sur les rangs, &amp; de vous tesmoigner non seulement mon estime, mais la passion auec laquelle je suis,</p>
+<div type="closer">
+<p>Monsieur,</p>
+<p>Vostre tres humble et tres obeissant seruiteur</p>
+<p><persName key="sorb001">Sorbiere</persName>.</p>
+<p>Ruë des petits champs chez Monsieur la Porte chirurgien.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

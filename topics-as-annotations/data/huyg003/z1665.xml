@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1665"/>
+<meta type="date" value="1668-10-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1665">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 12 Octobre 1668.</p>
+</div>
+<p>Ie ne doute pas Signor Fratello que vous n'ayez eu des affaires en quantitè tant bien que mal plaisantes depuis 3 ou 4 semaines, et cela a estè cause en partie pour quoy je ne vous ay pas voulu importuner de mes lettres<note n="#1"/>. A cet heure que vous estes un peu plus de loisir vous pourroit on demander l'accomplissement de la promesse que vous m'en fistes<note n="#2"/> de me tailler un petit oculaire de la forme nouuelle? Je ne demande encore que si vous avez du temps et de l'opportunitè pour cela, ce que scachant je vous envoieray la figure que je voudrois qu'il eust, car pour faire l'essay de cette invention je crois qu'il sera beaucoup mieux de l'essaier dans une lunette d'un pied seulement ou environ, parce qu'on jugera bien mieux de la difference qu'il y a de l'ouverture du verre objectif avec une ordinaire de cette longueur qu'on ne scauroit faire dans des lunettes longues. Et ces oculaires seront plus faciles a failler que dans celles là, ne demandant pas des convexitez si grandes.</p>
+<p>Cependant si vous n'en avez pas envie sans cela de reprendre cet exercice je chercheray moyen de faire executer icy ce dessein. Voicy les 2 quitances<note n="#3"/> signées et marquees du folium<note n="#4"/>. Je ne scavois pas que je devois encore tant à Oosterwyck<note n="#5"/>, a qui vous ferez donc ce payement s'il vous plait. l'on fait icy bien de l'honneur aux pendules quelques fois aussi bien que par dela, en leur donnant des boetes de 15 et 20 mille ℔. I'en ay icy une du mouvement circulaire de ma nouuelle invention<note n="#6"/> qui va assez bien, et sans bruit.</p>
+<p>Monsieur de Carcavy a estè bien malade tous ces jours icy et n'est pas remis encore, ce qui fait que je ne vous diray rien des medailles presentement<note n="#7"/>, mais je luy en parleray quand il sera sur pied.</p>
+<p>Je ne scay pas encore si Cassini<note n="#8"/> viendra ou non, mais je le souhaite fort parce qu'il est fort bon astronome, et aussi pour ses lunettes qui ont fait de belles decouvertes. Monsieur Auzout est allè faire un voiage<note n="#9"/> en Italie, qui nous scaura dire ce qu'il aura veu en ces matieres a Florence et a Rome. Adieu.</p>
+<p>&nbsp;</p>
+<p>Depuis quand et pourquoy est ce que ma Cousine Constancia<note n="#10"/> s'appelle le Leu de Wilhem, c'est ainsi qu'elle signe sa lettre dont j'ay bien ris.</p>
+</div>
+<div type="para">
+<p>Pour mon frere
+<lb/><persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

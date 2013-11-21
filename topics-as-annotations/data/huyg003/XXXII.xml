@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXXII"/>
+<meta type="date" value="1657"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXXII">
+<div type="opener">
+<p lang="la">Nobilissime Domine,</p>
+</div>
+<p>En carmen si non pro expectatione vestra satis feliciter at certe pro virili mea mutatum correctum id mitto, ne operas remorer, quantocyus<note n="#2"/>. Adderem plura sed nuptialia, scholastica, alia me tenent. Scribam vel per tabellarium nostrum ordinarium, vel per Amplissimi Guilielmi Grotii<note n="#3"/> filium, qui nuptiis Praetoris nostri summi Bredenhovii ac Dominae Margaritae Ricciae mecum hic interest<note n="#4"/>. Interim vale et ama qui in aeternum</p>
+<div type="closer">
+<p>Nobilissime Domine
+<lb/>Tuum ex asse<note n="#5"/> <persName key="brun004">Brunonem</persName></p>
+</div>
+<p>Saluta Patrem omnemque adeo familiam, avunculos Doubletium et Willem de L.<note n="#6"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

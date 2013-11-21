@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1745"/>
+<meta type="date" value="1669-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1744"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1745">
+<p>Problema Alhaseni<note n="#1"/>.</p>
+<p>Dato speculo cavo aut convexo, itemque oculo et puncto rei visae, invenire punctum reflexionis.<note n="#2"/></p>
+<p><figure><graphic url="huyg003oeuv06ill04.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0489"/>
+<meta type="date" value="1658-06-07"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0489">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Magnam ex vltimis tuis caepj voluptatem, tum quod me participem fecerunt <hi rend="i">ϰατασϰευῆς</hi> ad demonstrationem subtilis illius inuentj, pro quâ grates habeo maximas; tum praecipue quod confirmatam mihi significarunt valetudinem tuam, de quâ non frustra timueram. Vnum mihi molestum accidit, quod intellexerim te varijs negotijs occuparj: quam enim id communium studiorum nostrorum rationes conturbet, iam dudum reipsâ expertus sum. Debeo similibus tricis, quod hactenus affectum de medijs proportionalibus libellum, non absoluerim, quem ad Te mittere constitueram hyeme proxime elapsâ, sed otioso esse non licuit. Dabo interim operam vt aestiuis hisce mensibus absolutus censuram tuam subeat, saltem ante meum ex hac prouinciâ discessum. Abiturus enim sum, nisj aliud incidat, proximo Septembri in Italiam negotiorum publicorum causâ a Meis ablegatus. Sed quouis sub coelo positus debitum virtuti tuae testimonium reddam, meque obsequijs tuis quando ita iusseris, volens lubensque impendam. Accipe in antecessum <hi rend="i">ϰατασϰευὴν εἰς τὸν τοῦ ϰύβου Διπλασιασμὸν</hi>, quam ad alias datas non difficulter extendes. Datae sint AB, BC, in ratione duplâ; bisectâ BC in O, erigatur normalis OE aequalis AB, iunctaque AE producatur in H, ita vt aequales sint AE,
+<figure><graphic url="huyg003oeuv02ill97.gif"></graphic></figure>
+EH. bisectâque OE in F, eidem parallela ducatur CG. Tum circa diametrum AH describatur semiellipsis cuius vna applicatarum sit GC, et centro F interuallo FC arcus CKB, qui vtique Ellipsim secabit in puncto K, a quo sj cadat normalis KD, abscindet rectam BD minimam ex duabus quaesitis. Demonstratio nullo negotio elicitur ex ipsâ <hi rend="i">ϰατασϰευῇ</hi>. Itaque plura non addo, daturus breuj infinitas similes, vel saltem earum methodum, quam miraberis, scio, neminj hactenus occurrisse. Ornatissimum Juuenem Cosmum Brunettum, quocum mihi olim Romae et hic <placeName key="luik_001">Leodij</placeName> familiaritas intercessit, plurimum amo; cumque ab eo me diligj saepe expertus sim, vereor ne nimium affectuj indulserit in ijs sermonibus quos de me
+habuit. Sed recté accidit, quod eos Tecum habuerit, qui, si quid peccatum est, prudenter corrigere, et ciuiliter excusare noueris. Quod vt facias Te etiam atque etiam rogo. Vale Vir praestantissime.</p>
+<div type="closer">
+<p>Tui obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>VII Junij MDCLVIIJ</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

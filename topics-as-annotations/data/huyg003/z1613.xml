@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1613"/>
+<meta type="date" value="1667-12-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="doub005"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1613">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> 2 Decembre 1667.</p>
+</div>
+<p>Louée soit la bontè divine qui s'est laissee vaincre a la fin par les prieres de nos trois damoiselles<note n="#1"/>, vous voila pere d'un fils<note n="#2"/> et moy Peetoom<note n="#3"/> tout de bon. Ie vous en felicite de tout mon coeur et ma bonne soeur<note n="#4"/> et ma Tante<note n="#5"/> et tous ceux qu'il appartiendra. faites moy sçavoir s'il vous plait qui est ma commere s'il y en a, car c'est une honte que je l'ignore jusqu'a cette heure. Item quel nom vous aurez fait dire a l'oreille au Ministre et si le mien en est. I'ay annoncè la naissance du dauphin chez la Cousine Caron<note n="#6"/> qui vous remercie de vostre souvenir en cette occasion et vous souhaite que vous puissiez veoir le fils de son fils, amen.</p>
+<p>Il y a du plaisir a veoir quelle joye cause dans une maison ou il n'y a que des femelles la nouuelle d'un garçon mis au monde quoy qu'elles ne puissent pas esperer d'en profiter. Et je puis par la m'imaginer quelle aura estè celle des 3 pucelles, qui y trouuent leur compte d'une autre maniere, et qui doivent estre ravies en contemplant en vostre dauphin l'ouurage de leur supplications, je veux dire la piece qui le distingue d'avec leur semblables. Il me semble que je les vois au tour du feu lors qu'on l'amaliotte et que j'entens les bons mots qui se disent sur cette matiere.</p>
+<p>Touchant le moulin<note n="#7"/> j'attendray volontiers vostre commoditè pour en avoir plus parfaite intelligence. Ie crois quand vous rappelerez vostre memoire que vous vous souuiendrez assez de quelle facon il estoit fait pour tourner aisement au vent, mais a un homme a qui il vient de naistre son premier fils il est pardonnable s'il ne peut s'arrester a expliquer la mobilitè de la partie superieure d'un moulin. adieu. Ie vous baise les mains et a tous les vostres.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="doub005">de Moggershil</persName>
+<lb/>A la Haye</p>
+</div>
+</body>
+</text>
+</TEI>

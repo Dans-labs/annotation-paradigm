@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2655"/>
+<meta type="date" value="1691-01-01"/>
+<meta type="sender" value="bayl001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rotte002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2655">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Il y a longtems que i'ai pensé à vous demander l'explication d'une chose qui ne vous chargera d'ancune meditation, et ie suis bien aise d'avoir differé iusqu'à aujourdhui afin de pouvoir en meme tems vous souhaitter une bonne et heureuse année.
+Je vous la souhaitte, Monsieur, tres heureuse celle que nous commencons, et plusieurs autres consecutivement.
+pour venir à ma petite question voici ce que c'est.</p>
+<p>Comme ie n'ai iamais fait d'operation Astronomique, ie ne sai point avec quels instrumens on prend la paralaxe d'un astre, et comment on peut remarquer la difference entre <hi rend="i">le locum verum</hi> et le <hi rend="i">locum visum</hi> d'un astre, car dit on, <hi rend="i">locus verus</hi> c'est celui où la lune paroitroit correspondre au firmament si on la regardoit du centre de la terre: <hi rend="i">locus visus</hi> est celui où nous la voions correspondre au firmament.
+Je comprens fort bien que plus un astre est eloigné de la terre, moins doit on s'apercevoir de la difference entre son <hi rend="i">locus verus</hi> et son <hi rend="i">locus visus</hi>, mais je voudrois seulement savoir comment on sait que le <hi rend="i">locus verus</hi> de la lune, c'est a dire celui où elle paroitroit du centre de la terre, est là ou là, eloigné de tant et de tant de son <hi rend="i">locus visus</hi>.
+Vous voiez Monsieur que c'est là une demande de Novice qui ne vous coutera que 2 coups de plume, si vous avez la bonté de me la vouloir eclaircir à votre première commodité, comme vous en suplie tres humblement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre treshumble et tresobeissant seruiteur <persName key="bayl001">Bayle</persName>.</p>
+<p>A Rotterdam le 1. de l'an 1691.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

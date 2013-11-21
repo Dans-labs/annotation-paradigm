@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1524"/>
+<meta type="date" value="1666-03-19"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1524">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName>. le 19. Mars 1666.</p>
+<p>Monsieur</p>
+</div>
+<p>I'auois creu que nous aurions l'honneur de vous voir icy a l'entree de ce Printemps, &amp; que dans les conuersations que nous aurions pû auoir ensemble, nous aurions parlé de diuerses choses, mais comme je ne scay pas le temps auquel vous pourrez estre icy, je vous supplie de trouuer bon que je vous demande vn esclarcissement sur les figures que le Signor Giuseppe Campani a adioustees a la lettre<note n="#1"/> qu'il a escrite a Monsieur Cassini le 7. Octobre dernier. Ce sont quelques Phases de Saturne, dans la seconde &amp; troisieme il met l'ombre de l'anneau au dessoubs du centre du globe de Saturne, &amp; dans la 5. &amp; 6.<hi rend="sup">e</hi> il la met au dessus et par son discours il semble quil prend ces deux dernieres renuersees comme elles apparoissent par la Lunette. Ie voudrois bien scauoir s'il prend ces 2. &amp; 3. aussi renuersees; auquel cas il ne s'accorderoit point auec vous, qui les auez ainsi representees dans leur situation naturelle. Vous excuserez s'il vous plaist mon importunité.</p>
+<p>I'ay esté bien aise d'apprendre que vous auez faict vne Lunette beaucoup plus grande que vostre premiere qui double le diametre des objects, vous remarquerez auec des verres si parfaits ce que les Italiens ont descouuert l'annee derniere auec les Lunettes de Monsieur Campani. De temps en temps nous descouurirons dans le ciel plusieurs merueilles inconnues aux anciens.</p>
+<p>Monsieur Heuelius m'a escrit depuis peu que bientost il nous donnera la description<note n="#2"/> de la seconde Comete de l'an passé. Ie ne vous feray pas a present vn plus long discours de peur de vous ennuyer. Ie vous prieray seulement de croire qu'il n'y a personne qui soit plus veritablement que moy</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

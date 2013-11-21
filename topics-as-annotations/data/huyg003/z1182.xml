@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1182"/>
+<meta type="date" value="1663-12-14"/>
+<meta type="sender" value="peyr012"/>
+<meta type="recipient" value="chie002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1182">
+<div type="opener">
+<p>ce 14 Decembre.</p>
+</div>
+<p>Je vous suplie treshumblement, Monsieur, de presanter le papier<note n="#2"/> que ie vous enuoye, a Monsieur Huguens, sur lequel ie le suplie treshumblement aussy de ieter les yeux a quelque momant de son loisir, Et descrire a costé de chaque article. Jl est vray, ou, Jl est faux. C'est mon Pitagore. Jl me sufit qu'il die l'vn ou l'autre. Je vous enuoyeray querir demain matin la response que ie vous demande, par ce mesme porteur qui vous randra ce billet.</p>
+<div type="closer">
+<p>Vostre tres humble seruiteur etc. <persName key="peyr012">la Peyrere</persName> etc.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="chie002">Cheze</persName> etc.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0306"/>
+<meta type="date" value="1656-06-23"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0306">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce <date>23. Juin 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne suis pas malheureux d'auoir bien rencontré en vne partie de ceque Je vous enuoyay la derniere fois pour respondre a vostre question de la primauté du dé. Je me console de m'estre trompè dans le reste puisque cestoit le plus difficile. Je vous auoue que par ma maniere Je deuois conclure la raison d'egalité entre les deux Joueurs dont celuy qui à la primautè tire au 6. et le second au 7. auec deux
+dez. mais j'ay peine a comprendre pourquoy la composition de raisons ne compense pas les differens auantages de ces Joueurs. La soustraction des raisons feroit encor pis puisque vous me mandez que ces aduantages sont en moindre raison que de 7 a 6. et que Messieurs <persName key="ferm011">Defermat</persName> et <persName key="pasc001">Paschal</persName> ont trouué separément que c'estoit comme 30 à 31.
+Monsieur <persName key="carc010">De Carcaui</persName> vous enuoye l'extrait de la response que Monsieur <persName key="ferm011">Defermat</persName> Luy a fait sur vostre question, ou vous trouuerez dequoy vous exercer, je croy qu'aprez cette cy vous nous ferez bien la faueur de nous enuoyer vostre resolution &amp; demonstration, pour la faire voir a ces Messieurs. vous trouuerez en ce paquet des Lettres pour Monsieur <persName key="scho197">De Schooten</persName> que vous aurez la bonté de Luy faire tenir auec le traitté d'Analyse de Monsieur <persName>De Baune</persName> &amp; la methode<note n="#1"/> de Monsieur <persName>Le Pailleur</persName><note n="#2"/> pour resoudre les Equations cubiques par le Cercle et par la parabole sans les purger du plus haut degrè. Je vous les ay addressées pour vous les faire voir, vous priant de restituer l'hiatus du Chapitre 12. de l'Analyse<note n="#3"/> qui n'est que la suitte d'vn Exemple. Si J'eusse eu le loisir de lire ce traitté, que Je n'ay eu que deux
+heures en ma possession, J'aurois tentè de le faire, mais Je me suis attendu a vous ou a Monsieur <persName key="scho197">Schooten</persName>, qui m'a témoignè qu'il scroit bien aise de l'auoir promptement pour ne point retarder l'jmpression qu'il fait faire de la Geometrie de Monsieur <persName key="desc004">Des Cartes</persName> et des autres opuscules qu'il y doit joindre. Conseruez moy toujours l'honneur de vos bonnes graces et me croyez</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mylo002">Mylon</persName>.</p>
+</div>
+<p>Je n'ay point receu les Deux Liures que vous enuoyez pour Messieurs De Carcaui et de fermat, prenez la peine de me mander la voye et l'addresse dont vous vous estes serui.</p>
+<p>J'escris ainsi a Monsieur <persName key="carc010">De Carcaui</persName>.</p>
+<p>&nbsp;</p>
+<p>A Monsieur Monsieur <persName key="carc010">De Carcaui</persName> Conseiller au grand Conseil demeurant a l'hostel de Liancour.</p>
+<p>&nbsp;</p>
+<p>Monsieur <persName key="hobb001">Hobbes</persName> m'a mandè depuis vn mois qu'il estoit vray qu'il s'estoit trompè dans l'Equation qu'il fait de la parabole et d'vne Ligne droite, mais que son erreur n'estoit pas de sa Methode puisqu'il n'auoit pris qu'une ligne pour vne
+autre sur laquelle jl auoit fait sa construction. Il dit donc qu'il l'auoit ainsi corrigée.</p>
+<p>Soit vne parabole conique ABC, son Axe AD, sa base ou son ordonnée DC soit AD diuisée egalement en E; soit fait le rectangle CDEF, et soit EB l'ordonnée en E. Soit EG moyenne proportionnelle entre EF, et EB; tirant AG, GC. Il dit que AG + GC est egale a la parabole ABC.</p>
+<p>Je Luy ay enuoyé vne demonstration de la faussetè de cette construction nouuelle, L'ayant examinée presque de la mesme maniere que vous auiez fait sa premiere construction. Vostre 9<hi rend="sup">eme</hi> proposition de Circuli magnitudine semble auoir esté faite exprez pour estre la piere de touche de ces propositions. par le calcul J'ay trouué que
+<figure><graphic url="huyg003oeuv01ill150.gif"></graphic></figure>
+⅔ AC + ⅓ AK + ⅓ CD<note n="#4"/> est 481/36 ou 96200/7200 qui doit estre plus grand que l'arc AIC par vostre 9e proposition et partant aussi plus grand que la parabole ABC, et que AG + GC que J'ay trouué plus grande que 2699/200 ou 97164/7200. Donc 96200/7200 seroit beaucoup plus grand que 97164/7200 ce qui est faux.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">De Zulichem</persName>
+<lb/>A La haye.</p>
+</div>
+</body>
+</text>
+</TEI>

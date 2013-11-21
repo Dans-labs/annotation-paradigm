@@ -1,0 +1,70 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2815"/>
+<meta type="date" value="1693-08-10"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2815">
+<div type="opener">
+<p>ce 10<hi rend="sup">e</hi> aoust A Paris 1693.</p>
+</div>
+<p>C'est avec bien de la joye Monsieur que j'ai appris par vôtre lettre du 23 juillet le retablissement de vôtre santé. Je repondrai par articles à ce que vous souhaitez de moi, me faisant un vrai plaisir de pouvoir vous satisfaire.</p>
+<p>&nbsp;</p>
+<p>1<hi rend="sup">o</hi>. Vous demandez comment l'equation differentielle <hi rend="i">mdy</hi>=½<hi rend="i">ydm</hi>+½<hi rend="i">mdm</hi> se change en cette autre <hi rend="i">dn</hi>=½<hi rend="i">m</hi><hi rend="sup">-½</hi><hi rend="i">dm</hi>, en supposant selon la regle <hi rend="i">y</hi>=<hi rend="i">nm</hi><hi rend="sup">½</hi>. Vous n'ignorez pas que si l'on suppose en general <hi rend="i">y</hi>=<hi rend="i">n<hi rend="sup">a</hi>m<hi rend="sup">b</hi></hi>, on aura en prenant les differences <hi rend="i">dy</hi>=<hi rend="i">am<hi rend="sup">b</hi> n</hi><hi rend="sup"><hi rend="i">a</hi>-1</hi><hi rend="i">dn</hi>+<hi rend="i">bn<hi rend="sup">a</hi>m</hi><hi rend="sup"><hi rend="i">b</hi>-1</hi><hi rend="i">dm</hi>. Les exposans des puissances, <hi rend="i">a</hi> et <hi rend="i">b</hi> peuuent estre des nombres entiers ou rompus, positifs ou negatifs; d'ou il suit que dans nôtre supposition on trouve <hi rend="i">dy</hi>=<hi rend="i">m</hi><hi rend="sup">½</hi><hi rend="i">dn</hi>+½<hi rend="i">nm</hi><hi rend="sup">-½</hi><hi rend="i">dm</hi> et substituant ensuite à la place de <hi rend="i">y</hi> et <hi rend="i">dy</hi> ces valeurs dans la 1<hi rend="sup">re</hi> equation, il vient la 2<hi rend="sup">e</hi>.</p>
+<p>&nbsp;</p>
+<p>2<hi rend="sup">o</hi>. L'equation à la courbe dont il s'agit de trouver la quadrature est <hi rend="i">xx</hi>=<hi rend="i">aayy</hi>∓2<hi rend="i">y</hi><hi rend="sup">4</hi>/2<hi rend="i">aa</hi>. On aura par consequent <hi rend="i">x</hi>=<figure rend="inline"><graphic url="huyg003oeuv10fi165.gif"></graphic></figure>, et multipliant de part et d'autre par <hi rend="i">dy</hi> on trouve <hi rend="i">xdy</hi>=<figure rend="inline"><graphic url="huyg003oeuv10fi160.gif"></graphic></figure>. De sorte que la somme des <figure rend="inline"><graphic url="huyg003oeuv10fi160.gif"></graphic></figure>, qui m'est connuë par des regles particulieres, qu'il seroit trop long d'expliquer ici, me donne la somme des <hi rend="i">xdy</hi>, c'est-à-dire la quadrature de l'espace.</p>
+<p>&nbsp;</p>
+<p>3<hi rend="sup">o</hi>. Vous demandez la construction de la courbe dont la soutangente est <hi rend="i">x</hi>-<hi rend="i">y</hi>. Solution. Soit une logarithmique quelconque ABC, qui a pour asymptote la ligne DK, et pour une de ses ordonnees la droite AD, et pour soutangente perpetuelle
+<figure><graphic url="huyg003oeuv10ill150.gif"></graphic></figure>
+la constante <hi rend="i">a</hi>. Soit menée d'un de ses points quelconques B une parallele BF à DK qui rencontre AD au point E, sur laquelle soit prise la partie EF=DE×EB/<hi rend="i">a</hi>. je dis que le point F est à la courbe cherchée. Jl est à remarquer que si l'on mene les lignes AL, DL qui fassent sur AD des angles demi-droits; AL sera touchante en A, et DL coupera la courbe qui passe par tous les points F en deux portions HA, HD telles que la superieure HA a toutes ses soutangentes egales à <hi rend="i">y</hi>-<hi rend="i">x</hi>, et l'inferieure HD les a egales à <hi rend="i">x</hi>-<hi rend="i">y</hi><note n="#2"/>. Le segment DF est égal au quart du quarré de DE<note n="#3"/>, de sorte que l'espace entiere AHDA est égal au quart du quarré de AD. La distance du centre de gravité du segment DF à la droite DK=4/9 DE, et à la droite DA==4/9EF+4/27 DE<note n="#4"/>. Je puis aussi determiner les centres de gravité des solides faits par la revolution de ce segment tant autour de DK que de DA.</p>
+<p>4<hi rend="sup">o</hi>. Comme je n'ai point vu ce que Mrs. Neuton et Gregori ont trouvé pour les quadratures des lignes courbes, j'ai essayé si je ne pourois point venir à bout de celles qui sont comprises sous la formule que vous m'avez envoyé <hi rend="i">y</hi>=<hi rend="i">b x<hi rend="sup">r</hi></hi>×(<hi rend="i">x<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>)<hi rend="sup"><hi rend="i">m</hi></hi>, et j'ay trouvé deux suittes differentes qui donnent à ce que je pense tout ce qu'on peut souhaitter la dessus.</p>
+<p>&nbsp;</p>
+<list>
+<item>1<hi rend="sup">o</hi>: Suitte:</item>
+<item><figure><graphic url="huyg003oeuv10fi255.gif"></graphic></figure><figure><graphic url="huyg003oeuv10fi256.gif"></graphic></figure></item>
+<item><figure><graphic url="huyg003oeuv10fi257.gif"></graphic></figure>&amp;c.<note n="#5"/>,</item>
+</list>
+<p>&nbsp;</p>
+<p>il est clair que le nombre des termes de cette suitte est infini lorsque <hi rend="i">m</hi> est un nombre rompu, et au contraire que le nombre en est fini c'est-à-dire que la suitte est interrompue lorsque <hi rend="i">m</hi> est un nombre entier. Or je dis que dans l'un et l'autre cas la somme de cette suitte exprime la quadrature de l'espace, qui a pour abcisse la ligne <hi rend="i">x</hi> que l'on suppose donnée. Soit par exemple <hi rend="i">m</hi>=2, la quadrature sera</p>
+<list>
+<item><figure><graphic url="huyg003oeuv10fi258.gif"></graphic></figure><figure><graphic url="huyg003oeuv10fi259.gif"></graphic></figure></item>
+</list>
+<p>&nbsp;</p>
+<p>Car tous les autres termes seront chacun egaux à zero puisqu'ils se trouvent tous multipliés par <hi rend="i">m</hi>-2=0. On suppose dans cette autre pour abbreger <hi rend="i">x<hi rend="sup">n</hi></hi>+<hi rend="i">a</hi>=<hi rend="i">z</hi> et <hi rend="i">r</hi>=<hi rend="i">cn</hi>-1</p>
+<list>
+<item>2<hi rend="sup">e</hi>. Suitte:</item>
+<item><figure><graphic url="huyg003oeuv10ill226.gif"></graphic></figure><note n="#6"/>.</item>
+</list>
+<p>&nbsp;</p>
+<p>Il est clair que le nombre des termes est infini lorsque <hi rend="i">c</hi> est un nombre rompu, et qu'il est fini lorsque <hi rend="i">c</hi> est un nombre entier. Or je dis que dans l'un et l'autre cas la somme de cette suitte exprime la quadrature de l'espace: mais il faut observer d'en retrancher cette autre suitte.</p>
+<p>&nbsp;</p>
+<list>
+<item>3<hi rend="sup">e</hi>. Suitte:</item>
+<item><figure><graphic url="huyg003oeuv10ill227.gif"></graphic></figure></item>
+</list>
+<p>&nbsp;</p>
+<p>Soit par exemple <hi rend="i">c</hi>=2, on aura pour la quadrature,</p>
+<list>
+<item><hi rend="i">bz</hi><hi rend="sup"><hi rend="i">m</hi>+2</hi>/<hi rend="i">n</hi>×1/<hi rend="i">m</hi>+2-1/<hi rend="i">m</hi>+1<hi rend="i">az</hi><hi rend="sup">-1</hi> moins <hi rend="i">ba<hi rend="sup">m</hi></hi>+2/<hi rend="i">n</hi>×1/<hi rend="i">m</hi>+2-1/<hi rend="i">m</hi>+1.</item>
+</list>
+<p>&nbsp;</p>
+<p>On peut faire ici une remarque fort curieuse, savoir que la 1<hi rend="sup">re</hi> suitte<note n="#7"/> nous en fournit une infinité, dont le nombre des termes est infini et dont on a la valeur par le moyen de la 2<hi rend="sup">e</hi> suitte ce qui est reciproque.
+Mandez moi je vous prie si je suis tombé dans la regle de Mr. <persName key="greg030">Gregori</persName><note n="#8"/>, ou si cela n'est pas laquelle des deux est la plus simple. On n'a point ici le livre de Wallis de Algebra et ainsi vous me feriez un plaisir singulier si vous vouliez bien m'envoyer par la poste les inventions de Mr. <persName key="newt011">Neuton</persName> copiées de ce livre lorsque vous les aurez receuës et que vous en aurez fait faire une copie.</p>
+<p>5<hi rend="sup">e</hi>. La courbe de Mr. <persName>Bernoulli</persName><note n="#9"/> est geometrique lorsque la raison de BC à AC<note n="#10"/> est de nombre à nombre, et elle est transcendentale lorsque cette raison n'est pas de nombre à nombre. Ma construction suppose alors la quadrature de l'hyperbole, ce qui me paroist le plus simple dans ce genre. Je vous en ferai part quand vous le souhaiterez comme aussi de la maniere dont j'y suis parvenu ou vous verrez quelque chose d'assez curieux. Je n'avois point vû lorsque je vous ecrivis la dernière fois le journal de Leipsic ou Mr. <persName>Bernoulli</persName> avoit proposé son prob. Il l'avoit envoyé ici à un de ses amis pour en demander la solution à nos mathematiciens. J'ai receu depuis ce journal qui est du mois de May et j'ay esté surpris d'y trouver certaines choses touchant le probleme de Mr de Beaune<note n="#11"/> qui m'obligent à vous faire ici un petit destail. Lorsque Mr Bernouilli étoit à Paris il me vint voir et m'ayant dit qu'ils avoient fort travaillé son frere et lui sur l'inverse des tangentes, je lui proposé d'abord le probleme de Mr de Beaune, dont il est vrai qu'il m'apporta la solution quelque temps après qui n'étoit pas beaucoup differente de la mienne que je fis inserer depuis dans le 34.<hi rend="sup">e</hi> journal des Sçavans sous le nom de Mr G***, qui est la 1<hi rend="sup">re</hi> lettre de mon nom de baptesme m'appellant Guillaume et ayant des raisons alors pour cacher mon nom. Jl y a apparence que Mr. <persName>Bernoulli</persName> ayant vû dans
+vôtre lettre<note n="#12"/> que vous m'attribuyez cette invention et voulant avoir part à la gloire qui me paroist très petite, il s'est depesché de faire mettre dans les actes de Leipsic ce que vous y verrez. Mais ce qui m'a encore surpris davantage, ce sont ses parolles: curva autem AI<note n="#13"/> &amp;c. Car s'il a bonne memoire il doit se ressouvenir que je lui communiquai alors les dimensions de ces deux courbes<note n="#14"/> en revanche de ce qu'il m'avoit communiqué
+touchant la funiculaire, la voiliere<note n="#15"/> &amp;c. Cela me rendra à l'avenir plus circonspect à l'egard de certaines gens. Je n'ai pourtant pas laissé de lui écrire depuis pour me plaindre de son procedé qui me paroist fort irrégulier, et pour lui envoyer ma solution de son probleme afin qu'il la fasse inserer lui mesme dans les journaux de leipsic<note n="#16"/>, et qu'ainsi il ne s'avise pas d'insinuer qu'il m'en auroit fait part autrefois. En voila plus qu'il n'en faut sur ce sujet et si je n'etois persuadé que vous me faites l'honneur d'estre de mes amis je ne vous aurois pas fait tout ce destail qui ne peut estre qu'ennuyeux étant sur que ceux qui me connoissent sauront bien demesler la verité. Je vous suis fort obligé Monsieur de la peine que vous avez prise de mettre par ordre la regle inverse des tangentes de Mr fatio. Je ne l'ai pas encore examinée avec soin: mais à la 1<hi rend="sup">re</hi> inspection elle me paroist fort bornée et bien moins étenduë que celle dont je vous ai fait part car pour ce qui est de la soutangente de la conchoïde elle est si facile qu'il n'est besoin d'aucune methode pour la resoudre et
+d'ailleurs on suppose dans la mienne qu'on ait essayé auparavant si on ne peut point rendre tous les termes purs. Vous ne me parlez point de la regle que vous avez de Mr leibnitz<note n="#17"/> mandez moi je vous prie si elle est plus generale que la mienne, je serois bien aise aussi de voir de quel artifice vous vous servez pour rendre les soutangentes intraitables par nos methodes cela me serviroit peut-estre à la rendre plus generale. Je suis Monsieur avec toute l'estime imaginable vôtre treshumble et tres obeissant serviteur</p>
+<div type="closer">
+<p><persName key="hosp010">Le M. de l'Hospital</persName>.</p>
+</div>
+<p>J'ai de quoi éclaircir vos difficultez sur la feuille de Mr. <persName key="desc004">Descartes</persName><note n="#18"/> mais ce sera à la 1<hi rend="sup">re</hi> occasion.</p>
+</div>
+</body>
+</text>
+</TEI>

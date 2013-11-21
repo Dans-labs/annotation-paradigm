@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0501"/>
+<meta type="date" value="1658-07-22"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0501">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+<p>Nobilissime Vir,</p>
+</div>
+<p>Distuleram ad tuas<note n="#1"/> respondere, donec librum<note n="#2"/> Herlicij<note n="#3"/> à Domino <persName key="kech001">Kechelio</persName> accepislem, ut Tibi eum unà mitterem. Is autem, postquam Dominus <persName>Boddens</persName><note n="#4"/> Amstelo-Batavus, hinc Hagam, Te adeundi causâ, discessit<note n="#5"/>, à Domino <persName key="kech001">Kechelio</persName> mihi traditus est, non potui non, intelligens Te illius videndi desiderio etiamnum teneri, eum tibi quantò ocyus transmittere.
+Quod ad Problemata attinet à Clarissimo <persName key="boul014">Bullialdo</persName> huc missa<note n="#6"/>, quamvis non sine premij spe aliquis illa resolvere tentaverit in animum tamen illorum quaerendi solutionem nequaquam ducere possum, tum propter rationes à Te allatas, tum etiam eas, quas in litteris ad eundum Bullialdum attuli. Cumque eorum solutionis disquisitio homini penitus ocioso atque libero competat, ut illa intra praestitutum tempus solvat, atque etiam Autor se majora ijs editurum glorietur,
+non est quòd praeter levem aut dubiam premij spem laborem eò requisitum temerè quis (meo quidem judicio) sibi suscipiat. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Batavorum</placeName> die <date>22 Julij, 1658</date>.</p>
+</div>
+<p>Rogo ut has inclusas, ubi à Te erunt perlectae atque obsignatae, alicui è familia Illustrissimi Domini Legati tradere digneris, quò illae tutò Parisios quàm primum ad Clarissimum Bullialdum amandari possint. Iterum Vale, atque me amare perge.</p>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van de Heer <persName key="huyg001">van Zuijlechem</persName>, in S' Graven-hage op t' pleijn.
+<lb/>cito cito port met een bouck.</p>
+</div>
+</body>
+</text>
+</TEI>

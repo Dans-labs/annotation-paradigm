@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2522"/>
+<meta type="date" value="1688-05-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="voorb901"/>
+<meta type="recipientloc" value="hetlo001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2522">
+<div type="opener">
+<p>A Hofwijck<note n="#1"/> ce 4 May 1688.</p>
+</div>
+<p>Il y a 5 jours que je suis icy<note n="#2"/> dans mon nouueau menage, et que je tracasse depuis le matin jusqu'au soir a ranger un peu toutes choses en ordre en attendant que ma galerie s'acheve, ou mes livres et une partie de mes meubles trouveront leur place<note n="#3"/>. Je n'ay point fait de tour a la Haye pendant ce temps, ni je n'en ay receu aucune nouvelle, et fais ainsi mon premier essay de la vie solitaire dont il faudra que je tasche de m'accommoder. Ce qui me fait un peu de peine c'est d'estre seul a diner et a souper, quoy que j'aye cela de commun avec les testes couronnees.</p>
+<p>Quelques jours devant que de quiter vostre maîson j'ay receu de Madame vostre Femme les 4 mille livres dont vous m'estiez debiteur en vertu de nostre partage, en deduisant ce que je devois de la tenture de cuir dorè &amp;c. Je creus qu'il estoit juste qu'elle me mist aussi en compte ce que je vous ay coustè a nourrir avec un laquay pendant plus de 4 mois mais elle l'a rejettè bien loin m'assurant que vous l'en desavoueriez si elle en usoit autrement. Je vous demeure donc redevable a tous deux et vous remercie de tant de bons et agreables repas et d'avoir occupè si longtemps une des belles chambres de vostre logis.</p>
+<p>Mr. <persName key="gent015">de Gent</persName><note n="#4"/> me dit devant mon depart qu'il avoit receu des nouuelles de
+Mr. <persName>Graef</persName> qui est sur son retour, et qu'entre autres choses il luy mande que le Sr. Campani est en vie contre ce qu'on avoit debitè, et qu'il a achetè de luy pour le compte de Mr. <persName key="gent015">de Gent</persName>, mais assez cher, deux petites lunettes de poche. C'est Eustachio de divinis<note n="#5"/> qui est mort d'ou sera venu la meprise.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zuijlichem</persName>
+<lb/>Secretaris van sijn Hoogheijdt
+<lb/>Op de Loo.</p>
+</div>
+</body>
+</text>
+</TEI>

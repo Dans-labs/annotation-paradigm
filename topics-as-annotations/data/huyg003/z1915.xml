@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1915"/>
+<meta type="date" value="1672-12-16"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1915">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 16 Dec. 1672.</p>
+</div>
+<p>Vous voila en effect fort bien placè et dans la salle des Estats et dans vostre ville de Gorcum; mais je vous croiray encore bien mieux quand vous serez une fois delivrè de cette importune guerre. Cependant, d'autant plus de gens qu'il s'en meslera d'autant plus malaisè sera t'il d'y mettre fin, parce qu'il y en aura qui s'en trouveront bien, et que dans la paix chacun voudra trouver son compte. Voila la gelée qui depuis cette nuict commence icy tout de bon, et qui apparemment est desia plus avancée par de là. Sans doute la garnison d'Utrecht s'en prevaudra pour faire des ravages dans le païs, et je ne scay comment les villages voisins s'en pourront sauuer, sur tout si Monsieur le Prince ne ramesne pas l'armée.</p>
+<p>L'on dit icy ouvertement, que les troupes Espagnoles dont ils ont renforcè les garnisons dans les villes de Bolduc, Breda, 1'Ecluse et autres, y sont les maitresses et qu'on ne les en fera jamais sortir. Mandez moy je vous prie ce que l'on en croit chez nous; ce seroit une imprudence bien estrange, et cependant on dit que les Espagnols s'en vantent, et qu'ils pretendent d'avoir plus conquis par la que n'a fait le Roy de France.</p>
+<p>Il ne manque pas icy des gens qui forment des projects pour la France, de mesme que vostre Bourgmaitre de Worcum pour la Hollande, mais quoy qu'on n'y remarque pas des inconvenients, ce n'est pas a dire que dans l'execution il ne s'en trouvera point. Il seroit bien dangereux d'oster tous les imposts pour establir une façon nouvelle de lever de l'argent, dont on n'auroit point d'autre seuretè que la Theorie.</p>
+<p>L'on a mandè icy que le Sieur Labadie<note n="#1"/> avoit espousè une des damoiselles de Sommersdijc qui estoyent de son trouppeau. Je m'estonne que vous n'en parlez point si la chose est vraye, ce que je vous prie de me saire scavoir.</p>
+<p>Vous ne me dites pas de quelle sorte de chapeaux gris vous voulez. Je vous en envoieray de la moyenne sorte entre castors et ceux que l'on vend chez nous pour 7 ou 8 ℔, si ce n'est que vous me l'ordonniez autrement devant que je trouve occasion de les envoier. Je verray aussi si je trouue vostre fait pour ce qui est de la perruque. Mais ne risquez vous rien en faisant venir ces marchandises?</p>
+<p>Je crois qu'a ce soir nous pourrons esprouver nos lunettes de Rome<note n="#2"/>. Monsieur Cassini qui loge dans l'observatoire m'a dit qu'il a essayè celle de Campani de 36 pieds, dans Saturne, et qu'elle fait un effect merveilleux. Si celle de Divini est bonne qui est de 47 pieds ce sera encore bien autre chose<note n="#3"/>. Mon apartement dans l'obseruatoire sera bientost prest mais la saison n'est guere propre a s'y mettre. En esté il y fera tres beau.</p>
+<p>Par le prochain ordinaire j'envoyeray le Journal des Scavans<note n="#4"/> ou mon Invention de barometre<note n="#5"/> est descrite et les observations de Saturne<note n="#6"/> de cette année.</p>
+<div type="closer">
+<p>A <placeName key="parij001">Paris</placeName> le 16<hi rend="sup">e</hi> Decembre 1672.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

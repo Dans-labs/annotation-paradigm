@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXXVI"/>
+<meta type="date" value="1661-03-03"/>
+<meta type="sender" value="doub005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXXVI">
+<div type="opener">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Chr: Huijgens de Zuijlichem</persName>
+<lb/>a Paris.
+<lb/>de la Haije le 3 mars 1661.</p>
+</div>
+<p>Puisque vous allez faire encore un tour en Angleterre<note n="#1"/> auant que de retourner par deça, vous m'obligerez s'il vous plaist de bailler les choses que vous auez pris la peijne de m'achepter a Paris, empacquettees ensemble, a quelqu'un de nos marchands de la Haije qui sont a present a Paris pour faire emplette de nouelles nippes, comme Prangan ou van Heteren<note n="#2"/> qui est partij de la haije pour cet effet il ij a enuiron quinze jours, sans doutte. ils viennent quelque fois a l hostel de Messieurs les Ambassadeurs tellement que vous ne pourrez pas manquer d'en trouuer quelqun, s'il vous plaist seulement de donner ordre chez les ambassadeurs que quand quelqun d'eux ij vient qu'on vous l'envoije chez vous.</p>
+<p>C'est la à mon auis le plus seur et meilleur moijen de me les faire tenir, et vous en serez en mesme temps dechargé, je vous ay donné assez de peijne en vous chargeant de ces commissions, sans que j'embarasse encore vos coffres de mes hardes et vous suis infiniment obligé pour la faueur que vous m'avez faitte, je tacheray a vostre retour de m'en acquiter le mieux qu'il me sera possible, cependant je souhaitte auec beaucoup de passion de pouuoir trouuer occasion de vous rendre pendant vostre absence quelque seruice agreable icij.</p>
+<p>Je vous manday il y a quelque temps que j'auois rencontré le sieur Bouilleau a Amsterdam sur le point d'aller commencer son voijage de Pologne<note n="#3"/> cette semaine il est venu une lettre de luy a mons<hi rend="sup">r</hi>. l'Ambassadeur de France dattee de Lubec d'ou il deuoit partir le lendemain, tellement qu'il doit estre desia bien loin presentement.</p>
+<p>Pour nouuelles, le venerable mons<hi rend="sup">r</hi>. Chappuseau<note n="#4"/> se trouuant un peu trop importuné par ses creanciers s'est trouué obligé un de ces jours passez de se retirer subitement bij noorderson (comme l'on dit) au grand regret de beaucoup d'honnestes gens non pas pour l'amour de sa personne mais de l'argent qu'il auoit emprunté presque de tous ceux qui l'ont cognu. Je ny ay pourtant point de part dieu mercy. Monsieur <persName>Machaut</persName><note n="#5"/> qui est son Patron et qui l'a poussé a la fortune ou il estoit paruenu dit partout qu'il est allé faire un petit voijage en France pour y vendre quelque bien et a la poursuitte d'une pretension d'environ vingt mille francs. Vous pouuez juger ce qui en est qui l'auez cognu aussi bien que nous autres, Gueux de nud comme un rat.</p>
+<p>Ma femme se porte redelijckjes naer den [vleesche?<note n="#6"/>] Vous demeurez encore quelques quatre ou cinq mois dehors, sans incidans facheux et un malheur comme la premiere fois<note n="#7"/> vous pourrez voir s'il plaist a dieu a vostre retour a quoij nous auons estez occupez pendant vostre absence. de nouuelles particulieres de Galanterie de ce paijs il n'y a rien que je sache d'arriué depuis ma derniere gazette qui merite de vous estre escrit. tellement que je n'ay qu'a vous prier de me vouloir faire la faueur de me conseruer l'honneur de vos bonnes graces estant de tout mon coeur</p>
+<div type="closer">
+<p>Vostre tres humble et tres affectionné seruiteur et Frere
+<lb/><persName key="doub005">Ph. Doublet</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

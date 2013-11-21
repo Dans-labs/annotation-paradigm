@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1499"/>
+<meta type="date" value="1665-11-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1499">
+<div type="opener">
+<p><persName key="carc010">Carcavy</persName>.</p>
+<p>26 Novembre.</p>
+</div>
+<p>Qu'il me mande ce qui se fait dans mon affaire, et que j'attens tousjours les ordres du Roy.</p>
+</div>
+</body>
+</text>
+</TEI>

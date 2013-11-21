@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0163"/>
+<meta type="date" value="1653-09-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0163">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+</div>
+<p>Pater meus nuper rei Rusticae studiosus esse coepit variosque ejus rei conquirens autores, petijt quoque per literas à Domino <persName>Vorstio</persName><note n="#1"/> ut quos sciret ille hoc argumentum tractasse sibi enumerare vellet. Caeterum quia nihil dum responsi accepit, voluit haec tibi me scribere, ut cum ipsum videris mentionem facias literarum earum, ut quae morae causa sit rescire liceat. Utinam ne morbus tantum, quod sane veretur, quoniam semper alias amicum atque ad officia hujuscemodi promptum expertus est. Potueram Dominum <persName>Berkelium</persName><note n="#2"/> hac petitione ad te perferenda onerasse, quum mihi hesterno die adesset. Verum nihil minus quam de Re rustica tunc cogitavi. Referet hic tibi opinor de telescopij nova forma quam apud me reperit quam te quoque videre optarem. at de problemate fortassis exciderit, quod utrum solidum an planum esset dubitari posse dixi. Problema est. E dato puncto extra parabolam vel intra lineam ducere quae secet eam ad angulos rectos; cujus
+constructionem inveni, tuque facillime invenies, ita ut nullam sectionem conicam adhibere sit necesse, praeter eam quae data est parabolam. Andersonum<note n="#3"/> haec fugit construendi ratio, ideoque cum aequationem cubicam animadverteret, solidum problema esse dixit. at veteres videntur eam cognovisse, utique si Apollonium vitiosae in hoc compositionis causa Pappus reprehendit<note n="#4"/> propositione 30 libri 4, quod idem Andersonus existimat.</p>
+<p>Quid statuemus Schoteni Acutissime, res enim anceps est, et tamen in alterutram partem pronunciandum. Vale.</p>
+<div type="closer">
+<p><date>20 Sept. 1653</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

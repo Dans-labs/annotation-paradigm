@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0448"/>
+<meta type="date" value="1658-01-04"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0448">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>4 Januier 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous rends mille graces de l'honneur que vous m'auez fait en me donnant de vos nouuelles &amp; en me communicant l'obseruation que vous auez faicte de Saturne dont l'anneau commence a se faire voir plus large que nous ne le veismes l'esté dernier. J'ay pensé a vostre hypothese &amp; je trouue qu'elle peut subsister. Si je peux auoir du loisir je m'appliqueray vn peu a cette Theorie. Cependant je vous donne ma foy &amp; ma parole que personne ne verra &amp; n'aura communication de ce que vous m'auez fait l'honneur de me communiquer auec tant de bonté &amp; de courtoisie. J'ay a mon grand regret esté empesché par les nuees d'obseruer la derniere eclipse de Lune<note n="#2"/> a quoy je m'estois assez bien preparé. Toute l'automne y joignant la fin de l'este &amp; le commencement de l'hyuer a esté extraordinairement pluuieuse &amp; humide.</p>
+<p>Je feray mon possible pour apprendre si l'horologe auquel Monsieur le Grand Duc faict trauailler est accompagné d'vn pendulum, &amp; je tascheray d'en scauoir les autres particularitez. Ce grand Horologe dont vous me parlez sera beau a voir &amp; il deura estre bien juste. Si je retourne en Hollande je le verray.</p>
+<p>J'ay donné aduis en Pologne il y a 3. mois de la nouuelle inuention de vostre horologe, la Reine<note n="#3"/> ainsi que l'on m'escrit &amp; le Secretaire des Commandements<note n="#4"/> de Sa Majesté<note n="#5"/> ont donné ordre qu'on leur en acheptast. Sil s'offre quelque chose
+digne de vous je ne manqueray pas de vous en faire part. Je salue Messieurs de Leyden nos bons amis &amp; je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>Je salue Monsieur <persName>Bernard</persName><note n="#6"/>, je luy escriray a la huictaine.</p>
+<p>Je vous prie que vous ne me donniez pas la qualité de Bibliothecaire du Roy, car je n'ay pas l'honneur de l'estre.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Huygens</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0653"/>
+<meta type="date" value="1659-08-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0653">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Francisco Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.P.</p>
+</div>
+<p>Systematis mei Saturnij<note n="#1"/> duo exemplaria mitto alterum tibi Vir Clarissime, alterum Domino <persName>Bornio</persName>, ad quem nisi grave est deferri illud curabis. Addo autem et Slusiani mesolabi<note n="#2"/> bina alia, ut geometris horum intelligentibus si qui te adibunt ea impertias: nam hoc a me petijt auctor, pluraque in eum finem suppeditavit. Quod si vero et censuram tuam depromere super his volueris, facies illi rem longè gratissimam. Atque hoc etiam majorem in modum de meo hoc opusculo te rogo,
+quod facilius evolvere poteris cum nullae ibi sint geometricae demonstrationes quae te remorari possint. Ex commentarijs tuis Cartesianis<note n="#3"/> voluptatem indies, neque exiguam utilitatem capio; nuperque etiam constructionis illius ingeniosissimae Heuratij<note n="#4"/> ad flexum Conchoidis secretum perspexi, aliamque eadem arte multo faciliorem inveni, per circulum itidem et conchoidem ipsam quae data est. An brevi cum Huddenio ex Gallijs reversurus sit ex te scire cupio. Volumen alterum Epistolarum Cartesij<note n="#5"/> te vidisse opinor, quod nupere huc allatum est. Paucas tantum adhuc perlegi, sed autore suo dignissimas hoc est rerum ingenijque plenas. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comit.</placeName> <date>15 Aug. 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Myn Heer Myn Heer <persName key="scho197">Fr. van Schooten</persName>, Professor der Mathematijcken Tot Leijden.
+<lb/>Inde Heeresteegh.</p>
+</div>
+</body>
+</text>
+</TEI>

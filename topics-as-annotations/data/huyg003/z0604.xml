@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0604"/>
+<meta type="date" value="1659-03-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0604">
+<div type="opener">
+<p>Aan <persName key="carc010">Carcavy</persName>.</p>
+</div>
+<p>Bedancken. post. garen de andere bestellen<note n="#1"/>. en t compliment. dat Wallis iets praepareert.</p>
+<div type="comment">
+<head rend="h4">Traduction du sommaire</head>
+<p>Remercier. poste. je distribuerai volontiers les autres<note n="#2"/>, avec les compliments. Que Wallis prépare quelque chose.</p>
+<p>Reçu le contenu de Mylon<note n="#3"/>. Désire d'autant plus. à lui l'obligation.</p>
+<p>J'espère que Pascal et du Gast auront reçu mes lettres<note n="#4"/>. envoyé à Elsevier.</p>
+</div>
+<p>Contenu van Milon gekregen<note n="#5"/>. verlang te meer. aan hem de obligatie.</p>
+<p>Hoop dat Pascal en du Gast mijn brieven<note n="#6"/> onfangen hebben. aen Elsevier gesonden.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0603"/>
+<meta type="date" value="1659-03-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0603">
+<div type="opener">
+<p>A <persName key="boul014">Bouillaut</persName>.</p>
+</div>
+<p>Viens de recevoir<note n="#1"/>.</p>
+<p>Verwondert dat de glasen niet heeft ontfangen<note n="#2"/> of hij kan vernemen nae Pascal.</p>
+<p>Het horologe tot le comte de Briene<note n="#3"/>. Hanet.</p>
+<p>Guerre civile, Boileau<note n="#4"/> aen Briene, Pelisson.</p>
+<div type="comment">
+<head rend="h4">Traduction du sommaire</head>
+<p>Viens de recevoir<note n="#5"/>.</p>
+<p>Etonné qu'il n'a pas reçu les verres<note n="#6"/>. S'il peut s'informer de Pascal.</p>
+<p>L'horloge au comte de Brienne<note n="#7"/>. Hanet.</p>
+<p>Guerre civile, Boileau<note n="#8"/> à Brienne, Pelisson.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

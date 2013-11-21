@@ -1,0 +1,104 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2794"/>
+<meta type="date" value="1692-10-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2793"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2794">
+<p>29 Oct. 1692.</p>
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill121.gif"></graphic>
+<figDesc>Fig. I.</figDesc></figure></p>
+<p>Quadratura Hyperbolae per novam quadraticem ejus, quae uno ductu describitur.</p>
+<p>BA, AD normales; tangens CD semper aequalis AB.</p>
+<list>
+<item>CH HK CE ED</item>
+<item><hi rend="i">λ</hi>:<hi rend="i">ϰ</hi>=<hi rend="i">y</hi>:<figure rend="inline"><graphic url="huyg003oeuv10fi410.gif"></graphic></figure>; <hi rend="i">ϰy</hi>/<hi rend="i">λ</hi>=<figure rend="inline"><graphic url="huyg003oeuv10fi410.gif"></graphic></figure></item>
+<item><hi rend="i">ϰy</hi>=<hi rend="i">λ</hi><figure rend="inline"><graphic url="huyg003oeuv10fi410.gif"></graphic></figure></item>
+<item><hi rend="i">aϰ</hi>=<hi rend="i">λa</hi><figure rend="inline"><graphic url="huyg003oeuv10fi151.gif"></graphic></figure>, rejice <hi rend="i">ϰ</hi> et <hi rend="i">λ</hi>. Vel poterant</item>
+</list>
+<p>mutari ante in <hi rend="i">a</hi>, omissa multiplicatione per <hi rend="i">a</hi>.</p>
+<list>
+<item><figure rend="inline"><graphic url="huyg003oeuv10fi152.gif"></graphic></figure></item>
+<item><hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">aayy</hi>=<hi rend="i">yyθθ</hi></item>
+<item><hi rend="i">a</hi><hi rend="sup">4</hi>=<hi rend="i">yyθθ</hi>+<hi rend="i">yyaa</hi>; nostra Catenariae auxiliatrix cujus</item>
+</list>
+<p>dimensionem ad quadraturam hyperbolae reduxi in lib. G<note n="#3"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#4"/>.</head>
+<p><table>
+<row>
+<cell></cell>
+<cell>CE</cell>
+<cell>CK</cell></row>
+<row>
+<cell></cell>
+<cell>PA CD</cell>
+<cell>CH</cell></row>
+<row>
+<cell>Hic BP=</cell>
+<cell><hi rend="i">x</hi>. <hi rend="i">a</hi>-<hi rend="i">x</hi>:<hi rend="i">a</hi>=</cell>
+<cell><hi rend="i">ϰ</hi>:<hi rend="i">aϰ</hi>/<hi rend="i">a</hi>-<hi rend="i">x</hi></cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>CH</cell>
+<cell>CK PV</cell>
+<cell>PΩ</cell></row>
+<row>
+<cell>sit ut <hi rend="i">ϰ</hi>:</cell>
+<cell><hi rend="i">aϰ</hi>/<hi rend="i">a</hi>-<hi rend="i">x</hi> ita <hi rend="i">a</hi>:</cell>
+<cell><hi rend="i">aa</hi>/<hi rend="i">a</hi>-<hi rend="i">x</hi>=<hi rend="i">y</hi> hyperb.</cell></row>
+</table></p>
+<p>sed <hi rend="i">ϰ</hi> sunt aequalia ut et <hi rend="i">a</hi>.</p>
+<p>&nbsp;</p>
+<p>Ergo <figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure><hi rend="i">aa</hi>/<hi rend="i">a</hi>-<hi rend="i">x</hi> (spat. hyperb. BX<hi rend="i">Ω</hi>P):<figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure><hi rend="i">a</hi>(▭ VB)=<figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure><hi rend="i">aϰ</hi>/<hi rend="i">a</hi>-<hi rend="i">x</hi>:<figure rend="inline"><graphic url="huyg003oeuv10fi32.gif"></graphic></figure><hi rend="i">ϰ</hi>, hoc est ut curva CB ad BP rectam.</p>
+<p>&nbsp;</p>
+<p>Ergo si curva BC ponatur data, poterit ejus opera inveniri partium ejus longitudo rectae lineae aequalis<note n="#5"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#6"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill122.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p>ad experiendam veritatem curvae per logarithmos, sumatur quaelibet DP. sit PH parall. DG, secans arcum quadr.<hi rend="sup">is</hi> in H. ducatur recta DHF. fiat F<hi rend="i">β</hi>=FA. quaeratur logarithmus rationis AD ad D<hi rend="i">β</hi>, hoc est diff.<hi rend="sup">a</hi> logar.<hi rend="sup">orum</hi> AD et D<hi rend="i">β</hi> in tabulis; et ut 43420 ad dictam diff.<hi rend="sup">m</hi> ita sit AD ad aliam, cui aequalis sumatur HK ea debebit incidere in punctum curvae.</p>
+</div>
+<div type="section">
+<head rend="h4">§ IV<note n="#7"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill123.gif"></graphic>
+<figDesc>Fig. 3.</figDesc></figure></p>
+<p>AC Tractoria. asympt. BE.</p>
+<p>CL tangens.</p>
+<p>CK=DL.</p>
+<p>HF=CK. <figure rend="inline"><graphic url="huyg003oeuv10fi153.gif"></graphic></figure>.</p>
+<p>F est in circumferentia circ.</p>
+<p>Spat. HFGB=spat.<hi rend="sup">o</hi> infinito DCME<note n="#8"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ V<note n="#9"/>.</head>
+<p>Solidum ex conversione ejus spatij circum asymptoton erit aequale sphaerae quartae parti, cujus AD [voir la fig. 2] semidiameter. hinc et centri gravitatis distantia ejusdem spatij ab asymptoto habebitur, pendens a circuli quadratura. triangula quadrantis ADX circa AX revoluta considerantur quibus respondent singula Δ<hi rend="sup">la</hi> in spatio curvae et asymptoti conversa circa hanc ipsam<note n="#10"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ VI<note n="#11"/>.</head>
+<p>Superficies istius solidi infiniti, praeter basin, aequatur circulo cujus semidiameter duplum potest lateris AD [voir la fig. 2]. Suntque superficies ex portionibus circa asymptoton sicut abscissae ipsis respondentes ad verticem A<note n="#12"/>.</p>
+<p>Quia igitur portionum longitudo invenitur ipsius curvae opera Ergo et centra gravitatis ipsarum respectu asymptoti, et hinc superficies portionum ex conversione circa AX ad circulos redigentur.</p>
+</div>
+<div type="section">
+<head rend="h4">§ VII<note n="#13"/>.</head>
+<p><figure><graphic url="huyg003oeuv10ill124.gif"></graphic>
+<figDesc>Fig. 4.</figDesc></figure></p>
+<p>Talis quaepiam infinita spiralis describeretur si pes ductor per circuli circumferentiam iret, sequente cuspide ab A puncto; ductore in C.</p>
+<p>Et similis alia ducendo versus D<note n="#14"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

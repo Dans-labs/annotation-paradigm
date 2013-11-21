@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2728"/>
+<meta type="date" value="1692-01-10"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hanno901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2728">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Ma derniere vous aura esté rendue, ou j'ay repondu aux vostres; et je m'y rapporte; repetant les bons souhaits que j'ay faits.</p>
+<p>Maintenant j'oserois bien vous supplier de me faire la grace de faire tenir la cy-jointe à M. le Comte de Windischgraz Ambassadeur de l'Empereur, qui se trouve à la Haye.</p>
+<p>J'ay fait scavoir à Messieurs de Leipzig que vous pourriés bien leur faire l'honneur de leur communiquer quelque chose touchant la Musique, pour estre mis dans leur journal<note n="#3"/>.</p>
+<p>Je suis avec zele</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/><persName key="leib013">Leibniz</persName>.</p>
+<p>Hanover ce 31
+<lb/>de decembre vieux style 1691.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

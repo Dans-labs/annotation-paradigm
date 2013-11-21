@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1595"/>
+<meta type="date" value="1667-08-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1595">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 12 Aoust 1667.</p>
+</div>
+<p>Vous m'obligerez beaucoup a me mander des nouuelles comme vous faites, et je vous prie de continuer tousjours de mesme, car sans vous je n'apprendrois rien, ce qui me fait de la honte quand je vay veoir des gens de nostre pais, comme Madame de Buat<note n="#1"/> et autres, qui ont des correspondences tres reglees et scavent tout ce qui se passe chez nous.</p>
+<p>Je me suis fort enquis des remedes contre la rudesse de la peau des bras qu'on appelle icy peau d'oye ou de eu de poule, mais je n'en ay pas encore trouuè de particulier pour cela mais seulement pour rendre douce la peau des mains, que l'on dit encore pouuoir seruir a ce que Mademoiselle Cabeliau<note n="#2"/> demande. Je vous en envoie la recepte que m'a donnee une dame qui a les mains fort blanches et belles, et je souhaite que celles de la damoiselle susdite le devienent autant pour vostre satisfaction, car pour moy il y a peu d'apparence que je les touche jamais, et vous en devez estimer d'autant plus le soin que je prens.</p>
+<p>Quelle curiositè avez vous de scavoir comment se gouuerne nostre vefue<note n="#3"/>? et non pas vous seulement mais d'autres encore en nostre pais qui prennent la peine de s'en informer? Est ce qu'on en a desia mauuaise opinion? Je vous assure que tout va bien jusqu'icy, et quand je voudrois je n'en scaurois dire du mal. Je ne doute pas qu'elle ne souffre a l'avenir de grandes persecutions pour le mariage, estant assez bien faite et dans la reputation d'estre extremement riche, et mesme j'en scay desia quelque chose, mais je crois qu'elle se plait assez en l'estat ou elle est, pour ne se point haster de convoler. Mandez moy je vous prie ce que l'on dit d'elle et aussi de la Cousine<note n="#4"/> qui est icy.</p>
+<p>Si je croiois les damoiselles Rossum<note n="#5"/> encore a la Haye je vous chargerois de mes baisemains pour elles. Je veux esperer qu'elles auront trouuè qui les ayent
+mieux regalè, que je ne faisois il y a 2 ans, mais non pas de meilleur coeur et Mademoiselle Hendrina<note n="#6"/> ne me desauouera point.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

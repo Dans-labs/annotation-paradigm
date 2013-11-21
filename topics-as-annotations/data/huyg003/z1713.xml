@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1713"/>
+<meta type="date" value="1669-03-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1713">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 15 mars 1669.</p>
+</div>
+<p>Voicy le verre objectif que vous avez demandè. j'en ay fait faire plusieurs mais je trouve celuy cy, qui a desia servi a une lunette, beaucoup meilleur que ces autres. C'est pourquoy je vous l'envoie sans avoir esgard a ses bords rongez, car cela n'y fait rien, et il faut seulement avoir soin de la bien emboiter. Il pourra porter toute l'ouverture que sa grandeur permet qu'on luy donne. au reste il fera la lunette un peu plus longue, a ce que je crois que celle du Frere de Zeelhem, ce que vous pourrez essaier en vous servant de son tuyau, ou de celuy de mon Pere. Ayez soin je vous prie du Tè<note n="#1"/> qu'il puisse partir au plustost. le verre coute un escu. Adieu.</p>
+</div>
+<div type="para">
+<p>Pour mon frere Louis.</p>
+</div>
+</body>
+</text>
+</TEI>

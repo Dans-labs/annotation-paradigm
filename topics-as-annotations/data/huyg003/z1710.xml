@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1710"/>
+<meta type="date" value="1669-02-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1710">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 22 fevrier 1669.</p>
+</div>
+<p>Il n'y a pas de fort bon maistres icy depuis la mort de Menard en matiere de lunetterie, cependant je n'ay pas laissè de commander a son fils un verre objectif comme vous le desirez, et je vous l'envoieray dans une lettre comme le frere de Zeelhem m'en a envoiè<note n="#1"/> un des siens.</p>
+<p>Vous pourrez luy dire que je le quite pour ce qui est du petit oculaire que je luy avois demandè<note n="#2"/>, ayant trouvè quelque chose de meilleur<note n="#3"/> et de plus considerable en cette matiere, dont j'ay envie de faire moy mesme l'essay.</p>
+<p>I'ay mandè a Mon Pere<note n="#4"/> qu'il n'estoit pas necessaire de m'envoier la Cometographie<note n="#5"/> me contentant de l'inscription de l'autheur qu'il m'a fait avoir.</p>
+<p>Je vous prie de me faire acheter 1 livre de fort bon Te, et non pas tel qu'a estè
+l'autre, et de le bien enfermer, dans une bouteille de plomb ou de gros verre. C'est pour un de mes bons amis. Pour l'argent je vous assigne sur ma rente a vie. n'y a til pas moyen de l'adresser a Calais a Monsieur de Glarges? car c'est bien le plus court.</p>
+<p>Je vis avant hier le Ballet de Flore qui est bien beau. Il y avoit en mesme temps pour spectateurs 4 Iroquois qui sont venus icy de Canada pour veoir le païs. On dit qu'en estant revenus ils dirent que le diable fait bien de plus estranges choses icy qu'en leur pays. Et qu'au reste ils confessoient qu'ils n'avoit pas des yeux pour voir la beautè de ces choses ni d'esprit pour les comprendre ni de paroles pour en parler. Adieu.</p>
+</div>
+<div type="para">
+<p>Pour mon frere Louis.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1458"/>
+<meta type="date" value="1665-09-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="stock001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1458">
+<p>Sicut omnibus rebus ita et amicitiae officijs a te superor Heinsi Clarissime, qui nimis diuturnum silentium<note n="#1"/> literis tuis interpellandum censueris. Video equidem quam non validam excusationem hic mihi suppeditent in Galliam Brittanniamque nuperi excursus, cum jam diu inde domum reversus<note n="#2"/> hoc ipsum tibi significare debuerim. Verum utcunque ad haec segnis ac negligens, illud tamen tibi persuadeas velim, neminem vivere tui amantiorem aut qui istud ingenium tuum ac praeclara in rem literariam merita pluris aestimet.</p>
+<p>De Elegijs duabus fratris mei<note n="#3"/> una cum poematis tuis praelo committendis quod scribis, consului ipsum quid ijs fieri vellet. qui priorem<note n="#4"/> illarum, quam puerili pene aetate se condidisse ait, omnino premendam censet, idque adeo a te postulat: alteram<note n="#5"/> qualis est edi patitur, quippe quam alioqui non nisi una litura ait emendari posse. Claudiani tui<note n="#6"/> exemplar ab Elsevirijs<note n="#7"/> non accepi, sed quia ut daretur te mandasse scribis, prima quaque occasione ab illis exigam.</p>
+<p>De cometis nihil ego quod publicari mereatur conscripsi,<note n="#8"/> neque observationes meas tanta cura peractas dicere ausim, quam sunt aliorum quorundam jam editae ut Hevelij in Prodromo Cometico<note n="#9"/>, ac praesertim Auzotij Galli<note n="#10"/>, qui duo nunc inter se de palma hac in re decertant, etsi vereor ne inferior discedat Hevelius. Caeterum quia scribis amicos<note n="#11"/> te istic habere astronomiae studijs deditos, pauca haec, quae ex qualibuscunque observationibus meis colligere haud incerto ratiocinio licuit, adjungere visum est, quae chartae huic<note n="#12"/> seorsum inscripsi. Haec si videbitur illis imperties, ac mihi vicissim quae de eodem argumento illi commentati sunt. De Pareliorum observationibus non opus ut denuo te admoneam, video enim meminisse ac gaudeo.</p>
+<p>Vellem Nasonianas pro his tibi me rependere posse, sed nihil habet frater meus<note n="#13"/> quod non jam ante tu habueris, uti, instituta notularum suarum quas ex Hispania reportavit cum tuis notis collatione, se comperisse ait.</p>
+<p>Non ita pridem intellexi Cartesianae Philosophiae addictos, qui Lutetiae Parisiorum haud exiguo sunt numero, in honorem magistri sui marmoreum tumulum in locum lignei, quem olim <persName key="chan019">Chanutus</persName><note n="#14"/> sieri curarat, construendum decrevisse, jamque in eam rem sumtus contulisse, imo opus ipsum jam Holmiae faciendum locasse, quod an ita sit à nemine melius quam a te resciri posse credidi. Equidem gloriae tanti viri faveo, licet opiniones ejus non omnes, ut isti, amplectar, gaudeoque cum eximijs ingenijs quoquo modo à posteris gratia refertur. Vale Vir Praestantissime et me ama.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> 15 Septembris 1665.</p>
+</div>
+</div>
+<div type="para">
+<p>Myn Heer
+<lb/>Myn Heer <persName key="hein009">Nic. Heinsius</persName>.
+<lb/>Residerende van Wegen Haer Hoog Mogenden aen 't Hof van Sweden Tot Stockholm.</p>
+</div>
+</body>
+</text>
+</TEI>

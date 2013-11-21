@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XV"/>
+<meta type="date" value="1643-06-28"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="breda001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XV">
+<div type="opener">
+<p>Illustri domino meo
+<lb/>Domino <persName key="huyg001">Constantino Hugenio</persName> à Zuylichem et Munnick-land etc. S.P.D.</p>
+<p>Illustris Domine</p>
+</div>
+<p>Conveni quem jusseras doctorem linguae Gallicae<note n="#1"/>. probat et ille rationem docendi prae caeteris tibi probatam, ambulantibus videlicet, ludentibus, aliud agentibus ingerendus sermo istius gentis quae facilitatem, levitatem, volubilitatemque penè tripudiantis animi verborum atque oris quodam quasi torrente minimè salebroso, praefert. Operae tamen fore censet hic magister noster si subinde legatur scriptor aliquis tersus idem atque ad genium hodierni Gallorum idiomatis; tum in quo copia sit vocabulorum, phrasium, rerum obviarum simul et selectiorum. Garnieri colloquia<note n="#2"/> commendat unicè. Et fateor, quanquam judicium meum nauci est hîc maximè, illa mihi quoque hinc inde aliquid legenti, à stijlo, a varietate,
+à venustate perplacuisse. Sed procrastinabunt litterarij mei commilitones emptionem lectionemque Garnieri omniumque adeo autorum, usque dum tibi libebit sententiam tulisse de sententijs. Interim ductu viri hujus sanè eruditi, animis ingentibus, bonis avibus, Gallico fervore impetuque in Gallicae linguae studium incubituri...</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae-Com.</placeName> IV Kal. Quintil, MDCXLIII</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heere Mijn Heer <persName key="huyg001">van Zuijlichem</persName> Raed en Secretaris
+<lb/>van sijn Hoogheijt tegenwoordigh tot Breda.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1873"/>
+<meta type="date" value="1672-03-21"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1873">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 11<hi rend="sup">me</hi> Mars 1672.</p>
+<p>Monsieur</p>
+</div>
+<p>Puisque vous le voulez ainsi, ie continue de vous envoier les Transactions. Dans cet inprimé<note n="#1"/> vous trouuerez vne theorie nouuelle de Monsieur Newton<note n="#2"/>, (l'Inventeur du telescope Cata-dioptrique) touchant la lumiere et les couleurs: ou il maintient, que la lumiere n'est pas vne chose similaire, mais vn meslange de rayons refrangibles differemment et comme vous verrez amplement dan le Discours mesme. vous aurez la bonté de nous en dire vos pensees.</p>
+<p>Monsieur de St. Hilaire, qui est chez Monsieur l'Ambassadeur de France<note n="#3"/> icy, fait estat, à ce qu'on m'a dit, d'envoier promptement à Paris vn Telescope de la facon de Monsieur Newton: que vous examinerez à loisir. Peut estre que vous en trouuerez la charge trop grande ou le petit verre objectif<note n="#4"/> trop espais, pour des objects bien esloignez; en ce cas la vous vous servirez du remede, que vous conoissez<note n="#5"/>.</p>
+<p>J'espere, que vous aurez receu ma longue lettre du 12 Fevrier<note n="#6"/> auec le Nombre 79 des Transactions. C'est pourquoy ie seray plus court à present, quoyque parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulechem</persName>
+<lb/>dans la Bibliotheque du Roy a Paris.
+<lb/>46 β</p>
+</div>
+</body>
+</text>
+</TEI>

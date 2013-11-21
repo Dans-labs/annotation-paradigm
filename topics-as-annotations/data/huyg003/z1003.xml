@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1003"/>
+<meta type="date" value="1662-04-08"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1003">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Celuy qui vous rend celle-cy, Monsieur Colhans<note n="#1"/>, Docteur en medecine, s'en retournant en Allemagne, et souhaitant de pouuoir voir les personnes scavantes et curieuses de la Haye, i'ay crû devoir vous l'addresser, et vous supplier de le receuoir aucc la mesme humanité, que vous auiez la bonté de me tesmoigner, quand i'avois l'honneur de vous voir l'esté passé. Il sera tres aise de voir vostre Machine Pneumatique, et vos Lunettes d'approche; et s'il vous plaisoit de luy monstrer quelques vnes de ces Experiences, que vous auez communiquées à nostre Societé de Gresham, luy et moy vous en serions tres obligés. Entre autres, celles lá, que vous auez faites sur l'eau, qui ne descend point, et pour trouuer la pesanteur de l'air, et la vistesse de la cheute des plumes, le raviront. Je cheriray toutes les occasions, que vous me ferez naitre, pour vous temoigner ma reconoissance pour les faveurs, que ce mien amy recevra de vostre generosité. Touchant les choses, qui passent parmy nos Philosophes icy, ie scay que vous en auez de bien meilleurs advis par le moyen du Chevalier Mourray, que ie ne vous en scauray donner. C'est pourquoy ie ne vous diray rien de nouueau de ces quartiers icy; mais au lieu de cela ie vous feray part de ce que Monsieur Thevenot m'envoya de Paris, il n'y a pas long temps, touchant cette descouuerte<note n="#2"/>, dont, ce me semble, ie vous parlay
+l'esté precedent<note n="#3"/>. Apres auoir dit, qu'il fait estat d'en mettre le traité en meilleur ordre, il me dit en peu de mots, que toute cette descouuerte est d'un Mouuement dans l'air mesme par lequel il croit de pouuoir mieux expliquer la cause du mouuement du Punctum Saliens dans l'oeuf, du diaphragme, des poulmons, du coeur, du cerveau, que par les hypotheses qu'on en a données iusques à cette heure. Et il adjoute, que ce que luy en donne meilleure opinion, c'est que lors qu'on vient à expliquer la chose mesme mechaniquement, sans y employer autre agent que ceux, qui se rencontrent assurement en nous, l'on fait les diastoles et les systoles
+qu'on obserue dans ces parties, dont il vient de parler, auec toutes les circonstances, que nous y remarquons. C'est tout ce qu'il m'en mande, qui est assez imparfait: et peut estre qu'il vous en a desia communiqué plus de particularitez, comme aussi la machine, dont il se sert pour ce mouuement. Mais Monsieur Colhans vient justement pour me dire Adieu, et estant pressé ie suis obligé de finir abruptement, vous priant de vouloir croire, que ie suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tresobeissant seruiteur <persName key="olde010">H. Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 29 Mars 1662.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Huygens de Zulichem</persName>
+<lb/>à la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

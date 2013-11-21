@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0520"/>
+<meta type="date" value="1658-09"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0520">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Heri redditae sunt mihi litterae tuae<note n="#2"/> adeo lutulentae ac madidae vt non e pirâ veredarij, sed e palude potius eductae viderentur. Tempestas iam quidem in hyemem inclinat, et nos crebris imbribus per hosce dies vexauit; at nihil est ad tantam labem: Tuj enim Horologij exemplar ita passim corruptum est, vt honesté mittj non possit. Statueram illud substituere quo me donatum voluistj, sed metuj ne ipsa quoque ad Astronomum Siculum epistola<note n="#3"/> <hi rend="i">ϰατὰ συμπάϑειαν</hi> aliquid detrimentj cepisset, praesertim cum in rebus Astronomicis, vel vnius voculae aut numerj lapsus, sentum integrum interuertat. Atque etiam, si tecum iocarj liceat, veritus sum, ne inauspicato a Te abijsset, ideoque in Siculo mari naufragium faceret, quae in tantillo et quidem terrestri itinere, aquis pene obruta esset. Remisj itaque ad Te vt, ex vetere formula, de ea re censeas. Wallisij librum auidè expecto fruar enim benignitate tuâ, quando ita vis, et primâ commoditate remittam. Deliacum Problema breui tandem ibit in lucem. Expugnasti enim pertinaciam meam, qua nihil horum edere statueram cum perpetuo auribus insonarer Persianum illud Quis leget hoc? Vtinam, vel expectationi tuae respondeat, vel si nimis audax hoc votum est, a Te saltem non improbarj mereatur. Satis enim es mihj vnus, <hi rend="i">ϰαὶ πολλῶν ἀντάξιος ἀλλῶν.</hi> Vale Vir Praestantissime a</p>
+<div type="closer">
+<p>Tuo Tuique obseruantissimo <persName key="slus001">Renato Francisco Slusio</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

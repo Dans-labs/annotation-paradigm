@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0135b"/>
+<meta type="date" value="1652-11-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0135">
+<div type="opener">
+<p><persName key="scho197">Schotenio</persName>.</p>
+</div>
+<p>Epistolam tuam<note n="#1"/> ad Taquetium postridie ejus diei quo acceperam Antwerpiam misi ad Patrem Segerum a quo mihi Theses<note n="#2"/> advenerant. Laetor autem te <seg org="cas" resp="#AD" type="corr">eas</seg> satis legere potuisse. nam mea hercule culpa accidisset si potuisses minus. Vidi enim postea, oblitum me fuisse exemplar aliud earum quod seorsim à figuris et majori charactere impressum est priori jungere. At nunc potius videtur ut tuum adventum hic expectet siquidem ejus mihi spem fecisti. Ipse quoque ad Taquetium literas<note n="#3"/> dedi, non illud tamen quaerens quod de immersis humido subindicaram. comperi enim postea ex Galileo id desumptum esse. verum illud ipsum quod proposueram tibi; de vero ex falsis <seg org="cruendo" resp="#AD" type="corr">eruendo</seg>, de quo accuratè sanè respondisti. neque tamen ita mihi veritatem ejus positionis approbas, sed ad omnia quae in exemplum adfers invenio quod contradici possit. Nam ut à facilioribus ordiar; Illud quidem quod de Algebra suspicaris, nullo id facis ejus merito. Ea enim quid est aliud quam ratiocinatio hujuscemodi? Numerus exempli gratia quem quaero ter sumptus efficere debet 6. Ergo 6 per 3 divisum aequare eum debet. Quod autem signum quoddam vicem obit numeri quaesiti, illud sit brevitatis gratia, ne vocabulum (numerus) saepe rescribendum sit. adeo ut hic nihil videam statui quod falsum sit. Imo neque in Regula falsi, quam plurimum ad propositum facere arbitraris. Quia videlicet pro lubitu falsus numerus pro vero ponitur. Mihi autem videtur hoc nequaquam hic contingere. Nam quid aliud sibi vult ea regula, nisi ut bis aliquis numerus sumatur simpliciter atque is ita per omnia quae
+proposita sunt ducatur sicuti de inveniendo numero praescriptum est; atque ut deinde ex residuis quibusdam et excessibus per regulam proportionis numerus quaesitus eliciatur? nihil autem est opus ut assumptos numeros pro quaesito habeas, non magis quam signum, in Algebra de quo modo dicebam. Neque ad nomen falsi est attendendum, sed videndum potius quid agatur quam quid dicatur. De Syllogismo quem primò loco proposuisti priusquam respondeam, determinemus quid sit ex falsis verum directè elicere. si enim quis tali falsa utatur hypothesi: Quod omnis figura plana ad easdem partes
+cava, quae basin et altitudinem cum rectangulo parallelogrammo eandem habet, sit ejus parallelogrammatis subsesquialtera, atque ita porro demonstret, parabolam inscripti trianguli sesquitertiam esse. an ille tibi videbitur ex falso verum elicuisse. atque id intelligere putas Tacquetium? Minimè verò, nam alioqui satis inepta erit thesis ipsius, neque erit artis, vel mille exempla protinus ostendisse. ut si statuas lineam omnem alteri lineae incommensurabilem esse, ad quam majorem rationem habet quam sesquitertiana, atque ita demonstres diagonalem quadrati incommensurabilem lateri. Talia autem Tacquetium pro exemplis obtrudere velle nequaquam existimo. Sed tum ex falsis verum elici dicturum, quando posito falsô aliquo, tanquam si verum <seg org="esser" resp="#AD" type="corr">esset</seg>, aliquid veri ita demonstratur, ut persuadeat nobis ea demonstratio illud verum esse, licet semper id quod positum fuit falsum agnoscamus. Hoc autem in Syllogismo tuo non fieri facile animadvertis:</p>
+<p>Omnis lapis est animal. Omnis homo est lapis. Ergo omnis homo est animal. Ea enim dicendo non persuadebor quod homo sit animal, si antea nescivero. Archimedes autem ex falso verum elicuisse videri posset. Etenim ponens falsò quod omnia gravia parallelis lineis deorsum feruntur, (nam sine eo propositio 6 non subsistit) inde quadraturam parabolae elicit quae verissima est. Sed et hoc puto me diluere posse, etiamsi longiori sermone opus habet, ut et hoc quod de Astronologorum variis Hijpothesibus adduxisti. Expectabo autem donec ad nos excurras, ne nimium prolixa evadat epistola.</p>
+<p>De motu secundum id quod respondes, teneri mihi videris neque absurdum effugere posse. Si enim B corpus ipsius A duplum ut ponebamus feratur versus C; A autem duplo velociori motu ipsi impactum non adimit ut ais quidquam de celeritate
+<figure><graphic url="huyg003oeuv03ill83.gif"></graphic></figure>
+corporis B. Fateberis quoque, si A minus velociter ipsi B ut antea moto occurrat, multo minus adhuc posse corporis B celeritatem minuere.</p>
+<p>At si hoc concedis ut aequum est, quid igitur fiet si ponamus A cum dimidio tantum gradu celeritatis ferri, et B sicut prius cum gradu uno. Nihil enim celeritatis amittet B in occursu; ergo perget ferri versus A cum uno celeritatis gradu. Itaque A resiliet, sed quâ velocitate? certe majori quam dimidii gradus quâ venit, nam alioqui daretur corporum penetratio. at si majori, jam plus motus habebit quam antea. Et habet B quantum habebat ab initio. Igitur contra principia Cartesij plus erit motus post occursum duorum corporum quam fuerat antè. Quid adhuc sis responsurus impense audire desidero.</p>
+<p>Quod fidem mihi negasti cum de invento meo nupero te certiorem feci de cogendis radijs ad punctum unum qui ad aliud tendebant valde gavisus sum tum quod eo majoris momenti inventio visa est quam quod unam saltem aliquam occasionem nactus sum quâ possim damnosum istud praejudicium tibi exigere, quo ductus in Cartesij verba jurare non dubitas. Cujus quanquam ingenium divinum semper suspiciam, non tamen tantum tribuo ut non ea sine demonstratione saepe adfirmare est solitus, ad veritatis normam exigere utile credam. Quo id successu nunc fecerim
+demonstratio mea manifestum faciet quam tibi cum adveneris exhibiturus sum. Scito autem principium idem me servare in dioptricis quod ille de refractionibus felicissimè adinvenit. Vale, et fac ut te quam primum.</p>
+<p>&nbsp;</p>
+<p>7 Nov. do<note n="#4"/>. 1652.</p>
+</div>
+</body>
+</text>
+</TEI>

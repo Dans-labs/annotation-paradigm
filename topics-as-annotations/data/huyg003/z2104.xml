@@ -1,0 +1,113 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2104"/>
+<meta type="date" value="1677-09-30"/>
+<meta type="sender" value="rome049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2104">
+<div type="opener">
+<p>Illustrissimo Domino D<hi rend="sup">no</hi> <persName key="huyg003">Christiano Hugenio</persName> <persName key="rome049">Olaus Römer</persName> S.P.</p>
+</div>
+<p>Nudius tertius tradebantur mihi gratissimae Tuae literae, quibus indicare voluisti quantum pretii statuas conatibus meis circa inquisitionem motus luminis ex observationibús satellitis Jovis, quamque benigne de meis rebus pro more Tuo judices. Non possum dissimulare quod profundissimam inde sentiam voluptatem Tuamque illam epistolam exosculer tamquam maximum et sufficientissimum ejus inventi fructum qui unquam mihi poterit vel contingere vel speravi. Suscipe, quaeso, ejus negotii patrocinium, si Te dignum videatur libentissimo animo Tibi sit d.d. consecratumque. Meum erit quam primum fieri potest et observationes ipsas et reliqua quae ad eam materiam perficiendam spectant ita digerere et ad publicum praeparare, ac si Tuo unius Judicio esset satisfaciendum. Cui quidem si me probavero, omnium recte sentientium calculos obtinuisse gloriabor. Magnum quoque mihi erit laboris compendium suspersedere infinitis quae afferri necesse esset in eorum gratiam qui vel praeoccupati nolint vel inexercitati nequeánt astronomicorum ratiociniorúm momenta discernere. Interea istud diarii Gallici folium<note n="#1"/> quod petis transmitto. Quicquid ibi continetur in Academia est recitatum ejusque sub Auspicio Authori diarii traditum. Errores nihilominus calculi si qui sunt mihi soli sunt imputandi.</p>
+<p>Dominos Cassinum et Picartum quod attinet, quorum judicium de illa re cognoscere desideras, hic quidem plane mecum sentit. Ille vero dubitabat reponere causam illius irregularitatis in lumine, propterea quod non satisfaciat phaenomenis reliquorúm satellitum exteriorum. Cui dubio quamvis tum temporis debite me respondisse credam, nihilominus quod adhuc illud fovere videatur, meum responsum hic Tibi examinandum commendo.</p>
+<p>Obstacula quae impediunt quo minus tres exteriores satellites inquisitioni motus luminis inservire possint ad quatuor capita referebam.</p>
+<list>
+<label>I.</label><item>Immersiones et emersiones sunt rariores.</item>
+<label>II.</label><item>Momenta appulsuum ad umbram minus sunt praecisa et ob motum eorum lentiorem et quod ut plurimum oblique incidant in peripheriam umbrae.</item>
+<label>III.</label><item>Inclinationes et nodi eorum non tam sunt cogniti quin in obliquis in umbram incidentiis plurimorum minutorum interveniat discrepantia.</item>
+<label>IV.</label><item>In confesso est ipsos habere irregularitates nondum determinatas sive illud eccentricitas sit sive quaecunque alia causa quae observationes faciunt aberrare a theoriis D. Cassini<note n="#2"/> duplo vel triplo majori temporis spatio, quam est illud quod hic inquirimus et ex primo Satellite determinamus.</item>
+</list>
+<p>Haec quidem plus quam satis manifesta sunt in Tertio et IV.</p>
+<p>Sed de Secundo qui propiús accedere deberet ad regularitatem primi insuper notandum, eúm enormiter aberrare <hi rend="i">et in longitudine</hi><note n="#3"/> (sine dubio ob majusculam excentricitatem, meminique illum vel ¾ Horae calculum elusisse.) <hi rend="i">et in latitudine</hi>. Observavimus enim simúl ante 3 vel 4 dies D. Cassini et ego dictum secundum satellitem in semicirculo ulteriori fuisse infra primúm post emersionem utriusque ex umbra. Cum tamen debuisset ex theoria latitudinis fuisse supra quod satis novum accidit D. Cassini qui hucusque credidit omnium satellitum orbitas esse in eodem plano. Et si vel maxime hoc non esset, omnia tamen duplo ad minimum sunt difficiliora determinatu in secundo quam in primo.</p>
+<p>Quae si ita se habeant clarissimum est incognitas irregularitates trium exteriorum nihil derogare ratiociniis quae ex primi phaenomenis deducuntur, cujús frequentissimae revolutiones faciliús ad regulas revocantur ob hoc imprimis quod discus Jovis sensibilem orbitae ipsius primi partem occupet unde latitudines non impediunt quo minus ipse planeta transeat per medium umbrae ♃ vis.</p>
+<p>Et haec in causa sunt quamobrem relictis II, III et IV to ad meum negotium nihil subsidii sperem nisi a solo primo cui examinando me unice addixi. Cujus quidem laboris aliquam partem, ceu specimen, libenter transmitterem. Sed jam mihi non integrum fuit aliquid ordinati ex ea turba schedarum et calculorum excerpere. Concinnabo nihilominus brevem conatuum meorúm synopsin unde quando Tibi otium erit non difficulter dignosces a qua parte fundamenta ratiociniorum meorum appareant firma et a qua parte vacillent.</p>
+<p>&nbsp;</p>
+<p>Contuli et examinavi omnes observationes eclipsiúm Primi quas D. Picart vel solus vel mecum fecit inde ab anno 1668. Sunt vero plures quam 70.</p>
+<p>Ex illis vero excerpsi et comparavi intervalla Sequentia.</p>
+<p>Terra a Jove recedente inter Martiúm 1671. et Majum 1671.</p>
+<p>Terra ad Jovem
+<table>
+<row>
+<cell>acced. inter. Octobr. 1671.</cell>
+<cell>et</cell>
+<cell>Febr. 72</cell>
+<cell>Immers.</cell></row>
+<row>
+<cell>recedente. Mart. 72</cell>
+<cell></cell>
+<cell>Jun 72</cell>
+<cell>Emers.</cell></row>
+<row>
+<cell>acced. Nov. 72</cell>
+<cell></cell>
+<cell>Mart. 73</cell>
+<cell>Imm.</cell></row>
+<row>
+<cell>recedente April. 73</cell>
+<cell></cell>
+<cell>Aug 73.</cell>
+<cell>Emers.</cell></row>
+</table></p>
+<p>Terra recedente
+<table>
+<row>
+<cell>inter Julium 1675</cell>
+<cell>et</cell>
+<cell>Octobrem 1675.</cell>
+<cell>emersiones</cell></row>
+<row>
+<cell>acced. Maj. 76</cell>
+<cell></cell>
+<cell>Jun 76.</cell>
+<cell>immersioncs</cell></row>
+<row>
+<cell>reced. Aug. 76</cell>
+<cell></cell>
+<cell>Nov. 76</cell>
+<cell>emers.</cell></row>
+<row>
+<cell>acced Jun 77</cell>
+<cell></cell>
+<cell>Jul 77</cell>
+<cell>imm.</cell></row>
+</table></p>
+<p>recedente jam observata est tardatio emersionúm quamvis ultra □. futura sit sensibilior.</p>
+<p>Nec acquievi uni observationum pari sed út plurimum ex tribús vel quatuor simul bigis conclusionem meam formavi.</p>
+<p>Inventaque sunt per totum illud sexennium Temporaria emersionum intervalla Terra a Jove recedente productiora intervallis mediis. Immersionúm vero Terra accedente contractiora.</p>
+<p>Estque hoc verissimúm, non saltem de plurimis, sed de omnibús. modo intervalla sumuntur longiuscula. nam in brevioribus hallucinatio observationum et inconstantia aeris parvam differentiam reddunt insensibilem.</p>
+<p>Ita se habent observata et observationum universalis consideratio.</p>
+<p>Pro determinatione verò illorum 22 Minutorúm elegi imprimis observationes annorum 71. 72. 73. tum quod eo tempore habuerimús frequentiores, tum praeterea quod Juppiter anno. 72. existeret in suo aphelio sibi similis et in motu et in intervallo a Sole.</p>
+<p>Sed cum non tam mihi cordi esset hijpothesin astronomicam invenire quam cognoscere naturam motús luminis certitudine aliqua phijsica. inquirendum mihi erat num illa irregularitas aliunde posset provenire. In quem finem ex ipsis observationum circumstantiis sequentia demonstravi</p>
+<p>Scilicet irregularitatem illam</p>
+<list>
+<label>I.</label><item>non provenire ex anomalia ♃<hi rend="sup">is</hi></item>
+<label>II.</label><item>nec ex anomalia terrae seu aequatione temporis</item>
+<label>III.</label><item>nec ex configuratione reliquorum Satellitum cúm hoc ipso Primo</item>
+<label>IV.</label><item>Nec ex configuratione ☉ veluti in Luna</item>
+<label>V.</label><item>Nec ex motu latitudinis</item>
+<label>VI.</label><item>Nec ex Athmosphaera Jovis
+<lb/>(quae omnia satis patent ex eo quod nihil horúm commensurabile sit cum restitútione Terrae ad Jovem).</item>
+<label>VII.</label><item>Nec etiam quod palmarium est ex motú alicujus eccentricitatis orbitae ipsiús satellitis. nam eadem acceleratio et tardatio quae existit in appulsibús ad umbram in semicircúlo ulteriori etiam ad únguem observatúr in semicirculo citeriori tam in appulsibús ad limbum ♃<hi rend="sup">is</hi> quam in transitibús umbrae per discúm.</item>
+</list>
+<p>Haec quidem quoúsque valent in astruenda mora luminis ipse videris. Mihi certe apparet ejúsmodi hijpothesis veritatem non aliâ viâ posse impugnari quam si excogitetur aliquis aliús irregularitatis fons aeque ad minimum verisimilis cujus periodus aequalis sit ipsi restitutioni Terrae ad Jovem. quique aliquid habeat
+analogúm in reliquo mundi sijstemate veluti motús luminis analogus censeri potest motui Soni.</p>
+<p>Optandum quidem esset habere aliquam immediatam et positivam confirmationem hújús rei, sed, út recte monuisti in literis Tuis, nulla superesse via videtur. Nisi forte revolutio Jovis circa axem suum aliquam spem praebeat si modo macúla Cassiniana<note n="#4"/> in eodem ♃<hi rend="sup">is</hi> loco fixa remaneat. de quo tamen dubitare licebit, cum identidem evanescat et restituatur. Jam enim redux est a mense Julio, postquam per tres annos delituerit. apparet vero in eodem circiter situ respectu fasciarum et locús ejús non male in longitudine respondet calculo D. Cassini. Habeo vero observationes accuratissimas hoc mense Septembri conferendas cum illis quas venabor in Decembri Jove quadraturam praetergresso. Quae spes si non fallat, credo negotium confectum, nec ullum relictum locum dubitandi de mora luminis.</p>
+<p>Haec Domine est summa rei. Obtestor vero ut duobus verbis, quid sentias communicare digneris. ego quidem proxima occasione juxta ductum eorum quae admonueris reliqua particulariús prosequar. Dudum enim limites epistolae sum transgressús.</p>
+<p>Prosperrimam Tibi apprecor valetudinem Tuoque favori me impense commendo.</p>
+<div type="closer">
+<p>Parisiis ex observatorio 30 Sept. 1677.</p>
+</div>
+<p>D. Cassini ante aliquod tempús observavit nigredinem in Satellite Tertio transeunte per discum Jovis.</p>
+<p>Et ego una cum ipso eodem modo in transeunte quarto per discum vidimus nigrorem multo <hi rend="i">saturiorem quam</hi><note n="#5"/> est ipsarum umbrarúm. quod indicio est illos planetas maximam súi partem esse obscúros. de quarto testari possum partem ejús obscuram multo esse majorem quam claram. multoque nigriorem quam est úlla macula vel Jovis vel Lúnae plenae.</p>
+<p>&nbsp;</p>
+<p>Duo menses sunt ex quo Dominus <persName>Picartus</persName> et ego maximam temporis partem sumus Versaillis occupati libellationibus<note n="#6"/>. Octiduúm est quod ipse solus ibi agit. Iniquior valetudo me hic detinuit.</p>
+</div>
+</body>
+</text>
+</TEI>

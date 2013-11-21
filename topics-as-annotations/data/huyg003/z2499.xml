@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2499"/>
+<meta type="date" value="1687-10-25"/>
+<meta type="sender" value="coet007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2499">
+<div type="opener">
+<p>25 Oct. 1687.</p>
+<p>Nobilissimo et Amplissimo Domino Domino <persName key="huyg003">Christiano Hugenio Zuylichemio</persName>, Constantini F.S.P.D. <persName key="coet007">Henricus Coetsius</persName>.</p>
+</div>
+<p>Libenter fateor, Nobilissime et Amplissime Domine, me et singulari Tuae humanitati, qua me vice non una excipere dignatus es, debito serius respondere, et promissioni, quâ meam Tibi obstrinxeram fidem, ultra constitutum mihi diem demum satisfacere. Verum non vanum huic dilationi patrocinium quaerere me credes, si asserere ausim, partim labores Academicos, justum sibi exigentes tempus, zelo, quo, si quid possim, tibi inservire semper conabor, haud exiguam interjecisse moram; partim ipsam materiae quam hic aggressus sum, difficultatem vel improbissimum meum non semel elusisse laborem. Quanti enim momenti opus sit in re ardua et fere abscondita, aperta primarum difficultatum janua viam monstrare, et manifestantibus sese molestiarum tenebris lucem offundere, illis notum est, qui praeclara inventa ex ignorantiae abysso in lucem trahendo, sibi gloriam et orbi literato commodum pepererunt haud contemnendum. In quorum numero te nulli secundum esse, cum omnes uno ore exclament, quotquot sunt studii mathematici cultores facile veniam dabis, si non statim fidem datam liberaverim; praesertim cum ego in Praxi Analytica adhuc juvenis et inexercitatus tanto non polleam ingenii acumine, ut in hac materia, a nemine quod sciam vel obiter pertractata, oborientibus dubiorum nebulis discutiendis prima fronte me parum exhibere potuerim. Rem autem ipsam, quam pauca folia, quae hisce literis comites dedimus continent, uno verbo explicabo. Cum pro summa tua liberalitate mihi, nuper colloqui Tui honore gaudenti, aperte assere volueris inventum meum circa curvarum descriptionem scopo suo, cujus totam summam utilitas publica facit, non in totum destitui quidem, sed illum melius assecuturum, si eousque se extenderet, ut non tantum unum et alterum punctum in Curva assignaret, sed praeterea totius lineae ductum omni ex parte determinare et ob oculos quasi ponere posset: Illi exhortationi flagrantissimo accedente desiderio hanc difficultatem e medio tollendi, adeoque methodum meam
+ampliorem reddendi, nulli labori collum subtrahere volui; sed gravissimo huic oneri alacri animo subditis humeris, excogitando,
+delendo et iterum reponendo non unum consumsi diem, donec tandem remanserint illa, quae hisce paginis notata<note n="#1"/> Tibi transmitto et examinanda offero, cum hac petitione, ut si quid in iis occurrat censura et castigatione dignum, notare, et cum ipsis foliis (excepto primo) quorum Apographum temporum penuria mihi nunc non concedit, remittere velis; ut ea, si operae pretium fore judices, postea emendatiora, et nitidiora forsan ipse Tibi commendare queam.</p>
+<p>Vale Nobilissime et Amplissime Domine, et me Amoris Tui et favoris haud omnino indignum existimare velis honore, totis viribus rogo.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd: Batavorum</placeName> d. <date>XXV Octobris. CIƆIƆCLXXXVII</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

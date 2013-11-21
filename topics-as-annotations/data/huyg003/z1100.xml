@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1100"/>
+<meta type="date" value="1663-02-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="witt001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1100">
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName> <persName key="witt001">Johanni de Witt</persName>, Viro Amplissimo S.</p>
+<p>25 februarii 1663.</p>
+</div>
+<p>Explicationem tentans methodi illius compendiosissimae ad tangentes curvarum, quam tibi obiter nuper exponebam, difficilius aliquanto opinione mea negotium reperi, longiorisque operae; ut dubitarim etiam hactenus scriptone melius an coram haec tibi editurus essem. Sed illud denique elegi quod tibi acceptius fore arbitratus sum, atque haec quae vides<note n="#1"/> in chartam conjeci, miratus interim ipse, quae momento pene temporis cogitatione complecti ac singula persequi poteram, tot verbis, ut legenti plana fierent, opus habere. Caeterum paucioribus mihi defungi haud potuisse videor, si rem intricatam quatenus necesse erat elucidare vellem; vix etiam haec suffectura putans nisi tibi scripta essent. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

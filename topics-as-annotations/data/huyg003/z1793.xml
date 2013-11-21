@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1793"/>
+<meta type="date" value="1670-01-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1793">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 22 janvier 1670.</p>
+<p>Monsieur</p>
+</div>
+<p>Je crois avoir receu toutes les vostres, qui sont de l' 11 novembre, du 29 du mesme et du 27 decembre et je suis honteux de ce qu'il y en a tant, a qui je doibs response. mais l'incommoditè que j'ay eue pendant ce grand froid et quelques affaires survenues du depuis me peuuent excuser en partie. Il y a quelque temps que par le moyen de Monsieur Justel j'ay eu le traitè de Dioptrique de Monsieur Barrow<note n="#2"/>, qui fait voir egalement le scavoir et l'ingenuitè de son autheur, mais
+quoy qu'il semble avoir espuisè toute cette matiere vous verrez quelque jour que ce que j'en ay escrit est encore tout different. La difficultè qu'il a trouuee au probleme d'Alhazen touchant le point de reflexion aura fait que la solution que je vous en ay envoiée<note n="#3"/> luy aura pleu sans doute, si tant y a que vous la luy ayez communiquée. Pour ce qui est du Locus Imaginis, j'ose dire qu'il n'a pas bien rencontrè, et la difficultè qu'il se forme luy mesme a la fin, devroit l'en avoir adverty: faites moy scavoir s'il vous plait ce que vos Messieurs en jugent<note n="#4"/>.</p>
+<p>Si par occasion vous pouuiez m'envoier un echantillon du verre de Lambeth<note n="#5"/>, comme vous avez la bontè de m'offrir j'en serois fort aise, car a faute de trouuer icy de la matiere comme il faut, j'ay fait cesser le travail.</p>
+<p>J'ay fort considerè la machine de Monsieur Wren<note n="#6"/> et je croy que par son moyen on pourroit tailler des verres hyperboliques, mais que malaisement on leur donneroit la figure assez juste pour servir d'objectifs aux lunettes d'approche, scachant quelle perfection est requise pour cela par la difficultè qu'on a de former les verres spheriques dont la figure est si avantageuse au travail. Je ne scay ce qu'il aura trouuè par l'essay, mais je doute si on peut seulement bien doucir un verre qui ne touche contre la forme qu'en une ligne, ainsi que fait son hyperbole. Au reste la theorie de ces 2 fuzeaux, qui se perfectionnent l'un l'autre me paroit tout a fait ingenieuse et subtile.</p>
+<p>Le livre de Monsieur Wallis n'est pas encore arrivè<note n="#7"/> a ce que m'a dit Monsieur Justel depuis 2 jours. Il m'a prestè le petit traictè de Monsieur <persName key="boyl001">Boile</persName><note n="#8"/> du repos absolu en l'opinion du quel je n'ay point eu de peine a entrer, parce que j'avois desia la mesme. Seulement je n'oserois pas me fier tout a fait a ce qu'il
+dit du changement des taches dans de certaines pierres dures<note n="#9"/>, et il faudroit en cela des attestations tres authentiques et bien verifiées.</p>
+<p>Nos voiageurs pour l'Essay des Longitudes en Orient et Occident<note n="#10"/> ne sont pas encore partis, mais ce sera dans un mois d'icy. Il y a peu de raison de douter du succes apres que la chose a si bien reussi dans le dernier voiage<note n="#11"/> de Monsieur de Beaufort<note n="#12"/> en Candie, ou l'on a trouuè la Longitude, de plusieurs lieux de la mer mediterrannée, toute la mesme en allant qu'en venant: Et mesme redressè la route ou les pilotes s'estoient mescontez, croiants qu'ils alloient prendre terre en Catalogne, lors qu'ils n'estoient pas encore passez Toulon. Mais dans de vòiages de long cours les erreurs estant plus grandes, l'on verra aussi plus clairement l'utilitè de cette invention. Et il vaudroit bien la peine que chez vous aussi on en fit de nouuelles espreuues.</p>
+<p>Le Longitudinaire<note n="#13"/>, du quel on vous a escrit de Rouen, nous a proposè son invention fondée sur le mouuement de la Lune, mais il en scauoit moins que d'autres qui ont avancè cy devant le mesme moyen.</p>
+<p>Je n'ay rien entendu de l'horologe dans le vuide, mais seulement j'ay vu la description de celuy qui s'enferme dans une bouteille ou vaisseau de verre, ou il n'y avoit rien d'admirable; car l'air ne s'en ostoit point. Et je le crois assez difficile, parce qu'a moins que le vaisseau ne soit hermetiquement fermè l'air trouuera a la fin quelque entree. Je ne doute pas que Monsieur <persName key="boyl001">Boile</persName> ne ferme de cette maniere ses tuyaux ou il met de l'eau, ce que pourtant je seray bien aise de scavoir au vray.</p>
+<p>Ne cessez pas je vous prie de m'envoier vos Transactions, que vous devez croire que je lis avec plaisir comme je vous l'ay assurè cy devant<note n="#14"/>.</p>
+<div type="closer">
+<p>Je suis
+<lb/>Monsieur
+<lb/>Vostre treshumble et tresaffectionnè serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

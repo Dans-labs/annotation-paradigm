@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0861"/>
+<meta type="date" value="1661-05-30"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0861">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>je respons a vostre lettre<note n="#2"/> de Londres que je nay point receue, et je n'ay pu auoir appris par celle<note n="#3"/> que vous aués depuis escritte a Monsieur <persName>Conrart</persName>, que vous mauiés fait le mesme honneur, sans me croire obligé a vous en rendre treshumbles graces. Je vous auoüe que vostre apparent<note n="#4"/> m'auoit donné beaucoup d'inquietude et que n'ayant aucune nouuelle de vous j'auois esté fort en peine de vous. Et ce n'estoit pas tout a fait sans raison puisque vous vous estes ressenti<note n="#5"/> du mauuais air de ce Royaume là et que ses charbons ont aucunement alteré la bonté de vostre habitude; Heu fuge crudeles terras fuge littus auarum et reuenés prontement a vostre terre natale qui conseruera auec soin vne vertu qui luy fait tant d'honneur. Je n'oserois dire reuenés prontement a la nostre. Ce seroit a moy improba vota concipere, encore que ce païs cy ne vous ait pas esté barbare et que du moins il ne vous ait point fait de mal. Ce sera quand vous aurés satisfait a ceux de vostre Patrie qui ne vous estant pas ingrate merite que vous ne le luy soyés pas, et que vous luy laissiés jouïr quelque temps d'vn de ses ornemens les plus riches. Je n'ay point veu Monsieur <persName>Ampiou</persName><note n="#6"/> depuis vostre depart mais je suis assuré qu'il est pour vous tout ce que vous scauries desirer.
+Pour Monsieur <persName key="monm010">de Monmor</persName> il m'a cent fois demandé ce que je scauois de vous et si je n'auois point eu de vos
+lettres. On se souuient tousjours de vous en son Assemblée et vous y aués laissé vne odeur de probité qui durera autant qu'elle. Je me promets, Monsieur, que vous nous instruirés de ce que vous aurés trouué du Scauoir Anglois. On nous dit icy que les Doctes de Londres ont de grands desseins pour l'auancement des connoissances naturelles. Il semble que nostre Academie se reschauffe par l'emulation quils luy donnent, et que lon s'y veüille appliquer aux experiences preferablement a tout autre exercice, ou il n'y a que l'esprit qui ait part. Si vous trouués en arriuant ches vous quelque auis de nostre cher Monsieur <persName>Heinsius</persName> je vous prie que vos premieres despesches les portent, comme aussi de nous informer des Ouurages de consideration qui auront paru fraischement en vos quartiers. Rien ne fait icy de bruit que les Escrits des Theologiens sur la matiere de ceux de Jansenius<note n="#7"/>. Je voudrois que
+ces excellentes Plumes en eussent pris d'autres plus terrestres et moins eleuées. Le general des hommes y rencontreroit plus de profit et moins d'agitation. Mandés moy surtout si vous donnerés bientost vostre Traitté du Pendule amplifié et s'il vous est venu quelque chose à l'esprit sur vostre Saturne qui serue a vous confirmer dans vostre si raisonnable opinion. Soit sur ce sujet la soit sur d'autres il ne faut demeurer en si beau chemin et vous deués au Public tout ce que vous estes capable de luy donner pour son instruction et pour ses auantages. C'est en son nom que je vous en sollicite. et je diray mesme au nom de vostre gloire, car pour mon regard quand je ne verrois jamais rien de vous que ce que j'en ay veu, i'en serois pleinement satisfait et il me suffira tousjours que vous conseruiés vostre genereuse amitié</p>
+<div type="closer">
+<p>Monsieur
+<lb/>a Vostre treshumble et tresobeissant seruiteur <persName key="chap002">Chapelain</persName>.</p>
+<p>De <placeName key="parij001">Paris</placeName> ce <date>30. May 1661</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christianus Huygens</persName> Gentilhomme Hollandois. A La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

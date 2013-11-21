@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2079"/>
+<meta type="date" value="1675-11-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2079">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 23 Nov. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je n'ay que ce moment pour vous dire que je viens de recevoir vostre dernier pacquet ou sont vos Transactions et en mesme temps la responce de Mil. Brouncker<note n="#2"/> a la lettre que je luy avois escrite<note n="#3"/>. J'attens avec impatience ce livre de Mr. <persName key="hook001">Hooke</persName><note n="#4"/> pour voir de quelle nouvelle extravagance il aura usè a mon endroit et s'il vaut la peine que j'y responde
+<lb/>C'est a<note n="#5"/> de satisfaction de ce que<note n="#6"/> paroi
+<lb/><note n="#7"/> di<note n="#8"/> de la justice de ma<note n="#9"/>. Je mis avanthier la montre d'or entre les mains de Mr. <persName key="cham003">Chamberlain</persName> gouverneur de mil. Herbert afin de la donner a un nommè Mr. <persName>Ken</persName><note n="#10"/> qui devoit partir hier pour Angleterre, m'ayant assurè qu'elle seroit fidellement adressee. J'y ay joint une lettre<note n="#11"/> ou il y a quelques instructions pour l'usage. Mons. <persName>d'Alencè</persName><note n="#12"/> m'a dit qu'il me donneroit dorenavent les Transactions, que vous luy envoieriez, apres les avoir lues, pour me les laisser joindre a mon recueil. de sorte qu'il ne sera pas necessaire de m'en faire un paquet à part. A celuy que j'ay receu ce matin on avoit attachè l'autre qui estoit pour luy et on m'a fait encore la mesme chose cy devant me faisant payer le port de tous les deux. Cela est de peu
+d'importance, mais il ne faut pas donner lieu a la tromperie de ces gens de la poste qui sachant que M. d'Alencè ne paye rien de ses paquets se sont avertis de m'en charger. Ce professeur Espagnol<note n="#13"/><note n="#14"/>
+<figure><graphic url="huyg003oeuv07ill85.gif"></graphic>
+<figDesc>No. 1 (p. 545).</figDesc></figure>
+vous<note n="#15"/> paroit estre un observateur peu<note n="#16"/> pendules ne doivent pu estre des meilleurs<note n="#17"/> observations et celles de nos Mrs. Picard et Cassini s'accordent parfaitement quant à l'inegalitè des jours a ce que j'en ay defini dans la table<note n="#18"/> qui est dans mon livre de Horolog. Oscil. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">Grubendol</persName> A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

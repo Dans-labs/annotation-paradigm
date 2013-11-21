@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1566"/>
+<meta type="date" value="1666-12-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1566">
+<div type="opener">
+<p>a <persName key="huyg008">Louis Huygens</persName>.</p>
+</div>
+<p>Vous ne me feriez pas des reproches de ce que j'escris si peu souuent, si vous scaviez combien le temps passe viste en cette vie Parisienne, surtout a des gens qui ont un peu d'occupation et un peu de paresse comme moy, qui d'ailleurs apres ma maladie n'ay cherchè qu'a me bien remettre en travaillant le moins qu'il m'a estè possible. Je vous croyois encore tous deux a Zuylichem occupes a la reparation des digues et de la Teste.</p>
+<p>Il faut qu'a propos de cela, je vous propose une nouvelle maniere de bastir ces Testes, que j'ay trouvée dans un autheur Italien nouvellement imprimè<note n="#1"/>, et qui
+dans la Theorie ne semble pas mauvaise. Soit <formula>ABCD</formula> la Riviere et le courant de <formula>D</formula>
+<figure><graphic url="huyg003oeuv06ill21.gif"></graphic></figure>
+vers <formula>C</formula>. Vous scavez que voulant faire une Teste en <formula>B</formula>, on la fait toujours en biaisant suivant le cours de l'eau comme <formula>BE</formula>. Mais mon autheur soustient, qu'il faut la placer tout au contraire comme en <formula>BF</formula>, par ce que l'eau courant avec vehemence le long de <formula>BE</formula> dans l'ancienne maniere. mange necessairement et emporte le fonds de la Riviere le long de <formula>BE</formula>, et aussi la terre dont la teste est en partie compofée. Au lieu qu'estant estendue en <formula>BF</formula>, l'eau n'y aura presque point de mouvement par ce que son cours est tout a fait rompu. Il me semble qu'il ne raisonne pas mal, et il vaudroit peut estre la peine de l'essayer, ce qui jamais n'a estè fait chez nous comme je croy.</p>
+<p>Mandez moy quel en est vostre sentiment.</p>
+<div type="closer">
+<p>A <placeName key="parij001">Paris</placeName> ce 3<hi rend="sup">e</hi> Decembre 1666.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

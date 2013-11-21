@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0001e"/>
+<meta type="date" value="1639-09-08"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="e0001">
+<div type="opener">
+<p>Magnifico Domino meo, Domino <persName key="huyg001">Constantino Hugenio</persName> Equiti etc. S.P.D.</p>
+</div>
+<p>Quam mihi rescribendam nuper praescripseras, Anomaliam nominis, singulis descripsi, illustris Domine. Tertium nunc diem in hisce legendis, relegendis, nec exiguam partem ediscendis, cum limatissimo denique Vossio comparandis, meo ductu occupantur. Quae ubi semel, iterumque cum curâ perlustrata erunt, alijs facilè et tute, studijs bonas horas concedent; modo binae sibi, aut omnino ternae, hebdomadum horae relinquantur. Prosodiam etiam nunc, post tot repetitiones, leviter percurrendam, hisce diebus necessum esse animadverti; verum id, ut necessarium, ita perutile, bidium solum, vel tridium, negotium fuit. Rhetoricam Analijsin ad V nunc Eclogam perduximus. Atque ex IV hisce Eclogis, aliquam jam Troporum juxta ac schematum notitiam nobilissimi commilitones sibi peperere: Eam certè, ut magis haud paulo temporis solius primae, quam trium deinceps consequentium, Analijses poposcerint: Plurima quippe quae saepe, ut fit, recurrunt jam ex primâ cognoverant. De Poësi equidem Constantinum (adolescentem quem profecto difficillimum est laudare, quia, ut merito laudari debet semper ita satis nunquam potest) non depraedico; neque quid dicerem, aut quomodo, nisi plus longe tacerem, non me Hercule excogito: Prope adest cum solâ eum aetate anteibo, pluresque annos duntaxat numerabo et hiemes exactos. Nemo, nisi ipse, dicere eum queat: loquatur ipse, loquatur ejus de Daedalo carmen, erectum Musae atque elegans; loquetur propediem, hoc etiam elegantius de Trojae excidio epigramma. Christianulo autem meo, quid infortunij acciderit, quae eum mala crux agitet, equidem assequi nequeo. Non deest ei ingenium, quid ingenium? si maxime non tam promptum, expeditumque ac illud Constantini, at sanè non minus; nec desunt auxilia tijronibus ferè requisita, nec mea deest, sicubi opus, in quantitatibus designandis, opera; non desunt crebrae exhortationes, monita, nec fratris denique quod generosum animum stimulet, deest exemplum, interim,
+nescio quo fato, ne unum quidem, ut, ut, summopere adnixus, versiculum exsudare potest. Quid ego hic? non urgeo, non obtundo, non molestus sum; cogere enim ingenios ut inhumanum, sic ad carmina propellere, et versus extorquere velle, id vero non insanum minus quam Tijrannicum puto. Si quid est, quo calcar ipsi majus addi queat, quaeso famulum me tuum, ad omnia paratissimum, tuo ne dedigneris imperio: Tuo consilio meae subveni infantiae, atque ruditati, Virorum Maxime cujus incomparabile judicium pariter, et eruditionem supra mortales, prius
+defessi sunt homines laudando (usurpabo illud Sallustij ad Caesarem) quam ipse gloriâ digna, omni praedicatione, literis, monumentisque decoranda, faciundo. Bene vale, Vir Illustris, ut valeant optimè omnes boni; et</p>
+<div type="closer">
+<p>Virtutibus, famaeque Amplitudinis Vestrae Devotus
+<lb/><persName key="brun004">Henricus M. Fil. Bruno</persName>.</p>
+<p><placeName key="denha004">Hagae-Com.</placeName>
+<lb/><date>VI Idus Septembr. CIƆIƆCXXXIX</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

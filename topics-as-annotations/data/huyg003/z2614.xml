@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2614"/>
+<meta type="date" value="1690-08-29"/>
+<meta type="sender" value="spen020"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2614">
+<div type="opener">
+<p>Vir Excellentissime</p>
+</div>
+<p>Cum Illustrissimus Comes servum miserit, qui mihi indicaret, me admodum desiderari, non potui promissis stare, ideoque si non incommodum sit vesperi hora quinta adero, et tum forsan plus nobis temporis suppetet. Interea te etiam atque etiam valere precor.</p>
+<div type="closer">
+<p>D. 29 Augusti A. 1690.</p>
+<p><persName key="spen020">Joh. Jacob Spener</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

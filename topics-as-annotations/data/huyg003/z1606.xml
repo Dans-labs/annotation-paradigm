@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1606"/>
+<meta type="date" value="1667-10-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1606">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 14 Octobre 1667.</p>
+</div>
+<p>Puisque vous voulez encore adjouter<note n="#2"/> ces 50 ℔ a Monsieur Severijn, soit. Voici ma quitance, si je ne l'oublie. Pour ce qui est de luy procurer icy du debit de ses ouvrages, cela n'est pas si aisè. premierement par ce que le nombre des Pendulifices s'est multipliè icy, et que l'on y travaille pour le moins aussi bien que chez nous. Et puis les malheurs qui arrivent en chemin, et les reproches qu'on me fait, quand les ouurages ont quelque imperfection, m'ostent l'envie d'en faire venir.</p>
+<p>Mandez moy je vous prie si vostre petite lentille est assez polie, pour n'avoir besoin de la frotter sur le papier avec le Tripoli, car alors la maniere seroit fort bonne. Ie me souuiens tousjours de celles que <persName key="spin003">le Juif de Voorburg</persName><note n="#3"/> avoit dans ses microscopes qui avoient un poli admirable quoy qu'il ne s'estendit pas par tout le verre.</p>
+<p>Ie verray ce que je pourray faire avec Monsieur de Carcavy, pour ce qui est du livre d'Aldrovandus<note n="#4"/> qu'il n'a pas encore eu le loisir de chercher parmy ses livres qui sont comme je vous ay desia dit entassez dans une chambre.</p>
+<p>Je seray fort aise de faire plaisir, si je puis a Messieurs Ryckert<note n="#5"/> et Pergens<note n="#6"/>: jusques icy je n'ay pas appris leur arrivée<note n="#7"/>.</p>
+<p>L'on n'a jamais parlè de faire venir icy Campani ou Divini<note n="#8"/>, par ce que nous croions pouuoir faire aussi bien et mieux qu'eux pourveu qu'on nous fournisse du verre qui soit comme nous le souhaitons.</p>
+<p>Il faudra bien pourtant faire venir quelqu'un de leur meilleurs verres objectifs ce que je n'auray point de peine a obtenir.</p>
+<p>Ie recommande encore mes cornalines<note n="#9"/> au frere Louis s'il n'en a pas encore fait emplette, et qu'elles soient de la couleur comme je les ay demandees. Il y a un orfevre au bout du Speustraet qui en estoit tousjours pourveu.</p>
+</div>
+</body>
+</text>
+</TEI>

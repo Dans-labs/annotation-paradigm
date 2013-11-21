@@ -1,0 +1,110 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2447"/>
+<meta type="date" value="1686-12-05"/>
+<meta type="sender" value="hire005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2447">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> a l'Obseruatoire le 5 Decemb. 1686.</p>
+<p>Monsieur</p>
+</div>
+<p>L'on trauaille presentement a l'impression des collections dont ie uous ay donné auis<note n="#1"/> et iay commencé par le traitté des Exclusions de Mons. <persName key="fren024">Frenicle</persName>, ie mettray ensuite un petit ouurage de Mons. <persName key="robe012">de Roberual</persName> des mouuemens composez<note n="#2"/> iay cru deuoir mettre ces deux ouurages les premiers comme leurs auteurs sont aussi morts les premiers de nostre compagnie, et comme ie nay point douurage entier de deffunt Mr. <persName key="pica018">Picard</persName> ie ne uoudrois mettre les petites pieces que ien ay qu'apres ce que uous aurez la bonté de menuoyer car quoyque uous ayez donné beaucoup de choses tant de Mathematique que de Physique dans nos registres ie ny prendray rien que ce que uous me marquerez, et iaymerois beaucoup mieux que uous uoulussiez bien faire faire quelques coppies de ce que uous auez et que uous souhaittez inserer dans ce recueil auec les changemens et augmentations telles quil uous plaira, ie suiurois exactement la coppie que uous m'enuoyerez<note n="#3"/> mais la grace que ie uous demande dans cette occasion ce seroit un peu de diligence, car Mr. <persName>Cramoisy</persName> nostre imprimeur me presse fortement. La difficulté qu'il y a de faire tenir des
+paquets un peu gros par la poste de hollande en ces quartiers ma fait penser que si uous pouuiez enuoyer uos paquets a Dunquerque en les addressant auec une seconde enueloppe a Monsieur <persName>Desmadris</persName> Cons.<hi rend="sup">er</hi> du Roy en ses conseils intendant de Police Justice et finance a Dunquerque, il nous feroit tenir ensuitte commodement ce que uous luy addresseriez en mettant toujours laddresse de la 1<hi rend="sup">e</hi> enueloppe a Mr. <persName key="chap019">de la Chapelle</persName> Controlleur des bastimens du Roy a Paris comme a la lettre que uous mauez escritte ou que uous uoudrez bien mescrire encore dans la suite. Je croy que uous auez souuent occasion par mer denuoyer ce que uous uoulez de uos quartiers a Dunquerque. Pour ce qui est de nos uoyages sur les costes de france<note n="#4"/>, au Cap uerd a la Gorée et aux Antilles<note n="#5"/> quoyque le tout soit acheué d'imprimer il y a plus de deux ans on ne les a point mis au jour ayant resolu de joindre le tout auec les uoyages de Cayenne et d'Vranibourg et auec ce que Mr. <persName key="cass021">Cassini</persName> a fait sur les decouuertes des derniers satellites de Saturne qui sont 5 apresent comme uous scauez. On nous auoit dit que uous auiez fait des verres de lunette de tres grande longueur. Mr. <persName key="hart107">Hartsoeker</persName> en a fait de toutes les grandeurs iusques a 1200 pieds mais quoyque nous ayons sur la terrasse de lobseruatoire une tour de bois de 120 pieds de hauteur auec des coulisses par les costez pour eleuer le uerre obiectif a toutes sortes de hauteurs, nous ne pouuons pas nous seruir de uerres de plus de 2 ou 300 pieds a cause que nous n'auons pas assez
+despace pour nous reculer et que les obiets passent si uiste qu'on ne les peut suiure quauec peine si lon ueut faire un peu dattention a obseruer. uous auez sans doute entendu parler de la Machine de Mr. <persName>Dalesme</persName> qui consume la fumée<note n="#6"/> c'estadire un espece de foyer ou lon fait du feu auec du bois qui ne fume point au milieu dune chambre et a decouuert.</p>
+<p>Je suis</p>
+<p>&nbsp;</p>
+<p>Vostre niueau<note n="#7"/> est celuy de tous les niueaux qui est le plus en uogue et ie croy que ce que uous uoudrez bien nous donner la dessus sera toujours tres bien receu.
+Nous auons veu assez passablement l'Eclipse de lune du 29 du passé dont le commencement a esté trouué a 10<hi rend="sup">h</hi> 1′ et la fin a 12<hi rend="sup">h</hi> 41′ 30″ il y auoit beaucoup de difficulté a obseruer le passages de lombre sur les taches dont ie nay marqué que peu; la quantité de lEclipse de 5. doits 55′.</p>
+<p><table>
+<row>
+<cell cols="6">Les parties de la ☾ Eclipsée</cell></row>
+<row>
+<cell>de 1</cell>
+<cell>doit 28′</cell>
+<cell>a</cell>
+<cell>10<hi rend="sup">h</hi></cell>
+<cell>11′</cell>
+<cell>0″</cell></row>
+<row>
+<cell>3</cell>
+<cell>12</cell>
+<cell>a</cell>
+<cell>10</cell>
+<cell>21</cell>
+<cell>30</cell></row>
+<row>
+<cell>4</cell>
+<cell>8</cell>
+<cell>a</cell>
+<cell>10</cell>
+<cell>31</cell>
+<cell>20</cell></row>
+<row>
+<cell>4</cell>
+<cell>40</cell>
+<cell>a</cell>
+<cell>10</cell>
+<cell>38</cell>
+<cell>0</cell></row>
+<row>
+<cell>5</cell>
+<cell>30</cell>
+<cell>a</cell>
+<cell>10</cell>
+<cell>52</cell>
+<cell>0</cell></row>
+<row>
+<cell>5</cell>
+<cell>50</cell>
+<cell>a</cell>
+<cell>11</cell>
+<cell>3</cell>
+<cell>0</cell></row>
+<row>
+<cell>5</cell>
+<cell>52</cell>
+<cell>a</cell>
+<cell>11</cell>
+<cell>29</cell>
+<cell>0</cell></row>
+<row>
+<cell>3</cell>
+<cell>27</cell>
+<cell>a</cell>
+<cell>12</cell>
+<cell>14</cell>
+<cell>30</cell></row>
+<row>
+<cell>2</cell>
+<cell>12</cell>
+<cell>a</cell>
+<cell>12</cell>
+<cell>24</cell>
+<cell>30</cell></row>
+<row>
+<cell>1</cell>
+<cell>25</cell>
+<cell>a</cell>
+<cell>12</cell>
+<cell>34</cell>
+<cell>0</cell></row>
+</table></p>
+<p>Monsieur si uous auez obserué quelque chose de cette eclipse uous aurez la bonté de nous le communiquer.</p>
+<div type="closer">
+<p>Vostre tres humble et tres obeissant seruiteur <persName key="hire005">De la Hire</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName> a la Haye hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

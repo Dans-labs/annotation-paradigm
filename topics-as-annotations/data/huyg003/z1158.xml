@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1158"/>
+<meta type="date" value="1663-10-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1158">
+<div type="opener">
+<p>Paris 26 Octobre 1663.</p>
+</div>
+<p>Monsieur van Loo<note n="#1"/> le Peintre ce matin m'a fait present d'un peu de Carmin dont je vous envoie icy la moitiè. Je croy que cet echantillon vous pourra suffire pour long temps, mais si vous en desirez d'avantage je vous en feray avoir.</p>
+<p>Je vous avois recommandè de faire faire un horologe a pendule de 3 pieds. Souvenez vous en je vous prie.</p>
+<p>Van Dalen me demande l'argent d'un compte de 85 livres. Je vous prie de luy payer 70 livres <hi rend="i">op rekening</hi><note n="#2"/>, apres qu'il vous aura escrit le dit compte et la quitance de 70 livres. Je vous devray de l'argent de reste en rabattant celuy de la perruque, et je l'employeray a ce que vous m'ordonnerez. Mon present du Roy de 1200 livres m'a estè aportè il y a quelques jours<note n="#3"/>.</p>
+<p>Adieu. l'on attend cette lettre.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>.
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,236 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2705"/>
+<meta type="date" value="1691-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="basn002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2705">
+<p>Lettre de Mr. <persName key="huyg003">Huygens</persName> à l'Auteur touchant le Cycle Harmonique.</p>
+<p>&nbsp;</p>
+<p>Je vous envoye une remarque nouvelle en matiere de Musique. Elle regarde les premiers fondemens de cette science, c'est-à-dire la determination des tons que l'on observe dans le chant, &amp; dans la fabrique des Instrumens. Ceux qui ont un peu étudié cette partie de la Theorie savent ce que c'est, qu'on apelle le Temperament qui modere ces tons, &amp; combien il est necessaire dans l'accord des tuyaux d'Orgue ou des cordes du Clavecin. Les plus celebres auteurs, comme Zarlin<note n="#2"/> &amp; Salinas<note n="#3"/>, en parlent comme d'une des plus belles choses, &amp; des plus utiles qu'on pût trouver dans la Musique, &amp; se disputent à qui des deux est l'honneur de l'avoir examiné le premier, &amp; reglé par raison &amp; demonstration mathematique; car devant eux l'experience &amp; la necessité l'avoient dejà introduit en quelque maniere, sans qu'on en sût pourtant la vraye mesure ni la methode. C'est l'invention de ce Temperament qui fait negliger avec raison toutes les divisions des Tetrachordes &amp; du Diapason des Anciens, la plupart absurdes &amp; de nul usage pour la composition à plusieurs parties; &amp; c'est par elle que nôtre Systeme des tons est plus abondant en consonances, &amp; plus selon la nature du chant que n'etoient les leurs. Je supose icy que l'on sait les proportions, dans lesquelles consistent
+les consonances parfaites; savoir que la Quinte s'entend, quand après avoir fait sonner la corde entiere, on touche ensuite ses deux tiers; ou bien que la proportion qui produit cette consonance est celle de 3 à 2. Celle de la Quarte, de 4 à 3; de la Tierce majeure, 5 à 4; de la Tierce mineure, 6 à 5; de la Sexte majeure, 5 à 3; de la Sexte mineure, 8 à 5. Et quant au Temperament, ces mêmes Auteurs que je viens d'alleguer nous apprennent, que pour l'apliquer aux instrumens, la consonance de la Quinte doit être diminuée de ce qu'on apelle le quart de Comma, qui est si peu, que l'oreille à peine aperçoit cette diminution, &amp; n'en est nullement
+incommodée; le Comma entier étant le raport des tons de la corde entiere contre elle même racourcie seulement de 1/81. Il s'ensuit de là, que la Quarte est augmentée de cette même petite quantité. La Tierce y est de même diminuée de ¼ de Comma, &amp; par consequent la Sexte majeure augmentée d'autant; mais la Tierce majeure y demeure dans sa perfection; &amp; par consequent aussi la Sexte mineure.</p>
+<p>C'est suivant ces mesures des consonances, qu'on regle tous les tons des instruments, tant les Diatoniques, que les Chromatiques, qu'on y a ajoûtez, &amp; même les tons Enarmoniques, lors qu'on en met pour rendre les jeux plus complets.</p>
+<p>Or la remarque que j'ay faite, c'est que si on divise l'Octave en 31. intervalles egaux, ce qui se fait en cherchant 30 longueurs moyennes proportionelles entre toute une corde, (qu'on prend pour regle Harmonique) &amp; sa moitié; on trouvera dans les tons que produisent ces differentes longueurs, un Systeme si aprochant de celuy qui provient du Temperament que je viens d'expliquer, qu'il est entierement impossible que l'oreille la plus delicate y trouve de la difference. Et que pourtant ce même nouveau Systeme sera d'une nature bien differente de l'autre, &amp; apportera de nouveaux avantages tant pour la Theorie que pour la Pratique.</p>
+<p>Salinas fait mention de cette invention de diviser l'Octave en 31 parties égales, mais ce n'est que pour la condamner; &amp; le P. Mersenne après luy la rejette de même, d'où l'on pourra bien me croire, si je dis que ce n'est pas de ces Autheurs que je l'ay prise. Mais quand cela seroit, je croirois avoir fait assez, d'avoir démontré l'excellence de cette division par les principes de la Geometrie, &amp; de l'avoir soûteuuë contre l'injuste arrêt prononcé par ces deux celebres Ecrivains.</p>
+<p>Il y a dans le 3. livre de la Musique de Salinas un Chap. entier sur ce sujet<note n="#4"/>, dont l'inscription est, <hi rend="i">De prava constitutione cujusdam instrumenti</hi>, <hi rend="i">quod in Italia citra quadraginta annos fabricari coeptum est</hi>, <hi rend="i">in quo reperitur omnis tonus in partes quinque divisus</hi>. Il dit que cet instrument étoit nommé Archicymbalum, qu'il était <hi rend="i">incerti authoris</hi>; que certains Musiciens fort habiles l'avoient en grande estime; &amp; particulierement de ce qu'il avoit tous les intervalles, &amp; toutes les consonances (comme ils croyent dit-il) en dessus &amp; en dessous, &amp; qu'après une certaine periode on y revenoit au même son, ou équivalent, d'ou on étoit parti. Que l'Octave y étoit divisée en 31 parties égales, qu'ils apelloient Diéses, des quelles le ton en devoit contenir 5; le grand semiton 3; le petit 2; la Tierce majeure 10; la Tierce mineure 8; la Quarte 13; la Quinte 18; la Sexte mineure 21; la Sexte majeure 23. Mais il ajoûte, qu'ayant essayé d'accorder un instrument de cette façon, il a rendu un son fort desagreable, &amp; qui offensoit extremement les oreilles de tous let assistans. De sorte qu'il conclud, qu'un tel accord s'éloigne de
+toute raison Harmonique, soit qu'on l'examine sur le pied des consonances justes, ou de celles du Temperament. Outre son experience il allegue encore certain argument, pris de la maniere dont il dit qu'on se servoit à faire cette division; &amp; le P. Mersenne croit de même l'avoir bien refutée. En quoy ils se sont trompez tous deux, pour n'avoir sû diviser l'Octave en ces 31 parties égales, ce qu'aparemment les inventeurs même n'ont sû non plus; parce qu'il faloit pour cela l'intelligence des Logarithmes, qui n'étoient pas encore inventez de leur tems, ni de celuy de Salinas. Enfin ce nouveau Temperament, qu'ils rebutent si fort, se peut dire le plus excellent de tous, ayant tous les avantages qu'on luy attribuoit; sur tout cette simplicité, qu'il aporte dans la Theorie des tons; &amp; étant si peu different de celuy dont tous se servent, que l'oreille ne les sauroit distinguer; comme je vais le prouver par le calcul.</p>
+<p>Je dis donc premierement, que les Quintes de cette division ne surpassent celles du Temperament que de 1/110 de Comma, difference que l'ouïe ne sauroit aucunement apercevoir; mais qui autrement rendroit cette consonance d'autant plus aprochante de la perfection.</p>
+<p>Les Quartes par consequent ne sont excedées par celles du Temperament Ordinaire, que de cette 1/110 de Comma, &amp; elles tendent aussi d'autant plus vers la perfection.</p>
+<p>Les Tierces mineures sont moindres que celles du Temperament de 3/110 ou environ 1/37 de Comma; &amp; les Sextes majeures excedent d'autant les Sextes majeures du Temperament; toutes deux à la verité en s'éloignant de la proportion parfaite; mais on voit que cette difference de 1/37 de Comma ne sauroit être perceptible, ni augmenter sensiblement le ¼ de Comma, dont ces consonances s'écartoient déjà des veritables dans le Temperament.</p>
+<p>Les Tierces majeures enfin surpassent celles du Temperament, qui sont parfaites, de 4/110, ou environ 1/28 de Comma, qui est si peu de chose, qu'on ne les pourra jamais prendre que pour parfaites, nonobstant cette petite augmentation. Car que peut faire 1/28 de Comma tout seul, puisque un ¼ se souffre si aisément.</p>
+<p>On peut conclure de la petitesse de toutes ces differences, que lors qu'un jeu d'Orgue, ou un Clavecin sera accordé suivant le Temperament ordinaire, il le sera aussi suivant la division nouvelle, autant que l'oreille pourra discerner. Mais si pourtant on veut se satisfaire entierement la-dessus, &amp; accorder un instrument selon les 31 parties égales de l'Octave, on n'aura qu'à diviser un monocorde, suivant les nombres que l'on verra dans la Table que je donne; &amp; en mettant toute la corde à l'Unisson, avec le C du Clavecin ou de l'Orgue, accorder de même les autres cordes ou tuyaux, avec les sons que cette division leur attribue, &amp; que l'on entend, en plaçant le chevalet selon qu'elle marque. Pour ce qui est de l'Archicymbalum dont parle Salinas, je doute s'il n'a pas eu 31 touches à chaque Octave; mais parce qu'on ne sauroit se servir d'un tel clavier, sans se confondre dans la multiplicité des touches &amp; des feintes, le meilleur seroit à mon avis, de mettre 31
+cordes simples pour chaque Octave, ce qui se peut sans beaucoup de difficulté, &amp; ayant fait les bâtons qui levent les sauteraux tous d'egale longueur, hauteur &amp; largeur, laquelle largeur fasse une cinquiéme de celle d'une touche ordinaire, poser par dessus un clavier mobile, avec des pointes attachées par dessous à toutes les touches; qui étant une fois bien ajustées, pour faire sonner les cordes qu'on employe dans chaque Octave, le seront de même pour toutes les Transpositions. De sorte qu'on pourra les faire sans aucune peine, par tons, semitons, &amp; jusques à des cinquiémes de tons; étant certain, que tous les tons &amp; accords se trouvent également justes par tout; ce qui sera fort utile, &amp; donnera du plaisir. J'ay autrefois fait faire à Paris de tels claviers mobiles, pour les placer au dessus des claviers ordinaires des Clavecins, &amp; faire par ce moyen plusieurs Transpositions, quoi que non pas toutes complettes; &amp; cette invention fut aprouvée &amp; imitée par de grands maîtres.</p>
+<p>Or afin que l'on puisse s'assûrer de la verité de ce qui a été dit cy-dessus, on peut voir cette Table, dont j'explique le contenu &amp; l'usage.</p>
+<p>La 2. Colomne contient les nombres qui expriment les longucurs des cordes qui font les 31 intervalles egaux suivant la nouvelle division; la corde entiere étant suposée de 100000 parties, &amp; par consequent sa moitié, qui fait l'Octave contre elle, de 50000. A côté dans la 3. Colomne sont les syllabes, dont on se sert en chantant, &amp; des * pour quelques cordes Enarmoniques, dont celle d'auprès du Sol * est la plus necessaire. Dans la 4. Colomne sont les lettres, qui servent à l'ordinaire à designer les tons. Les nombres de la 2. Colomne ont été trouvez par ceux de la I, qui sont leurs logarithmes respectifs. Et pour avoir ceux-cy j'ay divisé le logarithme de 2, qui est 0,30102999566 par 31; d'où est venu le nombre N, 97106450, que j'ay ajouté continuellement au logarithme de 50000, qui est 4,6989700043; &amp; de ces additions sont procedez tous les logarithmes de la Colomne jusqu'au plus grand 4,9999999993, qui manquant de si peu de 5,0000000000 (qui peut être substitué pour luy) fait voir que le calcul a été bien fait. Ceux qui entendent les logarithmes, savent qu'il a falu faire ainsi, pour avoir les 30 nombres proportionaux entre 100000 &amp; 50000.</p>
+<p>La 5. Colomne contient en nombres les longueurs des cordes suivant le Temperament ordinaire, &amp; dans la 6. Colomne sont les logarithmes de ces nombres.</p>
+<p>Je pourrois montrer comment je les ay suputez, &amp; même comment ce Temperament se pouvoit trouver s'il ne l'eût pas encore été. Mais cela seroit trop long, &amp; il suffira que je montre icy la maniere d'examiner, &amp; la justesse de ces nombres, &amp; tout ce qui a été dit touchant la division nouvelle, &amp; du raport qu'elle a avec le Temperament.</p>
+<p><table>
+<row>
+<cell cols="2" role="header">Division de l'Octave en 31 parties égales.</cell>
+<cell cols="2" role="header"></cell>
+<cell cols="2" role="header">Division de l'Octave suivant le Temperament ordinaire.</cell></row>
+<row>
+<cell>I.</cell>
+<cell>II.</cell>
+<cell>III.</cell>
+<cell>IV.</cell>
+<cell>V.</cell>
+<cell>VI.</cell></row>
+<row>
+<cell cols="6"></cell></row>
+<row>
+<cell>N 97106450</cell>
+<cell cols="5"></cell></row>
+<row>
+<cell>4,6989700043</cell>
+<cell>50000</cell>
+<cell><hi rend="sc">Ut</hi><hi rend="sup">2</hi></cell>
+<cell>C<hi rend="sup">2</hi></cell>
+<cell>50000</cell>
+<cell>4,6989700043</cell></row>
+<row>
+<cell>4,7086806493</cell>
+<cell>51131</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,7183912943</cell>
+<cell>52278<note n="#5"/></cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,7281019393</cell>
+<cell>53469</cell>
+<cell><hi rend="sc">Si</hi></cell>
+<cell>B<hi rend="sup">x</hi></cell>
+<cell>53499</cell>
+<cell>4,7283474859</cell></row>
+<row>
+<cell>4,7378125843</cell>
+<cell>54678</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,7475232293</cell>
+<cell>55914</cell>
+<cell><hi rend="sc">Sa</hi></cell>
+<cell>B</cell>
+<cell>55902</cell>
+<cell>4,7474250108</cell></row>
+<row>
+<cell>4,7572338743</cell>
+<cell>57179</cell>
+<cell>*</cell>
+<cell>*</cell>
+<cell>57243</cell>
+<cell>4,7577249574</cell></row>
+<row>
+<cell>4,7669445193</cell>
+<cell>58471</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,7766551643</cell>
+<cell>59794</cell>
+<cell><hi rend="sc">La</hi></cell>
+<cell>A</cell>
+<cell>59814</cell>
+<cell>4,7768024824</cell></row>
+<row>
+<cell>4,7863658093</cell>
+<cell>61146</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,7960764543</cell>
+<cell>62528</cell>
+<cell>*</cell>
+<cell>*</cell>
+<cell>62500</cell>
+<cell>4,7958800173</cell></row>
+<row>
+<cell>4,8057870993</cell>
+<cell>63942</cell>
+<cell><hi rend="sc">Sol</hi><hi rend="sup">x</hi></cell>
+<cell>G<hi rend="sup">x</hi></cell>
+<cell>64000</cell>
+<cell>4,8061799740</cell></row>
+<row>
+<cell>4,8154977443</cell>
+<cell>65388</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,8252083893</cell>
+<cell>66866</cell>
+<cell><hi rend="sc">Sol</hi></cell>
+<cell>G</cell>
+<cell>66874</cell>
+<cell>4,8252574989</cell></row>
+<row>
+<cell>4,8349190343</cell>
+<cell>68378</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,8446296793</cell>
+<cell>69924</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,8543403243</cell>
+<cell>71506</cell>
+<cell><hi rend="sc">Fa</hi><hi rend="sup">x</hi></cell>
+<cell>F<hi rend="sup">x</hi></cell>
+<cell>71554</cell>
+<cell>4,8546349804</cell></row>
+<row>
+<cell>4,8640509693</cell>
+<cell>73122</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,8737616143</cell>
+<cell>74776</cell>
+<cell><hi rend="sc">Fa</hi></cell>
+<cell>F</cell>
+<cell>74767</cell>
+<cell>4,8737125054</cell></row>
+<row>
+<cell>4,8834722593</cell>
+<cell>76467</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,8931829043</cell>
+<cell>78196</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,9028935493</cell>
+<cell>79964</cell>
+<cell><hi rend="sc">Mi</hi></cell>
+<cell>E</cell>
+<cell>80000</cell>
+<cell>4,9030899870</cell></row>
+<row>
+<cell>4,9126041943</cell>
+<cell>81772</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,9223148393</cell>
+<cell>83621</cell>
+<cell><hi rend="sc">Ma</hi></cell>
+<cell>E<hi rend="sup">b</hi></cell>
+<cell>83592</cell>
+<cell>3,9221675119</cell></row>
+<row>
+<cell>4,9320254843</cell>
+<cell>85512</cell>
+<cell>*</cell>
+<cell>*</cell>
+<cell>85599</cell>
+<cell>4,9324674685</cell></row>
+<row>
+<cell>4,9417361293</cell>
+<cell>87445</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,9514467743</cell>
+<cell>89422</cell>
+<cell><hi rend="sc">Re</hi></cell>
+<cell>D</cell>
+<cell>89443</cell>
+<cell>4,9515449935</cell></row>
+<row>
+<cell>4,9611574193</cell>
+<cell>91444</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,9708680643</cell>
+<cell>93512</cell>
+<cell>*</cell>
+<cell>*</cell>
+<cell>93459</cell>
+<cell>4,9706225184</cell></row>
+<row>
+<cell>4,9805787093</cell>
+<cell>95627</cell>
+<cell><hi rend="sc">Ut</hi><hi rend="sup">x</hi></cell>
+<cell>C<hi rend="sup">x</hi></cell>
+<cell>95702</cell>
+<cell>4,9809224750</cell></row>
+<row>
+<cell>4,9902893543</cell>
+<cell>97789</cell>
+<cell cols="4"></cell></row>
+<row>
+<cell>4,9999999993</cell>
+<cell>100000</cell>
+<cell><hi rend="sc">Ut</hi></cell>
+<cell>C</cell>
+<cell>100000</cell>
+<cell>5,0000000000</cell></row>
+</table></p>
+<p>Prenons qu'on veuille savoir, si la Quinte <hi rend="i">Ut</hi>, <hi rend="i">Sol</hi>, du Temperament Vulgaire, est moindre de ¼ de Comma, que la Quinte veritable, que fait la proportion de 3 à 2. Du log. de <hi rend="i">Ut</hi> qui est 5,0000000000, j'ôte celuy de <hi rend="i">Sol</hi>, qui est 4,8252574989; le reste 0,1747425011 represente la grandeur de la Quinte du Temperament. De même la difference des logarithmes de 3 &amp; de 2, qui dans les Tables des logarithmes est marquée 1760912594, represente la grandeur de la Quinte parfaite. D'icy je soustrais la Quinte du Temperament trouvée, &amp; reste 13487583. Ce qui doit faire le logarithme du ¼ de Comma. Et cela est vray; car le logarithme du Comma entier, c'est-a-dire la difference des logarithmes de 81 &amp; de 80, est 53950319 dont le quart est 13487580.</p>
+<p>Que si l'on veut voir, si quelque quinte de la nouvelle division comme <hi rend="i">Re</hi>, <hi rend="i">La</hi>, differe de la vraye de ¼-1/110 de Comma, il faut seulement du logar. de <hi rend="i">Re</hi>, qui est 4,9514467743 ôter le logar. de <hi rend="i">La</hi>, qui est 4,7766551643, reste 1747916100, que j'ôte du logarithme de la vraye Quinte, qui étoit 1760912594, reste 12996494, qui est moindre que le log. du quart de Comma, savoir 13487580; d'où je l'ôte donc, &amp; il reste 491086. Il faut voir maintenant quelle partie cecy fait du Comma. C'est pourquoy je divise le log. du Comma, savoir 53950319 par 491086, vient fort près 1/110. De sorte qu'il paroît, que nôtre Quinte n'est pas excedée d'un quart de Comma par la Quinte parfaite, mais qu'ils s'en faut 1/110 de Comma. De la même maniere on peut examiner tout ce qui regarde ces Temperamens; n'y ayant rien de si commode que les logarithmes pour ces calculs de Musique.</p>
+</div>
+</body>
+</text>
+</TEI>

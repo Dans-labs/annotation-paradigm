@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1906"/>
+<meta type="date" value="1672-08-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1906">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 12 Aoust 1672.</p>
+</div>
+<p>Je n'ay pas discontinuè de vous escrire par tous les ordinaires donc il faut qu'on ait interceptè les lettres, si ce n'est que le pacquet<note n="#1"/> soit arrivè apres que vous avez envoiè la vostre. Je scay en tout cas que je n'ay rien escrit qui me puisse faire tort; de sorte que je ne regrette que la perte d'une lettre.</p>
+<p>L'evasion de Mombas<note n="#2"/> est un accident facheux pour la consequence que vous dites, car il est tres necessaire que Monsieur le Prince se conserve sur toute chose l'affection du peuple ou autrement je prevois que tout ira en confusion. L'on dit que Monsieur de Gent<note n="#3"/> est venu avec le Roy, mais je n'ay encore parlè a personne, qui l'ait vu. Il y en a qui ont escrit de l'armée Francoise qu'il n'avoit pas voulu s'en retourner en Hollande et qu'il avoit priè le Roy, qu'il pust le suivre. Mais je crois mieux ce que vous me mandez, car je ne scay pour quoy il voudroit prendre cet autre parti ni comment il pourroit. Un officier francois de ma connoissance a veu Madame de Groot a Liege qu'il trouve fort affligée et eplorée, luy mesme ne voulust pas estre vu<note n="#4"/>. Voila une famille bien desolée et dont je ne puis m'empescher d'avoir compassion, quoy qu'ils ne nous aient voulu guere de bien.</p>
+<p>L'on commence icy a parler de la marche des troupes Imperiales et Electorales, apres l'avoir traitée d'imaginaire jusqu'icy<note n="#5"/>.</p>
+<p>Je croy que ce ne seroit pas mal vostre affaire que cette Ambassade d'Espagne non pas pour y resider longtemps toutefois, mais pour commencer par la d'entrer dans l'emploi et faire veoir ce que vous valez.</p>
+<p>Cette autre charge que vous supposez devoir vaquer bientost est un si bon morceau que je doute fort si vous pourriez l'obtenir<note n="#6"/>.</p>
+<p>Je n'ay pas le temps de faire response maintenant a la lettre de mon Pere. Je le prie de m'excuser, ce sera par l'ordinaire prochain.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0523"/>
+<meta type="date" value="1658-10-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0523">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName></p>
+<p><persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Accepi vir clarissime quas 19 Septembris ad me dedisti, in quibus tale de nostra opella judicium depromis quale amicitia dictare solet; de Fermatianis verò rectè omnino censes mea quidem sententia, quam libentissimè vidi Cartesij scitissimo responso confirmari. Nunc audi quid te velim. Horologij nostri inventum, postquam publici juris factum est, homo quidam stolidus ac impudens Roterodami<note n="#1"/> imitari caepit<note n="#2"/> exigua tamen adhibita mutatione, quò tanquam aliud inventum atque à nostro diversum venditare posset. Huic homini litem intentauit artifex alter<note n="#3"/> in hac urbe degens, cui ego inventum hoc donaveram, cuique Illustrissimi Ordines Privilegium
+concesserunt<note n="#4"/> uti solus horologia ejusmodi divendere ac fabricare possit. Litigium hoc ad me quoque spectare semper credidi, cum de meo invento agatur quod homo pessimus malis artibus in se transferre conatur. Itaque Costero nostro (hoc artisici Hagiensi nomen est) semper in judicio adfui, et quantum in me fuit auxilium tuli. Tandem nunc obtinuimus, ut dies constitueretur, qua praesentibus commissariis è Curia Hollandiae, horologia ipsa, cum nostra tum Roterodamensis illius fuci, coram inspectanda exhiberentur, utque simul virorum matheseos peritorum et horologiopaeorum super utrisque operibus sententiae intelligerentur, nimirum utrum idem fundamentum utriusque inventi esset, nec ne. Ego quum non nisi unum Geometram assumere concessum esset, haud dubie <persName key="scho197">Schotenium</persName> nominavi, quum neminem neque peritiorem nossem neque cujus autoritati potius standum esset. Ergo te rogo vir eximie, ut in causa aequissima adesse mihi atque operam tuam unum diem commodare velis. Proximus Mercurij dies<note n="#5"/> praestitutus est, quo post meridiem conveniemus. Sed te ante meridiem venire velim et nobiscum hic prandium sumere ut de statu controversiae, et quid dicto opus sit te instruere possim. Sunt autem alia quoque de quibus tecum fabulari jam diu cupio. Vale.</p>
+<div type="closer">
+<p>Dabam raptim. <placeName key="denha004">Hagae</placeName> <date>4 Octobris 1658</date>.</p>
+</div>
+<p>An venturus sis quaeso continuo me certiorem facito, sed veni quaeso nisi sontica causa te impediat.</p>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Mijn Heer <persName key="scho197">van Schooten</persName>. Professor der Mathematycken Tot Leyden.
+<lb/>Inde Heeresteeg. Cito.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0103"/>
+<meta type="date" value="1651-11-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0103">
+<div type="opener">
+<p lang="la"><persName key="huyg003">Christ. Hugenius</persName> Clarissimo viro Domino <persName key="scho197">Francisco Schotenio</persName> S.D.</p>
+</div>
+<p>Figuras eas quas Sichemio<note n="#1"/> faciendas locavi quotidiè nunc expecto, cumque advenerint festinabo ut gemini tractatus mei praelo committantur. Alterum nuper legisti, proque ea lectione gratias tibi semper debebo. Alterum nunc mitto leviter tibi, si placet, percurrendum, maximè ut judices de argumentis meis, num quid à peritis ea satis intellectum iri credas. Mihi quidem nihil nunc est manifestius, neque magis dubito errasse in quadratura sua Patrem Gregorium, quam de ulla propositione Elementorum Euclidis dubitare queam. Postquam theoremata mea nonnulla ad ipsum perscripsissem eorum quae ad liquido supernatantia spectant, visus mihi est humanius rescripsisse, quam primis literis fecerat; videbimus autem quid ipsi animi futurum sit ubi refutationem suorum inventorum perlegerit. Neminem credo melius eam percepturum, (neque hoc mirandum esset) adeo ut sperem atque omnino existimem nihil ipsum repositurum. Nihil tibi intellectu difficile occurret puto, quoniam jam pridem
+scivisti quid ductus plani in planum significet. Proportionalitatum materiam devitavi quantum potui, quoniam obscuram disputationem nostram factura videbatur. atque hoc quoque conatus sum ut quam minimum fieri posset Opus Patris Gregorij inspicere opus foret. Tuum de omnibus judicium multum apud me ponderis habebit; cumque hanc mihi operam dederis, diu non ero molestus. Vale, et necessariam hanc importunitatem meam excusatam habe.</p>
+<div type="closer">
+<p>die <date>11 Nov. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName>. Professor der Mathematijcken inde Universiteijt.
+<lb/>Jnde Heeresteegh Tot Leyden.
+<lb/>Franq.</p>
+</div>
+</body>
+</text>
+</TEI>

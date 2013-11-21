@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2328"/>
+<meta type="date" value="1684-02-10"/>
+<meta type="sender" value="perr052"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2328">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 10 Feur 1684.</p>
+</div>
+<p>Jay dit a Mr. <persName>de la Chapelle</persName><note n="#1"/> la responce que vous auez faite à la lettre que ie vous ay ecrite<note n="#2"/> Monsieur au sujet de l'impression de vos ouurages. Il en doit parler a Monsieur de Louuois et j'attens sa response pour vous la faire sauoir.
+En attendant ie vous diray que Mr. <persName key="hame061">duhamel</persName> qui fait imprimer pour la troisieme fois son cours de Philosophie<note n="#3"/> en est a present à la Physique il m'a chargé de vous prier que si vous auez quelque chose sur le sujet de l'Aiman que vous n'ayez point fait mettre dans les registres de l'Academie vous luy enuoyez s'il vous plaist pour ladjouster dans cette edition. J'ay parlé à Mrs. de l'Academie de l'application que vous auez depuis quelque temps à la dioptrique pratique ils m'ont temoigné souhaitter fort que vous reussissiez cette matiere qui est d'un tres grand usage ayant besoin d'estre perfectionnée principallement en ce qui regarde la maniere de se seruir commodement des grands tuyaux. Je croy que vous auez vu ce qui fust mis il y a plus d'un an dans le journal des sauans touchant le moyen qu'on auoit imaginé de se seruir d'un miroir pour s'exempter de la peine de remuer les grands tuyaux<note n="#4"/>. Comme les machines qu'on auoit proposées n'auoient pas paru pouuoir estre executées j'en fis faire vne de mon inuention l'ésté dernier qui reüssit fort bien pour ce qui est de la commodité et de la certitude mais la difficulté est dans le miroir qui ne fournit pas à la lunette toutte la netteté des objets comme il en donne la grandeur. J'ay remarqué que les miroirs de metail sont incomparablement meilleurs que ceux de verre. comme ie ne doute point que vous n'ayez
+trouué quelque moyen pour les perfectioner ce seroit vne chose bien auantageuse si lon pouuoit paruenir a les mettre en etat de seruir à cet usage n'y ayant rien de si commode pour vn obseruateur que de pouuoir suiure vn astre auec un tuyau le plus grand qu'on puisse imaginer sans sortir de sa chambre et sans estre obligé de remuer le tuyau.</p>
+<p>On m'a encore chargé de vous demander si vous nauez point quelqu'un des Instrumens de Mathematique que le Roy a fait faire et dont Monsieur de Louuoy fait faire vne perquisition fort exacte. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="perr052">Perrault</persName>.</p>
+</div>
+<p>Mon frere et ma soeur mont chargé de vous asseurer de la continuation de leur respect.</p>
+</div>
+</body>
+</text>
+</TEI>

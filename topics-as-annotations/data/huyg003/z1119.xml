@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1119"/>
+<meta type="date" value="1663-06-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1119">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 1 Juin 1663.</p>
+<p>Monsieur</p>
+</div>
+<p>Je viens d'apprendre par la vostre du 14 du passè que non seulement ma response<note n="#1"/> a vos precedentes<note n="#2"/> a manquè de vous estre rendue, mais qu'aussi vous semblez douter en quelque façon si je l'ay faite, et ce dernier point me fasche bien plus que l'autre, parce que je serois moins marry de la perte de dix lettre que de vous estre suspect d'une si estrange negligence. Je vous prie donc de me faire justice et de croire que depuis plus d'un mois je vous ay remerciè du dessein de la nouvelle barque Irlandoise et que je vous ay dit les remarques qu'icy l'on a faites sur ce bastiment. que je vous ay aussi dit mon sentiment libre touchant le livre d'Optique que l'authenr m'a fait l'honneur de m'apporter, fans que jusqu icy j'aye
+pu auoir celuy de le veoir, et que de plus je vous ay fait scavoir ce qui se passoit icy parmy les scavants en matiere de lunetterie et autres. Il semble que je serois obligè de vous repeter icy au long ce que j'avois escrit sur chacun de ces articles, mais toutefois je n'en feray rien a present, et quand vous en scaurez la raison<note n="#3"/>, ce qui sera dans peu, je m'assure que vous ne la trouverez pas injuste. Cependant je vous rends graces et me rejouis des bonnes nouvelles touchant l'establissement de vostre Illustre Societè, a la quelle je souhaite toute sorte de bon succes, tant a cause du digne object qu'elle s'est proposée que parce que je scay que ce vous sera une grande satisfaction de veoir bien reussir ce a quoy vous avez travaillè avec tant de soin et de constance. Je suis autant qu'on le peut estre</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre tres humble et tres obeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

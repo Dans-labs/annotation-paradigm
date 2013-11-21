@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1411"/>
+<meta type="date" value="1665-05-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1411">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Mercure. Instruction pour les horologes. Hevelii Prodromus<note n="#1"/>.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 29 Maj 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay differè de respondre a vostre derniere du 21 Avril attendant de jour en jour l'arrivee de Monsieur Boreel, et que je vous pense donner avis quant et quant de la reception du thermometre, mais il ne paroit pas jusqu'icy de sorte que je ne scay si peut estre il a changè de dessein ou pris un grand tour pour venir en ce pais. J'en suis bien marry et vous remercie cependant de ce beau present et de l'instruction que vous me donnez, pour m'en servir.</p>
+<p>Je recevray de meme les autres regles que vous dites qu'on observe en comparant le dit thermometre avec le tube plein de mercure. Si l'on en pouuoit tirer quelque prognostique pour les changements de l'air, et des vents, seroit une chose d'importance.</p>
+<p>Je croy que l'Instruction pour les Longitudes augmentée et redressee, comme
+vous me l'avez promise, doibt desia estre imprimée, et je vous prie que je la puisse avoir au plustost a fin de l'envoier a Paris pour estre traduite en François. L'on estoit prest a se seruir pour cela de la miene, si je n'eusse mandè<note n="#2"/> que l'on attendist plustost celle qui s'aprestoit chez vous et principalement pour la relation de Monsieur Holmes qui y sera corrigée et plus ample. Je suis apres<note n="#3"/> de traiter avec un horologer<note n="#4"/> a Paris pour le transport du privilege pour 5 ou 6 ans, et je vous feray scavoir en suite ce qui se sera conclu.</p>
+<p>Monsieur Hevelius m'a fait dire qu'il a fait imprimer un traictè<note n="#5"/> du comete premier de 60 feuilles in folio. et qu'il attend seulement quelque occasion pour me l'envoier. Cependant j'en ay veu quelques unes des figures, qui me semblent assez estranges, car premierement il depeint la teste du Comete comme s'il l'avoit veue fort grande et avec de certaines taches dedans, ce qui ne m'a aucunement paru, mais avec mes meilleurs lunettes elle a tousjours semblè tres petit comme les estoilles fixes exceptè la chevelure, et a Rome on l'a observée de mesme, de sorte que je croy que les lunettes de Hevelius ne distinguent pas bien les objects, ou que le defaut est dans ses yeux. Apres pour ce qui est du cours du comete il en fait une ligne continue qui se tourne en elle mesme, d'ou je prevoy quelque bigearre hypothese, par ce qu'il marque cette ligne courbe dans le ciel mesme a trauers des Signes, dont il a donnè une figure. Mais il faut attendre son explication.</p>
+<p>Si Monsieur Hook entreprend de faire la description et l'hypothese du dernier comete<note n="#6"/>, ainsi que du premier, je pense qu'il luy donnera bien plus de peine car au moins a ce que j'ay pu juger par les observations il n'a pas passè dans une ligne droite, comme l'autre.</p>
+<p>Je croy que vous aurez desia veu la Lettre imprimee de Monsieur Auzout<note n="#7"/> a l'Abbè Charles, ou il taxe la societè Royale de n'avoir pas empeschè la publication de la machine pour les verres tant qu'on n'en avoit point fait d'essay.</p>
+<p>Je ne scay comment elle le prendra, mais je croy que Monsieur Hook<note n="#8"/> doit estre bien en peine par ce que je ne voy guere d'apparence qu'il en puisse venir a bout. Je suis sans reserve</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>Je mettray l'horologe entre les mains de Monsieur Boreel. ainsi que vous l'ordonnez pourveu qu'il viene.</p>
+<p>Ils font paier bien cher le grand sceau chez vous a ce que je voy mais aussi vous le prenez pour tant de choses a la fois que pour tant de Privileges le prix n'est que mediocre.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="mora019">Moray</persName> Chevalier et du Conseil Privè du Roy pour les affaires d'Escosse A dans White Hall Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

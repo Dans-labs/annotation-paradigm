@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2879"/>
+<meta type="date" value="1694-10-04"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2879">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 4 octobre 1694.</p>
+</div>
+<p>Je commence par vous demander milles pardons Monsieur du longtemps que j'ai eté sans faire reponce à vôtre derniere du 16<hi rend="sup">e</hi> Juin. La mort de mon beaupere qui est arrivée dans ce temps et qui m'a obligé de faire de petits voyages à la campagne pour des affaires de famille m'en a empesché. De sorte que depuis 8 ou 10 mois j'ai eté entierement occupé a des choses differentes des mathematiques par l'embaras ou m'ont jetté les pertes que nous avons faites de l'oncle<note n="#3"/> et du pere de ma femme<note n="#4"/>. Je suis bien fasché de l'indisposition que vous avez euë, non seulement parce que je m'y interesse particulierement, mais aussi parce que les mathematiques que vous avez poussées si loin y perdent beaucoup. Il me semble pourtant sur ce que vous me mandez que vous ne les avez pas tout a fait negligées, la decouverte de vos horloges sur la mer etant d'une consequence extreme. J'espere que vous voudrez bien en faire part au public puis qu elles reussissent ce qui me donnera occasion de les admirer comme j'ai toujours fait tout ce qui est venu de vous.</p>
+<p>A legard de vôtre dispute avec Mr Renaud je puis vous assurer qu'il ne m'a point communiqué sa reponse<note n="#5"/> quoique je le connoisse très particulierement. Ce n'est pas qu'il ne me soit venu chercher mais il ne m'a pas trouvé, et il a eté très peu de temps à Paris cet hyver parce qu'on la envoyé assez promtement sur les côtes. Quand même je l'aurois vû je ne sçais si je serois venu à bout de le faire changer de sentiment; car quand on est entêté sur tout dans les questions ou la phisique a part, je trouve qu'on en revient difficilement. Il me semble que si vôtre replique<note n="#6"/> dont Mr de la Hire ma fait part ne suffit pas pour cet effet, il seroit assez inutile que d'autres l'entreprissent.</p>
+<p>La demonstration que vous m'envoyez pour ma regle touchant les rayons des
+developpées des paraboloides est conforme à la mienne. Je crois que ma quadrature de la feüille de Descartes par les appliquées à l'axe sera fort differente de celle de Mr. <persName key="vold004">de Volder</persName>; car elle est uniquement fondée, comme je vous ai deja mandé<note n="#7"/> sur quelques regles que j'ai pour prendre les sommes et dont je vous ferai part lorsque j'aurai un peu de loisir. Je n'ai plus de curiosité de voir ce qu'il y a de Mr Neuton dans le livre de Vallis apres ce que vous me mandez. J'avois fait ecrire à Mr Leers<note n="#8"/> de m'apporter le traité de Vallis de algebra mis en latin, cependant il me l'a apporté en anglois<note n="#9"/>, ce qui m'est fort inutile puisque je n'entens pas cette langue.</p>
+<p>Je pars pour m'en aller du côté de lyon en Bresse, où sont les terres dont nous avons herité de feu Mr d'Autremonts. Si vous me faites l'honneur de m'ecrire on m'envoira vos lettres et j'aurai soin d'y repondre exactement vous assurant que je suis sans aucune reserve</p>
+<div type="closer">
+<p>Monsieur
+<lb/>vôtre treshumble et tres obeissant serviteur <persName key="hosp010">Le M. de lHospital</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>holande
+<lb/>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName> Seignr. de Zehelem int noordeinde naast de Crabte A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

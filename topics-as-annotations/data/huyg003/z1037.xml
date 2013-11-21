@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1037"/>
+<meta type="date" value="1662-07-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="heve011"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1037">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Hevelio. literas et librum accepi. gratias. quid mihi gratias deberi dicat. ipsi potius. methodum dimetiendi diametros planetarum non probo. Quid putat dicturum Ricciolum aliosque de Parelio quem anselucem vocat.</p>
+<p>An prope horizontem aequali cum ☉ altitudine. Machinam celestem edat.</p>
+</div>
+<div type="opener">
+<p>Amplissimo Clarissimoque Viro Domino <persName key="heve011">Johanni Hevelio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.P.</p>
+</div>
+<p>Primum literae tuae deinde aliquo post tempore et volumen<note n="#1"/> novarum observationum recte ad me perlata fuere. Et jamdiu gratias agere debuissem de tam eximio munere, sed varijs rebus impeditus non prius hoc officio defungi potui.
+Infortunium ingens lectissimae conjugis morte oblatum ex Clarissimo <persName key="boul014">Bullialdo</persName><note n="#2"/> intellexeram, eoque verebar ne diutius opus hoc quod prae manibus erat moraretur: sed recte habes quod privatum damnum utilitati publicae obesse passus non es. Quam bene autem de studijs astronomicis meritus sis, tam accuratâ pulcherrimae observationis descriptione, haud facile dixerim, pro qua quidem dignas gratias omnis tibi posteritas rependet.</p>
+<p>Jam de Horroxij quoque posthumo opusculo<note n="#3"/> in lucem protracto plus tibi quam mihi acceptum ferri aequum est, quum egregiam nitidamque ejus editionem tuâ curâ adornaveris commentarijsque insuper auctiorem reddideris. Porro quia libere de singulis a te traditis sententiam meam me dicere postulas, fatebor ingenue non aeque certam mihi atque à te praedicatur methodum hanc novam videri, qua planetarum diametros ex Mercurij diametro colligere doces<note n="#4"/> ac primo quidem, quod in ipsâ Mercurij diametro dimetienda facillime aberrari potuerit, cum imagines per tubum opticum exceptae non exquisitam prorsus circumferentiam terminatam habeant, uti saepe maculas solares observando animadverti, quodque ita esse vel ingens illa inter te ac Gassendum discrepantia, circa Mercurij amplitudinem, confirmat. Deinde quod etiamsi optime de hac constaret, comparatio tamen illa oculo judice inita, qui non semel sed seorsim duos Planetas intuetur, plane fallax sit ac lubrica: quippe quâ et Eximius ille Ricciolus usus, longe majorem verâ diametrum Veneris reperit, nempe 4′, 8″<note n="#5"/> quum tibi sit 1′, 6″<note n="#6"/>, mihi autem 1′, 25″<note n="#7"/>. Dices credo et Jovem cujus comparatione, ut tu Mercurio, utebatur, justo majorem ipsum fecisse, ideoque et in ♀ necessario errare debuisse; sed hoc nunquam opinor illi persuadebis, cum via longe certiore, in vicinia fixam, ex intervallo motuque Jovis apparente, ipsum metitus sit. Nimium vero cum in hoc planeta, tum in Saturno quoque ab illius viri accuratissimis observationibus, quae meis etiam qualibuscunque confirmantur, mensura tua recedit, siquidem Jupiter in minima distantia tibi est 24″, 22‴<note n="#8"/>, duntaxat qui illi est 68″<note n="#9"/> ac mihi 64″<note n="#10"/>. Saturnus autem tibi 19″, 40‴<note n="#11"/> qui illi 72″<note n="#12"/>, mihi vero 68″<note n="#13"/>. Miror cum tam insigne discrimen hic cerneris, non fuisse suspectam hanc quam adhibueras methodum; sed erit, scio, aliquando, ubi maturius eam expenderis.</p>
+<p>Pareliorum observationibus tuis ac Paraselenarum plurimum gavisus sum, quum raro accurate adeo atque ex fide relatas invenire sit. Praecipua autem illa solium similis est in multis illi quam Scheinerus habuit Romae Anno 1630, in quâ item Soles 7 cujusque figuram ex epistola ipsius<note n="#14"/>, quae in <persName key="gass001">Gassendi</persName> operibus extat, restitui. Abest tamen parelius ex adverso oppositus Soli vero, nec non bini isti per quadrantem fere circuli a Sole distantes. Rara plane est illa crucis per Lunam transeuntis observatio tua, atque etiam Antelij in decussatione arcuum coloratorum, de cujus causa invenienda, cum reliquorum omnium teneam, dispero, si aeque humilis apparuit atque Sol ipse, quemadmodum Schema prae se ferre videtur. Rogo itaque ut hâc unâ de re verbulo certiorem me facias; quod si quas invicem observationum a me collectarum desideras, ad meteora haec pertinentium, lubens earum copiam faciam. De studijs meis non multum est quod scribam. Dioptricen jam diu promissam typis committere paro, sed nescio quomodo identidem inde revocor modo negotijs aliis, modo novis speculationibus intervenientibus.</p>
+<p>Subjungam autem illi quae de parelijs meditatus sum propter nonnullam argumenti similitudinem. Tuam vero coelestem machinam<note n="#15"/> quando sperare nos jubes? Quam ut ad finem desideratum perducere possis, vitam, otium, et prosperam valetudinem ex animo tibi comprecor. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> 25 Julii 1662.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

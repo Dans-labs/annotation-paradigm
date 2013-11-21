@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1120"/>
+<meta type="date" value="1663-06-06"/>
+<meta type="sender" value="vlie013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1120">
+<div type="opener">
+<p><persName key="huyg003">Christiano Hugenio</persName> <hi rend="i">τῳ τάνυ</hi> <persName key="vlie013">Janus Vlitius</persName> S.P.D.</p>
+</div>
+<p>Non ignarum te esse, Praestantissime Hugeni, consido, me jam ab aliquot annis rebus Bredanis illustrandis intentum fuisse.</p>
+<p>Quas tribus complexus sum libris, quorum <hi rend="sc">i</hi>. Ν<hi rend="i">ομιϰὰ</hi>, <hi rend="sc">ii</hi>. Ξ<hi rend="i">ρονιϰὰ</hi>, <hi rend="sc">iii</hi>. Τ<hi rend="i">οπιϰὰ</hi> continent. Dum primum typis tandem Dordrechti nuper trado<note n="#1"/>, et prodromus
+consuetudinum de Successionibus prodire tentat, en interdictum Senatus Principum ne quid tale edam nisi prius a se examinatum, et a Principe facultas impetrata fuerit. Delator deprehensus mihi est olim IC. nunc Propraetor Bernagius<note n="#2"/>; qui invidia tactus dudum est, quod fidem aliarum, quibus niti solet, supposititiarum Consuetudinum mea hac editione elevem, atque diluam. Miratus quorsum illud examen, et ad quos cura ejus pertineret, obiter rescripsi me nihil, quod non e re Principis et Justitiae consentaneum sit, moliri. Plenius rescribere supersedi, quia rumor de Illustris Parentis Tui reditu me recreavit. Capita ejus sunt, ea, quae edo, privatim a me consulta olim, et observata a me esse; non me leges novas aut consuetudines condere aut promulgare, sed eas, quae ante C. et plures annos ab ipsis Dominis aut conditae, aut agnitae, aut Sententijs Curiarum tam Bredanarum quam Brabantiae confirmatae indesinenter sunt, utque hic in archivis extant, et in Judicijs in dies allegantur, et legis vim obtinent, plane sequi, et interpretari. Id Grotijs<note n="#3"/>, Goris<note n="#4"/>, Sandijs<note n="#5"/>, alijsque bene de patrijs suis meritis integrum semper fuisse:
+uti e aliter sentientibus hos aeque ac me refellere. Denique me nihil editurum, ante quam Principi juris sui facto dedicetur universum opus.</p>
+<p>Prodromum tantum experiundi hominum judicia ergo amicis communicare; atque ita quoque Senatui, ut ex hoc ungue Leonem noscant, et examinent. Rogo ergo atque obsecro te, Hugeni Amicissime (quantumvis sciam te melioribus nunc vacare studijs) ut haec cum Illustri Parente data occasione communices, qui domi suae (brevi ut spero) exemplar prodromi inveniet. Non enim operae pretium videbatur illum ulterius mittere. Si quid linguae Aremoricae (Bas-breton) monumentum inter librarios invenias (nam Dictionarium tale allegatur anni 1590<note n="#6"/>) aut tale quid, summo me mactabis officio, si ea mihi comparaveris; uti et figuras optimas fabularum Aesopeiarum<note n="#7"/>. Phaedri enim editionem novam<note n="#8"/>, cum figuris, Principi dedicare cogito. At ne Socraticos tuos interrumpam dialogos diutius, S.P. tibi, tuoque imprimis Parenti atque amicis repetita, manum tollam. Vale, Saeculi nostri Archimedes, et Vlitio tuo haec gratificare. Dabam Bredae <hi rend="sc">vi</hi> Junii <figure rend="inline"><graphic url="huyg003oeuv04fi13.gif"></graphic></figure>.</p>
+<p>&nbsp;</p>
+<p>Burstedij<note n="#9"/>, iaeque te salutant plurimum. Junij<note n="#10"/> Euangelia Gothica et Anglo-Saxonica<note n="#11"/> sub praelo fervent. Lexica<note n="#12"/> sequentur. Ego Francica quoque concinno<note n="#13"/>.</p>
+</div>
+<div type="para">
+<p>Monsieur
+<lb/>Monsieur <persName key="huyg003">Christien Huygens de Suylichem</persName>, &amp;c.
+<lb/>a Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

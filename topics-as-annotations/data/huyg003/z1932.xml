@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1932"/>
+<meta type="date" value="1673-04-24"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1932">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 14 Avril 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>N'y ayant que huit iours que ie vous escrivis amplement, y joignant la responce de Monsieur Newton a vos considerations sur sa theorie des couleurs, ie ne vous eusse pas sitost importuné de nouveau n'eust esté que vous voulez que ie continue de vous faire tenir mes journaux de temps en temps. Vous trouuerez dans celuy-cy<note n="#1"/> la version Angloise de la description faite par Monsieur Cassini de ses nouuelles descouvertes<note n="#2"/>, que i'ay voulu traduire en nostre langue, à fin de donner la satissaction à tous les curieux du païs de s'informer de toutes les particularitez observees dans cete matiere.</p>
+<p>Mesmes vous ne serez pas marry de voir les chefs des nouueaux traitez<note n="#3"/> de Monsieur Boyle, en attendant que vous receuiez les traitez mesmes. C'est tout ce que i'auois a vous dire à present, si ce n'est que ie vous prieray de faire voir à Monsieur Cassini cette traduction, auec mes baisemains. Je suis sincerement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

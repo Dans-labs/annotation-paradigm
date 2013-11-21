@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2042"/>
+<meta type="date" value="1675-07-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2042">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 19 Juillet 1675.</p>
+</div>
+<p>Je crois que mon Pere vous aura fait scavoir il y a longtemps que vostre montre vous seroit apportée par Monsieur Boreel, qui estant parti il y a 8 jours doit estre arrivè au camp de Monsieur le Prince a l'heure que je vous escris<note n="#1"/>. Je luy ay aussi donnè la garniture d'espée et les 4 estuis avec des ciseaux, chaque paquet estoit cachetè apart et la montre dans une boete, ou j'ay aussi mis une lettre pour vous<note n="#2"/>, qui contient la maniere de gouverner cette montre. Ie doute si j'y ay adjoutè qu'il faut la porter dans une petite poche apart et qui ne soit pas profonde.</p>
+<p>Vous me ferez plaisir de me le mander quand vous l'aurez receuë, et comment vous l'avez trouvée a vostre grè.</p>
+<p>Le Sieur du Pont m'est venu trouver mais trop tard. Je n'ay pas le temps presentement de vous entretenir comme vous souhaitiez touchant la Lunetterie. Je vous diray seulement que je pense avoir decouvert encore quelque chose de plus que ce que je vous ay communiquè cy devant<note n="#3"/>, touchant la fabrique de verres. Mais le bon le Bas<note n="#4"/> ne me dit pas pourtant tout son secret. Il fait tourner la forme dans la quelle il acheve ses occulaires et il a accommodè une petite machine pour cela, avec la quelle sa femme fait de ces verres au lieu de filer. Il avoit dessein d'en faire une autre pour faire 10 ou 12 verres a la fois. Il est a une maison de campagne depuis quelque temps pour tascher de se guerir du crachement de sang et d'une petite toux, que j'apprehende fort qu'elle ne luy soit fatale.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName> &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

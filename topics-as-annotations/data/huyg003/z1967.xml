@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1967"/>
+<meta type="date" value="1673-08-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1967">
+<p>De l'effect des Lunettes d'approche<note n="#1"/>.</p>
+<p>&nbsp;</p>
+<p>En supposant les regles de la refraction telles qu'on les avoit trouuees jusqu'icy sans y considerer autre chose, l'on pouuoit predire par avance l'effect des lunettes d'approche de quelque longueur qu'elles deussent estre et determiner la quantitè de leur grossissement à proportion de celuy des lunettes de longueur mediocre que nous avions desia. Et j'avois fait une table pour cela, dans la quelle en supposant, ce qui est vray, qu'une lunette de 12 pieds augmente les objects 72 fois selon le diametre, une de 30 pieds les devoit augmenter de 143 fois, une de 60 pieds 241 fois, une de 80 pieds 300 fois; une de 100 pieds 353 fois; une de 150 pieds 480 fois, une de 300 pieds 805 fois, une de 600 pieds 1354 fois.</p>
+<p>Mais il y a une certaine proprietè et defaut dans les refractions, qu'on a remarquè depuis peu<note n="#2"/>, qui trouble ce raisonnement et fait que les grands verres des lunettes ne peuvent pas souffrir tant d'ouuerture qu'on leur donnoit dans le precedent calcul. Et comme la clartè depend de la grandeur de ces ouvertures, elles deviendroient trop obscures si on les vouloit faire grossir suivant la determination de la table susdite, de sorte qu'au lieu qu'une lunette de 60 pieds devoit grossir les objects 241 fois l'on trouue qu'elle ne peut aller qu'a 180, ou 200 sois au plus<note n="#3"/>.</p>
+<p>Il en faudra venir de mesme a l'experience pour determiner l'effect de plus longues parce que le raisonnement en cecy n'estant plus fondè sur un certain principe l'on ne scauroit dire avec assurance quels doivent estre leurs effects quand par ex. elles seront de 100, 150 ou 300 pieds quoy qu'on puisse conclure, que d'autant qu'elles seront plus longues elles feront d'avantage, puis que l'experience nous a sait voir dans celles que l'on a faites jusqu'icy, qu'a mesure qu'elles se sont accrues leur effect s'est aussi tousjours augmentè.</p>
+<p>Pour faire voir cet effect par quelque chose de sensible dans les lunettes de 60 pieds qui sont les plus grandes que nous ayons presentement je prendray pour object les taches de la lune. Supposè donc que ces lunettes grossissent 200 fois. Elles feront paroistre le diametre de la lune sous un angle de 100 degrez puisque son diametre visible est d'un demi degrè. Or il est certain par ce diametre visible et par la distance de la lune, qui est de 30 diametres de la terre, que le diametre de la lune est d'environ 500 lieues d'allemagne estant au diametre de la terre comme 11 ad 40. donc puis que ces 500 lieues paroissent par la lunette sous un angle de 100 degrez il s'en suit qu'un endroit de la lune qui aura 5 lieues d'estendue paroistra sous un angle d'un degrè, c'est a dire que nous verrons cet endroit aussi grand et aussi distinctement qu'un rond d'un pouce en diametre nous paroit a la distance de 5 pieds. Par consequent un endroit de la lune de l'estendue
+<figure><graphic url="huyg003oeuv07ill69.gif"></graphic></figure>
+d'une lieue d'allemagne paroistra comme un rond de 2⅖ de ligne, c'est a dire comme le cercle marqué A, a la mesme distance de 5 pieds. Et un endroit d'une demie lieue d'allemagne comme seroit la ville de Paris, paroistra comme le cercle B vu de la mesme distance.</p>
+<p>En comparant cet effect des lunettes de 60 pieds avec ce que font celles de 20 pieds, qui grossissent 120 fois l'on voit bien qu'il s'en faut beaucoup que le grossissement ne croit pas a mesme proportion que la longueur car celles de 60 pieds a ce compte devroient grossir 360 fois, au lieu de 200 fois de sorte que pour obtenir un grossissement de 400 fois avec la distinction requise l'on peut dire qu'il faudroit la longueur de 200 pieds ou d'avantage, a la quelle il y a peu d'apparence qu'on puisse estendre les lunettes, a cause de l'incommoditè de s'en servir.</p>
+<p>Monsieur des Cartes, pour reduire cette longueur excessive des lunettes, et faire des effects prodigieux avec celles d'un mediocre volume, avoit proposè des verres de figure hyperbolique, mais il ne scavoit pas le defaut des refractions dont j'ay parlè cy dessus, qui ne peut estre ostè par quelque figure du verre que ce soit. Outre que pour faire voir comme il promettoit, des choses aussi distinctes dans les astres que nous en voions icy sur la terre, il ne se souuenoit pas qu'il eust fallu des verres plus grands que toute la ville de Paris. Car il est certain que suivant la proportion du grossissement des lunettes, il faut assembler plus grande quantitè des rayons qui vienent de l'object; de sorte que pour voir les choses mille fois plus grandes par la lunette que par nostre oeil sans lunette, il faut que la largeur du verre objectif soit a peu pres mille fois plus grande que celle de nostre prunelle. Et ainsi de mesme dans toutes les autres proportions de grossissement.</p>
+</div>
+</body>
+</text>
+</TEI>

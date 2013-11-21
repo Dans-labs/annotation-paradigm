@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1533"/>
+<meta type="date" value="1666-04-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1533">
+<div type="opener">
+<p lang="fr">A <placeName key="denha004">la Haye</placeName> ce 13 Avril 1666.</p>
+</div>
+<p>Je fais estat de partir au commencement de l'autre semaine lundy ou mardy, et souhaiterois que vous fussiez icy devant ce temps afin de vous pouvoir dire Adieu; c'est pour quoy si les affaires de dela<note n="#1"/> vous le permettent aucunement ne manquez pas de venir. J'ay priè mon pere, qu'il me fist avoir la Iacht du Prince. Messieurs les Estats sont encore assemblez sur son suject<note n="#2"/>, et l'on attend aujourdhuy l'issue de leur resolution. Zuylesteyn<note n="#3"/> est fort apparent de sauter, mais il sollicite fortement et fait tout ce qu'il peut pour se maintenir. L'on dit encore que Boreel<note n="#4"/> et Bornius<note n="#5"/> pourroient avoir leur congè, mais ce ne sont jusqu'icy que des bruicts, aussi bien que ce qu'on dit que Monsieur de Gent<note n="#6"/> auroit la place de Zuylestein
+et le Sieur de Langevelt<note n="#7"/> celle de Wotton<note n="#8"/>. ce seroit la un digne successeur pour le succes du principal de l'affaire a scavoir que le Prince soit reconnu Enfant d'Estat, l'on n'en doute point.</p>
+<p>Le frere de Zeelhem par ordre de Mon Pere a escrit a Monsient Coeymans<note n="#9"/> a fin qu'il fit response a vostre lettre, mais nous n'avons rien receu de sa part, il faut qu'il soit absent.</p>
+<p>La tante de St. Annelant<note n="#10"/> avec ma soeur et son mary<note n="#11"/> sont aujourdhuy allè a Leyden avec Monsieur van Leeuwen pour s'y divertir et aux environs par 3 ou 4 jours. Ie les y iray trouuer vendredy.</p>
+<div type="closer">
+<p>Myn Heer</p>
+<p>Myn Heer <persName key="huyg008">L. Huygens</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

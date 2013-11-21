@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0742"/>
+<meta type="date" value="1660-04-21"/>
+<meta type="sender" value="stev015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="alphe001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0742">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>Hoewel ick in geenderleywijse van meijning ben deur vereren van boecken, die voortaen van Mijn Vader zaliger of van mij selven souden mogen gedruckt werden,
+te pronken, om redenen die ick daer toe hebbe, so en can ick evenwel niet laten dat opset te overtreden, bij de gene die mij bij gelijcke geval niet voorbij en gaen. Ende sulx bij VEd: tot verscheijden malen vereert sijnde, vereer ick dit bijgaende boeck<note n="#1"/> met VEd: toe te senden, soo het nu, (naer dattet 10. a 12 jaer in een hoeck verstoken is geweest, om dat men mette boeckvercopers geen redelijck vast verding conde maken) inde corant veijl wort gestelt. Ende want mij noch indachtich is, dat ick een vande selve inden beginne oock toegesonden hebbe, aen de Heere <persName>van Sulichem</persName>, dat nu, voor soo veel als dit blaetjen<note n="#2"/> aengaet, indien het noch voorhanden is, defect soude sijn; Soo gelief VEd: het selve mijnenthalven aen SijnEd: te presenteren, of het hem misschien gelucken mocht daer me te suppleren. Waer op mij verlatende blijve</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>VEdts. dienaer <persName key="stev015">Hendrik Stevin</persName>.</p>
+<p>In <placeName key="alphe001">Alphen</placeName> den <date>21<hi rend="sup">en</hi> April 1660</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Huijgens van Suijlichem</persName>, vermaert mathematicus. inden Hage.
+<lb/>met een boeck.</p>
+</div>
+</body>
+</text>
+</TEI>

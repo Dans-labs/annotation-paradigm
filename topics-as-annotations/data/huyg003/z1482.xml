@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1482"/>
+<meta type="date" value="1665-10-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="monm010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1482">
+<div type="opener">
+<p>Monsieur <persName key="monm010">de Montmor</persName>.</p>
+<p>22 Octobre.</p>
+</div>
+<p>qu'il n'a que faire d'envoier une lettre de change. que mon Pere maintient tousjours que le microscope<note n="#1"/> de Monconis estoit tres excellent et ajustè d'une facon
+plus commode que les autres. mais qu'en ayant desia fait present il n'est pas juste qu'il se mette en peine pour le ravoir. bontè et generositè extraordinaire. veu ses vers tres beaux de la Tubereuse.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1818"/>
+<meta type="date" value="1670-10-24"/>
+<meta type="sender" value="brun077"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1818">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 24 Octobre 1670.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne sçaurois laisser passer l'occasion qui me se presente du porteur de ce billet sans vous asseurer de mes treshumbles respects et du desir tres particulier que
+i'auray d'executer vos commandemens quant il vous plaira m'en honnorer, ainsy que ie vous en suplie du plus profond de mon coeur. Le Gentilhomme qui vous presenterà ce billet est de nostre Ville de Florence. Jl est sorti du pays et de la Cour de Rome dans le dessein de voir le pays et de chercher quelque condition qui luy fust plus agreable que le seiour du pays d'ou il vient et ou la fortune n'a pas voulu luy estre plus favorable que le mauvais destin qui l'a fait naistre auec peu de substance. ainsy Monsieur sçachant iusqu'a quel point vous avez la bonté de m'honnorer de vos faueurs ie prens la liberté de vous suplier d'honnorer de vostre assistance, de vostre conseil, et de vostre protection le dit Gentilhomme qui est une tres honneste personne et d'un fort bon naturel. Jl sçait bien escrire, et seroit propre aupres de quelque riche Marchand, ou bien en quelque secreterie. Vous disant cepandant qu'il a servi l'espace de deux ans a Rome de Gentilhomme et de maistre d'hostel Monseigneur le Cardinal Acquaviva<note n="#1"/>, ainsy pour avoir soin d'une maison il seroit propre aussy. Enfin ie vous suplie faire pour luy ce qu'on pourrà pour le soulager de l'estat ou il est presentement, soit en luy faisant avoir employ a la Haye ou de le recommander a quelqu'un de vos Amis d'Amsterdam; Cepandant Monsieur ie vous demande mille pardons de la liberté que ie prens auec vostre bonté, vous supliant qu'en cas vous vouliez m'honnorer de vos commandemens vous adressiez vos lettres en la rüe Dauphine a l'hostel de Bordeaux a Paris. Je suis Monsieur avec tout le
+respect et l'estime imaginable</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur
+<lb/>l'Abbé <persName key="brun077">Brunetti</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

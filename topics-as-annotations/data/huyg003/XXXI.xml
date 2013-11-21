@@ -1,0 +1,18 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXXI"/>
+<meta type="date" value="1652"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXXI">
+<p>Librum tuum de locis planis quem dudum perlegere desidero si commodum est velim ut mittas nunc mihi<note n="#2"/>, vel si excurrere huc vacat ut ipse adferas, sunt enim quaedam quae ostendere invicem tibi praesenti cupiam ex inventis meis et non pauca narrare habeo de itinere gandavensi unde nunc primum reverti. diu cum P. Gregorio<note n="#3"/> collocutus sum cujus quadraturam licet ab ipso confessionem exprimere non satis potuerim, Gotscovius<note n="#4"/> condemnavit dixitque mea opera eversam funditus. Ita nobis retulit D. Edelheer Antverpiensium Syndicus<note n="#5"/>. vale.</p>
+</div>
+</body>
+</text>
+</TEI>

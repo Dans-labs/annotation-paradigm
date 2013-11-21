@@ -1,0 +1,20 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0351"/>
+<meta type="date" value="1656"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0349"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0351">
+<p>Pour la Methode de Monsieur <persName>Le Pailleur</persName>, je ne l'ay jamais estudièe à fonds, Il me la donna quelques mois avant de mourir, pensant la mettre en seurete entre mes mains, avec ce que je recueillois de l'assemblèe qui se faisoit chez luy; Si Vous et Monsieur <persName key="huyg003">Hugenius</persName> jugez qu'elle soit particuliere à certain nombre d'Equations, que vous me marquez, j'approuve fort que vous ne la fassiez pas imprimer, Et vous prie de la garder avec le liure de Monsieur <persName>de Baune</persName> que Monsieur <persName key="carc010">de Carcavi</persName> vous envoija, s'il y a quelque occasion pour faire venir des liures de vostre pays,
+vous les pourriez mettre en quelque paque pour eviter les frais de la poste. Je les ay cru meilleurs lors que j'ay mis Monsieur <persName key="huyg003">Hugenius</persName> en cette despense, dont au lieu de se pleindre il a estè si civil qu'il m'en a remerciè, Vous m'obligerez fort de luij faire mes treshumbles baise mains si vous luij escrivez, Je n'ay rien de Geometrie à vous mander. L'impression du 1<hi rend="sup">er</hi> Volume des lettres de Monsieur <persName key="desc004">des Cartes</persName><note n="#1"/> s'achevera à la fin du mois prochain. Le liure des Spirales<note n="#2"/> de Monsieur <persName key="boul014">Bulliaut</persName> et ses responses<note n="#3"/> à celuy<note n="#4"/> qui a escrit<note n="#5"/> contre son Astronomie seront encore 3 ou 4 mois sous la presse.</p>
+</div>
+</body>
+</text>
+</TEI>

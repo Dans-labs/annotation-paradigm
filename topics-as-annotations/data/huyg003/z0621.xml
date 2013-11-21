@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0621"/>
+<meta type="date" value="1659-05-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0621">
+<div type="opener">
+<p><date>11 Maj. 1659</date>.</p>
+<p><persName key="carc010">Carcavy</persName>.</p>
+<p>Monsieur.</p>
+</div>
+<p>Et dans ma precedente lettre<note n="#1"/> de la sepmaine passée et dans beaucoup d'autres j'ay oubliè de vous demander une chose que l'on m'a priè de scavoir de vous. Il y a dans la lettre de Monsieur Fermat au Chevalier Digby, la derniere du Commercium Epistolicum<note n="#2"/> de Monsieur Wallis, que le dit Monsieur Fermat vous a mis en main il y a longtemps ses traitez de locis solidis et <hi rend="i">linearibus</hi>, ce que Monsieur de Wit nostre Pensionaire d'Hollande qui se plaist fort au Mathematique ayant leu, il a grande envie de scavoir plus particulierement quelle oeuure c'est, et comment Monsieur Fermat a traitè cette matiere. S'il comprend generalement toutes les courbes qui sont plus hautes d'un degrè que les sections coniques c'est a dire desquelles en cherchant les lieux on rencontre des aequations cubiques, ou quarrequarrees. Et s'il se sert de l'algebre ou qu'il suive la façon des Anciens. Monsieur de Wit a escrit quelque chose<note n="#3"/> touchant ce mesme argument, ce qui luy donne cette curiositè, à la quelle je vous prie de satisfaire. Il est bien scavant en la Geometrie et en l'Algebre et s'y exerce tousjours non obstant les grandes affaires qu'il a sur les bras. Vous en verrez dans peu des preuves, dans ses traitez, que Monsieur Schoten fait imprimer, dont l'un est des Elements Coniques, l'autre des Constructions des lieux plans et solides. J'admire de plus en plus la subtilitè des escrits de Monsieur Dettonuille, mais il faut avouer que c'est un labyrinthe lors que l'on veut faire la construction de quelque probleme, et pour cela je voudrois qu'il eust partout
+pris seulement un cas le plus facile pour en donner le calcul tout du long et non seulement le dernier facit, ou bien un exemple a chaque Theoreme.</p>
+<p><figure><graphic url="huyg003oeuv02ill143.gif"></graphic></figure></p>
+<p>J'ay trouuè que le centre de gravitè de la portion de la cycloide CZY lors que Z est le centre du cercle generateur est distant de l'axe CZ d'une ligne egale au rayon ZD, plus la moitiè de l'arc CD, moins 17/6 d'une ligne qui est au rayon ZD, comme cettuicy a son double plus l'arc CD. Je vous prie si vous avez la resolution de ce mesme cas, de me dire si j'ay bien supputè.</p>
+<p>La consequence page 19 des Trilignes<note n="#4"/> est tres belle et inconnue auparavant comme je croy. J'en ay trouuè une autre demonstration tres facile et claire que je ne doubte pas que Monsieur Dettonville ne scache bien aussi.</p>
+<p>J'attends avec impatience ce qu'il me respondra sur une difficultè que je luy ay proposée<note n="#5"/> touchant sa demonstration de la Spirale et Parabole.</p>
+</div>
+</body>
+</text>
+</TEI>

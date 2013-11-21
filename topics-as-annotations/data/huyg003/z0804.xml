@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0804"/>
+<meta type="date" value="1660-11-11"/>
+<meta type="sender" value="brun077"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="vaumu901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0804">
+<div type="opener">
+<p>a <placeName key="vaumu901">Vaumurier</placeName> le <date>11. 9bre 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Aussytost que ie suis arriué icy i'ay dit a Monseigneur le Duc<note n="#2"/> le bonheur que i'ay eu de uous rendre mes tres humbles respects a Paris, et ie luy ay montré les papiers que uous auez eu la bontè de me confier et que ie uous renuoye, auec un fragment de lettre<note n="#3"/> que le Serenissime Prince Leopolde m'a fait l'honneur de m'escrire sur uostre suiet par le quel uous ne uoirez pas moin que par celle que Son Altesse Serenissime uous a escrite a uous mesme l'estime toute particuliere qu'il fait de uostre merite. Monseigneur le Duc se porte mieux de sa goutte, c'est pourquoy il pourroit se rendre bientost a Paris; cependant il m'a ordonnè de uous saloüer de sa part, e de uous tesmoigner la ioye qu'il aura de uous y uoir, et principalement si l'occasion se presentoit de uous y rendre quelque seruice. Je tacheray de faire sçauoir a Monsieur du Gas<note n="#4"/> uostre arriuée, et en attendant le bonheur de uous reuoir et seruir a Paris ie demeure a iamais et de cout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur l'abbé <persName key="brun077">Brunetti</persName>.</p>
+</div>
+<p>Estant a Paris i'ay oublié a uous demander si l'on imprime en Hollande la nouuelle relation de la terre Australe<note n="#5"/> et si c'est en françois ou en autre langue.
+Comme aussy si Monsieur <persName>Vossius</persName> a quelque chose de cela ou de la Chine, et quoy.</p>
+</div>
+</body>
+</text>
+</TEI>

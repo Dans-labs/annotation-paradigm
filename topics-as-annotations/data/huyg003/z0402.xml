@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0402"/>
+<meta type="date" value="1657-08-24"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0402">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Obseruationem deliquij lunaris vltimj<note n="#1"/>, Româ heri ad me allatam mitto ecce<note n="#2"/> ad Te, quam pro eo quo praeclaras hasce disciplinas prosequeris affectu non inuitus, scio, videbis. Nobis hic nullam <hi rend="i">τήρησιν</hi> facere licuit, ita caelum vnâ perpetuâque nube obductum conatus nostros elusit. Si Vraniam magis fauentem expertus es, obseruationem tuam, quaeso, cum hac vna remitte, vt Clarissimo Gutiscouio, quem hic propediem expectamus, vtramque comunicare valeam. Misit eam ad me Clarissimus Vir Michael Angelus Riccius<note n="#3"/> cuj parem in Mathematicis Romae non
+inuenj; cuiusque mentionem fieri meminj in opusculo Maggiotti<note n="#4"/>: eo enim conciliante eiusdemque scriptj occasione quo donatum me voluerat, aliquot ab eius editione annis mihi Magiottus innotuit. Eidem Riccio transmiseram ante annum tuam Lunulae Saturniae <hi rend="i">τήρησιν</hi>, a Clarissimo Gutiscouio acceptam; vt famam tuam vna cum naturae rerum notitiâ, quantum in me esset promouerem: cum ecce monuit me hesternis litteris multas eiusdem lunulae <hi rend="i">τηρήσεις</hi> Romae factas quarum seriem proximâ occasione se missurum pollicetur. Eas cum accepero, statim ad Te abunt<note n="#5"/>, vir praestantissime, vt hoc qualeçunque officio testari valeam, quantus sim hactenus et esse porro velim</p>
+<div type="closer">
+<p>Virtutum tuarum Cultor <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>XXIIIJ Augusti MDCLVIJ</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

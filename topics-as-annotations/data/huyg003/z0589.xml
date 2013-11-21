@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0589"/>
+<meta type="date" value="1659-02-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0589">
+<div type="opener">
+<p><persName key="mylo002">Milon</persName>.</p>
+<p>Le <date>20 febr. 1659</date>. a <placeName key="denha004">la H[aye]</placeName><note n="#1"/>.</p>
+</div>
+<p>Ingratitude. Horologe. Petit. O et P<note n="#2"/> font aller avec plus de facilitè. Auzout la mesme que moy. Les Especes autres, je n'en fais pas grand cas. Wrens propositie. J'ay envoyè à Schoten. En quoi ma demonstration differe. Qu'il voye ma lettre à Carcavy<note n="#3"/>; que Pascal l'estime. La perle de Sluze, et ce qu'il m'en escrivit, que mon invention estoit preferable a tout cela.</p>
+<p>Que ce n'est autre chose que la Parabole Cubique. Je chercheray s'il y a quelque commoditè pour me faire apporter les exemplaires, qu'il face le mesme. Baisemains aux &amp;c.</p>
+<p>S'il y a des exemplaires j'en envoyeray.</p>
+</div>
+</body>
+</text>
+</TEI>

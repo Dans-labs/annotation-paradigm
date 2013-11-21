@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0169"/>
+<meta type="date" value="1653-12-13"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0169">
+<div type="opener">
+<p><persName key="scho197">Fr. à Schooten</persName> Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName>.</p>
+</div>
+<p>Acceptis tuis, 10 Dec. ad me datis, gratijsque pro ijs redditis, nolui deficere promissis: nimirum, ut Te participem facerem eorum, quae Nobilissimus Cartesius et Ornatissimus Bartholinus<note n="#1"/> dignati sunt ad me perscribere, singuli suam de Circuli Quadraturâ Clarissimi Gregorij à Sancto Vincentio proferentes sententiam, prout eandem priori examinandam magnopere commendassem. Quocirca à Te praecor, ne haec<note n="#2"/> alijs communicatum iri sinas, siquidem alter ingenuè mentem suam et coram amico exponit, quae si alijs communicata fuerint, pacem non parum dubio procul turbarent, (cum veritas odium pariat); et alter omnino à me petierit, ut, quae ille ex literis Clarissimi Domini <persName>De Beaune</persName> piae memoriae excerpserat, penes me reservare vellem, nec ulli alteri ostendere. Quae tamen, ut ut mihi iniuncta, ut laterent Te, non committendum
+duxi, sed ut in veritatis defensionem, quam tibi defendendam suscepisti, usui forte esse possent. Si Guldino meo<note n="#3"/>, alijsque quae commodavi Tibi, utaris parum, quaeso Ducquio committere velis, quem paucos intra dies hic exspecto, qui facilè illa apportabit. Caeterum rogo ut me credas</p>
+<div type="closer">
+<p>Tibi addictissimum <persName key="scho197">Fr. à Schooten</persName>.</p>
+<p><placeName key="leide001">Leijdae</placeName> <date>13 Decembr. 1653</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo atque Clarissimo Domino <persName key="huyg003">Christiano Hugenio</persName>, amico integerrimo.
+<lb/>Hagae
+<lb/>per amicum.</p>
+</div>
+</body>
+</text>
+</TEI>

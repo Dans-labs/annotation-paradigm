@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1074"/>
+<meta type="date" value="1662-11-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="zuili001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1074">
+<div type="opener">
+<p>A Zulichem ce 13 novembre 1662.</p>
+</div>
+<p>Vous verrez par la lettre cy jointe<note n="#1"/> que je vous prie d'envoier a Mon Pere comment a reussi nostre entreprise contre ceux de Herwijne, a la quelle il sera necessaire de retourner encore une fois. Ce dessein pourtant ne m'arresteroit pas plus longtemps icy, n'estoit que j'attens que Monsieur de Loenen<note n="#2"/> soit de retour a Bommel, a qui je voudrois volontiers parler et recommander nos affaires devant que partir. Je croy qu'il faudra que je passe encore icy cette sepmaine, quoy qu'assez a regret, car voila le mauvais temps qui commence a venir et rend ce sejour insupportable. Hier il n'y eut point de lettres pour moy a Gorcum. Mes dernieres d'icy furent du 9<hi rend="sup">e</hi><note n="#3"/>.</p>
+</div>
+<div type="para">
+<p>Myn Heer
+<lb/>Myn Heer <persName key="huyg007">van Zeelhem</persName> ten huyse van de Heer <persName key="huyg001">van Zuijlichem</persName>
+<lb/>In s gravenhage.</p>
+</div>
+</body>
+</text>
+</TEI>

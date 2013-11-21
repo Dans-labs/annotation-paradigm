@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0921"/>
+<meta type="date" value="1661-11-24"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="heve011"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0921">
+<div type="opener">
+<p>Amplissimo et Clarissimo Viro Domino <persName key="heve011">J. Hevelio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.</p>
+</div>
+<p>Libellum Horroxij<note n="#1"/> ante tres circiter hebdomades<note n="#2"/> ad te misi, commendavique Domino <persName>Pels</persName><note n="#3"/> qui civitatis vestrae hic negotia gerit, sed quoniam major erat fasciculus quam qui videretur tabellario committi posse, dixit se prima quaque occasione nautae alicui commendaturum, et fecit jam pridem. Acceptis enim postremis hisce literis tuis quaesivi ex ipso qui fieret ut nondum nostrae ad te perlatae essent. Ille vero non dubitare se respondit paulo post tibi redditas esse quam tuas exarasses, at quia memini alias quoque maritimo itinere quaedam ad te misisse, quae valde diu obheserint, hisce paucis tibi rescribendum ratus sum, ut saltem scires per me non stare quo minus Mercurium tuum Venus invisat. Quod ni aliter visum fuisset Pelsio ego illam per tabularium misissem, ac profecto doleo moram injectam esse editioni eorum quae sub prelio habes. Dominum Bullialdum uti jubes tuo nomine salutabo a quo nisi fallor jam literas acceperis, ex hac urbe datas priusquam hae ad te perveniant. Magna cum voluptate narrantem audivi de ijs quae nupera ista peregrinatione vidit didicitque, ac praecipue cum ad te ventum erat; cujus mihi machinationes, studia, vitam denique omnem tam accurate edoctus sum, ut plura de his citurus non fuerim si te ipse adijssem. Quantis vero laudibus omnia prosequatur nihil attinet hic referre, scis enim quanti te faciat, nec dubitas, ut spero, quin ego libentissime illas audiam. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Comitum</placeName> <date>24 Novembris 1661</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

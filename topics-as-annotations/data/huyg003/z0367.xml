@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0367"/>
+<meta type="date" value="1657-01-05"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0366"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0367">
+<div type="opener">
+<p>A <placeName key="parij001">paris</placeName> ce <date>5<hi rend="sup">e</hi> Januier 1657</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Lorsque j'estudiois l'Analyse je fis la combinaison des sections coniques, pour voir les Equations qui se pourroient resoudre par jcelles; 1<hi rend="sup">o</hi>. Je joignis la parabole
+et le Cercle, mettant le Centre du Cercle dans l'Axe de la parabole tant du costé du concaue que du conuexe, et fis passer la circonference par le sommet et hors du sommet, toutes ces conjonctions ne donnoient que des Equations planes. mais placeant le Centre du cercle hors de l'Axe si la Circonference passoit au sommet j'auois toutes les Equations Cubiques, si hors du sommet j'auois toutes les quarrequarrées, purgées en ces deux derniers cas de leur plus haut degré. 2<hi rend="sup">o</hi>. Je joignis deux paraboles mettant leurs axes reciproquement parallels a leurs ordonnées, si vne des deux passoit au sommet de l'autre j'auois toutes les Equations Cubiques purgées de leur plus haut degré, si la seconde parabole ne passoit par le sommet de l'autre j'auois toutes les quarréquarrées aussi purgées. 3<hi rend="sup">o</hi>. vnissant l'Axe d'vne parabole auec vne des Asymptotes d'une hyperbole, cela me donnoit des Equations Cubiques purgées, Je ne joignis pas ces deux courbes d'autre maniere, ne doutant point qu'estant jointes autrement elles ne donnassent des Equations quarrequarrées. 4<hi rend="sup">o</hi>. Le Cercle passant par le sommet de l'hyperbole et le centre de ce cercle estant hors de l'Axe, me donnoit des Equations Cubiques affectées du plus haut degrè. Je me contentay aussi de croire, si la Circonference du cercle ne passoit par le sommet de l'hyperbole, que l'on auroit toutes les Equations quarréquarrées sans estre purgées. 5<hi rend="sup">o</hi>. Enfin l'Ellipse et le Cercle passant par son sommet, et dont le Centre estoit hors l'Axe de l'Ellipse, me donnoient des Equations Cubiques non purgées, et sans difficultè si ce cercle ne passe par aucun des sommets de l'Ellipse, jl donnera des quarrequarrées aussi affectées du plus haut degrè, comme en l'hyperbole. Je trouuois aussi que l'Ellipse
+estoit vn lieu fort determiné et qu'il estoit beaucoup plus limité que l'hyperbole laquelle auec son opposée et ses deux conjuguées ne passoit que pour vn lieu. Monsieur <persName key="robe012">De Roberual</persName> me satisfit de cette difficulte, et me dit que l'Ellipse estoit accompagnèe de ses 4. hyperboles qu'elle touchoit aux 4. sommets de leurs axes, et que ces 5. sections pouuoient estre prises pour vn lieu, qu'il falloit considerer six cones rectangles contrepointez
+<figure><graphic url="huyg003oeuv02ill05.gif"></graphic></figure>
+a vn mesme sommet, qui font trois couples de Cones opposez comme A <hi rend="i">b c</hi>, A <hi rend="i">d e</hi>; A <hi rend="i">c d</hi>, A <hi rend="i">e b</hi>, Les deux autres Cones ont le mesme sommet A, et touchent les autres, comme celuy de deuant touche les autres par les costez A <hi rend="i">i</hi>, A <hi rend="i">f</hi>, A <hi rend="i">g</hi>, A <hi rend="i">h</hi>, Le sixieme Cone est contrepointe à celuy cy; vn plan pourra couper cinq de ces Cones en sorte que les sections soient deux hyperboles opposées, deux conjuguées, et l'Ellipse qui les touchera toutes 4. aux sommets de leurs axes. Donc si on ne peut resoudre quelques Equations Cubiques par l'jntersection d'vne Ellipse et d'vn Cercle, faut auoir recours a ses 4. hyperboles qui suppléront a son deffaut. Maintenant je considere que l'on peut au trauers de ces 6. cones mener vn plan comme <hi rend="i">g</hi> K <hi rend="i">h</hi>, qui fera pour sections dans les deux cones contigus <hi rend="i">c</hi> A <hi rend="i">d</hi>, <hi rend="i">c</hi> A <hi rend="i">d</hi> deux paraboles egales qui estant opposées s'entretoucheront au sommet commun K, ce mesme plan dans deux autres cones pourra faire deux hyperboles, ou d'autres sections; si donc toutes ces
+dernieres Conisections de ce plan <hi rend="i">g k h</hi> ne sont contées que pour vn lieu, ne suppléeront elle pas au deffaut de la seule parabole dans les cas des Equations ou elle est defectueuse, Je vous prie monsieur de prendre la peine de l'examiner pendant que vous estes dans cette estude, et d'esprouuer premierement si deux paraboles egales contrepointées au mesme sommet de leurs axes, ne font point l'effect entier estant coupées par le Cercle de Monsieur <persName>Lepailleur</persName>, l'Exemple de l'Ellipse me persuade fort, La parabole sera peut estre de mesme, voyez donc si elle ne demande point le secours de sa compagne, et de ses hyperboles, Jl y a grande liaison entre les Equations et ces sections coniques, aprez cet examen je donne les mains a ce que vous et Monsieur <persName key="huyg003">de Zulichom</persName> aurez arrestè, Je Luy fais la mesme priere et Luy enuoye celle cy toute ouuerte. Je ne croy pas que vous le trouuiez mauuais, et que vous soyez faschè qu'il lise que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="mylo002">Mylon</persName>.</p>
+</div>
+<p>Messieurs <persName key="carc010">De Carcaui</persName> et <persName>Bosse</persName><note n="#1"/> vous baisent les mains.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="scho197">De Schooten</persName>, professeur demeurant rue heerestede<note n="#2"/> A Leyden En hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

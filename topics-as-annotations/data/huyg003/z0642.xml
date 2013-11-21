@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0642"/>
+<meta type="date" value="1659-07-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0642">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Francisco Schotenio</persName>, <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Vir Eruditissimus mihique amicissimus <persName key="slus001">Franciscus Slusius</persName> cum opusculum istud<note n="#1"/> de cubi duplicatione et cubicarum aequationum effectione edidisset, ejus exemplaria
+aliquot ad me misit, voluitque ut Tibi unum suo nomine offerrem. Agnosces puto mecum elegantem in his methodum latere, nec cuivis obviam, praesertim si antehac ipse quoque duas medias ope ellipsis et circuli quaerere aggressus es.
+Alterum exemplar Domino <persName key="goli002">Golio</persName>, si placet trades meoque nomine salutem addes. Vale. Systema Saturnium accipies propediem.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName> <date>26 Jul. 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="scho197">Fr. van Schooten</persName>, Professor der Mathematijcken Tot Leyden.
+<lb/>In de Heeresteeg.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0476"/>
+<meta type="date" value="1658-03-26"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0476">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Temerariae reprehensionis culpam non est quod incurrisse Te verearis, fateor enim vltro me a Te non temere sed iusta de causa reprehensum; quippe qui ineptâ locutione ansam praebuerim, vt sensum meum aliorsum acciperes ac volebam. Quod si mihi in animum incidisset ibj haerere scrupulum tuum, statim me primis ad Te litteris purgassem, sed id ne per nebulam quidem a me visum, satis indicat exemplum solidj infinitj a Cissoide productj quod tum attulj. Recte itaque fecistj quod errare me posse censueris; Triste enim hoc mortalitatis nostrae priuilegium est, quo vti me fateor vel inuitum, vtinam non tam saepe. Dabo interim operam posthac, vt accuratiorj diligentia <hi rend="i">ἀϰριβεστάτῃ</hi> tuae <hi rend="i">ϰρίσει</hi> satisfaciam, per quam non licet esse negligentem, vt ait ille. <hi rend="i">ϰαὶ ταῦτα μὲν δὴ ταῦτα.</hi> Cissoidis vero proprietatem praeter hanc quam attuli, et alias quae ad tangentes spectant, quas duplicj
+<figure><graphic url="huyg003oeuv02ill83.gif"></graphic></figure>
+modo duxj, nullam peculiarj nota dignam animaduertj. A Te igitur elegantiorem illam, quam polliceris, expecto. Accipe interim in antecessum quid circa Hyperbolem meditatus sim. Sit Hyperbola cuius axis BI vertex K, asymptotj BG BC (quae facilioris calculj gratia, angulum includant semirectum) applicata quaelibet ad asymptotos producta AEDC. Jntelligantur reuoluj circa CM axi parallelam tam Hyperbola EKD quam triangulum ABC. Dudum ostensum est, si solidorum genitorum ratio innotesceret, notam pariter futuram Hyperbolae dimensionem. Nunc ad asymptoton BC, ducatur quaelibet normalis CG, occurrensasymptoto alterj in G, et Hyperbolae in H et F. Aio, si tam triangulum GBC, quam Hyperbola HKF, reuolui intelligantur circa rectam BC, rationem solidorum ab ijs genitorum notam esse, nec tamen eapropter Hyperbolae quadraturam darj. Non absimile est quod contingit si Hyperbola EKD circa LBM rectam per centrum applicatae parallelam reuoluatur: annulum enim productum facile metimur, cum fusum Hyperbolicum ortum ex reuolutione eiusdem circa ED nullus hactenus sit dimensus. Haec alijs fortasse mira videri possint: non Tibj qui facile rationem peruides, et nexum qui inter centri grauitatis et quadraturae inuentionem intercedit, olim luculenter et ingeniose ostendistj. Scribe interim num in ijsdem mecum cogitationibus circa haec solida aliquando fueris, et me constanti semper affectu credito</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>26 Martij 1658</date></p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

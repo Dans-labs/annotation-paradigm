@@ -1,0 +1,30 @@
+// The query Ulrik used in the final version of his COLING article.
+// It's a variant of the Richteren 5 query (lq07), and explicitly looks
+// for agreement bewteen the verb and the first part of the compound
+// subject. It finds 234 instances, over against about 350 instances
+// for the same query without the agreement.
+
+// ident @(#)lq18.mql	1.1 04/06/07
+
+SELECT ALL OBJECTS
+WHERE
+[Clause
+  [Phrase function = Pred
+    [Word AS w1 psp = verb
+          and number = singular
+          ]
+  ]
+  ..
+  [Phrase function = Subj
+    [Word (psp = noun
+           or psp = proper_noun
+           or psp = demonstrative_pronoun
+           or psp = interrogative_pronoun
+           or psp = personal_pronoun)
+          and number = singular
+          and gender = w1.gender]
+    ..
+    [Word psp = conjunction]
+  ]
+]
+GO

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0177"/>
+<meta type="date" value="1654-02-28"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0177">
+<div type="opener">
+<p>Perillustris ac Generosissime Domine Colendissime. Salutem â Domino et obsequia paratissima.</p>
+</div>
+<p>Nolui celeriori responso studiorum tuorum tenorem interrumpere, quae te arduo quidem, sed glorioso tamen consilio quadraturae circularis investigationi dedicâsse è proximis tuis laetabundus accepi. Gratulor audaciae tuae, quae te in eum scopum collineare facit cogitationes tuas, quem toties ferire volens Antiquitas, incassum demum vidit labores suos cecidisse. Jn eodem Themate aliquid hactenus praestitit Excellentissimus Dominus Dominus <persName key="marc901">Marci</persName>, cujus Theoremata multum mihi probantur: spero eiusdem lucubrationes in hac materia sub initium Proximi Paschatis publici iuris fore. Opera illius antehac evulgata si videre desideras, facilè obtinere poteris â Moreto Bibliopola Antverpiano<note n="#1"/>, ad quem (ut nuper ex eodem intellexi) ante biennium circiter complura exemplaria destinavit. Pervenitne tandem in manus tuas libellus meus? Certè iam alter mensis est, ex quo eundem tradidi duobus iuvenibus hinc Lovanium commigraturis ad Reverendum Patrem Gregorium <seg org="perserendum" resp="#AD" type="corr">perferendum</seg>, â quo hactenus responsum non obtinui: timeo nè ijsdem moram iniecerint Copiae Lotharingicae per Coloniense territorium transeuntibus<note n="#2"/>. Placet
+mihi maiorem in modum sectio Sphaerae in data ratione secundum methodum tuam, eamque omnibus antefero, quas hactenus vidi, propter simplicitatem constructionis. Perge porrò, Ingeniosissime Hugeni, Geometriam laboribus tuis illustrare, quos certè utilissimos suscepisti: ac ea praesertim studiosè prosequere, quae dioptricam concernunt, quandoquidem in ea materia parum admodum Antiquitati debemus, et â solo Cartesio (quod ultro libens fateor) nuper lucem accepimus. Neque suaderem differri evulgationem eorum, quae sub manibus tibi sunt; audio enim â quodam Romano<note n="#3"/> novam propediem expectari Opticam<note n="#4"/>, per quem utique nollem aliquid de primae inventionis gloria Tibi subtractum. Quod autem ais nolle te in Jride tua colorum meminisse, nescio an iure facias: Tolle enim Jridi arcum et colores quid erit obsecro, unde Thaumantias dici possit? Est, fateor, res ea Philosophica, sed non iudico tamen impossibile, quibusdam praesuppositis, Geometricis eam discursibus inserere. Sed nolo supervacaneis verbis diutius obstrepere industriae tuae, quam haud dubiè praesentes literae Geometricis chartis insudantem inveniunt, et invitam fortassis abstrahunt. Valetudinem tuam quàm diligentissimè cura, Nobilissime Hugeni, meique indigni memor identidem vive. Dabam Pragae 28 Febr: 1654.</p>
+<div type="closer">
+<p>Perillustris ac Generosissimae Dominationis Tuae servus promptissimus</p>
+<p><persName key="kinn013">Godefridus Aloysius Kinner de Löwenthurn</persName>.</p>
+<p><hi rend="i">Manu propriâ</hi>.</p>
+</div>
+</div>
+<div type="para">
+<p>Perillustri ac Generosissimo Domino <persName key="huyg003">Christiano Hugenio</persName>.
+<lb/>Domino ac Patrono mihi Colendissimo Observandissimoque.
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.
+<lb/>sGraven Haage.</p>
+</div>
+</body>
+</text>
+</TEI>

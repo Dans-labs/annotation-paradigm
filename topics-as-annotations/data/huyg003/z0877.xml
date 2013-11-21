@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0877"/>
+<meta type="date" value="1661-07-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="thev001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0877">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>21 Juillet 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'espere que vous aurez receu celle<note n="#2"/> que je vous escrivis de Londres le jour devant mon depart, par la quelle je vous remerciay de l'extrait de la lettre de Pologne<note n="#3"/> touchant la machine volante. Vous me mandastes que vous aviez un liure pour moy, venu d'Italie, qui traitoit de la Dioptrique, et je ne sceus pas alors, ni n'ay sceu jusqu' a present vous indiquer aucune voye par ou vous pourriez me
+l'envoier: mais maintenant que j'ay un frere<note n="#4"/> a Paris il n'en faut point chercher d'autre. Je l'ay donc priè de vous aller veoir et pour cela et pour vous assurer quant et quant de mes treshumbles respects. Il est revenu nouuellement d'Espagne avec nos Ambassadeurs et il y a 6 ans qu'il eut l'honneur avec moy de vous veoir, dont peut estre il vous restera encore quelque souuenir. Faites moy sçavoir de grace si ce livre<note n="#5"/> a estè envoyè pour moy, et par qui. Ce sera peut estre Monsieur <persName key="vivi012">Viviani</persName>, qui m'a aussi fait present, a ce que m'a escrit Monsieur Heinsius<note n="#6"/>, de son liure de maximis et minimis<note n="#7"/>, que je n'ay pourtant pas encore receu.</p>
+<p>Je vous ay dit dans mon autre lettre la difficultè que je trouuay dans la description de la machine, a sçavoir que pour faire battre les ailes il faut que l'on tire une corde, ce que je ne comprens pas comment il se peut faire, et que cependant la machine s'eleve dans l'air. Il paroit bien de la que ce n'estoit pas un tel automate qui par sa propre force fut capable de s'eleuer, comme je croy que j'en pourrois faire, et peut estre dans peu je feray par plaisir, a l'exemple du bon Archytas<note n="#8"/>. J'ay escrit l'autre jour a Monsieur Chapelain<note n="#9"/> quelques particularitez touchant l'academie nouuelle de Londres, desquelles je croy qu'il vous aura fait part, si vous vous estes rencontrè ensemble chez Monsieur de Montmor. En tout cas il n'est pas necessaire que je vous en fasse sçauoir puis que desormais la correspondence entre la dite academie et la vostre est establie, de sorte que vous serez tousjours informè de ce qui s'y passe. Que je sçache s'il vous plait, ou l'on en est chez vous auec la verrerie, et la fabrique de lunettes.</p>
+<p>Je n'ay jamais eu de response del Signor Ricci, a qui j'escrivis<note n="#10"/> estant a Paris. Mais je pardonne aisement ces sortes d'omissions comme j'ay souuent besoin qu'on m'en pardonne aussi. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>P.S. Je baise treshumblement les mains a Monsieur <persName key="auzo011">Auzout</persName>, et tous les autres amis.</p>
+</div>
+</body>
+</text>
+</TEI>

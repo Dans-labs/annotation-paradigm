@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0125"/>
+<meta type="date" value="1652-04-06"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0125">
+<div type="opener">
+<p><persName key="vinc027"><seg org="Cregorius" resp="#AD" type="corr">Gregorius</seg> a S. Vincentio</persName> <persName key="huyg003">Christiano Hugenio</persName>. S.P.D.</p>
+</div>
+<p>Miraberis fortassis, quo consilio distulerim in hoc tempus, tuis respondere. Vnum rogo, id eo fine factum non fuisse credas, quod paruo tenear desiderio, videndi faciliorem eiusdem problematis compositionem, de qua vltimae mentionem fecerunt: et quod animus occupationibus distentus, quae a Geometricis alienae sunt, formidarit contractiores horas, quam requirat genius Geometricus: Gratis mihi impertiri renuis potiorem illam methodum tuam, pretiumque adiungis, vt exhibeam tibi, quoties ratio 53. ad 203. contineat rationem 5. ad 11. secundum sensum propositionis 44. libri 10 a me editi. Quaesitum hoc, aliquam sollicitudinem arguere videtur, a qua liberum te vellem. Expectas vt libello tuo respondeam, fiet, Deo propitio &amp; vita comite; nec solum ad dubia quae vulgasti, sed ad omnium, qui primam quadraturam non ex mente mea perceperunt. Quaeso sollicitudinem hanc in me conijce, quae cum me minimè premat, nec eos sollicitos reddere conuenit, qui difficultates suas proferendo, occasionem praebent, vberioris lucis extorquendae. Difficile fuit, materias vsque adeo intactas ad methodum doctrinae ita concinnare, vt omnium jngeniis, et iudicijs fieret satis.</p>
+<p>Ne tamen de pretio fraudare aliquid videar, ad quaesitum tuum respondeo vniversaliter. Datis duabus rationibus quibuscunque, toties maior continet minorem,
+quoties maior est multiplicata minoris. quodsi vlterius requiris: quoties maior est multiplicata minoris; hoc aio dependere, ab inuentione rationis, quae communis est mensura, et maioris, et minoris rationis. Hanc materiam obiter tractauit Pater Sarasa, (qui te salutarj iubet) in responso ad Mersennium<note n="#1"/>; et diductius eam tractabimus in Mezabio<note n="#2"/>. En pretium habes quod petijsti: iure igitur postulo quod promisisti. Valę.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gand</placeName>. <date>6. Apr. 1652</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName>.
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

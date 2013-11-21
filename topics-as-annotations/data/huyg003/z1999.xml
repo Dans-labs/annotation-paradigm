@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1999"/>
+<meta type="date" value="1674-11-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1999">
+<div type="opener">
+<p>A Monsieur <persName key="leib013">Leibnitz</persName>.</p>
+<p>Ce 7 novembre 1674.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous renvoie, Monsieur, Vostre escrit touchant la Quadrature Arithmetique<note n="#1"/>, que je trouve fort belle et fort heureuse. Et ce n'est pas peu à mon avis d'avoir decouvert, dans un Probleme qui a exercè tant d'esprits, une voye nouvelle qui semble donner quelque esperance de parvenir a sa veritable solution. Car le Cercle, suivant vostre invention estant a son quarrè circonscrit comme la suite infinie de fractions 1/1 - ⅓ + ⅕ - 1/7 + 1/9 - 1/11 etc. à l'unitè, il ne paroistra pas impossible de donner la somme de cette progression ni par consequent la quadrature du cercle, apres que vous aurez fait voir que vous avez determinè les sommes de plusieurs autres progressions qui semblent de mesme nature<note n="#2"/>.
+Mais quand mesme l'impossibilitè seroit insurmontable dans celle dont il s'agit, vous ne laisserez pas d'avoir trouvè une proprietè du cercle tresremarquable, ce qui sera celebre a jamais parmi les geometres. Pour ce qui est de la ligne courbe Anonyme qui sert a Vostre demonstration, j'avois envie de la baptizer, en luy donnant quelque nom composè des noms de deux lignes dont je trouvois qu'elle estoit produite, qui sont le cercle et la Cissoïde des anciens<note n="#3"/>. Mais ayant vu du depuis que cette mesme ligne a estè premierement mise en avant par l. Gregorius<note n="#4"/>, je crois qu'il luy faut laisser le droit de la nommer comme il voudra. Il s'en est servi pour demonstrer le rapport qu'il y a entre la mesure de la Cissoïde et celle du cercle, qui est de mon
+invention<note n="#5"/>, ainsi qu'il paroit par le traitè de M. Wallis <hi rend="i">de Cissoide</hi><note n="#6"/>, et par ce que le mesme autheur en a dit dans son traitè du mouvement<note n="#7"/>, ou la demonstration que j'ay donnée de ce Theoreme est inserée. Laquelle estant supposée, vous pourriez par là abbreger<note n="#8"/> de beaucoup vostre demonstration de la Quadrature Arithmetique. Mais vous ferez en cela comme vous le jugerez à propos. Je vous donne le bon jour et suis tout a vous etc.</p>
+</div>
+</body>
+</text>
+</TEI>

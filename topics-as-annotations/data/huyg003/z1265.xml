@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1265"/>
+<meta type="date" value="1664-10-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="peti033"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1265">
+<div type="opener">
+<p><persName key="peti033">Petit</persName>.</p>
+<p>30 Octobre 1664.</p>
+</div>
+<p>J'ay parfois escrit a Monsieur Thevenot et encore dernierement<note n="#2"/>. Salut aux amis.</p>
+<p>J'auray bien de la peine a vous faire une description exacte de mon horologe. et jamais vous ne scauriez le bien faire imiter que vous ne la voiez. Je suis encore a faire des essais. Mon horologer me prie de garder le secret jusqu'a ce qu'on en ait donnè privilege. Monsieur Thevenot va venir<note n="#3"/>, venez avec luy.</p>
+<p>Invention pour imprimer sur le verre, si cela tient ferme, il pourroit servir aux vitres, autrement scachez que nos scavants en dessein estiment fort peu ces peintures illuminées. Que dites vous du tour de Campani<note n="#4"/>.</p>
+<p>Des pendules Isochrones<note n="#5"/>. J'ose les proposer aux Geometres comme autant ou plus difficiles que ceux de Pascal<note n="#6"/>. Sphere, conoide hyperbolique. Methode generale.</p>
+<p>La maniere de Thuret peut servir pour l'usage commun et quant il n'y a point de place, mais s'il en fait 2 avec de secondes il verra combien les pendules sont meilleurs.</p>
+<p>Je seray bien aise de voir ce qu'il a escrit de la jonction des mers, pour me servir d'instructions.</p>
+<p>Ses observations de Jupiter devroient estre communiquees en Angleterre, si elles ne le sont.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2269"/>
+<meta type="date" value="1682-07-11"/>
+<meta type="sender" value="roqu005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2269">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 11 Juillet 1682.</p>
+<p>Monsieur</p>
+</div>
+<p>Je uous aurois enuoyé dez la sepmaine passée le Journal ou J'ay mis uostre reponse contre Mr. <persName key="cata001">L'abbé Catelan</persName><note n="#1"/>, mais j'attendois que je peusse uous enuoier en meme temps la replique qu'il pretend y faire<note n="#2"/>, mais Monsieur comme peut estre j'attendrois trop je n'ay pas uoulu differer a uous donner cette marque de mon attachement. Vous uerrez de quelle maniere je traite les libraires d Amsterdam<note n="#3"/> personne ne doute icy que si uous uouliez appuyer auprez de Mr. le Prince d'Orange une requeste que je ferois presenter à M.<hi rend="sup">rs</hi> les Etats Generaux par la voye de Monsieur L'ambassadeur de France, on n'ostat à ces canailles là la liberté d'imprimer le Journal pour ne la laisser qu'a un seul qui receuroit de moy. Vous en ferez Monsieur ce que uous jugerez à propos pour le bien du Public. J'ay suivi exactement uos lettres que j'ay fait uoir à Monsieur L'abbé Galloys. Il me dit quil deuoit uous écrire, je ne sçay s'il l'aura fait. J'en scauray de nouuelles un de ces jours que ie dois aller à Versailles. Je uous prie Monsieur desormais de rendre plus de justice a l'attachement que j'ay pour uous. Je ne donneray jamais rien où il soit parlé de uous, que ie ne le communique icy à uos amis pour me conduire suiuant quils le trouueront a propos. Si uous me faittes lhonneur de m'ecrire, je uous prie Mons.<hi rend="sup">r</hi> ou de le faire par quelque commodité, ou de mettre la lettre que uous m'adresserez sous l'enueloppe de Monsieur Mongé chez Monseig.<hi rend="sup">r</hi> L'archeuesque de Reïms a Paris. Je suis obligé
+de uous demander cela a cause du prix epouuantable pour le port des lettres qui uiennent des pais etrangers. Je suis auec beaucoup de respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tresobeissant serviteur <persName key="roqu005">De la Roque</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

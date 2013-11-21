@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1706"/>
+<meta type="date" value="1669-02-16"/>
+<meta type="sender" value="nula011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="1705"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1706">
+<p>Sit data lens <formula>ACB</formula> cuius superficies <formula>ABC</formula> sit portio sphaerae cuius centrum <formula>F</formula> &amp; diuiso arcu <formula>ABC</formula> bifariam in <formula>B</formula>, ducatur <formula>FB</formula> &amp; producatur quantum opus, &amp; assumpto in dicta superficie ad libitum puncto <formula>D</formula> ex quo exiens radius <formula>ED</formula> parallelus
+rectae <formula>FB</formula> refringatur in <formula>I</formula>, ductaque Tangente <formula>GD</formula>, erit recta <formula>FDK</formula> ipsi ad angulos rectos, si iam detur refractionem vitri ad aerem esse vt lineam <formula>M</formula> ad lineam <formula>L</formula> datas,
+<figure><graphic url="huyg003oeuv06ill82.gif"></graphic></figure>
+erit iuxta Cartesium vt <formula>M</formula> ad <formula>L</formula> ita sinus anguli <formula>FDE</formula> ad Sinum anguli <formula>IDK</formula>, dato ergo angulo <formula>FDE</formula> datur &amp; angulus <formula>IDK</formula> sed angulus <formula>FDE</formula> propter paralelismum linearum <formula>FB</formula>, <formula>ED</formula> aequatur angulo <formula>BFD</formula>, qui mensuratur per arcum <formula>BD</formula> assumptum quare tam angulus <formula>FDE</formula> quam angulus refractus <formula>IDK</formula> sunt cogniti; quare &amp; illarum complementa <formula>FGD</formula>, <formula>GDI</formula> cognita erunt. Sed angulus <formula>FGD</formula> externus cum sit aequatur duobus <formula>GDI</formula> complemento anguli refracti, &amp; <formula>GID</formula> erit ergo angulus <formula>GID</formula> excessus quo complementum anguli refracti superatur a Complemento anguli arcus assumpti, quare cum eadem sit differentia inter angulos, quae est inter illorum complementa, erit quoque angulus <formula>GID</formula> differentia inter angulum arcus assumpti &amp; angulum refractum; in Triangulo ergo <formula>FID</formula> noti sunt omnes anguli vna cum latere <formula>FD</formula> radio nempe Sphaerae datae, quare erit iuxta doctrinam Triangulorum ut Sinus anguli <formula>FID</formula> differentia inter angulum datum &amp; refractum ad rectam <formula>FD</formula> radium Sphaerae datae ita Sinus anguli <formula>FDI</formula> aequalis Sinui anguli refracti <formula>IDK</formula> ad rectam <formula>FI</formula> a qua ablata recta <formula>FB</formula> aequali radio dato reliqua erit <formula>BI</formula> longitudo foci.</p>
+<p><figure><graphic url="huyg003oeuv06ill83.gif"></graphic></figure></p>
+<p>Verum si radius <formula>ED</formula> ex aere refringatur in vitrum <formula>ABC</formula> &amp; progrediatur in <formula>I</formula>, factis omnibus vt supra patet angulum <formula>EDK</formula> aequari angulo <formula>BFD</formula> qui assumitur, datus est ergo, cum itaque sit iuxta Cartesium vt linea <formula>L</formula> ad lineam <formula>M</formula>. ita Sinus anguli <formula>EDK</formula> ad Sinum anguli <formula>FDI</formula> refractum, si lineae <formula>L</formula> &amp; <formula>M</formula> sint datae, datus erit et angulus refractus <formula>FDI</formula>, patet itaque cum angulus <formula>BFD</formula> assumptus, sit externus, angulum <formula>FID</formula> esse differentiam inter angulum <formula>BFD</formula> assumptum, &amp; <formula>FDI</formula> refractum. In Triangulo ergo <formula>FDI</formula> dantur omnes anguli, cum latere <formula>FD</formula>, erit ergo vt Sinus anguli differentiae inter angulum assumptum &amp; refractum ipsi competentem, ad radium Sphaerae datae ita Sinus anguli assumpti, ad rectam quandam cui si addatur radius datus, componetur tota longitudo foci.</p>
+</div>
+</body>
+</text>
+</TEI>

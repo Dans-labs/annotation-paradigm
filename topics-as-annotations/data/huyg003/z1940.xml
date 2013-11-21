@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1940"/>
+<meta type="date" value="1673-05-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="medi012"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1940">
+<div type="opener">
+<p>Serenissimo Principi <persName key="medi012">Leopoldo de Hetruriâ</persName>.</p>
+<p>Serenissime Princeps</p>
+</div>
+<p>Rogavi Illustrissimum D. de Gondy<note n="#1"/> ut cum primum commodum esset, mitteret ad Celsitudinem Tuam exemplum libri mei de Pendulorum motu, quem post diutinas moras, partim ab adversâ valetudine, partim alijs ex rebus ortas, absolvi denique et in lucem edidi. Hunc non tantum probari optem Celsitudini Tuae, sed et patrocinio ipsius maxime commendatum cupiam si quos forte iniquiores lectores illic terrarum experietur. Scio enim non deesse, qui ipsum quod trado Horologij
+oscillatorij inventum nobis adscribi nolint, inter quos Experimentorum Academiae Florentiae<note n="#2"/> scriptor<note n="#3"/> ita ad Galileum filiumque ejus illud refert<note n="#4"/>, nostrosque conatus dissimulat ut non obscure plagij crimen mihi objecisse videatur. Optassem sane Celsitudinem Tuam pro affectu illo quo pridem nos nostraque prosequi dignata est, intercessisse ut ne illud fieret, cum certe bonam fidem a me non abesse, inventumque horologii istius typis descriptum<note n="#5"/> ad Celsitudinem Tuam me misisse constaret, priusquam ulla tentaminis Galileani fama vulgata esset. Nunc vero hoc saltem boni consulet spero, quod ijs quibus potui argumentis causam meam agere, suspicionemque adeo iniquam depellere conatus sum<note n="#6"/>. Caeterum et de illo experimentorum libro rebus utilissimis, egregie subtiliterque excogitatis pleno et de eximijs Cl. Redij<note n="#7"/> opusculis maximas Tuae Celsitudini gratias ago<note n="#8"/>, utque similibus benevolentiae suae testimonijs ubi occasio feret me beare pergat enixe rogatum cupio</p>
+<div type="closer">
+<p>Serenissimae Celsitudinis Tuae Devotissimus <persName key="huyg003">Chr. Hugenius</persName>.</p>
+<p>Lutetiae Parisiorum 22 Maii 1673.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

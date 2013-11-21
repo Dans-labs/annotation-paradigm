@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1661"/>
+<meta type="date" value="1668-09-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="esti011"/>
+<meta type="senderloc" value="viry_901"/>
+<meta type="recipientloc" value="chart901"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1661">
+<div type="opener">
+<p>Pour M. <persName key="esti011">Estiene</persName> a Chartres.</p>
+</div>
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Dessein envoié a Monsieur Estiene a Chartres avec le centre d'agitation d'une sphere. que ceux de la Societè Roiale en Angleterre m'ont escrit devant plusicurs années de la mesure universelle, et qu'ils ont preserè ma maniere a la leur, que ce seroit a eux a la baptiser plustost qu'a luy.</p>
+</div>
+<div type="opener">
+<p>A Viry<note n="#2"/> ce 21 Septembre 1668<note n="#3"/>.</p>
+<p>Monsieur</p>
+</div>
+<p>Le peu de loisir que j'ay eu tous ces jours passez et l'esperance de vous voir à Paris pour vous respondre de bouche mieux que je ne scaurois faire par escrit, aux propositions et aux difficultez contenues dans vostre obligeante lettre, sont cause que j'ay tant differè celle cy. Mais Monsieur Piquet m'ayant temoignè depuis peu que vous l'attendiez tousjours et que la fabrique de vostre pendule estoit retardée par ma faute, j'ay creu estre obligè de rompre le silence pour ne pas me rendre coupable d'avantage.</p>
+<p>Je reponds donc premierement aux difficultez que vous faites touchant le pendule, et quant à la premiere, je puis vous assurer que le changement d'air ne fait rien à son mouvement ni aussi l'huile nouvellement mise aux pivots des roues; je dis a l'egalitè de son mouuement, car ces changemens peuvent bien rendre les vibrations plus ou moins amples mais les portions des cycloides entre les quelles le pendule est suspendue ont cette proprietè de faire que les temps des grandes et petites vibrations sont tous egaux entre eux, ce qui n'arriveroit pas ainsi sans la cycloide, parce que d'un pendule simple les grandes vibrations sont plus lentes que les petites. pour ce qui est de la densitè differente de l'air dans les differentes saisons de l'année, j'ay veu par l'experience de 5 a 6 mois de suite, qu'elle n'alteroit pas sensiblement l'egalitè du pendule parce qu'examinant pendant tout ce temps le mouvement de mon horologe contre celuy du soleil, que j'observe journellement dans le point de midy, je trouvay qu'ils s'accordoient parfaitement bien, eu egard a l'equation des jours, ainsi qu'elle est dans la table<note n="#4"/> que j'en ay faite. Ce pendule battoit des secondes à chaque vibration, et j'entens parler de ceux de cette longueur ou encore plus grands, quand je les dis estre inalterables dans leur egalitè, car pour ce qui est des pendules plus courts, comme de 5, 6, 9 pouces, la manivelle qui les mesne recevant des impressions inegales par les coups de l'horologe, leur en communique quelque peu. Cependant ils ne laissent pas d'estre
+assez egaux pour servir aussi bien que les plus longs au dessein de la mesure universelle. Pour bien establir cette mesure, il ne faut pas la regler sur la longueur des pendules attachez aux horologes, mais sur les pendules simples, a quoy je ne scay si vous avez pensè. Par exemple ayant un horologe dont le pendule batte les secondes, et l'ayant bien reglée, il faut prendre un pendule simple avec une bale de plomb ou autre matiere pesante attachè a un fil deliè et leger, et luy faisant faire des vibrations fort petites (c'est a dire qu'il s'ecarte peu du perpendiculaire) l'ajuster sur les battemens du pendule de l'horologe. Et prendre alors exactement la distance entre le point de suspension et un point certain dans la bale, qui est insensiblement distant de son centre quand elle est petite, mais un peu plus bas tousjours comme je diray ensuite, et c'est a quoy il faut avoir egard en substituant une grande boule au lieu d'une petite à vostre pendule simple; sans que la consideration de la resistance de l'air y ait part, ne faisant point d'effet sensible en cecy sur des corps de la grandeur et pesanteur d'une bale de mousquet, c'est à dire dont la pesanteur a aussi grande proportion a sa surface que cette bale. Il n'y a donc rien dans la nature du pendule qui empesche d'establir par son moyen la mesure universelle et eternelle des grandeurs.</p>
+<p>Pour en deduire celle des poids je serois plustost d'avis qu'on se servit d'eau de pluye simple ou bien distillée que de mercure, estant fort croiable et mesme confirmè par quelques experiences, qu'elle est partout et tousjours de mesme poids. Au resté, Monsieur vous me faites plus d'honneur que je ne merite en appellant ces mesures de mon nom, car encore que j'ay trouvè l'application du pendule aux horologes, l'on a commencè<note n="#5"/> devant moy a se servir du pendule simple pour mesurer le temps, et l'on avoit determinè la longueur d'une seconde (quoyque peu exactement) et par là la mesure universelle. A peine me laisse t on l'honneur d'avoir inventè les horologes a pendule, et voudriez vous qu'on m'accordoit celuy ou d'autres pourroient pretendre avec plus de justice? Mais outre ceux qui ne souffriroient pas qu'on imposast mon nom a cette mesure, il y en a qui soustiendroient que c'est a eux à la baptiser, qui sont ceux de la Societè Royale en Angleterre, car le dessein de fixer la mesure par le moyen du pendule est imprimée dans l'histoire de cette Societè<note n="#6"/> et il y a desja quelques années qu'ils m'en escrirent<note n="#7"/>, l'ayant déterminée par un pendule simple qui battoit les secondes, ayant une balle d'argent fin dont le diametre devoit avoir 1/30 de la longueur du filet, en prenant du point de suspension jusqu'au centre de cette balle. Mais parce que cette proportion estoit difficile a rencontrer ils prefererent mon invention dont je leur fis part<note n="#8"/>, qui est fondée sur celle du centre d'agitation d'une boule que j'avois trouvè alors nouvellement.</p>
+<p><figure><graphic url="huyg003oeuv06ill56.gif"></graphic></figure></p>
+<p>Soit AF un filet d'un pendule simple, soutenant la boule BC, et posons que ce pendule soit ajustè par le moyen d'une horologe a pendule, en sorte que ses petites vibrations soient des secondes. Soit D le centre de la boule et comme AD est au ½ diametre DC ainsi soit ce mesme ½ diametre à DE et soit DF egale à ⅖ de DE. Alors F est le centre d'agitation de la boule suspendue en A, et la longueur AF, soit que
+<figure><graphic url="huyg003oeuv06ill57.gif"></graphic></figure>
+la boule soit grande ou petite, sera tousjours la mesme, et par consequent servira de mesure fixe, sans qu'il soit necessaire de considerer la grandeur ou pesanteur de la boule pourvu qu'elle en ait assez pour ne se pas ressentir sensiblement de la resistence de l'air. Voila ma maniere Monsieur d'establir cette mesure, que je communiquay des lors a ces Messieurs, et qu'ils ont trouvè aussi bien que moy estre tres exacte. Pour la demonstration de la proposition que je viens d'avancer je la donneray quelque jour dans le traitè de l'horologe<note n="#9"/>, comme aussi les centres d'agitation de toutes sortes de figure tant planes que solides.</p>
+<p>Puis que vous avez entrepris a construire une pendule je souhaiterois vous en pouvoir donner la mesure et la forme au juste comme vous la desirez, mais ayant oubliè d'en faire le dessein a Paris d'où je suis a 5 lieues, je ne pourray vous donner maintenant que la distribution et l'ordonnance de ces ouvrages en tant que je pourray m'en souvenir.</p>
+<p>Voyez donc, s'il vous plait, la figure<note n="#10"/> qui est à la page suivante ou j'ay marquè toutes les roues et leur nombre de dents. le contre poids doit estre a double poulie comme vous scavez, il doit peser 5 ou 6 livres au plus. Le plomb du pendule un peu plus d'une livre, et il faut lui donner la forme oblonge et pointue par les bouts afin de couper plus facilement l'air. Mais il faudroit une description trop longue pour comprendre toutes les particularitez de cette fabrique, et quelque exacte qu'elle fust, je crois que l'inspection oculaire vaudroit incomparablement mieux. Cependant je vous prie de prendre en grè ce griffonement et de croire que celui qui l'envoie est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et obeissant seruiteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

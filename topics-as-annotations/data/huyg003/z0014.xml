@@ -1,0 +1,48 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0014"/>
+<meta type="date" value="1646-10-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="mers004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0014">
+<div type="opener">
+<p>Monsieur,</p>
+</div>
+<p>I'admire le bonheur, qui a faict tomber encore entre vos mains, le papier, qui n'estoit destiné qu' a la veüe de mon Pere a tout le plus; et d'avantage vostre benignité qui m'avez estimé digne d'une lettre<note n="#2"/> si courtoise et pleine de bonne affection, envers moij.<note n="#3"/> Mais voicij ce que je responds à vos objections. Vous dites en premier lieu que tout <hi rend="i">grave n'est pas capable de recevoir un mouvement si viste que soit</hi> celuij du corps qui auroit descendu d'une ou plusieurs lieues de haut. Ie ne puis pas consentir a cela, et m'en rapporte a la Philosophie de Monsr. <persName key="desc004">des Cartes</persName>, qui entre autres loix de la nature a remarqué cellecy, à scavoir que toute chose continue son mouvement de la mesme vistesse que luy a esté donnée unefois, si quelque autre chose ne l'empesche; si donc la ou il n'y avoit point d'air nij autre empeschement
+<figure><graphic url="huyg003oeuv01ill06.gif"></graphic></figure>
+nous supposions quelqun qui avecq un arc tiroit deux flesches a la fois, l'une de bois pesant et l'autre de paille ou chose semblable, il est manifeste qu'elles iroient de vistesse esgale, a scavoir de celle qu'avoit la chorde de l'arc en retournant en sa premiere posture, et ne cesseroyent jamais, car il n'y a cause imaginable qui les arresteroit; Ie dis donques que tout corps est capable de quelconque vistesse, et que ce que la paille et la laine tirees hors d'un Canon tombent tout court, ne procede d'autre chose que de l'empeschement de l'air.</p>
+<p><figure><graphic url="huyg003oeuv01ill07.gif"></graphic></figure></p>
+<p>La seconde objection estoit, que pour garder in vacuo les proportions des nombres 1, 3, 5, 7, il estoit necessaire que le grave tombast par tous les degrez de tardité et que cela n'estoit point, à cause que la pierre avoit au commencement de sa cheute desja une certaine vistesse. Ie dis que sans doute elle passe par tous les degrez de tardite, et qu'elle a eu moindre vistesse que quelconque vistesse donnee. Car soit donnee la balle de plomb A qui roule sur le plan horizontal AB de B vers A avecq sort peu de vistesse contre le bras de la balance DCA, dont C est le poinct fixe, il est evident que le poids F. lié de la corde FED qui passe par dessus la poulie, peut estre si peu pesant que la balle A<note n="#4"/><note n="#5"/> le pourra leuer quelque peu.</p>
+<p>Or tel est le principe sur lequel est fondee ma raison, que si la gravite P en commencant sa cheute passe en certain temps par l'espace PS, et au temps suivant par l'espace SR; et que la mesme en un autre temps du commencement de sa cheute passe par l'espace PV, et au temps suivant par l'espace VM; et que le temps de la cheute par l'espace PS soit au temps
+<figure><graphic url="huyg003oeuv01ill08.gif"></graphic></figure>
+par SR comme le temps par PV au temps par VM; que alors l'espace PS est a SR comme PV à VM. Comme par exemple, si une pierre en tombant passe au premier minute de sa cheute un pied de mesure, et au second minute 5 pieds; que la mesme pierre parce qu'aux deux premiers minutes elle a donc passe 6 pieds, aussi aux deux suivants minutes elle en passera 30; car 1 est a 5 comme 6 à 30.<note n="#6"/></p>
+<p>Cecy estant concedé, soient passé en egals temps les espaces AB, BC, CD, etc. il est donc manifeste que comme l'espace AB à BC, ainsi est l'espace AC à CE, et AD à DG. Car comme le temps par AB a esté egal au temps par BC ainsi le temps par AD a esté egal au temps par DG.</p>
+<p>Voions a cest heure s'il ij a quelque progression Geometrique, que puissent avoir les espaces AB, BC, CD etc, passez en temps esgaux. Soit donc l'espace AB ∞ <hi rend="i">a</hi><note n="#7"/> BC ∞ <hi rend="i">b</hi>; si c'est donc une progression Geometrique
+<figure><graphic url="huyg003oeuv01ill09.gif"></graphic></figure></p>
+<p>De cette Analyse s'ensuit que les dits espaces ne peuvent estre en aucune progression Geometrique que de l'esgalité. Lopinion doncque de ceux qui disent, qu'ils sont en la progression 1, 2, 4, 8 est fort ridicule. Car par exemple, posons que le poids N passe au premier temps par l'espace NO, 1, au second OP 2, au 3<hi rend="sup">me</hi> PQ 4, au 4<hi rend="sup">me</hi> QR 8: Et prenons a cest heure le[s] deux premiers temps auxquels il a passe par l'espace NP, pour le premier; ayant doncque passé au premier temps par l'espace NP 3 (car NO 1, et OP 2, sont 3) il passera au second temps a scavoir au 3<hi rend="sup">me</hi> et 4<hi rend="sup">me</hi>, selon leur progression 6,
+mais au 3<hi rend="sup">me</hi> et 4<hi rend="sup">me</hi> il a passé par l'espace PR 12 (car PQ 4 et QR 8 sont 12), il faudroit donc que 6 fust esgal a 12, ce qu'est absurde.</p>
+<p><figure><graphic url="huyg003oeuv01ill10.gif"></graphic></figure></p>
+<p>Voions donc s'il y a quelque progression Arithmetique en la quelle les espaces puissent estre. Que le poids L donc aye passé au premier temps par l'espace LM ∞ <hi rend="i">a</hi>, au second MN <hi rend="i">a</hi> + <hi rend="i">x</hi>, au troisieme NO <hi rend="i">a</hi> + 2<hi rend="i">x</hi>, au 4<hi rend="sup">me</hi> OP <hi rend="i">a</hi> + 3<hi rend="i">x</hi>. il faut donc selon mon principe que
+<figure><graphic url="huyg003oeuv01ill11.gif"></graphic></figure></p>
+<p>Nous avons doncq trouvé la progression arithmetique en laquelle sont les dits espaces, car <hi rend="i">x</hi> estant trouvé esgal à 2<hi rend="i">a</hi> l'espace MN <hi rend="i">a</hi> + <hi rend="i">x</hi> sera 3<hi rend="i">a</hi>, NO <hi rend="i">a</hi> + 2<hi rend="i">x</hi> sera 5<hi rend="i">a</hi>, OP <hi rend="i">a</hi> + 3<hi rend="i">x</hi> sera 7<hi rend="i">a</hi>. Et de cette Analyse est manifeste
+<figure><graphic url="huyg003oeuv01ill12.gif"></graphic></figure>
+qu'il n'y a point d'autre progression Arithmetique en la quelle puissent estre les dits espaces, et par consequent que l'opinion de ceux qui disent qu'ils sont 1, 2, 3, 4, etc. est absurde.<note n="#8"/> Car posons que le poids E passe en esgaux temps les espaces EF, 1, FG 2, GH 3, HI 4; prenons puis les deux premier temps au quels il passe EG, pour le premier; passant doncq au premier temps par EG 3 il passera selon leur progression au temps egal suivant, (qui est esgal au 3<hi rend="sup">me</hi> et 4<hi rend="sup">me</hi>,) 6; il faudroit donc que l'espace GI fust 6, mais il est 7, estant composé de GH 3 et HI 4; 6 donc devroit estre 7 ce qu' est absurde. Mais si on examine de la mesme façon la progression trouvée 1, 3, 5, 7, 9, 11, on ne trouvera rien d'absurd car 1 est à 3 comme 1 et 3, c'est 4, à 5 et 7, c'est 12; et comme 1, 3, 5, c'est 9 à 7, 9, 11, c'est 27, etc.</p>
+<p>Et ie ne trouve point d'autres progressions qui ayent quelque regularité, et la proprieté requise que cellecy. Et pour cela je croij qu' il n'y a point d'ordre du tout, ou que c'est celuy de ces nombres impairs.</p>
+<p>Tout cecy doit estre considere comme en une place ou il n'y a point d'empeschement d'air ny d'autre chose mais seulement une uniforme attraction d'en bas, soit grande ou petite.</p>
+<p>Touchant la parabole, que font les missiles cela ne peut pas manquer, car in vacuo le mouvement<note n="#9"/> donné au missile qui le fait aller de costé de vistesse egale, ne cessera jamais si quelque chose ne l'empesche; Or l' attraction d'en bas ne luy resiste point du tout, estant supposé qu'elle est à angles droicts au mouvement horizontale. Le reste depend de la proprieté de la parabole qui est assez connüe.</p>
+<p>Ie fineray icij de peur de ne vous detenir pas trop longtemps, et vous envoyeray par une autre lettre la demonstration de ce qu' une corde ou chaine pendue ne faict point une parabole, et quelle doit estre la pression sur une corde matematique ou sans gravité pour en faire une; d'ont j'ay aussi trouve la demonstration, il n'y a pas longtemps.</p>
+<p>Et en attendant avecq grand desir quelque particularitez des centres de percussion<note n="#10"/> je demeureray</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble. <persName key="huyg003">Christien Huygens</persName>.<note n="#11"/></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

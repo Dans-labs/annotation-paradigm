@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2164"/>
+<meta type="date" value="1679-03-15"/>
+<meta type="sender" value="ferm012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="toulo901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2164">
+<div type="opener">
+<p>A Thse le 15. Mars.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay ueu par uostre lettre a un de mes amis<note n="#3"/> qui uous a faict presenter un exemplaire de quelques ouuragesde Mathematiques qu'on a imprimes icy, de quelle façon
+uous temoignés qu'ils ne uous ont pas depleu, et i'en ai beaucoup de ioie, l'estime que leur Autheur auoit pour uous<note n="#4"/> estoit si iuste et si bien fondée, que i'ai raison de croire que uostre approbation faict honneur a sa memoire, et qu'elle est auantageuse a ce liure, ie ne doubte pas, Monsieur, que uous n'en parlies auec cette candeur qui uous est si naturelle, comme uous en iugés avec des lumieres si penetrantes, bien qu'elles soient si fort audessus de moi, et que ie ne puisse les uoir que de fort loin, i'ai neantmoins tasché de faire cognoistre il y a desia quelque temps l'admiration que i'ai pour elles par des uers que uous trouuerés avec cette lettre<note n="#5"/> qui sont tirés de quelqu'une de mes bagatelles, et qui pourront uous faire uoir, tels qu'ils sont, que ce n'est pas d'aujourdhuy que ie commence a auoir une grande idée de uostre mérite extraordinaire, ie uous supplie d'estre bien persuadé du respect auec lequel ie suis autant qu'on peut l'estre</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur <persName key="ferm011">Fermat</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

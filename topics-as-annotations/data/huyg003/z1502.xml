@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1502"/>
+<meta type="date" value="1665-11-23"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1502">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 23. Novembre 1665.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je ne doubte pas, que vous n'ayez receu la responce<note n="#1"/> du Chevalier Moray à la vostre du 18. Septembre<note n="#2"/> que ie vous envoyay soubs mon couuert<note n="#3"/> au mois d'Octobre; dans laquelle, entre autres choses, il vous pria de nous faire scauoir, comme quoy vous auriez reussi dans l'observation<note n="#4"/> des ombres des Satellites le 26. Septembre, ce que i'espere que vous ferez à vostre commodité. il y a deux trois iours, qu'il m'envoya d'Oxford un couple d'observations, faites au champ par Monsieur Ball, l'aisné<note n="#5"/>, sur Saturne, et les Satellites de Jupiter, desirant, que ie vous les envoyasse par la premiere commodité.</p>
+<p>Voicy donc la presente figure de ♄, comme Monsieur Ball l'a observee, qui dit, pour vous donner ses propres paroles<note n="#6"/>.</p>
+<p>L'autre observation de Satellites est celle cy<note n="#7"/>.</p>
+<p>Il y a oublié de mettre le iour de l'observation derniere; la premiere ayant esté faite le 13. Octobre hora 6. comme vous verrez aussi dans le papier, qui marque la figure de ♄, que i'ay coupee tres exactement sur l'original de<note n="#8"/> Observateur, que i'ay entre mes mains. Vous considererez, comment elle s'accorde auec vostre Systeme, et nous direz, s'il vous plait, ce que vous aurez conclu là dessus.</p>
+<p>Nous sommes en attente de ce que vostre machine<note n="#9"/> pour faire des Lunettes, dont vous fitez mention dans vostre derniere<note n="#10"/>, aura produit. Monsieur de Son<note n="#11"/> travaille presentement aux verres paraboliques, dont il nous veut faire esperer des merveilles. il faut voir les effets. Monsieur Hook n'est pas encore retourné du champ, ny aucun autre de la Societé. ils font bien, ce me semble, de ne se precipiter pas, et d'attendre, iusques à ce que le froid aye alteré et corrigé l'Air de Londres, si pourtant il est vray, que la contagion y est logée. Elle se diminue, graces a Dieu, de semaine en semaine par plusieurs centaines, de sorte que nous nous en promettons par la misericorde du Ciel, une entiere cessation en peu de
+temps. Plût à Dieu, que la guerre finist aussi, à fin qu'entre autres advantages de la paix, la liberté du commerce se puisse remettre entre les honestes gens. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble seruiteur <persName key="olde010">Henry Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> à la Haye.
+<lb/>12</p>
+</div>
+</body>
+</text>
+</TEI>

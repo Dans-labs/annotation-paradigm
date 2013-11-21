@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XLIX"/>
+<meta type="date" value="1666-04-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XLIX">
+<div type="opener">
+<p>Monseigneur,</p>
+</div>
+<p>Si je sentois encore quelque peine et regret a quiter ce pais et tout ce qui m'y est cher, vos dernieres lettres, tant celle dont il vous a pleu m'honorer, que celle que par ordre du Roy vous avez escritte a mon pere, ont eu le pouuoir de me l'oster entierement, estant toutes deux si obligeantes et portant des tesmoignages si expres de la bienveillance de Sa Maj<hi rend="sup">te</hi> et de la vostre, que tout me devient facile dans le desir d'aller jouir d'un bien si precieux. J'espere donc et fais estat d'entreprendre le voyage au premier jour et si tost qu'il me sera possible, pour ne point retarder moymesme mon bonheur, vous priant de croire Monseigneur que je n'en fais pas consister une petite partie en l'honneur que j'auray de vous veoir et offrir mon treshumble service, comme estant la personne du monde que j'ay le plus de suject et d'inclination a estimer et reuerer et de qui je suis avec plus de zele et de respect</p>
+<div type="closer">
+<p>Monseigneur
+<lb/>Le tres humble et tres obeissant seruiteur
+<lb/><persName key="huyg003">Chr. Hugens de Zulichem</persName></p>
+<p>À la Haye ce 8 Avril 1666.</p>
+</div>
+<div type="comment">
+<p>La lettre à Colbert de la même date du père Constantijn a été publiée par nous à la p. 22 du T. VI, d'après une copie qui se trouve à Amsterdam. Elle fait également partie de la Collection des Mélanges Colbert (Vol. 137, f. 106).</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

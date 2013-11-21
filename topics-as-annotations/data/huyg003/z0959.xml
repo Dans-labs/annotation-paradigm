@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0959"/>
+<meta type="date" value="1662-01-28"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="stock001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0959">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo S.P.D.</p>
+</div>
+<p>Metus est iustissimus, ne quid mihi succenseas ob fidem de promissis phaenomenis<note n="#1"/> tanto tempore non liberatam. Quanquam curas iampridem omnes huc converti, ut ocius consequereris, quod flagitaras. Adumbratum iam habebam rudi linea phaenomenon, cum timere caepi, ne charta complicata post agitationem longi itineris minus fideliter referret, quod illi a pictore erat creditum. Vivos igitur colores adhibendos duxi. Rem tantillam et minimi laboris procrastinat quotidie pigerrimus pictor, etsi hortari cunctantem non desino. Moram immodicam compensabit aliud phaenomenon anno, ni fallor, saeculi huius quinquagesimo octavo hic terrarum observatum. quod, quia opinabar tibi ignotum esse, eadem opera depingendum tradidi. Utrumque simul ad te veniet, brevi. nam si differre spes nostras perget supinus pictor, ad alium ibo. Tertij Phaenomeni spes facta est ab eodem amico, qui secundum mecum communicavit. Id quale sit, tibi significabo, cum mihi exhibebitur. Nam nunc inveniri a se haud posse asseverat, quod inter schedas suas lateat alicubi. Quartum alius se possidere nunciavit Pragae annis proximis conspectum, in quo cruces non unae appareant. Sed illud fortassis aliunde iam nactus sis. Epistolia haec rogo ut perferri a puero tuo cures ad illos, quibus destinata sunt. Vlitio inscriptas literas data opera non obsignavì, quod ijs inserti sint versus genethliaci, iam quidem ante a te lecti, sed aliquanto nunc castigatiores. Vale, Vir Nobilissime.</p>
+<div type="closer">
+<p><placeName key="stock001">Holmiae Suecorum</placeName> <date>A<hi rend="sup">o</hi>. CIƆIƆCLXII. XXVIII Januarij</date>.</p>
+</div>
+<p>Carolus Datus ultimis literis nunciabat Principem Etruriae Leopoldum praelo typographico parasse describendum volumen observationum suarum naturalium primum. An Monachi isti duo, Eustathius et Faber, obmutuerint fac quaeso, intelligam. Nam Datus, a quo multis mensibus nullas habueram, de illis nil omnino addit.</p>
+</div>
+</body>
+</text>
+</TEI>

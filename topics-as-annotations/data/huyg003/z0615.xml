@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0615"/>
+<meta type="date" value="1659-05-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0615">
+<div type="opener">
+<p><date>8 maj. 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je viens de recevoir de Monsieur <persName key="carc010">Carcavy</persName> par la voye de la poste un exemplaire du livre de Monsieur <persName>d'Ettonville</persName>.
+Je vous prie pourtant de m'envoyer aussi au plustost les autres exemplaires<note n="#1"/> pour en faire distribution.</p>
+<p>J'attens de vos nouuelles et comment reussit la longue lunette.
+Faites moy la faveur d'envoyer cette enclose<note n="#2"/> a Monsieur <persName key="chap002">Chapelain</persName> et excusez cette brievetè a la quelle le temps me contraint. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Chr. Huygens de Z.</persName></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

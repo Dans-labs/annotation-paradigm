@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2319"/>
+<meta type="date" value="1683-09-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="diere001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2319">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 3 Sept. 1683.</p>
+</div>
+<p>Voicy vostre montre, que je vous aurois envoiè des hier, mais je n'eus pas le temps d'escrire pour y adjouter l'esclaircissement que vous souhaitez voulant voir la pesche a Klingendal<note n="#1"/>. Il n'y avoit rien, si non que cette petite roue que vous aviez touchee s'estoit un peu soulevee, ce qui la rendoit sans arrest, et en mesme temps la faisoit toucher au balancier, d'ou venoient les coups doubles au son. Il a remediè a cela et il a nettoiè la montre. Pour ce qui est de l'usage de la petite roue, elle n'est pas pour tendre d'avantage le ressort, mais pour marquer par ses nombres, et l'eguille qui est dessus, de combien on l'a tendu: ce qui se fait par un axe couchè aupres du tambour, sur la plaque d'en bas, ou l'on applique la clef, et qui agit par une vis sans fin qui est cachée. Je m'estonne que vous n'ayez point estè informè de cette particularitè, que van Ceulen dit estre a tous ses ouvrages. Les experiences que je fais avec luy sur les horloges marins, et l'estude a corriger ce qui leur reste d'imperfection m'occupe trop pour pouvoir m'appliquer au travail
+des verres. De sorte que je n'ay rien fait depuis ma derniere lettre. Nous verrons quand vous serez revenu; car l'on ne doute plus que Mr. le Pr. ne viene icy la semaine prochaine. Cette horlogerie retarde mon voiage bien plus que je n'avois creu<note n="#2"/>. Et voila peut estre une nouvelle guere, qui pourroit l'empescher entierement. Il faudra veoir. Je souhaite fort vostre verre quoyque je crois que vous aurez bien moins de temps a vous que les autres fois.</p>
+<p>Le frere de St. Annelant vient de sortir d'icy et m'a racomptè au long tout son voiage. Il vous fait ses baisemains.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zeelhem</persName>
+<lb/>tot Dieren.
+<lb/>Met een gezegeld doosje, daer in een Horloge.</p>
+</div>
+</body>
+</text>
+</TEI>

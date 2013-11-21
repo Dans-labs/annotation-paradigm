@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0706"/>
+<meta type="date" value="1660-01-02"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0706">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>2. Januier 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay eu des affaires qui m'ont osté le moyen de respondre a la vostre de l' XIe Decembre dernier; &amp; je n'ay pas eu le temps de satisfaire au dernier article par lequel vous me demandez que je dresse la figure celeste d'vne personne de vos quartiers: Il faut que vous me faciez scauoir la hauteur du Pole du lieu ou elle est nee, &amp; la distance du Meridien de celluy d'Vranibourg, afin que je puisse faire quelque chose d'exact.</p>
+<p>J'ay distribué vne partie de vos liures, &amp; j'ay fait aduertir ceux qui sont desnominez dans la vostre afin qu'ils prissent la peine de me venir trouuer. Monsieur de Belair est mort, et ainsi l'exemplaire, qui estoit pour luy sera pour Monsieur Auzout.
+J'ay porté moy mesme chez Monsieur <persName key="chan019">Chanut</persName> l'exemplaire que vous luy auiez destiné, &amp; jay laissé vn billet par lequel je le prie de vous escrire, &amp; de vous tesmoigner quil a reccu le liure. Il estoit allé a la campagne afin de rencontrer Monsieur le Surintendant des finances<note n="#1"/>.</p>
+<p>J'apprens qu'en Angleterre il y a vn homme qui a fait des lunettes dont le tuyau estant rempli d'eau claire jette vne grande lumiere la nuict par celle d'vne chandelle seule. L'on parle aussi d'vne autre longue d'vn palme auec laquelle on peut descouurir vne armee de 6. lieues loing. Je voudrois auoir veu tout cela; je croy la premiere veritable, mais la seconde non. Je vous envoyaj l'ordinaire passé vne lettre<note n="#2"/> de Monsieur de Carcaui qui contient plusieurs belles choses.</p>
+<p>Je vous prie de voir Jupiter qui proche de l'estoile<note n="#3"/> qui est au genouil posterieur du ♌<note n="#4"/>. &amp; vous verrez si vous voulez calculer sur mes tables combien elles sont justes. Je vous souhaitte toute prosperité et santé a ce commencement d'annee; Je suis</p>
+<div type="closer">
+<p>Monsieur.</p>
+<p>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

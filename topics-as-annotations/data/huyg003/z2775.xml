@@ -1,0 +1,61 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2775"/>
+<meta type="date" value="1692-11-23"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2775">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 23 Nov. 1692.</p>
+</div>
+<p>J'ay receu avec bien du plaisir Monsieur la lettre que vous me faites l'honneur de m'ecrire du 23 octobre, je ne scais comment repondre à toutes vos honnestetez et je me trouve fort heureux que ma petite decouuerte merite vostre approbation. J'ay resolu pleinement tous les Problemes que vous me proposez, et comme vous me marquez auoir quelque enuie de voir le chemin, que j'ay tenu pour arriuer à ma construction, je vous enuoye vne methode tres simple et generale pour les cas semblables. Je l'ay trouuée en voulant mettre au net celle dont je m'etois serui qui est beaucoup plus embarassée.</p>
+<p>Pour reduire la somme des <hi rend="i">aady</hi>/<hi rend="i">y</hi>√<hi rend="i">aa</hi>+<hi rend="i">yy</hi> à la quadrature de l'hyperbole, j'oste les jncommensurables en suposant à la maniere de Diophante <hi rend="i">yz</hi>/<hi rend="i">a</hi>-<hi rend="i">a</hi> ∞ √<hi rend="i">aa</hi>+<hi rend="i">yy</hi>, ce qui donne <hi rend="i">y</hi> ∞ 2<hi rend="i">aaz</hi>/<hi rend="i">zz</hi>-<hi rend="i">aa</hi> et <hi rend="i">dy</hi> ∞-2<hi rend="i">aazzdz</hi>-2<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">dz</hi>/qu. <hi rend="i">zz</hi>-<hi rend="i">aa</hi><note n="#2"/>, et mettant à la place de <hi rend="i">y</hi> et de <hi rend="i">dy</hi> leurs valeurs, l'on aura <hi rend="i">aady</hi>/<hi rend="i">y</hi>√<hi rend="i">aa</hi>+<hi rend="i">yy</hi> ∞ <hi rend="i">adn</hi>/<hi rend="i">n</hi><note n="#3"/>. C'est là tout le mistere, qui reussit dans vne jnfinité de cas qu'on auroit beaucoup de peine à reduire autrement. Jl est evident qu'il y a deux valeurs de <hi rend="i">z</hi>, l'vne vraye et l'autre fausse, dans l'egalité <hi rend="i">zzy</hi>-<hi rend="i">aay</hi> ∞ 2<hi rend="i">aaz</hi>.</p>
+<p>Je me suis servi<note n="#4"/> des racines vrayes pour determiner la position de la courbe qui sert a rectifier la logarithmique, mais si l'on se seruoit des fausses<note n="#5"/>, on trouueroit vne position de courbe qui me paroist plus propre pour la construction, la voicy:</p>
+<div type="section">
+<head rend="h4">Probleme.</head>
+<p><figure><graphic url="huyg003oeuv10ill87.gif"></graphic></figure></p>
+<p>La logarithmique indefinie ABCD, qui a pour soutangente la droite donnée <hi rend="i">a</hi>, et son asymptote SL, etant données de position; trouuer geometriquement vne ligne droite egale à vne portion quelconque CD de cette courbe.</p>
+</div>
+<div type="section">
+<head rend="h4">Solution.</head>
+<p>Soit menee par vn point quelconque L de l'asymptote SL la perpendiculaire LG, et soit decrite la courbe geometrique LFH, telle que (LE ou LG ∞ <hi rend="i">y</hi>, EF ou GH ∞ <hi rend="i">z</hi>) <hi rend="i">aay</hi>-<hi rend="i">zzy</hi> ∞ 2<hi rend="i">aaz</hi>, de sorte que l'on peut determiner par le cercle et la ligne droite la grandeur des ordonnées EF, GH, en supposant que les distances sur l'axe LE, LG soient données. Que l'on mene à present les paralleles CEF, DGH, à l'asymptote et ayant pris LT ∞ <hi rend="i">a</hi>, LK ∞ EF, LI ∞ GH, et mené les droites TG, TE, et les paralleles KA, IB, qui rencontrent la logarithmique aux points
+A, B; je dis que la portion CD de la logarithmique ∞ TG-TE+AK-BI<note n="#6"/>.</p>
+<p>1<hi rend="sup">o</hi>. Si l'on mene TR parallele à LG, elle sera asymptote de la courbe geometrique LFH.</p>
+<p>2<hi rend="sup">o</hi>. Si l'on prent TR double de LT la ligne LR sera tangente au sommet L<note n="#7"/>.</p>
+<p>3<hi rend="sup">o</hi>. Si l'on decrit vn quart de cercle qui ait pour rayon LT et que l'on mene librement la droite FMN parallele à LK, je dis que l'espace FLM est egal au rectangle fait de AK-BI par le double de LT; en supposant à present que LK ∞ MN et LI ∞ LT<note n="#8"/>.</p>
+<p>4<hi rend="sup">o</hi>. Je puis déterminer le centre de grauité de cette espace FLM en ne me seruant que de la logarithmique<note n="#9"/>.</p>
+<p>Vous auez fort bien remarqué que l'on peut determiner le bras de la portion CD sur l'asymptote en se seruant de la logarithmique, mais il n'est pas aussi facile de trouuer son bras sur la droite LG ce qui seroit neanmoins necessaire pour auoir le centre de grauité.</p>
+<p>Je trouue aussi comme vous Monsieur que le demi-diametre du cercle qui mesure la plus grande courbure ∞ 3√¾ <hi rend="i">aa</hi>, et generalement que, si l'on nomme vne ordonnée quelconque AS, <hi rend="i">y</hi>, le rayon de la ligne euoluë au point A ∞ <hi rend="i">aa</hi>+<hi rend="i">yy</hi>√<hi rend="i">aa</hi>+<hi rend="i">yy</hi>/<hi rend="i">ay</hi><note n="#10"/>; d'où jl suit que, pour determiner le point de la plus grande courbure jl faut prendre <hi rend="i">y</hi> ∞ √½<hi rend="i">aa</hi><note n="#11"/>. Passons aux autres questions.</p>
+<p>La jre est de determiner la nature de la ligne courbe qui a pour soutangente
+<hi rend="i">aax</hi>-2<hi rend="i">xxy</hi>/3<hi rend="i">aa</hi>-2<hi rend="i">xy</hi>. Je trouue trois courbes qui satisfont; la jre est l'hyperbole ordinaire <hi rend="i">xy</hi> ∞ <hi rend="i">aa</hi> et les deux autres sont <hi rend="i">yyx</hi>-<hi rend="i">aay</hi> ∓ <hi rend="i">x</hi><hi rend="sup">3</hi> ∞ 0<note n="#12"/>:</p>
+<p>La seconde et troisieme sont de trouuer la ligne courbe, qui a pour soutangente 2<hi rend="i">x</hi>-<hi rend="i">yy</hi>/2<hi rend="i">x</hi>, auec la quadrature de l'espace curuiligne. La ligne est <hi rend="i">aayy</hi>-2<hi rend="i">aaxx</hi> ∓ 2<hi rend="i">y</hi><hi rend="sup">4</hi> ∞ 0<note n="#13"/>, et l'espace curuiligne ∞ ⅔ <hi rend="i">xy</hi>-<hi rend="i">aax</hi>/6<hi rend="i">y</hi>, lorsque <hi rend="i">aayy</hi>+2<hi rend="i">y</hi><hi rend="sup">4</hi> ∞ 2<hi rend="i">aaxx</hi><note n="#14"/>, mais lorsque <hi rend="i">aayy</hi>-2<hi rend="i">y</hi><hi rend="sup">4</hi> ∞ 2<hi rend="i">aaxx</hi>, la courbe a vne position telle que l'on voit
+<figure><graphic url="huyg003oeuv10ill88.gif"></graphic></figure>
+dans cette figure<note n="#15"/>, ou AB ∞ <hi rend="i">x</hi>, BC ∞ <hi rend="i">y</hi>, AE ∞ √½<hi rend="i">aa</hi> et l'espace</p>
+<p>ECD ∞ (<hi rend="i">aa</hi>-2<hi rend="i">yy</hi>)√2<hi rend="i">aa</hi>-4<hi rend="i">yy</hi>/12<hi rend="i">a</hi> Si l'on prend AF ∞ ½<hi rend="i">a</hi>, FG sera la plus grande des ordonnées, et l'espace curuiligne EFG ∞ 1/24 <hi rend="i">aa</hi>.</p>
+<p>La 4<hi rend="sup">e</hi> et 5<hi rend="sup">e</hi> consistent à trouuer la ligne courbe qui a pour soutangente 2<hi rend="i">x</hi>+<hi rend="i">x</hi><hi rend="sup">3</hi>/<hi rend="i">yy</hi> et la quadrature de l'espace curuiligne.</p>
+<p><figure><graphic url="huyg003oeuv10ill89.gif"></graphic></figure></p>
+<p>Soit decrit le quart de cercle CAB et soit prolongée vne ordonnée quelconque
+NP en M, de sorte que ∺ NP. CP. PM.<note n="#16"/>, le point M sera a la courbe requise. L'espace CPM est egal à l'espace circulaire AGN<note n="#17"/> le bras de l'espace CPM sur AC est double de celuy de l'espace AGN je puis aussi determiner le bras de l'espace CPM sur CB et partant le centre de grauité de cette espace.</p>
+<p>A l'egard des Problemes du Sieur <persName key="vivi012">Viuiani</persName>, jl y a pres de huit mois que Mr. <persName>l'Enuoyé</persName> de Florence me proposa celuy dont vous me parlez qui estoit sur vne feuille volante en forme d'enigme. Je luy en donnay aussi tost trois solutions auec la demonstration et j'en aurois pü trouuer par ma methode vne jnfinité d'autres mais cela ne vaut pas la peine que je vous en fasse jcy le detail. Le Sieur Viuiani m'a enuoyé depuis peu l'imprimé dont vous me parlez, qui ne renferme rien de considerable. Je n'ay point vû ce qui est dans les journaux de Leipsic de la figure d'une voile tendue par le vent car ces journaux ne viennent plus jcy depuis la guerre j'ay neanmoins donné ordre qu'on me fit venir ceux de cette année qui me manquent et quand je les auray receus je vous en mandray librement ma pensée puisque vous le souhaitez. Je vous prie de me faire sauoir s'il n'y a point de liures de mathematique nouueaux en angleterre, l'on m'a assuré que Mr. <persName key="newt011">Neuton</persName> faisoit jmprimer pour la 2<hi rend="sup">e</hi> fois ses principes mathematiques d'une maniere qui estoit plus à la portée de tout le monde<note n="#18"/>, l'on m'a dit aussi de bonne part que Mr. <persName key="duil010">Fatio</persName> auoit vn traitté de la pesanteur tout prest à jmprimer<note n="#19"/>. Je voudrois bien sauoir aussi si Mr. <persName key="newt011">Neuton</persName> fera jmprimer bientost ce qu'il a trouué sur la methode jnverse des tangentes et sur les quadratures je crois que Mr. <persName key="greg030">Gregori</persName><note n="#20"/> a donné depuis peu quelque chose sur ces matieres. Je suis, Monsieur auec vne estime tres particuliere</p>
+<p>&nbsp;</p>
+<p>Vostre treshumble et tres-obeissant serviteur <persName key="hosp010">Le Marquis de l'Hospital</persName>.</p>
+<p><figure><graphic url="huyg003oeuv10ill90.gif"></graphic></figure></p>
+<p>Je vous prie d'essayer si vos regles s'etendent à trouuer les lignes qui ont pour soutangentes √<hi rend="i">ay</hi>+<hi rend="i">xx</hi> et 2<hi rend="i">y</hi><hi rend="sup">3</hi>/<hi rend="i">yy</hi>+2<hi rend="i">yx</hi>-<hi rend="i">xx</hi> vous me ferez plaisir de me faire part de quelques Exemples où elles ne peuuent servir<note n="#21"/>.</p>
+</div>
+<div type="para">
+<p>Holande
+<lb/>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christiaan Hugens Segneur de Zeelhem</persName>
+<lb/>jn 't noordeinde naast de crabbe
+<lb/>A la Haye.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2048"/>
+<meta type="date" value="1675-08-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2048">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 10 Aoust 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay estè a la campagne pendant quelques temps ce qui m'a empeschè de receveoir vos 2 lettres du 15 et 22 juillet avec les dernieres Transactions, dont je remercie tres humblement. Ce que vous me mandez touchant la montre de Milord Brouncker, qu'elle s'arrete quelque fois dans la poche m'estonne parce que je l'ay portée assez longtemps icy sans que jamais cet accident luy soit arrivè. Il se pourroit faire qu'en l'ouvrant souuent, pour la faire veoir, il y fust entrè de la poudre a quoy le remede est de la faire nettoyer, mais il faut que l'horlogeur a qui on le commet scache bien remettre le petit ressort, et en sorte que le balancier ne cloche point comme une horloge a pendule quand elle n'est pas suspendue bien droite. Pour ce qui est de la seconde montre que Milord Brouncker demande je vous prie de luy dire que j'ay fait essayer le double balancier et qu'il fait l'effect
+que je m'estois proposè, scavoir d'oster l'accident du contrecoup; mais que d'un autre costè il embarasse trop le mouuement a cause du frottement d'un pignon, qu'il y faut de plus pour communiquer les tours des deux balanciers: de sorte qu'il faudroit plus du double de force au grand ressort pour entretenir une montre de cette facon.</p>
+<p>Je vous ay mandè par ma precedente<note n="#1"/> que j'avois trouuè un autre remede au contrecoup qui en effect est meilleur, et ne consiste qu'a faire les tours du balancier plus frequents, comme d'en mettre 240 dans une minute au lieu [de] 120 qu'il y en avoit. Cela estant on ne peut pas rencontrer le contretemps qu'il faut pour faire arrester la montre, quoy qu'on le veuille expres. Car pour dans la poche, il faut seulement leur donner bien de la force a fin qu'elles soient exemptes de cet accident. Et j'en porte une qui ne bat que les demi-secondes, qui ne s'arreste jamais. Si Milord Brouncker le souhaite je luy en seray faire une ou il y ait des minutes car pour les secondes nous ne sommes pas encore parvenus a la perfection qu'il faut pour cela, et je ne crois pas qu'en petit on y puisse parvenir du moins en voulant que les montres soient portatives.</p>
+<p>Si Mr. <persName key="hook001">Hook</persName> y trouve a rafiner d'avantage, il surpassera mon attente, mais sa construction ayant le mesme fondement que la mienne comme vous m'avez mandè cy devant, l'on ne me feroit pas justice, si l'on considereroit son invention comme un autre original. Car sa pretension<note n="#2"/> d'y avoir songè il y a long temps me semble fort frivole, et il devroit du moins avoir fait voir quelque chose lors que j'envoyay l'anagramme que je marquay expres qu'il contenoit une nouuelle invention d'horloge<note n="#3"/>.</p>
+<p>Je vous suis obligè de la bonne volontè que vous tesmoignez d'avoir pour procurer du bien a Mr. <persName key="papi014">Papin</persName><note n="#4"/>, qui ne se scauroit louer assez de la reception que vous et ces autres Messieurs luy ont faite.</p>
+<div type="closer">
+<p>Je suis Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>J'avois oubliè de mettre dans la lettre que si l'on venoit a demonter la montre pour en voir toute la construction ou pour quelque accident il faut prendre garde de defaire la platine esmailléc du quadrant, rond la quelle il y a une piece qui sert a demonter le grand ressort.</p>
+<p>Il faut encore scavoir que quand on a ostè le balancier et qu'en le remettant, il cloche (comme une horloge a pendule qui est suspendue de travers) alors il faut
+corriger ce defaut en faisant engrainer autrement les dents de la petite roue dans le pignon du balancier apres qu'on a defait cette petite roue.</p>
+<p>Il faut en montant le ressort tourner la clef jusqu'a ce qu'elle ne puisse pas aller plus loin comme une horloge a pendule.</p>
+</div>
+</body>
+</text>
+</TEI>

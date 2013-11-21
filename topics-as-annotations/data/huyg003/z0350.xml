@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0350"/>
+<meta type="date" value="1656-11"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0349"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0350">
+<p>Touchant la Methode de Monsieur <persName>le Pailleur</persName>, pour resoudre les aequations cubiques sans oster le 2<hi rend="sup">nd</hi> terme, je trouve qu'il y a plusieurs cas qui y manquent; car de 13 ou 14 cas qu'il y a en tout, on ne trouve que les suivans, qui selon la façon de Monsieur <persName key="desc004">des Cartes</persName>, s'expriment ainsy:</p>
+<p><figure><graphic url="huyg003oeuv01ill164.gif"></graphic></figure></p>
+<p>Dans lesquels cas il est à remarquer, que la façon dont le feu Monsieur <persName>Le Pailleur</persName> a construit le 3, 6, et 8<hi rend="sup">me</hi> cas n'est gueres differente de celle, que Monsieur <persName key="desc004">des Cartes</persName> a donnè et ce qui concerne le 2 et 5<hi rend="sup">me</hi> cas, les mesmes ne sont que fort particuliers, d'autant que rarement il arrivera que <hi rend="i">pp</hi>, la quantitè connue du 3<hi rend="sup">me</hi> terme, sera esgale au quarrè de <hi rend="i">p</hi>, la moitiè de celle du 2<hi rend="sup">nd</hi>; et que je trouve aussy difficile, l'equation n'estant pas telle, comment on l'y pourra reduire. Outre que dans iceux il n'est pas fait aucune mention des racines fausses; de sorte qu'ayant travaillè à les parfaire j'ay trouvè tant de difficultè, que par le peu de temps que j'avois j'aye estè contraint de le laisser, apres avoir expliquè une reigle generale à construire les Aequations Cubiques et Quarrè-quarrèes par le moyen d'un Cercle et une Hyperbole, trouvèe<note n="#1"/> par Monsieur <persName key="hudd002">J. Hudde</persName><note n="#2"/>, y adjoustant une reigle generale pour construire les Aequations Cubiques, sans oster le 2<hi rend="sup">nd</hi> terme, par le moyen d'un
+cercle et Parabole, de la façon dont je l'ay trouvèe. De sorte, Monsieur, que je regrette de n'y pas avoir pu venir à bout, pour satisfaire à vostre desir, encore que j'aye fait mon mieux, &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

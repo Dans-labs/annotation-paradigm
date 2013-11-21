@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0048"/>
+<meta type="date" value="1648-05-01"/>
+<meta type="sender" value="mers004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0048">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Puisque ie suis si heureux que vostre braue fils assistera à l'essay Canonique, ie n'ay plus peur qu'il y manque rien vû son grand jugement, et pour la conduite paternelle qui ne luy manquera point, heureux fils d'auoir vn tel pere! mais aussi
+heureux pere d'auoir vn tel enfant. Enfin les Neapolitains sont fideles suiets et nostre Mr. <persName>de Guyse</persName><note n="#1"/> prisonnier en Hispagne.</p>
+<p>Auez vous lu samedo<note n="#2"/> de l'histoire de la Chine<note n="#3"/>? Leur Philosophie qu'ils disent plus vieil qu' Aristote y est comprise en partie; lequel on m'a dit estre edite à Rome en Arabe ou Indien, entre la main de Kirker<note n="#4"/>. Auez vous vû vn liure jmprimé en Hollande qu'a fait Scioppius<note n="#5"/> sous le nom d'Aloysius [?] de la Vilgar [?] ie n'ay peu encore voir ce liure. L'un de mes concitoyens qui a connu Scioppius à Padoue, où il est enfermé et ne sort que le iour de Pasques, m'a dit qu'il est le plus admirable homme du monde, et qu'il a aussi quantité de liures
+manuscrits qu'il a composez comme est vostre lict en quarré: entr'autres vn gros volume de toutes les origines du latin<note n="#6"/>, gros comme vn Calvyn, etc.,</p>
+<p>Au mesme lieu il y a vn pauure garcon qui mange les scorpions et les aragnees toutes viues, comme du pain, sans s'en trouuer mal. Pour 2 sols il a aualé vn lézard, qui luy fouilla 2 heures dans le ventre, et la reietta tout vif, et ce lezard s'en fust bien viste. En ce pays la on mange des potages de viperes pour viure plus long temps. Il y a aussi vn bourguignon qui n'a ni deuant ni derriere de sorte qu'il ne rend point d'excrete que par la bouche, et s'il s'en porte fort bien, et pour l'urine transsudat per pellem ventris.</p>
+<p>Je ne vous mande rien du vuide parceque i'en parle dans la lettre<note n="#7"/> de vostre Archimede, laquelle il vous pourra communiquer. Voyla tout ce que vous aurez par cet ordinaire<note n="#8"/>, car ie ne vous parle point des nouueaux commentaires sur Tertulianus<note n="#9"/> et St. Cyprien<note n="#10"/>, par ce que ie ne scay pas si cela est de vostre goust.</p>
+<p>Or ie m'en vais faire la cour a Mr. <persName key="goli002">Golius</persName>, affin qu'il m'auertisse [?] du jour qu'on doit auiver [?] vostre Air [?] et si quand vous serez icy, quelque de vos voix [?] vous chantez [?], il faudra vous la faire auoir pour l'identité [?] auec vous. En attendant tout cela ie demeureray</p>
+<div type="closer">
+<p>Vostre treshumble et tresaffectionné seruiteur <persName key="mers004">Mersenne M.</persName></p>
+<p>ce <date>j<hi rend="sup">r</hi> May 1648</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huijgens</persName>, Sieur de Zuijllichem, Conseiller et Secretaire de Monsieur le Prince d'Orange
+<lb/>A La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

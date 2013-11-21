@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0506"/>
+<meta type="date" value="1658-08-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="brun004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="hoorn001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0506">
+<div type="opener">
+<p><persName key="huyg003">Christianus Hugenius</persName> <persName key="brun004">Henrico Brunoni</persName> suo S.P.</p>
+</div>
+<p>Accipe, Heroum doctissime, tergemino operi tuo praesigendam triadem paternorum Epigrammatum, quae in Vitaulio suo enata, non invitis musis, ut mihi quidem videtur, secum huc attulit. De numismate Auriaco vellem te tam facilè desiderij compotem fieri posse, neque cum Lentulo illo nobis rem esse, qui <hi rend="i">ἄμȣσος</hi> ipse non genium aut ingenium Brunonianum curare videtur, nec ipsum puto Apollinis numen. Pater meus ut saepe aliàs nunc denuo, tuo nomine cum illo expostulauit, sed hactenus nihil praeter verba dat nec desinit Brunoniana abuti patientia. Si me audies, cum primum huc adveneris, minas illi atque arma tua intentabis. Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Comitis</placeName> <date>8 Aug. 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="brun004">Henr. Bruno</persName>, Corrector Tot Hoorn.</p>
+</div>
+</body>
+</text>
+</TEI>

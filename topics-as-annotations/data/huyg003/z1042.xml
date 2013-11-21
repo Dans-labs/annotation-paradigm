@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1042"/>
+<meta type="date" value="1662-08-11"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1042">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Studia tua inuitus interpello, parabilem tamen apud te veniam habiturum me confido cum occasionem intelliges, quae mihi quandam scribendj necessitatem imposuit. Meministj opinor me ab aliquot annis<note n="#1"/> ex tua et Clarissimi Heinsij voluntate Monachorum Domini Jacobj Bibliothecam adijsse vt Manuscriptum Metamorphoseon Ouidij Codicem inuestigarem. Atque tum id quidem frustra: sed cum ante aliquot dies apud illos essem, vnus ex senioribus ad me, Reperi, inquit, Ouidium quem olim quaesiuisti, et librum protulit in quo Commentarij in Psalmos aliquot et precatiunculae continebantur, ad calcem vero adiectae erant membranae in quibus non Metamorphosin sed Remedium Amoris descriptum inueni. Arbitror in vnum societate tam dissimili compactas, ne omnino perirent, vsu enim et vetustate admodum detritae sunt, et molis adeo exiguae vt seorsim compingi potuisse non videantur. Jnterim laudaui Monachi humanitatem, et cum scirem Ouidium integrum<note n="#2"/> a Clarissimo Heinsio recenseri, librum commodatè acceptum contuli cum editione quam eodem accurante nobis anno 1652<note n="#3"/> dederunt Elzeuirij<note n="#4"/>, discrepantesque lectiones adnotaui. Fateor plerasque leuis esse momenti, sed non putaui omittendas vt diligentiam et fidem meam probarem. Ostendere tamen possum non paucas ex quibus
+mens auctoris commodius quam ex editione quam contuli, explicetur. Has, qualescumque sint, officij mej esse duxj ad te mittere, vt videres num viro doctissimo vsui esse possint. Et vereor quidem ne <hi rend="i">μετὰ τὸν πολεμὸν ἡ συμμαχία</hi>, maluj tamen operam perdere quam occasionem qua testarer desiderium pro modulo meo bene merendi de literis, virisque qui eas indefesso labore promovere satagunt. Haec itaque boni consule, Vir praestantissime, meque ama, quem constanti semper affectu esse nostj</p>
+<div type="closer">
+<p>Tuum tuique obseruantissimum</p>
+<p><persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>XI Augusti MDCLXII</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

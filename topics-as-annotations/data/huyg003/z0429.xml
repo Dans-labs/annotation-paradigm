@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0429"/>
+<meta type="date" value="1657-11-17"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hoorn001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0429">
+<div type="opener">
+<p lang="la">Nobilissime Domine,</p>
+</div>
+<p>Con-rector urbis ego <hi rend="i">εὔχομαι εἶναι.</hi> Corrector orbis, Perillustris domini Parentis vestri, Psalmis ante annum aut alterum meis<note n="#1"/> praefixo testimonio (quamvis haud equidem tali me digner honore) appellor, volitans vivu' per ora virûm. Iam autem, quod eundem, ut nullo meo merito, prolixissimum ingenioli mei praeconem, ita manifesta, per Musas, culpa mea atque hallucinatione, aequissimum pariter ac severum experiar censorem, tantum abest ut vel per somnium aegrè feram, (quod neque ingenui hominis, neque mentis bene sanae, neque veteris ac domestici clientis foret,) ut potius gratias, quantas animo concipere possim, quantaeque humano intelligi possint, maximas Lubens Merito Que pro monitis istis atque animadversionibus agere me profitear. Quis tandem, (cui merito Phoebi chorus assurrexerit omnis) Aristarcho tanto vel jure se opponere possit, ac responsare, vel impudenter simul atque imperité audeat oppedere? Homerus ego non sum, quamvis et ipse bonus dormitet Homerus. Davus sum non Oedipus. Corrigam itaque memet ipsum, quando horula aut altera vacui mihi temporis concedetur. hoc momento discedente amplissimo nostro Consule Domino <persName>Hovio</persName><note n="#2"/>, viro mihi longé addictissimo, paternoque me semper affectu prosecuto, in antecessum id duntaxat per eum monitos vos atque certiores factos volui, me vestras accepisse hodie. Cras limatius spero me carmen conditurum. Oro itaque ut editio Poëmatum paternorum in dieculas aliquot protrahatur. Cogor abrumpere, nobilissime Domine,</p>
+<div type="closer">
+<p>Tuus omni nomine <persName key="brun004">H. Bruno</persName>.</p>
+<p><placeName key="hoorn001">Hornae</placeName> <date>17. Nov. 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Huygens van Zulichem</persName>, ten huijse van sijne Edelheyts Heer Vader In 's Gravenhaghe.
+<lb/>door Heer en vriendt.</p>
+</div>
+</body>
+</text>
+</TEI>

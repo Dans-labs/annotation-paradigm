@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0654"/>
+<meta type="date" value="1659-08-15"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0654">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>15. Aoust 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous reitereray icy mes treshumbles actions de graces que je vous fais pour la peine &amp; le soing que vous auez pris auec tant de soing pour faire faire &amp; m'enuoyer l'horologe; Je vous rends aussi graces de l'exemplaire que vous m'enuoyez
+de vostre hypothese de Saturne<note n="#1"/>: &amp; de ce que vous me faictes le distributeur<note n="#2"/> des exemplaires que vous enuoyez a vos amis, que je ne manqueray pas de rendre a leurs addresses &amp; j'en retiendray seulement vn pour moy.</p>
+<p>Je n'ay pas encores achepté le Pomponius Mela de Monsieur Vossius<note n="#3"/>, je le veux voir pour prendre cognoissance de ce qu'il a dit touchant les refractions. Il deuoit consulter ceux qui entendent la matiere, &amp; escrire suiuant l'aduis de quelque sage &amp; entendu. Je scay asseurement qu'il n'entend pas l'optique; &amp; il a tort de s'estre fié a ses pensees. Je ne blasme pas son opinion touchant la Chronologie des 70. qu'il soustient. car il n'y a pas d'apparence que le texte &amp; la version des Lxx. puisse estre rejettee ny condamnee; puis que les Euangelistes les Apostres &amp; toute l'Eglise Orientale, ne se sont jamais seruis que de cette version Greque, qui passe soubs le nom des Lxx qui a esté certainement faicte a diuerses fois, sur des originaux Hebreux qui auoient differentes leçons, &amp; par diuerses personnes. Et a le bien prendre la predication de la Religion Chrestienne, qui dans ses commencemens par les Apostres a esté preschee &amp; escrite en Grec, n'est point fondee sur le texte Hebraique, dont les Hebreux Hellenizans ne se seruoient plus vulgairement &amp; ne l'entendoient pas mesme: vous scauez que Philon le plus scauant &amp; le plus honneste homme entre les Hebreux d'Alexandrie du temps de Tibere &amp; de Caligula n'entendoit point l'Hebreu. et il a fallu que les Apostres qui preschoient a des Juifs, qui ne lisoient l'escriture Sainte qu'en Grec, se soient seruis de cette version Greque qui estoit alors, &amp; consequement quils ayent creu qu'elle estoit veritable.</p>
+<p>Monsieur Du Laurent est si persuadé de son inuention<note n="#4"/> pour changer vn Probleme Solide en vn Plan, qu'il ne se laissera non plus destromper que Monsieur Vossius. Je suis aussi persuadé que vous, que le probleme solide de sa nature ne peut estre transformé en vn plan, comme celluy des deux moyennes continues, qui sont quatre en nombre qui enferment trois interualles, qui ne sont point dans vn plan, qui n'a que longueur &amp; largeur. &amp; consequemment vous ne pouuez jamais y trouuer l'estendue pour y comparer plus que la raison doublee, &amp; jamais la triplee. Les inuentions mechaniques par mouuemens composez pour les trouuer suppleent a l'interualle de hauteur du solide. car ce mouuement descrit vn plan, qui naturellement auec le donné deuroit composer le solide, lequel plan s'applique mechaniquement sur le plan donné: &amp; transforme la maniere naturelle de trouuer la chose proposee en vne artificielle, mais imparfaicte quant a l'effection. Je ne le querele pas la dessus comme a faict Roberual<note n="#5"/> qui est <hi rend="i">ἀχαριέντατος.</hi></p>
+<p>Je trouue encores fort a redire a Monsieur du Laurent, &amp; a sa maniere, qui ne
+veut point s'astreindre a l'effection Geometrique; En quoy certainement je ne peux luy applaudir; car a quoi me sert de dire &amp; de trouuer que AC ∞ BD, cest a dire le rectangle de deux grandeurs cognues, au rectangle de deux incogneues, si je ne trouue ces incognues par quelque effection. Au premier loisir que j'auray je veux appliquer aussi cette specieuse<note n="#6"/> a trouuer ce dont j'auray affaire, je scay toutes les regles du calcul. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur, <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>Si vous enuoyez vostre Saturne a Monsieur Heuelius, je vous prie d'y joindre vn exemplaire<note n="#7"/> pour Monsieur Des Noyers secretaire de la Reine de Pologne, qui est vn tres honneste homme.</p>
+<p>Je baise treshumblement les mains a Monsieur Heinsius.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2587"/>
+<meta type="date" value="1690-05-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hosp010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2587">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName>, ce 10 May 1690.</p>
+<p>Monsieur</p>
+</div>
+<p>La lettre que vous m'avez fait l'honneur de m'escrire, datée du 18 Avril ne m'a estè rendue que le 5 du mois present, peut-estre par la faute de celuy a qui elle a estè adressée en ce païs, que je ne puis scavoir qui c'est, parce que sans rien adjouter de sa part il m'a simplement envoiè le paquet ou estoit cette lettre avec l'Extrait<note n="#2"/> qui contient vostre demonstration de ma Regle touchant le centre d'oscillation. Cette omission fait que ne scachant pas ou je dois adresser ma response a Paris, je n'escris qu'au hasard ce peu de lignes, pour voir si elles auront le bonheur de parvenir jusqu'à vous; apres quoy je ne manqueray pas de vous escrire plus amplement touchant la dite demonstration. Car voiant que vous demandez qu'elle soit inserée dans nos Journaux, mais avec cette condition, que j'en sois satisfait, je crois estre obligè de vous communiquer auparavant mes considerations sur les fondemens dont vous vous servez. Que si apres cela vous souhaitez que vostre ecrit soit publiè, ou si mesme vous voulez que cela se fasse au plustost et devant que d'avoir vu ce que j'ay a dire, je suivray volontiers vos ordres, et vous voudrez bien alors que j'y joigne mes remarques. Au reste Monsieur, vostre entreprise me fait honneur, et je vous suis obligè d'avoir taschè de confirmer ma theorie par de nouvelles preuves puis qu'il y a eu des personnes qui ne se sont pas contentez de celles que j'ay donnees, qui pourtant me semblent bien certaines. Je voudrois avoir pu trouver des principes aussi surs dans ce que j'ay avancè touchant les Refractions et leur causes physiques, afin que le Traitè que je viens de publier pust repondre à vostre attente. J'en ay envoiè 9 à 10 exemplaires à Mr. <persName key="hire005">de la Hire</persName><note n="#3"/>, et j'attens de ses nouvelles pour scavoir s'il les aura receux. Lors qu'il se presentera quelque occasion pour en faire passer d'autres, à quoy la defense
+du commerce est un grand obstacle, je ne manqueray pas de vous en faire avoir. Cependant je me diray avec respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant Seruiteur
+<lb/><persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

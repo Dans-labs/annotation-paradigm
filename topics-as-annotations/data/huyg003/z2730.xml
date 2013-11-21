@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2730"/>
+<meta type="date" value="1692-01-20"/>
+<meta type="sender" value="huyg023"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="midde009"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2730">
+<div type="opener">
+<p>Viro nobilissimo <persName key="huyg003">Christiano Huighenio</persName> S.P.d. <persName key="huyg023">Hubertus Huighenius</persName>.</p>
+</div>
+<p>Si parvus, qui has comitatur literas, fidem inveniat libellus, magnum momentum habebit ad obtinendum scopum suum, nempe solutionem cujusdam propositionis,
+quam ab omnibus quidem peto, sed a te, Vir nobilissime, certo exspectare possum,</p>
+<p>incrementum, quod per te scientiae acceperunt, certum me reddit, quod etiam libenter per solutionem illius propositionis, in qua non nisi ex rectis lineis quaerenda est longitudo rectae lineae, cognitam reddes proportionem, quae est inter circulum, et quadratum ejus diametri,</p>
+<p>quin imo tanta me tenet ejus rei fiducia, ut in totum supersederem me hic excusare, quod tibi ignotus ea de re molestus sim, nisi vererer, ne magnitudo rei, quam promitto de solutione illius propositionis, omnem mihi fidem adimat,</p>
+<p>quod si illa, et nulla alia causa impediat, quo minus lubebit manum illi operi admovere, libenter illam per demonstrationem tollam,</p>
+<p>literae tuae, si de voluntate vestra digneris me certum facere, mihi transmitti
+poterunt per libelli mei bibliopolam<note n="#3"/>, cujus nomen, et locum domicilii pagina tituli indicabit:</p>
+<p>sed vereor, ne nimium abutar humanitate vestra, quare aliud nihil hic addam, quam quod velis illius rei culpam adscribere desiderio, quo teneor, videndi, ut per te, Vir nobilissime, ultima manus imponatur rei tam diu frustra quaesitae. Vale.</p>
+<div type="closer">
+<p>dabam Medioburgi
+<lb/>20 Januarii 1692.</p>
+</div>
+</div>
+<div type="para">
+<p>Ed: gestr: welgebore Heer
+<lb/>d'heer <persName key="huyg003">Christiaen Huighens</persName>,
+<lb/>wonende op het pleyn
+<lb/>In den Haagh.
+<lb/>franco.</p>
+</div>
+</body>
+</text>
+</TEI>

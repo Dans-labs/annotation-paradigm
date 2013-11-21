@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1881"/>
+<meta type="date" value="1672-04-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1881">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 8 Avril 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>Voicy le nombre 81 des Transactions, où vous trouuerez presque tout ce qu'il m'a escrit<note n="#1"/> touchant sa lunette: Je dis <hi rend="i">presque tout</hi>, vû que depuis que i'auois envoyé la copie de cet Imprimé à la presse, i'ay receu quelque chose de plus, non seulement touchant les Apertures et les charges pour toutes sortes de longueurs, mais aussi sur le changement qui se pourra faire du miroir plat et oval en une autre figure et matiere: dont vous serez, peut estre, informez dans les Transactions, qui s'imprimeront pour ce mois d'Avril<note n="#2"/>.</p>
+<p>Quand vous aurez consideré sa theorie des couleurs<note n="#3"/>, vous nous obligerez de nous communiquer vos pensees là dessus. Je ne manqueray pas de faire voir à quelques vns de nos Philosophes et Mathematiciens ce que vous auez medité de nouveau sur le probleme d'Alhazen. Si vous ne me le defendez pas, ie pourray prendre la liberté d'inserer cy-apres dans mes Transactions, <hi rend="i">et</hi> la premiere construction, que vous nous en envoiastez il y a longtemps, auec l'abbregement que vous en auez trouvé depuis, et l'autre, que vous appelez la bonne, come ayant lieu dans tous les cas imaginables. Je vous diray des nouuelles touchant les traitez de Kinkhuysen par ma prochaine<note n="#4"/>.</p>
+<p>A present ie n'ay rien a adjouster, si non que vous estes desiré d'examiner le discours latin de Monsieur Wallis<note n="#5"/> touchant sa double methode des Tangens, inserée dans les Transactions; et que ie suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres-obeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName>
+<lb/>a la Bibliotheque du Roy à Paris.
+<lb/>46 β</p>
+</div>
+</body>
+</text>
+</TEI>

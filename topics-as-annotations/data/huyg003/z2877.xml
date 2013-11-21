@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2877"/>
+<meta type="date" value="1694-09-18"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hanno901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2877">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je me suis donné l'honneur de vous écrire il y a quelques jours, où j'ay marqué d'auoir satifait à vos ordres, en envoyant à Leipzig ce que vous aviés destiné aux Acta<note n="#3"/>. J'ay taché aussi de satisfaire aux autres points de vostre lettre.</p>
+<p>Maintenant je profite de l'occasion favorable que M. de Tschirnhaus<note n="#4"/> me fournit pour vous écrire cellecy, et je ne me sçaurois dispenser de vous dire que jay vû avec admiration les effects de ses verres ardens.<note n="#5"/> sur tout sur des objets,
+qui ont paru indomtables aux fourneaux des chymistes. Mais comme vous en verrés des objets incomparablement plus grands par le moyen des verres qu'il a déja envoyés en Hollande<note n="#6"/>, je n'en diray point d'avantage.</p>
+<p>Il m'a aussi monstré des Theoremes de Geometrie, d'une grande beauté et generalité, et plusieurs autres belles pensées. Mais vous en estes meilleur juge que moy, et j'espere qu'en retournant, il me fera part du profit qu'il aura fait chez vous. Car si j'estois capable de luy porter envie, ce seroit de l'avantage qu'il aura de vous voir.</p>
+<p>Je suis avec zele</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre treshumble et tresobeissant serviteur <persName key="leib013">Leibniz</persName>.</p>
+<p>Hanover 8 Septemb. 1694.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

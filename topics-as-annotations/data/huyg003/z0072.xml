@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0072"/>
+<meta type="date" value="1650-02-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="genev001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0072">
+<div type="opener">
+<p><placeName key="denha004">Haye</placeName> ce <date>8 de Fevr. 1650</date>.</p>
+<p>Mon frere</p>
+</div>
+<p>Depuis mes dernieres rien ne s'est passe icy qui merite d'estre rapporté, et pourtant j'ayme mieux remplir ma lettre de choses frivoles et de petite importance que de laisser escapper l'occasion de vous escrire, je vous prie d'en faire autant. Mon Pere avecq ma cousine et ma soeur sont priez aujourdhuy aux nopces de ma cousine Blommaert<note n="#1"/> et du S<hi rend="sup">r</hi>. Elsevier<note n="#2"/> qui se font le 15<hi rend="sup">me</hi> de ce mois, mais ils n'ont garde d'y aller. Touchant nostre autre cousin van Sonne, de qui j'ay fait mention dans mes precedentes, j'ay appris que ma Tante et ma Cousine Dorp<note n="#3"/> avecq M<hi rend="sup">lle</hi> Dorp<note n="#4"/> l'aisnée ont este chez ma cousine Bodaen<note n="#5"/> pour congratuler l'espouse; la mere leur vint ouurir la porte et leur dit, Que venez vous faire icy? Estce pour vous mocquer de moy que vous venez? Elles estoyent bien surprises et respondirent qu'elle ne devoit pas trouver extrange que ses plus proches parents vinssent voir sa fille en l'estat ou elle estoit maintenant. Vrayment vous estes de beaux parents, dit l'autre, il vaudroit autant de n'en avoir point, je croy que c'est bien la premiere visite en 20 ans, qu'on ait eue de vous: apres elle dit entrez, entrez; mais je vous asseure qu'elles n'y demeurerent guerre long temps: je voudrois a voir este present a cette agreable entreuue, et qu'il m'en eust couste quelque chose. J'ay receu la vostre par la quelle vous me mandez en quel estat sont les Alpes, et que vous croyez
+que j'aye bien vû de semblables montaignes en mon voyage. Mais il faut que vous scachiez, qu'il y a moins de resemblance des plus grandes que j'aye vu aux Alpes, que de nostre montaigne de <placeName key="voorb001">Voorburg</placeName> que mon Pere y a fait faire au milieu du bois, a celles la ce ne sont que des montaignes de la hauteur de celle d'Amersfort, ou un peu plus. J'ay veu au bout de vostre lettre, le cercle qui monstre que vostre monstre est de moyenne grandeur, et j'eusse este ravy si vous y eussiez mis quant et quant celle de vostre nouuelle barbe: je croy que vous ne l'avez pas voulu mettre, pour me causer plus d'estonnement à vostre retour, c'est pourquoy je ne vous en prieray pas, mais bien d'un autre chose qui me rejouira fort, c'est qu'il vous plaise me monstrer par trois ou quatre traits de plume, la vue de vostre fenestre, et comment on y voit les pointes des Alpes environ. faites le seulement par coeur, si ce vous est trop de peine d'y regarder. Je vous en supplie, et promets qu'en tout ce que vous desirerez de moy je vous feray voir que je suis</p>
+<div type="closer">
+<p>Vostre tres-affectionne frère et serviteur <persName key="huyg003">Chr. Huygens</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Monsieur Monsieur <persName key="huyg007">Huygens</persName>, Secretaire de S. Altesse d'Orange.
+<lb/>A Geneve.</p>
+</div>
+</body>
+</text>
+</TEI>

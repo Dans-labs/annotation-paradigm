@@ -1,0 +1,63 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0950"/>
+<meta type="date" value="1661-12"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0948"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0950">
+<p>Voicy la solution de Monsieur Fermat.</p>
+<p><table>
+<row>
+<cell>premier triangle</cell>
+<cell>2150905.</cell></row>
+<row>
+<cell></cell>
+<cell>2138136.</cell></row>
+<row>
+<cell></cell>
+<cell>234023.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell cols="2"></cell></row>
+<row>
+<cell>le second</cell>
+<cell>2165017.</cell></row>
+<row>
+<cell></cell>
+<cell>2150905.</cell></row>
+<row>
+<cell></cell>
+<cell>246792.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+</table></p>
+<p>Sa methode luy en donne un' infinité d'autres.</p>
+<p>Si l'on vouloit la mesme somme des costez au lieu de la difference, il y auroit aussy jnfinis triangles qui satisferoyent à la question, les plus simples sont les deux qui suiuent</p>
+<p><table>
+<row>
+<cell>1517</cell>
+<cell></cell>
+<cell>1525</cell></row>
+<row>
+<cell>1508</cell>
+<cell>et</cell>
+<cell>1517</cell></row>
+<row>
+<cell>165</cell>
+<cell></cell>
+<cell>156</cell></row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

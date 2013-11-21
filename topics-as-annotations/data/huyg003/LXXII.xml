@@ -1,0 +1,49 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXXII"/>
+<meta type="date" value="1680"/>
+<meta type="sender" value="tsch002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXXII">
+<div type="section">
+<head rend="h4"><hi rend="i">Specimen Methodi</hi>, (<hi rend="i">qua Nobilissimo Viro ostendi</hi>, <hi rend="i">me posse quotcunque intermedios terminos ex qualibet aequatione auferre</hi>).</head>
+<p>in cubica aequatione
+<figure><graphic url="huyg003oeuv22ill25.gif"></graphic></figure>
+<figure><graphic url="huyg003oeuv22ill26.gif"></graphic></figure><note n="#2"/> hinc patet loco <hi rend="i">xx</hi> ∞ <hi rend="i">ax</hi> + <hi rend="i">b</hi> + <hi rend="i">y</hi> debere poni
+<figure><graphic url="huyg003oeuv22ill27.gif"></graphic></figure>
+atque hinc ope hujus aequatio cubica reducitur ad aliam ubi duo intermedii termini absunt; sed quo videamus quaenam hinc radix aequationis cubicae exsurgat, sic progredior: per modo ostensa erit porrò
+<figure><graphic url="huyg003oeuv22ill28.gif"></graphic></figure>
+jam ut porrò <hi rend="i">y</hi> innotescat restituatur <hi rend="i">b</hi> in quantitate
+<figure><graphic url="huyg003oeuv22ill29.gif"></graphic></figure>
+jam restituatur <hi rend="i">aa</hi>.</p>
+<p><figure><graphic url="huyg003oeuv22ill30.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv22ill31.gif"></graphic></figure><note n="#3"/></p>
+<p>hinc tandem data aequatione <hi rend="i">x</hi><hi rend="sup">3</hi> ∞ <hi rend="i">qx</hi>+<hi rend="i">r</hi> radix erit
+<figure><graphic url="huyg003oeuv22ill32.gif"></graphic></figure>
+sic eadem ratione radix determinatur aequationis <hi rend="i">x</hi><hi rend="sup">3</hi> ∞ <hi rend="i">pxx</hi>-<hi rend="i">qx</hi>+<hi rend="i">r</hi>. Sed calculi prolixitas nimia est, fitque restituendo saltem in inventa radice loco <hi rend="i">q</hi> quantitate <hi rend="i">pp</hi>/3-<hi rend="i">q</hi>, loco <hi rend="i">r</hi> vero, quantitate 2<hi rend="i">p</hi><hi rend="sup">3</hi>/27-<hi rend="i">pq</hi>/3+<hi rend="i">r</hi> adeòque idem faciliter in numeris poterit exequi.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Inventio Reguloe Cardani per eandem Methodum</hi>, <hi rend="i">ablatione scilicet terminorum intermediorum</hi>.</head>
+<p><figure><graphic url="huyg003oeuv22ill33.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv22ill34.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv22ill35.gif"></graphic></figure></p>
+<p>adeoque posito in priori aequatione-<hi rend="i">q</hi>/3 loco <hi rend="i">a</hi> erit <hi rend="i">y</hi><hi rend="sup">6</hi>-<hi rend="i">ry</hi><hi rend="sup">3</hi>+<hi rend="i">q</hi><hi rend="sup">3</hi>/27 unde <hi rend="i">y</hi> ∞
+<figure><graphic url="huyg003oeuv22ill36.gif"></graphic></figure>
+jam verò ob priorem positionem <hi rend="i">x</hi> ∞ <hi rend="i">y</hi>-<hi rend="i">a</hi>/<hi rend="i">y</hi> erit <hi rend="i">x</hi> ∞
+<figure><graphic url="huyg003oeuv22ill37.gif"></graphic></figure></p>
+<div type="closer">
+<p>Pour Monsieur <persName key="huyg003">Hugens</persName>.
+<lb/>Par Son Tres humble et tres obeissant Serviteur
+<lb/><persName key="tsch002">Ehrenfried Walther de Tschirnhaus</persName></p>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>

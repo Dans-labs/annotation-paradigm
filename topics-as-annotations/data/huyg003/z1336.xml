@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1336"/>
+<meta type="date" value="1665-02-26"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1336">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 16. Feurier 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Ce mot vous sera mis entre les mains par le cheualier Guillaume Dauidson<note n="#1"/>, que Je vous ay cy deuant nommé. il vous apporte les Obseruations Microscopiques de Monsieur Hook<note n="#2"/>. Je croyois vous enuoyer aussi auec ce liure, un Thermometre que J'ay fait faire pour vous<note n="#3"/>. Mais l'ouurier ne l'ayant pas encore empaqueté comme il faut, Je tascheray de vous le faire tenir au plus tost, par le moyen du Correspondant du Cheualier Dauidson qui est a Dunkerk.</p>
+<p>Monsieur Dauidson se chargera aussi de l'Horologe que vous auez intention de menuoyer, et vous en payera ce que vous luy direz, pour donner à celuy qui l'a fait.</p>
+<p>Le priuilege a passé le seau priuè, et s'en va au grand seau. J'ay parlé ce matin en presence du Roy, et de Son Altesse Royale auec un des Capitaines qui estoit en la Compagnie de Monsieur Holmes, qui m'a confirmé ce que Holmes mauoit dit touchant leur arriuee a l'ile de Fuego, sur la foy des Horologes. Mais Je ne l'ay pas interrogé sur toutes les particularitez, comme Je pretends faire une autre fois.</p>
+<p>J'ay escrit à Monsieur l'Abbé de Beaufort comme vous m'auez ordonné<note n="#4"/>, et attends sa responce par le premier ordinaire.</p>
+<p>Messieurs de Bruncker, Boile, et vos autres amis icy vous baisent les mains et vous sçauez que je suis de bon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2537"/>
+<meta type="date" value="1689-04-26"/>
+<meta type="sender" value="vold004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="voorb901"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2537">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>Ick blijf UEdt. hartelijck dankbaar voor de boecken mij op gisteren gesonden, die mij wel ter hand sijn gecomen, en dewelcke ick hoope te besorgen dat UEd. binnen korten onbeschadight weder sullen werden herstelt. Ick sal oock, soo UEd. geen volkomen genoegen had in de proef op de solder, maar liever het glas<note n="#1"/> aan de maan selfs probeerde, niet manqueren op het aldereerst advys, UEdt. de blickke ring met de steert toe te stueren sij is wel heel ruw gemaackt, maar sal voor een proefje meen ik, genoech verstrecken. Ick sal hierop, soo UEd. meende die eenighsins nodigh te hebben, UEds. ordres afwachten; en verblijven middelerwijlen</p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>Uw Edts. ootmoedige Dienaar
+<lb/><persName key="vold004">B. de Volder</persName>.</p>
+<p>Leijden, den 26 April 1689.</p>
+</div>
+</div>
+<div type="para">
+<p>Aan de Heer
+<lb/>Mijn Heer <persName key="huyg003">Christiaan Huijgens van Zuijlichem</persName>
+<lb/>Heer van Zelem etc., etc. op 't huijs te Hofwijck
+<lb/>tot <placeName key="voorb001">Voorburgh</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

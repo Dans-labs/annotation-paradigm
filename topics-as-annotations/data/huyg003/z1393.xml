@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1393"/>
+<meta type="date" value="1665-04-17"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1393">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Jlla ipsa die qua nuper ad te scripsj<note n="#1"/>, relatum est ad me rursus apparere Cometam vel nouum vel eundem, sed solito splendidiorem, in Capite Andromedae. Vidj die sequentj, sed (ob incommodum habitationis meae situm) non ante Auroram: cuius luce dilabentibus stellis vix quidquam obseruare licuit. Habuj tum obseruationes aliquanto a Patribus Collegij Anglicanj<note n="#2"/>, quas<note n="#3"/> ad te mitto si forte vsui esse possint; a quibus etiam accepi Patrem Ricciolum morbo impeditum tota ferè hyeme, Cometae obseruando vacare non potuisse. Vale Vir praestantissime, et quo soles affectu prosequere</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam Leodicj 17 Aprilis 1665.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> &amp;c. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

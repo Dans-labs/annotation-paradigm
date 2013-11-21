@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1977"/>
+<meta type="date" value="1673-12-18"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1977">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 8 Dec. 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Voicy<note n="#1"/> la suite de ce qui s'est passé entre vous et Monsieur Sluse sur le probleme d'Alhasen, dont ie vous envoiay le commencement dans ma lettre du 3<hi rend="sup">me</hi> Novembre<note n="#2"/>, vous demandant au mesme temps de vos nouuelles touchant ce que ie vous auois envoyé auparavant de la part de Mylord Brouncker et Monsieur Boyle, le dernier desquels vous a destiné vn autre sien livre, que ie vous feray tenir par quelque ami, qui passera d'icy à Paris. Vous trouuerez aussi dans ces Transactions quelques lettres<note n="#3"/> de nos mathematiciens touchant la priorité de
+l'invention de l'egalité d'une Paraboloide auec vne ligne droite: ce qu'on à trouué a propos d'inserer icy, à fin de donner à vn chacun ce qui luy est du, autant qu'il se peut faire. Je suis persuadé, que vostre candeur prendra cette justice en bonne part de celuy, qui est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant Seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.
+<lb/>28 β</p>
+</div>
+</body>
+</text>
+</TEI>

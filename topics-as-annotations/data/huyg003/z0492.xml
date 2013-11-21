@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0492"/>
+<meta type="date" value="1658-06-21"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0492">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>21 Juin 1658</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Encores que je sois a l'heure que je vous escris dans le rheume &amp; dans la fieure je ne laisseray pas de respondre a vostre lettre du 13. du courrant, qui est trop ciuile &amp; trop obligeante pour ne vous pas tesmoigner les ressentiments que j'en ay.</p>
+<p>Je suis fort fasché que les jnstances, que j'ay faict faire aupres de Monsieur le Chancellier<note n="#1"/>, pour obtenir le priuilege que vous desires, n'ayent pas reussi. Il a refusé par trois fois de l'accorder, &amp; il a tousjours respondu qu'il ne vouloit pas faire crier apres luy tous les maistres horologeurs de Paris. &amp; que mesme il se pouuoit faire que quelqu'un eust trouué cette mesme façon d'horologes. S'il y auoit eu le moyen de le surmonter, ceux que j'ay emploiez l'auroient faict: Vous estes
+fondé en exemple &amp; en raison, mais comme cette grace depend absolument de Monsieur le Chancellier, &amp; luy formant ces difficultez &amp; obstacles il n'y a pas moyen pourtant d'en venir a bout.</p>
+<p>Je vous suis tresobligé de la bonté que vous auez pour moy, de me vouloir communiquer la description de vostre horologe, que je tiendray cachee, tant &amp; si long temps que vous me l'ordonnerez. Vous voulez encores adjouster a cette obligation celle que je vous auray de ces verres de Lunettes que vous voulez me donner. Certainement, Monsieur, c'est vn excez de courtoisie &amp; de bienueuillance en mon endroit, dont j'auray de la peine a recognoistre la valeur &amp; le merite. Mais je n'oublieray jamais aucune occasion dans laquelle je puisse donner des marques de ma gratitude. Je ne scay pas en quel temps je pourray retourner en Hollande, ny mesme si j'y retourneray, pour ce que j'ay icy des affaires, &amp; que mes forces sont fort diminuees par la rigueur de l'hiuer passé, &amp; par l'intemperie du Printemps. en quelque lieu &amp; estat que je me trouue je seray tousjours auec passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mr. <persName key="huyg003">Hugens</persName>. A Monsieur Monsieur <persName key="huyg003">Christian Hugens</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

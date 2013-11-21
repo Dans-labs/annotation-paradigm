@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1276"/>
+<meta type="date" value="1664-11-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="auzo011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1276">
+<div type="opener">
+<p>A <persName key="auzo011">Auzout</persName>.</p>
+<p>27 Novembre 1664.</p>
+</div>
+<p>Ce que j'ay trouuè dans les lettres<note n="#1"/> du Pere <persName key="mers004">Mersenne</persName> touchant les Isochrones.
+A ce que mande mon Pere et Monsieur l'Abbè Charles<note n="#2"/> a Bataille, la lunette de Campani n'est pas tout a fait inimitable. celle de mon pere de 20, la miene de 6 pieds, grossit 30 fois, ouverture d'un pouce et 4/10, ce qui vient de ce que j'ay taillè ce verre fort grand. Je croy que la methode de Campani est avec le cercle. ce que j'en ay trouvè apres que d'Angleterre<note n="#3"/> on ma donnè cette ouverture. Tour de l'advocat de Nevers<note n="#4"/> semble peu pratiquable. figure d'une lame pliante. je l'ignore jusqu'a cet heure. ce seroit merveille si c'estoit la hyperbole requise. du succes des pendules. Centre d'oscillation de la sphere.</p>
+</div>
+</body>
+</text>
+</TEI>

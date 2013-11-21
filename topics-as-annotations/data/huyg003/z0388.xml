@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0388"/>
+<meta type="date" value="1657-05-18"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0388">
+<div type="opener">
+<p>Monsieur</p>
+<p>A <placeName key="parij001">paris</placeName> ce <date>18<hi rend="sup">e</hi> may 1657</date>.</p>
+</div>
+<p>Je vous escriuis la derniere fois<note n="#1"/> auec assez de precipitation pour oublier ce que Monsieur <persName key="fren024">Frenicle</persName> m'auoit dit du nombre 33. aprez la premiere pensèe qu'il auoit eu que ce nombre ne pouuoit pas satisfaire au probleme de Monsieur <persName key="ferm011">Defermat</persName> parce qu'il manquoit d'vne proprietè par laquelle jl auoit trouuè les autres. Je vous enuoye vne table plus ample<note n="#2"/> jusques a 86. qu'il a continueè jusques à prez de 150. ou vous voyez que 33. multipliè par le quarrè de 4. fait le quarrè de 23. moins 1. Je pouuois bien oublier pour les autres puisque pour moymesme sur le sujet de vostre Lunette de 23 dont je voulois deuiner vostre construction, jl m'eschappa d'employer la raison de la refraction que je mettois sur mon brouillon comme de 100000. à 75471. La proprietè du Cercle que vous et Monsieur <persName key="robe012">De Roberual</persName> auiez trouuèe separement ne m'estoit pas jnconnuë, je vous la dis lorsque vous estiez en cette ville, et croyois que ce fust le fondement de vostre methode. Je vous remercie de celle que vous m'auiez enuoyeè<note n="#3"/> que je trouue fort belle. Je voudrois auoir le bonheur d'en voir l'Effect comme le peut a present Monsieur <persName key="boul014">Bouillaut</persName>, ou bien d'aprendre que vous destinez au public vostre dioptrique et vos autres belles jnuentions, Je suis bien aise que vous perfectionniez de plus en plus vostre nouuelle horloge et ne desespere que vous ne la rendiez aussi bonne sur la mer que dans vostre chambre, et que les changemens du sec a l'humide, ne l'alteront pas plus que le changement des poids; on veut jcy faire jmprimer le
+deffi<note n="#4"/> de Monsieur <persName key="ferm011">Defermat</persName> auec la solution de Monsieur <persName key="fren024">Defrenicle</persName><note n="#5"/> et y joindre celle de Monsieur <persName key="scho197">De Schooten</persName><note n="#6"/> auec les abregez, Exclusions, et Theoremes que Monsieur <persName key="fren024">Defrenicle</persName> y a trouuez. J'ay priè que l'on ne le fist pas auant que j'aye sceu la volontè de Monsieur <persName key="scho197">De Schooten</persName> ce qui m'oblige a Luy en escrire et a vous supplier de Luy faire tenir ma Lettre auec la table que je vous enuoye, si vous le jugez a propos. Je suis de tout mon Coeur</p>
+<div type="closer">
+<p>Monsieur,</p>
+<p>Vostre treshumble et tresobeissant seruiteur <persName key="mylo002">Mylon</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

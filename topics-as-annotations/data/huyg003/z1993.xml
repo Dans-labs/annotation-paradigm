@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1993"/>
+<meta type="date" value="1674-06-04"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1993">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 25 May 1674.</p>
+<p>Monsieur</p>
+</div>
+<p>Ce m'est vn desplaisir sensible de trouuer par la vostre du 15 May, que vous semblez relascher vostre correspondence auec nous à cause des mescontentements que vous croyez estre néz de vostre liberté envers nos Messieurs. Je vous puis assurer, que ceux de vostre connoissance icy ne manquent point de continuer tousiours la mesme affection et estime pour vostre personne et merite, et qu'ils ne font rien autre que de prendre la mesme liberté envers vous, que vous prenez envers eux, qui est, de dire auec franchise leur sentiments de vos ouvrages, et de rectifier quelques fois les beveües, qu'ils y pensent estre commises, touchant la priorité de quelques inventions. <hi rend="i">Veniam damus petimusque vicissim</hi>. Cela se pratiquant de part et d'autre, il faut, ce me semble, entretenir constamment la mesme amitié, et ne commettre rien qui puisse emousser ny desunir les forces des Esprits, qui travaillent heureusement à l'advancement des sciences.</p>
+<p>Monsieur Hook est bien aise, que vos Astronomes sont resolus de s'employer dans vostre Observatoire à continuer les observations commencees touchant le mouvement de la Terre; et il ne pense pas, que parmy les Anti-coperniciens il y aura des personnes, qui se prostitueront à tel degré que de se servir du subterfuge frivole, que vous avez mentionné dans vostre lettre.</p>
+<p>Mylord Brouncker n'a pas receu l'Exemplaire de vostre livre des Pendules, que vous ditez luy auoir envoié par vne personne, que vous auoit indiquée Mademoiselle Frezer. Il faut voir si on le peut recouvrer: Cependant Mylord Brouncker vous en fait ses humbles remerciments; qui au reste ne peut pas deviner quel sujet il vous ait donné de dire, que vous vous assurez qu'il ne pretend pas que son authorité vous fasse receuoir pour vraies les choses qui sont de geometrie. Il aime trop la raison et il l'a trop forte pour pretendre à vne chose qui ne peut tomber que dans vn esprit bien foible, et qui, outre cela, ne s'accorde nullement à vne personne, laquelle a esté par tant d'annees, et est encor aujourdhuy President d'une Societé dont vous scauez estre la Devise, <hi rend="i">Nullius in verba</hi>.</p>
+<p>Monsieur Boyle a fait depuis peu imprimer vn Discours<note n="#1"/> touchant l'Excellence de l'Hypothese Mechanique par dessus celles des Peripateticiens et Chymistes:
+dont il vous envoiera vn Exemplaire par la premiere commodité de quelque amy qui passera en France.</p>
+<p>Je m'estonne que Monsieur Sluse ne vous ait pas respondu sur vos trois lettres<note n="#2"/>. Il se porte tousiours bien, ayant escrit à la Societé Royale, et à moy en particulier, fort nouuellement, ses lettres estant datées le 19 de ce mois de May<note n="#3"/>; dans lesquelles il a voulu reconoitre la bonté dudit corps de l'auoir eslû solemnellement pour en estre membre<note n="#4"/>; ce qu'il a fait de la maniere la plus obligeante du monde.</p>
+<p>Je suis tresmarry, que vous trouuez à redire à la traduction de vos lettres touchant le probleme d'Alhazen. Vous m'obligerez, de me marquer les particularitez, oú on a manqué, à fin que ie le puisse mettre dans les Errata de quelque Journal, que ie feray imprimer<note n="#5"/>, et de vous tesmoigner par là aussi bien que par d'autres voyes, qui me seront possibles, que ie suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy à Paris.
+<lb/>36 β</p>
+</div>
+</body>
+</text>
+</TEI>

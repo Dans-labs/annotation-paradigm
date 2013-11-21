@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0053"/>
+<meta type="date" value="1648-06-03"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0053">
+<div type="opener">
+<p>Myn Heer.</p>
+</div>
+<p>Also mij eergisteren door VE een brief<note n="#1"/> ter handt gekomen is, waer in le Pere <persName key="mers004">Mercenne</persName> mij <seg org="schrijst" resp="#AD" type="corr">schrijft</seg> bij sich te hebben: Le Recueil du Calcul pour l'intelligence de la Geometrie de Monsr. <persName key="desc004">des Cartes</persName>, daer van ick onlangs met Mijn Heer VE Vader hebbe gesproocken, so ist, dat ick hem daer op in desen byghaenden hebbe geandtwoort, ende daermede versocht tselue te moghen sien; met het gheene hij meer soude moghen hebben, dat tot explicatie dient der voorsz. Geometrie. VE biddende hem die met den uwen te willen overstueren.
+Voorders so <seg org="schrijst" resp="#AD" type="corr">schrijft</seg> hij VE gesonden te hebben een seer aerdigh en fraeij Problema, het welcke ick dan versoucke te moghen sien, ende dat VE mij het selue eens ghelieve te senden. Ick hebbe dees daghen tot Haerlem geweest, ende aldaer in een auctie een Archimedes gekocht, voor 7 gulden, 5 stuivers, die heel wel geconditioneert is, ende van den seluen druck is als de mijne, te weeten Griecks en Latijn<note n="#2"/>, so VE deselue begheert kont het mij laeten weeten, sal deselue alsdan VE met den <seg org="cersten" resp="#AD" type="corr">eersten</seg> overstueren. Hier mede eindighende sal naer mijne recommandatio aen VE en VE Vader, en Broeder verblyven.</p>
+<div type="closer">
+<p>VE altsamen Onderdanighen en dienstwilligen dienaer <persName key="scho197">Frans van Schooten</persName></p>
+<p>Vit <placeName key="leide001">Leijden</placeName> den <date>3 Junij 1648</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Monsieur Monsieur <persName key="huyg003">Christianus Huygens</persName>, ten Huijse van Myn Heer <persName key="huyg001">van Zuilichem</persName>, Raedt ende Secretaris van sijn Hoocheyt
+<lb/>In S'gravenhaghe.
+<lb/>port</p>
+</div>
+</body>
+</text>
+</TEI>

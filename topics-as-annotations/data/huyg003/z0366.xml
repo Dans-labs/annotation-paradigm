@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0366"/>
+<meta type="date" value="1657-01-05"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0366">
+<div type="opener">
+<p>A <placeName key="parij001">paris</placeName> ce <date>5<hi rend="sup">e</hi> Jan<hi rend="sup">r</hi>. 1657</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je n'estois pas en cette ville quand Monsieur <persName key="carc010">De Carcaui</persName> receut vostre regle pour la Solution generale de la question de la chance<note n="#1"/>, et lorsque je reuins de vendanges jl estoit allé a La Rocheguyon dont jl n'est de retour que depuis trois jours, je ne l'ay donc pû voir qu'hier matin, Il me pria de vous faire ses baisemains et ses excuses, La quantitè d'affaires qui l'occupent ne luy permettent pas de disposer de son temps comme jl desireroit pour vous faire response, Il me dit que vostre Methode estoit admirable, que Monsieur <persName key="pasc001">Paschal</persName> en auoit jugé comme luy, qu'il ne l'auoit pas encore enuoyée a Monsieur <persName key="ferm011">Defermat</persName> parce qu'il n'estoit pas alors a Thoulouse mais a Castres dont a present jl le croyoit de retour, qu'il ne manqueroit pas de le faire au 1<hi rend="sup">er</hi> ordinaire, Il m'e l'a promise lors que ses hardes de campagne, ou elle est, seront depaquetées, Je ne puis attendre ce temps la pour vous remercier de toutes vos bontez, me faisant part de tant de belles choses, J'ay communiquè vos obseruations a tous nos messieurs et particulierement a Monsieur <persName key="boul014">Bouillaut</persName> que j'ay jnuitè de vostre part d'obseruer la figure qui luy paroist des anses de Saturne. Il est vn peu desorientè depuis la mort de Monsieur <persName>Dupuy</persName><note n="#2"/>, et demeure auec Monsieur le president de Thou<note n="#3"/> qui est destinè Ambassadeur en vos Estats, vous aurez auec
+qui communiquer lorsque Monsieur <persName key="boul014">Bouillaut</persName> sera en vostre pays dans l'employ de secretaire de l'Ambassade. Il ne sera pas tant attaché aux affaires qu'il n'ait la curiosité de reconnoistre auec vos grandes lunettes le satellite et la figure des Anses qu'il ne peut voir auec les siennes.</p>
+<p>Monsieur <persName key="fren024">Frenicle de Becis</persName> que vous connoissez par reputation pour estre extremement sçauant dans les nombres m'a prié de scauoir de vous qu'elle portion du Ciel ou de la Lune vous voyez tout a la fois par vos lunettes de 12. et de 23 pieds, de quelle grosseur vous paroissent deux petites jsles qui sont au bas de la grande tache occidentale de la Lune que l'on nomme la mer Caspienne, ou La palu meotide. par la lunette de 5. pieds du Pere <persName key="mers004">Mersenne</persName>, jl les a veues de la grosseur d'un grain de Cheneuis. Je vous supplie de prendre la peine de lire celle que j'adresse a Monsieur <persName key="scho197">Schooten</persName><note n="#4"/>, Lors que je luy ay fait reponse<note n="#5"/> touchant la Methode de Monsieur Le pailleur, je ne me suis pas souuenu de luy ouurir vn moyen qui suppleera peut estre au deffaut que vous auez remarqué en la conjonction de la parabole et du cercle; si cela ne reussit pas nous n'aurons plus de scrupule et nous condamnerons plus hardiment cette Methode. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur, <persName key="mylo002">Mylon</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">De Zulichom</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

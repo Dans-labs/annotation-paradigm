@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0755"/>
+<meta type="date" value="1660~"/>
+<meta type="sender" value="ferm011"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0754"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0755">
+<p>1. Datâ quadraturâ hyperboles, datur circulus aequalis superficiei curuae paraboles circa applicatam rotatae.</p>
+<p><figure><graphic url="huyg003oeuv03ill25.gif"></graphic></figure></p>
+<p>Sit data parabola AD, cuius axis AE, applicata seu semibasis DE, rectum latus ABC, quaeritur circulus aequalis superficiei curuae solidi quod ex rotatione figurae ADE, circa applicatam DE tanquam immobile circumductae consicitur. Bisecetur latus rectum AC, in B, et axi AE, ponatur in directum recta EF aequalis rectae AB, seu dimidio recti lateris, et jungatur DF, Exponatur separatim recta IQ aequalis axi AE, cuius dupla sit recta IR, fiat ut FE, siue AB, ad DF ita recta QI, ad rectam QH, et à puncto H, ducatur HG, perpendicularis ad HIR, et fiat HG, aequalis rectae DE, per
+<figure><graphic url="huyg003oeuv03ill26.gif"></graphic></figure>
+punctum I, tanquam uerticem describatur Hyperbole cuius transuersum latus sit recta IR, centrum Q et transeat hyperbole per punctum G, et sit IG. Describatur item alia hyperbole separatim cuius transuersum latus MN, sit aequale quartae parti recti paraboles lateris, hoc est quartae parti rectae AC, centrum uero sit V, rectum latus OVP, aequale transuerso lateri, sit autem hyperbole ita descripta MK, cuius uertex M, axis ML,
+<figure><graphic url="huyg003oeuv03ill27.gif"></graphic></figure>
+qui continuetur donec recta ML, sit aequalis axi paraboles AE et ducatur perpendicularis seu applicata LK, à rectangulo sub QH, in HG, deducantur duo spatia hyperbolica IGH, MKL quorum quadraturae supponuntur, et quod supererit aequetur quadrato, Diagonia istius quadrati erit radius circuli superficiei curuae, cuius dimensionem quaerimus, aequalis.</p>
+<p>2. Esto cyclois primaria ANIF, cuius axis AD, semibasis DF, Et ab ea sormentur aliae curuae uel extra ipsam uel
+intra, quarum applicatae sint semper in eadem ratione datâ, ad applicatas primariae cycloidis.</p>
+<p>Exempli gratia in curua exteriori AMHG, durantur applicatae GFD, HIC,
+<figure><graphic url="huyg003oeuv03ill28.gif"></graphic></figure>
+MNB, ratio autem GD, ad DF, sit data et sit semper eadem quae HC, ad CI, et MB, ad BN. In curvâ autem interiori AROE, ratio FD, ad DE, sit data, et sit semper eadem quae IC, ad CO, et NB, ad RB. Dico contingere ut curuae Exteriores qualis est AMHG, sint semper aequales aggregato lineae circularis et lineae rectae. Curuae autem Interiores, qualis est AROE, sint semper aequales parabolis primariis siue archimedeis.</p>
+<p>Theorematis generalis enuntiationem, quando uolueris exhibebo, immo et demonstrationem.</p>
+</div>
+</body>
+</text>
+</TEI>

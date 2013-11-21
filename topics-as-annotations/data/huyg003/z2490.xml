@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2490"/>
+<meta type="date" value="1690-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2489"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2490">
+<p>Problema propositum a D. <persName key="leib013">Leibnitz</persName> in diario Eruditorum (nouvelles de la République des Lettres) mensis Sept. 1687.</p>
+<p>&nbsp;</p>
+<p>Solutionem, quae admodum extat in libro F versus finem<note n="#3"/>, misi ad authorem diarii, qui eam inseruit mense Oct. ejusdem anni 1687. Vide quae hac de re habet
+Leibnitsius in Actis Erud. Lipsiensibus a.<hi rend="sup">i</hi> 89 pag. 195<note n="#4"/> et a<hi rend="sup">i</hi> 90. p. 358<note n="#5"/>. Itemque Bernoulius in iisdem Actis a.<hi rend="sup">i</hi> 1690. p. 218<note n="#6"/>.</p>
+<p>Sit invenienda curva ACE, per quam devolutum grave corpus descendat aequalibus spatiis horizontem versus per temporis partes aequales.</p>
+<p>Hoc fieri nequit incipiendo descensum a summo curvae puncto A, quia sive per rectam inclinatam ad horizontem, sive perpendicularem, semper, per prima tempora minima aequalia, erunt spatia peracta ut 1, 3, 5, 7, etc. Curvae autem minima particula tamquam recta censetur. Oportet itaque celeritatem aliquam mobili jam acquisitam priusquam ab A descendat. Ponatur ergo descendisse per BA.</p>
+<p><figure><graphic url="huyg003oeuv09ill52.gif"></graphic></figure></p>
+<p>Et in perpend. AD intelligantur particulae aequales AT, TV, VX, XF etc., et ducantur ad curvam horizontales TR, VS, XH, FC, etc. Jam accipiendo particulas curvae AR, RS, SH, HC tanquam rectas, per quas mobile descendere pergat post casum per BA, peragi oportet has particulas temporibus aequalibus, quia sic mobile aequalibus intervallis horizontali plano appropinquabit. Peragentur autem tempo ribus aequalibus, si eadem proportione crescant earum longitudines, quâ augentur
+celeritates, ut facile perspicitur. Sunt autem celeritates in punctis curvae singulis sicut ipsis respondentes applicatae in parabola KNM, posito vertice parabolae K eadem altitudine ac punctum B, et axe KO parallelo BD. Ergo et longitudines particularum curvae, AR, RS, SH, HC, eadem proportione crescere debent atque applicatae illae incipiendo ab LM. Sit MP parallela LO. Et referent partes aequales applicatarum, rectangulo MO inclusae, rectas omnes particulas AT, TV, VX, etc. ipsae vero applicatae in parabola integrae inter LM et ON, referent omnes particulas curvae, AR, RS, SH, etc. Eritque semper ut YZ ad ΔZ, quae aequalis ML, ita particula respondens curvae HC ad rectam XF, quia prima particula AR aequalis censetur AT, sicut applicata ML aequalis est lateri ML rectanguli MO. Sit SG perpend. in HX, similiterque a caeteris curvae intersectionibus in proxime subjectas horizontales ductae intelligentur perpendiculares. Jam cum sint inter se YZ ad ZΔ, sicut SH ad VX sive SG, erit et quadr. SG ad differentiam quadratorum SH, SG, hoc est ad quadr. HG, sicut quadr. ΔZ ad differentiam quadratorum YZ, ΔZ; sive ut quadr. ML ad differentiam quadratorum YZ, ML. Sit vertice L axe LO parabola LΠQ similis KMY, hoc est idem latus rectum habens, quae secet applicatam ZY in Π, erit jam quadr. ΠZ aequale differentiae quadratorum YZ, ΔZ sive quadratorum YZ, ML, ut facile ostenditur. Ergo erit jam quadratum ΔZ ad quadr. ΠZ, ut quadr. SG ad quadr. HG. Et proinde etiam ΔZ ad ΠZ longitudine, ut SG sive VX ad HG, atque ita omnes applicatae in parabola LΠQ referent omnes SV, HG, etc., sibi respondentes altitudine. Ideoque erit spatium semiparabolae LΠQO ad rectang. MO sicut omnes SV, HG, etc., hoc est recta ex iis composita ED ad rectam DA.</p>
+<p>Sit BA vel KL = <hi rend="i">a</hi>. Latus rectum parabolarum <hi rend="i">r</hi>. Item AD = <hi rend="i">x</hi>. DE = <hi rend="i">y</hi>. Est ergo OQ = √<hi rend="i">rx</hi>, et spat. semiparabolae LQO = ⅔ rectang. LO, OQ, hoc est = ⅔ <hi rend="i">x</hi>√<hi rend="i">rx</hi>. Rectangulum vero MO = <hi rend="i">x</hi>√<hi rend="i">ar</hi>. Ergo ⅔ <hi rend="i">x</hi>√<hi rend="i">rx</hi> ad <hi rend="i">x</hi>√<hi rend="i">ar</hi> ut <hi rend="i">y</hi> ad <hi rend="i">x</hi>; unde 9/4 <hi rend="i">ay</hi><hi rend="sup">2</hi> = <hi rend="i">x</hi><hi rend="sup">3</hi>. Unde liquet curvam ACE esse paraboloidem, in qua quadrata applicatarum ad axem AD sunt ut cubi abscissarum inter applicatas et verticem A, cujus latus rectum = 9/4 BA.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1848"/>
+<meta type="date" value="1671-10-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1848">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 23 Octobre 1671.</p>
+</div>
+<p>Je vois que vous avez de la peine a justifier le Sieur Jabach mesme apres ce que je vous ay envoiè. Cependant il est bien croiable qu'il ait beaucoup d'envieux et d'ennemis qui auroient estè capables de luy faire un tel affront. Pour moy je m'en rapporte a ce qui en est. Quant a la vente<note n="#1"/> de ses desseins ce n'a pas esté par necessitè mais pour y gaigner comme je ne doute pas qu'il n'ait fait. Ce thresor ne se garde pas ceans, mais est entre les mains de Monsieur le Brun<note n="#2"/>. J'en ay veu cy devant tout ce qu'il y avoit de meilleur<note n="#3"/>, mais vous voudriez je crois que j'y retournasse une fois tous les mois, et mon manque de curiosité vous porte a des invectives non meritees contre mon pauvre maistre Organiste<note n="#4"/> et les fausses Relations.</p>
+<p>J'ay veu icy un Monsieur van Zuylen<note n="#5"/> qui vient d'Italie et s'en retourne bientost en Hollande. Il a fait a Rome quelqu'amas de medailles, desseins et Basreliefs pendant 3 ou 4 ans, qu'il y a fait sejour. Il vous montrera tout cela s'il arrive a bon port. Il croit s'entendre en toutes ces choses. En me montrant ses medailles il nomma tousjours Trajanus Troian quoijque je l'appellasse par son propre nom plus de six fois. Et de Q. Herennius il en faisoit Quinterene.</p>
+<p>Je voudrois avoir veu de ces lunettes de l'ouvrier<note n="#6"/> de Londres qui fait des verres, <hi rend="i">not spheric</hi>, pour en pouvoir juger. Je suis persuadé qu'asseurement il est impossible d'en faire d'autre figure, qui soient reguliers, et puissent faire un bon effect.</p>
+<p>Je ne scay ou j'ay mis vos desseins a la plume mais je les chercheray et vous les rendray, pourveu que vous teniez vostre promesse de m'envoier quelque chose de meilleur en recompense.</p>
+<p>Aussi tost que la nouuelle monnoye paroistra je voudrois qu'on m'en envoiast quelques eschantillons. Il Signor Padre me pourra rembourser par la de mes 3 escus que j'ay payé de sa lunette. l'invention de Libert sera belle si elle reussit.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zelem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

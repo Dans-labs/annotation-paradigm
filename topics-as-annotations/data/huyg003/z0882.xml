@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0882"/>
+<meta type="date" value="1661-08-01"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0882">
+<div type="opener">
+<p>Nobilissimo atque Doctissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="heve011">Johannes Hevelius</persName> S.P.D.</p>
+</div>
+<p>Cum nuper ab Eximio nostro <persName key="boul014">Bullialdo</persName> perceperim, Te feliciter Gallico et Anglico isto itinere, de quo magnoperè Tibi gratulor, defunctum esse, commercium istud literarium hucusque à nobis intermissum, iterum alacriter aggredior. Initiò gratias et habere et debere Tibi profiteor, quod mihi quantocyus tam Fabrij<note n="#1"/>, quàm Tuum de ♄<hi rend="sup">o</hi> libellum<note n="#2"/> transmiseris; utrumque cupidissimè perlegi; in priore pleraque aculeata, et quam plurima Viro docto, si liberè eloqui liceat, indigna invenio; in posteriore autem, debitè et sufficienter omnia esse pertractata, video: dubito, quin denuò quaedam reponat, inprimis si famae consulere velit,
+tacere praestabit. De caetero, Praeclarissimum Dominum <persName key="boul014">Bullialdum</persName> communem amicum nobis ante aliquot menses adfuisse; tum quid eo tempore à nobis actum, observatumque fuerit, sine omni dubio ab ipso <persName key="boul014">Bullialdo</persName><note n="#3"/> jam intellexisti: quarene longius sim, ijs supersedeo. Paulò post eius discessum autem, Mercurium sub Sole feliciter ac debitè observavi, tum quicquid notatu dignum in isto congressu occurrebat, diligenter admodum annotavi. Gaudeo Te pariter Stilbontem<note n="#4"/> in disco ☉ Londini vidisse; sed maiori equidem cum apparatu observationem istam, arduam insignemque meritò aggredi debuissetis, quò inprimis genuina magnitudo eius Diametri (quam rectè scire profectò Astronomiae multum interest) innotesceret. Num verò illam assequuti estis, nondum ex istis, quae à Domino <persName key="boul014">Bullialdo</persName> accepi, intelligere potui. Quocirca Te rogatum velim quàm humanissimè, ut si quae adhuc habeas specialia, Rei literariae bono, communices; nostra, brevi etiam non denegabo. An punctum istud C, Sive D, in schemate ☿ ad Bullialdum transmisso<note n="#5"/>, praecisè omnino in disco ☉ is, tempusque ex altitudine eius, sive ex sciaterico diligenter annotatum fuerit, valdè haereo? Videtur enim vos non adeò accuratè tempora indicasse; aliàs sanè vix cum nostris conciliari poterunt. Si quid insuper ab Oxfordiensibus et Cambriensibus, sive ab alijs alibi locorum de hoc ☿, nec non de nupero Cometâ observatum fuerit, quaeso significes, multis nominibus me Tibi obstringes. Quid praeterea in Gallia et Angliâ
+à Literatis agatur scire percupidus sum. Quodsi de his omnibus coram sermones Tecum commutare mihi obtingeret, nil unquam accideret optatius, praesertim praesenti Domino <persName key="boul014">Bullialdo</persName> (quem iterum propediem exspectamus) ò quantum voluptatis ex istis iucundissimis confabulationibus in nos redundaret. Rogo itaque si occupationes Tuae id ferant, nos aliquando invisas, gratissimus sanè exoptatissimusque nobis eris hospes. Vale optime.</p>
+<div type="closer">
+<p>Dabam <placeName key="gdans001">Dantisci</placeName> <date>Anno. 1661, die 1 Augusti stylo novo</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo ac Doctissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> amico honorando. Hagam Comitis.</p>
+</div>
+</body>
+</text>
+</TEI>

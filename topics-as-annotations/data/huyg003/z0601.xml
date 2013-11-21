@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0601"/>
+<meta type="date" value="1659-03-21"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0601">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>21 Mars 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay receu celle que vous m'auez faict l'honneur de m'escrire le 13<hi rend="sup">e</hi> du courrant, par laquelle vous me donnez aduis que vous auez donné l'horologe a vne personne qui doibt me la rendre, &amp; que l'addresse en a esté faicte a Monsieur de Brienne afin qu'on ne les visite point a la douane. Je portay hier vostre lettre<note n="#1"/> a Monsieur Petit, qui m'est venu voir ce matin, &amp; qui m'a parlé de ce que vous luy escriuez de son horologe, &amp; aussi de quelques choses qui concernent les verres de Lunettes. Je suis en grande inquietude de ce que Monsieur l'Abbé Brunetti ne comparoist point, je ne scay ce qui pourra luy estre arriué.</p>
+<p>Je vous suis tresestroittement obligé de la peine &amp; du soin que vous auez prise pour moy, je voudrois estre capable de vous en tesmoigner la gratitude par quelque seruice; mais dans le peu de pouuoir que jay, je ne manqueray pas d'en conseruer toute ma vie la gratitude que je doibs.</p>
+<p>Je suis fasché que le Sieur Flournoi<note n="#2"/> ne retourne pas si tost en Hollande afin qu'au plustost vous peussiez receuoir les liures<note n="#3"/> que vous enuoye Monsieur Paschal.
+Je veilleray pour trouuer quelque occasion plus prompte. Je vous supplie que bien tost nous puissions voir vostre systeme de ♄. j'ay laissé eschapper vne occasion de le voir aupres d'vne estoile de la constellation de la ♏, enuiron le 13 du courrant. ♃ ne pourra atteindre la nebuleuse de ♋. sa retrogradation allant finir, le spectacle eust esté assez beau de le voir tout proche de cette conglobation d'estoiles.</p>
+<p>Messieurs de l'Academie ont surcis la decision de l'affaire de Monsieur Boileau jusques a 15 jours pour tascher de reunir les esprits. Cette affaire a causé tant de bruit que Monsieur le Cardinal, Monsieur le Chancellier &amp; plusieurs autres personnes de la Court s'en sont meslees. Mademoiselle de Scuderi y prositte d'vne pension de 500. escus que Son Eminence luy a donnee. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0505"/>
+<meta type="date" value="1658-08-01"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hoorn001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0505">
+<div type="opener">
+<p><persName key="huyg003">Christiano Hugenio</persName> meo.</p>
+</div>
+<p>Nobilissime atque incomparabilis Domine,</p>
+<lg type="poem">
+<l>Quem jure optimo, maximo, uno omnes ore saeculi nostri</l>
+<l>Archimedem, cui vel ipse Marcellus assurgat, salutamus;</l>
+</lg>
+<p>Cum post operarum, more suo diem ex die ducentium procrastinationem bene longam praelo tandem subjectus sit meus, non inventus, repertus Iobus<note n="#1"/> et ex tenebris ac fimeto erutus, ringente licet Diabolo, Lucem, Deo volente brevi sit visurus, et vivus, (an redivivus?) per ora virûm, si quid auguror, volitaturus, cum amicitiae ac amori pristino, mihi nunquam non perspecto probatoque litaveris, tum famae atque existimationi Brunonianae plurimum consules, si Perillustri Parenti tuo, Apollini omnium publici, quantum est, pöetarum, meo autem privatim etiam Maecenati, aurem de Epigrammate promisso operique praefigendo vellere digneris, Proverbia regum, imò hominum sapientissimi, et Ecclesiasten<note n="#2"/>, non viles profectó mantissas, si authorem ac materiam potius quàm me carmine vernaculo reddentem spectes, addam patientissimo mortalium. Cantici insuper ac Threnorium<note n="#3"/> iterabitur editio<note n="#4"/>, atque ita uno omnia isthaec volumine, in octavo, forma portabili conjungentur. Si quid itaque vel in opus universum, vel in singulas ejus partes seorsim, meditari placuerit, tam perpetuum gratiae debendae reum, quàm referendae imparem semper me perillustris Parens sit habiturus. Is autem, ut aurem iterum vellat Cyriaco Lentulo, quem Metellum Celerem experiri malim, Illustri amplissimoque Buseroïo<note n="#5"/>, quò tandem aliquando ad me transvolet tanto petitus ambitu, tanto datus aureus in numismate Auriacus, per genium Hugenianum, per Brunonianum, per communia Musarum sacra rogo quaesoque. gratias coram, Deo volente, prolixissimas acturus, et quid quantumque in ingentis Pöetae ingenti carminum volumine perlustrando erratisque tijpographicis colligendis praestiterim, ostensurus, ubi adulto mense septembri per ferias autumnales advolavero. Ita vale.</p>
+<div type="closer">
+<p>Tuus ex asse <persName key="brun004">Henricus Bruno</persName>.</p>
+<p><placeName key="hoorn001">Hornae</placeName> <date>ipsis Calendis sextil. CIƆIƆCLVIII</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

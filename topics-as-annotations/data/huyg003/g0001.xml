@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0001g"/>
+<meta type="date" value="1640-05-19"/>
+<meta type="sender" value="wilh013"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="g0001">
+<div type="opener">
+<p>Monsieur mon frere,</p>
+</div>
+<p>Tout se porte bien chez vous hors mis vostre fils <persName key="huyg003">Chrestien</persName> qui languit encor un peù. Jespere que Dieu luy fera la grace de se remettre bien tost. demain a 4 heures
+apres midi Messieurs Romph<note n="#2"/> et Valc<note n="#3"/> consulteront ensemble et adviseront pour le bien et avantage de sa sante. Si je ne suis empesche je m'y trouveraij. quoi que je scache que je ne seraij gueres bien venu parmi eux. Je demandaij dernierement a docteur Valc doù procedoit son mal il me respondit ex infirmitate aut debilitate hepatis; unde illa debilitas quaerebam, ex indispositione regessit. et sic recurrunt in gyrum &amp; circulantur. et ils se faschent si on les creuse si auant. Quon les face faire de l'exercice ils se porteront bien tous, et ne sera besoin de se servir de ces gens malheureux. Excusez ma liberte &amp; ceste haste &amp; permettez moi que je me dis</p>
+<div type="closer">
+<p>Monsieur mon frere
+<lb/>Vostre tresobeissant seruiteur &amp; frere
+<lb/><persName key="wilh013">D. de Wilhem</persName>.
+<lb/><date>19 May 1640</date>, <placeName key="denha004">Haye</placeName>.</p>
+</div>
+<p>Ma femme<note n="#4"/> se porte fort bien et se recommande a vos bonnes graces.</p>
+</div>
+</body>
+</text>
+</TEI>

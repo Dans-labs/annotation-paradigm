@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2888"/>
+<meta type="date" value="1695-01-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2888">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 7 Jan. 1695.</p>
+</div>
+<p>Madame de Zuylichem me dit il y a quelques jours que dans vostre derniere lettre vous vous estiez enquis où j'en estois avec mon Traitè des Planetes<note n="#2"/>, que l'on souhaitoit de voir en Angleterre. J'ay donc a vous dire qu'aujourdhuy j'ay parlè a Moetjes le libraire touchant l'impression, et que nous sommes demeurez d'accord. C'est d'icy en 15 jours qu'on commencera d'y travailler, et il pourra estre achevè d'icy en 2 mois, dans quel temps vous serez peut estre icy de retour.</p>
+<p>Williet me dit souvent qu'on demande les ouvrages postumes de mon Pere. Si vous le trouvez a propos, nous pourrions les revoir le frere de S.<hi rend="sup">t</hi> Annelandt<note n="#3"/> et moy, et les commettre aux soins du ministre et Poete Vollenhove<note n="#4"/>, qu est des plus assidus sollicitants, et s'offre de corriger les epreuves. N'avez vous point eu occasion de voir le Dr. Burnet autheur de l'Archaeologia<note n="#5"/>? Il semble par la preface de ce livre, qu'il avoit dessein de faire quelque Traitè du mesme sujet que le mien, mais qu'a cause de son age avancè il en avoit desistè. Je voudrois bien scavoir s'il n'a pas veu les ouvrages du Cardinal de Cuse<note n="#6"/>, dont il ne parle point, et qui pourtant a avancè des premiers, des sentiments comme luy touchant la Genese. Il doit estre bien scavant, et escrit mieux en Latin que ne font les Anglois d'ordinaire.</p>
+<p>Souvenez vous je vous prie du livre des voiages que vous avez marquè dans vos tablettes. Toutefois voiez s'il vaut la peine d'estre lu, car si c'est le mesme dont Mr. <persName>de Berkestein</persName><note n="#7"/> m'a parlé, ce n'est qu'une rapsodie, et des traductions pour
+la plus part, de quelques voiages de nos Hollandois. Il me semble que l'auteur ou le compilateur de ce livre s'appelle Narborrough<note n="#8"/>. Berckestein m'a aussi sçu dire, que vous aviez achetè de nouveau quelques desseins a la derniere vente des choses de Lely<note n="#9"/>, lesquels je verray avec plaisir. Le vent aiant changè, on espere d'avoir des lettres d'Angleterre demain ou le jour d'apres. On est curienx de scavoir a quoy aboutira l'affaire du Parlement Triennal. Vous aurez estè sans doute surpris et bien fachè de la perte qu'a fait Mad. de Zevenaar de sa fille unique. Je vous souhaite de la santè et une heureuse année.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg007">van Zuylichem</persName>
+<lb/>Secretaris van Sijne Koninclijcke Maj.<hi rend="sup">t</hi> van Engelandt Tot Londen.</p>
+</div>
+</body>
+</text>
+</TEI>

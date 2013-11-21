@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2745"/>
+<meta type="date" value="1692-03-17"/>
+<meta resp="HI" type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2745">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je Vous rens mille graces des peines que Vous Vous étes données pour retrouver mon Traitté de la Pesanteur. Je n'espere plus de le revoir jamais ni même d'en composer un nouveau<note n="#2"/> à cause d'un degout et d'une repugnance invincibles que je me sens à rechercher une seconde fois les memes choses que j'avois déja eües. Monsieur <persName key="newt011">Newton</persName> se relache déja sur l'impression de son Traitté des lignes Courbes<note n="#3"/>. Sa premiere chaleur est passéc, et je croi qu'il s'accoutume peu à peu à juger qu'il n'est pas fort necessaire qu'il s'engage dans les embarras que l'impression d'un Traitté comme celui là traine necessairement aprez elle. Nous y perdrions beaucoup assurement si ce Traitté ne paroissoit point. Je ne sçai si je Vous ai dit Monsieur que Monsieur <persName key="newt011">Newton</persName> y donne une Methode bien étendue de trouver la Courbe la plus simple dont depend la Quadrature d'une Courbe proposée<note n="#4"/>. Il est certain que jusques à present il n'a encore rien paru de si beau dans la Geometrie abstraite que cet ecrit qui n'est que de quelques feuilles et qui ne seroit point trop long pour entrer dans une transaction. Si je ne l'avois pas parcouru j'aurois peut étre poursuivi les idées que j'avois en Hollande<note n="#5"/> et dont
+nous nous sommes quelquefois entretenus ensemble. Car je ne desesperois pas de pouvoir trouver tout ce qui me manquoit de la Methode de Monsieur <persName key="leib013">Leibnitz</persName> et même quelque chose de plus. Ce qui n'etoit pas sans fondement vû les differentes entrées que j'avois deja à des solutions et à des Methodes qui reussissoient fort bien, et à qui il ne manquoit pas beaucoup ce me sembloit pour les rendre assez generales. Mais j'ai été glacé en voiant ce qu'a fait Monsieur <persName key="newt011">Newton</persName>, et je lui ai reproché qu'il rendoit inutile mon travail et qu'il ne vouloit rien laisser à faire à ses Amis qui sont venus aprez lui. Je croi que dans la suite il ne faudra pas que j'entreprenne d'étude un peu difficile et de longue haleine sans etre assuré de sa part que l'envie ne lui prendra pas de traitter le même sujet. Monsieur <persName>Hambden</persName> Monsieur Vous fait ses trez humbles complimens. Monsieur <persName key="lock001">Lock</persName> n'est pas en Ville. Il est obligé de passer tout l'hiver à la Campagne à cause de sa poitrine, qui se trouve fort incommodée des fumées de Londres. Monsieur <persName>le Conte de Monros</persName><note n="#6"/> a été traitté d'une maniere si differente de ce qu'il auroit merité qu'il est bien malaisé de s'empecher de croire que des Emissaires ou des Amis de la France n'aient causé tout son malheur. Je suis avec beaucoup de respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur
+<lb/><persName key="duil010">N. Fatio de Duillier</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> ce 7/17 Mars 1692.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

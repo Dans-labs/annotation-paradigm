@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0851"/>
+<meta type="date" value="1661-03-22"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0851">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce <date>22. March 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Si Je neusse pas rencontré ce jeune homme<note n="#4"/> vous n'auriez pas eu si tost le pacquet dont Je l'ay chargé, quoy qu'il y ait un mois qu'il est prest. parceque ne sçachant point si vous estes encor à paris Je n'ay pas voulu l'enuoyer par l'ordinaire, de peur qu'il ne fust perdu. Je n'ay rien a present à y adiouster si ce n'est que vous verrez par le liure<note n="#5"/> que le porteur vous presentera que J'ay eu raison de vous persecuter comme J'y ay fait, de ce que vous tardez tant de donner au iour les traittez dont Je vous ay si souuent parlé. au reste, le jeune homme ne souhaitte plus au monde que d'auoir vostre approbation de son liure. peut estre y trouuerez quelque chose a redire: toutesfois pour une personne qui a esté nourri dans un lieu, ou il n'a pu auoir ny maistre qui l'enseignast, ny des liures comme on a ailleurs, ce n'est pas peu de d'auoir appris ce qu'il sçait des matieres dont il se mesle. Escriuez moy souuent. Soyez ciuil au porteur et aimez tousiours</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> chez Monsieur <persName>Bailly</persName> au petit Moyse.
+<lb/>Rue de petit Bourbon aux Fauxbourg St. Germain. A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

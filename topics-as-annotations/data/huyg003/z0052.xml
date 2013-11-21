@@ -1,0 +1,55 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0052"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="mers004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0050"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0052">
+<p>Le quarré <formula>A</formula>, <formula>B</formula>, <formula>C</formula>, <formula>D</formula>,<note n="#1"/> est suposé l'vne des faces du Cube simple, et <formula>E</formula>, <formula>B</formula>, <formula>F</formula>, <formula>G</formula>, le quarré double, du quarré <formula>ABCD</formula>, sur <formula>EB</formula> soit faict le triangle jsocelle <formula>EBH</formula>, de la hauteur du quart<note n="#2"/> double <formula>EBFG</formula>, le costé <formula>BH</formula>, comme celuy <formula>EH</formula>, son esgal, sera le costé du Cube quadruple <formula>B</formula>, <formula>I</formula>, <formula>K</formula>, <formula>L</formula>, et sy l'on cherche le milieu proportionnel d'entre <formula>AB</formula>, Costé du Cube simple, et <formula>BI</formula>, costé du quadruple, l'on trouuera <formula>BH</formula><note n="#3"/>, pour le Costé du Cube double <formula>BN</formula>, <formula>OP</formula>, pour preuue dequoy, le milieu proportionnel d'entre <formula>PB</formula>, Costé du Cube doublé, et <formula>BQ</formula> costé de l'octuple <formula>BQST</formula>, donnera <formula>BL</formula>, mesme costé du quadruple, ainsy voila les Costés des 4 Cubes continuelz en proportion double, ou l'on verra 2 lignes proportionnelles entre 2 lignes en proportion double, Comme jl est demande. Car entre <formula>AB</formula> et <formula>BQ</formula>, qui sont en proportion double, <formula>BN</formula> et <formula>BL</formula>, sont proportionnelles.</p>
+<p>&nbsp;</p>
+<p>Il est facile de faire voir par nombres que ces quatres lignes en la figure proposée ne sont pas proportionnelles comme on le pretend. scauoir est <formula>AB/BN, ∙∥∙ BL/BQ</formula><note n="#4"/></p>
+<p>Car soit posec la ligne <formula>AB........2</formula></p>
+<p>Et la ligne <formula>BQ................4</formula></p>
+<p>Le quarré de <formula>AB</formula> sera 4</p>
+<p>Son double quarré sera le quarré de <formula>EB....8</formula></p>
+<p>Dont le Costé scauoir est <formula>EB</formula> sera....√♃ 8<note n="#5"/></p>
+<p>Donc <formula>BH</formula> vel <formula>BL</formula>, qui est le Costé du Cube quadruple suiuant l'opinion de celuy qui fait ceste proposition sera..............√♃ 10</p>
+<p><figure><graphic url="huyg003oeuv01ill64.gif"></graphic></figure></p>
+<p>Et selon le mesme la moyenne proportionnel entre <formula>AB</formula> et <formula>BL</formula> qui est le costé du Cube double sera <formula>BN</formula> et..............√♃♃♃ 40<note n="#6"/></p>
+<p>Et selon le mesme la moyenne proportionnelle entre <formula>BN</formula> et <formula>BQ</formula> qui deuroit estre esgal a <formula>BL</formula> a son aduis sera.............√♃♃♃ 10240</p>
+<p>Donc</p>
+<p>Costés des Cubes......2:√♃♃40:√♃10:4</p>
+<p>Cubes en raison double....8:16:32:64</p>
+<p>Cequi est faux. Car sy cela estoit il s'ensuiuroit que le rectangle des extremes de ses quatre proportionnelles seroit esgal au rectangle des moyennes.</p>
+<p>Donc....8 ∙∥∙ √♃♃ 4000</p>
+<p>oubien √♃♃ 4096 ∙∥∙ √♃♃ 4000</p>
+<p>Il s'ensuiuroit encores que ces costes ou racines seroient esgalles</p>
+<p>scauoir est √ oe 16 ∙∥∙ √♃♃ 40</p>
+<p>oubien √♃♃ oe 65536 ∙∥∙ √♃♃ oe 64000</p>
+<p>comme aussy √ oe 32 ∙∥∙ √♃ 10</p>
+<p>oubien √ oe 1024 ∙∥∙ √ oe 1000<note n="#7"/></p>
+<p>Depuis il s'ensuiuroit que ces deux racines seroient esgalles</p>
+<p>scauoir est √♃ 10 ∙∥∙ √♃♃♃ 10240</p>
+<p>oubien √♃♃♃ 1000<note n="#8"/> ∙∥∙ √♃♃♃ 10240</p>
+<p>Cequi paroist tres faux.</p>
+<p>Enfin sy par le moyen de ses quatre costés ou racines qui sont ces quatre lignes proportionnelles vous faictes des Cubes vous aurez</p>
+<p>Costes des Cubes...2:√♃♃ 40:√♃ 10:4</p>
+<p>Cubes......8:√♃♃ 64000:√♃ 1000:64</p>
+<p>Dou il s'ensuiuroient que</p>
+<p>16 ∙∥∙ √♃♃ 64000</p>
+<p>oubien √♃♃ 65536 ∙∥∙ √♃♃ 64000</p>
+<p>comme aussy 32 ∙∥∙ √♃ 1000</p>
+<p>oubien √♃ 1024 ∙∥∙ √♃ 1000</p>
+<p>Ce qui paroist tres euidamment faux.</p>
+</div>
+</body>
+</text>
+</TEI>

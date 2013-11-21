@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2623"/>
+<meta type="date" value="1690-10-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2623">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 9 Octobre 1690.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous ay escrit une assez longue lettre du 24 Aoust, pour response a la vostre du 15/25 Juillet. Je n'ay point appris jusqu'icy si vous l'avez reçue. Monsieur <persName>Spener</persName> est venu depuis querir vostre lettre, que j'avois pour luij, et je l'ay vu fort souvent pendant le sejour qu'il a fait a la Haye, et certes avec bien de la satisfaction, trouvant qu'il scavoit beaucoup de choses singulieres et principalement en ce qui regarde la matiere ou il s'est le plus appliquè qui est celle des metaux et mineraux<note n="#3"/>.</p>
+<p>Selon le compte qu'il faisoit, il doit vous avoir vu depuis son retour en Allemagne et estre passé en suite chez luy à Leipsich. J'ay taschè depuis ma dite lettre d'entendre vostre <hi rend="i">calculus differentialis</hi>, et j'aytant fait que j'entens maintenant, mais seulement depuis 2 jours, les exemples que vous en avez donnez, l'un dans la Cycloide, qui est dans vostre lettre, l'autre dans la recherche du Theoreme de Mr. <persName key="ferm011">Fermat</persName>, qui est dans le Journal de Leipsich de 1684<note n="#4"/>. Et j'ay mesme reconnu les fondements de ce calcul et de toute vostre methode, que j'estime estre tres bonne et tres utile. Cependant je crois encore d'avoir quelque chose d'equivalent, comme je vous ay escrit dernierement, et la raison qui me le persuade, c'est non seulement la solution que je trouvay de vostre Problème de la Ligne courbe pour la descente egale<note n="#5"/>, mais aussi l'examen, que j'ay fait de la Tangente d'une autre Courbe fort composée, dont vous m'envoiastes la construction<note n="#6"/> il y a desja plusieurs années. Car par ma methode je trouve cette mesme construction et toutes les autres dans les lignes qui se forment de mesme, sans que les quantitez irrationelles m'embarassent, et a tout cela je ne me sers d'aucun calcul extraordinaire ni de nouveaux signes. Mais pour juger mieux de l'excellence de vostre Algorithme, j'attens avec impatience de voir les choses que vous aurez trouvées touchant la ligne de la corde ou chaine pendante, que Mr. <persName key="bern071">Bernouilly</persName> vous a proposee a trouver<note n="#7"/>, dont je luy sçay bon gré, parce que cette ligne renferme des proprietez singulieres et remarquables. Je l'avois considerée autrefois dans ma jeunesse, n'ayant que 15 ans, et j'avois demontré au Pere <persName key="mers004">Mersenne</persName> que ce n'estoit pas une Parabole, et quelle maniere de pression il faloit pour faire la parabole<note n="#8"/>. Cela a fait que j'ay estè tentè maintenant d'examiner le Probleme de Mr. <persName key="bern071">Bernouilly</persName>, et voicy le chifre de ce que j'y ay trouvé<note n="#9"/>. Je l'ay escrit en sorte que vous pourrez a peu pres l'interpreter
+si vous avez fait les mesmes decouvertes, et je crois vous faire plus de plaisir d'en user ainsi, que si je vous envoiois les choses expliquées. Je vous prie de m'envoier pareillement vostre chifre, et que nous puissions en suite abbreger entre nous le terme d'un an, que vous avez accordè aux geometres<note n="#10"/>, a fin que j'aye la satisfaction de voir ce que vostre analyse aura produit de
+singulier.</p>
+<p><figure><graphic url="huyg003oeuv09ill89.gif"></graphic></figure><note n="#11"/></p>
+<p>Vous aurez vu, a ce que je crois, depuis vostre derniere, mon Traitè de la Lumiere, et celuy de la Pesanteur, soit que l'exemplaire, qu'ensemble avec ma lettre j'avois recommandè à Mr. <persName>van der Heck</persName>, se soit trouvè, ou qu'on vous en ait fait avoir d'ailleurs. Vous me ferez plaisir de m'en dire vostre sentiment, apres que vous l'aurez examinè à loisir.
+Je vois qu'on n'en dit rien dans les Acta de Leipsich<note n="#12"/>
+de quoy Mr. D.T. pourroit bien estre cause, qui depuis mon livre imprimè, a fait inserer dans ce Journal quelque chose touchant la ligne de reflexion du miroir concave, qui se trouve de mesme chez moy<note n="#13"/>, et que j'avois proposè dans l'Academie a Paris il y a plus de 12 ans. Il me souvient qu'en ce temps là je montray a Mr. D.T. quelques figures de ces lignes de reflexion et refraction, et je crois, que de là vient la ressemblance de nos inventions<note n="#14"/>, mais que cela soit dit entre nous s'il vous plait. Il est peut estre desia faschè contre moy, quoy que j'aye plus grande raison de l'estre contre luy, pour n'en avoir pas usè civilement a mon endroit, lorsque je luy eus envoiè quelques remarques sur sa Medicina mentis et corporis<note n="#15"/>. Cela n'empesche pas que je n'estime son esprit et son scavoir, et s'il peut montrer qu'il a veritablement trouvè ce qu'il a avancè touchant l'invention des quadratures, ou de leur impossibilitè<note n="#16"/>, je diray qu'il a fait une des belles decouvertes qu'on puisse faire dans la geometrie. Honorez moy d'un mot de response et croiez que je suis entierement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

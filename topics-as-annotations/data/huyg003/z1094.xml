@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1094"/>
+<meta type="date" value="1663-01-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="stock001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1094">
+<div type="opener">
+<p>Viro Illustri <persName key="hein009">Nicolao Heinsio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Hae quas cernis a Slusio ad te datas<note n="#1"/>, admonuere me officij; qui binis tuis jam ab aliquo tempore acceptis literis nimium diu respondere distuli, gratiasque agere de novis quae misisti phaenomenis. Primum horum pugnac navalis simulacrum erat, ad Orizondicum fretum in nubibus visum, mirandâ hercle specie, si modo ex fide tradita. Alterum illo etiam mirabilius, sed quod non jam ad metcora sed ad spectra referendum, praelium umbratile scilicet haud longe Upsalia commissum. Haec vero neque credibilia mihi videntur, fateor, etiamsi jurati testes adsirment,
+neque omnino ad argumentum faciunt quod suscepi pertractandum, cum nihil nisi pareliorum causas circulorumque persequar qui cum illis apparere solent. Itaque de genere horum si quid sorte illic ad te deferetur, beabis me si participem feceris ut jam fecisti aliquoties; de alijs vero non est quod mea causa inquiras. quod certe jam pridem admonuisse debueram, sed scire te credidi. Apollonium jam diu est quod et ego ab Elzevirio accepi<note n="#2"/> donum Serenissimi Principis Leopoldi scilicet, cui et per epistolam gratias egi<note n="#3"/>. Jam vero a longo tempore nihil illinc literarum remissum est, credo quod gravioribus curis cura studiorum sit interpellata.</p>
+<p>De Hevelij nuptijs<note n="#4"/> quod scribis ex alijs quoque intellexeram, qui si Uraniae suae amoribus in posterum contentus vixisset, fortasse non sibi minus recte quam studijs suis consuluisset. Briennij Comitis versus et prosam legi quibus pinacothecae suae tabellas elegantissime descripsit. Quid vero carminis ad te dederit<note n="#5"/> quidve tu ad illum, nolo nunc sciscitari, quia brevi omnia Parisijs videbo. Illuc enim pater meus me vocat, fratre Ludovico ad negotia quaedam domum dimisso. Si qua in re, dum in ea urbe ago, opera mea uti volueris, scito id mihi fore gratissimum, et Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="denha004">Hagae Comitis</placeName> 22 Januarii 1663.</p>
+</div>
+</div>
+<div type="para">
+<p>Myn Heer
+<lb/>Myn Heer <persName key="hein009">Nicolaus Heinsius</persName>
+<lb/>Resident van wegen haer Hoog Mogenden
+<lb/>Tot Stocholm.</p>
+</div>
+</body>
+</text>
+</TEI>

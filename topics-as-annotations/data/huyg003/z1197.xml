@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1197"/>
+<meta type="date" value="1663"/>
+<meta type="sender" value="bruc026"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1197">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je vous prie de m'envoyer le livre<note n="#1"/> de Snellius<note n="#2"/> ou les mesures de divers payis sont marquées, et si vous avez quelque autre qui fait la mesme chose. et je vous les renvoyera en deux ou trois jours. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble seruiteur
+<lb/><persName key="bruc026">A. Bruce</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

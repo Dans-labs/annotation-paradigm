@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1477"/>
+<meta type="date" value="1665-10-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="peti033"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1477">
+<div type="opener">
+<p>8 Octobre.</p>
+<p><persName key="peti033">Petit</persName>.</p>
+</div>
+<p>Observation de l'ombre du satellite<note n="#1"/>. Ecrit doctement et de la façon quil faut pro captu lectorum qu'il s'estoit destinè<note n="#2"/>. Diray mes pensees sur son livre<note n="#3"/> quand je le<note n="#4"/> verray. sa maniere de calculer la parallaxe ne vaut rien. Periode de 46 ans<note n="#5"/>. il faudroit que les routes fussent parallelles.
+Ne scavois pas qu'il n'estoit que demi <persName>Coperniciste</persName>. Nous verrons ce que dira Hevelius. Il est bon que ces observations du mouuement courbe de la comete soient transmises a la posteritè. C'est ce qu'il y a de plus remarquable, a cause de l'argument qu'on en peut tirer pour <persName>Copernic</persName>. que je m'estonne que vous n'avez pas veu si vous auez leu le livre de <persName key="kepl901">Cepler</persName> des Cometes. l'Opinion de des Cartes en cecy ne m'a jamais pleu. mon pere revenu.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2811"/>
+<meta type="date" value="1693-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2810"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2811">
+<p>Ad colligendas summas.</p>
+<p>&nbsp;</p>
+<p><formula>2m dm = dy / y<hi rend="sup">3</hi></formula> sive <formula>dy . y<hi rend="sup">-3</hi></formula>.<note n="#2"/></p>
+<p>Summae sunt <formula>mm = ½y<hi rend="sup">-2</hi></formula> sive <formula>1/2yy</formula>.</p>
+<p>&nbsp;</p>
+<p>Regula universalis est ut pro <hi rend="i">dm</hi> vel <hi rend="i">dy</hi> vel qualibet alia differentia, ponatur ipsa <hi rend="i">m</hi> vel ipsa <hi rend="i">y</hi>, ac porro divisio fiat per exponentem incognitae qualisque tunc erit.</p>
+<p><figure><graphic url="huyg003oeuv10ill139.gif"></graphic>
+<figDesc>Fig. 1.</figDesc></figure></p>
+<p>Singulae AB, AC, AD etc. sunt <hi rend="i">m</hi>, et AH maxima ipsarum. Singulae particulae aequales AB, BC, CD etc. sunt <hi rend="i">dm</hi>. Jam apparet summam omnium <hi rend="i">mdm</hi> esse triangulum AHK=½ qu. ex AH, hoc est ½ <hi rend="i">mm</hi>, ut nempe <hi rend="i">m</hi> hic intelligatur esse maxima omnium <hi rend="i">m</hi>.</p>
+<p>Itaque summa omnium 2<hi rend="i">mdm</hi> erat=<hi rend="i">mm</hi>.</p>
+<p><figure><graphic url="huyg003oeuv10ill140.gif"></graphic>
+<figDesc>Fig. 2.</figDesc></figure></p>
+<p>Sed <hi rend="i">dy</hi>/<hi rend="i">y</hi><hi rend="sup">3</hi> idem quod <hi rend="i">b</hi><hi rend="sup">4</hi><hi rend="i">dy</hi>/<hi rend="i">y</hi><hi rend="sup">3</hi>, adscito <hi rend="i">b</hi><hi rend="sup">4</hi>, ut fiat homogeneum <hi rend="i">του</hi> 2<hi rend="i">mdm</hi>.</p>
+<p>Et summa omnium <hi rend="i">dy</hi>/<hi rend="i">y</hi><hi rend="sup">3</hi>=-½ <hi rend="i">y</hi><hi rend="sup">-2</hi> sive-1/2<hi rend="i">yy</hi> idem quod-<hi rend="i">b</hi><hi rend="sup">4</hi>/2<hi rend="i">yy</hi><note n="#3"/>.</p>
+<p>Si enim HDC sit hyperboloides cujus asymptoti GA, AB. AEDF quadr.<hi rend="sup">m</hi> cujus latus AE=<hi rend="i">b</hi>. AB=<hi rend="i">y</hi>. BC=<hi rend="i">θ</hi>=<hi rend="i">b</hi><hi rend="sup">4</hi>/<hi rend="i">y</hi><hi rend="sup">3</hi> ex natura hyperboloidis hujus. Erit ▭ CA=
+=<hi rend="i">θy</hi>=<hi rend="i">b</hi><hi rend="sup">4</hi>/<hi rend="i">yy</hi>. Cujus dimidium <hi rend="i">b</hi><hi rend="sup">4</hi>/2<hi rend="i">yy</hi> erit aequale spatio infinite extenso BCKL<note n="#4"/>. Hic nempe AB est minima omnium <hi rend="i">y</hi>, quae crescunt aequalibus particulis <hi rend="i">dy</hi>.</p>
+<p>Si BC sive <hi rend="i">θ</hi> fuisset ex natura curvae=<hi rend="i">b</hi><hi rend="sup">3</hi>/<hi rend="i">y</hi><hi rend="sup">2</hi>, fuisset ▭ AC hoc est <hi rend="i">b</hi><hi rend="sup">3</hi>/<hi rend="i">y</hi><hi rend="sup">2</hi> in <hi rend="i">y</hi>, hoc est <hi rend="i">b</hi><hi rend="sup">3</hi>/<hi rend="i">y</hi>=spatio infinite extenso BCKL nempe=summae omnium <hi rend="i">dy</hi>/<hi rend="i">yy</hi> sive <hi rend="i">dy y</hi><hi rend="sup">-2</hi>, ubi addita unitate ad exponentem fit-1, tumque divisio facienda per-1. Itaque-1/<hi rend="i">y</hi> hoc est-<hi rend="i">b</hi><hi rend="sup">3</hi>/<hi rend="i">y</hi> erit summa.</p>
+<p>Si BC sive <hi rend="i">θ</hi>=<hi rend="i">bb</hi>/<hi rend="i">y</hi> fuisset ▭ AC=<hi rend="i">bb</hi>, idque divisum per 0 qui hic est exponens <hi rend="i">y</hi>, fit <hi rend="i">bb</hi>/0=spat. hyperb. infinitum BCKL, quod est magnitudine infinitum<note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2036"/>
+<meta type="date" value="1675-06-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2036">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 21 Juin 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous envoye, comme je vous ay promis par ma derniere lettre<note n="#1"/> la montre de ma nouuelle invention pour Milord Brouncker. Le Sr. Dominique, qui en est le porteur s'en est chargè d'autant plus volontiers que cette commission luy donne acces aupres de vous, car aymant les belles sciences, il sçait que vostre connoissance ne luy peut estre que tres avantageux. Il semble qu'il ait l'esprit tournè du costè de la philosophie, et qu'il auroit pu y reussir s'il s'y fut appliquè, mais il est si agreable d'ailleurs dans l'exercise de sa profession qu'on ne voudroit pas souhaiter qu'il se fust adonnè a autre chose.</p>
+<p>Pour ce qui regarde l'intelligence de la montre, je vous prie de dire a Milord Brouncker, qu'on la monte une fois en 24 heures, et qu'il faut tourner la clef du mesme sens que tourne l'eguille de la montre, que pour en avancer ou retarder le mouuement, on accourcit ou alonge le petit ressort spirale, par le moyen de la piece coulante dans la quelle passe ce ressort. et que pour faire couier cette piece il faut premierement avec la clef desserrer la vis, qui la tient serree sur le petit bras fixè aupres du dit ressort. Il remarquera en ce qui regarde le mouvement du balancier, qu'on peut donner de certaines secousses a cette montre, dans le sens du quadrant, en la faisant tourner circulairement, qui peuvent nuire et mesme arrester (quand on les scait donner a propos) le mouuement de la montre, mais ces contretemps ne peuvent jamais arriver en la portant sur soy, et dans une petite poche peu profonde, comme toutes les montres se portent. Autrement il y a plus d'un moyen d'oster mesme cet inconvenient, et le plus aisè est de faire ces montres en sorte que le balancier fasse des tours plus frequents. Un autre moyen qui oste radicalement ce defaut est par un double balancier en sorte qu'ils engrainent l'un dans l'autre par des pignons, ce qui les fait tourner de mouuement contraire l'un a l'autre; et alors les contretemps de quelque maniere qu'ils soient ne peuvent rien alterer dans les tours des balanciers.</p>
+<p>Vous m'obligeres de me mander a quoy en est Mr. <persName key="hook001">Hooke</persName> avec ce qu'il a entrepris en ces sortes d'ouurages. lcy il y en a plusieurs qui ont voulu produire des
+constructions differentes, ou varier celle que j'ay donnée, mais jusqu'icy l'on n'a veu rien paroitre de bon.</p>
+<p>Le prix de la montre que j'envoye est de 27 escus ou 80 ℔. a quoy je l'ay taxée quoy que l'ouvrier<note n="#2"/> pretendu vendre plus cher ces premiers ouurages.</p>
+</div>
+</body>
+</text>
+</TEI>

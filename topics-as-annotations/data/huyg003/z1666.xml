@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1666"/>
+<meta type="date" value="1668-10-21"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1666">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 21 Octobre 68.</p>
+<p>Monsieur</p>
+</div>
+<p>Bien que nos exercices philosophiques ne m'ont fourni dequoy vous entretenir depuis mon retour d'Escosse, il faut pourtant que Je recommence nostre vieille
+correspondance quand ce ne seroit que pour vous dire que Je meure denuie d'apprendre lestat de vostre santé. Mais afinque Je puisse vous engager d'auantage a me donner cette satisfaction, Je pretends que vous aurez suiet de comter la choix que Jay faite d'un amy pour vous en importuner une des plus grands tesmoignages de la continuation de mon amitié que Je vous ay pu donner. C'est Monsieur de beringam<note n="#1"/> une personne dont les belles qualitez vous donneront autant d'admiration que son amitié vous donnera de contentement. Je vous prie de luy accorder la vostre comme un des meilleurs offices que Je<note n="#2"/> vous rendre. Jl la recherche auec ardeur, et Je luy porte trop d'affection pour n'y contribuer tout ce qui depend de moy. Au reste si vous trouuez bon que nous nous entretennions comme du temps passé il ne tiendra pas à moy que vous nayiez de mes nouuelles toutes les foix qu'il se presente des choses qui meritent la peine de vous les communiquer, tant que Je seray icy. Je crois que ce sera pour tout cet hyuer. Jl me souuient de vous auoir prié dans ma derniere<note n="#3"/> à laquelle vous nauez point fait de responce, de me faire sçauoir de quelle
+façon vous voulez que Je vous fasse tenir les 100. Escus que vous auez payez pour l'Horologe que vous m'auez enuoyé. n'oubliez plus den enuoyer vos ordres à</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur
+<lb/><persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>A Monsieur <persName key="huyg003">Christian Hugens de Zulicom</persName>
+<lb/>A paris.</p>
+</div>
+<p><figure><graphic url="huyg003oeuv06ill58.gif"></graphic></figure></p>
+</body>
+</text>
+</TEI>

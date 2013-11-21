@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2381"/>
+<meta type="date" value="1685-02-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="beri006"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2381">
+<div type="opener">
+<p>A Monsieur <persName key="beri006">de Beringhen</persName>.</p>
+<p>le 22 fevr. 1685.</p>
+<p>Monsieur</p>
+</div>
+<p>A moins que d'avoir pour moy une bontè extraordinaire vous n'auriez pas continuè comme vous avez fait ce commerce de lettres qui a pour suject une affaire si peu agreable que celle que nous avons traitee. Nous en voila pourtant a la fin finale a ce que je voy par celle dont vous venez de m'honorer, et il ne me
+reste qu'a vous rendre de tres humbles graces de tout le soin que vous avez daignè d'en prendre. Le dessein du Roy a proteger et faire fleurir les sciences m'a toujours paru si grand et si beau, que j'ay estè bien aise d'y estre employè avec d'autres. Toutefois quand je me souviens de mes maux et maladies passées et qu'avec l'age la santè ne devient pas plus ferme, je ne puis pas dire que c'est avec bien de regret que je resteray dans mon païs natal. Je vois que mon Pere insiste tousjours sur ce que j'avois aussi touchè dans ma derniere, scavoir ce congè un peu honneste<note n="#2"/>, et certainement pour la bienseance cela m'estoit bien du, n'ayant rien fait que je scache qui pust diminuer pour moy les bonnes graces du Roy ni celles de Monseigneur de Louvois. Je tascheray avec autant de soin de conserver l'honneur des vostres et seray tousjours avec un profond respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre &amp;c.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

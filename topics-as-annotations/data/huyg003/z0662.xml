@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0662"/>
+<meta type="date" value="1659-09-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0662">
+<div type="opener">
+<p>[<date>Sept. 1659</date>].</p>
+<p><persName key="slus001">Sluse</persName>.</p>
+</div>
+<p>Quod hypothesin meam de Saturno non absurdam judicas gaudeo. Non Comitem tantum sed et figuras Saturni hocce triennio observatas Anglorum observationes comprobant. Annulum excentricum (noch mijn observatien noch mijn hypothesis)<note n="#1"/>. Jam mensem integrum studijs vacare non licuit, unde factum ut inventionem tuam quatenus ad problematum planorum constructionem pertinet ulterius non investigaverim. Nunc autem et hoc cogitare coepi, quorsum in ijs perquirendis operam collocem quae nec fortasse reperturus sim, et quae gratis abs te postea sim accepturus. Quid tamen polliceris scire opto, nempe an Problemata plana, in quibus aequatio ad quatuor dimensiones primo ascendere invenitur ut Pappi illud cujus antehac meministi, anne inquam methodus tua detegat continuo ea plana esse. Nam in posteriori quidem specimine continuo patet esse planum problema, cum tantum quaeratur intersectio circuli et ellipseos quorum idem centrum est. atque etiam aequatio tantum quadratica inde oritur. Ex qua tamen difficile foret tam brevem et concinnam constructionem atque tua est, elicere. Vale.</p>
+<p>In Angliam.</p>
+</div>
+</body>
+</text>
+</TEI>

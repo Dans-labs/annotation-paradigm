@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0597"/>
+<meta type="date" value="1659-03-09"/>
+<meta type="sender" value="witt001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0597">
+<div type="opener">
+<p>Mijn Heere</p>
+</div>
+<p>Ick vertrouwe dat ontrent het eijnde van het ontworpene de locis planis solidisque<note n="#1"/> de figueren manqueren, ende sende mitsdien hiernevens die gene wt de minute die daer toe specteren; met versovck als VEd: het eerste deel nochmaels aendachticher sal hebben doorgesien, soodaenich dat VEd: mij kan verseeckeren daerinne geen faulten oft misslaegen te influeren, dat desselfs goede gerieffte zij het selve mij wederom ter handen te stellen met aenwijsinge van t' gene VEd. daerinne naeder sal hebben geremarqueert twelck eenige veranderinge ofte verstellinge soude vereijsschen, ende sal VEd: daermede sonderlinge verobligeren<note n="#2"/></p>
+<div type="closer">
+<p>Mijn Heer
+<lb/>VEdelheyts oodtmoedige Dienaer <persName key="witt001">Johan de Witt</persName>. <date>1659</date>.</p>
+<p><placeName key="denha004">Haege</placeName> den <date>9<hi rend="sup">en</hi> Martij 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>In handen van Jonkheer <persName key="huyg003">Christiaen van Huijgens van Suijlechem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

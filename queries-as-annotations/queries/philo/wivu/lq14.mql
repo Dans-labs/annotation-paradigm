@@ -1,0 +1,16 @@
+// This query looks for constructions similar to the one in Qoh 1:17 if
+// you consider the second DA<AT to be an infinitive construct. The
+// question is whether the second DA<AT is an infinitive or a noun.
+
+// ident @(#)lq14.mql	1.1 04/03/04
+
+select all objects where
+
+[clause
+   [word psp = preposition]
+   [word verbal_tense = infinitive_construct]
+]
+[clause
+   [word first lexeme = "W"]
+   [word verbal_tense = infinitive_construct]
+]

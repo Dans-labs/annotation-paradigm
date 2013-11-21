@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0862"/>
+<meta type="date" value="1661-06-01"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0862">
+<div type="opener">
+<p lang="it">Signore <persName key="huyg003">Cristiano Vgenio</persName>.</p>
+</div>
+<p lang="it">Mando a Vestra Signoria con la solita confidenza un' libretto sotto nome del' Diuini<note n="#1"/>, acciò le preuenga quanto prima. Questo io non hauerei consigliato a
+stamparlo, ma non dico per ora a Vestra Signoria altro mio sentimento ne quello de mei Accademici sopra di esso, ben che ui sia molto da dire intorno a uarie cose, perche tanto loro, che io medesimo siamo occupati per seruire al Serenissimo Gran' Duca. Basta solo che Vestra Signoria sappia per mia sodisfazione, et sua, che non' ho' dato consenso alcuno in questa stampa, ne mi è stato partecipato il contenuto di essa. Et confermando a Vestra Signoria la parzialità del mio affetto le auguro del' Cielo ogni felicità.
+Di <placeName key="flore001">firenze</placeName> li <hi rend="sc">i</hi>. Giug<hi rend="sup">o</hi>. 1661.</p>
+<div type="closer">
+<p lang="it">Al Piacere di Vostra Signoria Il Principe <persName key="medi012">Leopoldo</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

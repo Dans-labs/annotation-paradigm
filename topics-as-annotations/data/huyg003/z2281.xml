@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2281"/>
+<meta resp="HI" type="date" value="1682-09"/>
+<meta type="sender" value="cata001"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2281">
+<p>Réponse à l'objection de Mr. <persName key="huyg003">Hugens</persName> contre la Methode de Mr. <persName key="cata001">l'Abbé de Catelan</persName> pour determiner les Centres de Balancement<note n="#1"/>.</p>
+<p>&nbsp;</p>
+<p>Monsieur Hugens fait à son tour une objection contre une proposition tirée du principe que je donne pour déterminer Mathématiquement le Centre de Balancement de Pendules; Mais s'il eût pris la peine d'examiner ce qui precede l'endroit qu'il cite de mon Ecrit, il n'eut pas pris pour une regle generale l'application que je fais de ce principe à un cas particulier que j'ay choisi pour servir d'exemple, &amp; qui est le plus simple &amp; le plus facile, sçavoir, lorsque les Pendules sont composez de parties qui décrivent des arcs semblables autour d'un Axe avec lequel elles font un mesme plan; car alors les distances de cet Axe sont des rayons d'Arcs qui ont mesme proportion entre eux que les perpendiculaires, à l'horizon ou les sinus, qui sont les hauteurs d'où le balancement commence. Ainsi les Pendules que Monsieur Hugens apporte pour preuves de la fausseté de ma proposition, estant des angles rectilignes agitez autour de leur sommet, ils n'ont pas les conditions qu'elle suppose, &amp; par consequent ils ne prouvent rien contre moy. En effet si l'on conçoit qu'ils se meuvent sur un Axe d'où ils soient suspendus par leur sommet, il est visible que les sommes des distances de l'Axe à tous les poins des lignes qui composent ces Pendules, sont inégales selon que ces lignes font avec l'Axe des angles plus ou moins aigus: Et je trouve par ma regle, que les sommes des distances sont alors égales à des Paraboles ayant pour diametre la plus longue distance de l'Axe, &amp; pour parametre la 4. proportionelle aprés la ligne donnée qui est la mesme dans chacun de ces Pendules, la plus longue distance qui est differente à cause des differens angles, &amp; l'unité: d'où il suit que le temps du balancement est les deux tiers de la plus longue distance de l'Axe, &amp; n'est pas par consequent le mesme; car il est d'autant plus
+court, que l'angle est plus ouvert, c'est à dire que le Pendule est plus proche de son Axe.</p>
+<p>Si Mr. <persName key="huyg003">Hugens</persName> veut une proposition qui convienne aux Pendules qui font leurs
+balancemens autour d'un point, il n'y a qu'à changer quelques mots dans le Principe pour les Pendules qui ont un Axe: au lieu de <hi rend="i">racines de leurs distances</hi> il faut mettre <hi rend="i">la somme</hi>, <hi rend="i">des lignes droites qui representent les temps des balancemens de toutes les parties prises separement;</hi> De cette maniere la proposition sera pour les deux cas. Mais la chose se comprend mieux par le Principe general que je donne dans mon Ecrit, &amp; qui est, que <hi rend="i">dans un mesme Pendule toutes les parties ne pouvant se mouvoir qu'à la fois à cause de leur union</hi>, <hi rend="i">le balançement des moins distantes de l'Axe ou du point de suspension est tellement retardé par celuy des plus eloignées</hi>, <hi rend="i">&amp; reciproquement celuy des plus eloignées est tellement accéleré par le balancement des autres</hi>, <hi rend="i">qu'il se fait entre elles une compensation de vitesses proportionelle aux arcs ou portions de courbes qu'elles décrivent</hi>; <hi rend="i">de sorte que le temps du balancement de tout le Pendule est moyen entre les temps des balancemens que feroient ses parties si elles n'estoient point attachées ensemble</hi>, <hi rend="i">c'est à dire qu'il est égal à la somme de ces temps divisée par le nombre de ces parties qu'on doit considerer comme égales &amp; infiniment petites</hi>.</p>
+<p>Je pourray faire voir dans la suitte qu'il n'est pas si difficile, qu'il le semble à Mr. <persName key="huyg003">Hugens</persName>, d'appliquer ce principe aux espéces particulieres de grandeurs geometriques, suspenduës à un Axe ou à un point.</p>
+<p>Pour ce qui est de l'experience, je suis prest à démontrer qu'il est impossible qu'elle s'accorde parfaitement avec les regles simples &amp; generales qui se tirent des principes mathematiques, par la mesme raison, qu'il n'est pas possible d'établir une regle generale, certaine, &amp; constante sur des faits particuliers, qui dépendent de plusieurs causes que l'on ne connoit pas exactement.</p>
+</div>
+</body>
+</text>
+</TEI>

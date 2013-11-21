@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2105"/>
+<meta type="date" value="1677-10-14"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colb012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2105">
+<div type="opener">
+<p>A Monsieur <persName key="colb012">Colbert</persName>.</p>
+<p>Monseigneur</p>
+</div>
+<p>Je ne scaurois vous tesmoigner assez l'obligation que j'ay a vostre bontè, tant de ce que vous daignez prendre quelque interest dans ma santè, en approuvant ce que j'ay creu necessaire pour la confirmer, que du soin qu'il vous a plu avoir de me faire jouir des gratifications du Roy non obstant ma longue absence et le peu de service, qu'il m'est permis de rendre pendant que je suis encore dans l'incertitude de mon entier restablissement.</p>
+<p>Je le souhaite plus fortement Monseigneur pour avoir moyen de vous donner des marques plus expresses de ma reconnoissance, et pour pouvoir seconder autant que je suis capable vos hauts et nobles desseins en ce qui regarde l'avancement des sciences. Et puisque vous m'exhortez de songer a ce qui pourroit contribuer a rendre nostre academie plus illustre, quoyque je sois persuadè, que vos pensées la dessus devancent de beaucoup les mienes, je ne laisseray pas dès a cet'heure de chercher en moymesme et mediter avec application sur cette affaire, pour obeir a vos ordres.</p>
+<p>J'ay veu depuis peu avec bien de la joye la belle invention qu'a trouvè le Sr. Romer, pour demonstrer que la lumiere en se repandant emploie du temps, et mesme pour mesurer ce temps, qui est une decouverte fort importante et a la confirmation de la quelle l'observatoire Royal s'emploiera dignement. Pour moy cette demonstration m'a agréee d'autant plus, que dans ce que j'escris de la Dioptrique j'ay supposè la mesme chose touchant la lumiere, et demontrè par la les proprietez de la refraction, et depuis peu celle du Cristal d'Islande<note n="#2"/>, qui n'est pas une petite
+merveille de la nature, ni aisée a aprofondir. Je me plains bien souvent de ma destinée d'estre d'une complexion si peu proportionnée a l'inclination que j'ay de travailler a ces belles connoissances. Cependant je m'y employe suivant que mes forces me permettent et avec cette satisfaction que ce n'est pas tout a fait inutilement. J'espere qu'un jour j'auray le bonheur de vous en rendre compte et me recommandant a vostre puissante protection je demeure</p>
+<div type="closer">
+<p>Monseigneur
+<lb/>Vostre treshumble et tres etc.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 14 d'Octob. 1677.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

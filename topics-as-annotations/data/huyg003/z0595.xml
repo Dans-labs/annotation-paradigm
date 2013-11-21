@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0595"/>
+<meta type="date" value="1659-03-07"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0595">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>7 Mars 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je joins la presente a celle que Monsieur <persName key="carc010">Carcaui</persName> vous escrit.<note n="#1"/> par laquelle vous verrez qu'il ma mis entre les mains six exemplaires du liure de Monsieur Paschal<note n="#2"/> pour vous les faire tenir, afin que vous en faciez la distribution comme il le marque par sa lettre. Je vous les enuoyeray par vn marchand<note n="#3"/> qui s'en doibt retourner bientost a la Haye &amp; de la a Amsterdam. je les addresseray a Monsieur l'Ambassadeur<note n="#4"/> afin quil vous les face rendre seurement. Monsieur Carcaui m'a communiqué celle<note n="#5"/> que vous luy auez escrite dans laquelle sont les Theoremes touchant les superficies des Conoïdes, qui sont beaux &amp; la demonstration en doit estre tressubtile. Vous deuez ces belles inuentions au public, &amp; ne les enuier pas aux Mathematiciens de ce siecle.</p>
+<p>Je vous supplie de croire qu'il n'a pas tenu a moy que vostre lettre du mois d'Octobre<note n="#6"/> que vous m'auez faict l'honneur de mescrire n'ayt esté veue par Messieurs <persName key="pasc001">Paschal</persName> &amp; <persName key="carc010">Carcaui</persName>; Nous estions dans cette maison dans la plus grande calamité de maladie que vous puissiez vous imaginer.
+Monsieur <persName key="carc010">Carcaui</persName> estoit a la campagne &amp; Monsieur <persName key="pasc001">Paschal</persName> s'est confiné je ne scay ou dans vn phrontistere de Jansenistes, que j'ignore encores, ainsi je ne pus la faire voir. Je vous prie de croire que je vous honore &amp; que je vous estime trop pour vouloir rien faire a vostre prejudice. Je me deshonorerois moy mesme qui fais profession d'estre vostre seruiteur &amp; admirateur. J'attends de vos nouuelles, des lunettes, &amp; des horologes &amp; je demeure</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

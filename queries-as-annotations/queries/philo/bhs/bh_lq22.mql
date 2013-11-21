@@ -1,0 +1,29 @@
+// Is N@M;S in Ps 22:15 a perfect or a participle? This query looks for
+// parallel constructions.
+
+// ident @(#)lq22.mql	1.1 06/02/10
+
+/*
+<metadata>
+<meta type="research_question">Ps 22:15</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2006-02-10"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">Is נָמֵס in Ps 22:15 a perfect or a participle? This query looks for parallel constructions.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [word FOCUS first lexeme = "HJH["]
+   [phrase FOCUS phrase_type = NP or phrase_type = PrNP]
+   [phrase
+      [word FOCUS first lexeme = "K"]
+   ]
+]
+[clause
+   [phrase FOCUS first phrase_type = VP]
+]

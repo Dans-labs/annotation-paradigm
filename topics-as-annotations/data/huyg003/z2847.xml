@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2847"/>
+<meta type="date" value="1694-03-22"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2847">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 22 Mars 1694.</p>
+</div>
+<p>Je vous envoye, Monsieur, la reponce de Mr Renaud<note n="#2"/>; vous me ferez plaisir de m'en mander vôtre sentiment, je n'ai pas encore eu le loisir de l'examiner, car elle ne vient que de paroistre et de plus la mort de Mr d'Autremonts, oncle de ma femme, m'engage dans beaucoup d'affaires qui ne me laissent quasi point de temps. Je vous prie cependant de m'eclaircir une difficulté qui regarde les developpées.</p>
+<p>Mr Bernoulli dans les actes de Leipsic de l'année 1692, page 116<note n="#3"/> pretend qu'au point d'inflexion le rayon de la developpée, ou du cercle baisant, devient toujours infiniment grand. Mr Leibnitz, dans la page 443, dit aussi la mesme chose<note n="#4"/>. Or je trouve qu'il peut estre aussi infiniment petit ou zero, car soit une
+ligne courbe BAC, qui ait un point d'inflexion en A, et pour tangente en ce point la droite FAG; il est clair qu'en commençant de developper au point
+<figure><graphic url="huyg003oeuv10ill197.gif"></graphic></figure>
+A, on decrira la courbe AE par le developpement de la partie CA et la courbe AD par celui de la partie AB:de sorte que la courbe entiere DAE aura aussi un point d'inflexion en A, quoi que dans ce point le rayon de sa developpée BAC soit zero. Supposons par exemple que la courbe EAD soit la paraboloïde <hi rend="i">aax</hi><hi rend="sup">3</hi>==<hi rend="i">y</hi><hi rend="sup">5</hi>, qui a un point d'inflexion en A, je puis demontrer que le rayon de sa developpée en ce point sera nul ou zero. La raison qu'aporte Mr Leibnitz dans la mesme pag. 443<note n="#5"/> ne fait rien contre moi, car avant que deux perpendiculaires à une courbe infiniment proches l'une de l'autre deviennent de convergentes divergentes, il faut necessairement ou qu'elles deviennent paralelles, comme à remarqué Mr Leibnitz, ou bien qu'elles deviennent nulles ou zero ce qu'il n'a point remarqué. Le premier cas arrive lorsque les rayons de la developpée vont en croissant à mesure qu'ils aprochent du point d'inflexion et le second lorsqu'ils vont en diminuant. Mr Bernoulli fait encore ici une faute considerable<note n="#6"/> lorsqu'il dit que dans toutes les paraboloïdes (excepté la parabole commune) le cercle baisant du sommet est infiniment grand, car il y a une infinité de ces paraboloïdes ou il est infiniment petit. En voici la regle<note n="#7"/>. Soit en general <hi rend="i">m</hi> l'exposant des abscisses et <hi rend="i">n</hi> celui des appliquées (je suppose <hi rend="i">m</hi> moindre que <hi rend="i">n</hi>, afin que ces courbes soient convexes par raport à leurs axes), je dis que si 2<hi rend="i">m</hi> surpasse <hi rend="i">n</hi> le rayon de la developée au sommet est nul, et qu'au contraire si 2<hi rend="i">m</hi> est moindre que <hi rend="i">n</hi> il sera infiniment grand. Je vous en enverrai la demonstration si vous le souhaitez.</p>
+<p>Au reste il me paroist evident que Mr Leibnitz se trompe lorsqu'il pretend que les quatre intersections d'un cercle avec une ligne courbe doivent se reunir en une afin que le cercle devienne le plus proche qu'il est possible de la courbe ce
+qu'il appelle baisant<note n="#8"/>: au contraire il est clair, ce me semble qu'il n'y en doit avoir que trois et que le
+cercle doit alors couper la courbe, comme le pretend Mr Bernoulli<note n="#9"/>.</p>
+<p>Faites moi, je vous prie, le plaisir de me mander vôtre pensée sur tout cela.</p>
+<p>J'ai ecrit à Mr Bernoulli, comme je vous l'avois marqué<note n="#10"/> pour savoir quel etoit son sentiment sur la courbure de la voile lorsque l'on suppose le nombre des parallelogrammes, qui la composent sini; mais il ne m'a fait reponce que depuis peu et il me mande qu'il n'a point le loisir de songer à ces matieres parce qu'il est sur le point de se faire passer docteur en medecine pour se marier ensuitte. Il me promet cependant qu'après que cela sera passé il me rendra reponce sur cet article. Je ne manquerai pas de vous la faire savoir aussitost<note n="#11"/>. Je suis tres parfaitement Monsieur vôtre tres humble et tres obeissant serviteur</p>
+<div type="closer">
+<p><persName key="hosp010">Le M. de l'Hospital</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

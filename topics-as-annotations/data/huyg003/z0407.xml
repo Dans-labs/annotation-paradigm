@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0407"/>
+<meta type="date" value="1657-09-27"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0407">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Accepi litteras tuas datas 6<hi rend="sup">ta</hi><note n="#1"/> 7bris, et paucis post diebus residua operum Clarissimi Scotenij folia, pro quibus rursus gratias ago, quas possum, gratissimas. Clarissimus Gutiscouius varijs, vt scribit, negotijs implicitus, aduentum suum in mensem proximum reiecit: Itaque non est quod moram excuses quam apud Te fecit Romana deliquij Lunaris Obseruatio. Vtinam et tuam habere licuisset ad accurata illa Horologia exactam, vt vtrâque collatâ, recte de totâ re censere possemus. Quod versiculos meos laudas, benigne facis; satis interim bene cum illis agitur sj in reprehensionem non incurrunt. Sed nae Tu suauis es, qui Te frustra inuocare Diuas Helicona colentes versu me admoneas, et verbis adstruas, quod factis inficiaris. Itaque quod ais, ita mihj interpretandum esse persuasi, Te studijs altioribus immersum, has ingeniorum amoenitates infra Te ducere. Aristarchum Samium <hi rend="i">ὑποβολιμαιον</hi> ab aliquot annis, edente, ni fallor, <persName key="mers004">Mersennio</persName>, vidj, eiusque autorem <persName key="robe012">Roberuallium</persName> iam tum agnouj. Theorema ipsius<note n="#2"/> de triangulorum sphaericorum superficie idem esse arbitror cum eo quod a pluribus annis publicj iuris fecit celeberrimus Caualerius, in libro quem inscripsit Directorium generale Vranometricum<note n="#3"/>, Estque huiusmodj. Superficies sphaerae ad superficiem cuiuscumque triangulj sphaericj in eadem descriptj eandem habet rationem quam quatuor rectj ad dimidium excessus summae angulorum eiusdem triangulj supra duos rectos. Aliud autem
+<hi rend="i">ϑαυμαστὸν</hi> de lente sphaerica quae radios ad certum punctum tendentes in alio accurate colligat nullibi me vidisse fateor, Imo nec vnquam a me quaesitum quippe qui Cartesij autoritate persuasus, eum hanc omnem materiam exhausisse crederem. Sed a Te admonitus quaerere incipiam, et Mathematico indignum arbitrabor in his rebus posthac cuiquam sine <hi rend="i">ἀποδείξει</hi> fidem habere. Vidi enim cum aduersaria mea cum Cartesianis inuentis, occasione alterius Problematis localis conferrem, esse et alia quae virum alioqui oculatissimum latuerunt. Quaeram igitur vt dixj, atque vtinam ea mihi mens ante duos menses, cum omnino vacaret: Nunc inter varias et ingratas vt plurimum curas dies exigendj sunt, quorum postremos bene multos contriuj audiendis publicis, et privatis etiam Collegij nostrj rationibus, non sine aliquo Matheseos subsidio quae pro subtiliore illa analysi vulgarem Arithmeticam mihj suppeditauit. Nocturnis interim horis pleraque notauj mihj non ante animaduersa, et si non rem ipsam, plurima saltem hac occasione, non contemnenda reperturum me confido. Lineam meam non ex Bibliothecis, vt existimas, in quibus multa Veterum sed Arabum presertim Mathematicorum monumenta delitescunt, sed ex impressis Grecé &amp; latiné, quorum non multos habemus, libris accepj. Habet autem geminas sorores quas sj vacaret peritius exponerem, sed nec liber est ad manum vnde eas desumpsj, et haec arbitror subtilissimo ingenio tuo sufficere. Româ necdum quidquam accepi. Sed auidé expecto quid censeas de Virtualibus Patris Gregorij a St. Vincentio parabolis quas ex male cohaerentibus diuersarum curuarum partibus compactas deprehendj. Vale interim Vir Praestantissime, et quo soles affectu prosequi perge</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>27a 7bris 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo et Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

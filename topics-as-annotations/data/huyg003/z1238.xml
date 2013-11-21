@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1238"/>
+<meta type="date" value="1664-06-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1238">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 27 Juin 1664.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ayme tellement vostre pais et j'y ay estè si bien receu que si j'avois seulement consultè mon inclination je serois vous venu veoir cette seconde fois<note n="#1"/>. Mais j'ay creu mieux faire de prendre le chemin que j'ay pris: non pas que j'eusse des grandes affaires en ce pais icy, mais seulement pour reprendre celles qui cy devant faisoient mon occupation aux quelles il me sembloit estre temps de retourner
+apres plus d'un an d'oisivitè. J'ay estè fort estonnè de veoir par la vostre, que mon pacquet a estè esgarè. J'aurois eu beau attendre vostre response et celle de Monsieur le Comte de Kincardin. Voicy que je luy escris<note n="#2"/> de nouueau sans pourtant repeter ce qu'il y avoit dans l'autre lettre, qui comme la siene<note n="#3"/> estoit pleine de debats, et argumentations, que je ne voudrois pas prendre la peine d'etaler une seconde fois n'ayant pas aupres de moy la minute de ce que j'escrivis alors. Je crois que vous approuuerez ce que je luy respons maintenant, et assurement il ne peut rien souhaiter d'avantage luy meme. S'il s'obstine encore a vouloir des arbitres je ne m'y oppose point mais que ce ne soit qu'apres que nous serons assurez qu'il y aura quelque chose a partager.</p>
+<p>L'on m'a envoyè de Paris vostre lettre qui arriva apres mon depart. Si elle m'y eut trouvè, peut estre la machine seroit desia a Londres, car il y en a tousjours de prestes. Il depend de vous quand vous voudrez la faire venir, quoy que pour moy le delay pourroit avoir quelque mauuaise consequence, parce que j'ay promis a ces Messieurs par contract d'en avancer l'establissement en Angleterre, et d'en faire depescher la Patente dans 3 mois apres la verification de la Cour au Reglement de Paris. Mais je scay bien qu'ils ne voudront pas me presser, tant qu'ils ne scauront qu'assurement la chose vaut la peine, ce qu'ils ne peuvent apprendre que par le debit qu'ils feront de leurs machines.</p>
+<p>Je suis fort aîse qu'on a encore trouuè quelque chose des ouurages de Horroxius, et s'il y a aucunement moyen qu'on le puisse rediger en ordre, il faut le conserver en le faisant imprimer. Vous m'obligerez fort de m'en procurer une copie.</p>
+<p>Je n'ay jamais rien veu que je scache du Roy Ulug Bey, mais ce catalogue des estoiles fixes sera justement l'affaire de Monsieur Hevelius pour le mettre au jour ensemble avec celuy qu'il compose.</p>
+<p>J'ay escrit a mon Pere<note n="#4"/> de vous donner son exemplaire du Livre<note n="#5"/> de Monsieur Sorbiere en cas que vous n'en ayez point encore, puisque par sa propre faute il a oubliè de le prendre avec luy, celuy que je luy donnay pour vous a Calais. Vous vous y trouuerez vous mesme non sans grandes eloges, au reste un autheur praecipitis judicij, et qui souuent n'est gueres bien instruict des choses dont il escrit.</p>
+<p>Je suis bien aise qu'a la fin l'horologe a estè rendue à Milord Brouncker. Je
+n'ay pas encore estè chez l'horologer<note n="#6"/> pour scavoir a qui il desire qu'on remette l'argent, mais vous le manderay par ma prochaine.</p>
+<p>Je demeure a jamais</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="mora019">R. Moray</persName> chevalier et du Conseil prive du Roy pour les affaires d'Escosse loge dans Whit Hall A Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

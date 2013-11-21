@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0712"/>
+<meta type="date" value="1660-01-23"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0712">
+<div type="comment">
+<p>La planche ci-contre est la reproduction du dessin envoyé par Boulliau à Christiaan Huygens. Le revers de l'original porte l'adresse écrite par Boulliau:</p>
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+<p>L'inscription:</p>
+<p>Figure de l'horologe a pendule qui est a Florence dans le vieil palais de Medici.</p>
+</div>
+<p>est également de la main de Boulliau. Huygens ajouta cette note:
+<lb/>Missum a Serenissimo Principe Leopoldo ad Ism. Bullialdum. Anno 1660. Cum descriptio mei horologii edita fuisset Anno 1658.</p>
+<p>Le dessin paraît avoir été envoyé sans lettre conductrice; du moins, celle-ci ne se trouve pas dans nos collections.</p>
+<p><figure><graphic url="huyg003oeuv03ill02.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

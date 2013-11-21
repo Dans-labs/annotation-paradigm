@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0502"/>
+<meta type="date" value="1658-07-23"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0502">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Cum per octiduum Trudonopolj<note n="#2"/>, vna cum Academiae Louaniensis delegatis substitissem, negotiorum publicorum causâ quae nobis cum eadem intercedunt, a biduo redux tuas hic inuenj 11<hi rend="sup">a</hi> huius datas, et maximâ meâ voluptate didicj quantum in <hi rend="i">ἀναλύσει</hi> Problematis e Gallia missi promoueris. Hactenus de eo ne cogitare quidem mihi licuit: sed cum in Aduersarijs meis dimensionem spatiorum CAF CZY<note n="#3"/> haberem, et centrum grauitatis duplorum in rectis CF, CY, nullo negotio eadem solida dimensus sum de quibus ad me scripsistj. Nempe ope Centrobaryces, quâ viâ te quoque progressum esse mihj persuadeo. Superest nunc id quod difficillimum existimo, et cuius vnius gratiâ Problema ad nos missum est, vt ex adiunctâ Schedulâ<note n="#4"/> intelliges, quam sj aliunde acceperis ad Geometras Leydenses vel alios transmitres.
+Vtinam saltem tantum mihj otij supersit vt affectum illud de duabus medijs opusculum absoluam; sed adhuc <hi rend="i">ϑεῶν ἐν γ<figure rend="inline"><graphic url="huyg003oeuv02fi15.gif"></graphic></figure>ούνασι ϰεῖται.</hi> Dabo interim operam vt fidem meam liberem, nihil enim mihj iucundius accidere potest quam datâ occasione testarj, Tibj quam sim et esse porrò velim ex animo</p>
+<div type="closer">
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+<p>Dabam raptim <date>23 Julij 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

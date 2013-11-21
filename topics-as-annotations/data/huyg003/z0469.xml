@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0469"/>
+<meta type="date" value="1658-03-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0469">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>7 de Mars 1658</date>.</p>
+<p>A Monsieur....</p>
+<p>Monsieur</p>
+</div>
+<p>M'ayant estè dit par Le Sieur Vlacq que vous desiriez de scavoir, ce quj estoit devenu le pacquet<note n="#1"/> que vous avez pris la peine de m'envoyer, il y a quelque temps.
+j'ay creu estre obligè de vous escrire ces lignes, non seulement pour vous assurer, que je l'ay receu, mais aussi pour me justisier de ce que j'ay tardè jusqu' icy a vous en rendre graces. Je vous diray donc Monsieur, que mon Pere estant abusè par la superscription du dit pacquet, creut que c'estoit luy à qui vous l'aviez adressè; de sorte qu'il me donna le traitè qui y estoit enfermè, parce qu'il voyoit qu'il estoit d'une matiere qui concernoit mes estudes, et se garda la lettre qu'il vous a pleu y adjouster, pour y faire responce, quand sa santè le lui permettroit, estant alors au lict d'une maladie qui a pensè nous l'emporter, et dont il ne fait encore que se remettre. Voyla Monsieur la seule cause de mon silence, la queue si elle n'estoit veritable vous auriez juste subject de me croire incivil au dernier poinct. Je n'adjousteray rien touchant le traitè de Monsieur <persName key="fren024">Frenicle</persName> si non que je suis marry de n'avoir pas sceu, auparavant que de veoir la solution de ces problemes, que Monsieur <persName key="ferm011">de Fermat</persName> la jugeoit de telle importance. Car encore que je ne me sois jamais guere appliquè aux questions purement arithmetiques je n'aurois pas laissè d'entreprendre celles cy, afin de meriter si il m'eust estè possible l'estime de ce grand homme. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant Serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

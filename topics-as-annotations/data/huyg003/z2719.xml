@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2719"/>
+<meta type="date" value="1691-12-18"/>
+<meta type="sender" value="bloc029"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2719">
+<div type="opener">
+<p><note n="#1"/> WelEdele gestrengen Heer</p>
+</div>
+<p>Naedat ik veel devoir heb gedaen om kennis te krijgen hoedanig het sich had toegedragen met de bewuste horologien<note n="#2"/> zoo komt mij eyntlijk dees mergen in handen den hier nevensgaende missive<note n="#3"/>, die ik moet aenzien als door mons.<hi rend="sup">r</hi> de
+graaf geschreven, hoewel van zeer sobere, en confusen jnhoud, en uijt dewelke zeer weijnig is te begrijpen, ik heb mij al bij d'een of d'ander van d'overkomende officieren getracht te jnformeeren maer niemant weet er mij iets op te seggen, zoo dat wij hiermede, soot schijnt, een jaer ten achteren zijn. Indien mij iets naeders te voren komt, zal ik niet naelaten UwelEd. gestr: daer van kennisse te geven en waermede met veel respect zal blijven</p>
+<div type="closer">
+<p>WelEdele gestr: heer
+<lb/>UWelEd. gestr: seer Ootmoedigen Dienr.
+<lb/><persName key="bloc029">S. v.d. Blocquery</persName>.</p>
+<p>Amsterd<hi rend="sup">m</hi> 18 Xb<hi rend="sup">r</hi>. 1691.</p>
+</div>
+</div>
+<div type="para">
+<p>WelEdele gestrenge Heer
+<lb/>heer <persName key="huyg003">Christiaen Huygens Heer van Selem</persName> &amp;<hi rend="sup">a</hi> &amp;<hi rend="sup">a</hi>
+<lb/>In s' Gravenhage.</p>
+</div>
+</body>
+</text>
+</TEI>

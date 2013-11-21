@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0183"/>
+<meta type="date" value="1654-03-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="lips006"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0183">
+<div type="opener">
+<p>Clarissimo Viro D. <persName key="lips006">Dan. Lipstorpio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.</p>
+</div>
+<p>Bonam partem literarum tuarum Clarissimus Schotenius noster descriptam mihi misit Amice Lipstorpi, unde et nostri memorem te vivere intellexi, resque tuas se habere ex animi tui sententia.</p>
+<p>Equidem<note n="#1"/> Principis istius, quocum degere tibi contigit, paucos similes nostra aetate hac inveniri arbitror. Nam quem alium adhuc designare queam, cui nomina ista conveniant Eruditissimi et Mathematum maximè periti quibus ipsum appellas.</p>
+<p>Beatam isthic vitam te vivere oportet; attamen nostri causa bene habet, quod adhuc amicos revisere cogitas, inter quos ego quidem summopere desidero alium me tibi ostendere quam fuerim tunc cum me conveniebas, diutino morbo languidum prorsus meique dissimilem. Ex quo dira ista febris me reliquit, reversus sum ad studia mihi jucundissima absolvique de Refractionibus tractatum, ita tamen ut secundis curis omnino etiamnum indigeat. Caeterum dum ille sepositus quiescit
+aliud mihi sese inventum obtulit, erutis è veritatis puteo circuli proprietatibus eximijs, quas nemo antea inspexit. Pertinent autem ad dimensionem ipsius circuli, atque ad alia quoque magnam utilitatem adferunt. Proportionem diametri ad circumferentiam, quam scis Archimedem ostendisse maiorem quam 1 ad 3 1/7, minorem verò quam 1 ad 3 10/71 inscriptis circumscriptisque 96 laterum polijgonis, eandem nos ex inscripto triangulo aequilatero atque hexagono demonstramus. Ex trigintanguli autem et sexagintanguli inscriptorum lateribus, quod major est dicta ratio quam 10000000000 ad 31415926537, minor autem quam ad 31415926533. Hoc verò qui Archimedaea Methodo ostenderunt penè 400000 laterum polygonis usi sunt inscriptis circumscriptisque, quod cum maximi sit laboris opus, tum magis quoque hallucinationi est obnoxium, adeo quidem ut istorum calculo <seg org="sidem" resp="#AD" type="corr">fidem</seg> facilè denegent, qui novas subinde falsasque Cyclometrias in lucem protrudunt, ut Longomontanus<note n="#2"/>, alijque. Nostris autem utentes, qui immane quantum expeditiores sunt, se ipsos facilè comdemnabunt. Praeterea ad angulos ex datis triangulorum lateribus inveniendos absque Sinuum tabulis viam aperuimus, atque ad alia complura quae hic referre non est opus<note n="#3"/>. Unum tantummodo addam haudquaquam fortuitum inventum, quo rectam peripheriae aequalem invenire licet, tam prope ut non quatermillesima diametri parte aberretur.</p>
+<p><figure><graphic url="huyg003oeuv01ill127.gif"></graphic></figure></p>
+<p>Esto nimirum circulus, cujus diameter AB, sitque circumferentiae ipsius invenienda aequalis linea recta.</p>
+<p>Dividatur semiperipheria ACB bifariam in C, reliqua trifariam in D et E, et jungantur CD, CE, quae secent diametrum AB in F et G. Erunt trianguli FCG latus alterum una cum basi FG, quadranti CA aequales propemodum, ut non 1/4000 diametri AB excedant.</p>
+<p>Hanc atque alias nihilo operosiores constructiones, quibus dato cuicunque arcui rectae aequales sumuntur ei quem nunc prae manibus habeo tractationi insertas aliquando videbis.</p>
+<p>Interea vale Vir Clarissime, nosque ut facis ama.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Com.</placeName> <date>7 Martij 1654</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

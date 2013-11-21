@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0704"/>
+<meta type="date" value="1660-01-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0704">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Nondum responsum ab Hevelio nec ab Leopolde Principe, quod hon convenit cum.....</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>premier de l'an 1660</date>. au quel je vous souhaite toute sorte de prosperitè.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay estè tres aise d'apprendre par la vostre du 12 decembre qu'en fin les exemplaires vous estoyent arrivez les quels je tenois presque pour perdus, et je vous demeure obligè du soin que vous avez eu à les distribuer. Je n'eusse pas manquè
+de donner ordre afin que vous receussiez vostre horologe des mains du Libraire<note n="#1"/>, n'cust estè que le Sieur Hanet estoit tout prest pour s'en retourner à Paris d'icy, lors que je receus la vostre. tellement que je ne doute pas que desia il ne vous l'ait apportè. Il vous aura aussi dit comment nostre bon ouurier Coster est decedè<note n="#2"/> dont je n'ay pas peu de regret. Je vous remercie de ce que vous voulez prendre la peine de faire l'horoscope que je vous ay demandè<note n="#3"/>. Pour suppleer ce que j'avois oubliè de vous dire du lieu de la naissance, scachez que c'est icy a la Haye qu'elle est née, d'ou il vous est aisè de scavoir la hauteur du pole (qui est a mon conte de 52.5′) et la distance du meridien de celuy de Uraniburgum. Mais je vous diray une chose qui assurement vous aidera plus que tout cela en la prediction: c'est que c'est l'une des Princesses d'Orange et qu'elle est desia mariée, quoy qu'elle ait voulu que je le tinsse secret. Mais ayant peur que peutestre vous ne luy pronostiquaffiez le temps qu'elle se devroit marier qui auroit estè fort absurd, j'ay mieux aymè luy desobeir en ce point, que d'exposer vostre prediction à un tel hazard. au reste je vous prie de l'achever, et d'autant que ce sera plus promptement, d'autant plus je vous en auray d'obligation.</p>
+<p>Pour ce qui est de vostre mesure du diametre de Mars je vous asseure qu'elle n'approche pas seulement de la veritè, et vous prie de ne vous fier aucunement a la methode de Hevelius, parce qu'elle est tout à fait incertaine et trompeuse. La miene aussi que j'avois esperè d'y employer, à scavoir celle que j'ay expliquè en mon systeme, ne m'a de rien servi à cause de la petitesse de ♂ tellement que je desesperois desia d'en pouvoir avoir cette fois aucune exacte mesure, mais en fin je me suis advisè d'une maniere tresassurée, trop longue pour estre raportee icy, dont je me suis servi le 25 Decembre et j'ay trouuè que le diametre apparent estoit de 17″.40‴<note n="#4"/> ou plustost un peu moins. d'ou j'ay calculè en suite que quand il nous approche le plus il sera environ de 30″,30‴. ce qui s'accorde tout à fait, et mieux que je n'eusse osè esperer avec ce que j'en ay escrit sur la sin de mon dit systeme.</p>
+<p>Vos Messieurs en ayant maintenant receu les exemplaires j'ay grande envie de veoir ce qu'ils en jugeront sans pourtant beaucoup craindre leur objections si je puis satisfaire au vostres. Je suis tres sincerement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+<p>Je n'ay pas encore receu response de Monsieur <persName key="heve011">Hevelius</persName><note n="#5"/> dont je suis un peu estonnè. Mais bien plus de ce que le Prince Leopold<note n="#6"/> ne me fait rien mander. Il me semble que du moins par son Secretaire il me devroit faire dire quelque mot de civilitè, la siene estant si grande comme autrefois vous m'avez assurè<note n="#7"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="boul014">Bouillaut</persName>
+<lb/>A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2013"/>
+<meta type="date" value="1675-02-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2013">
+<div type="opener">
+<p>A Monsieur <persName key="olde010">Oldenburg</persName>.</p>
+<p>a <placeName key="parij001">Paris</placeName> le 20 fevr. 1675.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous envoiay par ma derniere du 30 janvier<note n="#2"/> le chiffre d'une nouvelle invention d'horloge, dont peutestre vous aurez esté informè du depuis, et scaurez desia ce que c'est car le secret ne s'en est pas bien gardè icy, par la mauvaise foy de l'horloger<note n="#3"/>, que j'employay a l'executer, qui des le lendemain que je luy eus communiquè cette invention et fait faire le modelle, en fit aussitost un autre, et a mon insceu l'alla montrer a Monsieur Colbert et a plusieurs autres personnes se disant en estre l'autheur. Que si d'avanture vous n'en avez pas encore connoissance, voicy ce que contenoit mon anagramme. il contenoit ces mots <hi rend="i">Axis circuli mobilis affixus in centro volutoe ferreoe</hi>. C'est que cette invention consiste en un ressort tournè en spirale, attachè par son extremitè du milieu a l'arbre d'un balancier circulaire et equilibre qui tourne sur ses pivots; et par son autre extremitè a une piece qui tient a la platine de l'horloge. lequel ressort, lors qu'on met une fois le balancier en bransle, serre et deserre alternativement ses spires, et conserve avec le peu d'aide qui luy vient par les roues de l'horologe, le mouvemens du balancier. Et cela en sorte que quoy qu'il fasse plus ou moins de tour, les temps de ses reciprocations sont tousjours egaux les uns aux autres. Les horologes de cette façon estant construites en petit, seront des montres de poche tresjustes et en plus grande forme pourront servir utilement par tout ailleurs et particulierement a trouver les Longitudes tant sur mer que par terre puisque leur
+mouvement est egal comme celuy des Pendules et que nulle sorte de voiture ne les peut faire arrester. Vous verrez dans le premier Journal des Scavans, qui paroistra dans 4 ou 5 jours la figure gravèe, avec la description de la machine<note n="#4"/>. La mechancetè de cet ouvrier, dont je vous ay parlè, m'a donnè beaucoup de peine et de fascherie. Mais ayant a la fin fait connoistre son mauvais procedè, et l'en ayant convaincu, Monsieur Colbert m'a fait justice et m'a fait avoir un Privilege<note n="#5"/> du Roy pour cette invention: apres quoy mon plagiaire voiant qu'il s'est attirè une tresmeschante affaire, et ne scaschant que devenir, me fait solliciter par tous ceux qu'il connoit de luy pardonner sa faute et de l'emploier comme auparavant promettant de tesmoigner a tout le monde, qu'il ne pretend aucune part a l'invention. Mais la chose seroit plustost pardonnable a tout autre qu'a luy, parce que sa malice est jointe avec une extreme ingratitude, car c'est qu'il m'avoit de l'obligation en plusieurs manieres<note n="#6"/>. Je vous raconte cecy si particulierement Monsieur, parce qu'il se peut faire qu'on vous aura informè touchant ce demeslè, suivant le bruit que cet homme, et ceux de sa cabale ont fait courir, qui a esté si fortement soustenu que j'ay reconnu par la que j'ay plus d'envieux que je ne scavois. Au reste Monsieur si vous croyez qu'un privilege en Angleterre pourroit valoir quelque chose, et que ou la Societé Royale ou vous en vouliez tirer de l'avantage, je vous offre volontiers tout ce que j'y pourrois pretendre. l'on me fait accroire, qu'il m'en pourra revenir quelque chose en ce pais
+icy<note n="#7"/>. Pour eviter la contravention au Privilege l'on m'a accordè d'y pouvoir mettre une marque particuliere en forme de petite medaille ou autrement pour connoistre les montres qui auront estè faites avec permission, ce que vous pourriez obtenir par dela de mesme.</p>
+<div type="closer">
+<p>Je vous baise les mains et suis entierement
+<lb/>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p>P.S. Si peutestre vous trouviez a propos de faire imprimer quelque chose du
+contenu de cette lettre, je vous prie que ce ne soit que ce qui regarde l'explication de l'invention et de son usage<note n="#8"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

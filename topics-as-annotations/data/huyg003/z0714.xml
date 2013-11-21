@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0714"/>
+<meta type="date" value="1660-01-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="boul014"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0714">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Horoscope receu. qui c'est damoiselle. Hanet. Hevelius. Table d'equation. horologij. Dessein pas receu.</p>
+</div>
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>29 Jan. 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Apres que ma lettre fust partie, que je vous fis<note n="#1"/> il y a 8 jours, je receus la vostre avec l'horoscope, dont je vous remercie treshumblement. La dame est la fille seconde du Prince Frederic Henry d'Orange, s'appelle Albertine<note n="#2"/>, et a espousè le Prince Guillaume de Nassau, gouverneur de Frise. Pour le luy faire tenir je l'ay donnè à la soeur d'une de ses damoiselles, qui est icy à la cour de la Princesse douariere, parce que cette soeur avoit la commission de solliciter le dit theme. J'ay aussi communiquè à la mesme ce que vous escriviez du bijou<note n="#3"/>, afin qu'elle en advertit la Princesse, ce qu'elle accepta volontiers.</p>
+<p>J'ay vu la response que Monsieur Hevelius a fait à celuy<note n="#4"/> qui luy a envoyè mon systeme, dans la quelle il se plaint de ce que je n'ay pas respondu a sa derniere lettre<note n="#5"/>: d'ou j'apprens qu'il n'aura pas receu les exemplaires que je luy ay envoyè moy mesme pour luy et pour Monsieur le Secretaire<note n="#6"/> de la Reine, avec une longue lettre<note n="#7"/>. Pour plus grande seuretè j'en avois envoyè par deux voyes, mais avec ceux que Monsieur Boddens luy a adressè il n'y avoit point de lettre. ceux ou il en avoit seront sans doute perdu avec le navire, car nous avons sçeu que devant le Pillau il en est peri plusieurs. J'en suis bien faschè, et luy en escriray.</p>
+<p>Si Hanet dit vray vous n'avez qu'a prendre vostre horologe chez le Sieur Petit<note n="#8"/> au quel il a envoyè ordre pour cela il y a plus de 3 semaines, car ne partant pas pour Paris comm' il m'avoit assurè, il n'a pas laissè de mander au dit Sieur Petit ce qu'il auroit a faire des horologes. Je vous prie derechef que je puisse veoir l'autre dessein de l'horologe du Grand duc. Pour juger exactement de la justesse du mien, au quel j'ay adjoustè la derniere invention mentionnée dans ma precedente<note n="#9"/>, je suis
+apres à construire une table pour l'aequation du temps, ex duabus causis quas Ptolemeus agnoscit, car pour ce qui est de l'inégalitè des conversions journelles de la terre que vous voulez introduire avec <persName key="kepl901">Kepler</persName>, je vous avoüe librement, que n'en voyant pas d'autre fondament, je ne la puis croire. Je trouue, quen accomodant mon horologe à la longueur moyenne des jours, et posant l'indice sur l'heure apparente lors que le soleil est in pr. ♈, il faudra, lors qu'il est parvenu environ au 10 degrè de <figure rend="inline"><graphic url="huyg003oeuv03fi01.gif"></graphic></figure>, adjouster 24.28″ a l'heure que monstre l'horologe, pour avoir l'heure apparente, et lors que le soleil est vers le 24 degrè de ♒, oster 7′.20″ de la dite heure de l'horologe. Je voudrois bien sçavoir ce qui vous semble de la table de Mulerus<note n="#10"/> pagina 130 Tabularum Frisicarum<note n="#11"/>, et de la maniere qu'il prescrit pour s'en servir. Je croy qu'il n'a pas bien entendu cette matiere, qui est assez obscure. Je suis parfaitement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp; tres obeissant serviteur, <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

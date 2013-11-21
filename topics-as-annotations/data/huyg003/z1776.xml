@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1776"/>
+<meta type="date" value="1669-11-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1776">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 21 Novembre 1669.</p>
+</div>
+<p>Ie viens d'examiner vostre calcul des aages, et de refaire le mien que j'avois perdu<note n="#1"/>. Ie voudrois que le vostre fust veritable, puis qu'il nous donne un peu plus de vie, mais il ne sert de rien de nous flatter; Scit nos Proserpina canos<note n="#2"/>, et elle ne s'arreste pas au compte que nous faisons. Vous concluez assez pres du vray, que les 100 personnes ont a faire ensemble 1822 ans de vie, mais il ne s'ensuit pas que les 18 ans et 2 mois, qui vienent en divisant ce nombre par 100. soit l'age de chasque personne creée ou conceue, ainsi que vous tenez pour certain. Prenons, par exemple, que les hommes soient encore plus foibles dans leur enfance qu'ils ne sont, et que de 100 il en meure d'ordinaire 90 dans les premieres 6 annees, mais que ceux aussi qui surpassent cet aage soient des Nestors, et Mathusalems, et qu'ils vivent d'ordinaire jusqu'a 152 ans et 2 mois.
+Vous aurez pour les 100. le <seg org="mesine" resp="#WR" type="corr">mesme</seg> nombre de 1822 ans, et cependant qui gageroit, qu'un enfant conceu parviendroit alors a l'age de 6 ans seulement, auroit grand desavantage, puis que de 10 il n'y a qu'un qui y parvient.</p>
+<p>Voicy encore une autre instance. Prenez que sur 100 enfans conceus (dans la supposition ordinaire) je gageasse pour chacun d'eux qu'il atteindra l'aage de 16
+ans. Il est certain que puis que de 100 il n'en reste d'ordinaire que 40 de 16 ans, que j'aurois du desavantage et que je ne devois avoir gagè que 40 contre 60, ou 2 contre 3, pour faire la partie egale.</p>
+<p>Et partant vous voiez que les 18 ans 2 mois ne sont nullement l'aage d'un chascun qui soit conceu, et je ne le trouve que d' 11 ans environ.</p>
+<p>Qui gageroit qu'un enfant de 6 ans vivra jusqu'a 26 peut mettre 25 contre 39, puis que de 64 enfans de 6 ans, il y en a 25 qui parvienent a l'aage de 26 ans, contre 39 qui meurent au dessous.</p>
+<p>Et qui gageroit qu'un garçon de 16 ans vivra jusqu'a l'aage de 36, peut mettre 16 contre 24 ou 2 contre 3. de sorte qu'il est un peu plus apparent pour un de 16 ans que pour un de 6 de vivre encore 20 ans.</p>
+<p>Ce calcul comme vous voiez est fort seur et fort facile, mais vous demanderez comment je pourray determiner comme vous, combien il reste raisonnablement a vivre a une personne d'un aage proposè. Pour faire cela j'ay supplée la petite table angloise, sans pourtant m'embarasser d'aucun calcul, mais en traçant une ligne courbe, sur la quelle avec le compas je mesure la vie de celuy qu'on veut, et je vois par exemple qu'a vostre aage de 38 ans, vous pouuez encore faire estat de 19 ans et 4 mois environ. Mais si vous vous amusez a faire appeller souuent des gens pour vous battre, il faut encore en retrancher quelque chose. Ie vous envoieray la ligne de vie une autre fois avec la pratique d'icelle et mesme une table des vies a chasque aage d'année en année, qui ne me coustera guere.</p>
+<p>Monsieur le Comte de Warfusè<note n="#3"/> m'a dit, que l'accommodement de celuy de Rieux est fait<note n="#4"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

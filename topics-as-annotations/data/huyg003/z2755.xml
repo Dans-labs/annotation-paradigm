@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2755"/>
+<meta type="date" value="1692-06-09"/>
+<meta type="sender" value="stei045"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="voorb001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2755">
+<div type="opener">
+<p>Illustri &amp; Generoso Domino Dno â Zuylichem Sal. et obsequia <persName key="stei045">Joann. Gregorius Steigerthal</persName>.</p>
+<p>9 Juni 1692.</p>
+</div>
+<p>Cum jussu Clementissimi Principis, Ducis Luneburgensium Serenissimi iter in Italiam propedum mihi sit instituendum, tam <placeName key="denha004">Hagae Comitis</placeName> quam Voorburgi exoptavi honorem Illustrem Vestram Generositatem salutandi, eique discessum meum signisicandi. Frustrabat autem Illustris vestrae Generositatis absentia meum desiderium nec patiebatur occasio suppellectilem meam librariam Amstelodamo domum crastina luce transmittendi ullam moram adeoque literis ad minimum rogare volui, ut si qua in re Illustri V[estr]ae Generositati in Italia inservire possem, operâ meâ libere uteris &amp; me omnia quae à me posse effici existimaveris, Amstelodami moneas. Opperiar adhuc lubentissime per biduum tua mandata mihique gratulabor perpetuum, si Illustris V[est]rae Generositatis cultu dignus reperior. Fave!</p>
+<div type="closer">
+<p>Voorburgi d. 9 Junii 1692.</p>
+</div>
+</div>
+<div type="para">
+<p>Illustri &amp; Generoso Domino
+<lb/>Dno a Zulichem
+<lb/>Fautori suo plurimum devenerando.
+<lb/>S.</p>
+</div>
+</body>
+</text>
+</TEI>

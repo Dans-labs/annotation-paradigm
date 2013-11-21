@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0186"/>
+<meta type="date" value="1654-04-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vinc027"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0186">
+<div type="opener">
+<p><persName key="huyg003">Chr. Hug.</persName> Patri à <persName key="vinc027">Sancto Vincentio</persName>.</p>
+<p><date>2 Apr. 1654</date>.</p>
+</div>
+<p>Imprimis gratias tibi agam Vir Clarissime quod Domini <persName key="kinn013">Kinneri</persName> libellum quantum in te fuit maturè ad me deferri curâsti, additis quoque humanissimis literis tuis; quibus huc usque respondere distuli, expectans donec perlecto opusculo simul quid videretur mihi significare possem, hoc enim voluisti. ante dies aliquot Autori rescripsi<note n="#1"/> eique egregiam Geometriae peritiam gratulatus sum, cum usque eò nihil admodum ab ipso profectum conspexissem. Porro ad summam rei quod attinet judicium quoque meum exposui idemque tuo nunc lubens subjiciam. duo verba esse dixi in propositione 30<hi rend="sup">a</hi> quae me vetarent assensum Cyclometriae vestrae praebere. sunt autem ista (<hi rend="i">Hoc est</hi>) in fine demonstrationis, pag. 45. Sic nimirum concludit: <hi rend="i">Hoc est ratio quae est inter aggregatum &amp;c</hi>. Rogavi quo pacto dicat <hi rend="i">hoc est</hi> cum ante non ostenderit, idem esse sive sumat rationem quam habent omnes denominatores notati signis 1, 2, 3, ad omnes 7, 8, 9, sive eam quam habet ratio inter aggregatum corporum P, Z, A, et aggregatum corporum Q, B, C, ad rationem inter aggregatum corporum R, E, D, et aggregatum corporum S, H, G. hoc enim ex eo non effici, quia scilicet rationis P ad Q denominator sit linea 1, rationis Z ad B denominator 2 atque ita porro. Nam alioqui semper idem contingere debere quantarumcunque partium corpora singula statuerentur. atqui assumptis partibus rationalibus ita ut rationem numerorum inter se habeant corpora saepe ad absurdum deveniri. Haec ita breviter Domino <persName key="kinn013">Kinnero</persName> proposui, quod res per se manifesta videatur. quamobrem neque te pluribus circa eadem detinebo.</p>
+<p>Praecedentibus literis aliquid mihi scrupuli injeceras, quod displicere tibi diceres Cartesij Dioptrica. Itaque hoc scire velim an quod ille statuit neges. semper eandem rationem haberi inter sinus angulorum quos radius incidens primum deinde refractus cum perpendiculo constituit. nihil praeter hoc ab ipso mutuatus sum, quoniam experimentis exactissimis consonum inveni, etiam illorum qui adhuc principio isto destituebantur, ut <persName key="kepl901">Kepleri</persName>.
+In reliqua autem Cartesij explicatione et praesertim ubi ad telescopij venit demonstrationem plurima mihi quoque improbantur. Seposui ad tempus quae in hac materia conscripta habeo. Caeterum ex quo postremò ad te literas dedi<note n="#2"/> de Circuli magnitudine novi quid procudi quod mihi prae omnibus arridet quae reperi hactenus. Inter caetera est Theorema egregium quod tibi sanè impertiam, illud tamen obtestatus te per animi tui candorem ne ante me divulges. Est autem ejusmodi. Omnis circuli circumferentia &amp;c. Idem Domino <persName key="kinn013">Kinnero</persName> misi, sed Aenigmate involutum; quoniam esse illic<note n="#3"/> qui de circulo novi aliquid meditetur mihi <seg org="signisicaverat" resp="#AD" type="corr">significaverat</seg>. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

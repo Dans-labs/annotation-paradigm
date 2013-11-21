@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0023b"/>
+<meta type="date" value="1646-12-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0023">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous m'excuserez de ce que j'ay tardè si longtemps sans vous envoyer ce que j'ay trouuè touchant l'affaisement de la chaisne, si vous considérez bien ce que je m'en vais vous dire; c'est que quand j'ay trouuè quelque chose de nouveau en Mathematiques je ne la mets pas incontinent par escrit, mais il me suffit de le pouvoir faire quand je veus, ou quand on m'en demande la demonstration: De la sorte doncques je n'avois encore rien escrit de cet affaire de la chaisne qu'une ou deux propositions, et voyla pourquoy il m'a fallu quelque temps pour mettre en ordre les autres théorèmes qui estoyent nécessaires à sa parfaicte intelligence. Il y a beaucoup d'autres choses que j'ay ainsi par la teste sans les avoir escrites encore, mais seulement calculées par lettres, comme sont les centres de gravitè de beaucoup de choses et entre autres de la sphère, du cercle, du Conoide hyperbolique, et de leurs segments; les tangentes, quadratures, et centres de gravitè de la parabole et des espaces contenus des courbes<note n="#1"/> dont vous escrivez au volume tresdocte de physicomathematique<note n="#2"/>, en la prefation des mechaniques<note n="#3"/>. Une autre démonstration de ce qui est contenu au livre d'Archimède, de sphaera et cylindro, et de Conoïdibus et sphaeroidibus; mais rien encor de ce qui concerne les centres de percussion, dont vous m'avez escrit par vostre derniere, pourtant je ne manqueray pas de faire tout ce que je pourray pour en trouver la
+démonstration, bienque jusques à cett'heure il me semble qu'elle surpasse de beaucoup la capacitè de mon esprit. De trouuer 100000000000 nombres, dont nul ne soit premier et qui se suivent immédiatement, c'est chose très difficile.</p>
+<p>Il y a une autre question en mesme matiere, qui est plus aisée, que je ne sçay pas resoudre pourtant, à sçavoir, Trouver un nombre premier qui soit plus grand qu'un nombre donnè comme 1000000, sans l'examiner pourtant par la division, car ainsi, il est bien aysè. C'est chose très certaine que s'il y a moyen de trouuer la solution de ces problèmes et d'une infinitè de semblables, que ce
+doit estre par l'aide de l'Algèbre par lettres, dont j'estime les vertus comme le bonheur d'estre</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur, <persName key="huyg003">Christian Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName>, le <date>23 Decembre 1646</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

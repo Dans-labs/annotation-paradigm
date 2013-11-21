@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1623"/>
+<meta type="date" value="1668-02-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1623">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 2 feburier 1668.</p>
+</div>
+<p>Je n'ay pas eu le loisir les 2 derniers jours d'ordinaire, de vous entretenir sur le sujet des Carioles ni de vous feliciter du bon succes de la vostre, que mon Pere dans sa derniere<note n="#1"/> vient de me confirmer. Le frere de Moggershill m'en avoit fait<note n="#2"/> douter en quelque sorte, la depeignant comme sujette a verser facilement; et parce que ma construction avec les flesches doubles<note n="#3"/> devoit avoir le mesme inconvenient je luy ay montrè<note n="#4"/> une autre maniere, par la quelle il pourroit estre corrigè en retenant pourtant les flesches doubles, qui assurement causeroient bien de la douceur; mais puis que vous dites en avoir suffisamment, je ne les considere plus tant pour cela que pour la seurtè a ne point verser. Je l'avois priè de vous monstrer ce que je luy en proposois, sur quoy j'attens vos avis, comme aussi touchant l'invention<note n="#5"/> que l'on m'a fait veoir pour faire rouler aisement les rouës, quoy que j'avoue que vous aurez de la peine a la bien comprendre par ce peu que j'en ay expliquè. Au reste vous me ferez fort grand plaisir de m'envoier les mesures et la figure de vostre machine avec les observations que vous avez faites, parce que je pourrois bien m'en <seg org="saire" resp="#AD" type="corr">faire</seg> faire une semblable vers le printemps, si entre cy et la je ne trouve rien de meilleur. Pour l'eloignement du cheval je ne puis pas comprendre que cela pourroit rendre la Cariole plus difficile a trainer, et je ne pense pas que les
+chartiers puisse<note n="#6"/> alleguer aucune raison de ce qu'ils soutienent.</p>
+<p>Ie vous recommande encore l'information touchant les Inventeurs<note n="#7"/> des Longitudes.</p>
+<p>Ie va faire imprimer l'Instruction que j'ay traduite en francois<note n="#8"/> pour l'usage de mes Pendules en cette affaire<note n="#9"/>, et parce que j'y ay aussi retouchè et corrigè quelque chose, je vous en envoieray 2 ou 3 Exemplaires, pour en donner a Monsieur de Gent<note n="#10"/>, si son voiage retarde encore quelque temps. L'on m'a dit que ces Interessez dans la dite invention font venir icy la machine qui doit faire le miracle, ce qui me fait croire, que ce sera aussi quelque horologe nouuelle.</p>
+</div>
+<div type="para">
+<p>Pour mon frere Louis.</p>
+</div>
+</body>
+</text>
+</TEI>

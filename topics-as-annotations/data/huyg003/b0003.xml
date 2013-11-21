@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0003b"/>
+<meta type="date" value="1643-06-18"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta resp="bio" type="recipientloc" value="buren001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0003">
+<div type="opener">
+<p>Perillustris Domine</p>
+</div>
+<p>Studium Gallicum satis pulchrè procedit. Constantinus, ut est promtissimae inter tuos tum industriae tum diligentiae, atque adeo, quod hîc tantum non primum puto, praesentissimi animi, jam Gallizat strennuè. In Graecis quoque laudabilem navavit operam: ne que Christianissimum fratrem excipio. quid multis? Gallo- Graecos à nobis Domino patri bonis avibus reduci olim dabimus. Sed de Gallici quidem studij ratione quid sentiam homullus ego non verebor dicere, si opinionis gratiam facis, humanissime Domine. sin, caussam non dico quin vel judicij vel erroris mei continuò dem poenas. Enimvero nimis quàm lentum negocium videtur triduana duntaxat opera magistri in totâ hebdomade et nae majore simul temporis simul laboris compendio proficiatur si quotidie adsit ille homo et dexteritate docendi abundans, et ocio quoque per absentiam videlicet discipulorum, qui, Germani ferè et nobiles Poloni, castra sequuntur. nam quod jusseras uti medio tempore, dum cessat magister, per se aliquid Gallicè legerent, scribillarent, garrirent denique, auribus profectò magis quàm animo doctissimi hujus linguae tijrones excepere. <hi rend="i">Ludovicus Doctor</hi>, peculiari titulo omnium quot sunt, qui fuere, doctissimus, statim à lectione quâ data porta ruit ad gallinarum suarum senatum populumque, et gallorum adeo patres conscriptos. Inde eum, tenacem propositi heroëm Attalicis condicionibus nunquam dimoveat nec Gallia nec ipse Hercules ille Gallicus, qui ab eloquentiâ celebratissimus est annalibus fabularum. Christianus vero, quem certè si ingenio metimur, miraculum penè pueri vocari debere fateor, et merito lubensque voco delicias domini, ad mechinica sua <hi rend="i">εὑρήματα</hi> et fabricas, et machinamenta, ingeniosa quidem illa, sed
+<hi rend="i">ἀπροσδιόνυσα</hi> usque devolvitur. atqui non exspectas tu, domine, neque desiderat respublica (in cujus spem ad patris exemplum natus est) ut fabricando faber fiat, sed Mercurius. In Constantini diligentiam peccem si accusem negligentiae aut nimiae remissionis; nisi quod in sphaeristerio suo frequentior desudat quàm vel usus sit fortasse, vel opus: sive ut clarius fabuler, quàm vel corporis conducat curae atque exercitio, vel bonis moribus. Non es docendus, domine, ceream in vitium flecti esse aetatem quae in flexu est, et paulo momento huc illuc impellitur. Neque nescis inconditos clamores, verba mixta, nuda, spurca, execrationes, et plusquàm septem, ut ita loquar, sacramenta, quae multi ganeones, damnosi, ac nepotes ibi effundere amant, ut quisque globus ictum minus fideliter aut ex sententiâ excepit, et ut quoque lusu vincuntur aut vincunt. neque verò haec eò à me dicuntur, quod fraudi velim esse voluptati non inhonestae quam ex sphaeristerio capit optimus elegantissimusque epheborum. sed quod existumen eum unam bonam horam melius aliquanto alibi quàm ibi locare posse, et quod à sextâ reliquae ad octavam duae lusui quoti [di]<note n="#2"/> ano sufficere videantur. Si placet autem diebus feriatis solidè ludi, et dari alterum <placeName key="voorb001">Voorburgo</placeName>, uti ferè fit, non intercedo auctoritati; sed reliquum sanè quatriduum illud hebdomadarum Gallico praeceptori legaverim, permissu superioris, amplissime domine. plura cripturiebam nisi vererer abuti ocio ac patientiâ vestrâ.</p>
+<div type="closer">
+<p>Incomparabili nomini tui humillimo servitio devotus
+<lb/><persName key="brun004">Henricus Bruno</persName>.</p>
+<p><placeName key="denha004">Hagae Com.</placeName> <date>XIV Kal. Jvlias CIƆIƆCXLIII</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

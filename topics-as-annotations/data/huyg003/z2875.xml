@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2875"/>
+<meta type="date" value="1694-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leipz001acta01"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leipz001"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2873"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2875">
+<div type="opener">
+<p>C.H.Z. Constructio universalis Problematis a Clarissimo Viro, <persName>Jo. Bernoulio</persName>, superiori anno mense Majo propositi.</p>
+</div>
+<p>Cum in <hi rend="i">Actis Lipsiensibus</hi> Constructionem hanc me reperisse significarem, mense Octobri A.<hi rend="sup">o</hi> 1693<note n="#3"/>, edenda tamen ea supersedi, quod futurum putabam, ut vel ab Auctore ipso vel Clar.<hi rend="sup">o</hi> Viro fratre ejus, vel alio quopiam, haud multum absimilis brevi in lucem prodiret, ac subverebar etiam ne actum agerem. Quoniam vero nusquam adhuc comparuit, &amp; est inter eas quae dari possint quodammodo
+<figure><graphic url="huyg003oeuv10ill218.gif"></graphic></figure>
+simplicissima; non videtur absque ea diutius relinquendum tam eximium problema. Est autem hujusmodi<note n="#4"/>. Sit in recta AB datum punctum A, et oporteat
+invenire curvam AFC ejusmodi ut tangens ejus quaevis CD abscindat ab recta AB portionem AD, quae ad ipsam CD habeat rationem datam lineae <hi rend="i">c</hi> ad <hi rend="i">b</hi>.</p>
+<p>Constructio: sicut <hi rend="i">c</hi> ad <hi rend="i">b</hi>, ita quaelibet AE in recta AB assumpta ad EF ipsi perpend. et per F punctum ponatur descripta Logarithmica quaecunque cujus asymptotos sit AB, ad quam descendat illa versus A. Deinde ab A versus E accepta distantia qualibet AD, sit ut <hi rend="i">c</hi> ad <hi rend="i">b</hi> hoc est ut AE ad EF, ita AD ad aliam DH et ea tanquam radio, et centro D describatur circuli circumfer. HC. ac praeterea applicetur ad Logarithmicam recta IG asymptoto perpendicularis, ipsique DH aequalis. Jam ut <hi rend="i">b</hi> ad duplum <hi rend="i">c</hi>; ita fiat IE ad EK, sumendam in asymptoto in partem alterutram, nihil enim refert<note n="#5"/>, et applicetur rursus ad logarithmicam recta KL; utque summa duarum KL, EF ad earum differentiam, ita sit DH ad DB; quae sumenda versus A punctum si AD major sit quam AE; at in contrariam, si minor. Jam recta BC ad asymptoton perpendicularis secabit circumferentiam HC in puncto C, quod erit in curva quaesita AFC. Tangit autem hanc rectam EF in F punctum.</p>
+<p>Est porro animadversione dignum, non simplicem esse curvaturam lineae hujus cum <hi rend="i">c</hi> major est quam <hi rend="i">b</hi>, sed ex duabus eam tunc componi, ex uno quodam puncto exeuntibus<note n="#6"/>, ut CFA, CM<note n="#7"/>. In puncto autem extremo C, recta ex A educta occurrit curvis AFC, CM ad angulos rectos<note n="#8"/>, ac proportionales sunt DA, DC, DB.</p>
+</div>
+</body>
+</text>
+</TEI>

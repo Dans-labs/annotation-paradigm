@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2089"/>
+<meta type="date" value="1676-03-03"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2089">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 22 Fevr. 1676.</p>
+<p>Monsieur,</p>
+</div>
+<p>J'espere, que vostre santé est remise, au moins, à vn tel degré que de pouuoir admettre Monsieur Bernhard<note n="#2"/>, le porteur de celle-cy, à vous saluër et demander l'honneur de vostre amitié, et de vous bailler vn petit present de la part de Monsieur Wallis, qui est son Archimedes <hi rend="i">ψαμμίτης</hi><note n="#3"/>, comme il l'a reconú, et esclairci de ses annotations. Ledit sieur Bernhard est, si ie ne me trompe fort, bon demonstrateur et Astronome; et sa province est la Profession Savilienne d'Astronomie à Oxford, de la quelle Université il a obtenu permission de faire vn voiage en France, pour faire conoissance auec des personnes de vostre merite. Je scay bien, Monsieur, que vous ne manquerez pas autant que vostre santé le permettra,
+de luy tesmoigner vostre humanité, dont i'espere, que vous ne vous repentirez point.</p>
+<p>C'est la persuasion de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la bibliotheque du roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0661"/>
+<meta type="date" value="1659-09-04"/>
+<meta type="sender" value="colv001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0661">
+<div type="opener">
+<p>Clarissime et Nobilissime Vir,</p>
+</div>
+<p>Accepi nuperimè systema saturnium tuum<note n="#1"/>, caeleste donum. super quo tibi et debeo et habeo summas gratias. idque adeò totus mundus tibi meritò debebit. cui
+revelâsti quae oculus non vidit. exteras regiones in terris scrutamur, easque quotidie inveniri, non ita mirandum. é coelo possemus videre totam terram. é terra videmus totum coelum. Homo solus immotis pedibus vertendo caput, totum conspicit horizontem. Rapit me subinde harmonia coelestis cum hisce terrestribus nostris. in coelo reperimus hominem, in homine coelum. quocirca conjungenda semper sunt studia astronomica et anatomica.
+Multa scripsit <persName key="kepl901">Keplerus</persName> de motibus Planetarum harmonicis<note n="#2"/>. sed illa tibi an placeant scire desydero. nimis operosé et sine tuis hypothesibus forsan laborat. Quicquid sit hae contemplationes coelestes, et suavissimi concentus nos ad Deum efficaciter
+trahunt. et revera Atheos hujus saeculi admodum fortes esse oportet, qui vim inferunt propriae conscientiae. soli isti ex Philosophis qui Astronomiam aspernati sunt, ex professo tales fuere. oculos et intellectum ad videndum non habent. Non à me super scriptis tuis judicium sed admirationem exspecta. Ego et telescopio et ingenio te superare deberem, si hoc praesumerem. Jam à te plura totus mundus et expectabit et postulabit. ita omnibus salivam movisti. Et quia mentionem dioptricis facis, iam et ea videre avemus. Vere nobiles dant quia dederunt. Et illis dare, qui reddere nihil possunt, quam gratiarum actiones, est apex liberalitatis. sic trahe nos, Praestantissime Hugeni, ad coelestia, et sequemur te eminus tanquam pedissequi. Ego iamdudum, senex sexaginta sex annorum, archetypa illa coelestia cernere desydero, et videre sub pedibus stellantia sydera. tunc haec terra, quam iam calcamus pedibus, nobis inster puncti vix apparebit. Vere magnus et laudabilis Deus qui habitat in coelis et respicit terram. Eum precor, ut serus in coelum redeas. et postquam nobis accurate tempora notaveris ingeniosissimis tuis horologiis, aeternitatis fias particeps. Saluto Nobilissimum Parentem, et ut me semper amet, rogo.
+Dominus <persName>Pagetius</persName><note n="#3"/> brevi tibi doctioresgratias acturus erit<note n="#4"/>. Vale vir Doctissime</p>
+<div type="closer">
+<p>Tuus omni officio et obsequio <persName key="colv001">Andreas Colvius</persName>.</p>
+<p><placeName key="dordr001">Dordraci</placeName> <date>4 Sept. 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer, Mijn Heer <persName key="huyg003">Christiaen Huijgens van Zulicom</persName>, etc. 's Graven-Hage.</p>
+</div>
+</body>
+</text>
+</TEI>

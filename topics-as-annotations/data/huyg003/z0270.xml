@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0270"/>
+<meta type="date" value="1656-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0270">
+<div type="opener">
+<p>A Monsieur <persName key="chap002">Chapelain</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Quand vous verrez le feuillet<note n="#2"/> que je prens la libertè de vous envoyer, vous vous souviendrez peut estre que c'est par vostre conseil qu'il paroist au jour.
+Vous avez creu qu'il importoit que je fisse part aux esprits curieux de ma nouvelle decouverte touchant la planete qui accompagne Saturne, et c'est au zele que vous avez pour l'avancement des belles sciences qu'ils seront redevables d'en estre adverti si tost: mon dessein ayant estè d'en differer la publication jusques à celle d'un autre ouvrage qui n'est pas encore parfait, et de me contenter cependant de la communiquer à ceux de mes amys, qui scavent gouster<note n="#3"/> des semblables nouvelles. J'ose vous charger de plus d'une exemplaire de ce billet, me promettant que comme vous avez contribuè à sa production, vous voudrez bien encore ayder à le debiter.
+En venant de vous l'on croira qu'il vaut la peine d'estre examinè, et vous estes capable de donner du lustre à cette nouvelle estoile. qui jusques à present n'en a pas d'avantage que celuij qui le premier la descouvrit, qui est</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Chr. Huygens de zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

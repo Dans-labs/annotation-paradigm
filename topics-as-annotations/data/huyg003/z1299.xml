@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1299"/>
+<meta type="date" value="1664"/>
+<meta type="sender" value="cass020"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1299">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Ie Vous attens à la Bibliotheque royale et comme peutestre n'y viendriez vous pas si je ne vous donnois cet auis I'ay cru vous le deuoir ecrire estant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp; tres obeissant seruiteur <persName key="cass020">Cassagnes</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulcon</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

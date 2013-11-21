@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2225"/>
+<meta type="date" value="1680-07-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2225">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 26 Juillet 1680.</p>
+</div>
+<p>Il y a un an ou d'avantage que je vous escrivis<note n="#1"/> touchant les desseins et tableaux que j'avois vus chez Mr. <persName>Quenelle</persName><note n="#2"/> dont il vouloit se defaire. Comme il sçait que vous estes grand amateur, il vient de m'apporter pour vous envoier, une copie de la liste qu'il a faite de tous ses desseins. Quoy que je ne voie point d'apparence que vous puissiez acheter tout cet amas, tant a cause de la somme de 800 louis d'or qu'il en demande que parce qu'on n'achete pas ces choses sans les avoir vues, je crois pourtant que vous serez bien aise de voir ce catalogue. Vous pourriez le communiquer a Monsieur de Berkestein<note n="#3"/>, Defflines et autres lief hebbers, si peut estre quelqu'un eust envie de venir voir ce cabinet ou de le faire visiter par des personnes capables. Ne manquez pas au moins de faire lire ce qu'il y a feuille 17<hi rend="sup">e</hi> au frere de St. Annelant, scavoir de ces 500 pieces d'architecture de le Potre<note n="#4"/>. M. Quenelle m'a tousjours dit qu'il vouloit vendre le tout a la fois, toutefois l'on pourroit peut estre l'obliger a changer de resolution en luy offrant raisonnablement pour quelque partie. Je vous prie de me faire response au plustost c'est a dire que je puisse l'avoir devant la fin du mois prochain, car vous verrez les raisons pour cela alleguées fol. 17 verso,
+mr. le Prince devant estre de retour dans ce temps. Je suis bien faschè de ce que je n'avois point encore connoissance de ce cabinet du temps que Mr. <persName>Defflines</persName> estoit icy<note n="#5"/>, car cela meritoit bien qu'il le vist,
+et il vous en auroit pu faire un fidelle raport. Si vous luy escrivez ou si en passant a Amsterdam vous le voiez, je vous prie de luy faire souvenir du cristal d'IJslande dont il m'avoit promis de s'informer et de m'en faire avoir si cela se pouvoit, un de ses amis à ce qu'il me dit faisant grand negoce en cette Isle.</p>
+</div>
+</body>
+</text>
+</TEI>

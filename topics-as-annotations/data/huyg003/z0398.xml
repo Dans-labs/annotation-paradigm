@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0398"/>
+<meta type="date" value="1657-07-31"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0398">
+<div type="opener">
+<p lang="la">Nobilissime Domine.</p>
+</div>
+<p>Eo mihi gratiores fuerunt tuae litterae, quo benigne redarguerunt <hi rend="i">ἀβλεψίαν</hi> in quam praecipiti festinatione incideram. Equidem repetitâ priorum tuarum lectione iam animaduerteram, quo nunc explicas modo intelligj posse, imo debere, quod scripseras, sed earum quae ad Te perscripsi cogitationum praeiuditijs abreptus, ad centra grauitatis planorum vel linearum facile deflexeram; praesertim cum centrum illud punctorum, cum quaesito puncto ex mea methodo nihil habere commercij videretur. Nunc vero quoniam idem esse pronuntias cum centro circulj Apollonianj,
+seriò Tibi gratulor Problematis in vno plano solutionem. Cum autem non ad quodlibet
+<figure><graphic url="huyg003oeuv02ill13.gif"></graphic></figure>
+plana eam extenderis, arbitror Te methodum a meâ diuersam sequi; cuius vt periculum faciam, in eodem plano, imo in eâdem rectâ, rogo vt ad calculos reuocare velis sequens eiusdem generis problema.</p>
+<p>Datis in eadem rectâ quotlibet punctis A, B, C, D, E, F, G, H. aliud vt I, reperire, a quo si ad puncta data ducantur rectae AI &amp;c. illarum simul quadrata, ad triangulum factum ab extremis AI, HI, et rectâ interceptâ AH, habeant minimam rationem.</p>
+<p><figure><graphic url="huyg003oeuv02ill14.gif"></graphic></figure></p>
+<p>Venio nunc ad ea quae mihi soluenda proposuistj. Ac primum quidem, quod facile etiam esse fateris, nullo negotio construitur: ductâ enim DE parallelâ AB et positâ EC aequalj BE, recta CDA abscindet triangulum ABC, omnium quae per D abscindj possunt minimum.</p>
+<p>Secundum, vt videtur, ea ratione difficilius esse censuisti, quod per plana solutionem non admittat. Arbitror autem Te ideo mihi propositum voluisse, vt periculum faceres num Problema de duabus medijs aliâ quam hactenus factum est, effectione construerem. Quod Tibi pollicerj audeo, Vir Clarissime, imo non tot a me <hi rend="i">ϰατασϰευὰς</hi> exiges, quin plures semper praestare possim. Boni
+<figure><graphic url="huyg003oeuv02ill15.gif"></graphic></figure>
+consules pro tua humanitate hanc <hi rend="i">ἀλαξονείαν</hi>, et methodo imputabis, quam reperisse mihi videor celebrè illud Problema indefinitis modis construendj. Redeo nunc ad tui effectionem. Ex puncto D dato cadant in latera normales DF DE facientes rectangulum DB, cuius centrum G; et per D transeat recta ADC ea conditione vt rectae GA, GC, sint aequales. Aio illam esse omnium quae per idem punctum transeuntes ad datas rectas terminantur, minimam. Vides me Heronis <hi rend="i">ϰατασϰευὴν</hi> secutum, vt huic Problemati aptiorem, in quam recidere Philonis et Apollonij rationes imo etiam Nicomedis non ignoras. Gratissimum mihi accidit quod Maggiotti <hi rend="i">τ<figure rend="inline"><graphic url="huyg003oeuv02fi01.gif"></graphic></figure> μαϰαρίτȣ</hi> opusculum Tibi placere intelligam, quocum saepe <hi rend="i">περὶ τῶν ὀχȣμένων</hi> ex Archimedis et Galilaei principijs philosophari Romae mihi contigit. fuerat enim huius vt <hi rend="i">συμπατ ριώτης</hi>, ita amicus ex intimis. Itaque non potuit non iucundum esse quod scribis, Te in ijsdem olim rebus calculos tuos exercuisse. Eramus autem in eadem tecum sententiâ Geometriam ad alias scientias referri debere vt iucundior evadat et vtilior. Eius interim fines quantum fieri potest promouendos; cum multâ nobis eâque subtilj Geometriae cognitione opus sit, vt illius opera scrutemur, quem <hi rend="i">ἀεὶ
+γεωμετ ρεῖν</hi> aiebat Plato. Ac cum infinita propemodum Theorematum et Problematum seges sit, in methodos incumbendum esse, quibus plurima generis eiusdem soluuntur, sed nae ego ineptus sum qui haec Tibi <hi rend="i">γεωμετ ριϰωτάτ ῳ</hi> edixeram. Nihil igitur addam amplius, nisi quod Te vnicè
+rogatum velim, vt Illustrissimum Dominum Parentem tuum quem saluum ac sospitem ad vos redijsse gaudeo, plurimâ a me salute impertias, et amare pergas</p>
+<div type="closer">
+<p>Tuum ex asse <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>Dabam <placeName key="luik_001">Leodij</placeName> <date>vlt<hi rend="sup">o</hi>. Julij 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>. A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

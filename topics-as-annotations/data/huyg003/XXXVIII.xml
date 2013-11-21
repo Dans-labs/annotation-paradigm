@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="XXXVIII"/>
+<meta type="date" value="1661-09-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="XXXVIII">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 30 Sept. 1661</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous remercie de la copie de la lettre de M. Frenicle<note n="#1"/> qui veut faire paroistre Saturne encore plus extravagant qu'il n'est en effect. Il semble n'avoir pas vû ce que j'ay escrit il y a longtemps a M. Chapelain<note n="#2"/> qui est comme luy membre de l'assemblee chez M. de Monmor, à sçavoir que j'avois aggrandi le diametre de l'anneau de Saturne, et le posois maintenant à celuy du globe du milieu comme 17 a 6 au lieu de 9 a 4: ce que les observations de cette année m'ont appris que je devois faire. Je vous l'ay escrit aussi<note n="#3"/>, et a M. Hevelius<note n="#4"/> et M. Bouilliaut<note n="#5"/> et ce ne sont pas seulement ces observations mais la raison mesme qui rend vraisemblable que je me sois trompè lorsque j'ay fait l'anneau si petit<note n="#6"/>. Car puis que je remarque que tant que les lunettes dont on regarde Saturne sont plus excellentes, tant les anses ou bras paroissent plus estendus a raison du globe (ainsi Riccioli a representè premierement la raison des dits diametres comme de 25 a 14, et puis apres comme de 27⅕ a 14<note n="#7"/>, mais Eustachio Divini comme de 31¼ à 14<note n="#8"/> je croy qu'assurement ces bras s'estendent encore
+d'avantage que nos meilleures lunettes les representent, qui ne sont pas encore arrivees a la derniere perfection. Or ce qui fait qu'avec des lunettes moindres les bras de ♄ paroissent racourcis, c'est la raison dont j'ay desia parlè dans mon systeme<note n="#9"/>, a scavoir que les objects lumineux tant qu'on les veoit de loin moins distinctement, tant plus ils semblent approcher à la figure ronde. La phase donc de ♄ qui a parue à Riccioli comme icy dans la 1<hi rend="sup">e</hi> figure<note n="#10"/>, et avec mes lunettes comme dans la 2<hi rend="sup">e</hi><note n="#11"/> ou les bras sont beaucoup plus longs, la mesme avec des lunettes de la derniere bontè se verroit avec des bras encore plus estendus comme dans la 3<hi rend="sup">e</hi>. Et la mesme difference se remarqueroit aux phases des anses plus ouvertes. J'ay escrit touchant cecy plus amplement en France a fin que [la] lettre soit monstree a M. Frenicle<note n="#12"/>.</p>
+<p>Je vous ay fait sçavoir par mes dernieres (que j'envoyay il ya 15 jours) mon sentiment touchant le livre de Linus<note n="#13"/>. Depuis j'ay receu la vostre du 13 Septembre<note n="#14"/> avec la refutation du Paralogisme de M. Hobbes<note n="#15"/> qui est tres exacte. Je vous prie d'en remercier de ma part Mil. Brouncker et de luy presenter mes tres humbles respects. M. Hobbes est environ aussi bon geometre que Jos. Scaliger<note n="#16"/>.</p>
+<p>L'on m'a apporté hier deux exemplaires bien reliez de la traduction du livre de Vacuo de M. Boile<note n="#17"/> a qui je rends graces et de ma part et de celle de mon Pere, car l'on me dist que l'un de deux estoit pour luy. Je suis bien aise qu'en fin ces belles observations sont en estat d'estre lües par tout. Je ne scay si parmi ce que M. Swan<note n="#18"/> m'apportera il y a son Chymiste sceptique dont m'escrit M. Oldenbourg et que je desire fort de veoir<note n="#19"/>.</p>
+<p>Je suis maintenant apres a faire construire une machine semblable a celle de M. Boile
+pour faire dans le vuide encore quelques experiences nouvelles, et avoir le plaisir d'essaier une partie de celles qui sont dans son livre.</p>
+<p>Lors qu'elle sera faite je vous feray scavoir ce que j'y ay apporté de changement car il faut veoir premierement comment cela reussira<note n="#20"/>.</p>
+<p>Ce que M. Oldenbourg m'escrit touchant les curiositez que l'on trouve chez M. Cervier a Lion est fort estrange, a scavoir de ces corps qui donnent mouvement a d'autres a la distance de 5 verges, et du quadrant qui marque le charactere de celuy qui le touche. Mais j'ay peur que tout cela ne soit de ces belles impostures<note n="#21"/>.</p>
+<p>L'horologe qui se meut sur un plan inclinè<note n="#22"/>, à ce que l'on m'a dit, a estè inventée a Strasbourg, et j'en ay eu une fois la description avec la figure. L'invention en est fort jolie, mais la justesse pas plus grande que des ouvrages ordinaires. Cet article est aussi pour respondre a M. Oldenbourg a qui je n'ay pas le temps maintenant d'escrire. Je luy baise les mains et a tous ceux de l'illustre assemblee, et suis autant qu'on le peut estre</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre tres humble et tres obeissant serviteur
+<lb/><persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

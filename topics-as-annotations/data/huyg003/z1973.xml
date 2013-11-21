@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1973"/>
+<meta type="date" value="1673-11-13"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1973">
+<p>ndes vacations on a
+<lb/>les dont ie prens la liberté
+<lb/>vne ye jointe; dont vous, Monsieur Sluse
+<lb/>faitez une grande partie<note n="#2"/>. Vous y trouuerez
+<lb/>d'un nouveau liure<note n="#3"/> de Monsieur Hobbes <hi rend="i">qui antiqu per obtinet</hi>. Monsieur Wallis nous donnera ses remarques lá dessus dans le iournal prochain<note n="#4"/>, si ie ne me trompe fort.</p>
+<p>Je vous envoiay au mois de Juin<note n="#5"/> quelque chose de la part de Mylord Brouncker touchant vostre livre, et au mois d'Aoust<note n="#6"/>, s'il me soubvient bien, ie vous dis de vous auoir envoyé le livre nouueau de Monsieur Boyle, de Effluviis etc. par vn certain Allemand, appellé Munchausen. Mais ie ne iamais sceu, si ces choses vous ont esté rendües ou non<note n="#7"/>; ny receu le livre que vous disiez auoir destiné á Mylord Brouncker<note n="#8"/>. J'espere, que vous me delivrerez de la peine que me donne la pensee de la perte de tout cela. Je suis sincerement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vtre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 3 Novembre 1673.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy à Paris.
+<lb/>50 β</p>
+</div>
+</body>
+</text>
+</TEI>

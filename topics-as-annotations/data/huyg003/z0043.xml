@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0043"/>
+<meta type="date" value="1648-02-13"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="rive002"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="breda001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0043">
+<div type="opener">
+<p>Monsieur.</p>
+</div>
+<p>Le S<hi rend="sup">r</hi> Renesse nous à donné une ample paraphrase du texte de vostre lettre qui le regarde, et se demesne aveq autant de chaleur a estre dechargé de l'oeconomie, qu'il en a employé à s'en faire accommoder, et nous sommes très-portez à le gratifier là dedans, mesines il s'est presenté quelque successeur d'apparence pour cest employ: mais nous desirons veoir au prealable tout nostre establissement reglé; qui ne tient plus qu'à la signature de S.A. Prince jeusne et bouillant pour les exercices; par où, dieu sçait, beaucoup de choses plus pressées se different de mauvaise grace. Il y a plus de trois mois, qu'il me promet ceste signature du soir au lendemain, et cependant le Greffier, qui n'est pas ny des plus expedits, ny des plus entendus amateurs des bonnes lettres, en doibt faire la depesche, qui, j'ose dire, sans moy, ne se trouveroit pas au point où je la luy ay transinise.</p>
+<p>J'escris au S<hi rend="sup">r</hi> Brosterhuysen<note n="#1"/> en des termes aussi aigres et pressans, que s'il n'est ladre desesperé il m'escouthera, et ad frugem redibit. Autre sermon y faij-je adjouster par la main de Monsieur <persName>Van Campen</persName><note n="#2"/>, son ancien amy, et bienfaicteur, qui, je m'asseure le testonne comme il fault. Par conclusion nous luy renonçons toute assistence et secours; s'il encourt la disgrace dont nous le menaçons et il scait bien qu'en tel cas il ne reste plus ressource ny refuge pour luy.</p>
+<p>Je pense qu'il sera bon qu'au nom de nous trois vcus en disiez autant au maistre des Armes, et qu'après très-forte reprimende vous le sauviez encore pour ceste fois. Jamais je ne l'eusse produict, si je l'eusse sceu ijvrogne, mais je n'en ay cognu que le bon, par une fréquentation souvent de 2. ou 3. sepmaines que je l'ay faict loger et travailler chez moy. Mes fils ne veulent pas le maintenir mais ne laissent pas de m'advertir, qu'après avoir ouij Renesse, il ne fault pas luy refuser audience aussi, pour avoir dit ijvre les choses que d'autres disent souvent à jeun.</p>
+<p>Il seroit à propos de luy interdire la boysson en sorte, que quand on l'en trouvera plus chargé, il sera chassé sans grace, quelque chose qu'il aijt faicte ou non faicte, et je le luy feray prescher par mes jeunes gens. J'escris tout cecy de mon chef, pour avoir plus tost faict seul, que consulter avecq mon collegue qui est aussi distraict que moy, et ne me desadvouera pas en chose de si peu. Je prie dieu de vous conserver à sa gloire en longue et vigoureuse santé, et demeure d'entière affection</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné serviteur
+<lb/><persName key="huyg001">C. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> le <date>13<hi rend="sup">e</hi> Febvr. 1648</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="rive002">Rivet</persName>, docteur en Théologie, Curat<hi rend="sup">r</hi> de l'Escole Illustre et Collège d'Orange
+<lb/>à Breda.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2843"/>
+<meta type="date" value="1694-01-18"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2843">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 18<hi rend="sup">e</hi> Janvier 1694.</p>
+</div>
+<p>Je suis si fort occupé Monsieur à cause de la mort de mr. le marquis d'autremonts, lieutenant general des provinces de bresse, bugey &amp;c. oncle de ma femme et dont elle herite que je n'ai pas un moment de loisir pour songer aux sciences. Il a laissé beaucoup de biens mais bien des affaires et des proces, et c'est ce qui ne me convient gueres, cependant il faut tacher d'en sortir. Je vois par vôtre lettre du 24 décembre que je n'avois point compris ce que vous me demandiez touchant la courbure de la voile puisque je croyois que vous supposiez le nombre des rectangles egaux infini et c'etoit seulement dans cette supposition que mr Bernoulli pretend que la courbure est la mesme que celle d'une chaisne, comme il n'etoit point question alors d'un nombre determiné de rectangles je ne scais point positivement sa pensée la dessus, mais autant que j'en puis juger par ses principes la courbure doit estre alors differente; je n'y vois mesme nul inconvenient, car il peut fort bien arriver que plus le nombre des rectangles est grand,
+plus aussi la courbure de la voile approche de celle de la chaisne, et qu'elle devient enfin la mesme lorsqu'il est infini<note n="#2"/>.</p>
+<p>J'ai ecrit expres à mr Bernoulli<note n="#3"/>, pour savoir quelle etoit sa pensée la-dessus, sans vous citer, mais comme de moi, je vous ferai savoir ce qu'il me mandera dans sa reponce.</p>
+<p>A l'egard des series pour parvenir aux quadratures, je vous enverrai au premier jour ma methode<note n="#4"/> par laquelle vous verrez que je n'en ai point de besoin et que j'arrive au but par une maniere bien plus naturelle. Mais il ne me sera pas aussi facile de vous satisfaire sur la 3<hi rend="sup">e</hi> maniere de mesurer la feuille de Descartes. Pour la demonstration elle est aisée, car si vous prenez la differentielle de la quantité que je vous ai envoyée<note n="#5"/> vous trouverez-<hi rend="i">udu</hi>√<hi rend="i">b</hi>-<hi rend="i">u</hi>/<hi rend="i">b</hi>+3<hi rend="sup"><hi rend="i">u</hi></hi> ce qui fait voir que cette quantité en est la somme et cela suffit pour la demonstration. Je vois bien que pour vous contenter il faudroit que je vous fisse voir le chemin que j'ai tenu pour parvenir à trouver cette somme, c'est ce que je ne puis faire dans une lettre parce que cela depend de plusieurs regles particulieres qui sont une suite les unes des autres et qui demanderoient un petit traité à part, mon dessein est de le faire quand j'auray le loisir, et je vous le communiquerai alors avec plaisir me trouvant heureux d'avoir quelque chose qui soit de vôtre goust, et à vous dire le vrai c'est ce qui m'avoit empesché jusqu'à présent de vous envoyer cette 3<hi rend="sup">e</hi> maniere me doutant bien de ce qui est arrivé.</p>
+<p>Je tascherai de voir Renaud afin de savoir son sentiment sur votre remarque, et je vous en ferai part, comme il est galant homme je ne doute point qu'il n'avouë sa méprise<note n="#6"/>.</p>
+<p>J'ai lû ce que vous me mandez de mr Leibnitz, et j'ai trouvé qu'il repondoit si peu au titre fastueux, qu'a peine ay-je eu la patience de le lire, car sa machine est si fort composée, et tellement embarassée qu'elle ne peut estre d'aucun usage dans la pratique, et de plus cela ne donne aucune vûe nouvelle pour l'inverse des tangentes, ce sont de ces gens qui veullent tout savoir et qui d'abort que les autres ont fait paroittre quelque chose de nouveau s'en veullent attribuer l'invention, ce n'est point du tout son inverse des tangentes que je vous demande, mais cest celle de Neuton qui est imprimée a la fin du traitté de vallis de algebra nouvellement traduite en latin<note n="#7"/>. Vous m'avez mandé autre fois<note n="#8"/> qu'on vous avoit promis de
+vous en envoyer une copie ecrite a la main. je suis parfaitement Monsieur vôtre tres humble et tres obeissant serviteur</p>
+<div type="closer">
+<p><persName key="hosp010">Le M. de l'Hospital</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

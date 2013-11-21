@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0271"/>
+<meta type="date" value="1656-03-15"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mylo002"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0271">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le <date>15 Mars 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je vous doibs encore des remerciments de ce qu'il vous à plu me faire part de l'observation de Monsieur <persName key="boul014">Bouillaut</persName> dont la conclusion est remarquable.
+Voycy la miene que je vous ay desia communiquée estant à Paris, et que l'Illustre Monsieur <persName key="chap002">Chapelain</persName><note n="#1"/> me conseilla de publier<note n="#2"/> de cette façon, en attendant que le traitè ou j'avois dessein de l'inserer fut achevè. J'y ay adjoustè quelque chose touchant la figure de Saturne, et une prediction du retour de ses bras ou anses, que le temps doibt verifier.
+La lunette de Monsieur <persName key="boul014">Bouillaut</persName> sans doubte pourra faire veoir ce qui en arrivera c'est pourquoy je vous prie de luy faire tenir au plustost un de ces feuillets.
+Vous en presenterez de mesme, s'il vous plait à <persName>Mademoiselle Periquet</persName>, avec mes treshumbles baisemains.
+Item a Monsieur <persName key="auzo011">Osou</persName><note n="#3"/> si vous le rencontrez.
+J'avois dessein de l'aller voir encore le mesme jour de mon depart, mais il me fut impossible.
+Monsieur <persName key="scho197">Schoten</persName> m'a monstrè une reigle de Monsieur <persName key="desc004">des Cartes</persName> pour trouver des nombres qu'on appelle <hi rend="i">amicabiles</hi><note n="#4"/> c'est a dire que reciproquement les parties aliquotes de l'un composent l'autre, ce qui m'a donnè occasion de m'appliquer un peu à cette recherche, si vous avez quelque semblable reigle parmy vos receuils vous m'obligeriez de me la communiquer.
+Et en cas que je la trouve differente de celle de <persName key="desc004">des Cartes</persName>, je vous envoyeray aussi la sienc.
+Ce que je ferois bien des à present si j'avois tant soit peu de loisir. Je suis</p>
+</div>
+</body>
+</text>
+</TEI>

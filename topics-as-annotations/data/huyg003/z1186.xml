@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1186"/>
+<meta type="date" value="1663-12-15"/>
+<meta type="sender" value="huyg003"/>
+<meta resp="HI" type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1186">
+<div type="opener">
+<p>Paris ce 15 Decembre 1663.</p>
+</div>
+<p>Je n'ay pas de temps pour vous escrire ny au frere de Zeelhem<note n="#1"/> ayant employè presque tout le jour avec Monsieur Petit<note n="#2"/>, à ajuster la machine du vuide de Monsieur de Montmor que dans quelques jours nous devons exhiber a Monsieur le Premier President. Toutefois il faut que je m'acquite de ce que le dit Sieur du Portail<note n="#3"/> m'a priè et dont il me persecute a toutes les fois qu'il me rencontre qui est de vous faire souuenir de luy faire avoir un certain livre<note n="#4"/> de Raimond<note n="#5"/> et quelques autres imprimez chez<note n="#6"/> parmy lesquels il souhaite celuy des amours d'Alcandre qu'on a publiè il y a quelque temps avec d'autres pieces curieuses<note n="#7"/>
+Je vous prie promettez que vous le contenterez ou dites moy ce que je doibs luy respondre.</p>
+<p>Vous aurez sceu du frere de Zeelhem<note n="#8"/> le bon succes de nos montres au voyage de Lisbone qu'ont fait les Anglois et je vous diray que j'ay trouuè encore un changement notable dans la construction des horologes a pendule qui le fera aller beaucoup plus juste qu'auparavant<note n="#9"/>. Monsieur Moray me mande une chose assez curieuse par sa derniere<note n="#10"/>, c'est qu'ils ont en leur Societé un diamant griseatre qui estant frottè sur du drap, reluit dans les tenebres par quelque temps, comme la pierre de Boulogne calcinée qu'on a mise au soleil<note n="#11"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

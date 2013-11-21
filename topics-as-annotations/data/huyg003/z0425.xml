@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0425"/>
+<meta type="date" value="1657-11-12"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hoorn001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0425">
+<lg type="poem">
+<l rend="; 2tab">Nobilissimo inter doctos,</l>
+<l rend="; 2tab">Doctissimo inter nobiles,</l>
+<l rend="; 2tab">Batavorum Archimedi,</l>
+<l rend="; 1tab">Iuveni verè supra laudem pariter atque invidiam evecto,</l>
+<l>Domino <persName key="huyg003">Christiano Hugenio</persName>, ac ne nihil, ut omnia dicam,</l>
+<l>Constantini magni filio, per omnia Patrissanti, S.P.D. <persName key="brun004">Henricus Bruno</persName>.</l>
+</lg>
+<p>Noli, quaeso, stomachari, quod facere jamdudum arbitrarer, nisi facilitatem tibi innatam, jam inde à teneris tuis perspectam haberem. multo minus inauditum indicta causa vel neglecti officij, vel nimium procrastinati properabis damnare. Neque lentum, mihi crede, nomen fui, cum hasce in titulum Belgicorum Poëmatum generalem meditationes statim ab acceptis tuis litteris, tantum non uno calore, sicut meus est mos, effuderim; neque malum, quod in liberali aliquot dies custodia domi eas habuerim, et jam demum carceres, quos mordebant, atque cancellos, patiar perfringere. Nimirum, cum volumen totius operis integrum penes amplissimum, ingeniosissimum, amicissimumque vander Burgium esse scripsisses,<note n="#1"/> cupido incesserat singulas partes, quà Belgicas, quà Latinas, Epigrammate brevi decorandas, perlustrandi. Sed neque per litteras, quas binas nescio, an ternas dedi neque per amicos, qui mihi, ex eo tempore frequentes adfuere Amstelodamenses, quibusque in mandatis dederam, ut ipsum meo nomine Heroa Van der Burgium compellarent, volumen illud, vel in dieculam aut alteram admodum commodato, uti petieram, hactenus impetravi. cum tamen expectaverim indies, imò in horas. Est et altera caussa morae, cujus si penes alium culpa est, penes me poena, vel te ipso aequissimo judice, esse non debeat. Est mihi longe amicissimus, patrisque vestri, ut par est, dignitatisque ejus ac famae studiosissimus, poëta et vir magnus, Janus Cools<note n="#2"/>; qui cum, quod doleo, jam a mensibus aliquot hinc abfuerit, individuus aliàs meus Achates, visus est mihi per litteras monendus, ut et ipse aliquid ad
+ornandum, quamvis omni praedicatione majorem parentem, ne <hi rend="i">ἀσύμβολος</hi> esset, conferre anniteretur. Sed neque carmen, neque responsum saltem, quod demiror, hactenus sum nactus. Si adfuissem ipsi praesens, me vide, gestijsset promittere. utrumne
+morbus, quod abominor, an alia eum detineant aut remorentur, me latet. Accipe interim et mea<note n="#3"/> haec qualiacunque, et summae spei adolescentis <persName key="nier006">H. Niropij</persName><note n="#4"/>, discipuli nuper mei, quem ut aliquid pangeret et ipse, fueram hortatus, epigrammata, vestrique sit judicij pariter atque arbitrij, et quantum nova illa Musarum gloria Hornanarum sub me magistro profecerit, et utrumne agmen eum inter clarorum virorum nomina, sub umbra praeceptoris claudere velitis<note n="#5"/>. Vale, et ama qui te colit,</p>
+<p>Tuum non Heroä, (Non sum qualis eram boni sub regno <persName>Hugenij</persName>) sed <persName key="brun004">Brunonem</persName>.</p>
+<div type="closer">
+<p><placeName key="hoorn001">Hornae</placeName> <date>12 Novembr. 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christ. Huygens</persName>, ten Huijse van sijn Heer Vader de Heer <persName key="huyg001">van Zuylichem</persName> etc.
+<lb/>Haghe. Port van Amsteldam.</p>
+</div>
+</body>
+</text>
+</TEI>

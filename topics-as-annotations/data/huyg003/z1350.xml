@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1350"/>
+<meta type="date" value="1665-03-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta resp="corpus" type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1350">
+<div type="opener">
+<p>a Mon Pere</p>
+<p>le 12 Mars.</p>
+</div>
+<p>Monsieur de Carcavy m'a rendu un service important. il paroit qu'il a du credit aupres de son Patron<note n="#1"/>. l'interposition du Et<note n="#2"/> ne me semble pas necessaire. dans le Privilege des Estats<note n="#3"/> mesme negligence<note n="#4"/>, mais s'il estoit besoin je le ferois redresser. pour s'en servir sur terre l'on pourra le admettre parce qu'aussi bien il ne s'en fera guere pour cet usage, puisque la justesse des Pendules ordinaires suffit et qu'ils coustent moins. J'en feray pourtant faire un pour Monsieur de Carcavi et je pense qu'il n'a pas dessein d'en paier beaucoup. Et aussi pour Monsieur Holles<note n="#5"/>. Sluse m'a communiquè il y a longtemps<note n="#6"/> son thermometre au quel il n'y a que cette imperfection qu'il n'est pas sensible des soudains changements. J'escriray a Carcavi<note n="#7"/> l'autre semaine. demain a Amsterdam.
+Escriray le remerciment a Monsieur <persName key="colb012">Colbert</persName><note n="#8"/> et au Roy<note n="#9"/> quoyque je ne connoisse guere ce stile de telles depesches.</p>
+</div>
+</body>
+</text>
+</TEI>

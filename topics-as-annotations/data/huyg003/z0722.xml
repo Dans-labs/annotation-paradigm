@@ -1,0 +1,40 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0722"/>
+<meta type="date" value="1660-02-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="carc010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0722">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Perpetuum mobile. Pascalin. Horologe de Monsieur de Boismorand.</p>
+</div>
+<div type="opener">
+<p><date>26 feb. 1660</date>.</p>
+<p><persName key="carc010">Carcavy</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>Depuis que j'ay receu vostre derniere<note n="#1"/> qui a estè au mois de Decembre, j'ay escrit a Monsieur Wallis<note n="#2"/> mon correspondant en Angleterre, sur le suject des Livres de Monsieur d'Etonville<note n="#3"/>, et en attendant tousjours sa response pour vous pouuoir satisfaire, je suis demeurè plus long temps qu'il ne faloit a vous en faire moymesme, de quoy je vous demande pardon. Je ne puis deviner la raison pourquoy il ne m'escrit point depuis tant de mois, scachant bien pourtant que les dits livres avec ceux<note n="#4"/> de Monsieur Sluse et depuis encore ceux de mon Systeme<note n="#5"/> ont estè delivrez au libraire a Londres<note n="#6"/> a qui j'addresse tous mes pacquets. Peut estre que les siens se sont esgarez. Je luy escriray encore une fois<note n="#7"/> et lorsqu'il me viendra response<note n="#8"/> je ne manqueray pas de vous en faire part.</p>
+<p>Je vous remercie beaucoup des extraits qu'il vous a pleu m'envoyer des lettres
+de Monsieur de Fermat<note n="#9"/>. Pource qui est de la demonstration de la spirale et parabole, je vous ay escrit que j'y trouuois de la difficultè<note n="#10"/>, et que Monsieur Sluse non plus que moy ne la pouuoit resoudre, c'est a dire que selon nostre jugement il y avoit de la faute en cette demonstration, comme il y en a en effect. Mais j'ay bien veu d'abbord qu'en la changeant, l'on y pouuoit remedier. Et voicy comme je l'avois concüe, en gardant de plus pres ce me semble l'intention de Monsieur Dettonville que n'a fait Monsieur de Fermat<note n="#11"/>. Si elles ne sont pas egales, soit X la difference et soit Z la cinquiesme partie de X, et soient inscrites et circonscrites les figures ainsi que dit l'autheur.</p>
+<p>Maintenant puis que la difference entre l'inscrite en la spirale et l'inscrite en la parabole est moindre que Z: et que aussi la difference entre l'inscrite en la parabole et la circonscrite a la mesme parabole est moindre que Z; donc la difference entre l'inscrite en la spirale et la circonscrite a la parabole est moindre que deux Z. mais la difference entre la circonscrite a la parabole et la circonscrite a la spirale est aussi moindre que Z; donc la difference entre l'inscrite a la spirale et la circonscrite a la mesme spirale est moindre que 3 Z. Et a plus forte raison la difference entre la spirale mesme et le tour de sa figure inscrite sera moindre que 3 Z. Mais la difference entre l'inscrite en la spirale, et l'inscrite en la parabole est moindre que Z, donc la difference entre la spirale et l'inscrite en la parabole sera moindre que 4 Z. Enfin la difference entre l'inscrite en la parabole et la parabole mesme est aussi moindre que Z. donc la difference de la spirale et de la parabole sera moindre que 5 Z, c'est a dire que X, contre la supposition &amp;c.</p>
+<p>La comparaison des autres sortes de spirales avec les lignes paraboloides que donne Monsieur de Fermat est veritable<note n="#12"/>, mais non pas fort difficile a trouuer apres que la premiere est connüe. Et je m'estonne qu'il prend plaisir a inventer des lignes nouuelles, qui n'ont pas autrement des proprietez dignes de consideration.</p>
+<p>Les propositions touchant les surfaces des Conoides et Sphaeroides comme aussi de la ligne parabolique sont les mesmes que je vous ay cydevant communiquees<note n="#13"/>, et à plusieurs autres de mes amis. Je croy bien pourtant que Monsieur de Fermat n'en avoit veu aucune puis qu'il l'assure, mais d'autres peut estre seront plus incredules, si en les donnant au public il n'allegue celuy a qui il les aie fait veoir auparavant. La mesure de la superficie du conoide que fait la parabole autour de l'appliquée la quelle il promet en supposant la quadrature de l'hyperbole sera quelque chose de nouueau si elle est vraye.</p>
+<p>Vous m'auriez fait grand plaisir si lors que Monsieur de Boismorand vous parla de son horologe à pendule, vous l'eussiez demandè plus particulierement de quelle façon ce pendule est appliquè, et s'il fait un bon effect. Il y a de l'apparence que non, parce qu'il n'auroit pas ainsi laissè se perdre une invention qu'il eust jugè utile. C'est une chose estrange que personne devant moy n'ait parlè de ces horologes, et qu'a cette heure il s'en decouvre tant d'autres autheurs. J'espere de vous faire voir bien tost ce que j'y ay adjoustè de nouueau qu' est une invention que les Geometres estimeront infiniment plus que tout le reste de la fabrique.</p>
+<p>Celle de la machine de Monsieur Pascal pour supputer, que l'on m'a envoyèe de Paris, est certainement digne d'admiration, et contient plusieurs belles pensees. Je luy en escriray bientost puis que j'apprens qu'il commence a se porter mieux. Mais toutes nos inventions Monsieur vont estre peu considerables si celle de l'Allemand <persName>Johannes Joachimus Becherus</persName> s'effectue, ou s'il ne nous trompe pas, car il m'a assurè, m'ayant estè veoir icy, qu'il a construit un mouuement perpetuel<note n="#14"/> a Mayence, qui continue d'aller depuis six mois. Et hier il m'en envoya les figures qu'il a fait graver en deux grandes planches à Amsterdam. L'on ne peut pas pourtant comprendre le secret de l'invention par ces figures, devant que de voir la description qu'il en promet, ayant par tout adjoustè de lettres et des nombres. Seulement l'inscription tient, et l'on le voit a peu pres, que l'une des machines (car il a deux inventions diverses du perpetuum mobile) est purement mechanique et l'autre physico-mechanique. Pour celle cy la chose ne me paroit pas tout a fait impossible. mais de l'autre j'advoue qu'elle passe ma croyance.</p>
+<p>Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble &amp;c.</p>
+</div>
+<p>Le livre de Monsieur de Wit<note n="#15"/> n'est pas encore achevè d'imprimer. Celuy de Wallis<note n="#16"/> que vous desirez de veoir ne se trouue pas icy chez les libraires, mais à la premiere occasion qui s'offre je vous envoyeray mon Exemplaire. et seray tousjours.</p>
+</div>
+</body>
+</text>
+</TEI>

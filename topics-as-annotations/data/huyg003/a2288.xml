@@ -1,0 +1,106 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2288a"/>
+<meta type="date" value="1682-09"/>
+<meta type="sender" value="flam009"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2288"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a2288">
+<p>Distantiae Cometae à Fixis, Sextante Telescopio Grenouici obseruatae Die ☾<hi rend="sup">ae</hi> Sept: 4 St: Vet: a <persName key="flam009">Joh Flamsteedio</persName> Mathematico Regio.</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>Hor. 1.</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell></cell>
+<cell>7. 13.</cell>
+<cell>Cometae Caput à Yed Ophiuchi</cell>
+<cell>31<hi rend="sup">o</hi>. 27′. 30″.</cell></row>
+<row>
+<cell></cell>
+<cell>15⅓</cell>
+<cell>Eadem Dist: repet:</cell>
+<cell>31<hi rend="sup">o</hi>. 27′. 25″.</cell></row>
+<row>
+<cell>Hanc ipsemet vidi dum Grenouici agerem, quo Flamsteedio alloquendum adieram.</cell>
+<cell>21½</cell>
+<cell>Cometae Caput à Lucida Coronae</cell>
+<cell>33<hi rend="sup">o</hi>. 34′. 05″.</cell></row>
+<row>
+<cell></cell>
+<cell>23½</cell>
+<cell>Eadem dist. repet:</cell>
+<cell>33<hi rend="sup">o</hi>. 34′. 00″.</cell></row>
+<row>
+<cell></cell>
+<cell>27⅓</cell>
+<cell>Comet: à Yed Ophiuchi iterum</cell>
+<cell>31<hi rend="sup">o</hi>. 34′. 15″.</cell></row>
+<row>
+<cell></cell>
+<cell>29¼</cell>
+<cell>repet</cell>
+<cell>31<hi rend="sup">o</hi>. 26′. 10″.</cell></row>
+<row>
+<cell cols="2"></cell>
+<cell>Lucida Coronae à Yed Ophiuchi</cell>
+<cell>31<hi rend="sup">o</hi>. 52′. 50″.</cell></row>
+</table></p>
+<p>Cometes hic nobis Grenouici primum visus die 15 mensis instantis, quem tamen impedientibus valetudine, nubibus, procellis, pluvia, ante diem, 19, observare non potui, loca ejus ab observatis postea distantijs sic se habent.</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>Die. Hor. 1</cell>
+<cell cols="2"></cell></row>
+<row>
+<cell>Augusti.</cell>
+<cell>19. 16. 38</cell>
+<cell>Longitudo ♌ 18<hi rend="sup">o</hi>. 14⅔</cell>
+<cell>Latitudo Borea: 25<hi rend="sup">o</hi>. 50′.</cell></row>
+<row>
+<cell></cell>
+<cell>20. 15. 38</cell>
+<cell>Longitudo ♌ 24<hi rend="sup">o</hi>. 46⅓</cell>
+<cell>Latitudo Borea: 26<hi rend="sup">o</hi>. 11½.′</cell></row>
+<row>
+<cell></cell>
+<cell>21. 8. 21</cell>
+<cell>Longitudo ♌ 29<hi rend="sup">o</hi>. 38</cell>
+<cell>Latitudo Borea: 26<hi rend="sup">o</hi>. 17⅔′.</cell></row>
+<row>
+<cell></cell>
+<cell>22. 8. 8</cell>
+<cell>Longitudo ♍ 6<hi rend="sup">o</hi>. 30</cell>
+<cell>Latitudo Borea: 26<hi rend="sup">o</hi>. 7½′.</cell></row>
+<row>
+<cell></cell>
+<cell>29. 8. 20</cell>
+<cell>Longitudo ♎ 12<hi rend="sup">o</hi>. 37⅚</cell>
+<cell>Latitudo Borea: 18<hi rend="sup">o</hi>. 34′.</cell></row>
+<row>
+<cell></cell>
+<cell>30. 7. 45</cell>
+<cell>Longitudo ♎ 15<hi rend="sup">o</hi>. 36⅙</cell>
+<cell>Latitudo Borea: 17<hi rend="sup">o</hi>. 19⅖′.</cell></row>
+<row>
+<cell>Septemb.</cell>
+<cell>1. 7. 33</cell>
+<cell>Longitudo ♎ 20<hi rend="sup">o</hi>. 27</cell>
+<cell>Latitudo Borea: 15<hi rend="sup">o</hi>. 9⅚′.</cell></row>
+</table></p>
+<p>Fixarum loca a proprijs observationibus in loco Cometae supputando adhibui.</p>
+<div type="closer">
+<p><persName key="flam009">J. Flamsteedius</persName>.</p>
+<p>Ex observatorio Septembris 4. 168<note n="#1"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

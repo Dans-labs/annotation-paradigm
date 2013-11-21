@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2680"/>
+<meta type="date" value="1691-05-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2680">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce 5 Maj. 1691.</p>
+</div>
+<p>J'ay reconnu qu'il est vray ce que vous me mandez de vos courbes qui satisfont a la mesme construction de soutangente, et je tombe d'accord que la chose est possible. Je devois bien avoir remarquè qu'il y a du moins trois courbes qui satisfont a une soutangente sans racine, sçavoir une sans quantitè connue, une autre avec une telle quantitè affirmative et la troisieme avec une negative. Mais comme vous vous estes servi du mot de plusieurs, il semble que ce nombre de trois courbes ne vous borne point, du moins dans les soutangentes avec racine. Mr. <persName key="duil010">Fatio</persName> au reste, voiant combien le probleme renversè des Tangentes est important dans ce cas où il y entre des racines composées dans la soutangente donnée, et y aiant, comme je crois, trouvè plus de difficultè qu'il n'avoit pensè, veut bien que l'echange<note n="#3"/> se fasse de vostre methode en cela, contre la siene, dont il a resolu mes problemes des soutangentes et plusieurs autres, ainsi que vous l'aviez souhaitè, de sorte, Monsieur, qu'il ne tiendra qu'a vous que le traitè s'execute, duquel je seray garand, et si tost que j'auray receu l'exposition de vostre methode, je vous feray avoir celle de Mr. <persName key="duil010">Fatio</persName>, qui en veritè est tres belle. Je vous prie d'estre clair en ce que vous nous donnerez, et de ne pas supposer que nous entendions vostre <hi rend="i">calculus differentialis</hi>.</p>
+<p>Je vous prie d'envoier la lettre cy jointe<note n="#4"/> à Messieurs les autheurs des <hi rend="i">Acta</hi> de Leipsich. Elle contient le resultat de mes meditations sur la Chaine, et je vous l'envoie fermée expres, croiant que vous ne voudriez pas voir mes decouvertes devant que d'avoir envoiè les vostres, ainsi que vous l'avez tesmoignè a l'egard de celles de Mr. <persName>Bernoully</persName>, que si vous les avez desia envoiées, vous verrez les mienes
+dans peu avec toutes les autres. Je ne crois pas, en considerant ce que vous m'avez mandè cy devant, que j'aye rien trouvè touchant ce probleme que vous n'ayez de mesme.</p>
+<p>Je ne vois pas qu'on puisse accorder sa proposition pag. 105 à Mr. <persName key="newt011">Newton</persName>, parceque ne considerant aucunement la nature de ce qu'il appelle Ovale, mais seulement que c'est une ligne fermée tout au tour, il n'exclud pas mesme le quarrè ou le triangle.</p>
+<p>J'ay vu autrefois le traitè de Hooke touchant le ressort, et j'y ay remarquè quelque paralogisme, que je pourrois trouver parmi mes papiers<note n="#5"/>. L'experience principale qu'on a faite est que lors que les forces, dont un Ressort est comprimè, sont accrues d'accessions egales, aussi les espaces de son etendue diminuent egalement. Ce que l'on voit bien precisement observè quand les compressions sont legeres, et ne violentent pas le ressort jusqu'au bout. Mais dans le ressort de l'air la proportion reussit tousjours parfaitement, dont il y a des experiences dans les livres de Mr. <persName key="boyl001">Boyle</persName><note n="#6"/>.</p>
+<p>Pour ce qui est de la declinaison de l'aiguille aimantée, ce qui me persuade plus qu'autre chose qu'on n'y sçaurait trouver de regle, c'est que je sçay qu'il y en a eu qui s'en sont enquis par beaucoup d'experiences, esperant de parvenir par ce moien au secret des Longitudes, mais sans succes.</p>
+<p>J'ay escrit a mon frere en Angleterre<note n="#7"/> touchant la recherche des Archives que vous demandez, quoyque je doute s'il trouvera des gens qui s'en veuillent donner la peine parmy cette nation assez paresseuse.</p>
+<p>Je suis extremement faschè de vostre incommoditè aux yeux<note n="#8"/>, qui fait que je vous demande avec scrupule la response a cellecy, et cependant je seray fort aise d'apprendre si vous demeurez d'accord du trocq que je vous ay proposè. Je suis de tout mon coeur etc.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2037"/>
+<meta type="date" value="1675-07-01"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2037">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 21 juin 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>Je receus hier vostre montre par la main de Sigr. Dominique, et Mylord Brouncker me venant voir deux ou trois heures apres, ie la luy baillay en main propre. Il vous saluë bien-humblement et vous rends graces de ce que vous auez pris tant de soin pour luy accorder son desir. Il vous prie tres-instamment de luy vouloir mander ce que la montre couste, et à qui il doit payer ici l'argent; vous promettant, qu'apres l'auoir essayée il vous en rendra conte auec vne entiere impartialité, ne souhaitant rien autre sinon que chacun aye ce qui luy sera dû. Le Sr. Dominique me parla d'une lettre que vous luy auiez donnée pour moy<note n="#1"/>, mais qu'il l'auoit mise dans son coffre qui n'estoit pas encor arrivé. J'espere, que ie trouueray la dedans ce que Mylord Brouncker desire de scauoir, c'est à dire, les despens que vous auez faits pour ladite montre.</p>
+<p>Quant à celle de M. Hook, elle nous est encor cachée, le roy seul l'a veuë, et ne la fera point publique, que le privilege n'en soit expedié. C'est vn homme, qui est d'une humeur toute particuliere, laquelle il faut souffrir auec tant plus de patience, parce qu'il a vne grande fecondité d'esprit pour inventer des choses nouvelles. <hi rend="i">Nullum magnum ingenium sine etc.</hi><note n="#2"/>.</p>
+<p>Dans peu de temps sera publique l'Anatomie des Plantes<note n="#3"/> de Signor <persName key="malp001">Malpighi</persName><note n="#4"/>, et Monsieur le Docteur Grew<note n="#5"/> le suivra bien tost, en faisant imprimer quelques discours sur la mesme matiere<note n="#6"/>, qui confirmeront les descouvertes de Malpighi, et y adjouteront quelques particularités du sien, si ie ne me trompe.</p>
+<p>Monsieur Boyle, qui vous fait ses humbles baisemains, fait aussi imprimer quelque chose de nouveau, qui ne vous desplaira point, que ie croy, qui suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tressobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

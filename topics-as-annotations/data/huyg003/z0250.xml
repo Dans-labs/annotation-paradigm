@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0250"/>
+<meta type="date" value="1655-11-30"/>
+<meta type="sender" value="conr031"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0250">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName>, le <date>dernier novembre 1655</date>.</p>
+<p>Monsieur,</p>
+</div>
+<p>C'est en vostre civilité, &amp; en celle de Messieurs vos sils, qu'il y a de l'excés, &amp; non pas en celle que j'ay essayé de leur rendre, pendant le sejour qu'ils ont fait jcy.
+Il seroit difficile de leur en témoigner d'égale à vostre mérite, &amp; au leur; mais outre cette difficulté générale, j'ay eû le malheur d'estre toûjours absent, ou malade; &amp; vous savez que ce sont deux obstacles fort grans, pour rendre des devoirs de la nature de ceux que vostre amitié &amp; leur propre vertu exigeoyent de moy, en cette rencontre. Ainsi, Monsieur, vous m'eussiez fait assez de grace de me pardonner ce que je n'ay pû faire, sans me remercier du peu que j'ay fait. Ils m'ont fait l'honneur de me venir voir en ma retraite champestre; mais sans me faire celuy de m'en avertir auparavant: de sorte que cette surprise, &amp; le mauvais estat où ils me trouvérent, m'empeschérent de les recevoir comme je devois, &amp; comme j'eusse bien voulu. Mais après vous avoir fait ces pleintes d'eux, pour ce qui me regarde, il est juste que je vous apprenne ce que leur modestie les obligera de vous taire: C'est que dans le peu de temps qu'ils ont esté jcy, ils y ont aquis l'estime de la pluspart des Personnes les plus renommées pour la Vertu, &amp; pour le Savoir, &amp; qu'ils y laissent vne si bonne réputation, qu'aucun de ceux qui ont eû l'honneur de les connoistre, n'a manqué à les presser d'y faire vn plus long sejour. Peut-estre que leur jnclination ne s'en fust pas éloignée, s'ils n'eussent appréhendé de vous déplaire; mais ils ont préféré l'obeïssance qu'ils vous doivent, au contentement de leurs amis, &amp; à leur propre satisfaction. J'eusse souhaité que vous leur eussiez permis de passer l'hyver en cette Cour, où elle a accoustumé d'estre plus grosse, &amp; plus belle, qu'en toute autre saison. Si vous m'en croyez, &amp; si vous les en croyez eux-mesmes, vous leur y ferez faire vn second voyage; &amp; j'ose
+vous promettre que vous &amp; eux n'en aurez point de regret. Pour moy, Monsieur, Je le desire avec vne passion extréme, sur l'espérance que j'ay d'estre plus en estat de leur témoigner combien je les honnore, &amp; combien je suis,</p>
+<div type="closer">
+<p>Monsieur, Vostre treshumble, &amp; tresobeïssant serviteur, <persName key="conr031">Conrart</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg001">Huygens</persName>, Seigneur de Zulichem, A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

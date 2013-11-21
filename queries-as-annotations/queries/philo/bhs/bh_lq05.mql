@@ -1,0 +1,27 @@
+// This query addresses the phenomenon that demonstratives and
+// sometimes the article introduce relative clauses in Hebrew
+// (Gesenius-Kautzsch 138g-k). It searches for clauses that begin with
+// a demonstrative pronoun or article followed by a finite verb form.
+
+// ident @(#)lq05.mql	1.1 04/02/24
+
+/*
+<metadata>
+<meta type="research_question">demonstratives and sometimes the article introduce relative clauses in Hebrew (Gesenius-Kautzsch 138g-k)</meta> 
+<meta type="researcher" value="WIVU"/>
+<meta type="date_created" value="2004-02-24"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">It searches for clauses that begin with a demonstrative pronoun or article followed by a finite verb form.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+select all objects where
+
+[clause
+   [word FOCUS first (part_of_speech = pronoun and pronoun_type = demonstrative) or part_of_speech = article]
+   [word FOCUS part_of_speech = verb and paradigmatic_nominal_ending = 'Not_applicable']
+]
+
+go

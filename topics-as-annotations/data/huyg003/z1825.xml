@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1825"/>
+<meta type="date" value="1671-04-07"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1825">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 28 Mars 1671.</p>
+<p>Monsieur,</p>
+</div>
+<p>Il n'y a que peu de iours, que ie baillay à vn certain Monsieur Kempe<note n="#1"/>, de Koningsberg, vn petit pacquet pour vous, ou il y auoit le Nomb. 67. des Transactions<note n="#2"/>. Dans ma lettre, qui l'accompagnoit<note n="#3"/>, ie vous promis de vous envoyer, par vne autre commodité, vn petit discours de Monsieur Boyle touchant l'admirable Rarefaction de l'Air<note n="#4"/>; de la quelle promesse ie m'acquitte presentement, auec les baisemains de son Autheur. La personne, qui vous porte cecy, est de Bremen, dont le principal estude est le Droit civil, mais qui auec cela aime fort la moderne maniere de philosopher, quoy qu'il n'y ait fait que des petits commencements. Il a passe son hyver icy, apprenant l'Anglois, et s'informant de l'Estat du pais, et faisant estat de passer de la Hollande (où il auoit estudié au Droit l'espace de 3. ou 4. ans) en France, pour s'y rendre maistre de cete langue là, et pour voir le beau monde. C'est vn tres honeste homme et de grande industrie, fidelle au dernier point en des choses, dont on le charge. S'il vous peut servir dans son
+chemin, ou à Paris, vous n'auez qu'à le luy commander franchement; il s'en acquitera, au possible, à vostre satisfaction.</p>
+<p>Au reste; il faut que ie vous fasse scauoir, que i'ay receu depuis peu de Mayence la moitié d'vn petit traité, fait par Monsieur Leibnitz, Conseiller de cet Electeur là, qui porte le titre;</p>
+<p>‘Hypothesis Physica Nova; quâ Phaenomenûm Naturae plaerorumque Causae ab vnico quodam Universali motu, in Globo nostro supposito, neque <persName>Tychonicis</persName> neque <persName>Copernicanis</persName> aspernando, repetuntur<note n="#5"/>.’</p>
+<p>Il a dedié ce discours à la Societe Royale, qui le fera examiner par quelques vns de ses membres<note n="#6"/>. Il ne semble pas vn Esprit du commun, mais qui ait esplusché ce que les grands hommes, anciens et modernes ont commenté sur la Nature, et trouvant bien de difficultez qui restent, travaillé d'y satisfaire. Je ne vous scaurois pas dire comment il y ait reussi; i'oseray pourtant affirmer, que ses pensees meritent d'estre considerées. Entre autres choses il fait des Reflexions sur les Regles du mouuement, comme elles ont esté posées par vous et Monsieur Wren; dont ie vous donneray cet eschantillon;</p>
+<p><hi rend="i">Supersunt nonnulla etiam in motibus vulgaribus phaenomena, primâ specie contemnenda, at solutu difficilia, si acutius introspicias. E.g. Cur Dura duris impacta resiliant; cur quaedam Flexa se tantâ vi restituant; cur, si Ingeniosissimorum virorum Hugenij Wrennique Experimenta vniversalia sunt, corpus impactum quiescenti, quasi permutatione factâ, ipsum in ejus loco consistat, motum verò suum in alterum transferat: Talia enim, et multa alia id genus, abstractis motuum rationibus</hi> (<hi rend="i">nisi Globi nostri Oeconomia accedit</hi>) <hi rend="i">consentanea non sunt</hi>.</p>
+<p>Et dans vne autre place: <hi rend="i">Hugenii Wrennique Phaenomena</hi>, <hi rend="i">si comperta sunt</hi>, <hi rend="i">causam eorum ex Hypothesi mea reddere</hi>, <hi rend="i">difficile non est</hi>. Car il semble de juger que ny vous ny Monsieur Wren ayez assigné les causes de ces Phaenomenes, que vous auez considerez en establissant vos regles. C'est à vous astheur, d'en juger, et de bien examiner les meditations de ce nouveau Philosophe. Il vous sera facile d'en faire venir de Mayence, si vostre santé le permet de vous appliquer à ces estudes là, dont ie souhaite fort l'entier accomplissement, comme</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant serviteur
+<lb/><persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> á la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

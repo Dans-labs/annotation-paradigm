@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0782"/>
+<meta type="date" value="1660-10-01"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="dati010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0782">
+<div type="opener">
+<p>Viro Clarissimo <persName key="dati010">Carolo Dati</persName> <persName key="hein009">Nicolavs Heinsivs</persName> S.P.D.</p>
+</div>
+<p>Ad omnes Tuas, Vir clarissime, quatuor, nisi fallor, fuerunt, iampridem respondi, ac Hugenii nostri epistolam<note n="#1"/> Serenissimo Principi Leopoldo tradendam misi. Nunc cum pluribus Tecum agere velim, interventus amicorum, &amp; tabellarii discessus me circumveniunt. Itaque differre scriptionem, quam Tibi copiosissimam parabam, cogor. Hugenius responsionem suam una cum adversarii libello typis commisit<note n="#2"/>. Suae responsionis<note n="#3"/> exemplar ad Serenissimum Principem hic mittit<note n="#4"/>; de adversarii libello nihil necesse fuit, nisi Te superfluis expensis onerare vellet. Ipse in procintu stat, Gallias aditurus cum Oratoribus nostris, hibernaturus Lutetiae. Cum Marucellio<note n="#5"/> ut familiaritatem contraheret, auctor illi fui, idque se facturum spopondit. Sex iam sunt hebdomades, quod ad Te scripsi, &amp; postea scriptionem iteravi: nunc tertium scribo. Hoc volebam nescius ne esses. Vale, meum ac Musarum decus.</p>
+<div type="closer">
+<p>Dabam praecipiti manu. <placeName key="denha004">Hagae Comitis</placeName> <hi rend="sc">mdclx</hi>. primo die Octobris.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,53 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0895"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="hobb001"/>
+<meta type="recipient" value="kare010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="en"/>
+<meta type="link" value="0893"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0895">
+<div type="section">
+<head rend="h4">To find two mean Proportionals between two streight lines giuen.</head>
+<p>Let AB be the greatest extream the square where-off is ABCD.
+Produce the side CB to P, so that CB, BP be equal.
+From P draw PL at adventure, cutting the side BA in L.
+Then draw perpendicularly to PL, the line LK, cutting the side BC in K.
+Again from K draw KE, perpendicular to LK, cutting AB produc'd in E.
+And so you haue, by construction, four continual proportionals, whereof the two meanes are BL and BK; and BP (equal to BA,) and BE the two extreames.</p>
+<p>Between AB the greatest, and BE the least extream, find the mean-proportional BF, and BG equal to it; plac'd on the two sides BC and BA.
+and draw the diagonal DB, cutting LK in H; and diuiding the angle KBL into two equal parts.
+And so LH will be to HK, as LB the greater to BK the lesser of the meanes; also so will be AB to BL, and BK to BE.</p>
+<p>On the center H, at the distance HL, describe an Arch of a Circle, cutting BC
+<figure><graphic url="huyg003oeuv03ill61.gif"></graphic></figure>
+in N; and BN, BL will be equal.
+And as HN to HK, so will be BN to BK; because HN &amp; HL are equal.</p>
+<p>Now BF (being a mean Proportional between AB &amp; BE the Extreames) is also a mean Proportional between BN &amp; BK the meanes.
+Therefore taking in BA the line BO, equal to BK, and joyning NO; the line NHO will be a streight line, and the Angles NHK, LHO vertical<note n="#2"/>, and the line FG will passe through H.</p>
+<p>And as BN to BK, so is NF to FK<note n="#3"/> (for the differences of proportionals are as the proportionals themselues) and so also HN to HK.
+and therefore the line FG diuides both the Angles NHK, LHO into equal parts.</p>
+<p>Now BF the mean between the Extreames is known, therefore also FG is known, &amp; the halfe of it BH is known both in magnitude &amp; position, as being in the diagonal.
+Therefore the point H is known.
+lastly the point E is known by construction.</p>
+<p>Draw EH and diuide it equally in I; and at the distance IH, or IE describe a semicircle.
+this semicircle will passe through K, because the Angle HKE is a right angle.
+Therefore the line BK, which is the lesser of the meanes, (and by consequence also the greater) is known.</p>
+</div>
+<div type="section">
+<head rend="h4">The Construction of the Probleme.</head>
+<p>Let the two extreams giuen be AB the greater, and BE the lesser.
+between which J am to find two meanes in continual proportion.
+Vpon AB the greater extream, J describe a square ABCD, and draw the diagonal BD; in which take BH equal to halfe that streight line whose square is double to the square of a mean proportional between the extreames giuen.
+then joyning the points EH, J diuide EH into two equal parts in I.
+Lastly on the Center I with the distance IH, J describe an arch of a circle which must cut the side BC in K.
+And thus J haue found the lesser of the two meanes, and consequently the greater.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

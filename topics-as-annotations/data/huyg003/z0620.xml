@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0620"/>
+<meta type="date" value="1659-05-16"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0620">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>16<hi rend="sup">e</hi>. May 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je prendray l'occasion du retour en Hollande du Secretaire de Monsieur de Thou, pour vous enuoyer les six exemplaires que Monsieur Carcaui m'a mis en main depuis le temps que je vous l'ay faict scauoir; &amp; si plus tost j'eusse trouué l'occasion je vous les aurois fait tenir il y a long temps. J'ay fait tenir vostre lettre<note n="#1"/> a Monsieur Chapelain, qui ne voyd plus Monsieur Menage, &amp; celluy ci nous a declaré dans le cabinet quil vouloit renoncer a la frequentation de tous les autheurs, s'esloigner du pais des belles lettres, &amp; du Pais Latin, pour ne plus s'appliquer qu'a la conuersation des personnes de condition, &amp; dautant plus volontiers qu'elles seront du fond du marais du temple<note n="#2"/>, sans autre literature que celle du Grand Cyrus<note n="#3"/>, Cloelie; &amp; des lettres douces a Chloris &amp;c. Jl y eut la semaine passee de grosses paroles entre Messieurs de l'Academie partizans de Monsieur Boileau, &amp; Monsieur le Chancellier, qui les menacea de les chasser de sa maison, pour ce qu'ils contredisoient sa direction, &amp; sur tout dans l'affaire de Monsieur Boileau dont ils luy ont remis le jugement &amp; la decision, &amp; il leur dist quil rendroit l'Academie errante &amp; vagabonde. Ce sont des guerres moins dangereuses que celles qui se font dans le Nord<note n="#4"/>, &amp; que la nostre auec l'Espagne, qui a duré 24 ans que l'on termine par la paix<note n="#5"/> qui est tres auancee.
+Je salue auec vostre permission Messieurs <persName key="goli002">Golius</persName>, <persName key="scho197">Schotten</persName>, <persName key="gron010">Gronouius</persName>, <persName>Heinsius</persName> &amp; tous les autres illustres de ma cognoissance. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur, <persName key="boul014">Boulliau</persName>.</p>
+</div>
+<p>Je n'ay pas encores eu le temps de faire fabriquer vn tuyau aux verres que vous m'auez donnez, j'y trauailleray incontinent &amp; je ne manqueray pas de vous rendre compte de tout.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>. A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

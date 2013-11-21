@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1290"/>
+<meta type="date" value="1664-12-25"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1290">
+<div type="opener">
+<p>a mon Pere</p>
+<p>25 decembre 1664.</p>
+</div>
+<p>Probleme de la nappe, comment a entendre. Cercle de fer.<note n="#1"/> Privilege<note n="#2"/> cousteroit la. Beaumont et de Wit pour rien<note n="#3"/>. esté dans l'assemblee<note n="#4"/>. Observation de la
+Comete. Je n'ay pas veu ce livre de Schottus<note n="#5"/>. Ne faut pas faire beaucoup d'estat de son jugement.
+<persName key="kepl901">Keplerus</persName><note n="#6"/> jusqu'icy a le mieux rencontrè. ce qu'il escrit des horologes a pendule sans parler de moy<note n="#7"/>. l'Instruction pour les horologes<note n="#8"/> se traduira<note n="#9"/>. Tisselstein. lettre du duc de Roannes<note n="#10"/>. Je suis fort aise du bon succes de sa negotiation<note n="#11"/>, a cause du Prince, a cause de son retour, et encore a cause de ma pension. Nid des Indes.</p>
+</div>
+</body>
+</text>
+</TEI>

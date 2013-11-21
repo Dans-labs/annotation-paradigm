@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1221"/>
+<meta type="date" value="1664-03-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1221">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 21 Mars 1664.</p>
+</div>
+<p>Mardy dernier<note n="#1"/> chez Monsieur de Montmor je rendis vostre lettre a Monsieur Thevenot qu'il ne lut pas d'abord de sorte que je n'en scay pas encore le contenu.</p>
+<p>Voicy sa responce. Quand je verray Monsieur le Mareschal<note n="#2"/> je luy feray veoir tout ce que vous me mandez des cassettes pour le Te<note n="#3"/>. J'auray soin de vostre Callotte, et qu'elle ait toutes les qualitez requises.</p>
+<p>Il y a longtemps que Monsieur de Montbas m'a envoiè les livres et j'ay estè
+le chercher pour l'en remercier mais ne l'ay point trouuè. Il vint veoir Mon Pere la sepmaine passee.</p>
+<p>Il faut avouer que cette enseigne de boutique d'epicerie fait un quartier qui n'est pas fort noble dans la genealogie de la future belle soeur. Il faudra veoir ce qu'en dira le Signor Padre car jusqu'icy je n'ay point eu d'occasion pour le luy representer. le frere ne luy escrit rien touchant son affaire dans sa derniere lettre, et peut estre qu'il ne la prend pas si fort à coeur que l'on pense.</p>
+<p>Vous me recommandez d'agir pour le commun interest, en ce qui regarde nostre pension<note n="#4"/>, en mesme temps que je vous l'ay recommandè. Il me semble que vous avez plus de suject de parler de cela que moy qui pendant le voyage ne tire point cette pension ordinaire. toutefois s'il venoit a propos je ne laisseray pas de solliciter pour mon interest futur.</p>
+<p>Si Pascal n'a pas encore achevè ces montres<note n="#5"/>, dites luy que c'est se mocquer du monde, et qu'il me fait grand tort, par ce me fiant en sa promesse j'ay fait esperer ceux qui m'en ont donnè commission qu'elles seroient icy il y a plus d'un mois. Pour Severijn<note n="#6"/> je pense aumoins qu'il aura envoiè la montre de 8 jours<note n="#7"/> en Angleterre suivant l'adresse que je luy ay procurée<note n="#8"/> toutefois je voudrois bien en avoir nouuelle certaine. Je voudrois bien aussi scavoir en quel estat est mon horologe que je luy ay laissée<note n="#9"/>. Il n'y<note n="#10"/> point de danger de la luy laisser encore; il se gardera bien de s'en servir a mon desavantage. dites luy que j'espere de revenir bientost pour luy donner de l'ouurage en le faisant trauailler a ma nouuelle invention. adieu.</p>
+</div>
+<div type="para">
+<p>Pour le Frere Louis.</p>
+</div>
+</body>
+</text>
+</TEI>

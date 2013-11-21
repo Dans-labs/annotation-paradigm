@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2694"/>
+<meta type="date" value="1691-08"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2693"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2694">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p>Sit catena AV; vertex A; axis CAM; A<hi rend="i">λ</hi> tangens in vertice; V<hi rend="i">π</hi> tangens in
+<figure><graphic url="huyg003oeuv10ill38.gif"></graphic></figure>
+V. Sit A<hi rend="i">λ</hi> aequ. catenae AV, et fiat angulus A<hi rend="i">λ</hi>C aequ. V<hi rend="i">π</hi>A. Et divisa sit A<hi rend="i">λ</hi> in totidem partes aequales quae sunt internodia aequalia in AV.</p>
+<p>Ex demonstratis pag. 92<note n="#3"/>, scimus angulos <hi rend="i">c</hi>A<hi rend="i">o</hi>, <hi rend="i">dcl</hi>, <hi rend="i">kdh</hi> tales esse ut tangentes eorum crescant aequaliter ut numeri 1, 2, 3, 4, etc.; cumque ulterius V<hi rend="i">bn</hi> sit aequalis ang.<hi rend="sup">o</hi> <hi rend="i">λ</hi>CA, eo quod A<hi rend="i">λ</hi>C factus sit aequ. <hi rend="i">n</hi>V<hi rend="i">b</hi>, sequitur internodia A<hi rend="i">c</hi>, <hi rend="i">cd</hi>, <hi rend="i">dk</hi> etc. inclinari ad perpendiculares seu axi MC parallelas, sicut respective inclinantur C<hi rend="i">i</hi>, C<hi rend="i">m</hi>, C<hi rend="i">p</hi>, etc. ad rectam A<hi rend="i">λ</hi>.</p>
+<p>Porro est AV curva, seu A<hi rend="i">λ</hi> recta, ad VY, ut ▭ C<hi rend="i">λ</hi> ad spatium C<hi rend="i">ξψφ</hi><note n="#4"/>, quod aequale esse ostendimus rectang.<hi rend="sup">o</hi> CR<hi rend="i">λ</hi><note n="#5"/>. Ergo A<hi rend="i">λ</hi> ad VY ut ▭ C<hi rend="i">λ</hi> ad ▭ CR<hi rend="i">λ</hi>, hoc est ut A<hi rend="i">λ</hi> ad <hi rend="i">λ</hi>R. Ergo VY=<hi rend="i">λ</hi>R. Et tota VO aequ. C<hi rend="i">λ</hi>, nam CR=YO seu CA ex constr.<hi rend="sup">ne</hi> Eodem modo ostenditur <hi rend="i">bg</hi> aequalis C<hi rend="i">e</hi>, atque ita de
+caeteris.</p>
+<p>Notatu dignum quod spatia <hi rend="i">c</hi>C, <hi rend="i">dr</hi>, <hi rend="i">ks</hi> etc. sunt omnia inter se aequalia si portiones curae A<hi rend="i">c</hi>, <hi rend="i">cd</hi>, <hi rend="i">dk</hi>, etc. sint aequales. Nam si has tanquam internodia recta consideremus, et tanquam radios circuli habeamus, erunt A<hi rend="i">o</hi>, <hi rend="i">cl</hi>, <hi rend="i">dh</hi>, etc. sinus complementorum angulorum AC<hi rend="i">i</hi>, AC<hi rend="i">m</hi>, AC<hi rend="i">p</hi>, etc. eoque erunt inter se sicut sinus compl. angulorum horum in quadrante CA<hi rend="i">q</hi>; sed hi sinus in secantes istorum angulorum ducti essiciunt quadratum radii, (velut <hi rend="i">λ</hi>C in C<hi rend="i">t</hi> facit ▭ aequale qu. CR, quia <hi rend="i">λ</hi>C ad CA seu RC, ut RC ad C<hi rend="i">t</hi>). Ergo eaedem secantes ductae unaquaeque in rectas A<hi rend="i">o</hi>, <hi rend="i">cl</hi>, <hi rend="i">dh</hi> etc. sibi respondentes, hoc est quae subjacent internodiis tantundem ab A distantibus, quantum secantes quaeque, efficient quoque rectangula acqualia inter se A<hi rend="i">r</hi>, <hi rend="i">cs</hi>, <hi rend="i">du</hi> etc., ac singula aequalia ▭ A<hi rend="i">r</hi>, unde sequitur spatium totum AVOC aequari rectang.<hi rend="sup">o</hi> A<hi rend="i">φ</hi>. Unde dimensio cognoscitur spatii AMV<note n="#6"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#7"/>.</head>
+<p>Si super C<hi rend="i">φ</hi> erigatur perpend.<hi rend="sup">s</hi> <hi rend="i">ρζ</hi> aequalis C<hi rend="i">λ</hi>, ieu OV, constat punctum <hi rend="i">ζ</hi> esse in hyperb.<hi rend="sup">a</hi> aequilatera A<hi rend="i">ζ</hi>, cujus centrum C, semidiameter CA, vertex A. Similiterque si statuatur 3<hi rend="sup">e2</hi> aequ. C<hi rend="i">e</hi>, hoc est <hi rend="i">bg</hi>, etiam punctum 2, esse in eadem hyperbola. Unde liquet, descripta ejusmodi hyperbolâ A<hi rend="i">ζ</hi>, si ad eam producatur applicata catenariae quaelibet VM, fore M<hi rend="i">ζ</hi> applicata in hyperbola, aequalem curvae interceptae VA, quod invenit Jo. Bernoulius.</p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#8"/>.</head>
+<p>Ad inveniendum centrum grav. curvae AV, cogitandum e medio singulorum internodiorum aequalium A<hi rend="i">c</hi>, <hi rend="i">cd</hi>, <hi rend="i">dk</hi>, etc. rectas axi parallelas cadere in CO parallelam tangenti AY. Et quoniam hae rectae onerantur singulae pondere aequali unius internodii, facile intelligitur centrum gr. curvae AV tantum distare ab OC recta, quanta est summa omnium earundem rectarum divisa per numerum ipsarum. Sed eaedem rectae sunt erectae super C<hi rend="i">φ</hi> in hyperbolico spatio A<hi rend="i">ζφ</hi>C,secantes nempe in duo aequalia singulas partes in recta C<hi rend="i">φ</hi> acceptas, atque aeque magnas iis quae sunt in vatena AV; ac porro patet quod si ▭ L<hi rend="i">φ</hi> ponatur aequale spatio A<hi rend="i">ζφ</hi>C, summa rectarum totidem, in eo rectangulo, iisdem divisionibus rectae C<hi rend="i">φ</hi> insistentium, aequalis erit summae dictae rectarum in spatio A<hi rend="i">ζφ</hi>C, ac proinde quoque summae rectarum in spatio ACOV. LC vero est aequalis summae rectarum in ▭ L<hi rend="i">φ</hi> divisae per numerum ipsarum. Ergo eadem LC aequalis quoque summae rectarum spatii ACOV divisae per ipsarum numerum; ac proinde aequalis distantiae centri gr. curvae AV ab recta CO<note n="#9"/>.</p>
+<p>Distantia autem centri gr. curvae AV ab MA est AX, si X sit intersectio tangentium curvae in V et A; quia si catena AV obrigescere ponatur, eo nihil mutatur figura ejus; tunc vero intersectio filorum <hi rend="i">ρ</hi>V, <hi rend="i">λ</hi>A curvam AV sustinentium necessario cadet in perpendicularem per ejus centrum grav. transeuntem. Ergo et antequam rigesceret.</p>
+</div>
+<div type="section">
+<head rend="h4">§ IV<note n="#10"/>.</head>
+<p>Porro facile quoque ipsius spatii VAW centr. gr. invenitur; quod nempe cognoscitur ex centro gr. spatii VACO. Hoc autem datur ex eo quod rectangula omnia minima A<hi rend="i">r</hi>, <hi rend="i">cs</hi>, <hi rend="i">du</hi> etc. sunt inter se aequalia et centra gr. singulorum in mediis earum altitudinibus. Hinc enim sicut summae omnium rectarum a mediis internodiis A<hi rend="i">c</hi>, <hi rend="i">cd</hi>, <hi rend="i">dk</hi> in CO cadentium, aequabatur summa totidem rectarum in spatio hyperbolico A<hi rend="i">ζφ</hi>C aequaliter distantium; ita summa omnium e centris gr. rectangulorum A<hi rend="i">r</hi>, <hi rend="i">cs</hi>, <hi rend="i">du</hi> etc., in CO cadentium, aequabitur dimidio summae istarum rectarum in spatio hyperbolico A<hi rend="i">ζφ</hi>C; hoc est summae partium istarum rectarum quae sunt in ▭ <hi rend="i">η</hi>φ, si hoc aequale ponatur ½ spatii A<hi rend="i">ζφ</hi>C, sive ½ ▭ L<hi rend="i">φ</hi>. Et summa illarum e centris gr. rectangulorum A<hi rend="i">r</hi>, <hi rend="i">cs</hi> etc. in CO cadentium per numerum ipsarum divisa, quae dat distantia gravitatis spatii AVOC ab recta CO, aequabitur summae harum rectarum in ▭ <hi rend="i">η</hi>φ per ipsarum numerum divisae, hoc est ipsi rectae ηC, quam apparet dimidiam esse CL, quia ▭ <hi rend="i">ηφ</hi> dimidium fecerimus ▭ L<hi rend="i">φ</hi>.</p>
+<p>Denique perspicuum est spatii AVOC distantiam centri gr.<note n="#11"/> esse eandem AX quae et curvae AV, cum rectanguli A<hi rend="i">r</hi>, <hi rend="i">cs</hi>, <hi rend="i">du</hi> sint aequalia sicut internodia ipsis respondentia A<hi rend="i">c</hi>, <hi rend="i">cd dk</hi> etc.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

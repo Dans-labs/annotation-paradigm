@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2330"/>
+<meta type="date" value="1684-02-29"/>
+<meta type="sender" value="vege004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leeuw001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2330">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je vous ay promis par mes dernieres lettres<note n="#1"/> de vous enuoyer le dessein de Monsieur de Frijbergen Conseiller de son Altesse le Prince d'Anhalt<note n="#2"/>, il se persuade de trouuer linuention de faire moudre du blé et autres choses par le moyen de la poudre<note n="#3"/>; veritablement cest une entreprise bien extraordinaire et extravagante il me semble quil trouuera bien des difficultez qui se presenteront durant ceste recherche. Monsieur Fullenius nostre commun amy est sur le point de son advancement. Mess. les Curateurs de l'academie ont nommé 3 personnes pour les mathematiques assauoir M. Fullenius, M. Neys advocat a Swoll<note n="#4"/> et un jeune homme Joachimus Burcardus de Heidelberg qui demeure en ceste ville. On a nommé pour la Philosophie un Francois M. Bailius<note n="#5"/> a present a Rotterdam on dit que cest celuy qui a escript le traitté de la Comete<note n="#6"/>. Je vous supplie Monsieur de me faire la faueur et de presenter mes tres humbles respects a Monsieur vostre Pere et à Mons. vostre frere et de croire que ie suis de toutes mes affections</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble tres fidelle obeissant serviteur <persName key="vege004">Vegelin de Claerbergen</persName>.</p>
+<p>Lewarden 19/29 Febvrier 1684.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

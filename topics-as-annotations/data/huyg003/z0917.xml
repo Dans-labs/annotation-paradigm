@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0917"/>
+<meta type="date" value="1661-11-09"/>
+<meta type="sender" value="heve011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gdans001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0917">
+<div type="opener">
+<p>Nobilissimo ac Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="heve011">Johannes Hevelius</persName> S.</p>
+</div>
+<p>Responsum ad meas 21 Septembris datas<note n="#1"/>, nec non ipsam ♀ in ☉ adeò spontè mihi promissam<note n="#2"/> observationem, hucusque quidem avidissimè exspectavi, sed frustrà. Quare hàc schedulâ Te denuò compellare, ac rogare volui, ut primo Tabellario, tribus tantum significes, quid hâc in parte decreveris, an observatio illa adhuc exspectanda, nec ne? Siquidem typographus urget Mercurij nostri impressionem; nec profectò, res diutius procrastinari poterit.</p>
+<p>Dominum Bullialdum amicum nostrum communem, qui sine dubio Hagam Comitis iam prospere redijt, meo nomine, plurimùm salvebis, eique significabis, me brevi, ad ternas suas mihi longè gratissimas, responsurum.</p>
+<p>Vale, et porrò, quod facis, nos ama.</p>
+<p>&nbsp;</p>
+<p>Dantisci Anno 1661 die 9 Novembris.</p>
+</div>
+<div type="para">
+<p>Nobilissimo ac Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> amico honorando Hagam Comitis.</p>
+</div>
+</body>
+</text>
+</TEI>

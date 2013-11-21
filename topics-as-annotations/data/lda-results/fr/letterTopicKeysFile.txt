@@ -1,0 +1,100 @@
+0	0,07934	frere paris pere van zeelhem envoier adieu desia hier envoi livres signor louis sieur voiage veoir crois fin fois 
+1	0,00995	don tems reyne estat marquis conseil madrit ambassadeur memorial mons doute voir avis madrid debte payement gens espere mad 
+2	0,29803	faict veoir dire subject peine doibt main honneur suitte plaist trouv advis trouve gens desj voulu jour maistre pourroit 
+3	0,00986	heinsius mots corriger latin certes honor miserable estim courcelles tard affectionn sui bonne baudius paew 
+4	0,01344	men beaux sale maistresse pris bonne ordre mons parties mari attente thou ambassadeur baiser quant honor octobre 
+5	0,01334	auroit hommes seroit camp prince comte marquis arras ville secours chevaux thurin pied arm cardinal ennemis espagnols convoy sieur 
+6	0,00538	veille reste empescher mayence mali continue doubte esprit arguments 
+7	0,00705	equation courbe termes tangentes terme nombre point donn ligne propriet lignes lettre quantit trouver proportion lettres trouve valeur multipli 
+8	0,03052	per quod sed cum hoc quae sit quam esse sunt inter vel enim quo haec pro sic omnia ejus 
+9	0,02556	desseins livres argent maistre choses jours peinture padre tableaux liste fort peintre londres figures original del cabinet visage crayon 
+10	0,07234	faict comte hier camp nuict vers arm ville aujourdhuy breda mons enemi fort aoust enemy guillaume gouverneur fran sorte 
+11	0,06441	zurig grisons argent fort ois espagne fran suisses protestans cause point arm bientost doit empereur femme pass advis traitt 
+12	0,07692	cavallerie hommes vers canon gens estoit coup avoyent cost camp fort compagnies officiers prisonniers coups pont pied regiment nombre 
+13	0,00387	vers comma temperament syllabes tons poesie langue pieds quantit division tierce langues ordinaire accord cordes ques nouvelle scauriez president 
+14	0,03856	princesse conseil cour seroit dedel royale affaire prince deputez voix orange assembl heenvliet escrit tutele hollande conseiller breda terres 
+15	0,05515	verre pieds verres lunette lunettes pouces objectif forme miroir matiere maniere oculaire figure oculaires tuyau ouverture fort essay campani 
+16	0,06476	seruiteur voir trouu liure point trouuer scauoir treshumble trouue paris nouuelles enuoyer pouuoir tresobeissant auons nouuelle liures enuoye inuention 
+17	0,02512	estoit estoient eust hors faisoit ans pouvoit affaire trouvay estoyent pendant souvent respondit moindre breda voyoit trouvoit falloit adress 
+18	0,04642	esp serviteur faict res humble apr sent rement dict rit consid voir sant particuli messieurs bonne rent affection temps 
+19	0,00489	sieur huguens ille hautefe vibrations avans academie lettres droit perfection produit memoire dudit facile moire proc gloire public juillet 
+20	0,00258	and the your you that for may this will his with which but all are not their they our 
+21	0,02005	tre toit apr fort voir gale crire savoir davantage gales auteur emp traitt tems ajo infiniment attach gard jours 
+22	0,0064	feu pierres soleils bougie eaux lampe riuiere consume cendres faux dessous fond pourroient traict constitution outre 
+23	0,02548	roy navires flotte indes mer vaisseaux nouvelles anglois admiral vers combat guerre orientales angleterre amsterdam arriv pass rochelle zelande 
+24	0,0108	dieu affectionn public vie amy contentement maurier graces patrie affin suject ement apprens particulier jeannin humble voeu recommandation choses 
+25	0,06013	cost bout fer attach figure sorte bois dessus milieu machine forme bas piece maniere vis pied vers haut eau 
+26	0,01948	livre faict livres imprim latin grec volume heinsius public langue vossius veu davantage trouv main nom notes ans amsterdam 
+27	0,00852	mons temps donner lieu velocit avi actes calcul meme fois leibniz pourroit differences dire hanover jour donn grandeur effect 
+28	0,03693	argent somme payer livres francs payement ans satisfaire revenu debtes deu pay ordre parties recevoir thresorier florins change frais 
+29	0,02075	quil jay lon sil jen point pere nen quils dun nest lautre este den quon jauois lay cause foys 
+30	0,20047	monde fort dessein gens choses ois homme fran entendre seulement veu parler reste force ailleurs personnes terre chose vray 
+31	0,02525	livre mersenne voyci heure camp donq arm voyez philosophie amsterdam personage heinsius faveur faultes partement amis rendu pleust serviteur 
+32	0,02458	este conte haye estats frise van affaire province provinces guillaume deputez villes subject advis facon gouvernement donne resolution intentions 
+33	0,01416	luij aij icij moij quoij desia doutte jours roij aijant mons monde plaist bonne croij moijen sigr monsr celuij 
+34	0,05848	duc roy faict arm pris espagne marescal hommes prince gens croit angleterre fran italie pape trouppes comte chevaux dict 
+35	0,00697	quarr nombre nombres cube somme esgale double fois produit difference multipli proposition cost esgal diuis triangle proportion moindre milieu 
+36	0,07277	roy orange prince faict ordres parlement ordre justice ledit princesse beauregard officiers maistre comte commandeur pass chasteau sieur ferme 
+37	0,01327	courbe quadrature construction probleme courbes ligne methode hyperbole bernoulli trouver solution quadratures tangentes espace soutangente lignes calcul logarithmique trouv 
+38	0,00894	ans chances vie reste enfant aage vivre vivra donnent age mettre conceu enfans dessous vaut ours second portant nombre 
+39	0,00414	air phiole eau atomes baquet col masse estoit vers figure bulle composent lors libre seconde feu exp terre espace 
+40	0,03622	saturne soleil lune terre lieu anneau vers temps observations heures jupiter cercle ciel planete diametre figure estoit distance comete 
+41	0,01661	chapelain heinsius aur gloire faitte eust monmor monde doute response impatience estes passion fer reputation amy digne asses lorsque 
+42	0,01367	mons roy voyage londres occasion logis mad retour desire stile parde mess conte bas toutefois entendre responce majest aultre 
+43	0,00741	luij frere aij icij ett cher adieu marij fort temps famille aussij belle voir cousijn bonne voijage presentement espere 
+44	0,0093	liege evesque architecture campagne nouveaut verray quartiers plaisir maladie juillet faveur 
+45	0,07601	roy reine paix france suede vers angleterre receu majest cardinal comte apr affaires ambassadeurs donn parlement guerre espere ambassadeur 
+46	0,00572	vaisseau vent eau voile vitesse force animaux angle petits situation temps quille ligne forces quantit puissance gouvernail mouvement moyen 
+47	0,07155	frere fort pere mademoiselle van mariage amsterdam estoit cousin fille beau dame femme adieu cour soeur homme cousine jeune 
+48	0,05202	van het dat den gij voor aan mij heer een heb zijn haye zal met heeft over die hij 
+49	0,03113	roy chancelier duc esp arm paris humble nouvelles serviteur affaires cardinal faict paix temps quartiers receu france envoy lecteur 
+50	0,14571	heures matin soir hier estoit pass jour vers ville heure jours chambre lendemain carosse aujourdhuy chemin bonne disner nuict 
+51	0,10315	maison enfin justice traict pouvoir raison charge interests inform choses interest tort termes article contraire question fidelit ann conscience 
+52	0,01182	van bas rodrigo femme verds haye affaire hoste requeste gueldre zulichem terre este der juges ouvrage fraix aves recommander 
+53	0,01831	mons faict altesse breda escholiers fils femme excellence college serviteur illustre chancellier excellent filz humble advis employ aur groot 
+54	0,10979	pere esprit veu belles homme belle fils beau coeur france vers estime monde cher beaux choses amiti sujet voy 
+55	0,07066	fois fort temps longueur pieds lieu figure mesure petites cause diametre plomb grandeur proportion sorte seconde moyen reste seulement 
+56	0,03149	france pape venise duc demeure paix italie rome suede bonnes serviteur pris ambassadeur parme horn escrit hommes fort reccommande 
+57	0,00745	presche eglise strezo orgues glise opinion synode collegues quo livre ministres romains doctrine force sentiment justinus 
+58	0,02397	auroit seroit soup fust officier mis naturel espreuve besoing cesser honorable meurs assiette liens faitte dame joie nassau soustraits 
+59	0,01615	ladite ledit dudit proces cause biens aye maison dame prince affin papiers paris nom astheur advocat eust subject jugement 
+60	0,24515	lettre lettres escrit receu escrire envoyer envoye envoy prie response part ordre copie ordinaire paris donn jours messieurs pass 
+61	0,49969	affaires france affaire roy bonne prince estat temps donner fort donn part dieu vouloir cause pouvoir cour prendre charge 
+62	0,02723	air eau tuyau experience vuide hauteur haut mercure verre experiences vaisseau pompe recipient bulle bas pesanteur pression pouces force 
+63	0,18418	temps seroit jours pouvoir pourroit fort haye espere passer retour semble trouve vers jour point vent partir croy voyage 
+64	0,01291	poids corps temps pendule centre point principe vitesse mouvement vistesse parties compos ligne proposition somme quantit vitesses catelan hauteur 
+65	0,03879	france duc demeure serviteur esp grisons come desi imp chancelier voltoline hommes escrit bre marini espagnols guerre ambassadeur italie 
+66	0,02851	societ mouuement wren messieurs touchant royale experiences matiere temps corps regles air oldenbourg trouu present chevalier particularitez quant imprimer 
+67	0,01549	horologes dire choses crois whitehall lors desia deuant iusqu iours temps doubte patente mer faite balle experiences touchant propos 
+68	0,00786	nec tua retourner prise ceulx haste asseure humeurs 
+69	0,12016	honneur humble obeissant paris bont temps estime lettre part serviteur croire seruiteur treshumble libert occasion donner graces supplie amis 
+70	0,24768	point raison dire voir maniere chose trouve semble doit lors sorte seulement nature choses lieu donn propos partie verit 
+71	0,02414	ligne point cercle droite centre plan axe points donn perpendiculaire arc circonference somme base courbe angle lignes droites rayon 
+72	0,02216	oldenburg londres cete transactions serviteur treshumble touchant montre doubte livre wallis tresobeissant receu boyle voir part come lettre espere 
+73	0,58023	point chose dire seroit donner temps mettre fort fois reste peine moyen lieu tenir lettre mis rendre present choses 
+74	0,01965	arm ennemis groot apr troupes nouvelles jours altesse place general fils obeissant colonel passer chevaux croy marechal party quartiers 
+75	0,01697	luth musique cartes fois pieces jeu voix prend coups viole mis reste coup dez condition jouent excellent bonnes part 
+76	0,01331	traict roy espagne faict ambassadeurs asteure ung restitution maistres munster moien indes certes mess adviz aye aultre commun jour 
+77	0,00697	canon temps demonstration pere percussion air boulet mersenne vuide prie espace nombres terre ayt partant galil voyez veux voyage 
+78	0,03653	prie croy voir haye homme femme lon verre dieren van envoyer trouve scay envoye scavoir moyen jours retour envoy 
+79	0,01074	anneau uostre uoir obseruations meme mouuement ann obseruation doit partie tour tems ombre pole sud pouroit iay lunetes entier 
+80	0,00421	estoile graduum grad hora distabat plaist die faicte matin paroist faictes dela 
+81	0,00613	dict despuis aves aurelius aures asses escript appres poinct pistre respondre front premiers saluer pleu pleust possible incomparable 
+82	0,22701	honneur tesmoigner rendre service pleu grace affection supplie fils monseigneur bont occasion pouvoir humblement faveur part estime graces croire 
+83	0,04151	newton livre envoi trouv haye hugens crois paroit imprim response zulichem vois exemplaires journal exemplaire nouvelle londres imprimer envoie 
+84	0,08767	dieu mal jours estat mort sant femme frere maladie monde pauvre affaires jour vie famille malade coeur prie esprit 
+85	0,00339	aij puisque sij canal proportion pourroit sorte trouue montera sensible poissons vouloir monstre este endroict air incontinent sens perte 
+86	0,00765	excellence monseigneur pologne groot port lieux louis presentes fevrier pourquoy mars prenoit oresnavant subject 
+87	0,01945	pendule poids roue mouuement roues heures horloge rou chaise vibrations balancier ressort contrepoids bacquet secondes minutes flesches rencontre centre 
+88	0,07896	altesse prince affaire mons maistre service memoire feu maison lettres supplie servir faveur envers charge prie compagnie vouloir honneur 
+89	0,00298	che con per del sua della sig una los come delle hora sia stato dios fra all forte sen 
+90	0,00675	temps jours horologe soleil table midy apparent jour calcul moyen difference heures heure scavoir avril intervalle epoche egal servir 
+91	0,16616	gens ville estat paix mal dieu pouvoir religion princes guerre servir libert ann maison feu prendre veut perdu vie 
+92	0,00905	prie dieu nouvelles fort croy mander aves peult este contentement sujet trouver esprit maison jour bonne escript juillet affection 
+93	0,01069	corps matiere pesanteur mouvement terre parties vers force hypothese refraction planetes lumiere aimant cartes distances globe vuide matieres soleil 
+94	0,0064	een van het dat ons was met ick sijn die hem hij terre aen tot voila grotius eglise coup 
+95	0,5427	fort estoit lettre voir point touchant chose temps dire peine aise prie paris scavoir semble fois longtemps jours lettres 
+96	0,06622	veoir croy horologe horologes invention desia scavoir trouu escrit zulichem livre nouuelle scay effect haye observations trouuer voy trouue 
+97	0,01368	uostre academie imprimer compagnie donner journal paris ouurages description assembl abb lon chapelle public mons satellites reponse roy sant 
+98	0,0327	invention ressort pendules colbert montre thuret privilege mouvement montres balancier moyen mer horloges pendule longitudes secret horloge modelle chose 
+99	0,0187	parabole demonstration cercle spirale lignes fermat hyperbole cas cartes nombres geometrie moindre equations problemes sections propositions construction solution trouu 

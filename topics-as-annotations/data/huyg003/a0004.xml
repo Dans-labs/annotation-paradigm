@@ -1,0 +1,58 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0004a"/>
+<meta type="date" value="1645-05-12"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0004">
+<div type="section">
+<head>Ad nobilissimos ornatissimosque fratres Constantinum et Christianum Hugenios, Leidam studiorum gratia profecturos.
+<lb/>
+Π<hi rend="i">ροτροπὴ.</hi></head>
+<lg type="poem">
+<l>Hugenidae fratres, animi quos patrius ardor</l>
+<l rend="; 1tab">Impulit egregias semper inire vias,</l>
+<l>De quibus et geminum spondet sibi patria patrem,</l>
+<l rend="; 1tab">Speque novâ solis praecipit Haga duos:</l>
+<l>Itis, io, Batauas, geminum decus, itis Athenas;</l>
+<l rend="; 1tab">Nec satis est geminum vos decus esse domi.</l>
+<l>Ite viri, nondum juvenes aetatibus ambo,</l>
+<l rend="; 1tab">Maturis dudum mentibus ite viri.</l>
+<l>Ite duplex consummati genitoris imago:</l>
+<l rend="; 1tab">Semidei, si non numine, ite genus.</l>
+<l>Occupat adventum votis Academia vestrum,</l>
+<l rend="; 1tab">Omnis et e portis obvia Leida ruit.</l>
+<l>Ipsi venturis ardent occurrere muri,</l>
+<l rend="; 1tab">Et Themis et Themidos vos vocat ipse locus.</l>
+<l>Ipsa puellares pandens Astraea lacertos,</l>
+<l rend="; 1tab">Virgo brevi vobis vivere nupta cupit.</l>
+<l>Utque pater Rhenus multo vos<note n="#1"/> amore salutet,</l>
+<l rend="; 1tab">Convolvit totas officiosus aquas.</l>
+<l>Utque mora impatiens vos hinc trahat ipsa morantes,</l>
+<l rend="; 1tab">Prolixas vellet Pallas habere manus.</l>
+<l>Ite, quid ingentes ultra differtis honores,</l>
+<l rend="; 1tab">Quos nisi ferre juvat, quid meruisse juvat?</l>
+<l>Ite, sequor, calido lectissima corcula, voto,</l>
+<l rend="; 1tab">Vos voto faciles, oro, favete meo.</l>
+<l>Anticipate citis successibus omnia nostra</l>
+<l rend="; 1tab">Semper et applausus praecipitate meos.</l>
+<l>Sic potero vobis sine vivere; laetus utrique</l>
+<l rend="; 1tab">Sic illud potero dicere triste Vale!</l>
+<l>Sic modo tam doctos omnis mirabitur aetas,</l>
+<l rend="; 1tab">Discipulos credet nulla fuisse meos.</l>
+</lg>
+<p>Scribebam <placeName key="denha004">Hagae Comitis</placeName> IV Idus Majas <hi rend="sc">ciɔiɔcxlv</hi>.</p>
+<p>&nbsp;</p>
+<p>Vester totus <persName key="brun004">Henricus Bruno</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

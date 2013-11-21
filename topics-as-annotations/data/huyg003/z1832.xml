@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1832"/>
+<meta type="date" value="1671-07-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1832">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 9 juillet 1671.</p>
+</div>
+<p>Selon ce que m'escrit le frere de Moggershil vous devez desia estre de retour a la Haye. Et peut estre il Signor Padre aussi, ou du moins en chemin dont je croy plustost le dernier, a cause de la lenteur des Affaires Angloises, et ainsi je ne luy escris point cette fois. J'ay quelque regret de n'estre point a la Haye pour le recevoir, mais aussi si j'eusse attendu jusques là<note n="#1"/> et puis encore quelque temps qu'il auroit voulu me retenir aupres de luy, on y auroit peut estre trouvè a redire icy.</p>
+<p>J'ay aussi appris avec joye par la lettre du frere susdit que la fievre du Sieur de Zeelhem commencoit a le quiter, et qu'il se trouuoit bien des promenades qu'il faisoit tous les jours en carosse. bien heureux d'en estre quite devant l'automne.</p>
+<p>Mandez moy je vous prie ce que vous pourrez avoir appris touchant les affaires de Romf, s'il sollicite encore pour estre a Monsieur le Prince ou s'il aura quelque employ de la part de l'Estat. On ne l'attend pas encore chez luy de retour dans un mois.</p>
+<p>Mon logement est augmentè de la salle basse que vous scavez, de la quelle je
+pretens faire un petit appartement assez joly, comme vous verrez par le plan que j'en envoyeray au frere de Moggershil. En arrivant icy je trouuay que Monsieur de Carcavy<note n="#2"/> et son fils<note n="#3"/> m'avoient faict un fort meschant tour. Je ne scay s'il vous souuient que lors que je partis ce garçon me pria que je luy vendisse ma calesche. J'en demanday 100 escus, les quels n'ayant voulu donner nostre marchè demeura imparfait, et je serray les coussins et les rideaux dans mon cabinet, dont j'emportay la clef. Ces Messieurs en mon absence ont pris la calesche, l'ont trocquée contre une autre, et pour avoir ces coussins et rideaux ont ouuert la porte du cabinet qui estoit fermée a verrou par dedans. Admirez l'insolence. Je croy qu'ils pensoyent que je ne reviendrois point. Maintenant ils ne scavent que faire, car j'ay promis que je m'en plaindray a Monsieur Colbert, et je n'y manqueray pas. On l'attend icy apres demain, avec toute la Cour, le Roy s'estant hastè de revenir a cause de la maladie du petit Duc d'Anjou<note n="#4"/>, qui a ce que l'on dit se meurt. Il y a 4 jours que nostre bon Monsieur de Monceaux<note n="#5"/> il Pelegrino passa le mesme pas dont j'ay mandè plus de circonstances au beaufrere. N'entendez vous point parler d'avantage de nostre affaire de l'IJssel?<note n="#6"/> cela est admirable qu'apres que d'estre employez au service de Messieurs et avoir pris tant de peine, on nous laisse là sans remerciement ni sans payer le reste de ce qui nous est du.</p>
+<p>Je crois qu'il faudra que j'en escrive a Monsieur Hudde<note n="#7"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

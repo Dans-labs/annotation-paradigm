@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1407"/>
+<meta type="date" value="1665-05-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="heve011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1407">
+<div type="opener">
+<p>Amplissimo, Clarissimo Viro. <persName key="heve011">Hevelio</persName>.</p>
+<p>Amplissime Clarissime Vir</p>
+<p>18 maij.</p>
+</div>
+<p>Mitto libellum Auzotij<note n="#1"/> jussu autoris. addo meum de usu Horologiorum ad Longitudines<note n="#2"/>.</p>
+<p>ad literas ejus ultimas datas 19 februarii 1663. quod de diametris Planetarum contendit, gratias de Antelio. Rogo ut mittat siquid exinde observavit de pareliis.</p>
+<p><note n="#3"/> Respondere poteram haec. De Mercurij diametro ab ipso in sole visi licet concedatur tam pusillam fuisse methodum tamen qua ex mercurij diametro reliquorum planetarum colligit diametros, oculi estimatione et comparatione cum circellis innixam, admodum incertam ac fallacem arbitror. Atqui, inquis, diameter Veneris hoc modo inventa recte se habet, quum conveniat illi quae ab Horroxio in disco solis inventa fuit. ergo et reliquae diametri quidni aeque bene definitae sint? Equidem et Horroxianam Veneris diametrum bene dimensam non nego, sed fieri potest ut in hac<note n="#4"/> casu consentiat methodus tua cum rei veritate, in alijs vero aberret. Similiter enim et ego de mea dicere possum, cum Venerem satis prope eadem magnitudine qua Horroxius edat, nam ille 1.′16″, ego 1.′25″ habeo in minima distantia, quidni et in alijs planetarum diametris ei credatur. de tua autem justiorem dubitandi causam habes quod in Jove ac Saturno tam longe ab aliorum et tuis ipsius prioribus observatis recedat, quibuscum mea satis propé quoque consentit. Tibi enim diameter Jovis est 24.″22.‴ Saturni cum ansis 19.″40.‴, quae Ricciolo sunt 68.″ et 72.″ mihi 72″ et 78″.</p>
+<p>de cometis expecto quae editurus<note n="#5"/> dicitur, ubi accuratas observationes omnes
+tibi pollicentur; et ego pridem professus sum illas nisi ab Hevelio aut Ricciolo non expectandas. Ubi ego trajectoriam cometae primi collocaverim. Positionem plus negotij daturam.</p>
+</div>
+</body>
+</text>
+</TEI>

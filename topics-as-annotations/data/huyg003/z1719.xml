@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1719"/>
+<meta type="date" value="1669-03-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="hame061"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1718"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1719">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 30 Mars 1669.</p>
+<p>Monsieur</p>
+</div>
+<p>Je ne dois pas avancer la priere que j'ay a vous faire sans vous demander auparavant treshumblement pardon de la libertè que je prens. C'est que Monsieur le Chevalier Moray ayant a me faire tenir 100 escus que j'ay cy devant deboursè<note n="#1"/> pour luy pour une horologe a pendule, je luy ay mandè qu'il pourroit les donner a vous et que vous auriez la bontè et ne manqueriez pas de moyen de me remettre icy pareille somme. Vous voyez Monsieur que l'affaire n'est pas de fort grande importance, et cependant il me semble que je suis bien effrontè, n'ayant jamais eu l'honneur de vous escrire, de vous oser importuner ainsi pour la premiere fois. Mais je scay que vous auez assez de bontè pour me pardonner si je peche en cecy contre la bienseance.</p>
+<p>Monsieur Galois m'a dit, qu'il vous avoit envoiè la feuille<note n="#2"/> de son dernier Journal ou sont les Regles du Mouvement que je luy ay envoyez, les quelles je n'ay pu donner au public qu'en mesme temps je ne raportasse ce qui s'est passè sur ce sujet entre Messieurs de la Societè Royale et moy, ce qui peut estre ne leur sera pas fort avantageux<note n="#3"/>. Mais ils en sont cause eux mesmes, parce qu'ayant permis qu'on publiast ce que Monsieur Wren avoit trouvè dans cette matiere, qui est toute la mesme chose que je leur avois communiquè, ils m'ont mis en estat ou de renoncer tout a fait a l'honneur que je pouvois pretendre dans cette decouuerte, ou de montrer en donnant mes regles de mon costè, que je ne les avois pas derobees de Monsieur Wren. Ie vous en fais juge Monsieur, et s'il ne vous semble pas, puis que j'ay l'honneur d'estre membre de la Societè Royale, que ces Messieurs devroient avoir agi autrement avec moy dans cette rencontre. Je vois par la et par autre chose, que j'ay grand besoin d'avoir un patron en ce païs la, et j'ose bien vous supplier de le vouloir estre, puisque je ne demande pas
+d'estre protegè que dans les occasions ou vous trouuerez que la justice est de mon costè. Je vous baise les mains treshumblement et suis sans reserve</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="huyg003">Chr. Huygens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

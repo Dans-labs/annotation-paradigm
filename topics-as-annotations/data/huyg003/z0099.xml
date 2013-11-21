@@ -1,0 +1,42 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0099"/>
+<meta type="date" value="1651-10-16"/>
+<meta type="sender" value="vinc027"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0099">
+<div type="opener">
+<p><persName key="vinc027">Gregorius a Sto Vincentio</persName> <persName key="huyg003">Christiano Hugenio</persName> S.D.</p>
+</div>
+<p>Quintus annus adultus iam est, ex quo lucubrationes meas publicj juris facere, coactus sum (metu maxime, nec vano, aduersae valetudinis, quae extrema minitari
+credebatur.) quae mox vt in lucem prodierunt, amicis vrbanitatis debitum persoluturus, rogatus sum a Daniele Zeghers fratre nostro, mihi a plurimis annis notissimo, qui mecum Romanum iter, anno vigesimoquinto saeculj dimensus est, vt Exemplar Operis mei ei donarem; gratum Parenti tuo munus, vti aiebat, futurum: quod lubens praestitj: sed iucundior ea officij memoria fuit, vbi filium Geometricis ita probè instructum cognouj, ei esse; qui Parentem de dignitate Operis informare posset.
+Euenit mihi, nescio quid infortunij, cum ante biennium, Parentis tuj <seg org="alloquiofruerer" resp="#AD" type="corr">alloquio fruerer</seg>, Gandauj; quod prius eidem valedicere mihi contigerit, quam cuj valedicerem, dignoscere valuerim; grauis illa fuit iactura.
+Eius enim notitia, tecum muto litterarum alloquio, (vt inter absentes solet) agendi, occasionem mouisset. Quod jn praesens, nec importunè dilatum est.
+Verum tuis vt aliquid reponam, primo occurrit, lineola, cuius sensum non rectè assequor; quam adscribo: <hi rend="i">intelligens non parum mihi obstare posse</hi>, <hi rend="i">si tua pro veris haberentur</hi>.
+Videris insinuare methodum a me vsurpatam, lucubrationibus tuis obesse, si vera sit; cum tamen, et librj de Ductibus planj in planum, et de Proportionalitatibus, doctrinae fatearis acquiescere; quibus vniuersa demonstrandi methodus innititur.
+Dolerem vices illius, qui per mea inuenta, praeiudicium pateretur.
+Secundo sensum meum intelligere, de conatu meo, quaeris.
+De quo iubeo non esse sollicitum; sed magnis animis prosequere, quae affecta habes: nullius honori, aut laudi jnvideo. quodsi feceris, et tuo nominj fiet accessio, et vlterioris veritatis inquirendae occasio. nemo ita se scribere existimat, vt sensum alterius a suo discrepantis, non exspectare praesumat, cum denuo integrum sit <seg org="ci" resp="#AD" type="corr">ei</seg>, reponendi, <seg org="quac" resp="#AD" type="corr">quae</seg> habet.
+Plures eiusdem argumenti litteras, a varijs recepi; quos omnes hortatus sum, vt sua prodere dignarentur: varij vario praetextu sese subducunt.
+Quales sint lucubrationes meae non ignoro, nec meum de eis judicium facile prodo: et quaenam ad jncudem redigi debeant, probè nouj.
+Author tibi sum, vt quae commentatus es, et mihi, et totj orbj communices; hoc et laudi, nominis tuj adscribam, nec mihi paruo honorj. non exigui ponderis apud me momentum est, palam ostendere, eas non esse metas scientiarum, a priscis constitutas, quas a posteritate praeterirj nefas sit. quod Operis mei Titulus jnsinuat.
+Vt finiam valere iubeo, et litterarum commercium quod jnstituistj caue primus abrumpas.
+Quodsi moram responsi miraris, quod ad tuas sexta huius datas decimasexta rescribam; hesterna die tuas primum recepi.
+Jterum Vale. et Dominum Parentem, Virum Clarissimum ex me plurimum saluta: cui de tam Generosa et erudita prole ex animo Gratulor.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandauj</placeName> <date>16 Octob. 1651</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Clarissimo ac Generoso Domino D. <persName key="huyg003">Christiano Hugenio</persName>.
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

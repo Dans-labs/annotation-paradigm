@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1654"/>
+<meta type="date" value="1668-07-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1654">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 27 Iuillet 1668.</p>
+</div>
+<p>Vos conjectures<note n="#1"/> touchant vos 3 medailles estoient tres bonnes, car il est tres certain et visible qu'elles sont moulées et Monsieur de Carcavy le dit d'abord. Ie m'estonne que ces falsificateurs n'ont pas l'esprit d'addoucir autrement les bords qu'avec des limes qui y laissent des marques si evidentes. Ie luy ay dit que vous aimiez mieux d'avoir de grandes medailles de bronze des mieux faites que une suite d'Empereurs, et il m'a promis qu'il en mettroit a part de celles la, dont je vous en pourray envoier, et si elles ne vous agreent pas pour le pris, vous les renvoierez, qui est la meilleure maniere de traiter que vous puissiez souhaiter. Les suites iroient jusqu'a Heraclius a ce qu'il dit, mais je ne vous conseillerois pas de faire vostre collection de cette maniere, quand ce ne seroit qu'a cause de la difficultè de marchander.</p>
+<p>Voila une raison nouuelle de separation d'avec sa femme<note n="#2"/> qu'allegue le Bourguemaitre<note n="#3"/> d'Amsterdam, et la quelle si on l'admet, sera fort commode aux maris. mais sans doute il aura quelque meilleur pretexte. S'il fait aussi chaud chez nous qu'icy, le temps est fort peu propre au paiement de ce debitum conjugale, et vous ne devriez pas vous haster a accomplir vostre mariage pendant les jours caniculaires.</p>
+<p>Voicy vos medailles. Souvenez vous s'il vous plait du petit verre<note n="#4"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">de Zeelhem</persName> chez Monsieur <persName key="huyg001">de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

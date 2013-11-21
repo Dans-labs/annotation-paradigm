@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0047a"/>
+<meta type="date" value="1648-04-06"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0047">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je vous donne de bon coeur la bienvenue dans le nouvel estat de convalescence. Caressez en ce succes aveq moderation de travail, et ubi confirmatus fueris, revenez à vos flustes sans scrupule. Un peu de beau temps m'avoit aussi fait commencé à faire penser aux essays du Canon, mais nous avons faict recidive et nous voyci de nouveau non pas dans les nuages, mais un peu dans la grelle, et ce qui a accoutumé de les accompagner, durant la lune de mars. Mon Archimede sera dans peu icy et je l'entretiendray amplement sur vos discours mathematiques. Ne laissez pas de
+pousser le jeusne Pascal<note n="#1"/> à nous donner le corps<note n="#2"/> dont il nous a faict veoir le squelete<note n="#3"/>. Il fault tenir la main à penetrer tout ce mystere de l'Argent vif descendant au tube. Mais croyez moy, qu'a la fin, il n'y aura que les phenomenes de Monsieur Descartes, qui en viendront nettement à bout. Tout autre principe m'est trop grossier, depuis que j'ay gousté ses fondemens desquels j'ay accoutumé de dire le proverbe italien: Si non e vero, e ben trovato.</p>
+<p>Je ne sçauray vous dire plus de circonstance de ces merveilleux basteleurs des Indes; mes rapporteurs vivent loing d'ici. Par occasion je m'en informeray plus amplement et cependant attendray la machine à voler<note n="#4"/>, mais, comme je pense vous avoir dit, bien plus encor les veritables temoignages des experiences faictes en Poloigne. Il ne me vient rien de nouveau en fantaisie dont je puisse vous entretenir je reviens donq à ceste ancienneté, mais qui ne viellira jamais, que je suis d'entiere affection</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble serviteur <persName key="huyg001">C. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName>, le <date>6 Avril, 1648</date>.</p>
+</div>
+<p>Un seigneur anglois m'a faict venir de france un beau viel grand luth<note n="#5"/> de Bologne, le meilleur que je touchoy jamais. Pensez si le present me ravit. Il regne dans son creux le plus doux tonnerre qu'on puisse entendre.</p>
+<p>Je ne sçauray vous le peindre mieux.</p>
+<p>Encor ne m'avez-vous jamais voulu dire, quel moule de Luth vous estimiez que doibve rendre la plus belle resonnance et pourquoy. Je sçay quelque chose par experience, qui me trompe rarement, mais mon Archimede aura charge d'en raisonner sur la theorie.</p>
+</div>
+</body>
+</text>
+</TEI>

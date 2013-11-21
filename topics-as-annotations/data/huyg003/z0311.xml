@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0311"/>
+<meta type="date" value="1656-07-06"/>
+<meta type="sender" value="robe012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0311">
+<div type="opener">
+<p><placeName key="parij001">Paris</placeName>, <date>6 Juillet 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>La principale faute de celles que Je trouue en la geometrie de Descartes, est en la page 326 de sa premiere edition en françois, òu il dit. Et sj la quantité <hi rend="i">y</hi> se trouuoit nulle &amp;ca. Jusque au milieu de la 9e ligne de cette page. Car le point C dont il parle, est dans tous les quatre angles <formula>DAG, DAE, EAR, RAG</formula>; et jamais le probleme n'est jmpossible: ce quj est tout contraire a sa determination. En general, des vintquatre angles que peuuent faire les quatre lignes en s'entrecoupans en six poincts, (que je nomme les six neuds) il n'y en a d'ordinaire qu'vn dans lequel ce point C ne se puisse trouuer. Et c'est vne maxime que quand la question est proposee comme dans Descartes, ou dans Pappus; c'est à dire purement et simplement
+<figure><graphic url="huyg003oeuv01ill156.gif"></graphic></figure>
+comme les anciens l'ont proposee; le point C se rencontre tousjours dans tous les espaces fermez, tant triangles, que quadrangles; comme O P Q, A G Q, A E P Q: et encore dans tous les espaces quj n'estans point fermez, sont faites de trois lignes droites; comme D A E F, D A G H, G Q O Y, Z O P T, T P E V; pour ce que le lieu solide passe par tous ces espaces, et par quatre des six neuds A, E, G, O, P, Q; (en la supposition de Descartes, ces quatre sont A, G, O, P; E et Q sont excluses) sans pouuoir couper aucune des quatre lignes ailleurs qu'en ces quatre neuds. En quoy Descartes a fait paroitre qu'il n'a pas entendu cette matiere à sonds; puis qu'en la page 331, il fait que son lieu coupe vne des quatre lignes au point H, quj est vn autre qu'aucun de ces quatre. Quant aux espaces quj ne sont compris que de deux lignes, comme F E V, H G X, Y O Z, jl y en peut auoir vn par où le lieu ne passera point, mais il passera necessairement tousjours par les autres, ainsj le point C s'y trouuera.</p>
+<p>La faute du bon-homme vient, à mon auiz de ce qu'il n'a pas connu qu'vn tel lieu, pour estre parfait, demande deux sections à la fois, et chacune toute entiere. Par vne section entiere, J'entens ou vne circonference de cercle entiere, ou vne Ellipse entiere, ou vne Parabole entiere, ou deux hyperboles opposees entieres quj ne font ensemble qu'vne section, ou deux lignes droites infinies quj s'entrecoupent; et en general, ce que peut faire vn plan coupant vne superficie conique entiere, et composee des deux cornets opposez au sommet l'vn de l'autre, suiuant la definition d'Apollonius: Il faut, dis-je deux de ces sections entieres, autant qu'en peuuent faire deux plans: tellement qu'vne circonference de cercle, pour exemple, n'est pas suffisante, mais il luy faut encore pour l'ordinaire, deux hyperboles opposees, affin que le lieu soit tout parfait; et souuent jl faut quatre hyperboles opposees deux à deux. Par le moyen de deux tels lieux entiers, le poinct C se trouuera dans tous les espaces que J'ay specifiez, sans que le probleme puisse jamais estre jmpossible.</p>
+<p>Je scay que Monsieur <persName key="scho197">Schoten</persName> page 197. de ses commentaires sur cette geometrie, tache d'excuser la faute de son auteur, voulant qu'il se doiue entendre quelquefois quand les rectangles sont tels que l'vn soit à l'autre (<hi rend="i">majus dato quàm in ratione</hi>). Mais Je voudrois pour l'honneur de ce scauant homme, que J'estime jnfiniment, qu'il eust eu moins de complaisance pour Descartes: car quand memes il ne seroit pas vray, ce quj est vray pourtant, que les anciens ne l'ont jamais ainsj entendu, nj Descartes aussj quj s'explique par tout comme les anciens, tant en sa proposition, qu'en son Analyse et en sa conclusion: quand dis-je on feroit entrer en la question ces mots (<hi rend="i">majus dato quàm in ratione</hi>) le point C se trouueroit tousjours dans tous les espaces quj estants infinis, seroient faits de trois lignes droites sans paralleles, comme D A E F, D A G H, &amp;ca. et souuent aussj dans les autres tant fermez que simplement angulaires, et formez de lignes paralleles, par lesquels il passeroit necessairement s'il n'y en auoit point d'autres: Et en general, en ce cas comme en celuy des anciens, le probleme ne seroit jamais impossible. Voila comme jl en prent, de defendre aueuglement vn homme quj ayant l'ambition de paroitre impeccable, auroit plustoft commises mille absurditez, que de se retracter de bonne grace d'vne faute dont Je l'auois aduerty en amy, auparauant que d'en parler à aucun autre; mon humeur n'estant point de tirer auantage des fautes d'autruy, sinon celuy de n'y pas tomber sj Je puis. Memes, à ce cas propose par Descartes en la figure de la page 327, le cercle coupe les lignes au neud A; ce qu'il ne pourroit faire sj la raison estoit (<hi rend="i">major dato</hi>) auquel cas il ne passeroit que par vn des six au plus, et celuy la ne pourroit estre aucun des quatre A, G, O, P, en la proposition de Descartes, mais il seroit E, ou Q, en vn cas singulier seulement, hors lequel cas, ce lieu
+estant parfait, couperoit les lignes ailleurs qu'aux six neuds. Il y a dautres fautes, mais c'est assez pour ce coup, Je diray le reste sj vous le desirez, quand vous m'aurez mandé vostre sentiment et celuy des autres sur la presente.</p>
+<p>J'ay montré à plusieurs vostre ecrit touchant la lune de Saturne: mais J'ay fait bien plus, car Je l'ay publié en vous nommant, dans la chaire roiale, en grand auditoire de doctes attirez pour entendre l'opinion d'Aristarque, que J'expliquois publiquement: Je n'en ay pourtant parlé que comme d'vne obseruation quj s'eclairciroit auec le temps, et quj meritoit bien de suspendre son jugement jusques à ce qu'elle fust entierement consirmée.</p>
+<p>J'ay aussj pensé vne hypothese quj me satisfait fort bien, touchant les diuerses faces du meme Saturne, quoy qu'en consequence de vostre lune, il doiue se mouuoir sur
+son centre en moins de 24 de nos heures: mais, comme Je ne fais point de secret, Je l'ay communiquee publiquement dans la meme chaire; Je vous la manderay sj vous le desirez.</p>
+<p>Quelques accidens inopinez, et quj ont eu de la suitte, m'ont fait tant tarder à vous repondre pour ce coup; J'espere de vous ecrire plus souuent à l'auenir. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble seruiteur <persName key="robe012">Roberual</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Mr. <persName key="huyg003">Cretien Huygens de Zulichem</persName>. a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

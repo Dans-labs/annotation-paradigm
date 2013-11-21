@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0663"/>
+<meta type="date" value="1659-09-09"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0663">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Jam ab aliquot diebus responsum litteris tuis debeo, varijs et maximè alienis a Geometriâ negotijs distractus. Quâ primum itaque possum occasione gratias ago, quod Saturno tuo in Angliam proficiscentj comitem esse volueris libellum meum, quem hoc duce spero ab acutis illis Geometris benigné exceptum irj. Hypothesim tuam quo magis examino, eo magis arridet; nec enim, qui planetam cingit annulus, <hi rend="i">ἄτοπος</hi> videri potest mihi <hi rend="i">τὰ τῆς ϕύσεως παράδοξα ϰαὶ ἀπροςδόϰητα</hi> assueto etiam in minimis contemplarj. Recte vero praeuidistj quid de circulo tuo existimaturus essem; in aliâ enim serie repertus est, cuj similes aliquot infinitorum circulorum ordines videbis in opusculo quod prae manibus habeo<note n="#1"/>, et cum singulis parabolas aliquot et infinitas Ellipses ac Hyperbolas quae Problema soluant. Monui id aliquoties in Mesolabo meo, cuilibet circulo quasdam parabolas cum infinitis Ellipsibus et Hyperbolis conuenire, vt paginis 47 et 48 ac 51 quibus duas descripsi ad quas Ellipses et Hyperbolae infinitae referuntur; eadem prorsus ratione, quâsi conus planis ad triangulum per axem erectis, infinitis ac diversimodè inclinatis per idem semper punctum secetur vnam tantum parabolam et vnum circulum exhibebit sed Hyperbolas ac Ellipses numero infinitas. Quod sj aliud punctum sumas, rursus infinitam aliam Hyperbolarum ac Ellipsium
+seriem efficies, et cum infinita puncta sumere possis, infinitos quidem circulos habebis, sed pro singulis infinitas Ellipses et Hyperbolas, vnicam parabolam. Eodem plane modo Problemata haec non eo circulo solum qui rectangulum ab extremis includit, solui possunt, sed alijs infinitis ita tamen vt de quolibet eadem demonstrari possint, quae de illo vnico in Mesolabo meo ostendj: quod et in praefatione innuj cum scripsi non vice simplicj id fieri posse sed pluribus; non addidi autem infinitis, ne viderer illâ infinitj repetitione, plautino vocabulo, paratragaediare. Quod vero monet Amplissimus Dominus <persName>de Wit</persName> (cuius humanitati plurimum debere me profiteor) plus elegantiae habituras fuisse constructiones meas, si positâ primum quâlibet Ellipsi vel Hyperbolâ, illam circulo secuissem; fateor id equidem facile mihi fuisse, et saepe factum videbis in
+alio opere<note n="#2"/>; sed aliam rationem secutus sum, vt et demonstrationem faciliorem exhiberem, et analyseos quâ vsus sum methodum, aperte, quantum quidem Antiquorum Geometriâ fieri potest, ostenderem.</p>
+<p>Circa Problemata illa quae ad quartum dimensionis gradum ascendere videntur, hoc tantum obseruauj, fieri posse vt saepe facili constructione haereant in secundo. Exemplo rem ostendo in Problemate Pappi quod a Cartesio relatum est Geometriae pagina 93.<note n="#3"/> in quo facillimam hanc constructionem inter alias analysi meâ inuenies.
+<figure><graphic url="huyg003oeuv02ill156.gif"></graphic></figure>
+Producatur (in illius figurâ) DC in Q, ita ut DQ sit aequalis DN, et rectangulo QCD ponatur aequale QFC, recta BF, occurrens AC productae in E, satisfaciet proposito.</p>
+<p>Est interim quod admirer, Te plurima in methodo eaque difficillima assequi, in facillimis vero a viâ deflectere. Id non aliâ de causâ accidere arbitror, quam quod eorum more qui viribus valent, vltra scopum iacularis: videbis enim, si Deus vires et otium dederit, quam leuibus fundamentis tota haec infinitarum constructionum moles innitatur. Vale Vir Praestantissime meque ama</p>
+<div type="closer">
+<p>Tuj obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p><placeName key="luik_001">Leodij</placeName> <date>9 7bris 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

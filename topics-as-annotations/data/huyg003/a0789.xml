@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0789a"/>
+<meta type="date" value="1660-10-20"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="gron010"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0789">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="gron010">Joanni Frederico Gronovio</persName> S.P.D. Leidam</p>
+</div>
+<p>Tardius ad tuas respondeo, vir summe, quam fieri oportuit. Sed dum Bullialdi nostri adventum ac congressum operior, officium scriptionis differre sum coactus. Is ergo, quod mirere, nihil mihi tibique a Menagio attulit, cum tamen tibi Senecam Guyeti<note n="#1"/>, mihi Virgilium manu exaratum obtulisset. Credo hominem existimationi contra insultum Senatus tuendum intentum de promisso non potuisse cogitare. Accepi tamen poematum ejus novam editionem, pro quo munere cum gratias illi sim acturus perendie, de Virgilio non misso obiter mentionem inijciam. Si quid de Seneca Guyeti vis additum, tempestive monendus sum. Limogius<note n="#2"/> me convenit, placuitque. Sed hominem sermonis Belgici vix gnarum, qui commendare possim Proceribus haud video. Nos de re tota coram aliquando confabulabimur. Nam de profectione mea, quantum video, lentum erit negotium. Mea enim interest ne pedem hinc moveam, nisi lite judicata, quae sola me moratur, quod cum proceres nostri intellexissent, heroes Wittius ac Bellimontius<note n="#3"/> instructi publica
+auctoritate Judices convenerunt, monueruntque interesse rei publicae, ut causae meae discutiendae suprema manus quam primum inponatur. idque se facturos iudices sunt polliciti. Jnterim ambitiosis, quaeso, titulis abstine imposterum. Menagij versus hîc habes, cum Gudij epigrammate apologetico, nimis certe bono in mala caussa. De codice Norico multa magnifice amicus ille noster erat pollicitus, qua in re alienis potius oculis, quam suis, credidit. Est enim codex recentis notae: an castigatus sit &amp; fidus, necdum affirmare possum. Mox intelliges. De codicibus Remensibus plus spero. Lucani tria exemplaria a Rottendorphio<note n="#4"/> accepi,
+quatuor ab Illustrissimo Thuano<note n="#5"/>. Spanhemius<note n="#6"/> interim, ea de re non semel per me monitus, praefracte tacet. Utar igitur illis codicibus mihi, Anacreontem Fabri<note n="#7"/> habeo, sed necdum perlegi. Meis in Fastos animadversionibus supremam manum post biduum triduumve typographi imponent. Vale, flos &amp; ocelle elegantiorum literarum. Dabam festinus <placeName key="denha004">Hagae Comitis</placeName> <hi rend="sc">ciɔiɔclx</hi> a.d. <hi rend="sc">xx</hi>. Octobr. Gregor.</p>
+<p>Christianus Hugenius Lutetiam profectus est, ante discessum proposuit mihi castigationem in Nasone suam, quam puto esse verissimam, libro <hi rend="sc">xii</hi>. Metamorphosenon initio<note n="#8"/> fabulae de singulari Achillis &amp; Cygni certamine,</p>
+<lg type="poem">
+<l rend="; 1tab">.....<hi rend="i">Hectoreá primus fataliter hasta</hi>,</l>
+<l><hi rend="i">Protesilae</hi>, <hi rend="i">cadis: commissaque praelia magno</hi></l>
+<l><hi rend="i">Stant Danais; fortesque animae</hi>, <hi rend="i">neque cognitus Hector.</hi></l>
+</lg>
+<p>Itane vero? non cognitus Danais Hector? qui virum fortissimum Protesilaum interfecisset? Legit feliciter, si quid video, Hugenius, <hi rend="i">fortisque animae nece cognitus Hector</hi>, ut per fortem animam Protesilaum intelligat, cuius paulo ante meminerat<note n="#9"/>. Pro specimine editionis Sancti Hieronymi<note n="#10"/> Malincrotiano<note n="#11"/> multum tibi debeo: de Cappellani nostri ode judicium tuum fac ex te audiam. Nam &amp; ad illum proxime sum scripturus.</p>
+</div>
+</body>
+</text>
+</TEI>

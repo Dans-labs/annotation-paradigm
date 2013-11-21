@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1929"/>
+<meta type="date" value="1673-03-31"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1929">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 31 Mars 1673.</p>
+</div>
+<p>Je crois que vous n'estes pas beaucoup loin de voir reussir vos bons souhaits car l'on tient la paix presqu'asseurée icy, et mesme des personnes qui en peuvent scavoir quelque chose. Les 3 deputez qu'on a choisis pour aller au traitè à Cologne, vont partir dans 7 ou 8 jours. Ce sont Monsieur le Duc de Chaune<note n="#1"/> Monsieur <persName>Courtin</persName><note n="#2"/> et Monsieur Barillon<note n="#3"/>. Mandez moy qui sont les 6 de dela qu'on dit
+qu'ils y sont destinez. Il me tarde extresmement de veoir ce traitè commencè, et quelles conditions on obtiendra qui ne soient pas trop desavantageuses pour nostre païs. Les Espagnols y auront aussi 3 deputez, a ce qu'on m'a dit, de sorte que les choses vont a un accommodement universel, qui est ce qu'on doit le plus souhaiter chez nous<note n="#4"/>. Je conçois fort bien qu'apres ce calme revenu vos affaires s'en porteront incomparablement mieux et que vous serez delivrè d'une grande inquietude, ou me mettoit ce doute de summa rei. Je commence desià a songer, comment vous ferez pour vous debarasser des eaux qui inondent <hi rend="i">longè lateque</hi> vostre territoire, et si vous ne desirerez point de nouvelles inventions de moulins.</p>
+<p>Je ne vous aij pas encore communiquè celuy de la Chine<note n="#5"/> qui est tres ingenieux, mais comme il n'a jamais encore estè pratiquè je n'oserois pas asseurer que son effect soit fort grand.</p>
+<p>Mon Pere par sa derniere m'envoie nouvelle commission pour solliciter la confirmation de la neutralité de Zulichem<note n="#6"/> mais puisque voila la paix (car c'est ainsi qu'on en parle icy) je ne m'en mets plus en peine. L'on dit pourtant que le Roy part vers le milieu de ce mois d'Avril. mais on fait bien la paix, les armes a la main.</p>
+<p>De ce que vous dites touchant vostre menage, il semble qu'il soit establi un peu autrement que par le passè. Je seray bien aise d'en estre informè. Quand la paix sera faite songez d'y introduire une menagere d'une autre sorte, pour gouverner et pour multiplier vostre famille. Adieu.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huygens de Zulichem</persName> Grand Bailly de Gorcum et du païs d'Arckel à la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

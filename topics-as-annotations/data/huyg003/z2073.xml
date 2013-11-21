@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2073"/>
+<meta type="date" value="1675-11-18"/>
+<meta type="sender" value="brou051"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta resp="HI" type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2073">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 8 Nov. 75.</p>
+<p>Monsieur,</p>
+</div>
+<p>Bien que i'estois entierement satisfait de l'innocence de M. <persName key="olde010">Oldenburg</persName> en tout ce que M. <persName key="hook001">Hook</persName> luy a voulu imputer; si est ce pourtant que ie vous remercie tres-affectionement de ce qu'il vous a plû m'escrire en son endroit et pour sa vindication, dont ie me serviray à toute occasion pour luy rendre justice. Ces passages severes, dont vous faitez mention, ont esté effacés, et le Postscript corrigé en plusieurs endroits, (quoy que non pas tant qu'il falloit) devant que l'imprimé fut debité<note n="#5"/>, et M. Oldenburg s'est rendu à soy mesme quelque justice dans les Transactions nouuellement publiées<note n="#6"/>.</p>
+<p>Quant à vous mesmes, Monsieur, quoyque rien de ce que M. <persName key="hook001">Hook</persName> puisse ou dire ou faire, soit capable de deroger de vostre reputation, qui estez trop conu à tous les scavans de l'Europe par vos rares Inventions et excellentes pieces données au monde, i'ay neantmoins tasché à cete occasion de vous faire icy toute justice,
+en alleguant ma propre experience de l'insuffisance de sa montre, et de ce qu'il l'auoit entierement abandonné jusques à ce que l'imprimé de la vostre apparut icy; et en y adjoustant la grande difference qui se trouue entre elles; de sorte qu'il n'y manque rien que de produire vne des vostres qui soit complete, laquelle ie vous prie de vouloir me faire tenir le plus promptement, que vous pourrez; ie veux dire, vne d'or, la voulant mettre entre les mains de son Altesse Royale<note n="#7"/> qui a eu vostre premiere, laquelle luy plaisoit bien, mais qu'elle s'arresta souvent (quoy que nous puissions faire,) et manqua des minutes, qu'on desire fort icy. Au reste, vous pouuez estre persuadé, que ie suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres affectioné serviteur <persName key="brou051">Brouncker</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>, dans la Bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

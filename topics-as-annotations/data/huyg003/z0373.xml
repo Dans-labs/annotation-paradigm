@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0373"/>
+<meta type="date" value="1657~"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0371"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0373">
+<p><figure><graphic url="huyg003oeuv02ill06.gif"></graphic></figure></p>
+<p>AC vel BD <hi rend="i">oe p.</hi></p>
+<p>BE <hi rend="i">oe a</hi> vel 1.</p>
+<p>E<hi rend="i">f oe q.</hi></p>
+<p><hi rend="i">gh</hi> oe <hi rend="i">r.</hi></p>
+<p><hi rend="i">h oe pq/a</hi> vel <hi rend="i">pq.</hi></p>
+<p>L<hi rend="i">m</hi> esto oe <hi rend="i">z.</hi></p>
+<p>Summa quadratorum K<hi rend="i">x</hi>, <hi rend="i">xm</hi> jd est <hi rend="i">mq</hi><note n="#2"/>. aequabitur summae quadratorum K<hi rend="i">y</hi>, <hi rend="i">y</hi>D, jd est KD<hi rend="i">q.</hi><note n="#3"/></p>
+<p>&nbsp;</p>
+<p>Sed <hi rend="i">mx</hi> est oe <hi rend="i">z</hi> - ½ <hi rend="i">r</hi> + ½<hi rend="i">pq/a.</hi></p>
+<p>K<hi rend="i">x</hi> est oe ½ <hi rend="i">a/p</hi><hi rend="sup">2</hi> + ½ <hi rend="i">a</hi> + ½<hi rend="i">q</hi> - <hi rend="i">z</hi><hi rend="sup">2</hi>/<hi rend="i">a</hi></p>
+<p>Jgitur ductae quadraticè, adficientur terminis <hi rend="i">z</hi><hi rend="sup">4</hi>. <hi rend="i">z</hi><hi rend="sup">2</hi>. et <hi rend="i">z.</hi> talis autem est aequatio nisi errauerim jn calculo</p>
+<p><figure rend="inline"><graphic url="huyg003oeuv02fi39.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

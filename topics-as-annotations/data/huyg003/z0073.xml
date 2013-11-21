@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0073"/>
+<meta type="date" value="1650-02-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="genev001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0073">
+<div type="opener">
+<p>Mon Frere.</p>
+</div>
+<p>Je viens de faire le chemin de <placeName key="voorb001">Voorburgh</placeName> avecq Mon Pere moitié à pied moitié par bateau a cause que l'un de nos chevaux de carosse, estant devenu maladif, est envoijé a la foire d'Vtrecht pour ij estre vendu. Vostre hacquenée a ce que nous avons appris par les dernieres lettres de Toot court grand risque d'en estre faite autant, car apparemment Milord Cravain<note n="#1"/> en revenant de Heidelbergh prendra son chemin par eau, mais il n'est pas encore bien certain s'il ira jusques l. Maintenant ils sont à Cassel, et c'est aujourdhuij<note n="#2"/> que Mr. l'Electeur<note n="#3"/> se marie. Mr. <persName>Crom</persName>mon a eu sa premiere annonce la dimanche passée; je ne vous escriraij pas d'autres particularitez touchant le nom et les qualitez de son espouse car je ne doute pas que vous n'en soyez pleinement informé par Mr. <persName>Kinschot</persName><note n="#4"/>. Il ij a encore un autre mariage à <placeName key="amste001">Amsterdam</placeName>, ou je suis prié aux nopces, c'est de la fille<note n="#5"/> du feu drossart Hooft<note n="#6"/> et du Sr Coenraed Burgh<note n="#7"/>, Eschevin de la ville, et avecq cela homme fort riche: je ne manqueraij pas de m'ij trouver. Mon Pere a aujourdhuij receu lettres d'Amsterdam par les quelles il est prié à l'enterrement du Cousin Visscher, qui mourut hier au matin fort subitement
+d'une apoplexie; il ne s'ij trouvera pas. Voyla toutes les nouvelles que j'avois à vous mander, et voicij pourtant encore une nouvelle Epigramme<note n="#8"/> d'un nouveau poete qui sera tousjours</p>
+<div type="closer">
+<p>Mon Frere
+<lb/>Vostre tresaffectioné frere et serviteur <persName key="huyg003">Chr. Huijgens</persName>.</p>
+</div>
+<p>Vous avez veu les epitaphes de mon Pere, et verrez aijsement que ce sont ceux la qui m'ont donné occasion a faire cettuij cij, qu'on n'a pas trouvé mauvais.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">Huijgens</persName>, Secretaire de S. Altesse d'Orange
+<lb/>A Geneve.</p>
+</div>
+</body>
+</text>
+</TEI>

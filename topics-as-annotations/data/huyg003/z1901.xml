@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1901"/>
+<meta type="date" value="1672-07-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1901">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 29 juillet 1672.</p>
+</div>
+<p>L'on tient pour assurè que le Roy sera demain a Saint Germain. Il y a 8 jours qu'on parle de ce retour et l'on en a tousjours voulu conclure que la paix estoit faite, ou preste a faire; mais a ce que je puis juger pas vostre derniere lettre, il n'y
+a pas encore grande apparence. Les conditions que l'on demande sont en effect bien dures, et puis qu'il y a encore esperance de se pouuoir maintenir et d'estre secouru, je ne m'estonne pas qu'on les refuse, quoyque je ne doute pas qu'on n'en pust faire rabattre beaucoup si on en venoit au traitè. Si la guerre ne finit devant l'hyver je ne scay comment on pourra empescher l'entree au païs et les ravages que les ennemis pretendent de faire a la faveur des glaces.</p>
+<p>Outre les mutineries des païsans de Tergouw et de St. Annalandt dont vous parlez, j'ay oui dire que ceux de l'isle de Walcheren se sont soulevez de mesme et qu'ils se sont saisis des bourgemaitres de Middelbourg. L'on parle aussi d'une expedition des femmes de Delft qui auroient voulu entrer dans la Haye a main armée, mais parce que vous n'en dites rien, je ne scaurois le croire.</p>
+<p>Qu'est ce que dit le Seigneur de St. Annelandt<note n="#1"/> de la bravoure de ses sujects qui se rendent ainsi maistre des villes? Je ne doute pas qu'on ne luy en fasse la guerre.</p>
+<p>Je ne comprens pas ce que vous dites de l'inondation du Monnickenlandt<note n="#2"/> qu'il n'y a point de remede, si ce n'est que vous voulez dire pour cette année, car autrement les inondations que cette terre souffre tous les hyvers n'y faisoient point de mal.</p>
+<p>Je n'entens pas aussi comment la rupture d'une digue peut ruiner entierement Zulichem, car je crois qu'en estè toutes les eaux s'ecoulent quand les rivieres sont fort basses. L'on dit icy de nouveau que Bommel est pris, mais je n'en veux rien croire puis qu'il estoit inondé<note n="#3"/>.</p>
+<p>Vous ne me dites encore rien de l'affaire de Mombas<note n="#4"/>, cela me fait croire, qu'on n'en parle plus guere et qu'il n'y aura point eu de preuve de ce qu'on luy a imposè. Je voudrois bien scavoir un peu plus particulierement de quoy l'on accuse le marquis de Vlaerdinge<note n="#5"/>. La trahison de Brousma<note n="#6"/> est tres vilaine, ceux
+qui connoissent icy la ville de Coeverden la tenoient imprenable. Cela est bien facheux de veoir commettre toutes ces trahisons et lachetez sans qu'aucune jusqu'icy soit punie.</p>
+<p>Je ne scaurois m'imaginer la raison de ce que le Consul rapporte<note n="#7"/> de la faute de sa pendule, si ce n'est que la suspension n'ait pas estè assez libre, faute d'avoir mis de l'huile a la boule, ou que les vibrations de la pendule n'aient pas eu assez d'eschappee apres que la dent de la roue de rencontre a frappé contre la palette. Les horologes qu'on a autrefois emploiè icy pour ces experiences, n'ont pas estè sujettes a ce defaut qu'il marque, car on l'auroit mis dans les relations<note n="#8"/>, aussi bien
+<figure><graphic url="huyg003oeuv07ill50.gif"></graphic></figure>
+que toutes les autres particularitez. Quand la paix sera faite, j'iray moimesme faire l'essay de cette invention avec des horologes de la derniere fabrique<note n="#9"/> où le pendule est attachè par deux endroits ainsi et seulement de la longueur de 6 pouces, car je vois bien qu'il faut commencer par la faire aller, et ensuite avoir soin <hi rend="i">de la justesse</hi>. Madame de Buat m'a dit que Madame sa mere<note n="#10"/> vient icy la voir.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

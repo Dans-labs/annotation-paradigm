@@ -1,0 +1,43 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2681"/>
+<meta type="date" value="1691-05-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leipz001acta01"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leipz001"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2680"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2681">
+<p><note n="#2"/> Clarissimis et Eruditione conspicuis Viris Actorum Eruditorum auctoribus Lipsiae.</p>
+<p><figure><graphic url="huyg003oeuv10ill30.gif"></graphic></figure></p>
+<p>Si Catena CVA suspensa sit ex filis FC, EA utrinque annexis, ac gravitate carentibus, ita ut capita C &amp; A sint pari altitudine, deturque angulus inclinationis filorum productorum CGA, &amp; catenae totius positus, cujus vertex sit V, axis VB.</p>
+<p>1. Licebit hinc invenire tangentem in dato catenae puncto<note n="#3"/>. Veluti si punctum datum sit L, unde ducta applicata LH dividat aequaliter axem BV. Jam si angulus CGA sit gr. 60. erit inclinanda a puncto A ad axem recta AW, aequalis 3/2 AB, cui ducta parallela LR, tanget curvam in puncto L. Item si latera GB, BA, AG sint partium 3, 4, 5, erit AW ponenda partium 4½.</p>
+<p>2. Invenitur porro &amp; recta linea catenae aequalis vel datae cuilibet ejus portioni<note n="#4"/>.</p>
+<p>Semper enim dato angulo CGA, data erit ratio axis BV ad curvam VA.</p>
+<p>Velut si latera GB, BA, AG sint ut 3, 4, 5, erit curva VA tripla axis VB.</p>
+<p>3. Item definitur radius curvitatis in vertice V, hoc est semidiameter circuli maximi qui per verticem hunc descriptus totus intra curvam cadat<note n="#5"/>. Nam si
+angulus CGA sit 60 gr., erit radius curvitatis ipsi axi BV aequalis. Si vero angulus CGA sit rectus, erit radius curvitatis aequalis curvae VA.</p>
+<p>4. Poterit et circulus aequalis inveniri superficiei conoidis, ex revolutione catenae circa axem suum<note n="#6"/>.</p>
+<p>Ita si ang. CGA sit gr. 60. erit superficies conoidis ex catena CVA genita aequalis circulo, cujus radius possit duplum rectangulum BVG.</p>
+<p>5. Invenientur etiam puncta quotlibet curvae KN, cujus evolutione una cum recta KV radio curvitatis in vertice, curva VA describitur. Atque evolutae ipsius KN longitudo<note n="#7"/>.</p>
+<p>Velut si ang. CGA fuerit 60 gr., erit KN tripla axis BV. Si vero latera GB, BA, AG sint ut 3, 4, 5, erit illa 9/4 axis BV.</p>
+<p>6. Praeterea spatij NKVAN quadratura datur<note n="#8"/>.</p>
+<p>Posito enim ang<hi rend="sup">o</hi>. CGA 60 gr., erit spatium illud aequale rectangulo ex axe BV, et ea quae potest triplum quadratum ejusdem BV. Si vero latera GB, BA, AG sint ut 3, 4, 5, erit idem spatium aequale septuplo quadrato BV cum parte octava.</p>
+<p>7. Porro puncta quotlibet catenae inveniri possunt, posita quadratura curvae alterutrius harum: <hi rend="i">xxyy</hi> ∞ <hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">aayy</hi> vel <hi rend="i">xxyy</hi> ∞ 4<hi rend="i">a</hi><hi rend="sup">4</hi>-<hi rend="i">x</hi><hi rend="sup">4</hi>. Vel etiam data distantia centri gravitatis ab axe, in portionibus planis, quas abscindunt rectae axi parallelae in curva harum priore<note n="#9"/>.</p>
+<p>Quadratura autem hujus curvae pendet a summis Secantium arcuum per minima aequaliter crescentium<note n="#10"/>: quae summae ex Tabulis sinuum egregio quodam adhibito compendio inveniuntur quamlibet proxime<note n="#11"/>. Hinc ex. gratia inventum quod si ang. CGA fit rectus, et ponatur axis VB partium 10000; erit BA, 21279 non una minus. Curva autem VA per superius indicata<note n="#12"/> congnoscitur bic esse partium 24142, non una minus.</p>
+<p>In his omnibus non nisi ad casus singulares solutiones problematum dedi vitandae prolixitatis studio, et quoniam non dubito quin Regulas universales Viri docti affatim sint exhibituri. Quod si tamen aliquae ex nostris requirentur, eas lubenter mittam<note n="#13"/>. Ac jam pridem omnes apud Claris. virum G.G. Leibnitzium involucro quodam obtectas deposui<note n="#14"/>.</p>
+<p>&nbsp;</p>
+<p>Rogantur Viri Clarissimi, deque scientiarum studijs quam optime meriti, ut quae de Problemate Catenae Bernouliano pagellis hisce exposui, si digna videbuntur cum caeteris quae Eruditorum cohors suppeditabit in lucem edere velint.</p>
+<p>Ita jam pridem non uno nomine sibi obstrictum novo officio devinciar.</p>
+<div type="closer">
+<p><persName key="huyg003">Chr. Hugenium</persName>.</p>
+<p>D. Hagae Com. 5 Maj. 1691.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

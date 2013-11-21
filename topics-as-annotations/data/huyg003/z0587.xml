@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0587"/>
+<meta type="date" value="1659-02-13"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0587">
+<div type="opener">
+<p>Nobilissimo Clarissimoque Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Quae de Cycloïdis lineae dimensione Mylonius nobis communicavit<note n="#1"/>, ingeniosa sanè sunt, ut et ipsius <persName key="wren002">Wrenni</persName> inventum<note n="#2"/> profectò pulcherrimum est, de quo nihil hactenus inaudiveram non magis quàm de nomine Authoris. Mylonij verò demonstratio, cum longè ab ipso petita videatur atque Doctrinam motuum compositorum ac Theorema à Robervallo jam pridem demonstratum praesupponat, quae quidem dum nunquam vidi, non potuit illa mihi penitus esse perspecta. Gaudeo
+haec à Te (uti intelligo) multò brevius jam diu esse perfecta, ita ut insuper haberi possint et doctrina illa de motibus et dictum Robervalli Theorema, eoque magis quòd et partes hujus curvae dimensus sis, ostenderisque in schemate Myloniano curvam <hi rend="i">mt</hi> semper duplam esse rectae <hi rend="i">cf</hi>, quod sanè egregium quoque est. Quae verò circa Slusij curvam demonstravit Mylonius<note n="#3"/>, non multum dissimilia sunt ijs, quae et ego de ipsius Quadratura inveneram. Quod alterum tuum inventum concernit et caelandum nobis hactenus voluisti, egregium item planè est, mirorque et illud Auzotio circa idem fermè tempus incidisse, et quod miraberis etiam Heuratio nostro<note n="#4"/>, qui anno practerito paulò ante ejus discessum in Galliam invenerat Methodum, quâ Superficies Sphaericas, Parabolicas, aliasque innumeras dimetiri potuerit; ut et suppositâ rectâ lineâ aequali lineae Parabolicae dari inde quoque Hyperboles Quadraturam, et vice versâ. Atqui hoc non tantum, sed nuperrimè (uti per literas mihi ostendit) invenit insuper Methodum, quâ complures curvae lineae perfectè omnino in rectas transmutentur, quod adeò quidem dilucidè atque breviter explicuit ut ad totum istud negotium duabus vix pagellis indiguerit, ac praeterea ut id quod de Hyperboles quadratura modò dictum fuit inde ultrò quasi corollarium dimanaverit. Narravit etiam tunc temporis à se inventam fuisse Methodum, quâ protinus gravitatis centra, aliaque hujusmodi tali facilitate potuerit determinare, ut ad id vix ullo
+calculo opus habuerit. Ejus methodus transmutandi curvas jam sub praelo sudat<note n="#5"/>, ac propediem, si volet Deus, cum prima parte Geometriae Cartesij<note n="#6"/> in lucem prodibit. Caeterum cum saeculum hoc omnino Mathematicum videatur, atque vix quicquam ita arduum aut reconditum in universa Mathesi sit habendum, quod hodie à Praestantissimis Mathematicis, quos inter Te etiam in primis, Vir Nobilissime, nominare libet, modò inveniri possit, non inveniatur, quantumvis illa, quae ultro communicanda offers, mihi grata forent, non auderem tamen, nisi alijs curis magis vacuus, quae animum sat multum impraesentiarum sollicitum tenent, perspicienda suscipere; ne simul cum jucunditate illa majus mihi adhuc negotium sic facesserem. Tu modò, vir Amicissime, ut coepisti, perge tuis praeclarissimis inventis Rempublicam Literariam continuò ornare. Vale.</p>
+<div type="closer">
+<p>Dabam <placeName key="leide001">Lugd. Bat.</placeName> <date>13 Febr. 1659</date>.</p>
+</div>
+<p>Dominus <persName>Heuratius</persName>, qui unà cum Domino <persName key="hudd002">Huddenio</persName> 8 circiter mensibus abhinc in Galliam est profectus nuper Salmurio ad avunculum suum hîc habitantem literas dedit, quibus ipsum facit certiorem, se intra paucos dies iter suscepturum per Rupellam, Burdigalliam, &amp;c. usque in Helvetiam, perrecturus inde (uti confido) in Italiam. Sed utrum illi Dominus <persName key="hudd002">Huddenius</persName> perpetuus comes in itinere sit futurus, valde dubito.</p>
+<p>Quaeso proximâ occasione nobis indicare digneris, qualem eventum lites vestrae Hagae Comitum sortitae fuerint, cum ex novellis haud ita pridem didicerim Plagiarium istum Roterodamensem<note n="#7"/> privilegium quoque ab Illustribus Hollandiae Ordinibus obtinuisse<note n="#8"/>, quod fortè ex pacto quodam inter vos inito factum confido. Iterum Vale.</p>
+<p>&nbsp;</p>
+<p>Pascalij librum, quem ad nos mittere statuit Mylonius, puto omnium commodissimè per Bibliopolas ad nos transmissum iri. Oro autem ut has inclusas<note n="#9"/>, ubi perlegeris, continuò ad Mylonium amandare haud graveris.</p>
+</div>
+<div type="para">
+<p>Nobilissimo, Clarissimoque Viro-Juveni, Domino <persName key="huyg003">Christiano Hugenio</persName>, Amico honorando, Hagae-Comitum.</p>
+</div>
+</body>
+</text>
+</TEI>

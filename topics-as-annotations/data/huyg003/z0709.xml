@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0709"/>
+<meta type="date" value="1660-01-17"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0709">
+<div type="opener">
+<p>Nobilissimo Clarissimoque Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.</p>
+<p>Clarissime Vir</p>
+</div>
+<p>Ecce offert sese tibi Vir Clarissimus Dominus <persName>Johannes Joachimus Becherus</persName><note n="#1"/>, Spirensis Mathematicus, et in aula Electoris Moguntinensis<note n="#2"/> Medicus, qui, ut mihi retulit per continuos 8 annos in Mechanicis se exercuit, et in quibus egregia etiam praestitit. Invenisse enim perhibetur Perpetuum Mobile<note n="#3"/> quod jam per semi-annum duravit, atque etiamnum Moguntiae se movere inspici potest, impensis Electoris concinnatum. Sed quia Theoriam minus pertractasse videtur, ideo Hypotheses quasdam in chartam conjecit, quibus inventum suum inniti asserit, confidens fore ut si inter doctos vel in hac arte peritos, quorum nomine et ego et alij Te illi prae caeteris commendavimus, aliqui inveniantur, qui ipsius Hypothesibus astipulentur, minimè de ipsius inventi perfectione tunc sit dubitandum. Is igitur per Dominum Sylvium<note n="#4"/>, Medicinae hîc Professorem Clarissimum, ad me deductus
+fuit, cui ab alijs erat commendatus; non itaque (si placet) grave duces mentem ejus exactè sciscitari, ut etiam sententiam tuam adjungere super ijsdem Hypothesibus possis, siquidem Clarissimorum in Batavia Mathematicorum judicium prae caeteris magni facit, ac praesertim etiam tuum, utpote quem in Mechanicis ob Horologium à te inventum<note n="#5"/> celebrari intellexit<note n="#6"/>. Caeterum pro libro Domini <persName key="tacq001">Tacquet</persName><note n="#7"/> nobis misso gratias tibi habeo quem juxta et tractatum Domini de Dettonville<note n="#8"/> nuper Domino <persName>Heuraet</persName> commodavi ut eos inspicere dignaretur, in quibus multa egregia se invenire mihi retulit, ob quam causam etiam illos mihi nondum retulit. Subtile tuum inventum circa Horologium depraedicat, quod scilicet haud ita pridem invenisti. Doleo mortem Artificis insignis Samuelis Costeri<note n="#9"/>, piae memoriae, praesertim cum is ad perfectionem Horologij tui assequendam prae caeteris esset commendandus et jam in eo fabricando secundum mentem tuam valde esset peritus. Alium si desideras artificem, qui ulterius eximia tua inventa ad opus redigat, poteris adsciscere in locum defuncti nostrum Jacobum de Steur<note n="#10"/>, qui non solum in Horologijs, ut nosti, fabricandis, sed et Mathematicorum instrumentorum structura hodie est perfectissimus, ac se nuper meo nomine etiam tibi deditum obtulit. Hunc igitur si adoptaveris, crediderim tum tuis meditationibus tum ipsius manûs dexteritate multa egregia adhuc sperari posse, quae humano generi proficua sint futura. Quae ut eveniant praecor Deum Optimum Maximum ut cum ineunte
+hoc anno tibi omnia ex voto atque in animae salutem succedant. Vale.</p>
+<div type="closer">
+<p><date>17 Januarij 1660</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer, Mijn Heer, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van de Heer <persName key="huyg001">van Zuijlichem</persName>, Raedt ende Rentemeester van sijn Hoocheyt den Prince van Oranjen in S'graven-hage Op het pleijn.
+<lb/>met vrundt</p>
+</div>
+</body>
+</text>
+</TEI>

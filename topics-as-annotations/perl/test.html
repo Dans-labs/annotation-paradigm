@@ -1,0 +1,38 @@
+<html>
+<head>
+<script src="jquery.js"></script>  
+<script src="jssearchhighlight.js"></script>  
+<script language="javascript">
+function hon(className) {
+    $('#bodyc').highlight('aap', {className: className}) 
+}
+function hoff(className) {
+    $('#bodyc').unhighlight('aap', {className: className}) 
+}
+function altoff() {
+    $('#bodyc').find(".a.b").css('background-color','yellow')
+}
+</script>
+<style type="text/css">
+.a {
+    color: red;
+}
+.b {
+    background-color: blue;
+}
+.n {
+    color: black;
+    background-color: white;
+}
+</style>
+</head>
+<body id="bodyc">
+<p>dit is aap noot mies</p>
+<p>dit is <span class="a">ap1</span> noot mies</p>
+<p>dit is <span class="b">ap2</span> noot mies</p>
+<p>
+<a href="javascript:void(0)" onclick="hon('a b')">on</a>
+<a href="javascript:void(0)" onclick="hoff('a b')">off</a>
+<a href="javascript:void(0)" onclick="altoff()">altoff</a>
+</body>
+</html>

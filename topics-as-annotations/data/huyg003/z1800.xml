@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1800"/>
+<meta type="date" value="1670-04-12"/>
+<meta type="sender" value="pard024"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="borde001"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1800">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Je n'aurois pas la hardiesse de vous escrire si je n'estois en quelque façon obligé de le faire pour vous offrir un petit ouvrage<note n="#1"/> que je vous dois presenter comme une reconnoissance. Je scay que parmy vos vastes connoissances vous avez une science parfaite du mouvement. cét ouvrage en traitte et peut-estre que la beauté de ce sujet vous portera à le lire avec moins de degoust, non obstant les defauts que vous y rencontrerez. Je ne croy rien dire dans ce discours qui vous soit inconnu et je ne doute point que si nous pouvions voir le livre que vous nous avez fait esperer sur ce sujet, nous ne vissions toutes les regles de percussions parfaitement démonstrées. Je ne pretens point m'ingerer à vouloir me mettre à la traverse et beaucoup moins ay-je voulu vous prevenir, je connois trop bien la petitesse de mon esprit et la grandeur du vostre pour oser seulement me commettre en comparaison. je m'estimerois seulement trop honoré si vous reconnoissiez que je me suis tant soit peu approché de vos pansées: que si au contraire vous trouvez, que je me suis eloigné de vous et de la verité, je prendray en tres bonne part si vous me faites la grace de m'en avertir, et je recevray de vous avec toute sorte de soumission la correction qu'il vous plairra de m'en faire. Cepandant je vous prie d'agréer
+ce petit homage que je rens à vostre capacité en vous presentant cet ouvrage et en me disant</p>
+<div type="closer">
+<p>Monsieur,
+<lb/>Vostre treshumble et tressobeissant serviteur
+<lb/><persName key="pard024">Pardies</persName>
+<lb/>de la Compagnie de Jesus.</p>
+<p> A Bordeaux 12 Avril 1670.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huygens</persName>
+<lb/>A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

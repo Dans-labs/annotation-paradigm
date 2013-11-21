@@ -1,0 +1,117 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1771"/>
+<meta type="date" value="1669-10-30"/>
+<meta type="sender" value="huyg008"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1771">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 30 octobre 1669.</p>
+</div>
+<p>J'aij receu depuis peu de jours deux de vos lettres la premiere vieille de 6. sepmaines l'autre de 15. jours. Tout ce que vous auez envoyé à Mon Pere je dis jeux<note n="#1"/> de verre, verres pour la lunette, description de vostre clavier etc. est bien arrivé, comme vous aurez appris sans doute par luij mesme<note n="#2"/> de temps en temps. Je ne scaij pourquoij Monsieur van der Mijle a voulu ouvrir la boiste ou vous dites avoir mis la Perruque, car il me l'a baillee toute nüe sans boiste ou enveloppe aucune. Il est vraij que les doüaniers la pourroijent avoir ouverte, mais aussi devroit il me l'auoir dit.</p>
+<p>J'advoüe que mon calcul des aages n'est pas tout à fait juste mais il ij a si peu à dire que cela n'est aucunement considerable, et d'autant moins que la table Angloise, sur laquelle nous nous fondons, n'est pas dans ceste derniere justesse aussi bien, mais comme dit cet Autheur<note n="#3"/>, ‘<hi rend="i">those numbers are practically neere enough to the truth</hi>, <hi rend="i">for men doe not die in exact proportions nor in fractions</hi>’. Voijlà donc la methode dont je me suis servij. Je compte premierement les annees que toutes ces 100. personnes ensemble doivent avoir vescu, qui sont en tout 1822. annees, ce que vous verrez prouvé dans la page qui suit.</p>
+<p><table>
+<row>
+<cell>Les 36 personnes qui meurent au dessoubs de 6. ans ont vescu l'un portant l'autre 3. ans, qui fait</cell>
+<cell>108 ans.</cell></row>
+<row>
+<cell>Les 24. qui meurent entre 6. et 16. ont vescu l'un portant l'autre 11. ans, qui fait</cell>
+<cell>264.</cell></row>
+<row>
+<cell>Les 15. qui meurent entre 16. et 26. ont vescu 21. ans, qui fait</cell>
+<cell>315.</cell></row>
+<row>
+<cell>les 9. entre 26. et 36. ont vescu 31. ans, qui fait</cell>
+<cell>279.</cell></row>
+<row>
+<cell>les 6. entre 36. et 46. ont vescu 41. ans, qui fait</cell>
+<cell>246.</cell></row>
+<row>
+<cell>les 4. entre 46. et 56. ont vescu 51. ans, qui fait</cell>
+<cell>204.</cell></row>
+<row>
+<cell>les 3. entre 56. et 66. ont vescu 61. ans, qui fait</cell>
+<cell>183.</cell></row>
+<row>
+<cell>les 2. entre 66. et 76. ont vescu 71. ans, qui fait</cell>
+<cell>142.</cell></row>
+<row>
+<cell>Et l'un qui meurt entre 76. et 86. a vescu 81. ans</cell>
+<cell>81.</cell></row>
+<row>
+<cell></cell>
+<cell>_____</cell></row>
+<row>
+<cell></cell>
+<cell>somma 1822 ans</cell></row>
+</table></p>
+<p>Ces 1822. ans partagez esgalement entre 100. personnes il vient pour chacun 18. ans et environ 2. mois, qui est l'aage de chaque personne créee ou conceüe, l'une portant l'autre. Car notez en passant que c'est des personnes conceües que l'Anglois parle, et il en peut bien tenir registre aussi bien que de ceux qui sont néz, parce que les fausses couches entrent aussi dans ses observations.</p>
+<p>Or pour venir à nostre compte et specifier combien il reste de vie à chaque personne d'un tel ou d'un tel aage, voyla comme je faij.</p>
+<p>J'oste premierement les 108. ans (qui est l'aage des 36. enfans qui meurent au dessoubs des 6. ans) de tout ce nombre de 1822. ans; reste 1714. ans, lesquels doivent estre partagez entre les 64. personnes qui restent, ce qui fait pour chacun, c'est à dire pour chaque enfant de 6. ans, 26. ans et environ 10. mois de sorte qu'il leur reste encor à vivre au susdit aage de 6. ans, 20. ans et 10. mois.</p>
+<p>En suite ostez de ces 1714. ans, l'aage des 24. personnes qui meurent entre 6. et 16. (qui est 264. ans) il restera 1450. Lesquels se doivent partager entre les 40. personnes qui restent, ce qui fait pour chacun d'eux. c'est à dire pour chaque per-</p>
+<p><table>
+<row>
+<cell cols="2" role="header"></cell>
+<cell role="header">ans</cell>
+<cell role="header">mois</cell></row>
+<row>
+<cell>sonne de 16. ans</cell>
+<cell>36. ans et 3. mois, de sorte qu'il leur reste de vie</cell>
+<cell>20.</cell>
+<cell>3.</cell></row>
+<row>
+<cell>Pour ceux de 26.</cell>
+<cell>il viendra 45. ans 4. mois, ou pour leur reste</cell>
+<cell>19.</cell>
+<cell>4.</cell></row>
+<row>
+<cell>Pour ceux de 36.</cell>
+<cell>53. ans 6. mois; pour leur reste</cell>
+<cell>17.</cell>
+<cell>6.</cell></row>
+<row>
+<cell>Pour ceux de 46.</cell>
+<cell>61. ans. Pour leur reste</cell>
+<cell>15.</cell>
+<cell>-.</cell></row>
+<row>
+<cell>Pour ceux de 56.</cell>
+<cell>67. ans et 6. mois. Pour leur reste</cell>
+<cell>12.</cell>
+<cell>8.</cell></row>
+<row>
+<cell>Pour ceux de 66.</cell>
+<cell>74. ans 4. mois. Pour leur reste</cell>
+<cell>8.</cell>
+<cell>4.</cell></row>
+<row>
+<cell>Pour ceux de 76.</cell>
+<cell>81. ans. Pour leur reste</cell>
+<cell>5.</cell>
+<cell>0.</cell></row>
+<row>
+<cell>Pour ceux de 86.</cell>
+<cell>Rien</cell>
+<cell>0.</cell>
+<cell>-.</cell></row>
+</table></p>
+<p>Lors que je veux determiner l'aage d'une personne qui est entre 36. et 46. par exemple, comme vous et moij, je regle leur annees futures à proportion de celle qu'ils ont excedé plus ou moins ledit nombre de 36. et ainsi du reste.</p>
+<p>En suite de ce que dessus je ne comprends pas la raison de vostre calcul de 4. contre 3. car à mon advis la partie est environ esgale lors qu'on gage qu'une personne de 6. ou une de 16. vivront environ encor 20. ans. J'attends donc vos raisons comme je vous aij envoijé les miennes.</p>
+<p>Par mes dernieres<note n="#4"/> vous aurez appris l'histoire<note n="#5"/> de la brutalité du Comte de Rieux<note n="#6"/>. Il estoit cité pour le 28. de ce mois, mais n'estant pas comparu, le Fiscal a obtenu en vertu du defaut, prise de corps sur sa personne. Il est tousiours chez Monsieur l'Ambassadeur<note n="#7"/> et passeroit apparemment son temps
+assez mal si on le pouvoit attrapper hors de là. Il a fait offrir de nouveau de demander pardon, et mesme à genoux, si on veut, aux dames<note n="#8"/>, mais leurs meilleurs amis leur conseillent de laisser faire la Justice par laquelle il sera bannij<note n="#9"/> sans contredit, et à mon advis aussi c'est la meilleure satisfaction qu'elles puissent avoir. nous avons sceu aujourdhuij de France que sa mere qu'on dit estre une fort sage femme, est dans une colere terrible contre luij, et estant sur le point de traitter du Gouvernement de Saint Malo pour luij elle en a rompu le marché tout net sur l'advis de cette vilaine action.</p>
+<p>A leijde il n'ij a point de peste<note n="#10"/>, mais c'est une espece de fiebure contagieuse qui ne vaut gueres mieux qui ij regne. Les Eglises sont fermees faute de ministres, et la maison de ville faute de Bourgemestre et Eschevins dont il n'ij en a plus gueres sur pied, nostre bon Amij de Leeuwen qui a este fait aussi Bourgemestre depuis peu<note n="#11"/>, a eu sa bonne part de ceste maladie. un de ses enfans en est mort et presque tout le reste auec tous ses domestiqnes ont esté ou sont encor malades. Pour luij il se porte beaucoup mieux qu'il n'a fait et semble hors de danger.</p>
+<p>le Frere de Moggershill<note n="#12"/> a eu une forte fiebvre tierce aussi: mais est presque guerij, mais la pauvre Mademoiselle Ida<note n="#13"/> est tousiours fort mal de sa fiebure quarte, qui luij a bien diminué sa belle humeur.</p>
+<p>Le savoijard<note n="#14"/> n'est pas encor arrivé.</p>
+<p>Je vous felicite du bon succes de vos Longitudes mais il nous tarde bien de voir ces belles observations de Monsieur de Beaufort dont vous parlez. Je doute presque si vous ne les aurez pas envoijées à Monsieur van Beuningen dans ceste lettre à grand volume.</p>
+<p>Mais pourquoij ne nous l'eussiez vous pas mandés. Le Signor Padre ne manquera pas sans doute de vous mander comme il a comparé vostre sejour en France et le credit que vous ij acquerrez, à celuij de Joseph en Egijpte, et comme il fait estat que luij mesme a la teste de nous tous, vous ij irons trouver encor un de ces jours.</p>
+<p>On m'a proposé ces jours passez la Residence à la Cour d'Espagne, à la place de feu Monsieur Rhede<note n="#15"/>, quoij que soubs caractere different, et je pense que j'en pourrois venir à bout, mais le mal est que la plus grande partie des profits, qui estoit cette immunité d'Imposts, en est ostee. Je pense que je pourrois avoir de gages quelques 7. ou 8 mille livres, outre l'extraordinaire. Et je ne sçaij à quoij je me resoudrois bien à la fin; sur tout si une autre certaine affaire qui a esté depuis peu en fort bon termes et n'est pas encor entierement desesperee, ne reussit pas. mandez moij un peu vostre aduis sur cette residence, une des plus grandes difficultez que j'ij trouve, c'est l'aage del Signor Padre que selon les apparences je ne devrois plus faire estat de revoir. Adieu.</p>
+</div>
+</body>
+</text>
+</TEI>

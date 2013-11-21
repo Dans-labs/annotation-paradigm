@@ -1,0 +1,50 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0274"/>
+<meta type="date" value="1656"/>
+<meta type="sender" value="page011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0273"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0274">
+<div type="opener">
+<p>Nobilissimo Eruditissimoque Juveni Viro, Domino <persName key="huyg003">Christiano Hugenio</persName>.</p>
+</div>
+<p>Novum circa Saturnum Planetam, quam Lunam vocat, nobis detegentem, Anno 1656; beneficio Tubi Optici, propriâ arte &amp; operâ confecti.</p>
+<lg type="poem">
+<l>O vanas vatum mentes! qui cuncta ruinae</l>
+<l rend="; 1tab">Damnabant anno, quo nova Luna micat.</l>
+<l>Immeritò senii praesens arcessitur orbis,</l>
+<l rend="; 1tab">Inventis aetas cui viget aucta novis.</l>
+<l>Jure Tubi fabrum cecinerunt, numine dextro</l>
+<l rend="; 1tab">Qui Jovis haud visos exhibuit comites.</l>
+<l>Quid tibi debemus, proprio qui marte manuque</l>
+<l rend="; 1tab">Compositis vitris ulteriora petis?</l>
+<l>Saturni erronem assectatus in orbe Supremi,</l>
+<l rend="; 1tab">Et faciem, &amp;, stabili lege regente, motum.</l>
+<l>Talia si nobis promas imberbis Hugeni,</l>
+<l rend="; 1tab">Quid canus (si dent fata, quod oro) dabis?</l>
+<l>Quae tibi vota canam? nisi ut his reliquisque peractis</l>
+<l rend="; 1tab">Queis astra exornas, tu super astra mees:</l>
+<l>Qui nobis scalas adhibes, quibus aetheris almum</l>
+<l rend="; 1tab">Artificem vitri contueamur ope.</l>
+<l>Quantus is! heu! nos quantilli! quam terminus arctus</l>
+<l rend="; 1tab">Corporis atque animi lumina nostra premit!</l>
+<l>Terricolas quantum latuit, latet, atque latebit!</l>
+<l rend="; 1tab">Caelicolis quantum, quamque stupenda patent!</l>
+<l>Hoc animus volvat, dum sidera spectat, ocellus:</l>
+<l rend="; 1tab">Sic mens felici tendit ad astra gradu.</l>
+</lg>
+<p>Musarum istarum, nunquam felix, dudum infrequens cultor, Novis repertis gratulabundus accinebam</p>
+<div type="closer">
+<p><persName key="page011">R. Pagetius</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

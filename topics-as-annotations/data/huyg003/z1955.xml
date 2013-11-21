@@ -1,0 +1,20 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1955"/>
+<meta type="date" value="1673-07-07"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta resp="HI" type="language" value="?"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1955">
+<p>Monsieur, ayant escrit ma lettre, ie receus la responce de M. Newton à deux ou trois des miennes, oú i'auois fait mention de quelques particularites que vous m'auiez mandées sur la theorie des couleurs, et touchant l'aberration des rayons dans les verres<note n="#1"/>. Je me trouve obligé de vous en donner la copie; ce que ie feray en Anglois, comme ie l'ay receu<note n="#2"/>.</p>
+<p>Monsieur Wallis estant de retour à Oxford, m'en a escrit une lettre du 23 juin 1673 oú il dit entre autres chose<note n="#3"/>:</p>
+<p>Cum in nupera mea ad Cl. Hugenium epistolâ<note n="#4"/>, de Nelio nostro, curvam rectificante omnium primo, Annum 1658 signaverim; addidi, <hi rend="i">si satis memini</hi>, <hi rend="i">chartis meis remotus</hi>. Quod non temerè adjectum video. Quippe domum reversus, id factum reperio A. 1657, toto anno prius quàm ego signaveram; adeoque biennio prius quàm A. 1659 id invenerit Heuratius. Et quidem (quod fecit ut annus ille animo meo occurrerit, cúm id ex memoria scripserim) A. 1658 <persName key="wren002">Wrennius</persName> suam Cycloidalis curvae rectificationem adinvenit; anno prius quam Heuratius suam alterius curvae: quod tamen Hugenius sub <hi rend="i">idem tempus</hi> factum insinuat (quasi nec hic fuerit Heuratio prior)<note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

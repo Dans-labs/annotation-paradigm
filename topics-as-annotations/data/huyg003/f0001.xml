@@ -1,0 +1,94 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0001f"/>
+<meta type="date" value="1640-03-17"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="f0001">
+<p>Agi Caeptum.</p>
+<p><table>
+<row>
+<cell>I.</cell>
+<cell>In Terentio <date>VI. Idvs. Novembris Anni CIƆIƆCXXXVIII</date>.
+<lb/>Cui bis absoluto finem <date>XV. Kal. Februarii. CIƆIƆCXXXIX</date> imposuimus.</cell></row>
+<row>
+<cell>II.</cell>
+<cell>Abhinc Dialogorum Castellion<note n="#1"/> Sacrorum<note n="#2"/> difficillimos quosque percurrimus, quod mensis circiter negotium fuit.</cell></row>
+<row>
+<cell>III.</cell>
+<cell>Eos Pontani<note n="#3"/> excepere progijmnasmata<note n="#4"/>, quibus septimanae plus minus sex datae.</cell></row>
+<row>
+<cell>IV.</cell>
+<cell>Grammatica inter haec explicata, memoriae mandata, atque paucis subinde hebdomadis interpositis, usque ad huc repetita.</cell></row>
+<row>
+<cell>V.</cell>
+<cell>Anomalorum doctrinam <date>III Cal. Septembris CIƆIƆCXXXIX</date> aggressi sumus.</cell></row>
+<row>
+<cell>VI.</cell>
+<cell>Prosodiam <date>XVI. Kal. Aprileis</date> inchoatam intra IX diem absolvimus.</cell></row>
+<row>
+<cell>VII.</cell>
+<cell>X die Constantinus hoc Distichon fecit <date>CIƆIƆC</date>.</cell></row>
+</table></p>
+<lg type="poem">
+<l>Frondosam liceat quaeso contendere sylvam,</l>
+<l>Gramina nam Musis et mihi laeta placent,</l>
+</lg>
+<p>Christianus illud.</p>
+<lg type="poem">
+<l>Jam primum tantum compono carmen et oro</l>
+<l>Excuses jam me, post meliora dabo.</l>
+<l>&nbsp;</l>
+<l>ô Pater in sylvâ liceat mihi ludere clavâ,</l>
+<l>Per lusum clavae nulli periere poëtae.</l>
+</lg>
+<p>Hoc secundum fuit.</p>
+<p><table>
+<row>
+<cell>VIII.</cell>
+<cell>In Erasmi Colloquijs<note n="#5"/> ad <date>IV idvs quintil CIƆIƆCXXXIX</date> occupari caepimus.</cell></row>
+<row>
+<cell>IX.</cell>
+<cell>In Sleidani de IV summis imperijs<note n="#6"/> libello historiae auspice <date>XIII Kal. Martii. CIƆIƆCXXXIX</date>.</cell></row>
+<row>
+<cell>X.</cell>
+<cell>Quo semel iterumque perlecto Iustinum <date>IV Cal. Augusti MDCXXXIX</date> (cui suprema item manus <date>VIII. Cal. Novembris</date> datae,) adorsi sumus.</cell></row>
+<row>
+<cell>XI.</cell>
+<cell>Curtio à 30 Novembris 1639 ad 10 usque Februarii 1640 vacavimus.</cell></row>
+<row>
+<cell>XII.</cell>
+<cell>Florus jam nos ab ultimo Februarii habet.</cell></row>
+<row>
+<cell>XIII.</cell>
+<cell>Ad Tristia Ovidij <date>III Cal. Aprileis CIƆIƆCXXXIX</date> accingebamur.</cell></row>
+<row>
+<cell>XIV.</cell>
+<cell>Quibus valere jussis ad laetiora illa Maronis Bucolica <date>IIX Kal. Sextileis</date> operam contulimus.</cell></row>
+<row>
+<cell>XV.</cell>
+<cell>In his Praxin Rhetorices (<date>III Kal. Junias</date> inchoatae) simul demonstravimus.</cell></row>
+<row>
+<cell>XVI.</cell>
+<cell>Eclogis tertio absolutis, <date>XVI. Cal. Octobris</date> ad Nasonis librum de Ponto accessimus. 16 Martii absolvimus <date>CIƆIƆCXL</date>.</cell></row>
+<row>
+<cell>XVII.</cell>
+<cell>Januam Comenij<note n="#7"/> <date>VIII id. quintil. CIƆIƆCXXXIX</date> intravimus.</cell></row>
+<row>
+<cell>XVIII.</cell>
+<cell>Ad Oratoriam denique <date>III. Non. Martii CIƆIƆCXL</date> annuum appulimus.</cell></row>
+</table></p>
+<div type="closer">
+<p><date>XVI. Cal. Aprileis CIƆIƆCXL</date>.</p>
+<p><persName key="brun004">Henricus Bruno</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

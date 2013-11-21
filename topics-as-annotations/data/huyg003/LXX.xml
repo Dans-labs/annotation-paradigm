@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXX"/>
+<meta type="date" value="1679-11-29"/>
+<meta type="sender" value="ques028"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="maggl901"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXX">
+<div type="opener">
+<p>A Maggloire ce 29 novembre.</p>
+</div>
+<p>C'est a vous Monsieur, de me marquer le iour et l'heure que uous uoudréz choisir pour obseruer l'entier changement de l'<hi rend="i">oculus mundi</hi><note n="#2"/>, et par occasion uoir encore trois ou quattres portefeüilles de dessins du Titien et de tous les autres grands maistres d'Italie que uous n'auez point encore ueüs, et que uous uerréz quand il uous plaira. Je ne doubte point que uous ne soyéz surpris d'en uoir tant chez un simple particulier et que le recit que uous en feréz a Monsieur vostre frere ne le porte a enuoyer icy quelque personne intelligente qui s'en puisse accommoder pour lui. Ie ne uous püis celer que ie pense a present a en tirer le rebut pour un de mes amis qui ne ueut pas faire une si grande depence, et quoy que ie puisse faire il s'y trouuera toujours parmi ce rebut quantité de morceaux rares et dont les autres feroient leur capital: iay deia de la ioye lorsque ie pense a la satisfaction que uous auréz de uoir le choix que i'en aurai fait, car les belles choses se donnent l'une a l'autre un lustre tout nouueau. Obligéz moy Monsieur de me faire scauoir quand ie receurai cet honneur.</p>
+<div type="closer">
+<p>Vostre tres humble et tres obeissant seruiteur
+<lb/>Quesnel Ecclesiastique</p>
+</div>
+</div>
+<div type="para">
+<p>Pour Monsieur <persName key="huyg003">Hugghens</persName> A L'Academie Royale qui se trouue a la Bibliotheque de Sa Majesté Rüe Uiuienne.</p>
+</div>
+</body>
+</text>
+</TEI>

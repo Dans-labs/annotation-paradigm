@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2553"/>
+<meta type="date" value="1689-10-20"/>
+<meta type="sender" value="cupe001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2553">
+<div type="opener">
+<p>Monsjeur</p>
+</div>
+<p>Mr. <persName>Waasbergue</persName><note n="#2"/> m'a envoyé d'Amsterdam deux exemplaires de la Censura philosophiae Cartesianae par l'ordre de l'illustre Autheur, L'Eveque de Soissons<note n="#3"/>. Et puis qu'il me prie, de vous en faire tenir un de ces exemplaires, je n'y ay pas voulu manquer; et je vous l'envoye presentement, en vous asseurant, M.<hi rend="sup">r</hi> que j'ay beaucoup d'estime pour vostre grande erudition, et que je suis avec beaucoup de passion</p>
+<div type="closer">
+<p>Monsjeur
+<lb/>Vostre treshumble et tresobeissant seruiteur
+<lb/><persName key="cupe001">Gisb. Cuper</persName></p>
+<p>A <placeName key="denha004">la Haye</placeName> le 20 d'Oct. 1689.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1303"/>
+<meta type="date" value="1665-01-02"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1303">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Ecce me iterum, sed cum Campani Responso, quod a Clarissimo Riccio meo, de quo hebdomade proxime lapsâ ad te scripsi<note n="#1"/>, nudius tertius accepi. Si quid vlterius curatum voles, beneficij loco ducam si suggeras: gratissima enim mihi semper erit occasio, quà vel in Te leuissima testari possim esse me ex animo</p>
+<p>&nbsp;</p>
+<p>Tui obseruantissimum <persName key="slus001">Renatum Franciscum Slusium</persName>.</p>
+<p>&nbsp;</p>
+<p>Dabam Leodicj 2<hi rend="sup">da</hi> anni 1665, Quem tibi faustum ac felicem rursus apprecor.</p>
+</div>
+</body>
+</text>
+</TEI>

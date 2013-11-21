@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2058"/>
+<meta type="date" value="1675-09-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="leib013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2058">
+<div type="summary">
+<head rend="h4">Sommaire<note n="#1"/></head>
+<p>Pour M. Leibnitz. Le principal sera de montrer la maniere d'extraire les racines quand il y a des quantitez imaginaire comme de 6 + √ - 1225/27, que c'est 2 + √ - ⅓, car assurement celle de Schoten n'y sert pas<note n="#2"/>.</p>
+<p>Bombellus ne dit pas par quelle methode il extrait cette racine. Il est vray qu'il le fait tentando, dans les cas ou il n'y a point d'imaginaires, mais il met encore une autre regle, dont je souhaite scavoir vostre pensée. La remarque est confiderable de la somme des racines √ (1 + √ - 1) + √ (1 - √ - 1) et autres telles, qui, nonobstant des quantitez imaginaires composent une quantité reelle.</p>
+<p>Il faut demontrer clairement que toute aequation cubique rednisible a une racine rationelle.</p>
+<p>Il faut aussi demontrer ce qu'il dit qu'on ne doit pas esperer des formules a ces aequations, ou il n'y ait point d'imaginaires.</p>
+<p>Ses theoremes de sectione potestatum sont utiles. Et les racines qu'il donne par la de quelques aequations du 5e. et autres plus hauts degrez font voir partie de cette utilité mais ce seroit bien autre chose, si par leurs moyens il pouvoit donner des formules generales pour la solution de ces aequations.</p>
+<p>L'instrument qu'il promet pour tirer les racines, selon ce qu'il me paroit, doit estre d'assez
+difficile construction, mais apres avoir vû celuy d'arithmetique, que vous avez trouvè, je ne doute pas que vous n'en veniez a bout. Qu'il scait au reste que ces choses servent plus a faire voir la force de l'esprit et de la meditation que l'utilitè, parceque ces racines (comme disoit dernierement un de mes amis fort plaisamment) ne se mangent point.</p>
+</div>
+<div type="opener">
+<p>Ce 30 Sept.</p>
+</div>
+<p>J'ay retenu plus longtemps que je ne devois, Monsieur, les escrits<note n="#3"/> que vous m'avez prestez, mais je crois que vous recevrez mes excuses quand je vous diray qu'ayant este fort longtemps hors d'exercice pour ce qui regarde ces sortes d'Equations Algebraiques, il m'a falu du temps pour les estudier de nouveau a fin de pouvoir juger de vos nouvelles inventions. Vous vous estes mis a chercher une chose qui doit estre bien difficile a trouver puis qu'elle ne l'a pas estè encore, qui est de donner des formules de racines pour les Equations du 5<hi rend="sup">e</hi> degrè et au delà. Et quoyque vous n'en serez pas encore venu a bout, c'est quelque chose d'avoir trouvè de ces racines dans beaucoup de cas, et d'avoir decouvert des Theoremes, qui semblent devoir faciliter le chemin aux regles generales.</p>
+<p>Pour ce qui est de l'usage des racines de Cardan dans les cas mesme ou elles sont meslees de quantitez imaginaires, il est certain qu'elles servent tousjours dans les problemes d'Arithmetique, et vous avez plus fait que Bombelli en faisant voir que lors mesme que l'on ne peut pas tirer la racine des binomes, leur racines ne laissent pas de signifier des quantitez reelles. Mais a fin que l'on s'en puisse servir utilement il faut que vous nous donniez la methode que vous dites avoir trouvee pour tirer les racines de ces sortes de binomes tant au cas qu'elles sont extrahibles, qu'a ceux ou l'on ne les peut avoir que par approximation. Je vois que Bombelli en a extraict dans ces premiers cas, mais il y a apparence que ce n'a estè qu'en tastonnant, comme dans les autres extractions des racines cubes des binomes reguliers: quoyque il pretende d'avoir aussi quelque regle assurée pag. 151, de la quelle je seray bien aise d'entendre vostre avis.</p>
+<p>Vous assurez une chose que je voudrois bien voir demontrée, sçavoir qu'il n'est pas possible de trouver des formules de racines sans quantitez imaginaires dans les cas ou la regle de Cardan produit de cette sorte de quantitez. La preuve de ces negatives est difficile. Pour ce qui est de celle de cette autre proposition importante que toute equation cubique qui peut estre deprimée contient une racine rationelle, il sera bon que vous fassiez voir comment elle suit de la realité des racines de Cardan dans tous les cas, car j'avoue que je ne le conçois pas encore clairement.</p>
+<p>La remarque que vous faites touchant des racines inextrahibles, et avec des quantitez imaginaires, qui pourtant adjoutees ensemble composent une quantité reelle, est surprenante et tout a fait nouvelle. L'on n'auroit jamais cru que
+<figure rend="inline"><graphic url="huyg003oeuv07fi13.gif"></graphic></figure> fist √6, et il y a quelque chose de caché la dedans qui nous est incomprehensible<note n="#4"/>.</p>
+<p>L'instrument que vous promettez pour resoudre toute sorte d'Equations me paroit quelque chose de fort beau et je vous defierois d'en venir a bout si je n'avois veu desia ce que vous scavez faire par la machine d'Arithmetique<note n="#5"/>. Je suis etc.</p>
+</div>
+</body>
+</text>
+</TEI>

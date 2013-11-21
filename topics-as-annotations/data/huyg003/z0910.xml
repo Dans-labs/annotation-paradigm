@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0910"/>
+<meta type="date" value="1661-10-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="shert001"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0910">
+<div type="opener">
+<p><placeName key="denha004">Hage</placeName> den <date>22 October 1661</date>.</p>
+</div>
+<p>Ick laet VE weten mids desen datje te Bruijloft genoijt bent tot Ryckarts<note n="#1"/> tegen toekomende donderdagh dat is op den 2<hi rend="sup">den</hi> dagh mette jonghe luy. daer sullen wesen Juffrouw van der Nisse<note n="#2"/>, Tibaut<note n="#3"/> Bartelotti<note n="#4"/> en veel andere uytgelesene, daerom eer dat je 't daer klaer maeckt soo komt en siet of er onder dese niet en is dat je beter aen staet. De pomp en gaet noch niet. de buijs was so ongelijck van wijdte dat men geen of weynich lucht uyt de fles kost werken. Het is nu weer 4 dagen
+dat den instrument maecker die onderhanden heeft, maer om dat sijn broer gestorven is, soo kan ick niet van hem gedaen krijgen, noch seluer hem oyt t' huijs vinden.</p>
+<p>Ick heb 2 brieven van Pater gehadt<note n="#5"/>, den eersten van Brussel<note n="#6"/> den anderen van Mons van den 15. soo dat hij nu al een dagh of 2 te Parijs<note n="#7"/> moet geweest sijn. Hier mede &amp;c.</p>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg007">van Zeelhem</persName>, ten huijse van de Hr. ontfanger <persName>Zuerius</persName> Tot s' Hertogen Bosch.</p>
+</div>
+</body>
+</text>
+</TEI>

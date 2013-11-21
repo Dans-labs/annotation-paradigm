@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2612"/>
+<meta type="date" value="1690"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2611"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2612">
+<div type="section">
+<head rend="h4">I.</head>
+<p><figure><graphic url="huyg003oeuv09ill83.gif"></graphic></figure></p>
+<p>ACB est semicirculus. GEF curva ejusmodi ut semper ED perp. AB sit aequalis duabus AC, CB (vel earum differentiae)<note n="#2"/>, hujus aequatio (posita HA = <hi rend="i">a</hi>, HD = <hi rend="i">x</hi>, DE = <hi rend="i">y</hi>) est √2<hi rend="i">aa</hi> + 2<hi rend="i">ax</hi> + √2<hi rend="i">aa</hi> - 2<hi rend="i">ax</hi> = <hi rend="i">y</hi> 4<hi rend="i">aa</hi> + 2√.√. = <hi rend="i">yy</hi> 2√.√. = <hi rend="i">yy</hi> - 4<hi rend="i">aa y</hi><hi rend="sup">4</hi> - 8<hi rend="i">aayy</hi> + 16<hi rend="i">aaxx</hi> = 0 VO tangens. Ergo ex regula TO = = 4<hi rend="i">y</hi><hi rend="sup">4</hi> - 16<hi rend="i">aayy</hi> / 32<hi rend="i">aax</hi><note n="#3"/> subt. sive <hi rend="i">y</hi><hi rend="sup">4</hi> - 4<hi rend="i">aayy</hi> / 8<hi rend="i">aax</hi>sed<hi rend="i">y</hi><hi rend="sup">4</hi> = 8<hi rend="i">aayy</hi> - 16<hi rend="i">aaxx</hi>. Ergo TO = 4<hi rend="i">aayy</hi> - 16<hi rend="i">aaxx</hi>/8<hi rend="i">aax</hi> sive <hi rend="i">yy</hi> - 4<hi rend="i">xx</hi> / 2<hi rend="i">x</hi> sive <hi rend="i">yy</hi>/2<hi rend="i">x</hi> - 2<hi rend="i">x</hi>. Hinc Leibnitio curvae naturam inquirendam proposui in epistola d. 24 Aug. 1690.</p>
+<p>Spatium AGEFB compositum est ex duabus semiparabolis AFB, BGA, ideoque = 4/3 qu. AGFB unde spat. GEF = ⅓ qu. ejusdem.</p>
+</div>
+<div type="section">
+<head rend="h4">II.</head>
+<p><figure><graphic url="huyg003oeuv09ill84.gif"></graphic></figure></p>
+<p>BC parallela AL et perpend. in AB. Curvae AE proprietas est ut, datâ EAC, quadratum AE sit aequale rectangulo ex AB, BC.</p>
+<p><hi rend="i">x</hi> - <hi rend="i">y</hi> - <hi rend="i">a</hi> | <hi rend="i">ay</hi>/<hi rend="i">x</hi></p>
+<p><hi rend="i">aay</hi>/<hi rend="i">x</hi> = <hi rend="i">xx</hi> + <hi rend="i">yy</hi></p>
+<p><hi rend="i">aay</hi> = <hi rend="i">x</hi><hi rend="sup">3</hi> + <hi rend="i">xyy</hi></p>
+<p>0 = <hi rend="i">xyy</hi> - <hi rend="i">aay</hi> + <hi rend="i">x</hi><hi rend="sup">3</hi> aequatio curvae.</p>
+<p>SO tangens. Ex regula 2<hi rend="i">xyy</hi> - <hi rend="i">aay</hi> / <hi rend="i">yy</hi> + 3<hi rend="i">xx</hi><note n="#4"/></p>
+<p><hi rend="i">xx</hi> = <hi rend="i">aay</hi>/<hi rend="i">x</hi> - <hi rend="i">yy</hi></p>
+<p>2<hi rend="i">xyy</hi> - <hi rend="i">aay</hi> / <hi rend="i">yy</hi> + 3<hi rend="i">aay</hi>/<hi rend="i">x</hi> - 3<hi rend="i">yy</hi> | 2<hi rend="i">xyy</hi> - <hi rend="i">aay</hi> / 3<hi rend="i">aay</hi>/<hi rend="i">x</hi> - 2<hi rend="i">yy</hi> | 2<hi rend="i">xxy</hi> - <hi rend="i">aax</hi> / 3<hi rend="i">aa</hi> - 2<hi rend="i">xy</hi> OT.</p>
+<p>&nbsp;</p>
+<p>Hinc curvam inveniendam proposui Leibnitio 24 Aug. 1690<note n="#5"/>.</p>
+<p>Si <hi rend="i">x</hi> sit cum signo -, debebit et <hi rend="i">y</hi> esse cum signo -, unde liquet curvam EA descendere sub rectam DAB, et ad alteram partem rectae LAM. Rectang. AT, TS = <hi rend="i">xy</hi> semper minus erit qu.<hi rend="sup">o</hi> AB, sed quamlibet prope accedit minuendo <hi rend="i">x</hi>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

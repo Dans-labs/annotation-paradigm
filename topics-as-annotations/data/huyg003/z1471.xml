@@ -1,0 +1,21 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1471"/>
+<meta type="date" value="1665-09-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="page011"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1471">
+<div type="opener">
+<p><persName key="page011">Roberto Pagetio</persName>. Ministro Anglicano Ecclesiae Dordraci.</p>
+</div>
+<p>Mitto quae<note n="#1"/> postulat ex quibus cognoscet optima quidem esse telescopia Campani sed non adeo multum superare ea quae in Gallia neque etiam nostra. nec formam telescopij novam esse inventam sed artem lentium melius efformandarum. ac proinde hinc nihil morae dioptricis nostris exoriturum in quibus quae ad theoriam spectant duntaxat pertractatum. ut continuo atque legerit remittere velit, quod aliud exemplum non habeam. addidi 2 exemplaria libelli<note n="#2"/> quibus praecepta de usu horologij nostri ad longitudines continentur. et Epistola<note n="#3"/> quae successum testatur. Utinam sopito infelicissimo bello liceret tranquille navigantibus ulteriora capere experimenta utilissimumque inventum &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

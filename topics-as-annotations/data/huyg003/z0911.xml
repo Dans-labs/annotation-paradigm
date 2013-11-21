@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0911"/>
+<meta type="date" value="1661-10-22"/>
+<meta type="sender" value="chap002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0911">
+<div type="opener">
+<p>De <placeName key="parij001">Paris</placeName> ce <date>22. Octobre 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>je vous escriuis il y a trois jours<note n="#1"/> fort amplement par l'occasion du paquet de Monsieur de Thou a Madame sa Femme, et je ne doute point que la lettre ne vous ait esté renduë. Il y en auoit vne auec la vostre pour Monsieur Heinsius et je vous priois de faire quil la pust receuoir seurement. Vous nous aymés trop tous deux pour n'auoir pas pris ce soin la et j'en espere la response par vostre voye si ce nest qu'il prenne celle de Monsieur de Thou, comme il me le mandoit quand il partit. C'est vne chose estrange que ni moy ni aucun de ses autres Amis de deça n'ayons eu aucune nouuelle de luy depuis. la pluspart murmurent de son silence surtout ceux qui luy auoient enuoye par mes soins des secours pour l'Edition de son Ouide
+auec beaucoup de coust et de trauail. Pour moy je ne me plains point de luy, je le plains seulement de son eloignement dans la crainte que ce climat la ne soit fatal a sa vie et qu'il ne se taise que par ce qu'il n'est pas en estat de parler.</p>
+<p>Quant à ce qui vous regarde j'ay obtenu de Monsieur de Thou quil voulust bien faire mettre auec sa toilette le paquet<note n="#2"/> de liures que vous receures auec cellecy. Il y a deux Exemplaires de celuy de Monsieur Huet<note n="#3"/>, lvn pour vous et l'autre pour Monsieur Vossius que l'Autheur vous prie d'auoir agreable. Si vous l'en remerciés tous deux par quelque voye d'Ami je pense qu'il en sera digne. Vous y trouueres encor vn nouueau liure Italien pour la fabrique Tesselescopes<note n="#4"/> que Monsieur Theuenot a fait venir de Boulogne pour vous. Cest celuy dont je vous parlois dans ma derniere et qui estant de vos matieres ne peut que vous plaire quand ce ne seroit quen vous faisant lauantage que vous aués en ce genre sur les plus estimes dentre eux. Jl semble par le portrait de <hi rend="i">De Diuinis</hi> que j'y ay veu que l'Autheur ait fait cet ouurage pour en authoriser lart. Vous le verres et examineres et vous nous en manderés vostre sentiment surtout a Monsieur Theuenot lorsque vous luy en rendrés grace. Il le merite sans doute par ce soin obligeant et par l'estime et l'amitié qu'il a pour vous. Je nay pu scauoir pourquoy il ne m'a pas enuoye les Obseruations de Monsieur Frenicle sur vostre Saturne. Je le verray la dessus, et cela se fera vne autre fois. Vous trouuerés auec ce mot cy vne lettre<note n="#5"/> latine de Monsieur de Neuré quil ma
+prie instamment de vous enuoyer. Elle vous expliquera ce quil souhaite de vostre courtoisie: c'est vn des principaux disciples de Monsieur <persName key="gass001">Gassendi</persName> grand Mathematicien et grand Philosophe, mon Ami et vostre seruiteur. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Le Vostre treshumble et tresobeissant <persName key="chap002">Chapelain</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

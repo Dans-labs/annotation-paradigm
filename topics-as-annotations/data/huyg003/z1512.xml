@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1512"/>
+<meta type="date" value="1666-01-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1512">
+<div type="opener">
+<p><persName key="mora019">Moray</persName>.</p>
+<p>1 Janvier 1666.</p>
+</div>
+<p>Ernet. Escrits de Viete. Ressort an lieu de pendule. Ombre dans Jupiter. Cassini a observè le temps de sa revolution 10 heures moins 4 minutes. Ie travaille aux lunettes de 60 pieds. Thermometre. Horologe par Ostende.</p>
+</div>
+</body>
+</text>
+</TEI>

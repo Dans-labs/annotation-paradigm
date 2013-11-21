@@ -1,0 +1,96 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1376"/>
+<meta type="date" value="1665-04"/>
+<meta type="sender" value="bert062"/>
+<meta type="recipient" value="huyg001"/>
+<meta resp="corpus" type="senderloc" value="lyon_001"/>
+<meta resp="corpus" type="recipientloc" value="orang001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1376">
+<div type="opener">
+<p>Obseruationes Lugdunenses die 2 Aprilis 1665.</p>
+</div>
+<p>Die 2<hi rend="sub">a</hi> Aprilis visus est in meridiano lugdunensi ad eleuationem Poli 45 gr. 46′ nouus Cometa<note n="#3"/> haud procul ab ea stella 3<hi rend="sup">ae</hi> magnitudinis<note n="#4"/> quae est in ore Pegasi à qua distabat tribus circiter gradibus borealior scilicet et occidentalior existens,
+erat in linea recta cum Lucida Aquilae<note n="#5"/>, et Lucida Caudae Delphin<note n="#6"/>: Jtem in linea recta cum Lucida, quae est in cauda Cygni<note n="#7"/> et quae media est in eiusdem ala inferiore<note n="#8"/>; Jtem Linea recta cum ea Lucidiore, quae est in Ancone Superioris alae<note n="#9"/>, et quae in Ancone inferioris<note n="#10"/> vt exhibet</p>
+<p><figure><graphic url="huyg003oeuv05ill28.gif"></graphic></figure></p>
+<p><table>
+<row>
+<cell></cell>
+<cell>Die 3<hi rend="sup">a</hi>. Nubes</cell>
+<cell>Gr. m.</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 4<hi rend="sup">a</hi>. Cometae eleuatio</cell>
+<cell>14-50′</cell>
+</row>
+<row>
+<cell cols="2">Lucidae Aquilae<note n="#11"/> Eleuatio</cell>
+<cell>32-20′</cell>
+</row>
+<row>
+<cell cols="2">Azimuth Cometae ab AEquatore ad septentrionem</cell>
+<cell>7-0′</cell>
+</row>
+<row>
+<cell cols="2">Ascensio recta</cell>
+<cell>326-0′</cell>
+</row>
+<row>
+<cell cols="2">Declinatio</cell>
+<cell>16-</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 5<hi rend="sup">a</hi>. nubes</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 6<hi rend="sup">a</hi>. horologii hora 3. 19′</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2">Eleuatio Cometae</cell>
+<cell>13-2′</cell>
+</row>
+<row>
+<cell cols="2">Azimuth Cometae ab Aequatore ad septentrionem</cell>
+<cell>14-12′</cell>
+</row>
+<row>
+<cell cols="2">Eleuatio oris Pegasi<note n="#12"/></cell>
+<cell>14-45′</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 7<hi rend="sup">a</hi> Aprilis hora post meridiem Nocturnam 2. 45′</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2">Eleuatio Cometae</cell>
+<cell>7-50′</cell>
+</row>
+</table></p>
+<p><table>
+<row>
+<cell>Eleuatio Lucidae Aquilae<note n="#13"/></cell>
+<cell>29-55′</cell>
+</row>
+<row>
+<cell>Azimuth Cometae</cell>
+<cell>21-5′</cell>
+</row>
+<row>
+<cell>Eleuatio Aquilae sumpta post Azimuthum Cometae 131″</cell>
+<cell></cell>
+</row>
+</table></p>
+</div>
+</body>
+</text>
+</TEI>

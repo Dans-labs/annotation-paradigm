@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1590"/>
+<meta type="date" value="1667-05-20"/>
+<meta type="sender" value="medi012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="flore001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1590">
+<p lang="it">Signor <persName key="huyg003">Cristiano Vgenio</persName>. L'intendimento che cosi perfetto possiede Vestra Signoria di tante scienze, et il diletto che ella ritroua in rimirare l'altruj virtuose fatiche, mi persuadono adesso ad inuiarle una, piccola, ma curiosa Operetta fatta stampare quà da noj dal F. Niccolo Stenone<note n="#1"/> in genere d'Anatomia, con certezza che sia per esserle grata, come parta d'un virtuoso tanto stimato.</p>
+<p lang="it">Le mando una Relazione ancora delle ossequie che quà si son fatte per la Regina Cristianissima<note n="#2"/> di gloriosa memoria, et benche sia bagatella questa, nondimeno doura Vestra Signoria riconoscere che in ogni cosa bramo incontrare il suo gusto, e sodisfare al mio desiderio; Et mentre le confermo la mia uera cordialità le auguro dal ciel ogni contentimento.</p>
+<div type="closer">
+<p lang="it">Di firenze 20 Maggio 1667.</p>
+<p lang="it">Al Piacere di Vestra Signoria</p>
+<p lang="it">Il Principe <persName key="medi012">Leopoldo</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p lang="it"><persName key="huyg003">C. Vgenio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

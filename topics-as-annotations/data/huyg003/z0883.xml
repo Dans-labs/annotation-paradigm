@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0883"/>
+<meta type="date" value="1661-08-13"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rotte002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0883">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>La faute de ma memoire est cause, que ie vous espargnay en vne chose, quand i'auois l'honneur de vous voir à la Haye, de laquelle ie m'en vay vous importuner par lettre. C'est que i'ay esté informé, que Messieurs les Estats Generaux ont fait inprimer à la Haye vn Placart des Figures, Valeurs et Finesse de leur monnoyes<note n="#1"/> dont les Exemplaires sont asses rares, et ne sont donnés ou vendus qu'à des personnes de consideration et qui ont interest dans les affaires, ou qui ont bonne connoissance auec ces Messieurs lá. Scachant donc, Monsieur, que vous auez beaucoup d'habitude parmy tous les Grands et Curieux, ie prends la liberté de vous prier treshumblement, de me vouloir gratifier en m'envoyant le dit placart, s'il se trouue, auec le premier ordinaire à Londres, addressant vostre lettre à Monsieur Samuel Hurtlib<note n="#2"/> le pere, en Axeyard in Kingstreet; et vous m'obligerez tresparticulierement, qui suis desia</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="olde010">Henry Oldenburg</persName>.</p>
+<p><placeName key="rotte002">Roterdam</placeName> le <date>3. d'Aoust 1661</date>.</p>
+</div>
+<p>Monsieur de Bils<note n="#3"/> me traite icy auec grande humanité, et semble d'entendre
+tres bien l'Anatomie, et estre resolu de maintenir et de faire bon son party. Il pretend de scavoir exactement le secret de la nutrition, comme aussi de la generation de la semence et de la separation de l'urine et de son passage du foye dans les reins. le temps enseignera tout.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zuylichem</persName> &amp;c. op 't plein in den Haagh.
+<lb/>port payé.</p>
+</div>
+</body>
+</text>
+</TEI>

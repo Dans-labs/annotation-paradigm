@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2322"/>
+<meta type="date" value="1683-09-20"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2322">
+<div type="opener">
+<p>Nobilissimo Viro, summoque Mathematico <persName key="huyg003">Christiano Hugenio</persName> <persName key="gent015">Pet. à Gent</persName> S.P.D.</p>
+</div>
+<p>Jam dudum est N.V. quod et epistolam et poemata D. Hofmans Wildauw transmiserim: verum nihil responsi tuli, quod miror. Quoniam vero mihi rursus ad Nob. D. de Tschirnhaus scribendum est, rogo ut me reddas certiorem, num dictum Librum ad Carcavium juniorem transmiseris. Si praeterea tuas meis jungere placet, haud ingratum nec mihi, nec N.D. de Tschirnhaus praestiteris officium. Auxit Nob. Tschirnh. tractatum de sanitate conservanda<note n="#1"/>, et in linguam Germanicam vertit, nobis aliquando transmittendum. Ad hasce quam primum responsionem exspecto. Haec volui N.V. Vale.</p>
+<div type="closer">
+<p>Tuus totus <persName key="gent015">Petrus à Gent</persName> M.D.</p>
+<p>Raptim Amstelodami 20 Septemb. 1683.</p>
+<p>Op de Heeregraft bij het Koningsplein aan de slinkerhant naast de hoek.</p>
+</div>
+</div>
+<div type="para">
+<p>Wel Edele Heer Mijn Heer <persName key="huyg003">Christiaan Hugens Heer van Zuilichem</persName>
+<lb/>In 's Gravenhage.
+<lb/>½ port.</p>
+</div>
+</body>
+</text>
+</TEI>

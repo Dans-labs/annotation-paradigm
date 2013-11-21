@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1998"/>
+<meta type="date" value="1674-11-02"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1998">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Ayant rencontré cette bonne occasion du retour de Monsieur Esnault en France, ie m'en suis voulu servir, au lieu de la Poste, pour vous envoyer cet inprimé, estant marri que ie n'ay pas quelque chose qui merite d'estre lû de vous et demeurant</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> le 23 Octobre 74.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

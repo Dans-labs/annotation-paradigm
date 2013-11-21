@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2285"/>
+<meta type="date" value="1682-12-18"/>
+<meta type="sender" value="gent015"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2285">
+<div type="opener">
+<p>Nobilissime Vir</p>
+</div>
+<p>Scripsit ad me hac Septimana Nobilissimus D.D. de Tchirnhaus, petiitque ut accuratè expiscarer, ipsique per literas indicarem, num Nobiliss. Viro Tractatus<note n="#2"/>, quem de Sanitate conservanda D. Tschirnhaus conscripsit, perque W. Goeree<note n="#3"/> Bibliopolam ad N.V. misit, ritè suo tempore sit traditus: metuit enim eum a Te aberrasse. Quare nihil melius praestare potui, quam ut me ad Nob. Vir. converterem, et enixe rogarem, ut ipsi scribas, vel me quamprimum hac de re certiorem facias, vel, siquidem placuerit, duas ad me dirigas literas meis includendas, quo simul futuro die Martis sine mora ad ipsum in Germaniam mittuntur. Notum insuper fecit se tubo 6 ulnarum Lipsiensium Saturnum cum annulo suo observasse, ac promittit se ad nos ejus delineationem missurum, item se magnas in Mathematicis superasse dissicultates, nec non D. Leibnitzij Tractatum de circuli Quadraturâ, jam praelo destinatum, in itinere amissum esse. Ultimo addit se matrimonium cum nobili virgine<note n="#4"/> 20 annorum contraxisse, et jam nuptias celebrasse.</p>
+<p>Haec volui ne nescires, veniam interim si quid mea audacia peccatum petens. Vale.</p>
+<p>Tuus Nobilissime Vir <persName key="gent015">Petrus van Gent</persName> M.D.</p>
+<p>Raptim Amstelodami 18 Decemb. 1682.</p>
+<p>&nbsp;</p>
+<p>Habito op Boomsloot tegenover 't Haantjes Brouwerij.</p>
+</div>
+<div type="para">
+<p>Ed. Heer
+<lb/>Mijn Heer <persName key="huyg003">Christiaan Hugens Heer van Zuilichem</persName> In 's Gravenhage.
+<lb/>p.<hi rend="sup">t</hi></p>
+</div>
+</body>
+</text>
+</TEI>

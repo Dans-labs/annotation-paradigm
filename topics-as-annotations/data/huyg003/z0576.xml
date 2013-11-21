@@ -1,0 +1,39 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0576"/>
+<meta type="date" value="1659-01-31"/>
+<meta type="sender" value="mylo002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0576">
+<div type="opener">
+<p>A <placeName key="parij001">paris</placeName> ce <date>31 Januier 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous m'auez fait vn present que J'estime jnfiniment quoy qu'il soit en petit volume, c'est vostre nouuelle horloge<note n="#1"/> dont vous m'auiez donné les premiers Aduis, J'auois toujours eu depuis vne extreme curiosité de la voir, et aussi tost que Je sceus que vous l'auiez enuoyée a Monsieur Chapelain Je ne fus point en repos
+que je n'en cusse vne copie dont Je me tenois fort riche, mais a present Je le suis bien dauantage, puisqu'outre l'original que Je recoy de vous, vous me donnez encor des témoignages de l'honneur que vous me faites de vous souuenir de moy<note n="#2"/>; jl vous estoit tres aisé de m'oublier, depuis plus d'un an je ne prenois plus la Liberté de vous escrire<note n="#3"/>, n'ayant rien a vous enuoyer qui en fust digne, et s'il y a eu jcy quelque chose de considerable, vn mal de teste qui m'a duré fort longtemps, m'empeschoit de vous le communiquer, mais pour vous, jl est jmpossible de ne se pas ressouuenir de vous, on Rencontre vos belles Jnuentions par tout, et vous en faites part a nos plus celebres assemblées, vostre Systeme de Saturne<note n="#4"/>, vostre quadrature d'vne portion de L'espace plan de La Cycloide, et vostre horloge admirable<note n="#5"/> vous conseruent dans la memoire de Ceux qui ne vous seroient pas particulierement obligez comme Je suis, Je vous supplie donc Monsieur de croire que J'ay veu toutes ces belles choses auec autant d'estime et d'affection que vous pouuez vous jmaginer. Et je m'estonnerois fort que tout le monde ne les receust pas de la mesme façon, s'il n'estoit nouueau de voir des enuieux et des plagiaires dont vous vous plaignez dans vostre preface, on ne peut exterminer ces sortes de gens quelque guere qu'on leur fasse, mais jls ne peuuent tromper que fort
+grossierement, la verité est toujours la plus forte &amp; se presente aisément a ceux qui en font la moindre recherche, Contre ceux qui s'adressent a vous Je puis produire deux de vos Lettres des 29<hi rend="sup">e</hi> mars et 3<hi rend="sup">e</hi> may 1657<note n="#6"/>, que Je conserue auec soin; dequelle façon que l'on deguise vostre horloge, on la reconnoistra toujours pour estre à vous, vous en auez donné le veritable principe qui est l'Application du pendule pour en regler les mouuemens, et vous l'auez parfaitement bien executé dans l'Application que vous en faites au balancier et dans la disposition des roües et des Contrepoids. Il faut que Monsieur Petit ait eu des ouuriers fort maladroits et qui ayent fait des fautes considerables en la diuision des rouës ou en leur disposition, puisque vn poids de 70. Liures au bout du pendule n'est pas capable de donner mouuement a l'horloge qu'il dit auoir fait faire sur vostre Jmprimé, je ne puis croire que vous ayez rencontré le mesme arrest dans celles que vous auez fait faire, car vous scauez mieux que moy que dans les machines jl faut joindre l'experience au raisonnement a cause de la resistence de la matiere et le defaut qui se rencontre dans tous les ouurages que l'on ne peut pas euiter. Celles qui ont le balancier NM<note n="#7"/> posé horizontalement et qui n'ont point le tambour O ny la roüe P, ne receuant point cette difficulté, tombent dans vne autre que vous auez
+voulu corriger par l'addition de ces deux pieces, c'est jnegalité des vibrations et par consequent l'jnegalité de leur durée.</p>
+<p>L'Impression des propositions<note n="#8"/> de nostre excellent Anonime est tantost acheuée, on m'a prié de scauoir de vous vne Commodité pour vous en enuoyer six Exemplaires, <hi rend="i">pour vous et pour Messieurs <persName key="scho197">Schooten</persName>, <persName key="hobb001">Hobbes</persName>, Walisius, Wardus, et Wren.</hi> L'Autheur a voulu escrire en françois pour quelque raison particuliere, Jl met a la fin une demonstration Geometrique par les Jnscrits et Circonscrits de l'egalité de la spirale et d'vne parabole, que vous trouuerez fort belle, aussi bien que le reste de ses ouurages. Monsieur Auzout à demonstré presque toutes ses propositions a l'exception de celles des prix, et a trouue encore depuis peu, que <hi rend="i">Estant donnée vne droite egale a vne parabole ou a vne spirale</hi>, <hi rend="i">la quadrature de l'hyperbole est donnée et contrà.</hi> Il estend cela a toutes les especes de paraboles, spirales, et hyperboles, Cubiques, quarré-quarrées &amp;cet. Jl a aussi trouué de belles choses sur les cycloides dont la base est vn Cercle.
+Jl a aussi demonstré la proposition de Monsieur <persName key="wren002">Wren</persName> qui est L'equation de la Cycloide à quatre fois le diametre de la rouë, Jl y a peu de difference entre sa demonstration et la mienne que je vous enuoye<note n="#9"/> et que Je n'ay trouuée que depuis peu de Jours auant que d'auoir veu la sienne; Je vous enuoye aussi ma quadrature<note n="#10"/> des Lignes courbes proposées par Monsieur Sluze du Liege, que Je fis dez le mois de Juin dernier. Mais Je ne vous puis rien escrire auec plus de
+passion, sinon que Je suis toujours et sans aucune jnteruption,</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="mylo002">Mylon</persName>.</p>
+</div>
+<p>Messieurs De Carcaui, Auzout, Boulliaut, et Boste vous font leurs recommadations<note n="#11"/>.</p>
+<p>On continue l'jmpression du 2<hi rend="sup">e</hi> tome des Lettres de Monsieur <persName key="desc004">Des Cartes</persName><note n="#12"/>, cela va vn peu lentement, Je ne pense pas qu'elle soit acheuée deuant trois mois.</p>
+<p>Monsieur Auzout cherche par tout vostre Liure de la quadrature de L'hyperbole<note n="#13"/> &amp;ct, si quelque marchand en apportoit vn ou deux, Jl les payeroit, et si vous prenez ce soin, Jl vous en seroit fort obligé.</p>
+<p>Faites moy la grace de communiquer a Monsieur Schooten les deux demonstrations que je vous enuoye.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulechem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

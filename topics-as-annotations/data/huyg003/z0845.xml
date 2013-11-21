@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0845"/>
+<meta type="date" value="1661-02-24"/>
+<meta type="sender" value="hein009"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0845">
+<div type="opener">
+<p><persName key="hein009">Nicolaus Heinsius</persName> <persName key="huyg003">Christiano Hugenio</persName> Viro Nobilissimo S.P.D.</p>
+</div>
+<p>Quod postremae tuae quas nuper admodum a te accepi, sollicitudinem prae se ferebant, super ijs literis<note n="#1"/>, quas Serenissimum Etruriae Principem Leopoldum ad te scripsisse, nec curatas esse, affirmabas; si fugitivae et errones forsan in viam reduci possent, paucis nunc verbis te compellandum duxi. Significat quippe in ultimis suis ac me monet Datus, primo Lutetiam literas eas fuisse missas, ac postea Amstelaedamum, quod Lutetiae non compareres sub id tempus, quo te illic futurum esse spem dederam. Sed certe, quicunque tandem is est, cui literae fuere commissae, oportet eum officio parum diligenter esse perfunctum, qui ipsas literas ad parentis tui aedes non curavit perferendas. Rogabo mox Datum, ne gravetur nomen eius<note n="#2"/> mihi indicare, ad quem Florentia Parisios missae fuere literae. Ita spes est fore, ut ex fuga retrahantur. Tu interim inquire apud illos, qui Magni Etruriae Ducis res Lutetiae agunt. Addit praeterea Datus Apollonium Pergaeum<note n="#3"/> jam spectare lucem. Sed ei addendum esse Archimedis libellum<note n="#4"/>. Habes hic ad Capellanium. Vale, Vir ex amicis summe. Dabam manu praepropera.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae Comitis</placeName> <date>CIƆIƆCLXI ad diem XXIV Februarii</date></p>
+<p>Tuus omni cultu <persName key="hein009">Nicolaus Heinsius</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

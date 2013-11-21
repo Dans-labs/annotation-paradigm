@@ -1,0 +1,33 @@
+// This query searches for parallels of Jdc 5:1 where the predicate
+// WAT.@CAR agrees in number and gender with the first member of the
+// composite subject D.:BOWR@H W.B@R@Q. See Gesenius-Kautzsch 146g.
+
+// ident @(#)lq07.mql	1.2 04/02/27
+
+/*
+<metadata>
+<meta type="research_question">Jdc 5:1</meta> 
+<meta type="researcher" value="Ulrik Sandborg-Petersen"/>
+<meta type="date_created" value="2004-02-27"/>
+<meta type="date_run" value="2012-01-27"/>
+<meta type="description">This query searches for parallels of Jdc 5:1 where the predicate וַתָּשַׁר agrees in number and gender with the first member of the composite subject דְּבֹורָה וּבָרָקּ See Gesenius-Kautzsch 146g.</meta>
+<meta type="publications"></meta>
+</metadata>
+*/
+
+//==========
+
+select all objects where
+
+[clause
+   [phrase phrase_function = PreO or phrase_function = Pred
+      [word FOCUS part_of_speech = verb and
+	   number = singular and gender = feminine]
+   ]
+   ..
+   [phrase phrase_function = Subj
+      [word FOCUS part_of_speech = conjunction]
+   ]
+]
+
+go

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0057b"/>
+<meta type="date" value="1648-07-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mers004"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="0057a"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0057">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Il est bien raison que je vous demande pardon de ce que je n'ay pas respondu à deux de vos lettres qu'à cest'heure. Si j'eusse osè attendre encor une sepmaine je vous aurois envoyè mon traittè de la chaisne<note n="#2"/> que j'ay nouvellement reveu et corrigè, et augmentè de la nouvelle demonstration du premier theorème, qui m'a donnè plus de peine presque que tout le reste du traittè, il a fallu 3 vel 4 lemmata
+quae ad conica spectant devant que de le pouvoir demonstrer, et pourtant j'ay aymè mieux prendre toute ceste peine que de bailler la demonstration de Stevin pour suffisante, car il me semble qu'elle ne l'est pas.</p>
+<p>Il ne me reste maintenant qu'a descrire mon traittè, et je vous l'envoyeray aussi tost, affin que vous en disposiez apres comme bon vous semblera. Nos vacations seront bientost, et quand je seray a la Haye j'espere de voir faire l'experience du Canon<note n="#3"/> laquelle je croy avoir esté differée par l'indisposition de mon Pere ou pour mon absence qui suis</p>
+<div type="closer">
+<p>Vostre treshumble serviteur <persName key="huyg003">Chrestien Huygens</persName>.</p>
+<p>A <placeName key="breda001">Breda</placeName> le <date>12 de juillet 1648</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

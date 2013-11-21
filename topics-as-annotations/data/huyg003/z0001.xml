@@ -1,0 +1,121 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0001"/>
+<meta type="date" value="1638-09-24"/>
+<meta type="sender" value="huyg001"/>
+<meta type="senderloc" value="grave001"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0001">
+<p lang="la">Constantinulo meo.</p>
+<lg type="poem">
+<l>Carmina, fili</l>
+<l>Optime, quae, pol,</l>
+<l>Optima Patri</l>
+<l>Optimo, et auctor</l>
+<l>Vix adolescens</l>
+<l>Arte styloque</l>
+<l>Non puerili,</l>
+<l>Solus et omnis</l>
+<l>Auxilii expers,</l>
+<l>Tute tuoque</l>
+<l>Marte dedisti,</l>
+<l>Si placuisse</l>
+<l>Dixero tantum,</l>
+<l>Mentiar ultrò:</l>
+<l>Nunc placuisse, et</l>
+<l>Lecta stupenti</l>
+<l>Dicere cogor;</l>
+<l>Nec minus ajo</l>
+<l>Grata fuisse,</l>
+<l>Quam fuit omni</l>
+<l>Galliae, et omni</l>
+<l>Belgio, et omni,</l>
+<l>Qua patet, orbi,</l>
+<l>Qui modo laeti</l>
+<l>Brachia Patris,</l>
+<l>Oscula matris</l>
+<l>Implet et haurit,</l>
+<l>Regius Infans<note n="#4"/>.</l>
+<l rend="; 1tab">Macte paternis</l>
+<l>Artibus, ô spes,</l>
+<l>Sollicitique</l>
+<l>Cura Parentis.</l>
+<l>Si mea non me</l>
+<l>Omina fallunt,</l>
+<l>Auguror annis</l>
+<l>Non ita multis</l>
+<l>Te fore qualem</l>
+<l>Nulla dedit nec</l>
+<l>Ulla datura est</l>
+<l>Terra poetam.</l>
+</lg>
+<div type="closer">
+<p>Ad <placeName key="grave001">Graviam</placeName>
+<lb/><date>24 Sépt. 1638</date>.</p>
+</div>
+<p lang="la">Christianulo meo.</p>
+<lg type="poem">
+<l>Te quoque, mel meum,</l>
+<l>Te, mei Amores,</l>
+<l>Te, pietatis</l>
+<l>Viuae character,</l>
+<l>Te, venerandae</l>
+<l>Matris imago,</l>
+<l>Te quoque musas</l>
+<l>Atque Heliconis</l>
+<l>Ardua castra</l>
+<l>Aggredior, te</l>
+<l>Non alienis</l>
+<l>Viribus usum?</l>
+<l>O mihi nondum</l>
+<l>Credite tetras</l>
+<l>Grammaticorum</l>
+<l>Exsuperasse,</l>
+<l>Parvule, spinas,</l>
+<l>Donec crit Lux</l>
+<l>Terra, fretum, sol,</l>
+<l>Sidera, coelum,</l>
+<l>Donec in isthoc</l>
+<l>Orbe laborum</l>
+<l>Tristitiaeque</l>
+<l>Dulce leuamen</l>
+<l>Dîa poesis,</l>
+<l>Stabit eritque</l>
+<l>Tota superstes,</l>
+<l>Tota superbi</l>
+<l>Gloria facti.</l>
+<l rend="; 1tab">Si neget hoc te</l>
+<l>Tangere quisquam,</l>
+<l>Quid tua sit post</l>
+<l>Fata futurum,</l>
+<l>Scito, Poeta,</l>
+<l>Scito, puelle</l>
+<l>Candide, belle,</l>
+<l>Nec fore cassum</l>
+<l>Nunc tibi, quem nunc</l>
+<l>Laudo laborem.</l>
+<l>Quin, ubi castris<note n="#5"/></l>
+<l>Chara relictis</l>
+<l>Tecta reuisam,</l>
+<l>Depluet in te,</l>
+<l>Plus meritum tot</l>
+<l>Versibus omni</l>
+<l>Laude decoris,</l>
+<l>Aereus, aut si</l>
+<l>Nec graue pondus</l>
+<l>Ferre recuses,</l>
+<l>Aureus imber.</l>
+</lg>
+<div type="closer">
+<p>Ad <placeName key="grave001">Graviam</placeName> <date>eodem die</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

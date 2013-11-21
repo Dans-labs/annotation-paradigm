@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1370"/>
+<meta type="date" value="1665-04-02"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta resp="corpus" type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1370">
+<div type="opener">
+<p>a Mon Père</p>
+<p>2 aprilis.</p>
+</div>
+<p>Attendrons ses hardes<note n="#1"/> et en ferons comme il ordonne. le frere de Zeelhem avoit conseillè de rabattre au frere de St. Annalant<note n="#2"/> quand on liquidera du revenu des terres qu'il n'a point tirè, ce qu'on a continuè de paier au 200<hi rend="sup">e</hi> dernier pour la portion de Sus<note n="#3"/>. Leeuwen a estè icy. Monsieur d'Hauterive n'est pas mort ni malade que je scache, sinon 90 ans. adieu et qu'il se souviene de ce.</p>
+<p>Je ne voy rien de deshonorable pour moy dans le journal. il n'y a pas de honte de retracter ce qu'on a mal entendu quoy quil en soit je reste assurè que c'a estè Monsieur Chapelain ou quelqu'un de mes bons amis qui a fait mettre la remarque, car il paroit par ce terme de <hi rend="i">grands hommes</hi> qui est a la sin<note n="#4"/>. Pour les nouvelles pendules j'ay promis la preference a Thuret devant que d'avoir receu les recommandations de Monsieur de Brunet<note n="#5"/>.</p>
+<p>l'application de l'invention aux horologes de poche n'est pas tout a fait nouvelle parce que desia l'on en fait qui se remontent toutes les heures par une maniere semblable. L'on n'en donneroit jamais privilege en France parce que ce seroit ruiner les horologers en cas que l'invention succede bien et puis je ne dois pas m'embarasser de tant de choses a la fois.</p>
+<p>le livre de 5 sous<note n="#6"/> est du Pere <persName key="mers004">Mersenne</persName> et je l'ay ailleurs.
+Celuy du Tricomete<note n="#7"/> me semble parler serieusement et par consequent estre fou. livre<note n="#8"/> <persName>de Brandwijck</persName><note n="#9"/>. Jay donnè desia ordre pour l'horologe de Monsieur de Montmor et longtemps auparavant pour celles de l'ambassadeur<note n="#10"/> et Monsieur de Carcavi.</p>
+</div>
+</body>
+</text>
+</TEI>

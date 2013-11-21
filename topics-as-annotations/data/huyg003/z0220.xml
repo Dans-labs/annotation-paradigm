@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0220"/>
+<meta type="date" value="1655-03-27"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0220">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.P.D.</p>
+</div>
+<p>Difficultatem illam, quam in Cartesij Geometria die Mercurij praeterito movebam Tibi, invenio candem esse cum illa, quam tua Claritas illìc loci annotavit. Unde in Commentarijs meis non è re me facturum puto, si indicaverim delendum
+esse illud <hi rend="i">vel</hi> -, quod inter describendum Domino <persName key="desc004">des Cartes</persName>, praeter ipsius mentem, irrepsisse credo. Simile quid reperio contigisse mihi in hoc nupero scripto sive <hi rend="i">ἔλεγξι</hi>. Ubi eò loci, quò de Parallaxi et Refractione loquor delenda potius haec verba: <hi rend="i">so van de Son als Maen</hi>, reperio. quae tunc inter describendum addidi. Etenim cum tecum non capiam, quo pacto tam Parallaxis quàm Refractio efficere possit, ut Luna in Meridiano appareat, nisi ibidem reverâ consistat, tuncque ipsius Parallaxis et Refractio nullam considerationem mereantur: Attamen, quia ad accurationem istius temporis, quando Meridianum Luna pertingit, atque ad istum modum (sicut ibidem indicavi) summopere est requisita, Sol quidem tunc numquam in Meridiano consistit, sed forte prope Horizontem, quo tempore Refractiones maximae sunt, quaeque ipsius parallaxi non ita temerè aequiparandae videntur: Fit ut ad tempus illud Lunae culminantis praecisum etiam tum Parallaxis tum Refractionis rationem habendam esse appareat. Similiter Refractionis rationem habendam esse constat, si ex altitudine alicujus stellac fixae idem tempus acquirere animus sit. Caeterum quum die Mercurij praeterito scriptum meum Domino Praesidi Domino scilicet Schuijlenburg<note n="#1"/> tradens eum rogabam utrum foret necesse ut coram Dominis
+Dominis Ordinibus mentem exponerem, siquidem aliàs me domum essem recepturus, respondit se scire Dominos Ordines tunc literas ex Anglia exspectare, ac propterea per plura negotia tunc fortè fieri posse ut scripto meo legendo vacare non possent, ideo se esse authorem ut Hagae pernoctare velim. Ideoque cum isto eodem die usque ad horam semiseptimam vespertinam Hagae commorarer, invisens interim nonnullos amicos, ac inter alios Dominum <persName>de Strevelshouck</persName><note n="#2"/>, Academiae nostrae curatorem, cujus alterum obtuli exemplar. At ille me rogans utrum cum Domino <persName>Blaevio</persName><note n="#3"/>, Scabino Amstelodamensi essem loquutus, dicens se scire illi quoque istam inventionem ad examinandum esse propositam, monuit ut eundem Dominum <persName>Blaevium</persName>, quem impraesentiarum Hagae commorantem asserebat, inviserem, simulque cum ipso scriptum hocce communicarem. Dicens porrò consentaneum fore, ut inter nos (prout ipsi indicaveram tibi quoque rem fuisse delatam) conveniremus. Quapropter adiens Dominum <persName>Blavium</persName>, qui harum rerum se fatebatur inscium, prout illi scriptum meum ostendi, reliqui. Rogabat enim ut sibi liceret id ipsum pervolvere. Sequenti die Hagam reversus ex Domino Praeside, postquam Domini Ordines
+ex conventu jam discesserant, intellexi, ipsos ex parte tantum neque totum illud meum scriptum legisse; atque alijs rem illam ad examinandum quoque fuisse propositam. Unde rogans ego, utrum iudicaret fore necessum, ut illis voce mentem meam exponcrem, probaretque an Hagae diutius commorarer, respondit non id esse opus; nisi quid ulterius ab ipsis Ordinibus competerem, subindicans eo, ut videtur, ut, si pro mercede aliquid praetenderem, id indicare eis vellem. Hinc, postquam respondi me id totum Dominis Dominis Ordinibus relinquere, cum nil nisi oblatum officium indicare voluerim, Leydam illico contendi. Cum enim Te tunc Hagae non commorantem suspicarer, neminem nisi Ducquium nostrum invisi atque illi simul valedixi. Atque haec sunt Praestantissime atque Amicissime mi Hugeni, quae prout circa rem istam contigêre Tibi perscribenda habui. Tu autem cura ut valeas, meque amare perge.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>27 Martij 1655</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0832"/>
+<meta type="date" value="1661-01-27"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0832">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>27<hi rend="sup">e</hi> Janvier 1661</date>.</p>
+</div>
+<p>Vous ne receurez pas des lettres de mon Pere ny par cet ordinaire, ny par celuy qui le suivra. Vendredy il reçeut une lettre par laquelle on le mande pour aller trouver Madame<note n="#1"/> à Cleves à l'occasion de la mort de la Princesse Royale<note n="#2"/>. Comme le lendemain il partit<note n="#3"/>, et selon le calcul que j'en fais, aura estè la hier au soir. Il pourroit bien arriver, qu'on luy feroit faire le voyage d'Angleterre, et mesme dans la lettre, dont je viens de parler, il en est touché quelque chose, et en ce cas il m'a parlé de vous faire venir la aupres de luy, et de tascher puis apres de se saire donner quelque commission pour Paris<note n="#4"/>, que scavez qu'il a tousjours eu grande envie de voir. Mais tout cecy est encore bien incertain; et c'est pourquoy vous n'en devez rien dire à personne, qui que ce soit. Ce voyage se feroit pour les affaires de la Tutele, comme sans doubte il en sera bon besoin, pour prevenir des brouilleries qui ne se pourront eviter à moins qu'il soit fait des fort bons offices entre deux. d'Angleterre on nous mande que la Princesse Henriette d'Angleterre<note n="#5"/> est aussi tombée malade de la petite verole, estant desja embarquee pour aller en France espouser le Frere du Roy<note n="#6"/>, mais cecy vous le sçaurez par des voyes plus courtes. Icy la Princesse Kien<note n="#7"/> mourut dimanche passé<note n="#8"/> apres une longue maladie de trois mois, tellement que vous ne devez plus craindre d'auoir la teste rompue
+des nouvelles de sa santé<note n="#9"/>. Tootbroer<note n="#10"/> nous escrit les plus plaisantes lettres du monde de Madrid, et se plaint fort de vous, dont il dit n'auoir receu lettre aucune jusques au 29. decembre datte de ses dernieres. Vous n'aviez que faire de prendre le deuil<note n="#11"/> pour la mort de la Princesse mon Pere n'ayant pas jugé necessaire que moy je le fisse. Adieu.</p>
+<p>Ce fol de St. Agate<note n="#12"/> est encore à Amsterdam et ne m'a pas envoyé mon livre.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huijgens de Zuijlichem</persName>. A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

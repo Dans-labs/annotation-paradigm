@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2082"/>
+<meta type="date" value="1675-12-26"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2082">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 16. Dec. 75.</p>
+<p>Monsieur,</p>
+</div>
+<p>Lundy dernier ie vous envoyiay vne lettre d'eschange<note n="#1"/>, renfermee dans ma lettre du 13<hi rend="sup">me</hi> courant, pour vous faire payer les 25. louys d'or pour la montre, qui est astheur sous l'espreuve, dont nous esperons vn bon effet. J'oubliay alors de vous addresser à Monsieur <persName>Chamberlain</persName>, gouuerneur de Mylord Herbert<note n="#2"/>, ou à Monsieur Evelyn<note n="#3"/>, qui vous aura donné le livre de M. Hook sur les Helioscopes, pour apprendre d'eux quelque commodité seure pour m'envoyer cete autre montre d'or, que Mylord Brouncker desire auoir pour soy mesme. Peut estre, que Myld Stafford<note n="#4"/>, qui est oncle du Grand Mareschal d'Angleterre, n'est pas encor
+parti de Paris. Si ne l'est pas, ce seroit la meilleure commodité du monde pour envoier la dite montre. Je ne doubte pas, monsieur, que vous n'en aiez vn couple de fort bonnes pour vous mesme, dont vous ne ferez point de scrupule d'envoier vne pour ledit Lord Brouncker qui vous en aura de l'obligation, et ne manquera nullement d'en paier l'argent aussi tost; comme il fera aussi pour les quatre autres d'argent, dont ie fis instance dans ma derniere du 13<hi rend="sup">me</hi>, lesquelles il faut faire faire auec des mains de minutes aussi bien que celles d'or. Vous pardonnerez cete importunité à</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres affectionné serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> dans la bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

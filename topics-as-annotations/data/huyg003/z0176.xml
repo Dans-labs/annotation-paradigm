@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0176"/>
+<meta type="date" value="1654-01"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="kinn013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0176">
+<div type="opener">
+<p><persName key="kinn013">Kinnero</persName>.</p>
+</div>
+<p>Nondum ad me pervenit libellus vester Kinnere Nobilissime neque tamen diutius responsum tibi debere volui. Itaque ad Opticum Theorema quod attinet censeo equidem aliam ejus demonstrationem quaerendam Domino <persName>Balthasaro Conrado</persName>; Nam quod terminos illustrationis in parte superficiei sphaericae OK, oriri putat à tangentibus radijs AC, verum non est; quum à secantibus oriuntur, puta AE. Qui quidem
+<figure><graphic url="huyg003oeuv01ill125.gif"></graphic></figure>
+radius cum axe ipsi AE parallelo intercipit arcum KO graduum 20½ circiter si sphaera est aquea. Aequalem necessario dimidio ejus sub quo semidiameter iridis coelestis conspicitur. Haec cognovisse in dioptricis mihi egregij fuit usus, neque sane aliter Cartesij explicationem de Generatione iridis intellexissem, quam mihi credito verissimam esse. Hoc enim manifestò apparet ex tabulis ipsius sub ijs angulis irides videri, quibus multo plures radij quam sub alijs ad oculum deferantur. Colores autem quid puniceos faciat aut ceruleos non facile ostendi posse existimo; neque hic multum Cartesianis demonstrationibus permoveor. Certe ad Geometricas rationes minime pertinet. Ego autem in Dioptricis meis nihil Physici pertractare volui unumque tantum Principium ex Cartesio mihi sumpsi. quod nimirum Sinus angulorum quos radius incidens et refractus cum perpendiculari constituit semper eandem rationem inter se servant; quod non modo nostris experimentis convenit sed et eorum accuratissimè qui id ignorabant ut <persName key="kepl901">Kepleri</persName>.
+Tractatum Domini <persName key="marc901">M. Marci</persName> de motu exquiram si forte nancisci possim. Hortarem autem ipsum ut ea quoque edat quae de Circuli Quadratura meditatus est. Ego sane eidem rei à paucis diebus intentus sum, atque ea quae inveni Theoremata placent mihi prae omnibus
+alijs quae scripsi hactenus. Si brevior hic fuero, crede non aliunde id evenire quam quod ijs in chartam conjiciendis assiduam operam dicavi, ita ut vix abstrahi me patiar donec absolveram. attamen quia demonstrationem flagitas Constructionis qua Sphaeram in data ratione secare ostendi. eam tibi describam. Itaque sic habet. &amp;<note n="#1"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0504"/>
+<meta type="date" value="1658-07-28"/>
+<meta type="sender" value="bodd011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="amste001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0504">
+<div type="opener">
+<p>Nobilissime, ac Clarissime Vir.</p>
+</div>
+<p>Post discessum meum ab Haga, ubi Amstelodamum veni, Eichstadii<note n="#1"/> Ephemerides<note n="#2"/> quaesivi, de quibus inter nos sermo fuit, et inveni illas apud Elsevirios: constant autem quatuor florenis cum semisse. Quam gaudeo occasionem oblatam, per quam Dominationi vestrae potuerim inservire. Rogo te Clarissime vir, si qua in re tibi posthac prodesse possim, me uti ne dedigneris: quandoquidem mihi nihil plus in votis est, quam cum Claris viris conversari.</p>
+<p>Fateor quidem me indignum tanto honore, et tenuitatem ingenii non ignoro; nihilominus erigor per studia, quae me animosum reddunt te compellandi: non quod jactem studia, velimque doctissimus haberi, nam me in primo vix limine haereri, confiteri cogor.</p>
+<p>Volvi, evolvi libros tuos, nec legendo satiari possum: venit autem nuper ad aures meas praeter duos libros mihi cognitos, quorum unus de quadratura hyperboles &amp;c., alter de circuli magnitudine, plures Clarissimum virum in lucem emisisse, rogo si dignus sim (quod spero sine molestia Domini fieri posse) hujus rei ut certior fiam. Hoc tamen unicum peto, ut quod abutar Te per audaciam, flagranti studiorum amori id imputes. Ni enim hoc feceris, non invenio quod me liberet â vitio hominis importunissimi; nam me impulere benignitas vestra, ac singularis comitas, qua soles etiam eos qui longè infra vestram dignitatem sunt excipere.</p>
+<div type="closer">
+<p>Claritudinis vestrae Addictissimus servus <persName key="bodd011">Abrahamus Boddens</persName>.</p>
+<p>Dabam <placeName key="amste001">Amstelodami</placeName> <date>Tertio Kal. Augusti A. 1658</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijn Heer Mijn Heer <persName key="huyg003">Christiaen Huijgens</persName>, ten huijse van mijn Heer <persName key="huyg001">Constantyn Huygens Heere van Suijlichem</persName> &amp;c. port met een packjen.
+<lb/>tot 's Gravenhage</p>
+</div>
+</body>
+</text>
+</TEI>

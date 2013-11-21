@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0511"/>
+<meta type="date" value="1658-09-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0511">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>opusculum. iter Romanum. problemata gallica. Horologium. Wallisij Commercium epistolicum.</p>
+</div>
+<div type="opener">
+<p><persName key="huyg003">Chr. Hugenius</persName>, <persName key="slus001">Slusio</persName> S.D.</p>
+<p><date>6 Sept. 1658</date>.</p>
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Mitto tibi descriptionem Horologij nostri<note n="#2"/> non tam ut constructionem ejus inde discas, (siquidem automatum ipsum proculdubio jam inspexisti quum nonnulla ejus generis Leodium deportata sint) sed ut stimulus hic tibi accedat quo tuas quoque promissas nobis vigilias in lucem edere matures. Ecce jam dies caniculares elapsi sunt, nec adhuc fidem exolvis. Unde vereor ne Romanum iter spem meam frustretur. Quod si ita fieri necesse est quaeso ut significes mihi in quod tempus discessum pares. Diu est quod Johanni Hodiernae Siculo<note n="#3"/> Saturnij Systematis<note n="#4"/> autori responsum<note n="#5"/> debeo; id cum hactenus nescierim qua via ad ipsum mittere possem, nunc Te rogabo ut Romam usque literas meas tecum
+ferre velis, atque inde curare ut in Siciliam porro perveniant. Quod officij spero pro humanitate tua haud gravate te suscepturum.</p>
+<p>Anonymi Problematibus circa cycloidem lineam propositis ulteriorem operam
+<figure><graphic url="huyg003oeuv02ill103.gif"></graphic></figure>
+non impendi nisi quod centrum gravitatis in dimidio solido circa basin facto determinavi. puta cum cycloides ABC circa basin AC convertitur, quodque inde fit solidum plano ADCE in duo aequalia dividitur. Hic jam corporis ADCEB centrum gravitatis investigavi. at non hujus etiam dimidij ADBE. nec magnopere quidem hoc contendi, quippe incertus an non etiam ab autore pro impossibili habeatur. Procul dubio Wallisij Epistolicum Commercium ad te quoque jam pervenerit in quo quaedam non inscita insunt sed eo praesertim nomine gratum mihi fuit quod Gallorum <hi rend="i">ἀλαζονισμὸν</hi> et de rebus non admodum magni momenti nimium triumphum aliquatenus compesci videam. Ego sane nec tantis. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

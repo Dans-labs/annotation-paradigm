@@ -1,0 +1,53 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2465"/>
+<meta type="date" value="1687-06-24"/>
+<meta type="sender" value="duil010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2465">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>J'ai sçû de Monsieur <persName key="boyl001">Boile</persName> que vôtre santé étoit bien retablie et même que vous aviez repris vos études. Celui de qui nous avons ces bonnes nouvelles étoit venu depuis peu de Hollande. Je croi qu'il est déja parti pour y retourner, mais comme je ne l'ai pas veu je n'ai point pu profiter de son depart pour vous dire des nouvelles de l'Angleterre. Je me suis déja trouvé trois fois à la Societé roiale où j'ai entendu proposer tantôt d'assez bonnes choses et tantôt d'assez mediocres. Quelques uns de ces Messieurs qui la composent sont extremement prévenus en faveur d'un livre
+de Monsr. <persName key="newt011">Newton</persName><note n="#2"/> qui s'imprime presentement<note n="#3"/> et qui se debitera dans trois semaines d'ici. Ils m'ont reproché que j'étois trop Cartesien et m'ont fait entendre que depuis les meditations de leur auteur toute la Physique étoit bien changée. Il traitte en general de la Mechanique des Cieux; de la maniere dont les mouvemens circulaires qui se font dans un milieu liquide se communiquent à tout le milieu<note n="#4"/>; de la pesanteur et d'une force qu'il suppose dans toutes les planetes pour s'attirer les unes les autres. Il démontre ce que vous avez trouvé touchant la cycloïde et les pendules, et il determine des
+epicycloïdes qu'il faut lui substituer si on suppose que le centre de la Terre soit fort voisin<note n="#5"/>. Il donne le moien de decrire une surface d'un verre qui serve avec une autre surface donnée pour rassembler les raions qui partent d'un point donné precisement en un autre point. Sa methode concourt avec la vôtre pour la construction car il se trouve que tous les raions emploient un temps égal pour venir d'un point à l'autre<note n="#6"/>, mais ses demonstrations dependent de tout un autre principe. Il avance cette proposition<note n="#7"/>, que la resistance que sent un globe qui se meut dans un liquide, n'est que la moitié de celle que ressentiroit un grand cercle de ce globe, qui se mouvroit suivant son
+axe, avec la même vitesse. Ce traitté que j'ay veu en partie est asseurement tres beau, et rempli d'un grand nombre de belles propositions, mais je souhaitterois, Monsieur que l'Auteur vous eut un peu consulté sur ce principe d'attraction qu'il suppose entre les corps célestes. On m'a dit qu'il expliquoit assez bien par là le flux et le reflux de la mer<note n="#8"/>, savoir en supposant que la Terre et la Lune s'attirent l'une l'autre. J'avois déja remarqué en Hollande que l'on pouvoit rendre des raisons assez probables du flux et du reflux en supposant vôtre explication de la pesanteur et en imaginant qu'il y a une cause semblable qui produit une pesanteur dans la Lune. Car il resulte de là qu'effectivement la Terre et la Lune s'attirent un peu l'une l'autre et que nous devons avoir la haute mer quand la Lune est au meridien, ou plûtôt, comme il paroit par les observations, deux ou trois heures après qu'elle l'a passé. Vous vous souvenez Monsieur de la methode algebraïque dont je me servois pour determiner les tangentes<note n="#9"/> des lignes courbes dont l'equation est donnée. Comme cette methode est veritable elle concourt entierement avec la vôtre<note n="#10"/>, mais elle a ceci de commode pour moi qu'elle depend d'une reflexion fort simple et fort facile a retenir. C'est ce qui me fit resoudre il y a quelque temps à la mettre au net et à en faire quelque usage. Pendant que je me suis occupé à cela, je me suis attaché en même temps à resoudre cet autre probleme; La proprieté des tangentes d'une courbe etant donnée trouver l'equation de la courbe. J'ai trouvé en quelque sorte le moien de le resoudre toutes les fois qu'il est possible, et de reconnoitre quand la courbe proposée n'est pas Geometrique. Veritablement j'ai besoin que les proprietez des tangentes soient exprimées par la proportion qui se trouve entre deux lignes particulieres paralleles à des lignes données; mais c'est ce qui est toujours assez facile.</p>
+<p>Voici des exemples de quelques uns de mes calculs.</p>
+<p>Le point A et les lignes <hi rend="i">x</hi>, <hi rend="i">y</hi> etant donnez de position trouver l'équation de la ligne courbe qui passe par A et dont les tangentes comme BAC. ont toutes cette
+<figure><graphic url="huyg003oeuv09ill37.gif"></graphic></figure>
+proprieté que la ligne AD parallele à <hi rend="i">x</hi> est a DC parallele à <hi rend="i">y</hi> comme <hi rend="i">x</hi> est à ⅔<hi rend="i">y</hi>. Je fai mon calcul comme il suit<note n="#11"/> <hi rend="i">z. u∷x</hi>. ⅔<hi rend="i">y</hi>.</p>
+<p>3 <hi rend="i">u x</hi> - 2 <hi rend="i">zy</hi> = 0.</p>
+<p>+ 3 - 2</p>
+<p><hi rend="i">y</hi><hi rend="sup">3</hi>/<hi rend="i">x</hi><hi rend="sup">2</hi> doit toujours être égal à une même grandeur par exemple à <hi rend="i">g</hi>; car <hi rend="i">g</hi> est donnée à cause que <hi rend="i">x</hi> et <hi rend="i">y</hi> sont donnez pour un cas, ce qui suffit.</p>
+<p>Donc l'équation cherchée est <hi rend="i">y</hi><hi rend="sup">3</hi> - <hi rend="i">gx</hi><hi rend="sup">2</hi> = 0.</p>
+<p>Si j'avois <hi rend="i">z. u ∷ b</hi>-<hi rend="i">y</hi>. <hi rend="i">x</hi>-<hi rend="i">c</hi> mon calcul devroit être comme il suit + <hi rend="i">zx</hi> - <hi rend="i">zc</hi> - <hi rend="i">bu</hi> + <hi rend="i">uy</hi> = 0.</p>
+<p>+ ½ <hi rend="i">x</hi><hi rend="sup">2</hi> - <hi rend="i">cx</hi> - <hi rend="i">by</hi> + ½<hi rend="i">yy</hi> = <hi rend="i">gg</hi> Equation cherchée.</p>
+<p>Si j'avois <hi rend="i">z. u ∷ b</hi> - <hi rend="i">y</hi> + 2<hi rend="i">x.x</hi> - <hi rend="i">c</hi> + 6<hi rend="i">y</hi>.</p>
+<p>+ <hi rend="i">zx</hi> - <hi rend="i">cz</hi> + 6<hi rend="i">yz</hi> - <hi rend="i">bu</hi> + <hi rend="i">yu</hi> - 2<hi rend="i">xu</hi> = 0....A.</p>
+<p>+ ½<hi rend="i">x</hi><hi rend="sup">2</hi> - <hi rend="i">cx</hi> - <hi rend="i">by</hi> + ½<hi rend="i">y</hi><hi rend="sup">2</hi>. Partie des termes de l'equation cherchée.</p>
+<p>+6 -2</p>
+<p>+6.-2 ∷ + 3.-1 en divisant les premiers termes par 2.</p>
+<p>+ 2<hi rend="i">x</hi><hi rend="sup">3</hi>/<hi rend="i">y</hi>. Si ce terme ci étoit dans l'equation cherchée il donneroit dans l'équation A les termes + 6<hi rend="i">xxz</hi>/<hi rend="i">y</hi> - 2<hi rend="i">x</hi><hi rend="sup">3</hi><hi rend="i">u</hi>/<hi rend="i">yy</hi> qui sont entre eux comme 6<hi rend="i">yz</hi> - 2<hi rend="i">xu</hi>, au lieu qu'il devroit donner les termes mêmes 6<hi rend="i">yz</hi>-2<hi rend="i">xu</hi> à cause des autres termes de l'equation A qui ont déja leurs correspondans. Donc il n'y a point de ligne courbe geometrique de qui les tangentes aient la proprieté proposée<note n="#12"/>.</p>
+<p>&nbsp;</p>
+<p>Le chevalier Gordon<note n="#13"/> a trouvé une construction de pompe pour les vaisseaux qui fait un effet prodigieux.</p>
+<p>Si vous étes encore dans le dessein Monsieur de me donner un exemplaire de
+vôtre traitté de la pendule je vous prie de le remettre à celui qui vous fera tenir cette lettre. Je suis avec un profond respect</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Votre treshumble et tresobeissant serviteur <persName key="duil010">N. Fatio de Duillier</persName>.</p>
+<p>A <placeName key="londe002">Londres</placeName> chés Mrs. <persName>Barthelemi</persName> et <persName>Nicolas Midy Banquiers</persName> ce 14/24 Juin 1687.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huijgens de Zulichem</persName> à La Haïe.</p>
+</div>
+</body>
+</text>
+</TEI>

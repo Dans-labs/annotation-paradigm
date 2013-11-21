@@ -1,0 +1,59 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1423"/>
+<meta type="date" value="1665-06-29"/>
+<meta type="sender" value="hudd002"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="1422"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1423">
+<div type="opener">
+<p>Mijn Heer</p>
+</div>
+<p>Dewijl ik in 't overlezen van uEdelheijts laatste<note n="#1"/> zie, dat mijn voorgestelde quaestie (waar van ik had geschreven datter weijnig rekenings na mijn methode aan vast was) uEdelheijt in 't begin vrij swaar voorquam, zo zal ik hier noch bijvoegen, dat dezelve na mijn manier lichter valt te rekenen, en ook 't ontbinden, als uw Edelheijts eerste van kruijs en munt; en dat altijt zal zijn <hi rend="i">ca</hi> + <hi rend="i">cb</hi> ∞ <hi rend="i">ad</hi> namentlyk:</p>
+<p><table>
+<row>
+<cell>zoo men de kansen die'er zijn { om alles te trekken noemt <hi rend="i">a</hi> } voor A, die eerst werpt.</cell>
+</row>
+<row>
+<cell>zoo men de kansen die'er zijn { om 1 bij te zetten.......<hi rend="i">b</hi> } voor A, die eerst werpt.</cell>
+</row>
+<row>
+<cell>zoo men de kansen die'er zijn { om alles te trekken.....<hi rend="i">c</hi> } voor B, die ná-werpt.</cell>
+</row>
+<row>
+<cell>zoo men de kansen die'er zijn { om 1 bij te zetten......<hi rend="i">d</hi> } voor B, die ná-werpt.</cell>
+</row>
+</table></p>
+<p>Dewijl nu in de quaestie <hi rend="i">a</hi> is ∞ 2, <hi rend="i">b</hi> ∞ 1, zo is 3 <hi rend="i">c</hi> ∞ 2 <hi rend="i">d</hi>, en derhalven is de
+reden van de witte tot de swarte schijven als 2 tot 3, gelijk we hier boven hebben gezeijt<note n="#2"/>.</p>
+<div type="comment">
+<head rend="h4">Traduction</head>
+<p>Monsieur</p>
+<p>Comme, en relisant votre dernière<note n="#3"/>, je vois que la question que j'avais proposée (et dont j'écrivais qu'il y fallait peu de calcul suivant ma méthode) vous avait paru d'abord assez difficile, j'ajouterai encore ici que, suivant ma manière, elle est plus facile à calculer et à résoudre, que votre première de croix ou pile; et qu'on aura toujours <hi rend="i">ca</hi> + <hi rend="i">cb</hi> ∞ <hi rend="i">ad</hi>, c'est-à-dire si pour les</p>
+<p><table>
+<row>
+<cell>chances qu'il y a { de prendre tout, on nomme......<hi rend="i">a</hi> } celle de A, qui jette le premier.</cell>
+</row>
+<row>
+<cell>chances qu'il y a { de mettre 1...................<hi rend="i">b</hi> } celle de A, qui jette le premier.</cell>
+</row>
+<row>
+<cell>chances qu'il y a { de prendre tout...............<hi rend="i">c</hi> } celle de B, qui jette après lui.</cell>
+</row>
+<row>
+<cell>chances qu'il y a { de mettre 1..................<hi rend="i">d</hi> } celle de B, qui jette après lui.</cell>
+</row>
+</table></p>
+<p>Comme dans la question on a <hi rend="i">a</hi> ∞ 2, <hi rend="i">b</hi> ∞ 1, on trouve 3 <hi rend="i">c</hi> ∞ 2 <hi rend="i">d</hi>, et par conséquent
+la proportion des jetons blancs aux noirs est de 2 à 3, comme nous avons dit plus haut<note n="#4"/>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

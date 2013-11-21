@@ -1,0 +1,62 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0161"/>
+<meta type="date" value="1653-08-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="kinn013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="praag001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0161">
+<div type="opener">
+<p>Generosissimo Clarissimoque Domino Domino M.<note n="#1"/> <persName key="kinn013">A. Kinnero a Löwenthurn</persName>. <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Literis meis tandem receptis omnem tibi sinistram de me opinionem exemptam libentissime cognovi; ubi autem tanto tempore delituerint equidem excogitare nequeo, nam Patrem Gregorium cui ipsas commendaveram non ausim tantae negligentiae reum facere.
+Invaletudo mea ex febri tertianâ quâ quadrimestri spatio continuò exagitatus fui, in causâ est quo minus apud ipsum inquisiverim, cum super ista re, tum super dissidio nostro et promissa causae suae defensione quam nullam adhuc prodijsse demiror. quoniam jam dudum perscriptam à quodam Patre Ainscomio mihi relatum fuit.
+Rogo ne similiter nobis invideas propositiones istas 35 quibus secundam Quadraturam ordinasse te et intelligibilem probabilemque reddidisse scribis, quod mihi vix fit verisimile.
+Absit tamen ut Patrem Gregorium in errore versari pro axiomate statuam ut mihi imputare videris; nam id ea tenus mihi persuasi tantum quatenus evidenti demonstratione pervicisse credidi. quodcunque autem demonstrare intendimus, id axiomatis loco non haberi manifestum est.
+De caetero Cyclometra nostro Vietam à te postponi Inventionum splendore non mirum est quandiu quadraturae legitimam demonstrationem inter illius inventa computas, ea vero seposita si perseveras, liceat mihi à te dissentire.
+Vix intelligo qui <seg org="sieri" resp="#AD" type="corr">fieri</seg> possit ut Dioptrica solum<note n="#2"/> Cartesij videris, Geometriam non videris, quae tamen utraque simul olim prodiere, veruntamen lingua Gallica.<note n="#3"/>
+Sed Geometriam quoque jam quatuor ab hinc annis latinam fecit Fr. Schotenius<note n="#4"/> Professor lugdunobatavus, à quo Algebram istam literariam primum edoctus fui, cujus nunc cognitione nihil aequè carum habeo.
+Hanc si teneas cogitesque à Vieta et Marino Getaldo<note n="#5"/> resuscitatam fuisse, et à Cartesio plenissimè restitutam (nam talem quoque veteribus Geometris in usu fuisse certissimis mihi indicijs constat) tum demum merita laude
+horum virorum labores ingeniumque celebres.
+Dioptrica uni Cartesio debet quod circa refractionis naturam certo gaudet principio sine quo cum Iridis miraculum explicari nequeat, non est putandum Marcum Antonium de Dominis aut alium quenquam, laudem ipsi pulcherrimae hujus speculationis praeripuisse.
+In tractatu meo dioptrico regulas tradidi quibus de Iride doctrina perficitur.
+Unam quae datâ proportione refractionis (scis quorum sinuum rationem designem) expeditè computare docet angulum sub quo iris cerni debeat. aliam quae hoc angulo dato proportionem illam exhibet, quam vel maximè utilem inveni ad inveniendam exactissime in vitro et alia quavis pellucente materia refractionis quantitatem, paratis ad hoc ex quaque materia cylindrulis sphaerulisve, solique expositis atque ita notato angulo sub quo iris in vitrea aliave pluvia conspici deberet.
+Verum haec ex tractatu ipso quandoque te percepturum planius spero, nunc demonstrationem hic scribam constructionis
+<figure><graphic url="huyg003oeuv01ill103.gif"></graphic></figure>
+duarum mediarum proportionalium quam desideras<note n="#6"/> Perficiatur circulus <formula>ALCK</formula> et producatur <formula>GE</formula> usque ad circumferentiam in <formula>K</formula>, Et jungatur <formula>AK</formula>, eique parallela ducatur <formula>BO</formula>.
+Itaque similes sunt Δli <formula>AEK</formula>, <formula>BHO</formula>; et quia <formula>AE</formula> aequalis <formula>EK</formula>, etiam <formula>BH</formula> aequalis <formula>HO</formula>: sed et <formula>HG</formula>, <formula>HD</formula> ex constructione inter se aequales sunt, igitur tota <formula>OG</formula> aequalis <formula>BD</formula>, hoc est diametro <formula>AC</formula> vel <formula>LK</formula>.
+Etablata communi <formula>LO</formula> relinquuntur aequales inter se <formula>GL</formula> et <formula>OK</formula>.
+Est autem ▭ <formula>KGL</formula> aequale ▭ <seg org="to" resp="#AD" type="corr">lo</seg> <formula>AGB</formula>, ideoque ut <formula>KG</formula> ad <formula>GA</formula> ita <formula>BG</formula> ad <formula>GL</formula>.
+Verum ut <formula>KG</formula> ad <formula>GA</formula> ita propter triangulos similes est quoque <formula>OG</formula> ad <formula>GB</formula> et ita reliqua etiam <formula>OK</formula>, cui aequalis <formula>LG</formula> ad <formula>BA</formula> reliquam.
+Ergo ut <formula>OG</formula> hoc est <formula>AC</formula> ad <formula>GB</formula> ita <formula>GB</formula> ad <formula>BL</formula><note n="#7"/>, et <formula>LG</formula> ad <formula>BA</formula>.
+Patetque inter <formula>AC</formula> et <formula>AB</formula> lineas medias esse <formula>BG</formula> et <formula>GL</formula> quod erat demonstrandum.</p>
+<p>Trisectionis anguli quam ad me misisti constructio manifestam rationem habet ijs, qui Cartesij Geometriam legerunt, quae simul docet quam sit utilis contemplatio dictae partitionis ad solidorum problematum compositionem.
+Potest vero ad compositionem quoque adhiberi, sicut sequenti exemplo intelliges, neque enim possum quin hac occasione pulcherrimam Tibi constructionem adscribam Problematis Archimedei, qua inventa non leviter me gavisum memini.
+Problema est, Sphaeram propositam plano secare secundum datam rationem.
+Et Archimedis quidem compositio deperijt nisi illa est quam Eutocius in vetusto quodam libro se reperisse testatur.
+At Dionysidorus aliam invenit aliamque Diocles.
+Sed Pater Gregorius hisce meam praeferebat, quam ipsi olim cum demonstrationi miseram eo quod per parabolam et circulum absolvebatur.
+Caeterum hanc quae nunc sequitur deinceps inveni.</p>
+<p>Proponatur sphaera, et maximus in ea sit circulus <formula>AKCL</formula>, diameter <formula>AC</formula>, centrum <formula>M</formula>, proportio verò data sit <formula>S</formula> majoris ad <formula>T</formula> minorem.</p>
+<p>Dividatur <formula>AC</formula> in <formula>E</formula> ut sit sicut <formula>S</formula> ad <formula>T</formula> ita <formula>AE</formula> ad <formula>EC</formula>, et accommodetur in circulo <formula>ABCD</formula> recta <formula>AR</formula> aequalis differentiae duarum <formula>AE</formula>, <formula>EC</formula>.
+Et ei quae subtendit
+<figure><graphic url="huyg003oeuv01ill104.gif"></graphic></figure>
+tertiam partem arcus <formula>AR</formula>, sumatur aequalis <formula>MN</formula>; Tum si ducatur per <formula>N</formula> planum <formula>KL</formula> quod diametro <formula>AC</formula> sit ad angulos rectos; Dico hoc sphaeram sic secare, ut portio <formula>KAL</formula> sit ad portionem <formula>KCL</formula> ut <formula>S</formula> ad <formula>T</formula>.</p>
+<p>Demonstratio <seg org="cumijs" resp="#AD" type="corr">cum ijs</seg> quae ad ipsam spectant, epistola<note n="#8"/> hanc aequat propemodum, et Tu ulteriori contemplatione onerandus non videris.
+Itaque finem hic faciam hoc unum te obtestatus, ut sive ipse quid novae rei speculatus fueris sive è Geometris aliquis quibuscum isthic versaris ne mihi voluptarem deneges talibus perfruendi. Vale.</p>
+<div type="closer">
+<p><date>9 Aug. 1653</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Perillustri et Generoso Domino Domino M. <persName key="kinn013">Godefr. Aloysio Kinnero a Löwenthurn</persName>.
+<lb/><placeName key="praag001">Pragam</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

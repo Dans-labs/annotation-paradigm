@@ -1,0 +1,198 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0685"/>
+<meta type="date" value="1659-11"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0684"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0685">
+<p>Obseruatio Eclipsis ☉ facta Parisiis anno 1659 Nouembris 14.</p>
+<p>&nbsp;</p>
+<p>ab <persName key="boul014">Ismaele Bullialdo</persName>.</p>
+<p><table>
+<row>
+<cell role="header">Altitudo ☉ obseruata.</cell>
+<cell role="header">Altitudo centri ☉ correcta.</cell>
+<cell role="header">Tempus collectum.</cell>
+<cell role="header">Phases.</cell>
+<cell role="header">Partes ☉ tectae</cell>
+<cell role="header"></cell>
+</row>
+<row>
+<cell>Centri ☉</cell>
+<cell cols="4"></cell>
+<cell>Ingressus punctum dissitit a verticali ad Horizontem per ☉ transeunte partibus circiter 124. ad occasum. Sol aegrè visus.</cell>
+</row>
+<row>
+<cell>0 ′</cell>
+<cell>0 ′</cell>
+<cell>H. ′.</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell>17<hi rend="sup">o</hi>. 54′.</cell>
+<cell>17. 50.</cell>
+<cell>1. 58.</cell>
+<cell>Initium</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>17. 30.</cell>
+<cell>17. 26.</cell>
+<cell>2. 3.</cell>
+<cell>Dig. I</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>16. 30.</cell>
+<cell>16. 26.</cell>
+<cell>2. 14.</cell>
+<cell>Dig. II½</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>Limbi Inferioris.</cell>
+<cell cols="5"></cell>
+</row>
+<row>
+<cell cols="4"></cell>
+<cell>84. circumferentiae.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>15. 33.</cell>
+<cell>15. 45.</cell>
+<cell>2. 22.</cell>
+<cell>Dig. III.</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>15. 0.</cell>
+<cell>15. 12.</cell>
+<cell>2. 28.</cell>
+<cell>Dig. fere IV.</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>Limbi Superioris.</cell>
+<cell cols="5"></cell>
+</row>
+<row>
+<cell>14. 45.</cell>
+<cell>14. 31.</cell>
+<cell>2. 34.</cell>
+<cell>Dig. V.</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>Centri.</cell>
+<cell cols="4"></cell>
+<cell>☾ itaque semidiameter tantillo major semidiametro Solis. Sol sub crassis nubibus latuit statim.</cell>
+</row>
+<row>
+<cell>13. 25.</cell>
+<cell>13. 19.</cell>
+<cell>2. 46.</cell>
+<cell>Dig. VI.</cell>
+<cell>121.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>11. 48.</cell>
+<cell>11. 41.</cell>
+<cell>3. 1.</cell>
+<cell>Dig. VII.</cell>
+<cell>135.</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="5"></cell>
+<cell>Sol iterum lucet &amp; pingitur in charta post tubum. Finis punctum distitit a verticali ad ortum partibus circiter 77.</cell>
+</row>
+<row>
+<cell>5. 41.</cell>
+<cell>5. 30.</cell>
+<cell>3. 51.</cell>
+<cell>Dig. IV.</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>4. 30.</cell>
+<cell>4. 18.</cell>
+<cell>4. 0.</cell>
+<cell>Dig. II½</cell>
+<cell cols="2"></cell>
+</row>
+<row>
+<cell>2. 17.</cell>
+<cell>2. 0.</cell>
+<cell>4. 16.</cell>
+<cell>Finis.</cell>
+<cell cols="2"></cell>
+</row>
+</table></p>
+<p>Phases principii &amp; finis, vt &amp; digitorum 3. &amp; 6. jtem decrescentiae IV &amp; II½ certae sunt.</p>
+<p>Antequam digitos VII½ attigisset nubibus transcurrentibus sol maculabatur, deinde sub densissimis latuit; ita vt medium &amp; maximam obscurationem notare non potuerimus in charta post tubum. Sed per hiatus aliquos nubium paruo tubo optico judicare licuit non magno excessisse digitos VIII.</p>
+<p>Tabulae Philolaicae sic illam repraesentant remoto Meridiano Parisiensi ab Vraniburgico ′40. ad occasum.</p>
+<p><table>
+<row>
+<cell cols="4"></cell>
+<cell cols="4">Obseruatio vero.</cell>
+</row>
+<row>
+<cell></cell>
+<cell>H.</cell>
+<cell>′.</cell>
+<cell>″.</cell>
+<cell></cell>
+<cell>H.</cell>
+<cell>′.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Jnitium</cell>
+<cell>2.</cell>
+<cell>17.</cell>
+<cell>22.</cell>
+<cell></cell>
+<cell>1.</cell>
+<cell>58.</cell>
+<cell>Dig. IX.′. <hi rend="sc">xxi</hi>.<note n="#1"/></cell>
+</row>
+<row>
+<cell>Visam ☌.</cell>
+<cell>3.</cell>
+<cell>28.</cell>
+<cell>50.</cell>
+<cell></cell>
+<cell>0.</cell>
+<cell>0.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Finem</cell>
+<cell>4.</cell>
+<cell>30.</cell>
+<cell>6.</cell>
+<cell></cell>
+<cell>4.</cell>
+<cell>16.</cell>
+<cell></cell>
+</row>
+</table></p>
+<p>Ab Initio ad digitos VII circa Lunae oram color igneus, cui succedebat croceus, videbatur circa Solem columbineus.</p>
+<p>Ante finem digitorum IV. residuis circa oram Lunae nullus fere color, vt nec circa Solis oram cernebatur.</p>
+<p>Vel igitur aliqua in motu Lunae quarta inaequalitas inest, vel aequatio dierum aliter est adhibenda, quam hactenus ab omnibus adhiberi consueuit. fortasse etiam parallaxes ☉ minores sunt, quam in Tabulis Philolaicis sunt a me determinatae.</p>
+</div>
+<div type="para">
+<p>Illustrissimo Viro <persName key="huyg003">Christiano Hugenio Zulichemio</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

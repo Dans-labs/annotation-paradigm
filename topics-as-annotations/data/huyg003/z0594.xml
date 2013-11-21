@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0594"/>
+<meta type="date" value="1659-03-07"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0594">
+<div type="opener">
+<p>ce <date>7<hi rend="sup">e</hi> mars 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Monsieur <persName key="boul014">Bouillaud</persName> m'ayant fait esperer la commodité d'un marchand<note n="#1"/> qui arriuera bien tost en Hollande, Je luy ay donné six Exemplaires des traittez de Monsieur <persName>Dettonuille</persName><note n="#2"/>, dont jl y en a un pour vous Monsieur, vn pour Monsieur <persName key="scho197">de Schooten</persName>, et je prends la liberté de vous en addresser encore quatre pour estre enuoyez en Angleterre à Messieurs <persName key="wren002">Wrem</persName>, <persName key="hobb001">Hobbs</persName><note n="#3"/>, <persName key="wall057">Wallis</persName>, et <persName>Ward</persName>.
+parce que j'apprehende ne trouuer pas si tost un'autre commodité, et que ceux qui ont l'honneur d'estre connus de vous m'ont asseuré de vostre bonté, et que ie pouuois sans rougir vous demander cette grace, ce que Je fais encore plus volontiers qu'il ma semblé ne deuoir pas differer dauantage la connoissance que Monsieur Dettonuille desire qu'ils ayent de l'estime tres particuliere qu'il fait de vostre merite.
+Je n'escris pas à ces Messieurs qui m'ont fait l'honneur de m'escrire souuent pendant mon absence de cette ville, parce que Je ne faist que sortir d'une fieure auec une fluxion sur la poitrine qui m'a fort incommodé pendant douze jours, permettez moy encore Monsieur d'implorer uostre entremise pour leur faire mes excuses, les assurer de mon tres humble seruice, et les supplier de m'enuoyer sincerement le Jugement qu'ils font de cet ouurage, ce que vous agreerez s'il vous plaist que Je vous demande aussy treshumblement, Nos Geometres d'icy m'ont assuré n'auoir rien veu de plus fort jusques astheure en ces matieres, et m'ont temoigné quelque
+obligation de l'auoir tiré des mains de l'autheur pour le donner au public, en quoy quelqu'autre qui eust esté moins son amy ou qui eust eu moins de liberté et moins de patience auec luy eust eu certainement plus de peyne.
+J'y ay fait joindre quelques autres propositions parce qu'elles m'ont semble assez belles, et particulierement la demonstration à la maniere des anciens de l'esgalité de la ligne parabolique auec la spirale, pour faire uoir à quelques uns qui ne sont pas encore accoustumés a la manière de demonstrer par les indiuisibles, qu'il n'y a rien de si aysé que de la reduire à celle des anciens.
+Je suis de tout mon coeur, et auec toute sorte de respect.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="carc010">de Carcavy</persName>.</p>
+</div>
+<p>Je n'ay point encore receu le traitté de uostre horloge<note n="#4"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Huggens de Zulychem</persName> a la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

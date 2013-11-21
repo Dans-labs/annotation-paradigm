@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1753"/>
+<meta type="date" value="1669-08-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1753">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 6 Aoust 1669.</p>
+</div>
+<p>J'ay achetè vostre perruque apres avoir receu vostre approbation de l'eschantillon. J'en ay payè 103 ℔ apres avoir bien marchandè.</p>
+<p>Pour les mienes qui ne sont pas encore du dernier blond je donne 12 louis, de
+sorte que je ne crois pas que les cheveux de celle de Heuft soient de fort belle couleur. Je tascheray de vous faire tenir la vostre par la premiere occasion.</p>
+<p>Monsieur Romf et le ministre de Hertogh<note n="#1"/> m'ont dit tous deux que le frere<note n="#2"/> de Mesdamoiselles Aersen estoit tres mal lors qu'il fut icy malade et qu'il estoit dans des resveries ridicules ayant peur des medecins par ce qu'il disoit qu'ils le vouloient faire mourir pour satisfaire a leur curiositè en le dissequant apres qu'il seroit mort, et qu'ils luy faisoient prendre expres des nouritures qui leur feroient mieux voir le passage du chile dans les veines lactees. Il en est echappè cependant et le changement d'air assurement luy fera du bien, de sorte que je ne vois pas que Mesdamoiselles ses soeurs ayent encore suject de compter sur sa succession.</p>
+<p>Ie chercheray le livre de Chifres que vous demandez et verray s'il y a autre chose qui merite d'estre envoyee.</p>
+<p>Pour les airs que vous demandez<note n="#3"/> pour Madame de Beverning, je ne scay pas ou en trouuer de cette facon, mais pour des Courantes et Sarabandes, je pourray bien luy en fournir quelques unes.</p>
+<p>Voila la fortune de Brasser faite. Vous ne me dites rien touchant ce qu'il est arrivè des 2 charges qu'on sollicitoit pour vous a la fois. Peut on encore esperer pour Mademoiselle Ida<note n="#4"/> apres toutes ces longueurs, dont elle n'est point cause, dieu le scait.</p>
+</div>
+</body>
+</text>
+</TEI>

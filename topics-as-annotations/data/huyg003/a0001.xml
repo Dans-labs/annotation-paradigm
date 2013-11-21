@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0001a"/>
+<meta type="date" value="1639-05-25"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0001">
+<div type="opener">
+<p>Nobilissimo Amplissimo Domino, Domino <persName key="huyg001">Constantino Hugenio</persName> Toparchae in Zuilichem etc. Domino meo clementissimo S.P.D.</p>
+<p>Perillustris Domine,</p>
+</div>
+<p>Quod mihi discedens imperaveras, ut Methodi, quâ in formandis commilitonum studijs utor rationem redderem, in eo et me et sidem meam praestabo; praestiturus haud paulo magis cumulatè, nisi me temporis opprimeret angustia; nunc enim, (et jam octava est et quod excurrit) modo nuntiatur nuntium ante nonam discessurum, facio autem id lubens, tum officij causa, tum quia a prolixissuma humanitate vestrâ emendationem exspecto: caeterorum judicia vel aequa vel iniqua juxtà aestimans. Primum quidem non fugit Amplitudinem tuam ab octavâ ad usque nonam barbito operam dare siliolos majores duòs: Intereà Ludovicus, quid? Ludit. quod aetatulae ejus tenellae, lusui, ut fit, impensius dedito, dandum arbitror. Horas institutionis ad hunc dividimus modum. Earum Primam Sleidanus<note n="#1"/>, alteram thema vendicant. Si quid autem ab hoc scripto supersit temporis, Labyrinthos bellus ego Logo-daedalus, ut cum Plauto loquar, non hortorum Cretensium, sed poëticorum, struere soleo: Atque ita versus vel ipsi, aut Bavio, aut Maevio, pudendos, compono, ut ne sub specie bonorum versuum latentes naevi, in Prosodiam impingentes, et <hi rend="i">qui latet anguis in herbâ</hi>, primo obtutu se prodant; quae quidem, nisi omninò me fallunt omnes rationes, pia addo utilis, fraus est, maximè quae, bonâ fide agens, <hi rend="i">fallêre nisi fefelleris</hi>, identidem inculcet; ne praedictum sibi fortè negent. Caeterum, adeò jam nunc emunctae naris sunt, ut confestim ijs, tametsi ne monuerim quidem dolus suboleat. Itaque Oedipi magni, è vestigiò omnes conturbant mihi sphynges meas et ignavum fucos pecus à praesepibus arcent. Et inclusos qui ligno occultantur Achivos, cum fortius, tum etiam feliciori omine quam olim Laocoon ille Tros, denudant. fraude autem demonstrato, ut integritati suae restituant, injungo, quo praxis Prosodiae appareat. Thema verò cum Constantinus scribit, ne Christiano, importuna illa crux scabies, studia omninò destruat, cepi rationem, ut ne illâ quidem horâ otium agat. Atque ut Terentium secum repetat, author sum: de quo quid attinet dicere?
+quem naturae extremus conatus Scaliger<note n="#2"/>, et miraculum hominis Erasmus<note n="#3"/>, postquàm omnium propè scientiarum perlustrassent adijta, nunquam deposuêre. Ludovico dum in Sleidano agimus, thema praescribo. Horâ autem decimâ Terentium ei explico. Undecimâ verò non continuò quâ data porta ruunt, sed dum Philippum ego, Constantinus Ludovicum, instituit in Musicis. Tum Arithmeticae dant operam. hinc in ducendis nitidè litteris occupantur. Christianus, qui jam neutrum agere, ob manuum impotentiam potest, Musicam utramque excolit; id quod Constantinus à prandio ante tertiam facit. Eâ auditâ, Ludovicus Grammaticam repetit. Nos in ingeniosissimi poëtarum Tristibus versamur, majore medius fidius voluptate, quam ille scripsit. Rhetoricae Compendium aggrediemur propediem, in quo, id quod jussisti, tropos duntaxat, et schemata observabimus et ipsum compendium sive sceleton potius, circumcidemus. Nunc interim Themata scribunt. Horâ quintâ ubi Philippum docui, vel deambulationi, si coelum invitet, vel poësi si Musae arrideant, indulgent. alias Aurorae, vel quocunque demum extrà horas institutionis tempore, Deo illo, qui in eis est
+agitante, incaluerint, Parnasso bicipiti litamus. Sed moror te nimis et in publica commoda pecco, Cum tot sustineas et tanta negotia solus. Deus Optimus Maximus Amplitudinem tuam patriaeque tuisque quam diutissime incolumem conservet. Vale nobilissime Domine, atque ignosce lituris, humillime salutat[us]</p>
+<div type="closer">
+<p>ab Amplitudinis tuae cliente devotissimo
+<lb/><persName key="brun004">Henrico Brunone</persName>.
+<lb/><placeName key="denha004">Hagae Comitis</placeName> ex aedibus Amplitudinis tuae,
+<lb/><date>VIII Kal. Junias CIƆIƆCXXXIX</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Aen Mijn Heer Mijn Heer <persName key="huyg001">Constantin Huigens heer tot Zuilichem</persName>, etc.<note n="#4"/></p>
+</div>
+</body>
+</text>
+</TEI>

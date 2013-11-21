@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1842"/>
+<meta type="date" value="1671-09-11"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1842">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> ce 11 Septembre 1671.</p>
+</div>
+<p>Je vous remercie des nouuelles<note n="#1"/> que vous avez pris la peine de me communiquer n'ayant rien receu par ce dernier ordinaire que de vous. La mort du bon Oncle<note n="#2"/> n'aura surpris personne puis qu'on s'estonnoit comment il pouvoit trainer si longtemps la vie en l'estat ou il estoit. Je n'auray qu'a continuer le deuil que je porte depuis la mort du petit duc d'Anjou<note n="#3"/>.</p>
+<p>Vous ferez fort bien de reprendre un peu les observations celestes, puis qu'il s'y offre des phaenomenes considerables comme ces taches du soleil qui sont revenues une seconde fois, apres avoir fait le tour du soleil, et les anses de Saturne qui sont maintenant assez evidentes et qui doivent peu a peu disparoistre vers la fin de l'année<note n="#4"/>. Nous venons d'escrire en Italie pour avoir des verres de Campani, des plus longues lunettes qu'il a fait, et pour l'exciter a en faire de plus grandes on luy propose des prix. comme aussi s'il veut communiquer sa methode d'y travailler. Nous allons aussi faire des essais de verre ceans pour voir si nous en pourrons faire qui fut sans defaut.</p>
+<p>Au frere Louis s'il est la vous direz s'il vous plait que j'ay sa perruque de 6 louis toute preste avec ce qu'il m'a encore demandè et que je l'envoieray par la premiere commoditè.</p>
+<p>Vous avez bien fait de mettre l'argent que l'on vous a portè<note n="#5"/> pour moy avec l'autre je vous en recommande le depost jusqu'a ceque j'en aye a faire. Adieu il y a icy du monde qui m'empesche de rien ajouster a cecy qui est escrit en grande haste comme il paroit.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>chez Mr. <persName key="huyg001">de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

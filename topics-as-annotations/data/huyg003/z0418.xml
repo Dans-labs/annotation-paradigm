@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0418"/>
+<meta type="date" value="1657-10-23?"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0417"/>
+<meta type="type" value="appendix"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0418">
+<p><figure><graphic url="huyg003oeuv02ill31.gif"></graphic></figure></p>
+<div type="section">
+<head rend="h4">Problema j<hi rend="sup">um</hi>.</head>
+<p>Datis duobus circulis <formula>A</formula>, <formula>C</formula>, et recta <formula>EF</formula> inuenire circulum <formula>EBDF</formula> qui tangens datos circulos relinquat super datâ rectâ arcum <formula>EBDF</formula> capacem angulj datj.</p>
+</div>
+<div type="section">
+<head rend="h4">Problema 2<hi rend="sup">dum</hi>.</head>
+<p>Datis quinque rectis <formula>AG</formula>, <formula>BF</formula>, <formula>CK</formula>, <formula>DL</formula>, <formula>EH</formula> inuenire coni-sectionem quae datas quinque rectas contingat. Oppositas autem Hyperbolas pro vnâ coni-sectione accipio.</p>
+<p><figure><graphic url="huyg003oeuv02ill32.gif"></graphic></figure></p>
+<p>Oportet autem tres ex ipsis non esse inter se parallelas aut ad idem punctum coalescentes.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

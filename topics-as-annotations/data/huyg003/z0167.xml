@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0167"/>
+<meta type="date" value="1653-11-29"/>
+<meta type="sender" value="kinn013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="praag001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0167">
+<div type="opener">
+<p>Perillustris, Generosissimeque Domine Domine Colendissime. Salutem â Domino et obsequia mea paratissima.</p>
+</div>
+<p>Liceat pace Tuâ praeteritarum literarum<note n="#1"/> memoriam praesentibus refricare aut si forsitan casu aliquo ad te illae non pervenerunt, antevertere cogitationes tuas, quibus fortassis apud te tacitus accusas silentium meum. Receptis ultimis tuis pro more meo statim respondi, proposuique in illis Theorema opticum, quod paucis abhinc annis apud nos vocabatur in controversiam, tuum super eo requirens iudicium. Sed quoniam ab eo tempore iam tertius mensis labitur, neque tamen responsum â te video, quem aliàs in vices alienis literis rependendas cognovi satis pronum; est profectò, quare iure merito verear, nè aut literae alio dilapsae in locum suum non tetigerint; aut certè, quod nolim, morbus aliquis â scriptione te prohibeat. Quam haesitationem actutum animo meo exemeris, si praesentibus quàm primum respondens aperueris rerum tuarum et valetudinis tuae statum. Scripseram in penultimis<note n="#2"/> meisadte, me in ordinem redegisse quadraturam secundam Clarissimi Geometrae Gregorii â Sancto Vincentio, quam quia vidi Geometris nostris non displicere, publici iuris facere ob eorundem preces decrevi; iamque opusculum illud<note n="#3"/> sub praelo sudat; spero quamprimum illius consummationem. Libenter ad te destinarem exemplar, sed vix scio quâ viâ; si tibi medium aliquod occurrat idoneum, suggere, habebisque paratissimum me ad tibi serviendum. Reverendus Pater Gregorius in proximis suis ad me pollicetur brevî aliquid novum, sive illud erit ad explicationem praeteriti operis, seu potius novum quidpiam constructioni Deliaci problematis<note n="#4"/> serviturum. Faxit DEVS nè intempestiva Viri optimi mors conatus intercipiat, et cogitatos labores posteritati invideat non sine maximo Geometriae detrimento. Vir apud nos est summâ ingenij felicitate Excellentissimus Dominus <persName key="marc901">Joannes Marcus Marci</persName><note n="#5"/> Medecinae Doctor in Geometricis ac Philosophicis rebus apprimè versatus, qui et ipse brevî lucubratriunculas suas promittit de Circuli quadratura;<note n="#6"/> in quibus non ipsum quidem tetragonismum exhibebit, sed suas tantum speculationes in eum finem directas. Edidit ille idem iam antehac tractatus binos Geometricos de motu<note n="#7"/>, de Arcu Coelesti<note n="#8"/> unum alterumque in materia Philosophica de Jdeis<note n="#9"/>; quos audio multis apud
+exteros probari. Scripsitn on pridem ad me Reverendus Pater Theodorus Moretus<note n="#10"/> Geometriâ caeterâque Mathesi celeberrimus, Mathematum in multis Germaniae Academijs emeritus Professor, tibique per me petijt impensè commendari, cuius ignotam quidem non tamen sortassis ingratam salutationem peramicam praesentibus adscribendam duxi. Deberet non parum iam pridem inventionibus illius Geometrica Respublica, nisi harum partium ea foret infelicitas, ut viris alioqui doctissimis domi solum ac in privato<note n="#11"/> de partubus ingenii sui gaudere liceat, nescio quo fati Genio lucem publicam invidente. Sed aliò forsitan ab importunae epistolae lectione avocaris? Da veniam si impeditum tenui diutius; errore inductus sum ut crederem, placere et alijs prolixiores epistolas, quae me impensè delectant. Vive interim, Valeque mei non immemor Juvenum Nobilissime, et Dioptrica tua, humidoque innatantia Mundo nè cela, â quo ob praeclaram Refractionum et Humidorum doctrinam, Solidam et Irrefractam Gloriam impetraturum te omnino confide.</p>
+<div type="closer">
+<p>Perillustris ac Generosissimae Dominationis Tuae Seruus paratissimus</p>
+<p><persName key="kinn013">Godefridus Aloysius Kinner â Löwenthurn</persName>.</p>
+<p><hi rend="i">Manu propriâ</hi>.</p>
+<p>Dabam <placeName key="praag001">Pragae</placeName> <date>29 Novembr: 1653</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Perillustri, Generosissimoque Domino, Domino <persName key="huyg003">Christiano Hugenio</persName> D. etc., Domino ac Patrono mihi Colendissimo Observandissimoque.
+<lb/>Hagam Comitis. S Graven Hage.
+<lb/>6.</p>
+</div>
+</body>
+</text>
+</TEI>

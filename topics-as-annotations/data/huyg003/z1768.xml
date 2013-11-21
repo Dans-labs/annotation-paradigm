@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1768"/>
+<meta type="date" value="1669-10-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1768">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 28 Octobre.</p>
+</div>
+<p>J'ay oubliè de vous faire scavoir par ma derniere<note n="#1"/> le prix de vostre Perruque<note n="#2"/>, que est de 103 livres monnoie de France, ou 85 ℔. 16 S. monnoie d'Hollande. Prenez quelque occasion seure pour m'envoier cet argent, celle du Marquis avec ses 4 chevaux ne me semble pas sans risque. Je vous prie de dire au frere de Zuylichem<note n="#3"/> qu'il y a w sortes de pierre noire<note n="#4"/> dans la boete que le porteur de la presente luy delivrera. l'une plus molle que l'autre et qu'il me mande la quelle luy agree le plus. J'ay cru que ce seroit la dure, c'est pourquoy j'ay pris les morceax que ne sont pas siez de celle là.</p>
+</div>
+<div type="para">
+<p>Pour mon frère L.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1884"/>
+<meta type="date" value="1672-05-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1884">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 13 Maj 1672.</p>
+</div>
+<p>Je n'ay point eu de lettres par le dernier ordinaire, et je n'ay rien a vous dire sinon, si vales bene est ego valeo. Voicy une lettre de Monsieur Perrault ou vous, aurez sans doute quelque relation du voiage de Versailles que nous fismes lundy dernier avec Monsieur le Controlleur<note n="#1"/> et son espouse<note n="#2"/>, et 4 carosses pleins de
+monde. Vous pouuez penser, si toutes les portes s'ouvrirent et si toutes les fontaines jouerent. Il y vint encore autant et plus de monde de Paris, que celuy que nous amenasmes, pour profiter de cette bonne occasion et entre autres nos Cousines<note n="#3"/>, des quelles la mere avoit estè trois jours malade a garder le lict, et pourtant comme je les fis avertir le matin une heure devant nostre depart, elle se leva, s'en vint trouuer la compagnie a Versailles, et se promena avec tous les autres depuis 11 heures jusques a 7 du soir.</p>
+<p>Je fais souvent reflexion combien paisiblement et tranquillement l'on vit icy, en comparaison de ce qu'on fait chez nous ou il ne se peut que l'on n'attende avec inquietude ce qui arrivera des premiers efforts d'une si puissante armée, qui doit estre maintenant sur nos frontieres. Je vous prie de me faire tousjours part de ce que vous en apprendrez, car les nouvelles qu'on debitera icy ne seront pas fort veritables, a ce que je puis juger par quelques unes que l'on a divulguees dans ces commencements.</p>
+<p>Par ma prochaine je pourray vous envoier la description du moulin de la Chine, qui tourne a tous vents<note n="#4"/>.</p>
+<p>L'on travaille presentement a mon miroir de metail d' 11 pouces de diametre et 12 pieds de distance de foier<note n="#5"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

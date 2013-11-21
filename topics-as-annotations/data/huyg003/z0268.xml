@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0268"/>
+<meta type="date" value="1656-03-10"/>
+<meta type="sender" value="robe012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0268">
+<div type="opener">
+<p><placeName key="parij001">Paris</placeName> ce <date>10 Mars 1656</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a deux mois que je receus vostre lettre<note n="#1"/>, par laquelle vous me mandiez vostre retour chez vous. je vous rescriuis aussj tost, et je mis moi-meme la lettre<note n="#2"/> dans la boete à la rue Quincampois, dont pourtant Je n'ay receu aucune response. Cela m'a fait tomber en quelque soupçon, quj sera cause que je ne vous manderay rien jusqu'à ce que jaye receu la vostre à celle cy. Je vous prie que ce soit au plustost: Mais sj vous estes en mesime soupçon que moy, rescriuez moy par plusieurs voyes dans des pacquets de vos amis, auec charge de me rendre vos lettres en mains propres. Pour moy, sj celle cy manque je suiuray d'autres voies. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tresobeissant seruiteur <persName key="robe012">Roberual</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Chrestien Huygens de Zulichem</persName>.
+<lb/>A La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

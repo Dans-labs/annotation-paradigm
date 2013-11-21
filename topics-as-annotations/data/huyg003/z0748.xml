@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0748"/>
+<meta type="date" value="1660-04-28"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0748">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Raisonnement bon touchant ♄. Poemes de Huët, qu'il me les envoye. Ce que j'ay adjoustè a l'horologe, J'en diray dans l'assemblee de Mathematiques. Figures de Becherus. Hevelius me promet de nouuelles observations des Parelies. Pourtant celuy de Rome est sort singulier.</p>
+</div>
+<div type="opener">
+<p><date>28 Avril 1660</date>.</p>
+<p><persName key="chap002">Chapelain</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'abuse tousjours de vostre extreme bontè en vous escrivant si rarement, mais je differeray mes excuses jusques a ce que je vous les fasse de bouche une fois pour toutes. Car j'ay fait dessein de venir a Paris lors que Messieurs nos Ambassadeurs<note n="#1"/> s'en iront pour feliciter le Roy Treschrestien et un de mes principaux motifs est le desir que j'ay de vous donner visite. Vostre derniere estoit du 4<hi rend="sup">e</hi> Mars, en la quelle vous raisonnez admirablement bien a mon avis touchant le systeme de ♄, et notamment pour ce qui regarde l'anneau que vous concevez comme composè d'une multitude de lunes, et que ainsi il luy est aussi naturel de se soutenir a l'entour du globe de ♄ qu'il est à nostre lune de descrire un cercle a l'entour de la terre. Je suis marry de n'avoir pas cu cette pensee lors que j'escrivis de cette matière. Parmy les objections que je vous ay specifièes il n'y avoit pas celle qu'il semble qu'en Italie ils se sont formèz. qui est de tirer en doute mes observations mesmes et les figures de ♄, que j'ay dit avoir remarquè avec mes lunettes, comme vous verrez par cet extrait<note n="#2"/> de la lettre de Monsieur Gottignies au Père Gregoire à S<hi rend="sup">to</hi>. Vincentio, qui me l'a communiquèe. Il escrit de Rome ce qui s'ensuit &amp;c.</p>
+</div>
+</body>
+</text>
+</TEI>

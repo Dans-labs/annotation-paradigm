@@ -1,0 +1,56 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2644"/>
+<meta type="date" value="1690-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="?"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2643"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2644">
+<div type="section">
+<head rend="h4">§ I<note n="#2"/>.</head>
+<p><figure><graphic url="huyg003oeuv09ill113.gif"></graphic></figure><note n="#3"/><note n="#4"/> dividi aequatio per <hi rend="i">y</hi><hi rend="sup">4</hi><note n="#5"/>.</p>
+</div>
+<div type="section">
+<head rend="h4">§ II<note n="#6"/>.</head>
+<p>+ <hi rend="i">y</hi><hi rend="sup">z</hi> - <hi rend="i">πaay</hi><hi rend="sup">v</hi> + <hi rend="i">θaaxx</hi> = 0 supposita aequ. curvae - <hi rend="i">zy</hi><hi rend="sup">z</hi> + <hi rend="i">vπaay</hi><hi rend="sup">v</hi> / 2<hi rend="i">θaax</hi> = <hi rend="i">s</hi> sed hic nullus terminus in numeratore ubi <hi rend="i">x</hi> extet. at erit si pro - <hi rend="i">zy</hi><hi rend="sup">z</hi> ponatur ejus valor.</p>
+<p>- <hi rend="i">zy</hi><hi rend="sup">z</hi> = - <hi rend="i">zπaay</hi><hi rend="sup">v</hi> + <hi rend="i">zθaaxx</hi></p>
+<p><figure><graphic url="huyg003oeuv09ill114.gif"></graphic></figure><note n="#7"/></p>
+</div>
+<div type="section">
+<head rend="h4">§ III<note n="#8"/>.</head>
+<p><figure><graphic url="huyg003oeuv09ill115.gif"></graphic></figure></p>
+<p><figure><graphic url="huyg003oeuv09ill116.gif"></graphic></figure></p>
+<p>Ergo eadem aequatio ad constructtionem, sive ponatur - <hi rend="i">y</hi><hi rend="sup">z</hi> sen + <hi rend="i">y</hi><hi rend="sup">z</hi> pro primo termino aequationis.</p>
+</div>
+<div type="section">
+<head rend="h4">§ IV<note n="#9"/>.</head>
+<p><figure><graphic url="huyg003oeuv09ill117.gif"></graphic>
+<figDesc><hi rend="i">curva mea.
+<lb/>reliqua pars meae</hi>.</figDesc></figure></p>
+<p>AB = <hi rend="i">a</hi> aequalis diagonali CD, tunc AC est maxima <hi rend="i">x</hi>. sive cum AC qu. aequatur ⅛ AB qu.</p>
+<p><hi rend="i">y</hi><hi rend="sup">4</hi> - <hi rend="i">aayy</hi> + 2<hi rend="i">aaxx</hi> = 0 mea curva</p>
+<p><hi rend="i">yy</hi> = √¼ <hi rend="i">a</hi><hi rend="sup">4</hi> - 2<hi rend="i">aaxx</hi> + ½ <hi rend="i">aa</hi></p>
+<p><hi rend="i">yy</hi> = <hi rend="i">a</hi>√¼ <hi rend="i">aa</hi> - 2<hi rend="i">xx</hi> + ½ <hi rend="i">aa</hi></p>
+<p><hi rend="i">xx</hi> non major quam ⅛ <hi rend="i">aa</hi></p>
+<p>in mea curva semper <hi rend="i">aa</hi> major quam 8<hi rend="i">xx</hi>, aut si haec aequales, tunc <hi rend="i">yy</hi> = ½ <hi rend="i">aa</hi>.</p>
+<p>Item <hi rend="i">yy</hi> semper major ½ <hi rend="i">aa</hi> et ½ <hi rend="i">aa</hi> major 4<hi rend="i">xx</hi>. semper <hi rend="i">yy</hi> major quam 4<hi rend="i">xx</hi>. Unde tangens semper eodem versus quo <hi rend="i">x</hi> sumenda<note n="#10"/>.</p>
+<p>&nbsp;</p>
+<p>Leibnitsii curva.</p>
+<p>- <hi rend="i">y</hi><hi rend="sup">4</hi> - <hi rend="i">aayy</hi> + 2<hi rend="i">aaxx</hi> = 0.</p>
+<p><figure><graphic url="huyg003oeuv09ill118.gif"></graphic></figure></p>
+<p><hi rend="i">yy</hi> = √¼<hi rend="i">a</hi><hi rend="sup">4</hi> + 2<hi rend="i">aaxx</hi> - ½<hi rend="i">aa</hi></p>
+<p><hi rend="i">yy</hi> = <hi rend="i">a</hi>√¼<hi rend="i">aa</hi> + 2<hi rend="i">xx</hi> - ½<hi rend="i">aa</hi></p>
+<p><hi rend="i">yy</hi> = 3/2<hi rend="i">aa</hi> - ½<hi rend="i">aa</hi> hoc est <hi rend="i">y</hi> = <hi rend="i">a</hi> si <hi rend="i">a</hi> = <hi rend="i">x</hi>.</p>
+<p>mutatis + <hi rend="i">x</hi> in - <hi rend="i">x</hi> vel + <hi rend="i">y</hi> in - <hi rend="i">y</hi> manent aequationes eaedem. Ideoque curvae quadrifariam exeunt e principio unde sumitur <hi rend="i">x</hi>.</p>
+<p>Curva utraque eandem aequationem tangentis praebet sunt tamen constructiones diversae uti et ipsae curvae propter + <hi rend="i">y</hi><hi rend="sup">4</hi> et - <hi rend="i">y</hi><hi rend="sup">4</hi>. In hac semper 2<hi rend="i">xx</hi> major quam <hi rend="i">yy</hi>, unde et in tangente, 4<hi rend="i">xx</hi> major <hi rend="i">yy</hi>, unde <hi rend="i">s</hi> in contrarium <hi rend="i">x</hi> sumenda, idque semper.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

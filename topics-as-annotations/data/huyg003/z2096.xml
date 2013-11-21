@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2096"/>
+<meta type="date" value="1676"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="dier018"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+<meta type="link" value="2094"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2096">
+<div type="opener">
+<p>Voor de Hr. <persName key="dier018">Dierkens</persName></p>
+</div>
+<p>Seecker getal van dobbelsteenen gegeven sijnde, te vinden van hoe veel reijsen men kan nemen die alle te gelyck op 6 ooghen te werpen, sonder sich te verongelijcken.</p>
+<p>Bij exempel sijnde gegeven 3 steenen, van hoeveel reysen sal men konnen nemen daer mede 3 sessen te werpen, sonder aende quaetste koop te sijn?</p>
+<p>De beste manier van dese questie te solveren, is als men reeckent de kans van de gheene die dit geeft te werpen, ofte het deel 't gheen hem toekomt van 't geen is ingeset, waer uijt dan oock bekent is het deel van die het neemt te werpen, zijnde het geene resteert.</p>
+<p>Laet de speelders sijn A en B. A die neemt te werpen, en B die geeft te werpen. en 't geen in staet of te winnen is sij C. daer sijn op 3 steenen 216 werpen, dat is 6 mael 6 mael 6.</p>
+<p>Indien B geeft aen A drij sessen ten eersten te werpen soo heeft B 215 kansen om te hebben C en 1 kans om te hebben o te weten als A 3 sessen werpt. Ergo komt hem toe 215/216 C door mijn prop.<note n="#2"/>.</p>
+<p>Indien hij het van tween eens geeft, soo heeft hij 1 kans tot o en 215 kansen tot 215/216 C dat hem weerd is 215.215/216.216 C.</p>
+<p>Indien hij 't van dryen eens geeft, soo heeft hij 1 kans tot 0 en 215 kanssen tot 215.215/216.216 C dat hem weerd is 215.215.215/216.216.216 C.</p>
+<p><figure><graphic url="huyg003oeuv08ill05.gif"></graphic></figure></p>
+<p>Soo blyckt dat om te komen tot de solutie van de questie, alleen vereyscht werdt dat men de potestates van dit gebroocken soo veer continuere tot dat het beginne minder te sijn als ½ C. Want alsdan sal het deel van den speelder A eerst
+ietwes grooter wesen als ½ C; en de potestas van de getallen sal uytwysen het getal der werpen die A van nooden heeft.</p>
+<p>Maer om dat dit seer langh soude te reeckenen sijn, soo neem ik de logarithmi te hulp, door welcke seer licht gevonden werdt de hoeveelde potestas van een gegeven gebroocken, als hier 215/216 begint minder te sijn als ½<note n="#3"/>.</p>
+<p>Men moet alleen soecken de logar. van 215 welcke is 2,3324385 en ook de logar. van 216 welcke is 2,3344537, en dese van de voorgaende aftrecken, komt - 0,0020152 welcke is de logar. van het gebroocken 215/216. Voorts moet men soecken hoe menighmael dese logar. - 0,002015 moet genomen werden om grooter getal te maecken (doch met het teycken - daer voor) als de logar. van ½ dewelcke is - 0,3010300, sijnde deselfde als de log. van 2, maer met het teicken - daer voor. Tot welcken eynde dan alleenlijck dese - 0,3010300 moet gedivideerd welcken door de voors. - 0,0020152; komt meer als 149 en min als 150, waer uyt blijckt dat de logar. van de 150<hi rend="sup">ste</hi> potestas van 't gebroocken 215/216 eerst grooter getal maeckt (doch met - daer voor) als de logar. van ½ en dat dien volgens deselfde 150<hi rend="sup">ste</hi> potestas een gebroocken is van minder valeur als ½. soo dat als B geeft 3 sessen met 3 steenen te werpen in 150 reysen, soo is sijn deel iets minder als ½ C, en dienvolgens het deel van A iets meerder dan ½ C. Daerom als het A neemt van 150 reysen soo heeft hij eerst eenighe avantage.</p>
+<p>Op dese manier kan men oock lichtelyck vinden het deel van de geene die dit geeft in seecker minder of meerder getal van werpen als bij ex. van 75. Want de logarith. van 215/216, sijnde als hier te voren, - 0,0020152 genomen 75 mael maeckt - 0,1511400. dit is de logar. van een gebroocken beteyckenende het gerequireerde deel, om welck gebroocken te vinden soo soeckt twee logarithmen welcker verschil is 0,1511400: de grootste sal wesen de logar. van den noemer en de minste van den teller. Ick neem 4,0000000 de logar. van 10000, voor de grootste. waer van treckende 0,1511400, soo resteert 3,8488600 voor de kleinste, zijnde logar. van 7061, soodat het gesochte deel is 7061/10000 C seer nae. Welck
+van C getrocken, blijft seer nae 2939/10000 C yoor het deel van die neemt 3 sessen te werpen in 75. ofte men kan seggen dat haer kanssen staen tegens malkander seer nae als 2939 tot 7061.</p>
+<p>Indien iemand neemt met 2 steenen 3 mael achter een boven de 5 ooghen te werpen, soo werdt sijn deel op de selfde manier gevonden als in de voorgaende questie. want daer sijn 36 werpen op de 2 steenen, waer van 26 sijn boven de 5 ooghen; ende hij wedt dat hij 3 mael boven de 5 sal werpen. Het bovenstaende Theorema nu generaelijck gestelt sijnde is aldus</p>
+<p>Als'er, in als<note n="#4"/>, <hi rend="i">d</hi> kanssen sijn, en daer van <hi rend="i">e</hi> kanssen, voor den speelder B, en de resterende voor den speelder A. Ende B wedt dat <hi rend="i">f</hi> mael achter een een van sijn kanssen sal gebeuren. soo is sijn deel <hi rend="i">e<hi rend="sup">f</hi></hi>/<hi rend="i">d<hi rend="sup">f</hi></hi> van 't geen ingeset is, dat is de potestas van het gebroocken <hi rend="i">e</hi>/<hi rend="i">d</hi> wiens exponens is <hi rend="i">f</hi>. Ergo is hier het deel van die werpt 26.26.26./36.36.36. van 't geen in staet, dat is 17576/46656.</p>
+</div>
+</body>
+</text>
+</TEI>

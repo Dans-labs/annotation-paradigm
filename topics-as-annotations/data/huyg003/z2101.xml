@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2101"/>
+<meta type="date" value="1677-06-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2101">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 5 juin 1677.</p>
+</div>
+<p>Je vous prie de me mander ce qui s'est fait en l'affaire du Chevalier de la Guette<note n="#1"/> en faveur duquel Monsieur Perrault et le Duc de Roanés<note n="#2"/> vous avoient envoyè des lettres, afin que je scache ce que je dois leur respondre. Il n'est plus temps que je crois de vous recommander cette affaire qui doit estre decidee il y a long temps, vous n'avez qu'a m'en dire l'issue en deux mots dans quelque lettre a Mad<hi rend="sup">me</hi> de Zeelhem<note n="#3"/>. Elle me dit hier que vous luy aviez renvoyè la montre de son Altesse<note n="#4"/> pour estre guerie de quelque foiblesse qui la prend vers la fin de ses 24 heures. Il semble qu'il y faudra un ressort un peu plus fort, mais le mal est que pendant qu'on augmente cette force, on diminue la justesse. Je voudrois que vous disiez un peu sincerement, comment vous vous estes trouvè de vostre montre<note n="#5"/> pendant cette campagne. Il est vray que vous n'avez eu gueres moyen de l'examiner que sur vostre petit quadrant, mais c'est assez si pendant plusieurs jours ou semaines elle s'y accorde.</p>
+<p>Le cousin de Landschadenhof m'a donnè a essayer une montre a la vielle façon de son horlogeur de Bolduc a la quelle il jure de n'avoir point touchè depuis deux mois, qu'il me la monstra encore.</p>
+<p>Je trouve pourtant que dans certains temps du jour il y a parfois ½ quart d'heure de difference avec ma pendule, mais pour le temps entier de 24 heures elle revient et s'accorde fort bien, ce qui est beaucoup. Je verray combien cela durera, car il n'y a encore que 3 jours que je l'ay.</p>
+<p>Je n'ay pas encore envie de retourner en France mais aussi je n'y veux pas y renoncer tout a fait, parce qu'on nè scait pas, ce qui peut arriver qui me feroit
+changer de dessein<note n="#6"/>. C'est pourquoy en escrivant a ces Messieurs je me sers tousjours du pretexte de ma santè quoyque dieu mercy je me porte assez bien.</p>
+</div>
+<div type="para">
+<p>Myn Heer
+<lb/>Myn Heer <persName key="huyg007">van Zeelhem</persName>, Secretaris van Syn Hoochheyt den Heere Pr. van Oranje In 't Leger.</p>
+</div>
+</body>
+</text>
+</TEI>

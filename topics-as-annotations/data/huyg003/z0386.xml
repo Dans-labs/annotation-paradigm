@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0386"/>
+<meta type="date" value="1657-04-21"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="leide001"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0386">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="scho197">Fr. Schotenio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Literas hasce binas Milonij<note n="#1"/> ipse ad te deferre in animo habebam, sed ob negotia quaedam propositum mutare coactus nolui id tibi fraudi esse. De constructione tua Cubicarum aequationum, falso suspecta, habes confitentem reum, Quae vero ex mente De Frenicle de quaestione à Fermatio proposita in meis literis adscripsit examinanda tibi relinquo. Magna quaedam compendia in inveniendis cubicis istis numeris videtur adferre, quantaque fortasse non putâras inveniri posse. Sed quibus rationibus nitantur inquirere operaepretium est. Alteram quaestionem quam Fermatius proposuerat de inveniendo quadrato qui in datum numerum ductus adsumptâ ad productum unitate faciat quadratum; ego solveram, Canone quodam adhoc tradito: Atque existimo eodem usum esse Freniclium ad inveniendos numeros quos mihi Milonius mittit, sed immensi fuit laboris, quemque ego nequaquam suscipere vellem. Quae de inveniendis telescopij lentibus addit plane erronea sunt, videoque male ipsum retinuisse quae quondam à Robervallio didicerat. Tractatum
+de Alea in quo nonnulla immutavi, pauca vero addidi, sequenti hebdomade tibi mittam vel ipse adferam potius. Interea Vale.</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae</placeName>. <date>21 Apr. 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Myn Heer Myn Heer <persName key="scho197">Fr. van Schooten</persName>, Professor der Mathematiquen inde Universiteyt Tot Leyden.
+<lb/>inde Heeresteegh.</p>
+</div>
+</body>
+</text>
+</TEI>

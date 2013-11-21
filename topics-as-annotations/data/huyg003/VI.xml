@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="VI"/>
+<meta type="date" value="1640-06-19"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="VI">
+<div type="opener">
+<p>Maxime mortalium,</p>
+</div>
+<p>Cum Dei immortalis ope ac solertia Medicorum, in pristinum sanitatis locum restitutus sit minor ille Constantinus Magno atque adeo bonis avibus, auspice omnium auspicio, comite Hygeia, commilitonibus nobilissimis, ad arenam literariam reverti tuto propediem possit, audeo, priusquam eò redeamus, sententiam tuam et placitum de studijs deinceps instituendis, Methodoque in posterum observanda, rogare.....</p>
+<div type="closer">
+<p><placeName key="denha004">Hagae-Com.</placeName> XIII Kal. Quintil. MCXL.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

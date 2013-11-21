@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2657"/>
+<meta type="date" value="1691-01-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="bayl001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2657">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Vous ne faites pas comme la pluspart des philosophes qui profitent des decouvertes des Astronomes, sans s'informer comment ils les ont faites. J'approuve fort vostre curiosité et y satisfais tres volontiers, quoy que le premier autheur de ceux qui traitent ces matieres, si vous l'aviez voulu consulter, vous auroit pu apprendre ce que vous me demandez touchant la maniere d'observer les Parallaxes.</p>
+<p>Vous scavez que par les Tables astronomiques on peut connoitre le lieu d'un astre, par ex. de la Lune, en determinant sa longitude et latitude a l'egard du cercle Ecliptique et de son point qui s'appelle le commencement d'aries. lequel lieu se trouve tout calculè dans les Ephemerides, en sorte qu'on le peut avoir pour chaque jour heure et minute. Ces lieux sont ceux ou la lune paroistroit parmi les Etoiles fixes estant regardée du centre de la Terre. Et il estoit necessaire de commencer par ces loci veri pour trouver en suite locos visos ex terrae superficie. Ayant donc apris par l'un de ces moiens la Longitude et la Latitude de la Lune on peut trouver par le calcul des triangles spheriques quel sera l'angle de son elevation sur le plan d'un horizont, qu'on nomme rationalis qui est un plan imaginè passant par le centre de la Terre, et parallele a nostre horizon visible, c'est a dire parallele au plan qui touche le globe terrestre a l'endroit ou nous sommes.</p>
+<p>Soit <formula>SG</formula> la Terre; son centre <formula>C</formula>. le lieu de nostre demeure <formula>S</formula>, la lune en <formula>L</formula>. Imaginant
+<figure><graphic url="huyg003oeuv10ill241.gif"></graphic></figure>
+maintenant un plan <formula>FSE</formula> qui touche la terre en <formula>S</formula>, et qui s'etende jusqu'aux etoiles fixes et un autre plan <formula>BA</formula> parallele au premier et passant par le centre <formula>C</formula>,
+c'est la cet horizon rationalis et la hauteur de la lune qui se trouve comme je viens de dire est l'angle <formula>LCA</formula>.</p>
+<p>Pour mesurer donc la parallaxe de la Lune, il faut observer a quelque heure sa hauteur apparente sur nostre horizon visible <formula>FSE</formula>, scavoir l'angle <formula>LSE</formula>, ce qui se fait par le quart de cercle ou autre tel instrument, et mieux qu'autrement lors que la Lune est au meridien, parce qu'elle demeure quelque temps la sans changer sensiblement de hauteur. Ayant cette hauteur (prenons que ce soit 30 degr.) on suppose en suite pour l'heure que cette observ. a estè faite, l'angle <formula>LCA</formula>, qui soit de 30 degr. 40 min. Ces 40 min. de difference font l'angle <formula>SLC</formula>, qu'on nomme parallactique. Car il est aisè de voir que cet angle <formula>SLC</formula> est celuy dont l'angle <formula>LCA</formula>, c'est a dire <formula>CDS</formula> surpasse <formula>ESL</formula>, ou <formula>DSL</formula>, puisque <formula>DSL</formula> et <formula>DLS</formula> pris ensemble egalent l'externe <formula>CDS</formula> par Elem. d'Euclide. C'est que dans le triangle <formula>SLC</formula> estant connu l'angle <formula>L</formula> et l'angle <formula>LSC</formula>, composè de <formula>LSE</formula> et de l'angle droit <formula>ESC</formula>; et le costè <formula>SC</formula>, on en calcule le costè <formula>CL</formula>, distance cherchee de la lune au centre de la Terre.</p>
+<p>Vous voiez donc Monsr. la maniere de connoitre la parallaxe par observation jointe au calcul de l'angle d'elevation de l'astre sur l'horizon, et il ne faut qu'un mot pour vous faire voir comment cette parallaxe sert a trouver la distance de l'astre.</p>
+<p>J'ajoute encore que par la distance connue on suppose reciproquement la parallaxe pour toute elevation sur l'horizon visible, car dans le triangle <formula>SLC</formula>, les cost. <formula>SC</formula>, <formula>CL</formula> estant donnez et l'angle <formula>CSL</formula> par observ.<hi rend="sup">on</hi>, on en trouve l'angle <formula>SLC</formula>. On trouve encor plus facilement quand l'astre est dans le plan horizontal <formula>SE</formula> comme en <formula>E</formula>, l'angle <formula>SEC</formula>, parce que le triang. <formula>CSE</formula> est rectangle, aiant les costez <formula>CS</formula>, <formula>SE</formula> connus d'ou l'on a d'abord <formula>SEC</formula> que l'on nomme la parallaxe horizontale, c'est elle, qui est la plus grande de toutes et qui ne se trouveroit pas bien par observation a cause des refractions pres de l'horizon. Il est evident au reste que cet angle <formula>SEC</formula> est le mesme sous lequel on voit le ½ diametre de la Terre lors qu'on est dans la lune en <formula>E</formula>, estant environ de 56 minutes dans la distance moyene. Et par ce qu'a la mesme distance le ½ diam. de la Lune nous paroit de 15½. min. il s'en suit que le diam. de la Terre est a celuy de la Lune comme 56 a 15½ c'est a dire presque quadruple. le grand usage des parallaxes est encore de trouver par leur moien la distance des Planetes au soleil comparees a celle de la Terre au soleil. Car si dans la mesme figure le cercle <formula>SG</formula> represente l'orbe annuel de la Terre autour du soleil que je suppose en <formula>C</formula>, et que jupiter soit en <formula>L</formula>, on appelle son locus verus celuy ou on le verroit du soleil <formula>C</formula> et son locus visus celuy ou il paroit de la Terre. Et l'on connoit par observation dans le triangle <formula>LSC</formula> l'angle <formula>S</formula>, et par les tables astronomiques l'on suppute l'angle <formula>SCL</formula> par ou le troisieme <formula>SLC</formula> est aussi donnè, qui s'appelle parallaxe orbis magni. Et en suite l'on trouve la proportion entre <formula>LC</formula> et <formula>CS</formula>, c'est a dire les distances du soleil a Jupiter et à la Terre.</p>
+<p>Ainsi l'on apprend dans le Systeme <persName key="cope901">Copernicien</persName> la proportion de toutes les distances des Planetes au Soleil comparees au demidiametre de l'orbe annuel de la Terre, dont on ne pouvoit rien scavoir dans le systeme de la terre immobile de <persName key="ptol901">Ptolemee</persName>.</p>
+<div type="closer">
+<p>Je vous remercie treshumblement de vos bons souhaits pour la nouvelle année. J'espere qu'elle vous sera autant et plus heureuse et suis avec zele</p>
+<p>Monsieur</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

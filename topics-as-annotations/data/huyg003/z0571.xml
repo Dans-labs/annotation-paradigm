@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0571"/>
+<meta type="date" value="1659-01-17"/>
+<meta type="sender" value="peti033"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0571">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>17 Janu. 1659</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Quoy que je ne vous aye escrit que ce Matin Je ne puis M'empescher encores de vous escrire ce billet pour vous dire que Je me suis mespris en vous escriuant quil falloit plus trente liures de Poids pour faire marcher mon mouuement &amp; entretenir celuy du Pendule, car jl en fauldroit plus de 80 puisque cest auec vne simple Poulie que 30 ℔ ne le font dutout point marcher. Mon horloger nayant pas mis la double poulie quand jl me dit cela, Mais aujourdhuy que Jy ay pris garde Moymesme Jay veu que la corde estant simplement passee sur la partie de la grande Roue, vn poids de 35 livres ne peut entretenir le Mouuement du pendule qui se rallentissant a la fin empesche celuy de la Montre au lieu quil en deuroit estre entretenu. Ce qui augmente de plus en plus mes difficultez pour les grands pendules encores que Je Masseure sur ce que vous mauez fait lhonneur de Mescrire de celuy d Vtrect<note n="#1"/> &amp; autres. Mais jl fault quil y aye de furieux poids ou quils ayent autrement pratiqué que Je nay fait sur le Mien. Car layant fait selon vostre escrit a double poulie &amp; le reste 70 ℔ ne le feront pas marcher, ce que 10 ℔ aussi a double poulie fesoient auec son balancier. Vous Mobligerez jnfiniment Monsieur de me tirer de cette inquietude &amp; erreur le plustot que vous pouuez &amp; me donner les moyens de paruenir a la bonne facon en determinant la distance du Centre du pendule de la Maniuelle, sa pesanteur &amp; grosseur de verge, &amp; toutes les autres circonstances que vous jugerez necessaires et que lexperience vous aura indiquez pour vn pendule de cette longeur de 3 pieds, puisque vous mauez escrit que vous en faisiez faire vn de mesme, les belles choses sans mentir coustent bien de la peyne &amp; de la despense aux jnuenteurs &amp; ceux qui profitent a la fin de leurs trauaux ne leur en tesmoignent
+pas assez de reconnoissance. Pour Moy jen parle tourjours de la sorte &amp; ay mille exemples de
+cette verité. Je souhaitteray vous en pouuoir donner autant de celle cy que Je suis de tout Mon Ceur.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre Treshumble &amp; tres obeissant seruiteur, <persName key="peti033">P. Petit</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens a Zulichem</persName>. A la Haye En Hollande.</p>
+</div>
+</body>
+</text>
+</TEI>

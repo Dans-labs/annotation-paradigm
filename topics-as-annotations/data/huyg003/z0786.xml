@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0786"/>
+<meta type="date" value="1660-10-10"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0786">
+<div type="opener">
+<p><date>10 Oct. 60</date>.</p>
+<p lang="la">Clarissime Domine</p>
+</div>
+<p>Feliciter ad me peruenit libellus tuus<note n="#2"/>, pro quo gratias ago; quem curiosè vt vidi, quamprimum perlegi. Quid autem contineret Eustachij scriptum, intellexeram prius e litteris mej Gottignies; quas sub Augusti jnitium ad me permiserat; quarum tenor erat, quem adiungo<note n="#3"/>.</p>
+<p>Optime sane responsum tuum clausisti. Pauca haec respondisse, non me poenitet, quia, licet artificem illum merito neglexisse tacendo, viderj poteram; non idem fortasse contra alterum, valiturum erat silentium, multique non tam quid, quam a quo sit obiectum, respiciunt.</p>
+<p>Doleo vices Patris Fabrij Gallj, quod talj negotio sese jmmiscuerit. non est nouum in astronomicis, phaseon diuersitatem, codem tempore, in diuersis regionibus contingere. Nuperam jllam ante aliquot annos famosam Eclipsin<note n="#4"/>, quae Europam terrore complerat, verè totalem fuisse, discumque Solis plane contexisse jn Perside, ex uno e Patribus nostris, jnde reduce didicimus; quae in Europaeis nostris partibus praeter solitum nihil exhibuit, quod admirationem causaret. Certe si alia mihi facies Saturnia visa fuisset in Belgio, quam Romae Italis; cauissem jnstrumentum Telescopij, vitij damnare, quod cum reliquis circa obiecta communia symbolizat.</p>
+<p>Sed distantiam regionum, vel aliquid simile, diuersitatem causare potuisse, suspicatus fuissem. Placuit mihi argumentum tuum, quo affirmas phasin de qua est controuersia, &amp; diversis diuerso telescopio visam esse, et paulatim in aliam faciem desijsse, quae res veritatj maxime patrocinatur. Jdem enim Telescopium quod hodie exhibet, sequenti quoque exhibebit, nisi in obiecto mutatio contigerit.</p>
+<p>Perge, Perge porro vt caepisti, neque luctarj time, qui eluctarj didicistj. Spero cum per nos, patriam reuises, pluribus coram verbo, quam absens, muto litterarum commercio agere. Dominum Nonnancourtium Parisijs quaerere nolj; Gandauo ad te salutem mittere me jubet; et ad reliquos Geometriae amatores, quibuscum jnibi notitiam jnijt. Si librum Domini Paschalis, quem non parua voluptate commodatum perlegi, per te nanciscj potuero, grato me obligatus obsequio fatebor. Vale, et Viue, &amp; saluus ad nos redire ne ommittas. Gaudebo fruj consortio tuae praesentiae, quem jnter amicos habuj amicissimum, et obsequijs animum conseruauj.</p>
+<div type="closer">
+<p>Clarissimae Dominationis Tuae addictissimum <persName key="vinc027">G.A.S. Vincentio</persName>.</p>
+<p><placeName key="gent_001">Gandauj</placeName>, <date>10. Octobris 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

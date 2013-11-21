@@ -1,0 +1,80 @@
+// This query retrieves the (Aramaic) words that form the boundaries of
+// the Aramaic sections of the Old Testament.
+
+// ident @(#)lq15.mql	1.1 04/03/09
+
+select all objects where
+
+[book book = Genesis
+   [chapter chapter = 31
+      [verse verse = 47
+	 [clause first
+	    [phrase last
+	       [word first]
+	       ..
+	       [word last]
+	    ]
+	 ]
+      ]
+   ]
+]
+..
+[book book = Jeremiah
+   [chapter chapter = 10
+      [verse verse = 11
+	 [word first]
+	 ..
+	 [word last]
+      ]
+   ]
+]
+..
+[book book = Psalms
+   [chapter chapter = 116
+      [verse verse = 12
+	 [phrase phrase_type = NP
+	    [word first]
+	    ..
+	    [word last]
+	 ]
+      ]
+   ]
+]
+..
+[book book = Daniel
+   [chapter chapter = 2
+      [verse verse = 4
+	 [clause first]
+	 [clause [word first]]
+      ]
+   ]
+   ..
+   [chapter chapter = 7
+      [verse verse = 28
+	 [word last]
+      ]
+   ]
+]
+..
+[book book = Ezra
+   [chapter chapter = 4
+      [verse verse = 8
+	 [word first]
+      ]
+   ]
+   ..
+   [chapter chapter = 6
+      [verse verse = 18
+	 [word last]
+      ]
+   ]
+   [chapter chapter = 7
+      [verse verse = 12
+	 [word first]
+      ]
+      ..
+      [verse verse = 26
+	 [word last]
+      ]
+   ]
+]

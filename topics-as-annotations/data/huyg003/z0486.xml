@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0486"/>
+<meta type="date" value="1658-05-21"/>
+<meta type="sender" value="slus001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="luik_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0486">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Postremis tuis datis v<hi rend="sup">tà</hi> Mensis proxime lapsj, statim respondj<note n="#1"/>, petens vt mihi demonstrationis illius copiam faceres quâ infinitum Cissoidis meae spatium dimensus es. Sed mensis est et amplius ex quo frustra litteras tuas expecto. Quod cum ab humanitate tuâ alienum esse sciam, vererj cogor ne valetudinem tuam laeserit aurae intemperies quae totam hanc Provinciam morbis popularibus afflixit. Me quoque <hi rend="i">βράγχος ϰαὶ ϰατάῤῥος βηχώδης</hi> sed magis <hi rend="i">σώματος δυσϰινησία</hi> exercuit, non sine febriculâ, quâ tamen paucos post dies sine medicorum curâ solutus sum. fac vicissim me certiorem quid Tecum actum sit, vt vel constantem semper valetudinem tibj obtigisse gaudeam, vel saltem (quod spero et voueo) restitutam sanitatem gratuler. Vale.</p>
+<div type="closer">
+<p><placeName key="luik_001">Leodij</placeName> <date>xxj May MDCL Viij</date>.</p>
+<p>Tuj obseruantissimus <persName key="slus001">Renatus Franciscus Slusius</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo Clarissimoque Domino Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName> A la Haye.
+<lb/>VI</p>
+</div>
+</body>
+</text>
+</TEI>

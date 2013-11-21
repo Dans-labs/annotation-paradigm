@@ -1,0 +1,54 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2540"/>
+<meta type="date" value="1689-08"/>
+<meta type="sender" value="newt011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2540">
+<p>Definitio<note n="#3"/>.</p>
+<p>&nbsp;</p>
+<p>Resistentiam voco vim omnem qua motus corporis retardatur, eamque directam et absolutam nomino quae motui directe opponitur, obliquam quae obliquè.</p>
+<div type="section">
+<head rend="h4">Prop. 1.</head>
+<p>Vis omnis AB qua corpus impellitur A directè versus B, componitur ex viribus AC, CB impressis secundum plagas linearum illarum AC &amp; CB rectum angulum ad C continentium.</p>
+<p><figure><graphic url="huyg003oeuv09ill57.gif"></graphic></figure></p>
+<p>Nam si corpora E et F in lineis EA et FA ad plagas easdem directis incidant
+in corpus A et corpus A impulsu corporis solius F eodem tempore pergeret ad D et compleatur rectangulum ACBD: corpus A impulsu composito corporum E et
+F in ipsum A simul incidentium eodem tempore pergat ad B, per Legum motuum corol. I<note n="#4"/>: Igitur impulsus corporum E et F qui seorsim generarent motus ipsis AC et AD proportionales ideoque per lineas illas AC et AD exponi possunt, conjunctim generarent motum AB et propterea idem valent atque impulsus unicus qui motum illum unicum generare posset quique adeo per lineam AB exponi debeat: hoc est impulsus AB componitur ex impulsibus AC et AD seu AC et CB. Et eodem argumento vis omnis componitur ex viribus AC et CB. Q.E.O.</p>
+</div>
+<div type="section">
+<head rend="h4">Prop. 2.</head>
+<p>Si corporis cujusvis A in linea GA a G versus A moventis resistentia secundum plagam AG motui directè contrariam impressa exponatur per lineae illius AG partem quamvis AB; et super diametro AB describatur semicirculus ACB, ac ducatur ejus chorda quavis AC: dico quod corpois resistentia secundum plagam AC motui oblique contrariam impressa exponetur per chordam AC.</p>
+<p><figure><graphic url="huyg003oeuv09ill58.gif"></graphic></figure></p>
+<p>Jungatur enim CB et compleatur rectangulum ACBD et fingamus quod corpora E et F simul incidant in corpus A et viribus suis quae sint AC et AD immutent ejus motum: et hae vires AC et AD componunt vim AB eundemque habebunt effectum ac vis illa unica AB haberet per legum motuum corol. I. Igitur vis omnis AB eundem habet effectum in corpus A ac vires geminae AC et AD simul sumptae, et propterea ex viribus illis componitur.</p>
+<p>Sed vis AB est resistentia directa corporis A (per Def. sup.) propterea quod secundum plagam AG motui corporis A directè oppositam imprimitur. Ideoque vires AC et AD sunt hujus resistentiae partes duae secundum plagas AC et AD motui corporis A oblique oppositas impressae. Et propterea cum plaga AD perpendicularis sit ad plagam AC ideoque vis AD nullatenus tendat in plagam vis alterius AC nec vim in plagam AC ulla ex parte adaugeat vel imminuat, manifestum est quod AC sit vis tota resistentiae quae tendat in plagam AC, hoc est quod AC sit tota resistentia obliqua quae in plagam AC dirigitur. Igitur posito quod AB sit resistentia tota in quovis temporis momento motui directè opposita, hujus pars AC erit resistentia tota secundum lineam AC eodem temporis momento motui oblique opposita Q.E.O.</p>
+<p>Corol. Hinc resistentia omnis directa AB componitur ex resistentiis obliquis AC et AD seu AC et CB.</p>
+</div>
+<div type="section">
+<head rend="h4">Scholium.</head>
+<p>Eadem omnia sic brevius explicantur. Si corpus A dato tempore absque resistentia describeret longitudinem AB, in Medio autem resistente describeret solummodo
+<figure><graphic url="huyg003oeuv09ill59.gif"></graphic></figure>
+longitudinem A<hi rend="i">b</hi> et motus totus in priore casu per AB, in posteriore per A<hi rend="i">b</hi> exponatur; erit B<hi rend="i">b</hi> motus per resistentiam amissus. Et si motus AB distinguatur in partes AC et CB et motum A<hi rend="i">b</hi> in partes A<hi rend="i">c</hi> et <hi rend="i">cb</hi>, <hi rend="i">erit Cc motus secundum plagam AC per resistentiam praedictam amissus</hi>:<note n="#5"/><note n="#6"/> et ob angulos A<hi rend="i">cb</hi>, ACB rectos et propterea lineas <hi rend="i">cb</hi>, CB parallelas, erit C<hi rend="i">c</hi> ad B<hi rend="i">b</hi> ut AC ad AB, hoc est motus secundum plagam AC amissus ad motus secundum plagam AB amissum ut AC ad AB. Sed resistentiae secundum has plagas sunt ut motus per resistentias illas ablati (per Motus Legem II) ideoque resistentiae secundum plagas AC et AB sunt ut AC et AB. Q.E.O.</p>
+</div>
+<div type="section">
+<head rend="h4">Prop. 3.</head>
+<p>Si triangulum RST rectangulum sit ad T et corpora R et V eodem tempore describant lineas RS et VX quando VX aequalis sit ipsi RT: exponantur autem earum velocitates per longitudines simul descriptas RS et VX et sint eorum resistentiae directae ut velocitatum potestates quaecunque RS<hi rend="sup"><hi rend="i">n</hi></hi> et VX<hi rend="sup"><hi rend="i">n</hi></hi> quarum index
+sit <hi rend="i">n</hi> dico quod resistentia obliqua corporis R secundum plagam RT sit ad resistentiam directam corporis V ut RS<hi rend="sup"><hi rend="i">n</hi>-1</hi> ad VX<hi rend="sup"><hi rend="i">n</hi>-1</hi>.</p>
+<p><figure><graphic url="huyg003oeuv09ill60.gif"></graphic></figure></p>
+<p>Nam si resistentia directa corporis R exponatur per longitudinem RS, constabit haec ex partibus obliquis RT et TS par Corol. Prop. 2 et pars RT hoc est resistentia quatenus obliqua secundum plagam lineae RT imprimitur, erit ad resistentiam totam directam RS ut RT ad RS per Prop. 2 et resistentia directa RS ad resistentiam corporis V ut RS<hi rend="sup"><hi rend="i">n</hi></hi> ad VX<hi rend="sup"><hi rend="i">n</hi></hi> per hypothesin; et componendo, resistentia obliqua corporis R secundum plagam RT erit ad resistentiam directam corporis V ut RT ad RS et RS<hi rend="sup"><hi rend="i">n</hi></hi> ad VX<hi rend="sup"><hi rend="i">n</hi></hi> conjunctim hoc est ut RT × RS<hi rend="sup"><hi rend="i">n</hi></hi> ad RS × VX<hi rend="sup"><hi rend="i">n</hi></hi> et terminis rationis per aequalia rectangula RS × RT et RS × VX divisis, ut RS<hi rend="sup"><hi rend="i">n</hi>-1</hi> ad VX<hi rend="sup"><hi rend="i">n</hi>-1</hi> Q.E.D.</p>
+<p>Corol. Igitur si resistentiae sint ut quadrata velocitatum, resistentia obliqua corporis R secundum plagam RT erit ad resistentiam directam corporis V ut RS ad VX; id adeo quia dignitatum index in hoc casu est numerus binarius, et propterea RS<hi rend="sup"><hi rend="i">n</hi>-1</hi> et VX<hi rend="sup"><hi rend="i">n</hi>-1</hi> sunt RS et VX.</p>
+</div>
+<div type="section">
+<head rend="h4">Scholium.</head>
+<p>Ex his omnibus manifestum est quod si corpus R in linea curva moveatur cujus particula sit RS data temporis particula quam minima descripta, sitque hujus resistentia directa ut quadrata velocitatis atque adeo ut RS<hi rend="sup">quad.</hi>; erit resistentia obliqua secundum plagam RT ut RS × RT et resistentia obliqua secundum plagam TS ut RS × TS. Et propterea si corpus R urgente gravitate et resistente aere descendat sitque RT horizonti perpendicularis et TS horizonti parallela, et corpus R, ob resistentiam tandem gravitate fere aequalem factam, accelerari adeo desinat ut<note n="#7"/> longitudo RS pro data habere possit; resistantia horizontalis (id est quae fit secundum plagam lineae TS) erit ut longitudo TS, hoc est ut velocitas horizontalis corporis R; ideoque datur curvae descriptae asymptotos horizonti perpendicalis quam corpus R (per corol. Prop. I lib. 2. Princip. Math.) nunquam transgredietur<note n="#8"/>.<note n="#9"/></p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

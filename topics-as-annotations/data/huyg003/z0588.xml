@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0588"/>
+<meta type="date" value="1659-02-13"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0588">
+<div type="opener">
+<p lang="la">Nobilissime Domine,</p>
+</div>
+<p>Cum Vir Clarissimus Dominus <persName>Nicolaus Goldmannus</persName><note n="#1"/>, harum lator, in utraque Architectura tum Civili tum Militari, aliisque Mathematicae partibus versatissimus, has ad Te perferre gauderet, quò sibi ineundi tecum amicitiam daretur occasio: non potui non quàm plurimum mihi gratulari, hanc viam nobis fuisse stratam, quâ utriusque desiderio satisfieret, illeque Tibi animi sensa declararet. Quocirca si Viro huic, mihi amicissimo ac multâ pietate commendando, pro more tuo humanitatem pariter atque ingenij tui dexteritatem in artificijs a Te praestitis exhibere non denegaveris, rem mihi gratissimam facturus es, utpote qui semper erit,</p>
+<div type="closer">
+<p>Vir Nobilissime,</p>
+<p>tui studiosissimus atque amantissimus <persName key="scho197">Fr. à Schooten</persName>.</p>
+<p>Dabam properante calamo <placeName key="leide001">Lugd. Batav.</placeName> <date>13 Febr. 1659</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>Nobilissimo, multaque eruditione Clarissimo, Domino <persName key="huyg003">Christiano Hugenio de Zulichem</persName>, Amico plurimum colendo Hagae-Comitum. op het pleijn.
+<lb/>Amicâ manu.</p>
+</div>
+</body>
+</text>
+</TEI>

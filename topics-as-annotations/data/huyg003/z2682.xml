@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2682"/>
+<meta type="date" value="1691-05-27"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hanno901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2682">
+<div type="opener">
+<p>A <placeName key="hanno901">Hanover</placeName> ce 17/22<note n="#3"/> de May 1691.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a quatre semaines que je suis hors d'<placeName key="hanno901">Hanover</placeName>, ayant esté à <placeName key="hilde001">Hildesheim</placeName>, <placeName key="wolfe002">Wolfenbutel</placeName>, puis à <placeName>Zel</placeName>, d'ou je suis retourné à <placeName key="wolfe002">Wolfenbutel</placeName>, et y ay trouué vostre lettre<note n="#4"/>, qu'on m'auoit envoyé avec d'autres suivant l'ordre que j'auois donné de Zel. J'ay envoyé vostre incluse à Messieurs de Leipzig avec ma solution. Et il sera curieux de comparer nos solutions et celle de Mr. <persName key="bern071">Bernoulli</persName>. Je n'ay pas encor repondu à vostre precedente<note n="#5"/>, parce que celle que j'auois écrite<note n="#6"/> avant que de la receuoir, et à la quelle repond vostre derniere, y auoit satisfait en partie.</p>
+<p>Quand j'auray respiré un peu des distractions du voyage dont les recherches dans les archives et Bibliotheques m'ont imposé la necessité, j'envoyeray ma methode en echange de celle de Mr. <persName key="duil010">Fatio</persName>.</p>
+<p>Ce que j'ay vû de la cause de la pesanteur proposée par Mr. <persName>Varignon</persName>, ne me satisfait pas non plus. C'est comme s'il disoit, qu'une riviere avec la meme rapidité a plus de force quand elle est plus longue, au lieu qu'à mon avis il ne s'agit que de l'endroit où le fluide opere<note n="#7"/>.</p>
+<p>Tout ce que donne M. Huet est plein d'erudition, mais la matiere de concordia rationis et fidei est bien delicate, et il est difficile de satisfaire en meme temps à la verité et à l'opinion, encor plus que de satisfaire ensemble à la foi et à la raison. J'auois esperé que quelque habile Cartesien repondroit à la censure de Mr. <persName>l'Eveque d'Auranches</persName>, mais ceux que j'ay vû rampent bien bas à mon avis et ne
+disent que des choses vulgaires. Peterman<note n="#8"/> à Leipzig, Sulliny<note n="#9"/> à Breme, et Schotanus chez vous<note n="#10"/>. Il me semble que les Cartesiens ont fort dechû et qu'ils n'ont pas trop d'habiles gens.</p>
+<p>Ce que vous avés remarqué, Monsieur, de la construction de la courbe faite par reflexion du miroir concave, donnée depuis peu par Mr. <persName key="tsch002">Tschirnhaus</persName> paroist fort vraisemblable. Car il a coutume d'aller un peu viste, ainsi il se peut qu'il n'ait pas connu au commencement la veritable construction. Dans les Actes de l'an 1682<note n="#11"/> il nous propose une Methode Generale d'oster les termes moyens des equations. Elle l'a trompé parce qu'elle reussit dans le 3 me degré; s'il en auoit voulu faire l'essay dans le cinquieme, qui n'est pas encore donné, il auroit trouvé la difficulté. Je suis avec zele etc.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="leib013">Leibniz</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

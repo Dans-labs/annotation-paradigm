@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0399"/>
+<meta type="date" value="1657-08-13"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0399">
+<div type="opener">
+<p>Nobilissimo Domino Domino <persName key="slus001">Ren. Fr Slusio</persName> <persName key="huyg003">Christianus Hugenius</persName> S.D.</p>
+</div>
+<p>Demiratum te credo, cum tam facilia tibi a me problemata proposita cerneres, quae sane nullo labore confecisti, quando quidem methodum universalem in his exploratam habes. quam an haberes periculum facere volueram. Tu vero contra dubitas et scire cupis an eadem tecum ego utar, quoniam problema de punctis datis tantum in eodem plano resolvi. Ecce autem ad quodlibet plana idem nunc extendo, punctumque quaesitum dico idem esse quod centrum gravitatis punctorum omnium datorum. Porro in eo quod mihi construendum dedisti, etiam illic centri gravitatis proprietas quaedam occurrit. Efficitur enim hoc modo. composita ex lineis omnibus
+<figure><graphic url="huyg003oeuv02ill16.gif"></graphic></figure>
+AB, AC, AD, AE &amp;c. dividatur in tot partes quot sunt puncta data A, B, C, &amp;c. Earum partium una sit AK. Et ex K perpendicularis excitetur KI. fit autem punctum K centrum gravitatis punctorum omnium datorum. Similiter quadratorum summa omnium AB, AC, AD, AE &amp;c. in tot partes dividatur quot sunt puncta data A, B, C, &amp;c., earumque partium una aequetur quadrato rectae AI, quae inclinetur ad KI. dico, eam determinare punctum I, à quo ductis rectis IA, IB, &amp;c. harum simul quadrata ad triangulum AIH habeant quam minimam possunt rationem. Duplici via ad hanc constructionem perveni, quarum
+ea quam tu sis ingressus, cum plures plerumque eodem tendere solent. Illa vero minime trita, quae sepulcrum Glauci<note n="#1"/> quotlibet modis <hi rend="i">ἰσαχῶς διπλάζειν</hi> praesumis. Et credo tamen fieri posse, sed simplicissimos modos jam esse inventos. Si intersectione Ellipseos et circuli duae mediae inveniri possent vel anguli trisectione, eximia plane ejusmodi constructio mihi videretur, quam memini me frustra aliquandiu quaesivisse.</p>
+<p><figure><graphic url="huyg003oeuv02ill17.gif"></graphic></figure></p>
+<p>Caeterum nunc aliud tibi investigandum proponam liceat, non quod difficile existimem, sed ejusmodi tamen ut si recte resolveris, aliquid te amplius vidisse quam Cartesium constet. Quatuor lineae rectae positione datae sunt quarum tres AB, AG, AH in eodem puncto A sese intersecant; idque ita ut AB bifariam dividat angulum GAH. Quarta vero HE ipsi AB parallela est. Oportet invenire punctum C, à quo si in datas lineas ducantur perpendiculares CK, CL, CB, CD, fiat rectangulum sub CB et CL aequale rectangulo sub CK, CD. Lineas ita disposui, quo et supputatio brevior et expeditior constructio prodiret, neque enim libenter ea propono quibus satigatur magis calculus quam exercetur. Quod si tamen longioris operae problema
+<figure><graphic url="huyg003oeuv02ill18.gif"></graphic></figure>
+desideras, sequens examines quaeso. Dato speculo sphaerico convexo ADE, et punctis extra ipsum, B, C, quorum hoc visibile representet, illud oculum, invenire punctum reflexionis D. Mihi in toto Alhasenis opere nihil memorabile praeter hoc unum occurrit, semperque miratus sum illum absque Algebrae auxilio id construere potuisse.</p>
+<p>Ad quadratoquadraticam aequationem quomodo reducatur inveni neque tamen sine longiuscula meditatione.</p>
+<p>Ecce tibi epistolam Geometricis tricis refertam qualemque nemo assis faciat nisi qui sacris hisce pridem imbutus sit atque unicè delectetur. Eum vero Te esse Vir
+Praestantissimè omnino persuasum habeo summisque in hac arte Magistris adnumero. Vale. Pater meus plurimam tibi salutem rescribi jussit.</p>
+<div type="closer">
+<p>Tui observantissimus atque admirator summus <persName key="huyg003">Chr. Hugenius de Zulichem</persName>.</p>
+<p><date>13 Aug. 1657</date>.</p>
+<p>Nobilissimo Domino Domino <persName key="slus001">Ren. Fr. Slusio</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

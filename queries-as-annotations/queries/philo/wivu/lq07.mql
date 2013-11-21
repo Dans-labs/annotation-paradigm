@@ -1,0 +1,19 @@
+// This query searches for parallels of Jdc 5:1 where the predicate
+// WAT.@CAR agrees in number and gender with the first member of the
+// composite subject D.:BOWR@H W.B@R@Q. See Gesenius-Kautzsch 146g.
+
+// ident @(#)lq07.mql	1.2 04/02/27
+
+select all objects where
+
+[clause
+   [phrase function = PreO or function = Pred
+      [word psp = verb and number = singular and gender = feminine]
+   ]
+   ..
+   [phrase function = Subj
+      [word psp = conjunction]
+   ]
+]
+
+go

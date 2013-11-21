@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1488"/>
+<meta type="date" value="1665-10-29"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1488">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 29 octobre 1665.</p>
+<p>Monsieur</p>
+</div>
+<p>Vous auriez receu l'argent qu'il vous a pleu donner pour moy a vostre horloger<note n="#1"/> des le temps que j'arriue des champ si Monsieur Lambassadeur van Beuninghen que j'auois prié de vous le faire tenir par son secretaire ne m'eust asseuré que vous estiez en chemin. Mais puisque vous ne partez pas encore si tost Jay prié Madame la Marquise de Foucqueselle belle seur de Monsieur le comte de Stende et qui prend soing de ses affaires, de vous faire payer par son correspondant la somme de 270 ℔ monnoye de hollande. Et luy ay mis pour cet effect la valeur entre les mains. Je vous enuoye donc Monsieur la lettre. Et je vous fais
+mes excuses de ce retardement causé par lopinion de vostre voyage en cette ville que je souhaite auec vos amis estre bien tost. Monsieur Auzout qui a disné auecq moij me prie de vous asseurer de son seruice. Jl vous fera part de la response que Monsieur Heuelius a faicte a Monsieur Petit qui lui auoit escrit<note n="#2"/> sur son liure<note n="#3"/> de la comete.</p>
+<p>Je croy que vous scauez que notre sieur Petit a perdu<note n="#4"/> sa femme qui est morte de la petite verole. Et qui ayant esté assistée par sa fille<note n="#5"/> durant tout le temps de sa Maladie, sa fille a eu depuis sa mort le mesme mal dont elle est presque guerie<note n="#6"/>.</p>
+<p>Je vous prie Monsieur destre persuadé de la passion que jay de vous honorer et de vous tesmoigner que je suis auec affection</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant Seruiteur <persName key="monm010">De Montmor</persName>.</p>
+</div>
+<p>Je vous conjure d'asseurer Monsieur vostre pere de mes respects. Je luy enuoye par loccasion d'vn amy un petit pacquet ou jl y a quelque liures que l'on m'a adressez et dediez entre autre vn de droicts quil treuuera fort beau et fort scauant vn de Physique et un autre en vers qui luy feront perdre le mauuais goust des miens. dont il a la bonté de dire du bien pour lamitié quil a pour moy. Je garde soigneusement ces vers qu'il me fist l'honneur de mescrire, qui sont comme tout ce quil faict tres elegant et tres beaux. Jay essayé pour rauoir la lunette<note n="#7"/> et sans que Monsieur de la Motte<note n="#8"/> est alle auertir....<note n="#9"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zuylichen</persName> chez Monsieur de Zuylichen A La Haye.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

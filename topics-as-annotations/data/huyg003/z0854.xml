@@ -1,0 +1,52 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0854"/>
+<meta type="date" value="?"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="0853"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0854">
+<p>Eclipsis ☉ obseruata Gedani anno 1661. die 30 Martii stylo nouo ab Amplissimo &amp; Celeberrimo Viro Io. Heuelio.</p>
+<p><table>
+<row>
+<cell></cell>
+<cell>Horologio ambulatorio.</cell>
+<cell>Horologio perpendiculari.</cell>
+<cell>Correcta.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Initium</cell>
+<cell>H. 10′12 ″3.</cell>
+<cell>H. 10′11 ″41.</cell>
+<cell>H. 10′13 ″15.</cell>
+<cell>Ante Meridiem.</cell>
+</row>
+<row>
+<cell>Maxima obscuritas</cell>
+<cell>11.20.</cell>
+<cell cols="3"></cell>
+</row>
+<row>
+<cell>Finis</cell>
+<cell>12. 26.39.</cell>
+<cell>H. 12.26.40.</cell>
+<cell>12.27.3.</cell>
+<cell>Post Meridiem.</cell>
+</row>
+</table></p>
+<p>Digiti <hi rend="sc">vii</hi>. ′52 ″ 30.</p>
+<p>Ratio Semidiametri ☉ ad ☾ semidiametrum vt ′15″54 ad ′16″34.</p>
+<p>Initium in 118<hi rend="sup">o</hi> a zenith contigit.</p>
+<p>Finis circa 81<hi rend="sup">o</hi> a zenith accidit.</p>
+<p>Caeterae phases alias communicabuntur.</p>
+</div>
+</body>
+</text>
+</TEI>

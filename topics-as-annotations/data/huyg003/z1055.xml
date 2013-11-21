@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1055"/>
+<meta type="date" value="1662-09-01"/>
+<meta type="sender" value="mora019"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1055">
+<div type="opener">
+<p>A <placeName key="white901">Whitehall</placeName> ce 22. D'Aoust 1662.</p>
+<p>Monsieur</p>
+</div>
+<p>N'estoit que Je retiens encore l'intention de vous veoir dans peu de iours, J'aurois de la peine a trouuer de quoy me iustifier d'auoir si long temps differe ma responce à deux de vos precedentes; à l'une desquelles J'ay bien dit<note n="#1"/> quelque choses, mais a l'autre rien du tout. Et iusqu'a ce que J'aye tout a fait quitte le dessein de faire le voyage que J'ay si long temps medité auec satisfaction, Je ne pretends pas m'estendre sur les matieres que vous me marquez dans les vostres. Mesme Je ne vous diray pas grande chose sur vostre derniere du commencement du Courant, ains remettray presque le tout a lentreueue dont J'ay une enuie trespassionnee. il est vray que J'ay une excuse qui pourra en partie iustifier la remise de mes responces: C'est que vos lettres sont par fois 3. semaines, ou un mois hors de mains, deuant que Je puisse mesme auoir le contentement de les lire auec attention. Elles sont tantost entre les mains de My lord Brounker, tantost de Monsieur <persName key="boyl001">Boile</persName>, et de plusieurs autres: de sorte que si quelqu'un de ces messieurs se trouue aupres de moy lors que les vostres me sont rendues, ou que Je commence a les lire, ils me les arrachent, et ne me les rendent point de 3. ou 4. iours ou dauantages. Tout ce que vous aurez de moy à present, touchant vos deux precedentes, est les deux lettres dont voicy les Originaux<note n="#2"/>. Vous verrez bien par leur dates, que Je vous les aurois peu faire tenir plus tost. Mais elles ont esté aussi entre les mains de quelques uns de nos Messieurs plus de 15. iours. au reste faites estat qu'a nostre entreueuë on vous entretiendra au long sur tous les points de chacune des vostres, et si nostre voyage vient a estre remise a une autre fois, ce que Je ne
+crois pourtant pas, alors Je me donneray la peine de vous en escrire un volume entier; Cependant J'ay bien fait rougir Monsieur Euilyn<note n="#3"/> en lisant vostre derniere en nostre Assemblee luy present. Mais vous pouuez bien croire qu'il vous sçait parfaitement bon gré de l'honneur que vous luy faites. Vous auez creu auoir enfermé
+dans vostre derniere<note n="#4"/>, la copie<note n="#5"/> de vostre iugement de la Duplication du Cube, et de la quadrature du Cercle de Monsieur <persName key="hobb001">Hobbes</persName>, mais Je ne l'y ay pas trouuce.
+Je vous prie de me l'enuoyer si vous iugez qu'elle puisse estre icy dans 15. iours, car peut estre seray Je icy assez long temps pour la receuoir.</p>
+<p>Tous nos Messieurs sont fort satisfaits de vostre Reigle<note n="#6"/> touchant la mesure de la pesanteur de l'Atmosphere. Elle est fort jolie. Mais nous pretendons la iustifier par des experiences lors que nous en aurons la commodité.</p>
+<p>Voila pour cette fois une assez longue lettre. il me seroit bien facile dy adiouster encore deux ou trois fois autant. Mais il vaut mieux le remettre a nostre rencontre.</p>
+<p>Vous sçauez que Je suis de toute mon ame</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionné seruiteur <persName key="mora019">R. Moray</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

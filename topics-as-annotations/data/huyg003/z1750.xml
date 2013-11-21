@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1750"/>
+<meta type="date" value="1669-07-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1750">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 10 Juliet 1669.</p>
+</div>
+<p>En envoiant la lettre que je vous ay escrite<note n="#1"/> a Monsieur Romf<note n="#2"/>, je luy ay fait demander s'il ne scavoit pas de nouuelles de Monsieur Aerssen<note n="#3"/>, et l'on vient de me raporter de sa part qu'il l'a traitè luy mesme et guery pendant qu'il estoit icy; qu'il se porte fort bien a present et qu'il est allè a Saumur. Cela est bien estrange qu'il laisse ainsi ses socurs sans leur mander ou il est. Me voila donc dechargè du soin que je devois prendre de son ame, dont je ne suis pas marry, parce que ce n'est pas une petite courvée d'aller a Montrouge par le grand chaud qu'il fait, et je pretens que les damoiselles m'ont quelque obligation de la resolution que j'en avois prise.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huygens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

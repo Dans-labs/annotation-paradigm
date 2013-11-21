@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0757"/>
+<meta type="date" value="1660-06-26"/>
+<meta type="sender" value="brun077"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0757">
+<div type="opener">
+<p>a <placeName key="parij001">Paris</placeName> le <date>26. Juin 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay esté contreint de rendre tant de uisites en mon retour a Paris, que ie n'ay pu choisir le temps de uous escrire plus tost qu'a cette heure, c'est pourquoy ie uous en demande mille excuses uous asseurant qu'une autre sois ie seray plus punctuel a m'acquiter de mon deuoir.
+J'ay dit a Monseigneur le Duc<note n="#1"/> que uous ferez un uoyage en France; il en a estè raui souhaittant sort de uous tesmoigner de prez l'estime qu'il fait de uostre merite, c'est pourquoy ie uous prie de m'aduertir quand uous irez a Paris a fin que ie me donne l'honneur de nous aller trouuer pour uous accompagner aux champs ou Monseigneur demeure ordinairement.
+Pour ce qui est de Monsieur Pascal ie doute fort que uous le puissiez uoüer<note n="#2"/> estant loing de Paris et fort incommodè de sa santè, toutesfois s'il serà en estat de faire un uoyage iusques icy, on trouuera le moyen qu'il y uienne. Je me suis donnè l'honneur d'escrire a Son Altesse le Prince Leopold a Florence: i'ay parlè fort de uous et ie luy ay escrit quelque chose touchant le Systema que uous luy auez enuoyè et dont uous n'auez eu point de responce. Je croyois d'auoir beaucoup de choses a uous mander, mais ie uois que la matiere me manque aussy bien que le temps, c'est pour<note n="#3"/> ie finiray en uous suppliant de faire mes treshumbles baisemains a Monsieur uostre Pere et a Messieur uos freres, et ie uous prie d'auoir la bontè de faire souuenir a monsieur Vossius de faire acheuer le plus tost qu'il pourrà la copie de toutes les
+figures de la Chine, a fin de uous les donner auant que uous partiez d'Ollande, et de uous dire ce qu'il a coustè a les faire copier et a qui il faudra donner l'argent; Cependant ie suis sans reserue</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tres obeissant seruiteur l'abbè <persName key="brun077">Brunetti</persName>.</p>
+</div>
+<p>J'escris a Monsieur Vossius par ce mesme Ordinaire<note n="#4"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christianus Ugens de Zulichem</persName> A la Haye</p>
+</div>
+</body>
+</text>
+</TEI>

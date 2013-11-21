@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2043"/>
+<meta type="date" value="1675-07-25"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2043">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 15 Juillet, 1675.</p>
+<p>Monsieur,</p>
+</div>
+<p>Voicy les transactions<note n="#1"/> du mois du Juin, qui sont presque remplies de la description<note n="#2"/> d'un instrument de M. Boyle pour descouvrir par vne methode assez facile et parable la vraye monnoye d'auec la fausse etc.</p>
+<p>Je n'ay pas encore receu vostre responce<note n="#3"/> sur ce que i'ay desiré touchant l'assignation de la personne, à laquelle Mylord Brouncker doit faire payer l'argent dû pour vostre montre: touchant laquelle i'ay á vous dire de sa part, qu'elle va tres-juste pendant qu'elle marche, mais qu'elle s'arreste quelque fois apres les 12. premieres heures qu'elle a esté montee, mesme quand on la porte sur soy et dans vne petite poche peu profonde, sans qu'on luy donne des secousses à propos. C'est pourquoy Mylord Brouncker, qui est fort porté à vous servir en cete invention, vous prie de luy vouloir faire faire vne autre le plustost qu'il se peut faire, dans laquelle cet inconvenient soit radicalement osté par vn double balancier, selon la teneur de vostre derniere lettre<note n="#4"/>. Il ne manquera pas d'en payer tout ce qu'il faut; et vous eussiez desia receu les 80 livres, si nous eussions sceu à qui vous les vouliez auoir payés icy.</p>
+<p>Quand à la montre de M. Hook, elle est encor entre les mains de l'ouvrier, qui pretend de la vouloir faire en sorte qu'on n'y trouve rien à redire. Ledit Mylord Brouncker souhaite fort d'auoir vne des vostres auec vn double balancier devant que celle de Monsieur Hook paroisse, s'estant proposé de vouloir mettre la vostre contre celle de M. Hook et croyant qu'elle l'emportera par dessus celle-cy.</p>
+<p>Vous pouvez estre persuadé, que l'on vous fera toute la justice icy, vû principalement que ladite personne ait entrepris d'essayer l'une et l'autre auec toute la precision aussi bien qu'auec vne entiere impartialité. Je vous conseille donc, Monsieur, en amy, de faire despescher la seconde montre, comme elle a esté desirée; et tant plus, que Mylord Brouncker ne voudroit pas faire defaire celle qu'il a par aucun ouvrier icy, parce qu'il l'estime tant pour sa justesse, qu'il n'en voudroit pas estre destitué si long temps; outre qu'il souhaite d'en auoir deux, à cette fin qu'en cas qu'une des deux s'arreste, l'autre soit trouuée en mouvement. Je vous prie de m'advertir, que vous auez receu celle-cy de la part de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulichem</persName> dans la Bibliotheque du Roy à Paris.
+<lb/>50 β</p>
+</div>
+</body>
+</text>
+</TEI>

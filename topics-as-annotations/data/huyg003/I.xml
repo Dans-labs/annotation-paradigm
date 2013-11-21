@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="I"/>
+<meta type="date" value="1639-05-29"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="I">
+<div type="opener">
+<p>Viro Illustrissimo Amplissimo D. <persName key="huyg001">Constantino Hugenio</persName>, Toparchae in Zuilichem, etc. Domino quoad vivam honorando, S.P.D.</p>
+</div>
+<p>Non impingam herclè tertio<note n="#1"/>, Domine, in humanitatem, in patientiam, in negotia tu: nec litteras <hi rend="i">πολυϕύλλους</hi> scribam sed breviter ut, quia nihil in me quod placere possit, est, cito displicere desinam. Ipsa repullulans scabies saciem meam insidens, obsidens, orique imminens, minitari mihi videtur, nisi continuerit sese illa lingua benè linguax: neque cohibere tamen usque adeo, aut in officio tam arctè continere sustineo, quin laudes Constantini, adolescentis, bone Deus, quanti! in Constantini magni sinum effundat. Novi nihil praecipue adfero, nisi Constantini nova, quibus jam tumeo, praeconia. Sed profectò nunquam aut mihi, aut meritis omni laude majoribus, satisfacere queo, et injuriam fieri ejus video virtutibus, si eum depraedicare instituam, quasi ullius vox, nedum mea, dignitati respondeat. infinita vis dicendi, inexhaustum flumen ingenij, ejus meritis duntaxat paria sunt; ubi mereri desinet, moliar et ego schema encomij qualecunque, <hi rend="i">nunc laudis illud sumat</hi>, <hi rend="i">non potest cani</hi>. Quid enim? Poësis, Rhetorica, exercitia stijli, Musica, Arithmetica, (et quid non?) omnia inusitata, sine exemplo. Caeteri, ut et ipsi praeconis non fraudandi, ita cum hoc, (nam dicendum est) neutiquam sunt conferendi. Caeterum Tristia Ovidij postquam absolvimus, non abs re videtur, si ad laetiora illa Bucolica
+maximi Maronis accedamus. nisi fortè libros De Ponto praemittere jubeas, nam Metamorphosis quidem arridet quam maximè, et mihi, et nobilissimis commilitonibus, sed nonnihil eorum existimo excedere
+captum; quanquam sedulò pro ingenioli modulo explicarem; verum et hic, et ubique, tuum imperium, et consilium sequar. Simul oro veniam (vide Amplissime domine quantum audaciae mihi conciliârit benevolentia vestra, quantùm confidentiae) aliquot dies, quae definire placuerit, Leidae commorandi. Nam disputandum mihi Theologicè propediem erit. Spondeo non invitus, et officij ergò, me etiam atque etiam conaturum, ut lepidissimis filiolis, vel absens, praesens sim; praescribam, quid quoquo die, quaque horâ agant. Sed desino tum ne te morer, tum ne de facilitate vestrâ sacrilegè viderer dubitasse. Felicissime vale, praestantissime virorum, humillime veneratus</p>
+<div type="closer">
+<p>Ab ampl. tuae cliente
+<lb/>devotissimo
+<lb/><persName key="brun004">Henrico Brunone</persName></p>
+<p>Raptim, <date>IV Kal. Iunias. MDCXXXIX</date><note n="#2"/>.
+<lb/><placeName key="denha004">Hagae Com.</placeName></p>
+</div>
+</div>
+<div type="para">
+<p>Den WelEdele, Hoogh-Achtbare, Wijtberoemde,
+<lb/>Heere, Mijn Heer <persName key="huyg001">Constantin Huigens</persName>,
+<lb/>Heer tot Zuilichem, etc. In 't Leger.</p>
+</div>
+<div type="comment">
+<p>Une lettre de Bruno du 11, ou plutôt du 12, juin de la même année, également adressée à Constantijn père, a été publiée par nous à la p. 539 du T.I.</p>
+</div>
+</body>
+</text>
+</TEI>

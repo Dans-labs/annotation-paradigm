@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1355"/>
+<meta type="date" value="1665-03-24"/>
+<meta type="sender" value="monm010"/>
+<meta type="recipient" value="bert062"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="lyon_001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1355">
+<div type="opener">
+<p>Copie.</p>
+<p>Mon tres-reverend Pere</p>
+</div>
+<p>Ayant sceu que Monsieur de Zuylichem Gentilhomme Enuoyé de Monsieur le Prince d'Orange deuoit passer à Lion, J'ay creu que je ne pouuois vous faire un offre plus aggreable que de vous en donner la cognoissance. C'est cet jllustre Secretaire d'Estat des deux derniers Princes d'Orange qui soubs leur autorité a gouverné toutes les affaires des Pays bas, qui a conjoint la Politique avec les belles Lettres les arts et les autres sciences, qui a faict de si beaux vers en plusieurs Langues, Et en fin qui est Pere de cet Excellent Monsieur Christian Huygens, à qui l'on doibt de si importantes cognoissances Astronomiques et mechaniques, Cet auteur de la Pendule, et de la Nouuelle Horologe qui rend la navigation certaine et asseurée autant qu'elle le peut estre, qui nous a descouuert le veritable Corps de Saturne et de sa Lune, duquel nous attendons une optique et dioptrique parfaicte, et tant d'autres choses. Jl suffisoit de les nommer tous deux sans rien adjouster escriuant a l'humeur du monde le mieux jnformé des scauants. Mais l'affection et l'estime que j'ay pour eux m'a obligé de faire cette Parenthese un peu Longue. Je vous supplie donc mon Tres Reverend Pere, de prendre un soing particulier de faire veoir à Monsieur de Zuylichem tous vos excellens amis du College de vostre Compagnie comme le Reverend Pere Bussieres<note n="#3"/> le Reverend Pere Menestrier<note n="#4"/>, le Pere de Saint-Rigaut<note n="#5"/>, &amp;c. et en suitte les Cabinets
+des Curieux, et sur tout celuy de Monsieur de Ceruieres<note n="#6"/>. Je ne vous parle point de Monsieur de Montconis pour qu'il est aussi jntime du Pere et du fils. Je croy que vous serez bien payé de la peine que vous prendrez, Et neantmoins je veux vous asseurer que vous ne me scauriez obliger d'avantage que par les seruices que vous rendrez à Monsieur de Zuylichem en cette occasion. Et que je m'estimerois heureux d'en trouuer quelqu'une, ou je vous puisse tesmoigner que je suis veritablement</p>
+<div type="closer">
+<p>Mon tres Reuerend Pere</p>
+<p>Vostre tres humble et tres obeissant Seruiteur Signé <persName key="monm010">De Montmor</persName>.</p>
+<p>A <placeName key="parij001">Paris</placeName> ce 24 Mars 1665.</p>
+</div>
+<p>La superscription estoit</p>
+</div>
+<div type="para">
+<p>Au Tres-Reuerend Pere. Le Pere Bertet religieux de la Compagnie de Jesus a Lion.</p>
+</div>
+</body>
+</text>
+</TEI>

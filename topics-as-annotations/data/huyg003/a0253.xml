@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0253a"/>
+<meta type="date" value="1655-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="gang007"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="a0253">
+<div type="opener">
+<p>Monsieur <persName key="gang007">van Gangel</persName></p>
+</div>
+<p>Vous aurez receu nouvelle de nostre heureux retour en ces quartiers par Monsieur Tassin, lequel nous en avions priè, et de s'informer quant et quant dans quel vaisseau l'on avoit embarquè nos hardes à Rouen et a qui on les avoit addressees. Jusques icy nous n'avons point eu de response de luy, mais hier nous receumes advis
+de Rotterdam<note n="#2"/> que nos coffres y estoyent arrivez ce que j'ay creu necessaire de vous faire scavoir, afin que vous n'en soyez plus aucunement en peine, et pour vous rendre graces en mesme temps de celle que nous uous avons donnée pendant nostre sejour en France, et principalement a nostre depart en vous chargeant du soing de ce bagage. Vostre conseil estoit que nous ne devions pas le quitter, le quel il eust mieux valu de suivre, pour beaucoup de raisons. Mais ne l'ayant pas fait nous avons subject de nous croire heureux puis que tout a reussy à souhait. Et vous demeurons tres obligez de ce qu'il vous a pleu y contribuer. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresaffectionnè serviteur <persName key="huyg003">Chr. Huygens</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

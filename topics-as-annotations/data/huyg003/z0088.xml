@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0088"/>
+<meta type="date" value="1650-10-12"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0088">
+<div type="opener">
+<p>Mon frere,</p>
+</div>
+<p>Samedy passe Son Altesse est partie pour Zutphen et nostre Pere aussi malgre qu'il en eust. Maintenant c'est par son ordre que je vous escris celle-cy, et vous scaurez de sa part que s'il y a apparence que la Cour doibve bientost revenir à Paris, comme il y en peut avoir puisque l'accord de Bordeaux<note n="#1"/> est fait, que vous la pourrez attendre la, si vous voulez, et employer encore quelques septmaines a la voir et frequenter. Mais en cas qu'elle tarde encore longtemps, et qu'il faudroit demeurer jusqu'a bien avant dans l'hyver, il ayme mieux que vous reveniez, sans l'avoir veue, tant pour eviter en ce faisant les incommoditez du voyage qui n'est desia que trop malaise qu'affin qu'il ne soit frustree de son conte et de son desir qui ont tousjours este de vous revoir sur la <seg org="sin" resp="#AD" type="corr">fin</seg> de cet Automne. Voyla ce que porte ma commission, a la quelle mon conseil seroit du tout conforme, si c'estoit a moy a vous en donner. Je vous doibs encore des remerciments de ce que vous avez pris la peine de me copier la chanson que vous m'envoyastes il y a quelque temps, et ne doute pas que vous n'en fassiez bonne provision pendant vostre sejour de Paris, mais seulement je crains qu'elles seront toutes de la legere sorte, que je scay estre plus selon vostre fantasie. Si a vostre retour vous me voulez obliger de quelque chose de plus, ce sera en m'apportant un rasoir ou deux du coutelas, et un petit estuy de bonne mine, deux choses qu'on ne scauroit trouver icy pour de l'argent. Le temps viendra qu'en pareil cas j'auray aussi souvenance de vous, et pour ce qui est du present en tout ce que vous pouuez auoir affaire de moy vous m'employerez comme estant</p>
+<div type="closer">
+<p>vostre tres affectione frere et serviteur <persName key="huyg003">Chr. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName>, le <date>12<hi rend="sup">e</hi> d'Oct. 1650</date>.</p>
+</div>
+<p>Monsieur <persName>van Leeuwen</persName> est maintenant loge la où vous l'estiez a Geneve, et fait estat d'y demeurer cet hyver.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg007">Huygens</persName>, Secretaire de S. Altesse d'Orange
+<lb/>16 St. A Paris.</p>
+</div>
+</body>
+</text>
+</TEI>

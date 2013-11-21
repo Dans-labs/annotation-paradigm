@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0346"/>
+<meta type="date" value="1656-10-19"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0346">
+<div type="opener">
+<p>Clarissimo Viro Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="scho197">Fr. à Schooten</persName> S.D.</p>
+</div>
+<p>Libros, quos in auctione Tibi coëmi voluisti per Dominum <persName>Cranen</persName><note n="#1"/> fieri curavi. Pretium autem, quo eosdem comparavit Tibi schedula Bibliopolae hìc adjuncta indicare poterit. Caeterum si Hagam vos amandari ad Te desideras, rogo quàm primum significare id digneris, mittam enim illos ubi à Bibliopola repetierim, id quod mihi nondum quidem per ocium licuit. Interim Vale.</p>
+<div type="closer">
+<p>Raptim.</p>
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>19 Oct. 1656</date>.</p>
+</div>
+<p>Cardanus de Proportionibus<note n="#2"/>, quoniam pretium à Domino <persName>Culpeper</persName><note n="#3"/> indicatum excedebat, alteri contigit.</p>
+</div>
+<div type="para">
+<p>A Monsieur, Monsieur <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van den Heer <persName key="huyg001">van Zuijlechem</persName>
+<lb/>op t' pleyn in S' Graven-hage.
+<lb/>cito
+<lb/>port</p>
+</div>
+</body>
+</text>
+</TEI>

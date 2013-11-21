@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1424"/>
+<meta type="date" value="1665-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mout015"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1424">
+<div type="summary">
+<head rend="h4">Sommaire</head>
+<p>Qu'il demande avec tant de civilité<note n="#2"/> qu'il n'y a pas moyen de luy refuser et je luy eusse respondu plustost, si.</p>
+</div>
+<div type="opener">
+<p>a Monsieur <persName key="mout015">Mouton</persName>.</p>
+</div>
+<p>la demande que vous m'avez faite est accompagnèe de tant de civilitè que ce seroit en manquer si je ne vous donnois la satisfaction requise.</p>
+</div>
+</body>
+</text>
+</TEI>

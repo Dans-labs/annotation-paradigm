@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1748"/>
+<meta type="date" value="1669-07-05"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1748">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 5 juliet 1669.</p>
+</div>
+<p>Vostre perruque Signor Fratello se fait de la sorte et du prix que vous me l'avez demandée et elle devoit desia estre achevée si l'ouurier m'avoit tenu parole. Ces commissions sont aisées, et je voudrois que celles du Signor Padre fussent de cette sorte au lieu qu'il m'envoie icy a redemander 10 pistoles qu'il a prestees a la des Jardins<note n="#1"/> lors qu'elle estoit a la Haye. Mais n'en dites mot je vous prie.</p>
+<p>Le mariage de Coba<note n="#2"/> m'a extremement surpris. Non est sana puella. Encore si apres cela il<note n="#3"/> peut se mettre a vivre en homme de bien, mais il est nè fourbe, et je la crois malheureuse si elle l'espouse.</p>
+<p>Je ne scay ce que me voulez dire de vos lettres que j'aurois montrè a madame de Buat. Elle vous a trompè; je ne luy ay rien montrè de vous, mais qui plus est vous ne m'aviez rien escrit de particulier de vos pretensions en matiere de mariage, et mademoiselle Borel<note n="#4"/> a estè celle qui m'a appris a son retour que vostre Climene estoit la petite B.<note n="#5"/>.</p>
+<p>Elle vous en a encore fait accroire en vous comptant mes amours chez la Cousine C.<note n="#6"/>. Il n'y a rien de plus faux: personne icy ne songe a dire la mesme chose, et je n'y vay qu'environ une fois tous les mois. adieu.</p>
+</div>
+<div type="para">
+<p>Pour mon frere
+<lb/>L.</p>
+</div>
+</body>
+</text>
+</TEI>

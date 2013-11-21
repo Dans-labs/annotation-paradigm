@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1860"/>
+<meta type="date" value="1672-01-25"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1860">
+<div type="opener">
+<p>A <placeName key="londe002">londres</placeName> le 15 janvier 1672.</p>
+<p>Monsieur,</p>
+</div>
+<p>Voicy l'effect de la promesse, que ie vous fis par ma derniere du 1 janvier<note n="#1"/>. vous verrez par la description<note n="#2"/> et la figure ce que c'est, plus particulierement que ce que ie vous en dis grossierement dans la dite lettre. Vous aurez la bonté de nous en dire vostre opinion. Il y aura quelque difficulté de trouuer vne substance refleschissante, qui se puisse conserver nette. De mesme, il ne sera pas si facile, de trouuer les objects par cete sorte de Telescopes. On croit pourtant, que l'on pourra trouuer quelque expedient pour l'un et l'autre.</p>
+<p>Je croy, Monsieur, que vous aurez vû la Description imprimée<note n="#3"/> de la trompe de Monsieur Moreland. j'auois prié Monsieur Vernon de vous la faire voir, et de vous demander vos pensees sur le Probleme, que l'Autheur y a inseré, touchant la veritable figure, et les dimensions d'un Instrument, qui aggrandit le plus et le mieux la voix de l'homme.</p>
+<p>J'ay envoyé au mesme les Transactions du mois de Decembre, qu'il ne manquera pas de vous monstrer s'il vous plait de prendre la peine de les lire. Je ne manquerois pas de vous en envoyer vn Exemplaire toutes les fois, qu'on en imprime, si ie croiois, qu'elles fussent dignes de vous, et que le pacquet n'en fut trop enflé.</p>
+<p>Monsieur le Chevalier Moray vous fait ses humbles baisemains, et tous vous<note n="#4"/> autres amis icy seront tres aises d'entendre la continuation de vostre santé, si importante au progres des sciences solides. Je vous baise les mains et suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="olde010">H. Oldenburg</persName>.</p>
+</div>
+<p>Si Monsieur Justel desire de voir, et mesme de faire copier la figure et la description de ce telescope de Monsieur Newton, ie vous prie de luy en faire part.
+<figure><graphic url="huyg003oeuv07ill21.gif"></graphic></figure>
+J'espere que vous avez receu ma lettre du 1 janvier 1672<note n="#5"/>; et ie seray bien aise d'entendre, que celle-cy vous ait esté bien rendue.</p>
+<p>P.S. Je m'estonne Monsieur, que vous n'auez pas encor receu la 3<hi rend="sup">me</hi> partie du livre de Monsieur Wallis de Motu et Mechanice; dont ie vous envoiay, de la part de l'Autheur, vn Exemplaire le 13<hi rend="sup">me</hi> Octobre 1671<note n="#6"/>, par la voye de Monsieur Rancher, grand amy de Monsieur Justel; comme ie fis au mesme temps, vn autre à
+Monsieur Carcavy. Je vous prie, d'en vouloir parler à Monsieur Justel, et luy monstrer ce que i'en dis icy. Je suis tres-assuré que i'ay fait ce que dessus, l'ayant marqué dans mes tablettes<note n="#7"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> à la Bibliotheque du Roy à Paris.
+<lb/>10 β</p>
+</div>
+</body>
+</text>
+</TEI>

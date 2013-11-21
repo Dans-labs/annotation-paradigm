@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0003"/>
+<meta type="date" value="1640-09-03"/>
+<meta type="sender" value="huyg001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0003">
+<p>In Christianum me ubique instar canis sequentem.</p>
+<lg type="poem">
+<l>Magni Pythagorae siquidem sententia vera est,</l>
+<l rend="; 1tab">In te migrasse spiritum putem canis.</l>
+</lg>
+<div type="closer">
+<p><persName key="huyg001">Constantinus Hugenius</persName>.</p>
+<p><date>3 Sept. 1640</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

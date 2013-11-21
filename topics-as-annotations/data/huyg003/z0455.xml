@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0455"/>
+<meta type="date" value="1658-01-30"/>
+<meta type="sender" value="brun004"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="hoorn001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0455">
+<div type="opener">
+<p>Doctissime nobilissimorum Juvenum,</p>
+</div>
+<p>Orator venio, exorator ut sim, Legatus per litteras accedo, relegatus ne recedam, tua fortè in manu, paterna certè in voluntate, ac propter filium dilectissimum, in communium olim studiorum tuorum Leidensium consortem, collegamque. sub clarissimo piae memoriae Vinnio, Dominum Janum Grotium Jurisconsultum<note n="#1"/>, mihique addo, si quid id esse videbitur, longè amicissimum, liberalitate situm esset. Petit ille, ne quid dissimulem, aut ulla utar circuitione, à qua, pro Batava nostra, nobis ingenita animi simplicitate uterque alienissimi sumus, ut exemplar paternorum Pöematum, quod habuit inter alios, commodato, quodque ipsi, ut caeteris omnibus mirificè ipsi arrisit, tua cum inscriptione dono habeat ac proprietarium,
+ut vocabulo juris proprio hîc utar. Tu, si negare jam, et prima juris regula, sic uti velis, ne <hi rend="i">γρῦ</hi> quidem est quod regeramus aut hiscamus, aut indignemur; Caeterum id cogitare te Grotius, quo haec praesente scribo, noster vehementer velit, atque addo ego id communi nomine assevero, ipsum aliàs non tam ipso quidem dono, quàm quod abs te datum sit, seriò triumphaturum. Ita vale, et vel agnosce veterem amicum, vel novo ignosce clienti,</p>
+<p>&nbsp;</p>
+<p>Doctissime nobilissimorum Juvenum, Tuo ex asse et animo, <persName key="brun004">H. Brunoni</persName>.</p>
+<div type="closer">
+<p><placeName key="hoorn001">Hornae</placeName> <date>proprid: Cal. Febr. CIƆIƆCLVIII</date>.</p>
+</div>
+<p>Nobilissimo fratrum pari salutem ex domino <persName key="groo001">Grotio</persName> summam prolixissimamque adscribo, omniaque humanitatis, amoris, observantiae officia communi nomine defero.</p>
+</div>
+</body>
+</text>
+</TEI>

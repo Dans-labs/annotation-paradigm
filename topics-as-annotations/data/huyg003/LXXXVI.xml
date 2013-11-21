@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LXXXVI"/>
+<meta type="date" value="1656-03-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="colv001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LXXXVI">
+<div type="opener">
+<p>D<hi rend="sup">o</hi>. <persName key="colv001">Andr. Colvio</persName> <persName key="huyg003">Chr. Hugenius</persName> S.D.</p>
+</div>
+<p>Observationem tibi de Saturni luna mitto, Vir Clarissime, et meritò quidem, cum te procurante effectum sit ut ad haec aspirare potuerim.
+Puto autem antehac aliquid tibi me subindicasse de novo hoc phaenomeno, uti et Doctissimo Collegae tuo Ecclesiae anglicanae ministro<note n="#1"/>.
+Ei si placet exemplar horum unum imperties. Reliqua quibus videbitur.
+Porro <persName key="kalt002">Calthovio</persName>, ubi eum videris, dices, quam optimo successu lentes nos expolire in ea quam novissimè nobis fabricavit lamina, telescopiaque inde 24 pedum longitudine nos coelo admovere.
+Ea in horto disponimus trochleisque attollimus in altum: quibuscum si priora illa 12 pedum conferantur, planè vilescunt, etsi pro longitudine eximia.
+Equidem vel ad centenos pedes ea producere me posse existimo, mirabilesque effectus polliceri ausim, verùm tanta mole quomodo tractabilia reddi possint nondum video. Vale.</p>
+<div type="closer">
+<p>Hagae Com. 18 Mart. 1656.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

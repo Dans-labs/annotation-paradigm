@@ -1,0 +1,22 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0272b"/>
+<meta type="date" value="1656-03"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="guts001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0272">
+<div type="opener">
+<p>Clarissimo Viro Domino J.<note n="#1"/> <persName key="guts001">Gutschovio</persName> <persName key="huyg003">Christianus</persName></p>
+<p><persName key="huyg003">Hugenius</persName> S.D.</p>
+</div>
+<p>De Saturno observationem nostram<note n="#2"/> tibi mitto Vir Praestantissime, quam nisi mitterem ingratus profecto essem, te enim autore primum perspicillis conficiendis animum adjeci, tu mihi praecepta artis nobilissimae suppeditasti<note n="#3"/>. Ergo et profectus mei rationem tibi prae omnibus ut reddam aequum est. In Gallia nuper agenti suasere viri aliquot insignes, ut novum hoc phaenomenon publici juris facerem, neque alias mihi in mentem venisset. Si placet Domino <persName key="tacq001">Tacqueto</persName> exemplum unum mittes. Caetera ubi videbitur distribues. Vale.</p>
+</div>
+</body>
+</text>
+</TEI>

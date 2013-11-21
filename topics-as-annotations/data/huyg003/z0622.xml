@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0622"/>
+<meta type="date" value="1659-06-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="scho197"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0622">
+<div type="opener">
+<p>Clarissime Vir</p>
+</div>
+<p>Postquam integris tribus mensibus exemplaria Dettonvilliani seu Pascaliani operis expectassem, tandem ecce hesterna die demum perlata sunt<note n="#1"/>. Eorum quaterna in Angliam mittere jubeor, unum tibi, quod hîc cernis. Ubi inventa hujus viri, subtilissima sanè, examinâris, rogat te Dominus <persName key="carc010">de Carcavy</persName> ut sententiam super ijs tuam resciscere liceat, ipse ad te scripturus nisi adversa valetudine impeditus fuisset. Ego cum nuper Leida reversus novam tuam Editionem Cartesianae Geometriae<note n="#2"/> ubique quaesivissem, nusquam adhuc eam prostare inveni. Quamobrem te rogo summopere ut Elsevirio<note n="#3"/> dicas meo nomine, ut confestim exemplar unum mihi mittat: aut si quid etiamnum deest, ut pagellam saltem illam<note n="#4"/> Heuratij
+habeam quam mirum in modum videre expeto ob inventi elegantiam, quam summam esse jam ante animo praecipio. Quod si typis excusam habere nequeo vel descriptam quaeso mitte vel tuum exemplum tantisper mihi commoda, faciesque gratissimum</p>
+<div type="closer">
+<p>Tibi addictissimo amicissimoque <persName key="huyg003">Chr. Hugenio de Zulichem</persName>.</p>
+<p>Dat. <placeName key="denha004">Hagae</placeName> <date>6 Junij 1659</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

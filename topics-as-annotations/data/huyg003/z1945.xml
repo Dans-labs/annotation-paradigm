@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1945"/>
+<meta type="date" value="1673-06-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1945">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 10 juin 1673.</p>
+<p>Monsieur</p>
+</div>
+<p>Il y a desia quelque temps que je vous ay envoyé une douzaine d'Exemplaires de mon livre de l'Horologe. Monsieur Vernon a eu la bonté de vous adresser le pacquet en ayant chargè un de ses amis qui partoit pour Angleterre. Mais comme les Postes vont plus viste que les voiageurs ordinaires, je ne me suis pas hastè de vous en donner avis, et de vous prier de vouloir avoir soin de faire la distribution de tous ces livres suivant les inscriptions que j'y ay mises; que si vous avez peutestre desia pris cette peine je vous en rends tres humbles graces. Je seray bien aise d'apprendre ce qu'en disent tous ces scavants geometres, qui sont en plus grand nombre en ce pais la qu'en aucun autre de l'Europe.</p>
+<p>J'ay receu toutes celles que vous m'avez fait l'honneur de m'escrire, dont la derniere estoit avec vos Transactions num. 93<note n="#2"/>. Pour ce qui est des solutions de Monsieur Newton aux doutes que j'avois proposez touchant sa theorie des couleurs il y auroit de quoy respondre et former encore des nouvelles difficultez, mais voyant qu'il soustient son opinion avec tant de chaleur cela m'oste l'envie de disputer. Que veut dire, je vous prie, qu'il assure que quand mesme je luy aurois montrè que le blanc peut se composer de deux seules couleurs primitives, je n'en pourrois pourtant rien conclûre contre luy. Et cependant il a dit pag. 3080 des Transactions que pour composer le blanc toutes les couleurs primitives sont necessaires. Apres cela il n'a garde de demeurer court a aucune objection qu'on luy puisse faire.</p>
+<p>Quant a la maniere dont il concilie l'effect des verres convexes a assembler si bien les rayons avec ce qu'il establit touchant la differente refrangibilité, j'en suis satisfait; mais aussi doit il avouer que cette abstraction des rayons ne nuit donc pas
+tant aux verres qu'il semble avoir voulu faire accroire, lors qu'il a proposè les miroirs concaves comme la seule esperance de perfectionner les telescopes<note n="#3"/>. Son invention assurement estoit tres belle, mais a ce que j'ay pu conoistre par l'experience le defaut de la matiere la rend presque aussi impossible d'executer que la difficultè de donner la forme repugne aux Hyperboles de Monsieur Des Cartes de sorte qu'a mon avis il en faudra demeurer à nos verres spheriques aux quels nous avons desia toute obligation et qui peuvent recevoir encore plus grande perfection tant par l'augmentation de la longueur des lunettes que par la correction de la matiere du verre mesme.</p>
+<p>Hier on a essayè un verre de 62 pieds a l'observatoire, qui parust bon pendant le jour mais comme je n'y pus rester jusqu'au soir je ne scay pas encore ce qu'on en aura trouvè. pour ce qui est des astres l'on commence a revoir Saturne le matin, mais il est encore trop proche du Soleil pour pouuoir voir les 2 nouvaux satellites, dont la periode du plus distant n'est pas encore si bien verifiée que celuy du plus proche. N'a t on pas encore chez vous des lunettes par les quelles on les puisse decouurir. Je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="olde010">de Grubendol</persName> à Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

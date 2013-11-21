@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0856"/>
+<meta type="date" value="1661-04-28"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="londe002"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0856">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> ce <date>28 Avril 1661</date>.</p>
+</div>
+<p>J'ay receu vostre derniere du 12<hi rend="sup">me</hi> par la quelle vous me mandes d'envoyer les verres de vostre grande Lunette, ce que je fais maintenant, et l'aurois fait plustost, si on m'eust lassé faire, mais mon Pere m'a ordonné de les delivrer au Sieur Copes<note n="#1"/> Resident du Monsieur l'Electeur, qui a promis d'en avoir soin. Je crois qu'il les envoyera par la Poste. c'est pourquoy je les ay accommodées dans une boette de Fer blanc. Saschant bien qu'ils ne scauroyent estre en seureté sans cela, car les lettres a la poste sont empacquetees en forme de balots a grand coups de marteau. J'espere qu'a leur arrivee vous trouverez qu'ils n'auront rien paty, et qu'ils serviront a rabattre la bonne opinion que les Anglois ont des leurs, apres quoy je crois qu'ils seront les meilleurs de toute l'Europe. Avant hier encore je vis Jupiter de ma senestre avec ma grande Lunette tresbien. Je n'ay que faire de vous faire souvenir de tout examiner qui concerne ce metier saschant bien que vous n'aurez rien oublié. Sur tout ne manquez pas de scavoir, ou ils trouvent du bon verre pour leurs Lunettes, et si on ne pourra pas lier quelque commerce pour en avoir de par dela. Je suis ravy que vous faites estat de revenir<note n="#2"/> aussytost apres le Couronnement<note n="#3"/>, pour vous entendre sur ce que vous aures fait d'acquisitions par dela.</p>
+</div>
+<div type="para">
+<p>A <persName key="huyg003">Chrestien Huygens</persName> à Londres.</p>
+</div>
+</body>
+</text>
+</TEI>

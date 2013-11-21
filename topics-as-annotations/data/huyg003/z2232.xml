@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2232"/>
+<meta type="date" value="1680-11-20"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2232">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName> le 20<hi rend="sup">e</hi> Nov. 1680.</p>
+</div>
+<p>Avant nostre depart pour l'Allemagne<note n="#1"/> je vous escrivis une longue lettre sur laquelle je n'ay point eu de reponse. Mais Marlot qui arriva du depuis me dit que vous n'aviez pu trouver aucun de touts ces livres que je vous avois prié de vouloir chercher, horsmis L'Art de Peinture de du Fresnoy<note n="#2"/> un petit livre qu'apres bien de destours j'ay eu seulement depuis deux jours, Marlot l'ayant donné a un nom Forguel qui devoit l'envoyer par la poste, ou bien le porter luy mesme venant par la poste, et au lieu de cela l'avoit mis avec d'autre bagage qu'il envoyoit par mer. Cependant je ne scay si je vous ay bien marqué le nom du libraire ou il faut chercher ces livres traittants de la peinture et des Peintres. Il s'appelle <hi rend="i">Nicolas l</hi>'<hi rend="i">Anglois et demeure dans la rüe St. Jacques a la Victoire</hi>. de Flinis me l'a enseigné ces jours passés comme je le fus voir à Amsterdam malade de la fievre qui reigne tousjours en ce lieu là, mais commence à diminuer pourtant. Je vous prie donc de voir ce que pourra me fournir cet homme là de ce qui est contenu dans la liste que je vous ay envoyée et laquelle je presuppose ou pour le moins j'espere que vous aurez gardée<note n="#3"/>. Marlot s'enva encor à Paris dans peu de jours, et m'offre d'envoyer avec les hardes qu'il doibt envoyer à Son Altesse ce que vous luy ferez tenir pour moy.</p>
+<p>Nous voyla revenus d'un voyage de deux mois en Allemagne ou je n'ay rien veu digne de vostre curiosité particuliere, laquelle je crois ne s'estendroit pas mesme a avoir une fort grande envie de voir deux fort grandes Bibliotheques a <placeName key="wolfe002">Wolfenbuttel</placeName> et a <placeName key="berli004">Berlin</placeName>. dans la premiere il y a plus de 125000. autheurs et a chascune de deux un pedant Allemand de Bibliothequaire le plus franc que j'aye veu de longtemps<note n="#4"/>.</p>
+<p>Vous rirez quand je vous diray que le Pere<note n="#5"/> du duc de Wolfenbuttel<note n="#6"/> d'à
+present qui a grandement augmenté cette Bibliotheque avoit escrit de sa main onze fort grands livres infolio qui en font le Catalogue.</p>
+<p>C'estoit un Viellard d'ailleurs fort fantasque, et qui fit mettre une fois son Chancelier sur le cheval de bois, et immediatement apres le fit disner a sa table <hi rend="i">umb him wieder zu ehren</hi><note n="#7"/>, tenant au reste un ordre si grand dans sa famille que le duc d'à present son fils qui avoit plus de 65. ans quand le pere mourut n'auroit jamais osé sortir de la maison sans luy en avoir demandé la permission.</p>
+<p>Je vous envoye un double du memoire ou j'avois mis les noms des autheurs, si peut-estre vous l'aviez esgaré, et vous prie de vous informer au plustost touchant ce qu'il y a ou n'y a point chez l'Anglois.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Huygens de Zulichem</persName>, a la bibliotheque du Roy, Rüe Vivienne a Paris.
+<lb/>17</p>
+</div>
+</body>
+</text>
+</TEI>

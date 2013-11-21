@@ -1,0 +1,45 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0336"/>
+<meta type="date" value="1656-09-28"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0336">
+<div type="opener">
+<p>de <placeName key="parij001">Paris</placeName> ce <date>28<hi rend="sup">e</hi> Sept. 1656</date>.</p>
+<p>Monsieur,</p>
+</div>
+<p>Il y a desia longtems que J'ay fait uoir a Messieurs De Fermat et Pascal ce que uous auiez pris la peyne d'enuoyer à Monsieur <persName key="mylo002">Mylon</persName> et a moy touchant les partis, mais ie n'ay pu me donner l'honneur de vous faire response, la chose n'ayant pas dependu absolument de moy, et la commodité de ces messieurs ne s'estant pas touiours rencontree auec le desir que J'auois de vous satisfaire.</p>
+<p>Monsieur <persName key="pasc001">Pascal</persName> se sert du mesme principe que uous, et voicy comm'il l'enonce. S'il y a tel nombre d'hazards qu'on uoudra comme par exemple dix, qui donnent chacun trois pistolles; et qu'il y en aye deux qui donnent chacun 4 pistolles; et qu'il y en aye trois qui ostent chacun trois pistolles; Il faut adiouster toutes les sommes ensemble, et les hazards ensemble, et diuiser l'un par l'autre, le quotient est le requit, ce qui reuient à vne mesme enontiation que la uostre.</p>
+<p>Mais Il ne uoit pas comme cette reigle peut s'appliquer a l'exemple suiuant.</p>
+<p>Si on joue en six parties, par exemple, du piquet, vne certaine somme et qu'un des
+Joueurs, aye deux, trois, ou quatre parties, et que l'on veille quitter le Jeu; quel parti il faut faire, quand on a une partie a point, ou deux, ou trois &amp;c. à point, ou bien quand on à deux parties et l'autre une &amp;c. Et ledit Sieur Pascal n'a trouué la reigle que lors qu'un des Joueurs a vne partie à point, ou quand il en a deux à point, (lorsque l'on joue en plusieurs parties,) mais il n'a pas la reigle generalle, voicy son enontiation.</p>
+<p>Il appartient à celuy qui a la premiere partie de tant qu'on voudra par exemple de six sur l'argent du perdant, le produit d'autant de premiers nombres pairs que l'on ioüe de parties, excepté une, diuisé par le produit d'autant de premiers nombres impairs, le premier produit sera la mise du perdant, le second produit sera la part qui en appartient au gagnant. Par exemple si on ioue en 4 parties, prenez les trois premiers nombres pairs 2, 4, 6, multipliez l'un par l'autre c'est 48, prenez les trois premiers impairs 1, 3, 5, le produit c'est 15, qui appartiendront au gaignant sur l'argent du perdant si on a mis chacun 48 pistolles., cette reigle sert pour la premiere et la seconde partie, celuy qui en a deux ayant le double de celuy qui n'en a qu'une, Jl en a la demonstration mais qu'il croit tres difficile.</p>
+<p>Voicy un autre proposition qu'il a fait a Monsieur <persName key="ferm011">de Fermat</persName> laquelle il juge sans comparaison plus difficile que toutes les autres.</p>
+<p>Deux ioueurs iouent à cette condition que la chance du premier soit 11, et celle du second 14, un troisiesme jette les trois dez pour eux deux, et quand il arriue 11, le j<hi rend="sup">er</hi> marque un point et quand il arriue 14, le second de son costé en marque un; Jls iouent en 12 points, mais a condition que si celuy qui jette le dé rameine 11, et qu'ainsi le premier marque un point s'il arriue que le dé fasse 14, le coup d'aprez, le second ne marque point, mais en oste un du premier, et ainsi reciproquement, en sorte que si le dé ameine six fois 11, et le premier aye marquè six points, si en aprez le dé ameine trois fois de suitte 14, le second ne marquera rien mais ostera trois points du premier, s'il arriue aussy en aprez que le dé fasse six fois de suitte 14, il ne restera rien au premier, et le second aura trois points, et s'il ameyne encore huit fois de suitte 14 sans amener 11, entre deux, le second aura 11 points et le premier rien, et sil ameine quatre fois de suitte 11, le second n'aura que sept points, et l'autre rien, et s'il ameine 5 fois de suitte 14 Il aura gaigné.</p>
+<p>la question parut si difficile a Monsieur <persName key="pasc001">Pascal</persName> qu'il douta si Monsieur <persName key="ferm011">de Fermat</persName> en uiendroit à bout, mais il m'enuoya incontinant cette solution. Celuy qui a la chance de 11 contre celuy qui a la chance 14, peut parier 1156. contre 1, mais non pas 1157. contre 1. Et qu'ainsi la ueritable raison de ce parti estoit entre les deux, par ou Monsieur <persName key="pasc001">Pascal</persName> ayant connu que Monsieur <persName key="ferm011">Fermat</persName> auoit fort bien resolu ce qui luy auoit esté proposé, il me donna les ueritables nombres pour les luy enuoyer, et pour luy temoigner que de son costé il ne luy auoit pas proposé une chose qu'il n'eust resolue auparauant, les voicy.</p>
+<p>150094635296999122.</p>
+<p>129746337890625.</p>
+<p>Mais ce que vous trouuerez de plus considerable est que ledit Seigneur de Fermat en a la demonstration, comm' aussy Monsieur <persName key="pasc001">Pascal</persName> de son costé, bien qu'il y ayt apparence qu'ils se soyent serui d'une differente methode.</p>
+<p>Je vous escris la presente auec Monsieur <persName key="mylo002">Mylon</persName> et nous reccommandons tous deux a uos bonnes graces, vous suppliant de nous faire part de ce que vous aurez de nouueau principallement de ce que uous nous auez fait esperer par uos dernieres, et qui nous sera bien plus considerable puisque cela vien de vous, nous n'auons point veu encore icy des liures de cet Anglois que uous nommez ce me semble Valisius, J'ay enuoyé uostre liure a Monsieur <persName key="ferm011">de Fermat</persName> dont il vous rend tres humbles graces et vous remercie tres humblement de celuy que uous auez eu la bonté de me donner, Je suis.</p>
+<div type="closer">
+<p>Monsieur.</p>
+<p>Vostre treshumble et obeislant seruiteur, <persName key="carc010">de Carcavy</persName>.</p>
+</div>
+<p>L'on a imprimé depuis peu a Boulongne les oeuures de <persName key="gali003">Galilei</persName> en 2 voll in 4<hi rend="sup">o</hi>.<note n="#1"/> auec quelques additions.</p>
+<p>Son systeme n'y est pas compris.</p>
+<p>Si nous osions nous uous supplierions tres humblement de faire nos baisemains a Monsieur <persName key="scho197">de Schooten</persName> de qui nous attendons ce qu'il aura augmenté dans la geometric de Monsieur <persName key="desc004">des Cartes</persName> auec ce que luy aura donné Monsieur <persName>Bartolin</persName>.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zvlychen</persName>.
+<lb/>à la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

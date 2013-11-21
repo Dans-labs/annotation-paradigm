@@ -1,0 +1,24 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="LII"/>
+<meta type="date" value="1667"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="chap002"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="LII">
+<p>Soit que je ne vous trouve pas chez vous monsieur, ou qu'il vous arriue la mesme chose a mon esgard lors que vous me faittes l'honneur de me venir demander, c'est tousiours de la perte, et du malheur pour moy, et ie le souffrirois plus impatiemment si ie n'ettois assuré que vous ne m'aimes<note n="#3"/> pas moins, quoy que vous me voyes plus rarement. Je fus encor hier vous chercher pour remettre en vos mains l'écrit du Polonnois<note n="#4"/>, et, pour vous demander pardon de ne m'estre pas souuenu de vous le restituer plustot ainsy que vous me l'auies mandé. Cet autheur me feroit grand plaisir de ne me pas contraindre à dire mon sentimen touchant le dessein de son ouurage, puisque je ne scaurois luy donner mon approbation, ny auoir autre oppinion de la signiffication des cometes, que celle que vous tesmoignés estre aussy la vostre, en lappellant friuole; Et en effet quel autre nom meritent toutes ces belles positions, et argumens qu'il estale dans cet escrit; Que veut dire que les cometes signiffient egalement les bons et mauvais euenemens, si non qu'elles ne signiffient rien? Et ce Boni [lisez: Bonis] bona malis mala, n'est ce pas un dogme tres peu solide, et comme fait a plaisir? Il m'a escrit une longue lettre cy deuant sur le mesme subjet<note n="#5"/>
+a laquelle je
+n'ay pas encore respondu, et j'eusse bien voulu sçauoir ce que vous me conseilleries d'en faire, par ce que je preuois que ce cometographe fera imprimer toutes les lettres qu'on luy escrira touchant cette matiere; Je crois cependant qu'il faudra respondre et j'addresseray ma lettre à monsieur <persName key="heve011">Heuelius</persName><note n="#6"/> a qui je vous supplie d'auoir la bonté de faire mes tres humbles recommandations, et de croire que je suis vostre tres obeissant seruitteur</p>
+<div type="closer">
+<p><persName key="huyg003">Huygens de Zulichem</persName>
+<lb/>A Monsieur <persName key="chap002">Chappelain</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

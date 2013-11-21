@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0420"/>
+<meta type="date" value="1657-10"/>
+<meta type="sender" value="huyg001"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0420">
+<p>In effigiem meam à Filio <persName key="huyg003">Chriano</persName> delineatam.</p>
+<lg type="poem">
+<l>Vitam à Parente Filius leuem, breuem,</l>
+<l>Fluxam, caducam cepit et fumo parem.</l>
+<l>Vitam Parenti Filius non reddidit,</l>
+<l>Sed cum papijro perpetem artifici manu</l>
+<l>Ipsique fecit saeculo conterminam.</l>
+<l>Malè sunt repensae, Lector, alternae vices?</l>
+</lg>
+<div type="closer">
+<p><date>Octob. 1657. aeger</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

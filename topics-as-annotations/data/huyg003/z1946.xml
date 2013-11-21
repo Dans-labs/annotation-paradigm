@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1946"/>
+<meta type="date" value="1673-06-12"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="parij001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1946">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> le 2 juin 1673.</p>
+<p>Monsieur,</p>
+</div>
+<p>J'ay receu votre beau present des 12. exemplaires de vostre nouueau livre, et les ay distribuez entre les personnes, auxquelles vous les auiez addressez, qui
+l'ont receu auec beaucoup d'affection, et vous en rendent graces tres-humbles, comme ie le fais en particulier pour l'honneur que vous m'auez fait en me faisant vn des douze. Monsieur Wallis vous escrit<note n="#1"/> luy mesme, comme vous trouverez dans ce pacquet, et y touche quelque chose sur la descouuerte de la ligne droite egale à la Paraboloide, n'ayant pas encor eu du loisir assez pour considerer les autres belles matieres, que vous y auez traitées. Il vous souvient sans doubte, que Monsieur Hook, il y a quelques annees, proposa et fit construire le pendule circulaire, l'appliquant aussi à vn horologe, allant sans bruit, et dans vn mouuement tousiours esgal. C'estoit l'an 1666. au mois de juin, (comme il paroit par le registre de la Société Royale) dans la presence de quelques estrangers, tant Francois qu'autres<note n="#2"/>.</p>
+<p>Et les registres de la mesme Societé parlent d'un instrúment, devisé par le mesme Monsieur Hook, pour mesurer la celerité de la cheute des corps; come aussi de quelques vnes de vos lettres escrites au chevalier Moray sur ledit instrument et les experiences faites par son moien. C'estoit l'an 1664, aux mois de juin, juillet et suivans<note n="#3"/>.</p>
+<p>Quand ces Messieurs, que vous auez regaléz de vostre livre, l'auront leu et consideré, et trouué bon de me faire part de leur sentiments lá dessus, vous ne manquerez pas, Monsieur, d'en estre adverti. Cependant quand mon Exemplaire sera relié, ie le presteray à Mylord Brouncker pour comparer sa Demonstration de la Cycloide<note n="#4"/> avec la vostre, la sienne sortant de la presse le 26 May 1673,
+apres auoir esté enregistrée bien plus amplement l'an 1662; et vos livres m'ayant esté rendus par Monsieur Vernon le 28 du mesme mois.</p>
+<p>Je seray bien aise d'entendre, que vous auez receu mes lettres du 7 et 14<note n="#5"/> Avril, dans la premiere desquelles ie vous envoiay la responce de Monsieur Newton à la vostre touchant vos considerations sur sa theorie des couleurs. C'est tout ce que i'auois à vous dire à present, apres vous auoir assuré, que ie suis tousiours.</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulechem</persName>, dans la Bibliotheque du Roy à Paris.
+<lb/>40 β</p>
+</div>
+</body>
+</text>
+</TEI>

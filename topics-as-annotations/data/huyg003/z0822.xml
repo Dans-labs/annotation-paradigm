@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0822"/>
+<meta type="date" value="1660-12-10"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0822">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce <date>10 Decembre 1660</date>.</p>
+</div>
+<p>Je trouuay hier Israel Henriette<note n="#1"/> et luy ayant expliquè toute vostre liste, il dit qu'il n'en avoit pas une des pieces que vous demandez, mais il me donna adresse a un autre <hi rend="i">liefhebber</hi><note n="#2"/> qu'il croyoit mieux pourveu de ces raretez les quelles pourtant il m'assura couster extremement cher. Pour luy il me monstra une taille douce de Calot qu'il ne vouloit pas vendre a moins de 3 louis d'or; c'estoit un in 4<hi rend="sup">o</hi> ou un ambassadeur d'Espagne faisoit hommage au Pape du Royaume de Naples, en luy presentant un cheval blanc, il y a environ 200 figures et quelques bastimens, et personne que luy n'en a d'exemplaire a ce qu'il dit.</p>
+<p>Je donneray vostre livre de' pittori a Monsieur de St. Agathe<note n="#3"/> qui a bien voulu s'en charger, estant prest de partir la sepmaine prochaine.</p>
+<p>Je ne vous escris que cecy par ce qu'il est temps que j'envoye mes lettres, et que j'ay estè interrompu par quelques visites de musiciens et mathematiciens. Quest ce que j'entens de quelques navires qui seroyent demeures sur les costes d'Espagne au nombre de 5. l'on ne scait pas me dire si ce sont des Hollandais ou d'autres. Dieu garde les nostres de mal. Je suis &amp;c.</p>
+</div>
+<div type="para">
+<p>Pour mon frere <persName key="huyg007">de Zeelhem</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

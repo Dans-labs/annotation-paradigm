@@ -1,0 +1,34 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1496"/>
+<meta type="date" value="1665-11-13"/>
+<meta type="sender" value="auzo011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1496">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce vendredy 13 Nouembre 1665.</p>
+</div>
+<p>Je croy Monsieur que vous aurez bien ri en lisant ma lettre<note n="#1"/> et en voiant les beuües que iy ay faites. du moins ien ris bien quand ie fus chez moy et que ie sis
+reflexion sur ce que je vous auois ecrit et ne pus assez admirer de quoy etoit capable vne memoire confuse. Jetois chez Monsieur lAbbê Charles vendredy et il me souuint que jauois fait le dessein de vous ecrire que Jauois vu aussi bien que vous lOmbre de la troisieme lune le 26 Septembre. Jecriuis chez luy a la haste et en causant et me souuenant que jauois vu sortir le corps de la lune et quil me sembloit qu'outre cette troisieme il y en auoit deux autres et voiant combien vous auiez eloignê du corps de Jupiter celuy que vous prenez pour le troisieme ne me souuenant pas bien du temps de mon obseruation, ie me preoccupay tellement lesprit que celuy que Jauois vu sortir etoit sorti apres que lombre eut disparu que jecriuis trois ou quatre choses fausses qui vous feront bien juger que la confusion de ma memoire et lempressement auec lequel jecriuois sont cause de ces meprises, car de vous auoir dit que depuis lopposition lombre precedoit le corps si ie ne metois pas trompê moy mesme par le renuersement de la figure comme ie vous en accusois mal a propos ie deuois auoir lesprit renuersê.</p>
+<p>Jay cherchê par tout le papier de mon obseruation mais ie ne lay pu trouuer.</p>
+<p>Ce dont il me souuient est que jobseruay de meilleur heure que vous aiant commencê deuant 7 heure vers six heures et demie. quen ce temps la le corps de la troisieme lune etoit encore dans Jupiter quoyque ie ne laye pu voir &amp; lombre etoit en dedans enuiron vn tiers du diametre de Jupiter. quvn peu apres ie vis sortir le corps doutant au commencement si la petite eminence que ie voiois paroitre au bord netoit pas causêe par le tremblement de lair comme vous scaues que cela fait vn effet presque semblable jusques a ce quil soit detachê mais dans peu ie le vis separê. il me semble quil y en auoit encore vn qui paroissoit de lautre cotê et cest ce qui a cause mon preiugê. en efet le second qui deuoit le lendemain passer entre Jupiter et nous deuoit estre de ce cotê la mais naiant point mon papier ie nose plus me fier a ma memoire.
+Je nay rien apris de nouueau si ce nest que Monsieur <persName key="colb012">Colbert</persName> vous a ecrit<note n="#2"/> mais on ne nous a pas dit quoy. faites scauoir a quelqu'un de nous si nous deuons vous esperer bientost et cependant disposez de</p>
+<div type="closer">
+<p>Monsieur
+<lb/>vostre tres Obeissant seruiteur <persName key="auzo011">Auzout</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>. A la Haie.
+<lb/>Hollande.
+<lb/>XII</p>
+</div>
+</body>
+</text>
+</TEI>

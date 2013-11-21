@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0730"/>
+<meta type="date" value="1660-03-16"/>
+<meta type="sender" value="dati010"/>
+<meta type="recipient" value="hein009"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="it"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0730">
+<div type="opener">
+<p lang="la">Ex literis <persName key="dati010">Caroli Dati</persName> ad <persName key="hein009">Nic. Heinsium</persName> datis 16 Mart. 1660.</p>
+</div>
+<p lang="it">Il Serenissimo Principe Leopoldo desidera sapere se i telescopi del Signore Hugenio superino notabilmente la squisitezza di quelli fabricati dal Fontana di Napoli, dal Divini di Roma e dal nostro <persName key="torr901">Evangelista Torricelli</persName> di <placeName key="flore001">Firenze</placeName>.
+E se no si potesse fare la comparazione costi per mancanze di questi sopradetti. prega Vestra Signoria a far videre diligentemente in quante distanze con l'uso di esso telescopio da persona di buona vista si legga un carattere minuto, di poi mandando mostra del medesimo carattere, e qualche misura da potere misurare la distanza. verbi gratia un
+braccio o altra misura con un filo incluso nella risposta. Perche havendone il Serenissimo Granduca mio Signore di tutti i sopradetti in somma eccellenza se ne potra con li auuisi di Vestra Signoria fare esattissimo riscontro.</p>
+</div>
+</body>
+</text>
+</TEI>

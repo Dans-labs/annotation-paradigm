@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0281"/>
+<meta type="date" value="1656-04-18"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="robe012"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0281">
+<div type="opener">
+<p>Monsieur</p>
+<p>A <placeName key="denha004">la Haye</placeName> le <date>18 Avr. 1656</date>.</p>
+</div>
+<p>Quand je receus vostre lettre du 10 Mars je vous avois envoyè la miene<note n="#1"/> le jour d'auparavant, et creus qu'elle suffiroit pour vous oster le soupçon que vous sembliez avoir conceu. Mais puis que je ne recois point vostre responce, je m'imagine, ou que vous aurez voulu attendre encore cellecy, ou que ce que vous aviez apprehendè pour ma premiere lettre se soit verisiè en la seconde, et que M.<note n="#2"/> auroit estè assez mechant pour se faire donner encore celle qui s'adressoit à vous, lors que le bon homme Tassin ou son valet luy ont apportè ma lettre. Car je luy escrivis en mesme temps<note n="#3"/>, et encore a Monsieur <persName key="chap002">Chapelain</persName><note n="#4"/>, et ne puis comprendre pourquoy personne ne me respond, si ce n'est qu'il me soit arrivè quelque chose de semblable a ce que je viens de dire. S'il estoit ainsi je scaurois ce que j'aurois à faire; mais je vous prie que je scache au plustost ce que j'en doibs croire, et soyons une fois esclaircy quant à la seuretè de nostre correspondence<note n="#5"/>. J'ay depuis quelque jours escrit les fondements du calcul es jeux de hasard à la priere de Monsieur <persName key="scho197">Schooten</persName> qui le veut faire imprimer, ou j'ay entre autres proposè une telle question. Quand je joue contre une autre avec deux dez, à condition que je gagneray aussi tost que je feray 7 poincts, et que il gagnera luy aussi tost qu'il fait 6 poincts; et que je luy donne les dèz, Je demande qui des deux à de l'avantage en cecy, et quel. Je desire fort de
+veoir si vous trouverez mesme solution a cecy que moy. Je suis de tout mon coeur.</p>
+</div>
+</body>
+</text>
+</TEI>

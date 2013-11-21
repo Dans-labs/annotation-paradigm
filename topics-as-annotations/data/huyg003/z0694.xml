@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0694"/>
+<meta type="date" value="1659-12-12"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0694">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>12. Decembre 1659</date>.</p>
+<p>Monsieur <persName key="huyg003">Hugens</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>j'accuseray par la presente la reception de deux de vos lettres du 20 &amp; 27<note n="#1"/> du passé. Je vous remercie de tout mon coeur &amp; vn million de fois de la bonté que vous auez eue d'enuoyer vn de vos liures du Systeme de Saturne à Monsieur Des Noyers Secretaire de la Serenissime Reine de Pologne. J'ay enfin receu le jour d'hier les exemplaires de vostre liure que vous m'auez enuoyez, que je ne manqueray pas de distribuer selon que vous me l'auez ordonné. Dans la balle ou estoit le pacquet de vos liures l'on y a trouué deux horologes, mais sans addresse a personne, &amp; ainsi le libraire ne scait a qui les rendre, &amp; encores que je luy aye dit qu'il y en a vne pour moy il n'a pas voulu me la rendre, &amp; il veut auoir vn ordre de Monsieur Elzeuir. Je m'estonne que l'on n'ayt point mis l'addresse dessus. Le Sieur Hannet qui les deuoit receuoir n'est pas icy, il s'en est allé a Rouen, &amp; je ne scay quand il reuiendra. Je vous prie que le Marchand donne ordre pour me la faire deliurer. c'est vne sonnante. &amp; je donneray l'argent ou il faudra suiuant le prix que vous m'auez cydeuant faict scauoir.</p>
+<p>J'ay mesuré le diametre de ♂ comparé au Mont de Sinai de la ☾ selon la description de Monsieur Heuelius &amp; je l'ay trouué de ″54.‴57. peu deuant son ☍ au ☉.</p>
+<p>Il me semble que l'estoile du Cygne n'esclatte &amp; ne brille pas tant qu'elle faisoit l'annee passee, je la trouue plus blaffarde.</p>
+<p>Je m'estonne qu'il se trouue si peu de gens a Leyden qui regardent le ciel &amp; je m'estonne que vous n'auez faict vn quart de cercle dun pied &amp; demi ou de deux
+pieds de demidiametre. Monsieur <persName key="heve011">Heuelius</persName> s'est appliqué a obseruer les lieux des estoilles fixes, &amp; a corriger ce qui manque dans Tycho Brahe.</p>
+<p>Je suis de tout mon coeur &amp; tres veritablement</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

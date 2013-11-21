@@ -1,0 +1,32 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1822"/>
+<meta type="date" value="1670-12"/>
+<meta type="sender" value="olde010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="denha004"/>
+<meta resp="HI" type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1822">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Le porteur de celle-cy me donne la commodité de vous faire mes baisemains et de vous prier d'accepter des papiers annexes, où vous trouuerez quelques observations des Anses de Saturne<note n="#1"/>, qui vous donneront occasion de faire reflexion sur vostre systeme de ce planete. J'esperois de vous envoyer par le mesme, quelques nouueaux traités de Monsieur Boyle, touchant la merveilleuse rarefaction de l'Air, mesme sans chaleur, comme aussi touchant la duration de sa force elastique etc.<note n="#2"/>. Mais l'inprimeur ayant tardé plus long temps que ie ne croyois, ie pourray vous faire tenir cela par les mains de Monsieur vostre pere, auec quelque bonne piece de verre pour vn telescope.</p>
+<p>Dans les Transactions de ce mois<note n="#3"/> on fera inprimer l'observation de Monsieur Hevel de Transitu Lunae super Venerem l'11<hi rend="sup">me</hi> d'Octobre 1670, ce qui a esté observé aussi par vn Astronome Anglois, qui sera prié de nous la donner pareillement pour le faire inprimer le mois apres<note n="#4"/>. C'est tout ce que i'ay à vous dire à present, sinon que Monsieur Boyle et Monsieur Moray vous saluent tres affectueusement, et que ie suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant Seruiteur
+<lb/><persName key="olde010">Oldenburg</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName>
+<lb/>à la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

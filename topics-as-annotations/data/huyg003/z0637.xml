@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0637"/>
+<meta type="date" value="1659-07"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="slus001"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0637">
+<div type="opener">
+<p lang="la">Nobilissime Domine</p>
+</div>
+<p>Librum tuum<note n="#1"/> quem jam ad umbilicum perductum existimo per Silvaducenses aurigas expectabo, quando alia opportunitas non datur. lubentissimeque quotquot exemplaria ejus miseris distribuam. In meo<note n="#2"/> pauculae adhuc figurae imprimendae restant. Itaque brevi accipies <hi rend="i">χάλϰεα ἀντὶ χρυσείων</hi> videlicet. Quamquam tamen argumenti dignitate confisus Serenissimo Principi Leopoldo magni Etruriae Ducis fratri illum nuncupavi<note n="#3"/> gratissimum mihi facies si ostenderis quâ viâ optime deferendum curem, namque et tua ad amicos Florentinos credo missurus est<note n="#4"/> quibus utinam itineris socius accedam. Dettonvilij inventa merito admiraris; sed et errorem in Theoremate omnium novissimo recte perspexisti, qui emendari tamen potest si unum hoc Theorema aliter concipiatur. admonui jam pridem ea de re autorem, sed Carcavium ab urbe abesse opinor, ad quem literas meas inscripseram<note n="#5"/>. Miror quod scribis te necdum<note n="#6"/> illa vidisse, quae de Conoidum et sphaeroidum superficiebus inveni. Annus enim atque amplius est cum tibi omnia impertij<note n="#7"/> teque ea accepisse
+significasti<note n="#8"/>. Itaque in memoriam redi inveniesque proculdubio in aliqua
+<figure><graphic url="huyg003oeuv02ill149.gif"></graphic></figure>
+mea epistola si quas asservas. De Linea autem Parabolica hujusmodi Theorema est.</p>
+<p>Sit Parabolae portio recta ABC, eamque ad terminos basis contingant rectae AD, CD, concurrentes in D. Esto item hyperboles portio EFG, cujus dimidius axis transversus FH aequalis sit basi parabolae AC; tota autem HI quae a centro sectionis ad basin usque portionis extenditur, aequet duas
+simul AD, DC. Jam si HK aequalis fuerit curvae parabolicae ABC, et ducatur LKM parallela basi EG fiatque parallelogrammum EM eandem cum portione basin habens, cujusque latus basi oppositum transeat per K. Aio hoc ▭ aequale esse hyperboles portioni EFG. Unde itaque connexio quadraturae hyperboles cum dimensione lineae parabolicae manifesta evadit.</p>
+<p>Quod si autem novam editionem Geometriae Cartesij quam Schotenius procuravit nondum vidisti est quod tecum communicem insigne inventum juvenis cujusdam nostratis Heuratij nomine. Hic investigans parabolicae lineae mensuram quam mihi inventam resciverat<note n="#9"/>, hanc primum quidem assecutus est, deinde vero ulterius inquirens curvarum quoddam genus reperit (et quidem earum quae Geometricae censentur) quibus rectas lineas absolutè aequales constitui posse docuit. prima earum et simplicissima est paraboloides illa in qua applicatarum ad axem cubi sunt inter se sicut quadrata abscissarum ad verticem. Exemplum adderem sed brevi quid rei sit e libro illo quem dixi addisces, nisi forte jam didicisti. Non est itaque quod ultra naturae repugnare existimes curvam rectae aequalem inveniri<note n="#10"/>.</p>
+</div>
+</body>
+</text>
+</TEI>

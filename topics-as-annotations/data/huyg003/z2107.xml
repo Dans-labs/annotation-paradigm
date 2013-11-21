@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2107"/>
+<meta type="date" value="1677-11-01"/>
+<meta type="sender" value="rome049"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2107">
+<div type="opener">
+<p>Illustrissimo Domino <persName key="huyg003">Christiano Hugenio</persName> <persName key="rome049">O. Römer</persName> S.P.</p>
+</div>
+<p>Benevolas Tuas literas responso dudum sum prosequutus<note n="#1"/>, dedi illud Tabellario publico, credoque redditum. Serius animadverti me tum temporis maxime insigne Tuae epistolae membrum reliquisse intactum et nimiúm Satelliti meo intentum ea quae attingebas de Luna negligentius transmisisse. Mentionem facis argumenti Cartesiani unde concludis luminis celeritatem tantam esse ut non requirat ultra 10″ pro 30 diametris terrae. Quod certe me magna afficit admiratione qui nihil unquam ex Cartesio viderim circa illam materiam, nisi epistolam aliquam relatam et satis acerbe exagitatam a Patre Pardies in tractatu parvo de motu locali<note n="#2"/>, nec ibi de 10″ sed de semihora agitur. Nisi forte ipsa ratiocinatio Tua sit et Cartesio saltem debeatúr indicium. Latent ibi res
+pulcherrimae et efflictim desidero rescire quo modo illud de 10″ inde elicueris. Ego quidem istas eclipses Lunae examinando comperi debere centrum umbrae Terrae videri extra punctum oppositionis Solis tot unciis gradús quot lumen a Sole ad nos impendit horas (quod optime convenit cúm celeritate quam indicasti). Nec illud dependet ex intervallo Lunae a nobis, cum saltem supponatur lumen tendere in directum motu aequabili et těrram moveri circa solem motú cognito. Propositio ipsa ita habet.</p>
+<p><hi rend="i">Umbra terrae motae ubilibet extra terram visa sequitur punctum oppositum Soli, dúplo angulo quo promovetur terra circa Solem interea dum lumen ab eo ad nos perveniat</hi><note n="#3"/> modo ille angulus sit tam parvus ut ejús arcus insensibiliter differat a linea recta.</p>
+<p>Unde si 55 secunda gradûs essent observabilia in determinatione umbrae terrae obscurantis Lunam (quanta est differentia ejús ab ☍<note n="#4"/> ☉ debita 11. minutis quae lumini attribuo hinc ad Solem) haberemus novum argumentum pro systemate <persName>Copernicano</persName>.
+Sed dubia ejús umbrae confinia istas spes praescindere videntur.</p>
+<p>Mirari satis non possum quomodo fieri potuit <persName>Cartesium</persName> et Pardies ex suppositione morae luminis semihorariae hinc ad Lunam tam irrito conatu quaesivisse paucorum minutorum differentiam in ejúsmodi eclipsibus, ubi ea evadere debet ni fallor 14 vel 15. graduum et quomodo Cartesius eandem demonstrationem utrique hijpothesi accommodare tentaverit cum ad illud negotium sint valoris diversissimi.
+In <persName>Copernicana</persName> quippe proditur tempús pro intervallo Solis in <persName>Tijchonica</persName> pro soliús lúnae quadringenties minori, idque per eadem media.</p>
+<p>Ne graveris quaeso mihi significare quid haec cum tuis meditatis conveniant.</p>
+<p>&nbsp;</p>
+<p>Eandem veniam exorat haec epistola ac illa praecedens. Iisdem votis benignam valetudinem, maturum ad nos reditúm et prospera quaelibet Tibi apprecatur.</p>
+<div type="closer">
+<p>Vale.</p>
+<p>Parisiis 1 Novembr.
+<lb/>1677.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

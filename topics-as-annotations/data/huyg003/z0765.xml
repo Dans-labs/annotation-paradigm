@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0765"/>
+<meta type="date" value="1660-08-01"/>
+<meta type="sender" value="guis014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="rome_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0765">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Encore que la réponce<note n="#1"/> que l'on vient d'imprimer à vótre liure<note n="#2"/> ne merite pas vne lecture fort empressée, ie n'ay pas neantmoins voulu tarder d'un moment à vous l'enuoïer, non seulement pour vous óter de la poene ou vous pourriés étre, sj la nouuelle vous en arriuoit plútót que l'écrit, mais en particulier pour auoir occasion de me conioüir aueq vous de vótre ouurage, à qui des personnes quj passent pour tres eclairées, ont sj peu trouué à redire. il ne vous sera pas difficille à croire qu' Eustachio (qui n'est pas méme Latiniste) n'y à mis du sien que sa pretandue obseruation des trois cors separés, que c'est le Père Fabry<note n="#3"/> Jesuite François, qui en est l'autheur. La ferocité du stile vous auroit fait assez apperceuoir, que c'est vne plume de la Societé, qui l'a écrit; &amp; que le Signor Eustachio veut à l'usage du païs que l'on luy croïe aueuglement sans contredire sous pene d'étre fulminés. Je trouue cella bon que pour luy auoir fáit l'honneur de faire mention de luy dans vótre liure<note n="#4"/> plus auantageusement qu'il ne meritoit, vous le vous soiés endossé: de la méme
+maniere qu'autrefois sû Monsieur Gassendj mon bon amj s'attirát des Liures d'Jnuectiue<note n="#5"/> d'un Astrologue nommé <persName key="mori901">Morin</persName><note n="#6"/>, pour auoir dit de luy
+dans ses Lettres de motu Impresso à motore translato<note n="#7"/>, qu'il auoit trauaillé aueq beaucoup d'esprit à trouuer des raisons pour la stabilité de la terre. Ceux-cy vous
+accuseroient tantót de n'étre pas de leur religion, &amp; que pour ne pas croire à leur curé vos obseruations astronomiques en sont moins justes, ma foy dans vne conuersation que i'eus l'autre jour aueq quelques curieux, ou se trouuoit Monsieur de Monconis<note n="#8"/>, dont il est parlé dans leur liure (pour être ami du Pere, &amp; pour auoir achèté à grands frais des Lunetes d'Eustachio) ie ne pús discourant de céte matiere m'empecher de leur reprocher, qu'il ne falloit pas tant s'étre pressés d'imprimer, pour ne dire que de si mauuaises choses; qu'il étoit impossible de raisonner solidement tant en physique qu'en astronomie sans supposer pour base le Systeme de <persName>Copernique</persName>, que céte imagination des 2 córs lumineux &amp; des 2. obscurs me paressoit fort grossière, que leur mouuements d'apogée au perigée ne ressentoient pas son excellent mechaniste, &amp; que sans parler de la bonté de vos Lunetes (aueq lesqueles ie leur protestay d'auoir uen la Zone de Mars) ie ferois tóujours grande difference d'un obseruateur comme vous à vn artisan. Sj i'eus eu aueq moy quelques liures, i'aurois pris plaisir de calculer les mouuemens des Satellites de Jupiter, &amp; le Cone de leur ombre pour sáuoir au uray l'essét qu'ils doiuent auoir sur le Córs du planete. par le precedent ordinaire on m'ecriuit de Paris, que l'on vous auoit fáit tenir mon páquet, i'espere que vous l'aures receu aussi bien que cellui-cy, &amp; que dans toutes les occasions vous reconnétrés l'estime que ie fais de
+vótre vertu &amp; que ie suis aueq passion</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vótre tres humble &amp; tres obeissant seruiteur <persName key="guis014">Guisony</persName>.</p>
+<p>à <placeName key="rome_001">Rome</placeName> le <date>1<hi rend="sup">r</hi>. d'aoust 1660</date>.</p>
+</div>
+<p>Monsieur <persName>Ricci</persName><note n="#9"/> Gentilhomme Romain fort entendu en Geometrie &amp; fort de mes amis m'a dit despuis pen, que le grand Duc est bien aise que son Academie de Pise communique aueq la nótre de Paris, &amp; qu'à céte fin il luy auoit faict enuöier la suiuante obseruation.
+Si aueq un miroir d'acier on allume un córs combustible, aiusté adroitement dans le lieu qu'on appelle vuide dans l'experience de <persName key="torr901">Torricellj</persName> du syphon aueq le Mercure, la fumée au lieu de monter descend sur le mercure par cete ligne parabolique de <persName key="gali003">Galilej</persName>. ces Messieurs concluent par là contre les Aristoteliciens qu'il n'y à point de legereté positiue; cella ne me conuainct pas moy qu'il ỳ à de la pesanteur positiue.</p>
+<p>Le Vesuue fáit maintenant plus de desordre que iamais, les mathematiciens ecriuent que la vapeur à monté iusqua 3. milles à la perpendiculaire; ce qui est fort surprenant.</p>
+</div>
+</body>
+</text>
+</TEI>

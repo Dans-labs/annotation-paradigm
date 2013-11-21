@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1469"/>
+<meta type="date" value="1665-09-21"/>
+<meta type="sender" value="page011"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="dordr001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1469">
+<div type="opener">
+<p>S.P.D. Generosissime atque amicissime Domine <persName key="huyg003">Hugeni</persName>,</p>
+</div>
+<p>compluribus à te beneficiis affectus (lentium sanè telescopicarum donum<note n="#1"/> nunquam non memorandum) audaciùs humanitatis vestrae fores pulso, rogaturus quod non putem à quoquam mihi vel melius vel lubentius posse praestari. Narravit mihi amicus<note n="#2"/>, se <placeName key="denha004">Hagae Comitis</placeName> sub mensis hujus initium à quodam harum rerum gnaro accepisse, Romae nuper novam quandam telescopii duodecempedalis rationem inuentam esse<note n="#3"/>, quae luculentâ coelestium <hi rend="i">ϕαινομένων</hi> detectione optima quaevis hactenus confecta telescopia longè antecellat. Id si verum sit, Dioptricae vestrae quam exspectamus editionem proculdubio aliquantisper sufflaminabit. Mirâ nuncii, nec ingratâ novitate perculsus, non possum non avidiusculè in narrati veritatem ulteriùs inquirere. Tu quid rei sit, si placet, paucis edoce. Si penes te sit libellus<note n="#4"/> quo recens observatorum à novi Tubi inventore
+specimen exhiberi etiam intellexi, quaeso ne grave sit commodato huc transmittere: polliceor me bona fide quam primum remissurum. Liceat porro &amp; hac occasione de horologiis vestrae inventionis quaerere, an ad eam perfectionem promota sint, ut navigantibus in longitudinis investigatione commodè inservire queant. Tale quid in novellis hebdomadalibus non ita pridem ab automatario<note n="#5"/> quodam Hagae Comitensi promitti legisse memini, cum chartâ observandi rationem indicante, emptoribus tradendâ. Si instructio ista<note n="#6"/> consilio vestro adornata sit, ejus ut pro solenni vestrâ liberalitate exemplar mihi communicetur obnixè rogo. Si geminae huic eâdem vice importunitati benignè ignoveris, simulque postulatis utcunque satisfeceris, profecto seriò triumphabit</p>
+<div type="closer">
+<p>Nobilissime heros</p>
+<p>Tibi obstrictissimus <persName key="page011">Robertus Pagetius</persName>.</p>
+<p>Dordrechti Septembris 21. 1665.</p>
+</div>
+</div>
+<div type="para">
+<p>Den Wel-Edelen Heere Myn Heer <persName key="huyg003">Christiaen Huygens</persName>, ten huyse van Myn Heer <persName key="huyg001">van Zulichem</persName> in S Graven-Haghe.
+<lb/>III</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,194 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1600"/>
+<meta type="date" value="1667-08"/>
+<meta type="sender" value="buot010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1600">
+<div type="section">
+<head rend="h4">L'obseruation faite par Messieurs Huguens, Picart, Buot et Richer<note n="#2"/>. Pour trouuer l'Inclination des plans de l'anneau de ♄. auec le plan de lequateur et auec le plan de l'Ecliptique.</head>
+<p>Le 15 aoust 1667. sur les 11. heures du soir, ♄ fut enuiron le meridien, lors que la teste d'Andromede estoit distante du Zenith de 49. 50′.</p>
+<p>♄ fut obserué parallele a lhorison, lors que Andromede estoit distante du Zenith de 40. 55′.</p>
+<p>Au temps de cette derniere obseruation ∠ du vertical de ♄. auec la meridienne vers loccident estoit de 13<hi rend="sup">o</hi>26′.20″. Si on se pouuuoit asseurer de cette obseruation, ou lobseruateur tenoit vn de ses aplombs a la main, qui est sujette a varier et qui oblige a tenir loeil trop proche du filet; car les costez comprenant ∠ estant de 3000. la base auoit 702. dont la moitié 351, la quelle donne pour le sinus du demy angle du sommet 11700, auquel repond 6.43′10.″ dont le double fait ∠ requis de 13.<hi rend="sup">o</hi>.26.′20.″</p>
+<p><table>
+<row>
+<cell>Lascension droitte du chef d'Andromede est<note n="#3"/></cell>
+<cell>358.<hi rend="sup">o</hi> 0.′ 0.″</cell></row>
+<row>
+<cell>Sa declinaison septentrionale<note n="#4"/></cell>
+<cell>27. 17.</cell></row>
+<row>
+<cell>Le lieu du Soleil</cell>
+<cell>22. 47. ♌.</cell></row>
+<row>
+<cell>Son ascension droitte</cell>
+<cell>145. 9.</cell></row>
+<row>
+<cell>Le lieu de ♄</cell>
+<cell>27. 2. ♑.</cell></row>
+<row>
+<cell>Sa latitude Meridionale</cell>
+<cell>0. 21.</cell></row>
+<row>
+<cell>Son ascension Droitte</cell>
+<cell>299. 10.</cell></row>
+<row>
+<cell>Sa declinaison meridionale</cell>
+<cell>21. 9. 40.</cell></row>
+<row>
+<cell>La difference des ascensions du ☉ et de ♄ est</cell>
+<cell>154. 1. 0.</cell></row>
+<row>
+<cell>Ou repond pour lheure quon pretend auoir obserué ♄ au meridien</cell>
+<cell>10.h.16.′ 4.″</cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Examen de la mesme heure par la hauteur d'Andromede.</head>
+<p><table>
+<row>
+<cell>les 3. costez du Δ a resoudre, sont la distance du pole au Zenith</cell>
+<cell>41.<hi rend="sup">o</hi> 7.′</cell></row>
+<row>
+<cell>la distance d'Andromede au pole 62. 43. et la distance d'Andromede au Zenith. obseruée tres justement de 49. 50.′ par lesquels on trouue pour la distance d'Andromede au meridien</cell>
+<cell>59.<hi rend="sup">o</hi> 9. 0.</cell></row>
+<row>
+<cell>quil faut oster de lascension droitte de la mesme Andromede</cell>
+<cell>358. 0.</cell></row>
+<row>
+<cell>et reste pour lascension droitte du MC</cell>
+<cell>298. 51.</cell></row>
+<row>
+<cell>dou ostant lascension droitte du lieu du ☉</cell>
+<cell>145. 9.</cell></row>
+<row>
+<cell>reste la distance du soleil au meridien passée depuis le midy precedent</cell>
+<cell>153. 42.</cell></row>
+<row>
+<cell>ou repond pour lheure juste quand ♄ estoit au meridien</cell>
+<cell>10.h.12.′ 3.″</cell></row>
+</table></p>
+<p>Scauoir 4′. 1.″ dheure plustost que lobseruation par les filets.</p>
+</div>
+<div type="section">
+<head rend="h4">Calcul de lheure au temps de la 2. obseruation.</head>
+<p><table>
+<row>
+<cell>au Δ a resoudre les 3. costez donnez sont la distance du pole au Zenith 41. 7.′ la distance d'Andromede au pole 62. 43. et la distance obseruée dAndromede au Zenith 40. 55. par lesquels on trouue pour la distance dAndromede au meridien 45<hi rend="sup">o</hi>. 28′. a oster de son ascension droitte 358. 0.′ et reste lascension droitte du MC</cell>
+<cell>312. 32.′</cell></row>
+<row>
+<cell>dou ostant lascension droitte du ☉</cell>
+<cell>145. 9.</cell></row>
+<row>
+<cell>reste la distance du ☉ au meridien</cell>
+<cell>167. 23.</cell></row>
+<row>
+<cell>ou repond 11 heures 9′. 32.″ pour lhure de lobseruation.</cell>
+<cell></cell></row>
+</table></p>
+</div>
+<div type="section">
+<head rend="h4">Examen de lobseruation de lazimuth de ♄ occidental. au temps de ceste 2. obseruation.</head>
+<p><table>
+<row>
+<cell>Lascension droitte du MC. est par la precedente</cell>
+<cell>312. 32.</cell></row>
+<row>
+<cell>lascension droitte de ♄ Occidental est</cell>
+<cell>299. 10.</cell></row>
+<row>
+<cell>donc la distance de ♄ au meridien vers l'occident est</cell>
+<cell>13. 22.</cell></row>
+</table></p>
+<p>et partant au Δ PZ ♄ ou son opposé <hi rend="i">pz</hi> ♄ nous auons <hi rend="i">pz</hi>. 41. 7., <hi rend="i">p</hi>♄. complement
+<figure><graphic url="huyg003oeuv06ill26.gif"></graphic></figure>
+de 21. 9. 40″. scauoir de la declinaison B ♄ auec ∠ <hi rend="i">p</hi>. 13. 22.″ distance de ♄ au meridien et on demande ∠ ♄ <hi rend="i">zp</hi>.</p>
+<p>Au Δ. rectangle ♄ D<hi rend="i">p</hi> ∠ <hi rend="i">p</hi>. et lhypothenuse <hi rend="i">p</hi>♄. sont donnez et partant on trouue la base D<hi rend="i">p</hi>. du 1<hi rend="sup">er</hi> Δ rectangle 68. 18.′ 10.″ a la quelle si on adjouste <hi rend="i">zp</hi>. 41. 7.′ on aura la base du 2e Δ. zD. 109. 25.′ 10.</p>
+<p>Mais comme le sinus de la base du 2e. Δ <hi rend="i">z</hi>D /<note n="#5"/> Sinus de la base du 1<hi rend="sup">er</hi> <hi rend="i">p</hi>D. // la tangente de ∠ de la base <hi rend="i">p</hi>. du ie Δ / a la Tangente de ∠ de la base <hi rend="i">z</hi>. du 2. Δ.</p>
+<p>Scauoir lazimuth de ♄. 13<hi rend="sup">o</hi>. 10′. 30″. plus petit que celuy qui a esté obserué par les filets de 15′. 50″ de degré, scauoir denuiron ¼ de degré.</p>
+<p><table>
+<row>
+<cell>Nous auons donc lascension droitte de MC. a 11 heures 9′. 32″ de 312.<hi rend="sup">o</hi> 32.′ d'ou ostant le quart occidental de lequateur CA. scauoir</cell>
+<cell>90. 0.</cell></row>
+</table></p>
+<p><table>
+<row>
+<cell>jl restera la descension oblique du point A</cell>
+<cell>222. 30<note n="#6"/>.</cell></row>
+<row>
+<cell>desquels ostant encore le demi Equateur dentre ♈ et ♎</cell>
+<cell>180. 0.</cell></row>
+<row>
+<cell>restera larc de lequateur ♎ A</cell>
+<cell>42. 32.</cell></row>
+<row>
+<cell>auec lequel, et auec leleuation du pole de Paris, on trouuera par calcul ou par les tables ∠ KLO. scauoir ∠ de l'ecliptique sur lhorison ou la hauteur du 90<hi rend="sup">e</hi> degré de lecliptique de</cell>
+<cell>27. 51. 10.″</cell></row>
+<row>
+<cell>et le point de lEcliptique de lhorison occidental A<note n="#7"/> de</cell>
+<cell>12. 5. ⇸</cell></row>
+<row>
+<cell>qui auec 3 signes, donne le 90e degré de lecliptique a</cell>
+<cell>12. 5. ♓.</cell></row>
+<row>
+<cell>lieu de ♄ a oster</cell>
+<cell>27. 2. ♃</cell></row>
+<row>
+<cell>reste larc de lEcliptique depuis ♄. jusques au 90<hi rend="sub">e</hi> degré</cell>
+<cell>45. 3.</cell></row>
+</table></p>
+<p><figure><graphic url="huyg003oeuv06ill27.gif"></graphic></figure></p>
+<p>C'est pourquoy dans cette figure ou HPZO. est le cercle nonagenaire, P. le pole de lEcliptique ♏ ♓, et Z et N. le Zenith et le nadir, qui sont les poles de lhorison. On à le Δ obliquangle PZ ♄. auquel PZ ∥<note n="#8"/> ♓ O. hauteur du 90<hi rend="sup">e</hi> degré est de 27. 51′. 10″. auec P♄. de 90. 21′. par ce quil est composé du quart PQ et de la latitude de ♄. de 0. 21′. auec ∠ compris P. mesuré par larc Q ♓ de 45″. 3′ et jl faut trouuer ∠ a ♄.</p>
+<p>&nbsp;</p>
+<p>1<hi rend="sup">o</hi> au Δ PDZ rectangle en D. on a.</p>
+<p>Comme le rayon / a la Tangente de PZ 27. 51. 10′.</p>
+<p>// Sinus Complement de ∠ P. 45. 3′.</p>
+<p>/ a la Tangente de la base PD. quon trouue de 20<hi rend="sup">o</hi>. 28′. 20″ qu'il faut oster de P ♄. 90. 21′. 0″. et reste la base du 2. Δ scauoir DQ<note n="#9"/>. de 69. 52. 40″.</p>
+<p>Mais comme le Sinus de la base du 2 Δ. / Sinus de la base du 1<hi rend="sup">er</hi>.</p>
+<p>// la tangente de ∠ de la base du 1<hi rend="sup">er</hi>. Δ a la tangente de ∠<note n="#10"/> la base du 2 Δ. Ou repond 20. 27. 40″. pour ∠ a ♄.</p>
+<p>&nbsp;</p>
+<p>Maintenant pour trouuer ∠ B. compris du plan de l'anneau sur le plan de lEcliptique. jl faut resoudre 1<hi rend="sup">nt</hi>. le petit Δ rectangle QHK<note n="#11"/>. auquel ∠ Q. est droit. ∠ ♄. est connu par la precedente de 20. 27′. 40″. auec ⊥<note n="#12"/> Q ♄. scauoir la latitude de ♄ 0. 21′. dou vient ∠ K. de 69. 32′. 20″. et la ⊥ KQ. de 7′. 50″.</p>
+<p>Mais par les donnez le plan de l'anneau coupe lEcliptique</p>
+<p><table>
+<row>
+<cell>en B. a 20. 30′. de ♍<note n="#13"/></cell>
+<cell>ou 5<hi rend="sup">s</hi>. 20<hi rend="sup">o</hi>. 30′.</cell></row>
+<row>
+<cell>Q longitude de ♄ 27. 2 ♑</cell>
+<cell>ou 9. 27. 2</cell></row>
+<row>
+<cell>donc larc de lEcliptique BQ. est 126. 32′</cell>
+<cell>4. 6. 32</cell></row>
+<row>
+<cell>au quel si on adjoute QK</cell>
+<cell>7. 50″. on aura</cell></row>
+<row>
+<cell>pour tout BK</cell>
+<cell>126. 39. 50″.</cell></row>
+</table></p>
+<p>C'est pourquoy au Δ BFK. rectangle en F. par lobseruation du parallelisme du grand diametre de l'anneau a lhorison, nous auons lhypotenuse BK. 126. 39′. 50″. dont le supplement est 53. 20′. 10″. auec le supplement de ∠ BKF 69<hi rend="sup">o</hi>. 32. 20. et partant on trouue ∠ B. 32<hi rend="sup">o</hi>. 0′. pour ljnclination de lanneau sur lEcliptique.</p>
+<p>&nbsp;</p>
+<p>Pour auoir ljnclination du plan du mesme anneau sur le plan de lequateur prenons dans la 1<hi rend="sup">re</hi>. figure le Δ <hi rend="i">h b</hi> ♎ au quel larc de lEcliptique <hi rend="i">b</hi> ♎. est 9. 30′. et ∠ ♎ 23. 31. et ∠ <hi rend="i">b</hi> supplement de ljnclination des plans de lecliptique et de lanneau 148. 0′. C'est pourquoy on trouue ∠ du sommet du 1<hi rend="sup">er</hi>. Δ rectangle <hi rend="i">d b</hi> ♎</p>
+<p><table>
+<row>
+<cell>de</cell>
+<cell>66. 46′. 20″.</cell></row>
+<row>
+<cell>lequel osté de tout ∠ <hi rend="i">b</hi></cell>
+<cell>148. 0. 0.</cell></row>
+<row>
+<cell>Reste</cell>
+<cell>81. 13. 40″.</cell></row>
+</table></p>
+<p>pour ∠ du sommet du 2. Δ <hi rend="i">h b d</hi>. et ensin on trouue pour ∠ <hi rend="i">h</hi>. compris du plan de lanneau sur lequateur 9. 32. 50″.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

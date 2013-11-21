@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1124"/>
+<meta type="date" value="1663-06-23"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg007"/>
+<meta type="senderloc" value="londe002"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1124">
+<div type="opener">
+<p>A <placeName key="londe002">Londres</placeName> ce 23 Juin 1663.</p>
+</div>
+<p>Cellecy vous sera rendue par Monsieur <persName>de Monconis</persName><note n="#1"/> qui est de mes amis, et un fort honnest homme et fort curieux de toutes les belles choses. Il est venu icy de Paris avec le fils<note n="#2"/> de Monsieur le Duc de Luines<note n="#3"/> qu'il accompagnera a ses voiages d'Allemagne et d'Italie, et passant maintenant d'icy en Hollande il m'a priè que je luy donnasse quelque adresse chez nous. Il vous demandera pour veoir ma machine du vuide sans que pourtant il soit besoin de la faire agir, et mesme je croy qu'elle n'est pas trop en estat de cela. Vous pourez outre cela luy monstrer mon horologe a pendule, le cabinet de mon pere et sa bibliotheque, sans oublier dans le cabinet le miroir concave et le dessein de Gendt<note n="#4"/>. Il scaura vous rendre compte de l'estat de l'Academie qui est icy a Gresham Colleg et des experiences que l'on y fait, que nous avons veues
+ensemble<note n="#5"/>. Il a aussi fort connu Divini<note n="#6"/> a Rome, et vous vous souviendrez peut estre qu'il est souvent citè dans le petit livre<note n="#7"/> que le dit Divini escrivit contre moy.</p>
+<p>Je fus voir hier Monsieur <persName>Lilly</persName><note n="#8"/> le peintre et voyant dans son cabinet des portraits qu'il a faits avec du pastel je luy demanday de quoy le sien estoit composè, et il me promit de m'en faire avoir la recepte. Il se sert d'un papier un peu grisatre et n'employe de couleurs que dans le visage et cela encore legerement, soustenant
+que l'autre maniere est trop penible et de moindre grace. Tout ce qu'il fait est fort beau et je tascheray d'en avoir quelque chose pour l'imiter et pour vous le faire veoir a nostre retour.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg007">de Zeelhem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

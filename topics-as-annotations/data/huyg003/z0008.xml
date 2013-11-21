@@ -1,0 +1,26 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0008"/>
+<meta type="date" value="1645-10-30"/>
+<meta type="sender" value="vinn004"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0008">
+<div type="opener">
+<p>Mynheer.</p>
+</div>
+<p>Also ses ofte seven jonge luyden my versocht hebben, om een Collegium Pandectarum onder my te houden, heb ick geraden gevonden, dat U.E. sonen sich daer by souden voegen, dewyle het Collegium Institutionum, 't welck sy hebben, nu ten eynde liep, ende meyne dat het selvige haer vorderlick sal syn. Dit Collegium sal een geheel jaer dueren, ende sal interim met de hulpe Godts door myne directie de jeught cunnen gebracht worden tot een generale kennisse van alle materien, ende bequaemheyt, omme daer van met oordeel ende goede termen te cunnen discoureren. Tot welcken eynde ick voorgenomen heb, ende alrede begonnen haer voor te lesen ende expliceren Theses<note n="#1"/> Treutleri<note n="#2"/>, sulcx ende naede ordre, als deselve zyn geconcipieert, in welcker explicatie ick doorgaens sal blyven by de principia sonder verre te extravageren ende heb haer geraeden, als my oorbaerlick dunckende, dat sy daer by zouden voegen, ende met de selve Theses confereren Paratitla<note n="#3"/> Wesenbecii<note n="#4"/>. Dit zal haer oeffeninge zijn 't mynen huyse, ende om de acht ofte tien dagen sullen wy inde Academie met gesloten deuren in Auditorio nostro Juridico selectam aliquam materiam ex iis, quae explicatae erunt, disputeren, waer van wij alrede een preuve genomen hebben, respondente filio meo<note n="#5"/> et tuis inter alios opponentibus;
+'t welck al met goet façoen is toegegaen. U.E. 't huys comende ['t gunt ick hope eer lange te sullen geschieden, Godt de Heer het voornemen van zyne Hoochheyt zegenende] sal zelfts van haer progres ende toenemen in onse gemeyne studien cunnen oordelen, Hier entusschen sal ick niet naerlaeten alle vlyt ende neersticheyt aen te wenden, omme haer te seconderen, Κ<hi rend="i">αι ϰαλῶς τρέχοντας ὀτρήνειν</hi>. Ende wil hiermede U.E. Mynheer, den Almogenden in genade bevelen.</p>
+<div type="closer">
+<p>In <placeName key="leide001">Leyden</placeName> desen <date>XXX<hi rend="sup">sten</hi> Octobris, <hi rend="sc">xvi</hi><hi rend="sup">c</hi> <hi rend="sc">xlv</hi></date>.</p>
+<p>U.E. Ootmoedige Dienaer <persName key="vinn004">A. Vinnen</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

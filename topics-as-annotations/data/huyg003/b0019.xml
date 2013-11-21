@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0019b"/>
+<meta type="date" value="1646-11-31"/>
+<meta type="sender" value="rene017"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="nl"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="b0019">
+<div type="opener">
+<p>Mijn Heere ende Neve</p>
+</div>
+<p>Met blyschap hebbe jek uwe Ed. Soon<note n="#1"/> ontfangen, ende met geen minder de twee andere Heeren, met de Heere <persName key="rive002">Rivet</persName>.
+Monsieur <persName>van Hilten</persName> heeft van selfs uwe Ed. Soon het voorzitten aende Tafel ghegeven 'twelck hem oock toequam. De Heeren Rivet en de Secretaris Hausman<note n="#2"/> hebben de Collegisten gisteren vergast ende na den eten zyn haerlieden de Statuta so veel hun raecken voorghelesen ende hebben mij daer op de hant gegeven. Monsieur Hulst heeft mij meer avance-gelt uyt uwe Ed. Name aenghetelt als de ordre medebrenght, doch jck zal daer van goede reeckenschap houden. Toecomende Sondach zullen wij de Domestica pietatis et studiorum exercitia aenvangen. Jck zal altyt met een toegenegentheydt op uw Soon acht hebben; Logeert naest aen mijne camer ende mijne Swager Beens. Jck wenschte maer door het timmeren te zijn; alsoo 't selfde ende mij ende 't gheheel collegie wat discommodeert. Het Tractement vande tafel wort bij mij soo aengheleydt dat het de jeught mach ghenoegen, ende Syner Hoogheyt luyster ende hoogh doorluchtich oogenmerck niet te cort doen ende meer andere aentrecken.
+Nopende mijne Theses jn toecomende zal jck alles tot veurcominge van rechtveerdich misnoegen richten, daer toe de heere <persName key="rive002">Rivet</persName> mij een bijzonder ghewicht zal zijn. Uwe Ed. ghelieve dan alles ten besten te helpen duijden. Jck ben wel een oudt predicant, maer een jongh professor, ende jck bidde, soo jck jnt een of t'ander niet moghte haere Hoogheden ghenoegh doen, dat men mij 't selve believe te seggen om mij daer nae te reguleren. Voor de rest de Heere Godt beghenadige Uwe Ed. ende alle de uwe ter salicheydt.</p>
+<div type="closer">
+<p>Uwe Ed. Dienstbereyde Neef, <persName>Renesse</persName> Auriaci Collegii Bredae Regens.</p>
+<p><date>31<note n="#3"/> Novembris 1646</date>.</p>
+<p>Int Collegie van Orangie te <placeName key="breda001">Breda</placeName>.</p>
+</div>
+</div>
+<div type="para">
+<p>Mijnheer Mijnheer <persName key="huyg001">Huygens, Ridder Heere tot Zuylichem</persName> en Raedt en Secretaris van Syne Hoogheydt, Curator vande Illustre Schole en Collegie van Orangiën te Breda 's Graven-Hage.</p>
+</div>
+</body>
+</text>
+</TEI>

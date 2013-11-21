@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0069"/>
+<meta type="date" value="1650-01-05"/>
+<meta type="sender" value="huyg007"/>
+<meta resp="HI" type="recipient" value="huyg003"/>
+<meta type="senderloc" value="genev001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0069">
+<div type="opener">
+<p>Mon Frère.</p>
+<p>A <placeName key="genev001">Geneve</placeName> ce <date>... janv. 1650</date>.</p>
+</div>
+<p>J'aij receu celle que vous m'avez escrite depuis vostre retour de Danemarcq. Vous ne me dites rien de ce que vous ij avez veu. J'espere que vous aurez tenu un
+journal comme j'aij fait depuis le premier jour de mon depart. Nous les lirons ensemble, quand j'ij auraij adjouté celuy d'Italie l'esté proschain, ou il faut que j'aille avant que de revenir. Si vous me rencontriez avec une grande perruque et une grande barbe vous me prendriez pour un autre asseurement. Nous sommes icij a present dans des grosses neiges, qui rendent les grandes pointes des Alpes, que je puis voir de ma chambre terribles a voir. Vous n'en aurez pas veu de si hautes a vostre voijage. On passe le tems gaillardement icij a causer, jouer et veiller, qui veut dire donner des visites apres souper, chose fort usitée icij et mesme par tout en France, dont vous trouveriez les façons de vivre tres differentes, et bien plus estranges que celles de Danemarc.</p>
+<p>On fait icij de très bonnes montres et à bon marché &amp; &amp;.</p>
+<p>J'ay trocqué ma petite aveq un peu de rabat contre une autre qui est à la mode aveq la boete de Cristal de roche tout lice en sorte que l'on voit le mouvement dedans comme si la boete n'estoit que de glace. Le quadrant est esmaillé aveq des belles figures la grandeur de ma monstre est cellecy, vous prendrez bien de plaisir à la voir. Je suis</p>
+<div type="closer">
+<p>Vostre tres affectionne frere et serviteur, <persName key="huyg007">C. Huijgens</persName>.</p>
+</div>
+<p><figure><graphic url="huyg003oeuv02ill169.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

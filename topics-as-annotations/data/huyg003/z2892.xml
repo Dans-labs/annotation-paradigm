@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2892"/>
+<meta type="date" value="1695-03-14"/>
+<meta type="sender" value="hosp010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2892">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le 14 Mars 1695.</p>
+</div>
+<p>Celleci Monsieur est pour vous donner avis qu'aussi-tost que j'ay receu vôtre lettre du 3<hi rend="sup">e</hi> mars je n'ay point manqué d'ecrire à Mr Bernoulli dont j'atens la reponse au premier jour. Ainsi vous pouvez conter que vous serez incessamment eclairci sur cette affaire.</p>
+<p>J'aprens avec plaisir que vous faites imprimer un petit traité philosophique avec la description de vôtre nouvelle horloge<note n="#3"/> que j'ai beaucoup d'impatience de voir estimant infiniment tout ce qui vient de vous.</p>
+<p>Mr <persName key="hart107">Hartsoeker</persName> m'est venu aporter son livre qui est intitulé essay de dioptrique que je n'ai point encore lû, mais sur ce qu'il m'en a dit autre fois je ne suis point content de ses idées sur la phisique. A legard du livre de Mr de la Hire il contient plusieurs petits traitez. Ce qu'il y a de purement mathematique regarde les Epicycloides<note n="#4"/>, il y maltraite fort Mr. <persName key="tsch002">Tchirnhaus</persName> quil reprend sur sa caustique
+circulaire sans faire aucune mention des journaux de leipsic ou cela a deja été fait<note n="#5"/>; de sorte qu'a vous parler franchement je trouve que cela vient un peu tard, d'ailleurs ses demonstrations sont à la maniere des anciens, ce qui les rend longues et ennuyeuses. J'ai resolu pendant mon voyage de la campagne un probleme de mechanique qui me paroit assez curieux, et qui peut estre fort utile, mais comme je l'ai envoyé il y a deja quelque temps à Mr Bernoulli pour etre mis dans les actes de Leipsic<note n="#6"/> je ne vous en dirai rien ici. Cela a donné occasion à Mr Bernoulli de proposer un probleme que voici.</p>
+<p><figure><graphic url="huyg003oeuv10ill223.gif"></graphic></figure></p>
+<p>Trouver dans un plan vertical la courbe ABC, telle que le poids B qui descend librement le long de cette courbe la presse en tous ses points avec la meme force centrifuge: ou ce qui revient au même trouver une courbe DE, telle que le poids B attaché au fil BE enveloppé autour de cette courbe et descendant par sa pesanteur tende toujours avec une egale force le fil BE<note n="#7"/>. J'en ai trouvé sur le champ une solution, qui me donne pour la nature de la courbe ABC en nommant la coupée AF, <hi rend="i">x</hi>; et l'appliquée FB, <hi rend="i">y</hi>; cette equation <hi rend="i">axx</hi>==2<hi rend="i">y</hi><hi rend="sup">3</hi>-5<hi rend="i">ayy</hi>+4<hi rend="i">aay</hi>-<hi rend="i">a</hi><hi rend="sup">3</hi><note n="#8"/>. Je vous enverray, si vous le souhaitez la maniere dont je m'y suis pris.</p>
+<p>Jl y a quelques années que j'avois composé un traité<note n="#9"/> où j'explique tout ce qui regarde le calcul differentiel, et j'avois dessein d'y ajoûter plusieurs methodes pour l'inverse de ce calcul parmi les quelles etoit celle qui m'a donné la quadrature de la feüille de Descartes par rapport à son axe<note n="#10"/>, j'avois dessein aussi de faire voir l'usage de ces deux calculs pour la resolution des questions ou la phisique et mechanique entrent. Mais ayant receu une lettre de Mr Leibnitz<note n="#11"/> par laquelle il me marque qu'il a dessein de donner au public un traité de Scientia infiniti, je m'en abstiendrai n'etant pas juste de prevenir son travail, puisqu'il est l'autheur de ce calcul, et que d'ailleurs il s'en acquittera beaucoup mieux que moi. Je pourai cependant donner ce qui regarde le calcul differentiel parce que cela est achevé, et ne nuira point au livre de Mr Leibniz, et qu'au contraire cela poura servir à le faire entendre plus facilement. Il m'a meme prié fort honnettement de le faire<note n="#12"/>, et dans la suitte, lorsque les ouvrages de Mrs. Leibniz et Neuton auront paru, je pourai peut-estre achever le mien, aussi bien le nombre des
+affaires que j'ai à present m'empesche d'avoir assez de loisir.</p>
+<p>Je vous prie Monsieur de me conserver toujours l'honneur de vôtre amitié et d'être persuadé qu'on ne peut être plus parfaitement que je suis</p>
+<div type="closer">
+<p>vôtre treshumble tresobeissant serviteur <persName key="hosp010">Le M. de l'Hospital</persName>.</p>
+</div>
+<p>Si Mr <persName key="bern071">Bernoulli</persName> accepte le parti que vous luy proposez comme je l'espere cet etablissement me paroissant solide, j'estime que ces Mrs. les Curateurs ne peuvent mieux faire. Car c'est un jeune homme qui a l'esprit fort penetrant et tout ce qu'il faut pour aller bien loin dans les mathematiques.</p>
+</div>
+<div type="para">
+<p>holande
+<lb/>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hugens de Zulichem</persName> Seigneur de Zeelhem int noordeinde naest de Crabte A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

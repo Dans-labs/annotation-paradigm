@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0707"/>
+<meta type="date" value="1660-01-09"/>
+<meta type="sender" value="boul014"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0707">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> le <date>9<hi rend="sup">e</hi> Januier 1660</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>Je trauailleraj demain matin au Genethliaque de cette personne qui ne veut pas estre cognüe; ce que je feray meriteroit bien quelque marque d'estime, comme seroit quelque bijoux des jndes, je ne suis en façon du monde touché d'auarice, &amp; je ne suis pas mercenaire; mais je seray bien aise d'auoir quelque gentillesse que je garderai comme vne faueur receüe.</p>
+<p>Le Sieur Hanet s'en est allé d'icy sans m'aduertir de son depart, ce qui m'a mis en peine. il faut donc attendre son retour afin d'auoir l'horologe, je ne scay pas encores s'il est en cette ville.</p>
+<p>J'ay faict dire a ceux a qui vous auez destiné vos liures &amp; qui sont loing de cette maison qu'ils me vinssent trouuer, &amp; que je leur donnerois chacun leur exemplaire.
+Messieurs <persName key="chan019">Chanut</persName> &amp; <persName key="robe012">de Roberual</persName> ont eu les leur; J'estime grandement ces Messieurs mais comme ils n'ont pas cultiué l'Astronomie je doubte fort quils puissent vous faire d'objection; &amp; sans me vanter je croy que j'ay faict la seule qui se peut faire. Je suspens mon jugement touchant le veritable diametre de ♂. mais il passe 30.″ lors qu'il est perigee. J'ay aujourdhuy escrit en Pologne a Monsieur des Noyers<note n="#1"/> Secretaire de la Reine qui est a Dantzigt, ou toute la Court de Pologne se trouue, &amp; je le prie d'aduertir Monsieur Heuelius que vous attendez response de luy, &amp; que vous vous estonnez de n'en auoir point receu. Il est treslent a faire response, j'en attends de luy il y a pres d'un an.</p>
+<p>Je vous enuoye la figure<note n="#2"/> de l'horologe a pendule commencee par Galilei, tel qu'on me l'a enuoyé de Florence. Je vous enuoyeray cy apres<note n="#3"/> la figure de l'horologe que Monsieur le Grand Duc a dans son vieil palais de Medici dans la
+<figure><graphic url="huyg003oeuv03ill01.gif"></graphic></figure>
+ville de Florence, qui est vn horologe public. par la premiere lettre que j'escriray a Monsieur le Prince Leopold je luy insinueray quelque chose de la response que vous attendez de luy. Je suis de tout mon coeur</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre treshumble &amp; tresobeissant seruiteur <persName key="boul014">Boulliau</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Christian Hugens de Zulichem</persName> A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

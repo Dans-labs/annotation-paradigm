@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2090"/>
+<meta type="date" value="1676-05-24"/>
+<meta type="sender" value="cass021"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2090">
+<div type="opener">
+<p>Monsieur</p>
+</div>
+<p>Apres auoir este chez Monsieur le Resident de Florence pour scauoir si Monsr. <persName key="vivi012">Viuiani</persName> n'auoit pas enuoye un liure pour vous, et ayant prie en son absence Monsr. son frere de faire diligence pour le scauoir, a ce moment Mr. le resident m'enuoye celuycy<note n="#1"/>, qui est signe de Mr. <persName key="vivi012">Viuiani</persName>, qui ne uous auoit pas oblie. Je suis raui Monsr. que uous ayes cette fattisfaction, et que mes soins n'aient pas estez inutiles. Je suhaite toute autre occasion pour tesmoigner que je suis</p>
+<div type="closer">
+<p>Monsieur,
+<lb/>Vostre treshumble et tresobeissant serviteur <persName key="cass021">Cassini</persName>.</p>
+<p>Ce 24 May 1676.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg003">Hughens</persName>.</p>
+</div>
+</body>
+</text>
+</TEI>

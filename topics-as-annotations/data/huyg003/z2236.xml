@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2236"/>
+<meta type="date" value="1680-12-27"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg001"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2236">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 27 Dec. 1680.</p>
+</div>
+<p>Je n'ay rien receu par le dernier ordinaire. J'aurois esté bien aise de voir ce que vous diriez de mes vanteries dont ma derniere lettre estoit pleine<note n="#1"/>. La semaine passée je n'escrivis qu'au frere de Zeelhem<note n="#2"/>, et le priay de vous faire scavoir le bon estat de ma santé, qui continue encore Dieu mercy, à un rheume pres, qui m'a commencè depuis deux jours.</p>
+<p>Il y avoit desià quelque temps que l'on parloit d'une Comete<note n="#3"/>, mais on n'en a rien veu icy jusques a hier au soir vers les 5 heures et demie, lors que le ciel estant devenu fort clair, elle parut d'une grandeur surprenante, avec la queue fort longue et bien marquée. Je n'ay jamais vu de Comete de cette force, et vous pourrez me dire si celle de l'an 1618 luy ressembloit. Il fait beau aujourdhuy, ce qui attirera ce soir une infinitè de monde a l'observatoire, car ils croient qu'on verra bien mieux de la que d'ailleurs, et pretendent que les astronomes doivent rendre raison de ce phenomene, et mesme de ce qu'il signifie. L'on vient desià de me
+consulter de 2 ou 3 endroits, et il ne tiendra qu'a moy de faire accroire aux badauts tout ce que je voudray.</p>
+<p>Pour ce qui est de vostre commission pour Mr. <persName>de la Barre</persName><note n="#4"/>, je ne scay comment faire, puis que j'apprens qu'il se tient tousjours à St. Germain. J'ay pourtant priè un de ses confreres de luy parler de ma part. Ce confrere s'appelle Mr. <persName>Hier</persName> qui joue fort bien du Theorbe et de la basse de Viole. J'esperois de pouvoir avoir quelques pieces de luy, mais il dit de n'en avoir que de <persName key="hotm901">Hotteman</persName><note n="#5"/> et du Sr. Angelo Michieli<note n="#6"/>, et m'asseure que Mr. <persName>la Barre</persName> n'en a point d'autres aussi, et qu'il n'en compose point luy mesme.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg001">de Zulichem</persName> &amp;c. A la Haye.
+<lb/>12.</p>
+</div>
+</body>
+</text>
+</TEI>

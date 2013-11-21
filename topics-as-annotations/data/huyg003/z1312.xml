@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1312"/>
+<meta type="date" value="1665-01-20"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="vlie013"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1312">
+<div type="opener">
+<p><persName key="vlie013">J. Vlitio</persName>.</p>
+<p>20 Januarii.</p>
+</div>
+<p>Excusatio tardi responsi. gratias pro carmine<note n="#1"/>. Pyraemon, male primam syllabum producit. nesciebam astronomum esse. tubis nihil amplius detegitur. cometa
+idem atque unus esse. si de cometis scribam carmen ejus accedet. sed dubito. Si Historiam Cometarum querit inveniet in Almagesto novo Ioannis Baptistae Riccioli.</p>
+</div>
+</body>
+</text>
+</TEI>

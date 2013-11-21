@@ -1,0 +1,33 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2267"/>
+<meta type="date" value="1682"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="roqu005"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="2266"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2267">
+<p>Extrait d'une Lettre de Mr. <persName key="huyg003">Hugens</persName> avec sa réponse à une remarque faite par Mr. <persName key="cata001">l'Abbé de Catelan</persName> contre sa proposition 4 du Traité des centres de Balancement.</p>
+<p>&nbsp;</p>
+<p>J'ay esté surpris de voir qu'on ait attaqué ma Theorie du centre de Balancement, où personne depuis neuf ans qu'elle est imprimée n'avoit trouvé rien à [re] dire: mais ayant consideré la [] refutation [que] Mr. <persName key="cata001">l'Abbé de Catelan</persName> [fait] de ma 4. proprosition, [je n'ay pas apprehendé] qu'elle me fist tort dans le monde. Car pour vous dire en peu de mots [en quoy il se trompe], c'est qu'il veut que s'il y a deux lignes, &amp; encore deux autres de differente proportion que les premieres, [] la somme des deux dernieres ne puisse estre égale à la somme des deux premieres.</p>
+<p>Figurez vous les premieres de 5. &amp; de 10. pieds, &amp; les autres de 3. &amp; de 12. &amp; voyez si la somme des unes aussi bien que des autres ne peut pas estre 15<note n="#2"/>. Pour vous faire entendre que son erreur revient precisément à cela, je me serviray du mesme exemple qu'il propose.</p>
+<p>A &amp; B sont deux poids attachez à une verge ou ligne DB, qu'il faut considerer comme inflexible, &amp; sans pesanteur, &amp; qui puisse tourner librement sur le point D. [C'est là ce que j'appelle un pendule composé des poids A, B. &amp; je dis] que si ce
+<figure><graphic url="huyg003oeuv08ill84.gif"></graphic></figure>
+pendule fait une partie de son balancement, par exemple jusqu'en DFG, &amp; que rencontrant là quelque plan contre lequel il se brise, les deux poids se detachent de la ligne inflexible, &amp; qu'ils tendent chacun avec sa vitesse acquise vers en haut, montant jusqu'ou ils peuvent, comme en L &amp; M [sur des plans inclinez si l'on veut, qui
+touchent les Arcs AF, BG]. Je dis donc que le centre de pesanteur commun des [poids] A, B, montez en L, M, sera à mesme hauteur qu'il estoit en E, devant que le balancement fût commencé.</p>
+<p>Mr. <persName key="cata001">l'Abbé de Catelan</persName> pour prouver la fausseté de cette proposition démontre que les hauteurs où les deux poids détachez sont montez, comme icy NL, OM, sont differentes de celles d'où ils sont descendus sçavoir AH, BI. ce qui est tres vray par la raison qu'il donne, que les unes sont entr'elles [comme les lignes DF, DG, &amp; les autres comme les quarrez de ces lignes]. <hi rend="i">Si l'on divise donc</hi>, dit-il, <hi rend="i">les differentes sommes des unes &amp; des autres par le nombre de ces poids</hi>, c'est à dire, si l'on prend la moitié des lignes LN, MO, &amp; puis la moitié des lignes, AH, BI; <hi rend="i">l'on aura d'un costé la hauteur dont le centre commun de pesanteur est remonté</hi>, <hi rend="i">&amp; de l'autre la hauteur dont ce centre est descendu</hi>. Il est encore vray que par cette division l'on aura ces deux hauteurs; mais je ne demeure pas d'accord que les deux sommes à diviser fussent differentes; &amp; c'est ce que Mr. <persName key="cata001">l'Abbé [de Catelan]</persName> ne pourra pas prouver, ny par consequent que les deux hauteurs trouvées du centre de gravité soient inégales, ainsi qu'il pretend dans sa conclusion: car [bien] que les hauteurs LN, MO soient de proportion [] differente [entre elles] d'avec [les hauteurs] AH, BI, il ne s'ensuit pas que la somme des unes &amp; des autres ne soit la même. []</p>
+<p>Je pourrois remarquer outre cecy encore un autre endroit où Monsieur l'Abbé de Catelan [se trompe]; mais je ne m'y arresteray pas, parce que ce qu'il y avance n'entre point dans ce qu'il rapporte contre moy. Je diray seulement encore un mot touchant son examen Mathematique, [comme il l'appelle du centre d'osciltion qui est rapporté] dans le Journal du 15 Decemb. 1681. où il pretend par lon raisonnement avoir trouvé cette regle generale, [sçavoir] <hi rend="i">qu'il faut diviser par le nombre des parties d'un pendule la somme des racines de leurs distances de l'axe</hi>, <hi rend="i">pour avoir une ligne droite qui soit la mesure du balancement de ce pendule</hi>, <hi rend="i">de laquelle par consequent le quarré ou la troisième proportionelle sera la distance d'entre l'axe &amp; le centre d'oscillation</hi>.</p>
+<p><figure><graphic url="huyg003oeuv08ill81.gif"></graphic></figure></p>
+<p>Sans examiner autrement cette regle, il suffit pour en faire voir la fausseté, que suivant [ce principe] le centre de balancement de deux lignes pesantes, comme AB, BC, attachées ensemble en quelque angle que ce soit &amp; suspenduës en B, auroient toûjours un mesme centre d'oscillation, &amp; par consequent les balancemens également vistes, comme [verront aisément] ceux qui entendent tant soit peu cette matiere. Mais ils verront aussi que cette égalité de balancemens ne scauroit avoir lieu; parce qu'à la fin les deux lignes estant jointes en une ligne droite <hi rend="i">a</hi> B<hi rend="i">c</hi>, elles [auroient encore] les balancemens [de la mesme vitesse] qu'estant jointes en ABC; au lieu que la ligne
+droite ne fait point de balancemens estant suspenduë par son milieu, ou qu'elle les fait pour ainsi dire, d'une lenteur infinie.</p>
+<p>Je crois au reste que Mr. <persName key="cata001">l'Abbé de Catelan</persName> auroit bien de la peine à déterminer par sa regle le centre de balancement dans quelques figures particulieres mesme [des] plus simples; mais s'il en peut venir à bout, il trouvera que jamais sa Theorie ne s'accordera avec l'experience, &amp; que la mienne y conviendra toûjours dans la derniere precision, pourveu que l'experience soit faite sans erreur.</p>
+<p>[Je ne puis omettre à cette occasion de vous marquer] que le P. de Chales [dans quelque endroit] de son grand Cours Mathematique en rapportant une experience qu'il a faite d'un pendule composé de deux poids, sans mettre en compte, comme il devoit, la pesanteur du bâton où il les avoit attachez, accuse à tort les regles que j'ay données pour le centre de balancement, de ce qu'elles ne répondent pas à ce qu'il a trouvé en effet [].</p>
+</div>
+</body>
+</text>
+</TEI>

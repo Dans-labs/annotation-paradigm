@@ -1,0 +1,37 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1744"/>
+<meta type="date" value="1669-06-26"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="olde010"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1744">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 26 juin 1669.</p>
+<p>Monsieur,</p>
+</div>
+<p>J'ay encore a vous remercier de l'Exemplaire de vostre dernier Journal<note n="#1"/>, ou j'ay trouuè la Traduction de mes Instructions<note n="#2"/> pour les Longitudes, dans les quelles vos Messieurs ont bien fait d'ometre certaine demonstration assez longue qui pourroit embarrasser les Pilotes, et la forme du journal pour les horologes, qu'ils ont adjoustée, remplit plus utilement cette place. Je suis marry que dans le 5<hi rend="sup">e</hi> article page 943<note n="#3"/> il s'est glissè une faute a l'endroit ou il est dit <hi rend="i">And this is of that importance in the finding out of Longitudes</hi>. Ce qui ne devoit pas se raporter a l'abaissement du petit poids du Pendule, mais a la necessitè de l'Equation du temps, comme j'avois fait. Dans une autre Edition, il sera bon de rajuster ce passage.</p>
+<p>Je fus fort aise que Milord Brouncker ait pris la peine d'examiner mes demonstrations des Regles de la Percussion<note n="#4"/> et l'approbation qu'il leur a donnè m'oblige d'autant plus, que je trouve peu de personnes capables d'en bien juger quoy qu'on ne m'ait jamais sceu faire aucune opposition raisonnable.</p>
+<p>J'ay veu un dessein qu'on a envoiè à Monsieur de Carcavy de l'application du pendule a une montre de poche, comme l'a inventée Monsieur Hook. Il paroit qu'il prend la pendule par en bas, comme je me l'estois imaginè dont je crains tousjours qu'il n'arrive quelque inegalitè car la raison qu'on allegue au contraire, scavoir la petitesse des vibrations, ne me satisfait pas puis que c'est cela mesme qui rend le pendule plus sensible a l'impression qu'y fait la montre. Mais l'experience dira ce qui en est en faisant veoir comment deux tels pendules s'accorderont ensemble.</p>
+<p>J'ay veu dans une lettre<note n="#5"/> de Monsieur du Hamel qu'il faissoit mention d'une autre invention d'horologe de Monsieur Hook, qui se mouuoit a l'aide d'une pierre d'aimant<note n="#6"/>: s'il n'enploie point d'autre moteur, ce seroit une maniere de mouuement perpetuel et ce seroit une invention admirable. Je vous prie de m'en mander quelque nouuelle en tant qu'il est permis d'en scavoir.</p>
+<p>En attendant les essais de vos imprimeurs je ne vous diray donc pas encore (puis que vous ne le voulez pas) l'invention de la miene, qui pourtant par l'echantillon mesme que je vous ay envoiè, en y prenant bien garde se peut decouurir assez facilement et je crois que celle de Monsieur <persName key="pett901">Petty</persName> ne s'en eloignera guere, a juger par les effects qu'il en promet. J'ay voulu essaier d'imprimer aussi des figures de Geometrie par cette maniere, ce qui a reussi tellement quellement comme vous verrez par l'Exemplaire<note n="#7"/> que je vous envoie qui contient une Construction d'un probleme<note n="#8"/> que je trouvay ces jours passez et que nos Messieurs ont jugè assez heureuse.</p>
+<p>Je seray bien aise de scavoir comment aura reussi le verre de 60 pieds. Je ne scay qui vous a pu mander que j'avois entrepris quelque chose de considerable en cette matiere. Il est vray que je fais travailler depuis quelques semaines mais je ne me propose encore rien si non de faire des verres exactement spheriques sans que le poliment en gaste la figure, ce qui n'est pas une chose bien aisée. mais outre cette difficultè il y en a une autre aussi grande qui est le defaut de la matiere du verre quand on vient a ces grandes longueurs.</p>
+<p>On apporta hier ceans un grand miroir concave qui a estè fait a Lion, et dont le Roy a desia vu les effects avec grande satisfaction. L'ouurier en a vendu cy devant un semblable au Roy de Dannemarc, qui pourtant n'estoit que de 28 pouces au lieu que cettui cy est a 34. Il fond toute sorte de metaux et le fer mesme en moins d'une minute, et les faits degouter. Il scatrifie la brique en aussi peu de
+temps, et aux bois tant verd que sec il met la flame en un moment. J'ay impatience de veoir toutes ces choses moy mesme mais le temps couuert ne le permettra pas d'aujourdhuy.</p>
+<p>J'ay fait voir a Monsieur Cassini ce que vous me mandastes dans votre penultieme<note n="#9"/> de l'estime que ceux de la Societè Royale font de son merite, laquelle assurement est fort bien fondée, et je scay qu'elle se confirmera de plus en plus. Il seroit a souhaiter que l'Observatoire fust en estat pour l'Execution de nos desseins, mais la grandeur du bastiment ne souffre pas une plus prompte elevation<note n="#10"/>.</p>
+<p>Vous trouuerez le livre<note n="#11"/> de Redi tres curieux, sans que pourtant il n'ait encore espuisè toute cette matiere dont la question principale, scavoir si nuls insectes ne naissent de corruption, n'y est pas suffisamment esclaircie, quoy que beaucoup mieux qu'elle n'estoit jusqu'icy.</p>
+<p>Monsieur Cassini nous a montrè un exemplaire M.S. du livre<note n="#12"/> de <persName key="malp001">Malpighi</persName> et si on ne l'eust imprimée chez vous, on en auroit pris tres volontiers la peine icy, car l'ouvrage paroit fort beau et curieux.</p>
+<div type="closer">
+<p>Je suis de tout mon coeur
+<lb/>Monsieur
+<lb/>Vostre tres humble et tres affectionnè seruiteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

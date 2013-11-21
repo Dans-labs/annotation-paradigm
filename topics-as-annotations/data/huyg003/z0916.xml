@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0916"/>
+<meta type="date" value="1661-11-04"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="mora019"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0916">
+<div type="opener">
+<p>A <placeName key="denha004">la Haye</placeName>, ce <date>4 Novembre 1661</date>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'ay receu les 2 liures<note n="#1"/> qu'il vous a plu m'envoier par Monsieur Swan, et je commence d'auoir une bibliotheque entiere de ceux que vous me donnez. Dans le Dialogue de Monsieur <persName key="hobb001">Hobbes</persName><note n="#2"/> je ne trouue rien de solide, mais seulement de pures visions. C'est par faute d'esprit ou par ce qu'il se plait à contredire qu'il ne recoit pas les veritables raisons des effects du vuide, qui sont dans le liure de Monsieur <persName key="boyl001">Boile</persName>. Quand a ce qu'il adjouste de la duplication du cube, je ne l'ay pas voulu regarder par ce que je scay demonstratiuement que la chose est impossible.
+Et d'ailleurs il y a long temps qu'en matiere de Geometrie Monsieur <persName key="hobb001">Hobbes</persName> a perdu tout credit aupres de moy. Le discours de la vegetation<note n="#3"/> est docte eloquent et plaisant a lire, a cause des exemples que l'autheur raconte. Il penetre pourtant moins profondement dans le secret de la nature, que l'on se promet d'abord. Car on croit qu'on va tout scavoir, jusqu'aux moindres particularitez. Dans l'histoire de la febue, je m'estonne qu'il n'a pas remarquè qu'il n'y a qu'un petit bouton ou germe d'ou naist toute la plante, et que le reste du corps ne pousse rien en dehors, mais s'ouure seulement en deux, et pourrit peu a peu, quoyque apparemment il contribue aussi a la vegetation ce que l'on pourroit experimenter, si devant que de mettre la febue en terre, on en couppoit quelque partie. Il ne parle pas aussi de la maniere dont les plantes et les arbres attirent l'humeur de la terre, et comment en cela leur sert le froid de la nuict, qui en cette matiere est une consideration de consequence.</p>
+<p>Le different entre Monsieur <persName key="fren024">Frenicle</persName> et moy n'est pas touchant la forme de Saturne, car il tient la mesme que moy, mais touchant le mouuement. Et partant je ne comprens pas ce que vous dites que Monsieur Wren auroit eu cy deuant la mesme opinion que luy, car si je m'en souuiens bien ce n'estoit pas l'hypothese de Monsieur Wren que Saturne estoit entourè d'un anneau mais qu'il auoit deux anses attachées des deux costez. mais quant au mouuement de balancement il se l'estoit imaginè de mesme que fait l'autre maintenant. Monsieur Frenicle m'a escrit depuis une longue lettre<note n="#4"/> ou il deduit son pretendu systeme, et je luy ay fait response, mais mon frere, à qui j'ay donnè la lettre<note n="#5"/> estant allè a Fontaineblau avec mon pere, sans s'arrester a Paris, ne la luy aura pas encore deliurée. Ma machine n'est pas encore en estat, la cavitè du cylindre n'ayant pas estè faite assez exactement, ce que je fais corriger maintenant. Faute de bons ouuriers et entendus, l'on rencontre cà et là quelques difficultez, mais je me suis proposè fermement d'en venir à bout. Demandez je vous prie a Monsieur <persName key="boyl001">Boile</persName> si la pièce 44 dans sa figure est seulement de bois, et s'il ne trouueroit pas mieux qu'elle fut de cuivre, parce que le bois est suject a se retirer et devenir tantost plus gros, tantost moins: Puis que vous voulez profiter de mes essais en ce que j'apporteray de changement dans ma construction il est juste que je profite aussi des vostres, et que vous ne me cachiez pas les fautes et inconveniens qui pourroient estre en la machine de Monsieur <persName key="boyl001">Boile</persName>, et qu'il croit
+estre corrigibles. Quoy qu'il pourroit dire que je luy ay desia assez d'obligation de ce qu'il en a voulu donner une description si pertinente. L'on a reimprimè icy la version latine<note n="#6"/> de son liure<note n="#7"/> en 12<hi rend="sup">o</hi>. J'attends auec impatience le Chymiste sceptique du quel vous dites tant de bien, et je ne m'en promettrois pas moins, quand vous ne me le diriez point. Quelle autre impression estoit-ce que vous auez trouuée de mon petit liure? Nest-ce pas l'edition Romaine de la Dissertation de Divini<note n="#8"/> que vous voulez dire, ou ma response n'est pas adjoustée? Ou seroit-ce celle<note n="#9"/> qu'on a fait a Florence, car on y a reimprimè ma dite response, mais apres y auoir changè quelque chose.</p>
+<p>Je vous prie de me le faire scauoir, et de croire que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres obeissant serviteur <persName key="huyg003">Chr. Hugens de Zulichem</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

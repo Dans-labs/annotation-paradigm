@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0509"/>
+<meta type="date" value="1658-08-25"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="haarl001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0509">
+<div type="opener">
+<p><placeName key="haarl001">Haerlem</placeName><note n="#1"/> le 25 Aoust 1658.</p>
+<p>Mon frère</p>
+</div>
+<p>Je me suis engagé de parole de faire auoir un des livres Flamands<note n="#2"/> de mon Pere à une personne d'icy, à qui je ne l'ay pû aucunement refuser, je pretends de luy donner l'exemplaire qui m'est deû, en vertu de la lettre de dedication; mais d'autant qu'il seroit trop long temps avant qu'il pourroit estre relié et envoyé icy, je
+vous prie de me faire la faveur de m'envoyer le vostre, soubs promesse que je vous en feray auoir un autre des aussi tost que je seray de retour. Vous m'obligerez beaucoup, car je serois fort marry d'estre reduit à manquer de parole, comme je vous feray bien comprendre apres. Je vous prie de m'envoyer ce livre par les Chariots d'Haerlem qui partent demain au soir; ou enfin le plus tost que pourrez, car je seray encore icy jusques à Samedy. I'ay entre les mains vostre Wint-roer, apres avoir<note n="#3"/> tout une matinée ce vieil Allemand, qui est malade à present. Il me raccomoda tout aussi tost celuy de Monsieur <persName>Lyere</persName> en nestoyant et graissant un peu le cuir de la pompe, qui estoit trop dur et sec. Adieu je vous prie de me faire auoir ce livre. J'espere que ma Soeur n'aura pas oublié d'envoyer mon linge avec celuy de mon Pere.</p>
+<p>&nbsp;</p>
+<p>Il faut adresser le paquet à l'hostellerie <hi rend="i">van't Gulde Vlies</hi> et non pas à la maison de Monsieur <persName>d'OutCaspel</persName><note n="#4"/>, pour bonnes raisons.</p>
+</div>
+<div type="para">
+<p>Mijn Heere Mijn Heere <persName key="huyg003">Christiaen Huijgens</persName> ten huijse van Heere <persName key="huyg001">van Zuijlichem</persName> Jn s'Gravenhaghe.
+<lb/>Port Cito Cito</p>
+</div>
+<p>Dit is het merck van Confrater Johanna<note n="#5"/>.</p>
+<p>Brengher deses is een dienaer van Joffrouw Jean Jans die je het paquetje wel mede nemen sal<note n="#6"/>.</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,28 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1634"/>
+<meta type="date" value="1668-04-06"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1634">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 6 Avril 1668.</p>
+</div>
+<p>J'ay fait marchè lundy passè avec le charron<note n="#1"/> et l'on travaille a present au train de ma Cariole, c'est pourquoy je vous prie de ne me laisser rien ignorer de ce que l'experience vous apprendra. Je feray encore faire des flesches courtes pour suspendre ma chaise, mais je pretens que les mesmes roues et l'aissieu me serviront aussi a cette espreuve, parce qu'il importe a la douceur que les roues soient escartees l'une de l'autre, a quoy peut estre vous n'avez pas songè, car si on les approchoit autant que peut souffrir la chaise, les secousses a costè seroient beaucoup plus
+grandes que lors qu'elles seront bien eloignees, dont vous comprendrez aisement la raison sans que je vous la dise. Mandez moy si vos couroies sont environ comme celles des soupentes de carosse, et si estant simples, elles seront assez fortes pour la cariole a deux personnes. mes flesches seront de deux pieces par ce qu'il y auroit trop de peine a ce que dit le charron d'en trouuer de courbees comme il est requis car de les faire courber, ils n'y entendent rien. I'ay fait marchè pour 20 escus, est ce cher ou non?</p>
+<p>N'oubliez pas de m'aviser de la recepte des livres<note n="#2"/> dont je vous escrivis dernierement.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Huygens de Zuylichem</persName>.
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

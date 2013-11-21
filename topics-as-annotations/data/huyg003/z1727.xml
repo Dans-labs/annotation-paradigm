@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1727"/>
+<meta type="date" value="1669-04-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1727">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 19 Avril 1669.</p>
+</div>
+<p>Je suis marry qu'il ne se trouue point d'autre voye, que cette longue de Rouën, pour m'envoier le Tè. J'espere qu'au moins il sera bouchè comme il
+faut, afin qu'il soit trouuè meilleur en arrivant que celuy que j'eus il y a 2 ans.</p>
+<p>Je vous envoie la quitance de ma demie annee<note n="#1"/> pour satisfaire a vostre remboursement, il me semble qu'il y restoit<note n="#2"/> encore quelque 16 ou 20 francs a payer a l'horologer<note n="#3"/>, ce que le frere de Zeelhem scaura vous dire, et ainsi l'ayant satisfait vous ne me serez redevable que de 8 ℔ 11 S. J'avois presque tenu perdus les 100 escus que jay payez de cette horologe<note n="#4"/>, mais j'ay maintenant esperance certaine<note n="#5"/> de les ravoir et je les attens dans peu de jours.</p>
+<p>Je vous prie de vous informer au plustost et de me mander par le premier ordinaire si le chariot de poste qui partoit de Naerden pour plusieurs villes d'Allemaigne subsiste encore, et que je puisse en ce cas avoir l'imprime qu'on a fait a Amsterdam ou il est declarè quels jours il part; en quels lieux il va, et ce que chaque place couste. Ne croiez pas que j'aye dessein de m'en aller par cette route, c'est pour un de mes amis que je vous fais la demande, et je vous prie de ne point differer d'y satisfaire.</p>
+<p>Je vous souhaite bon succes a vos sollicitations et principalement a celle pour Flessingue, qui me paroit plus importante que l'autre, mais il y aura assurement bien de gens qui la traverseront. Un bon mariage seroit un aussi heureux avancement pour vous qu'aucun de ces deux là. Je me souviens qu'autrefois vous estiez fort resolu de l'entreprendre, et cependant je n'entens plus parler de rien. Ce deffunct possesseur de 2 millions n'a t il point laissè de fille a marier? Ce petit Busero n'a pas mal fait ses affaires, et l'on me dit que son cadet vient de reussir encore mieux en Zelande. Je n'ay pas de temps pour escrire a Mon Pere. Si vous voyez le Baron de Nieulant<note n="#6"/> vous pouvez luy promettre ma response<note n="#7"/> dans la huictaine.</p>
+<p>Vous n'aurez pas oubliè de mettre le livre<note n="#8"/> de Sinclarus<note n="#9"/> avec la boete de Tè.</p>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg008">L. Hugens de Zulichem</persName>
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

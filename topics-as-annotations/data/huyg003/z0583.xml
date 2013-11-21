@@ -1,0 +1,35 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0583"/>
+<meta type="date" value="1659-02-07"/>
+<meta type="sender" value="carc010"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0583">
+<div type="opener">
+<p>de <placeName key="parij001">Paris</placeName> ce <date>7<hi rend="sup">e</hi> febrier. 1659</date>.</p>
+<p>Monsieur.</p>
+</div>
+<p>Je receus seulement auanthyer la lettre que vous m'auez fait l'honneur de m'escrire du 16<hi rend="sup">e</hi> du moys passé, Et suis extremement marry de n'auoir point veu celles que vous auez cy deuant adressé à Monsieur Boulliaud<note n="#1"/>, vn uoyage que J'ay fait en Anjou durant quelques moys auec Monsieur le Duc de liencourt en sera peut estre la cause, de mesme que de n'auoir point receu le liure<note n="#2"/> que vous auez eu la bonté de m'enuoyer que J'ay veu entre les mains de Monsieur le Duc de luynes, mais qui ne m'a point encore esté rendu, ce que ie crois que uous me permettrez de vous remarquer, non seulement à cause que vous me temoignez desirer de scauoir si ceux a qui vous l'auiez adressé se sont acquittez de ce que vous leur auiez commis, mais aussy parce que J'estime infiniment tout ce qui vient de uostre part.</p>
+<p>Aussi tost que vostre lettre m'a esté rendue Je l'ay fait uoir a Monsieur Pascal, Et si sa santé luy eust donné un peu plus de commodité il y auroit luy mesme respondu plus amplement. Je ne luy ay point fait de reserue de l'esgalité de la ligne parabolique auec la droitte, suiuant vos suppositions, parce que Monsieur Auzoult nous auoit dit la mesme chose il y a plus d'un moys, Et il s'est rencontré tout justement dans la mesme uoye que vous auez suiui, peut estre que Monsieur Mylon vous en aura escrit<note n="#3"/> par le dernier ordinaire, Pour ce qui est de vos comparaisons des conoides et des spheroides, Je ne scaurois Monsieur vous faire paroistre dans
+cette lettre l'estime qu'en fait Monsieur Pascal, qui m'a prié de vous asseurer de son tres humble seruice, et du respect tres particulier qu'il a pour tout ce qui vient de vous, ses principes l'on conduit à trouuer la mesure conuexe du conoide parabolique, ainsi que vous uerrez par son escrit<note n="#4"/>, mais il n'a pas encore celle du spheroide, Et ce que vous proposez de l'un et de l'autre est si beau et si elegant, que ne croyant pas le pouuoir mieux rencontrer, il attend que vous nous ferez la grace de nous l'enuoyer, Je vous supplie aussy tres humblement me mander par quelle uoye plus promte Je pourray vous faire tenir les solutions de tout ce qui a esté proposé et promis par lanonyme, qui est acheué d'imprimer<note n="#5"/> il y a desia quelque tems, mais que celuy<note n="#6"/> dont il est parlé dans la suitte de l'histoire de la roulette et dont uous verrez encore quelque chose dans une nouuelle addition<note n="#7"/> a empesché qu'on ne publiat si tost, Je ne l'aurois pas nommé parce que ie l'auois promis, mais puis qu'il s'est fait connoistre luymesme par un imprimé<note n="#8"/> exprez de la cheute des graues vous n'aurez qu'a prendre la peyne de le lire, Je ne scay s'il a du genie, mail il est si obscur et si embarassé qu'on a de la peyne à s'en desmesler, et l'anonyme n'en dit pour tout rien davantage que ce que uous verrez dans cette petite addition.</p>
+<p>le traitté qui contient la<note n="#9"/> solutions de nos problesmes est un peu gros, parce que J'ay priè Monsieur Dettonuille qui est le nom que prend l'anonyme d'y mettre ses methodes un peu au long et de n'enuier pas<note n="#10"/> autres (comm'on fait les anciens) de trouuer plusieurs belles choses par les mesmes principes.</p>
+<p>J'ay encore obtenu de luy d'y joindre quelques autres demonstrations qui ne nous desplairont pas, et entre autres celle de l'esgalité de la ligne parabolique auec la spirale <hi rend="i">more veterum</hi><note n="#11"/>, ce qu'il a fait tant a cause de quelque contestation qui est
+arriuce à l'occasion de quelques uns qui la faisoyent esgale à une circonference de cercle, que parce qu'on n'en a rien demonstré ny mesme esnoncé que par les mouuements composez, qui ne sont pas si faciles pour quelques uns à estre reduits à cette maniere des anciens que ce qui se traitte par les indiuisibles,</p>
+<p>Monsieur Auzoult a aussy pensé aux questions de l'anonyme en ce qui concerne la Comparaison des surfaces et des lignes de la roulette et de ces portions seulement, car pour les centres des grauitès et demi solides la chose luy a paru trop difficile, Voicy son enoncé, (posterieur toutefois a celuy de l'anonyme) des lignes cycloidales.</p>
+<p>linea cuiuscumque trochoidis est aequalis peripheriae ellipsis, cuius axis maior est ad minorem, ut summa basis et peripheriae circuli genitoris ad earum differentiam. Et axis maior est aequalis summae diametrorum horum circulorum<note n="#12"/>.</p>
+<p>Cette enontiation comprend la roulette ordinaire en supposant que le petit axe s'esuanouisse, ou soit esgal a rien, car en ce cas le grand axe repeté doit passer pour le contour de l'ellipse, et la ligne droitte, dans cette uniuersalité, est une des especes d'ellipse.</p>
+<p>Je vous ferez des excuses, Monsieur, d'une si longue lettre mais c'est pour obeir a une partie de ce que vous m'auez ordonné, et Je seray raui qu'il vous plaise me faire naistre quelque autre occasion ou ie puisse vous tesmoigner mes respects, et vous asseurer que ie seray toute ma vie</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="carc010">de Carcavy</persName>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

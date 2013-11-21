@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2391"/>
+<meta type="date" value="1685-08-13"/>
+<meta type="sender" value="huyg007"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="diere001"/>
+<meta type="recipientloc" value="amste001"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2391">
+<div type="opener">
+<p>Dieren le 13. d'Aoust 1685.</p>
+</div>
+<p>J'attendois quelque reponse et quelque information sur le contenu de ma precedente<note n="#1"/> mais j'apprens par ce que m'escrit ma femme que demain vous partez pour Amsterdam. Elle adjouste que la forme de cuivre venant du moulin s'estoit trouvee avoir a peu pres le creux qu'il luy falloit ce que je souhaitte fort d'entendre de vous avec un peu plus de particularités. Cependant c'est un bonheur qu'il en est ainsi car sans cela je croy qu'il y auroit eu bien de la façon a la perfectionner. Il me tardera de scavoir qu'elle ait passé par l'epreuve des pierres bleues.</p>
+<p>J'espere qu'à Amsterdam vous tascherez de scavoir qui est cet homme là dont on nous a parlé qui travaille luy mesme et monstre a travailler à d'autres. Je voudrois qu'il en sceut assez pour que l'on pust luy adresser les gens qui demandent d'achepter des Lunettes de petite longueur.</p>
+<p>Je vous prie de m'achepter a Amsterdam huict ou dix bonnes et grandes esponges. A la Haye on les paye le triple de ce qu'elles constent là.</p>
+<p>Dans trois jours nous avons appris icy la mort de trois personnes de connoissance
+qui sont mistris Walsingham<note n="#2"/>, Monsieur <persName>de Geldermalsem</persName><note n="#3"/> et Milord Arlington<note n="#4"/>.</p>
+<p>Adieu j'attends de vos nouvelles apres vostre retour, je m'imagine que vous estes a Amsterdam pour parler a Mr. <persName key="hudd002">Hudde</persName> des Orloges<note n="#5"/>.</p>
+<p>Oyen<note n="#6"/> est encore couru a Dunquerque avec Ouwerkerck et d'autres, quand il sera de retour il faut un peu le presser, afin qu'il nous procure le verre d'Angleterre. Ne l'oubliez pas.</p>
+</div>
+<div type="para">
+<p>Mijn Heer
+<lb/>Mijn Heer <persName key="huyg003">Christiaen Huijgens</persName>, int heeren logement tot Amsterdam.</p>
+</div>
+</body>
+</text>
+</TEI>

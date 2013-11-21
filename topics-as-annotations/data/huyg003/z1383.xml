@@ -1,0 +1,125 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1383"/>
+<meta type="date" value="1665-03"/>
+<meta type="sender" value="chai005"/>
+<meta type="recipient" value="bert062"/>
+<meta type="senderloc" value="aixla901"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+<meta type="link" value="1376"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1383">
+<div type="comment">
+<p>Extrait d'une autre Lettre escritte d'Aix le 31 mars 1665 au Reverend Pere <persName key="bert062">Bertet</persName>.</p>
+</div>
+<p>Le 27 du courant vers les 4. heures du matin ie m'apperceus d'vne nouuelle Comete; sa teste paroist plus solide que celle de la precedente; son diametre est a peu prez egal a celuy de ♃, sa couleur est comme d'un fer rouge, elle est entourée comme d'une cheuelure fort deliée; sa queue s'eslargit comme vne queue d'Arondelle, et par vn angle d'enuiron 45 degrez, elle ne paroist pas longue, et la Lune d'un costé et l'Aurore de lautre ne la diminuent pas peu ce semble; Voici l'obseruation exacte de son lieu et de son mouuement.</p>
+<p>Die 27 Martii 1665 Aquissextiis</p>
+<p><table>
+<row>
+<cell cols="2" role="header"></cell>
+<cell role="header">Gr. m′</cell>
+</row>
+<row>
+<cell cols="2">Cometa distabat a Lucida Vulturis seu in Scapulis Aquilae<note n="#1"/></cell>
+<cell>10-4′</cell>
+</row>
+<row>
+<cell cols="2">Et a brachio sinistro seu manu Antinoi<note n="#2"/></cell>
+<cell>5-5′</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 28 hora 4<hi rend="sup">a</hi> horologii</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2">Cometa distabat a Lucida Vulturis<note n="#3"/></cell>
+<cell>11-12′</cell>
+</row>
+<row>
+<cell cols="2">cuius altitudo tunc erat</cell>
+<cell>39-35′</cell>
+</row>
+<row>
+<cell cols="2">Distabat etiam a manu Antinoi</cell>
+<cell>7-36′</cell>
+</row>
+<row>
+<cell cols="2">Cauda tendebat ad brachium dextrum Antinoi.</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2">Cette Comete paroist fort bien a trauers le Telescope.</cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 29. hora 4.50′ ante meridiem.</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2">Cometa distabat a Lucida Vulturis<note n="#4"/></cell>
+<cell>13-14′</cell>
+</row>
+<row>
+<cell cols="2">et a manu Antinoi<note n="#5"/></cell>
+<cell>11-36′</cell>
+</row>
+<row>
+<cell cols="2">et ab ore Pegasi<note n="#6"/></cell>
+<cell>14-51′</cell>
+</row>
+<row>
+<cell cols="2">Tunc altitudo Lucidae Vulturis<note n="#7"/></cell>
+<cell>45-35′</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 30. hora 4.40′</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2">Cometa distabat a Lucida Vulturis<note n="#8"/></cell>
+<cell>16-1′</cell>
+</row>
+<row>
+<cell cols="2">et a manu Antinoi<note n="#9"/></cell>
+<cell>14-3′</cell>
+</row>
+<row>
+<cell cols="2">et ab ore Pegasi<note n="#10"/></cell>
+<cell>11-52′</cell>
+</row>
+</table></p>
+<p><table>
+<row>
+<cell cols="2">Tunc alta erat Lucida Vulturis<note n="#11"/></cell>
+<cell>43-1′</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Die 31a</cell>
+<cell></cell>
+</row>
+<row>
+<cell cols="2">Cometa distabat a Lucida Vulturis<note n="#12"/></cell>
+<cell>19-0′</cell>
+</row>
+<row>
+<cell cols="2">et ab ore Pegasi<note n="#13"/></cell>
+<cell>8-35′</cell>
+</row>
+<row>
+<cell></cell>
+<cell>Plura per nubos obseruare non licuit.</cell>
+<cell></cell>
+</row>
+</table></p>
+<p><figure><graphic url="huyg003oeuv05ill29.gif"></graphic></figure></p>
+</div>
+</body>
+</text>
+</TEI>

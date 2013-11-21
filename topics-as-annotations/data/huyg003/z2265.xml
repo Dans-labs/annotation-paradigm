@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2265"/>
+<meta type="date" value="1682-05-07"/>
+<meta type="sender" value="roqu005"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2265">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 7 Maij 1682.</p>
+<p>Monsieur</p>
+</div>
+<p>Jay receu vostre derniere lettre avec autant de joye que lautre m'auoit causé de surprise, je suis bien aise que vous voyez par là que mon attachement ne me permettera jamais de rien faire qui vous pust causer la moindre peine, je ne manqueray pas comme vous me le marquez de desabuser le publiq, mais je suis bien aise de scauoir de quelle maniere il vous plaist que j'en vse auec l'Abbé Catelan, je lay veu là dessus, il m'a protesté n'auoir aucune part a cette friponerie, et qu'il ne pouuoit pas mesme deuiner de quelle maniere elle auoit pu se faire, amoins que cet hollandois qui nous apporta il y a quelque tems ces microscopes<note n="#1"/>, aqui il auoit donné vne copie de son escrit ne Leust fait inserer à Amsterdam dans le journal, sans Luy en rien communiquer croyant peutestre luy faire plaisir, il ma dit d'en vser comme je jugerois a propos pour desabuser le public et vous rendre justice. Il voudroit que je donnasse vn journal extraordinaire ou je misse auec vostre reponse son escrit, qu'il m'a apporté, et que par le commencement que vous m'auez marqué dans vostre lettre, je comprens bien estre le mesme que celuy qui a été imprimé a Amsterdam, jl m'a juré l'auoir fait voir a Mr. <persName>de La hire</persName>, mais il ne m'a pas dit sa reponse; vostre pensée de punir les Libraires dAmsterdam qui en vsent auec cette friponnerie sans aucun priuilege est admirable, et merite bien destre mise en execution, dans le credit que vous auez à la haye Mons. vous nauez besoing de personne pour Leur faire deffendre de Limprimer, mais si vous jugiez à propos que je prisse de là
+occasion de faire demander par Mr. <persName>DAuaux</persName><note n="#2"/> vn Priuilege a M<hi rend="sup">rs</hi> Les Estats je ne doute pas qu'auec vostre appuij je n'en vinse facilement à bout, mes amis m'auoint mesme deja donné ce conseil depuis longtems, je ne vouderois pas vn privilege qui empeschast absolument limpression du journal en hollande, parceque je ne croy pas quil fust possible de lempescher, mais je demanderois qu'il n'y eust que le seul libraire dAmsterdam, a qui je cederois mon priuilege qui pust limprimer, et qui estant obligé de le faire sur la coppie que je luy enuoyrois, seroit toujours obligé de repondre en son priué nom de tout ce qui sy trouueroit contraire ou non conforme a ce que j'aurois fait imprimer à Paris, je croijs Mons<hi rend="sup">r</hi> qu'à moins de cette precaution on ne sera jamais à couuert de leur friponerie. vous verrez Mons. ce que vous trouuerez de plus à propos là dessus et en m'apprenant vostre pensée vous me prescrirez de quelle sorte vous voulez que jen agisse pour l'Abbe Catelan et je ne manqueraij pas d'executer tout ce que vous me marquerez auec la derniere exactitude, pour vous asseurer encore dauantage de l'attachement auec le quel je seraij toute ma vie</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre tres humble et tres obeissant seruiteur <persName key="roqu005">De la Roque</persName>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur <persName key="huyg003">Hugens de Zulinkem</persName>, de L'Academie Roijale des sciences de France a La Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

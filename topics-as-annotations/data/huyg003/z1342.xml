@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1342"/>
+<meta type="date" value="1665-02-27"/>
+<meta type="sender" value="schu136"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="breda001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1342">
+<div type="opener">
+<p>Amplissime, Nobilissime et Doctissime Vir.</p>
+</div>
+<p>Dum in Cometologia versor, et disquisitionem philosophicam<note n="#2"/> de Cometarum natura, luce, motu, alijsque eò pertinentibus instituo, communicavit mihi, Amicissimus noster Dominus <persName>Vlitius</persName> doctissimas tuas de Cometa iam nuper sub praecedentis anni finem et praesentis initium viso observationes<note n="#3"/>. Quae usque adeò vehementer mihi placuere, ut easdem radiantis cuiusdam ornamenti instar meditationibus meis mox praelo subijciendis adiungere animus esset. Eo nempe consilio, ut inde obscurioribus meis laboribus saltem lucis aliquid accederet. Quia verò hic illic quaedam occurrebant, quae non absque figuris proponi poterant, cumque etiam aliorum <hi rend="i">τηρήσεις</hi> mihi communicatae essent licet imperfectiores, posteà ex ijs historicam hanc narrationem paulo contractius contexere visum fuit<note n="#4"/>. Quum autem in ea nobilitatis tuae observationes imprimis, et ubique fere fuerim sequutus Te inscio eandem praelo subijcere nolui. Rogo ergo, Vir nobilissime, historicam hanc meam narrationem perlegere digneris, meque si alicubi erraverim, aut mentem tuam non recte expresserim, audacter monere, vel etiam
+ipsemet pro tuo arbitrio corrigere, addendo vel demendo quaecunque addenda vel demenda Nobilitas tua judicaverit. Quod si feceris summo me abs Te beneficio affectum putabo, meque semper quoad vivam agnoscam</p>
+<p>Amplissime et Nobilissime Vir</p>
+<div type="closer">
+<p>Nobilissimo et amplissimo tuo nomini devinctissimum <persName key="schu136">Joh. Schulerum</persName>.</p>
+<p>Bredae 27 Februarii 1665.</p>
+</div>
+</div>
+<div type="para">
+<p>Aan den Edelen Hoogh-geleerden Heere Mijn Heer <persName key="huyg003">Chr. Huygens</persName> residerende in S' Gravenhaghe.</p>
+</div>
+</body>
+</text>
+</TEI>

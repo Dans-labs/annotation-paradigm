@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2214"/>
+<meta type="date" value="1680-01-26"/>
+<meta type="sender" value="leib013"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2213"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2214">
+<p>Exemplum<note n="#3"/> ex Nova mea Tangentium Methodo ductum<note n="#4"/>.</p>
+<p><figure><graphic url="huyg003oeuv08ill60.gif"></graphic></figure></p>
+<p>Sit curva EE talis naturae, ut datis in recta AD velut axe quatuor punctis constantibus A.B.C.D et puncto curvae E, ac junctis quatuor rectis AE, BE, CE, DE tunc summa quatuor solidorum sub ternis quibuslibet rectis praedictis aequetur solido ex omnibus quatuor invicem ductis et datae rectae G applicatis facto; His positis ex puncto dato E tangens ET axi occurrens in T. ita educetur: Ex E demittatur in axem perpendicularis EF ponamus autem (facilitatis causa, ne signa mutare necesse sit) punctum F cadere inter A et T<note n="#5"/>.</p>
+<p><figure><graphic url="huyg003oeuv08ill61.gif"></graphic></figure><note n="#6"/></p>
+<p>Hanc solutionem paucis calculi mei lineis invenio<note n="#7"/>, per methodos autem publicatas quippe quibus irrationales tolli opus est, credo vix aliquot diebus inventum iri, et fortasse ne vix quidem. Tollendo enim irrationales assurgetur ad altissimos gradus quod non sine taedio fieri potest; et tamen postea, cum valores aut constructiones quaerimus, cogemur aequationis, inutiliter exaltatae, iterum depressiones investigare, qui labor in aequationibus decimum longè gradum excedentibus (qualis ista foret) saepe immensus est.</p>
+</div>
+</body>
+</text>
+</TEI>

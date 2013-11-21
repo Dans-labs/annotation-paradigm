@@ -1,0 +1,30 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0111"/>
+<meta type="date" value="1652-01-06"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0111">
+<div type="opener">
+<p>Clariss<hi rend="sup">o</hi>. Viro <persName key="huyg003">Christiano Hugenio</persName> <persName key="vinc027">Gregorius a Sancto Vincentio</persName> S.D.</p>
+</div>
+<p>Xenium tuum ipsis Kalendis ineuntis annj opportunè accepj: quod xeniorum more, acceptum fuit. Peruoluj legenda; et industriam tuam admiratus fuj. quia vero tuae sortis raros est reperire, qui successu vsque adeo felicj, studia Geometrica assequantur; praesertim cum aliquid ea Scientia dignum, de nouo promendum est: Hortor, vt per similes lucubrationes, ad plausus te compares, quos omnis posteritas industriae tuae debitos, grata parabit; si genio tuo, quem a natura studijs geometricis accommodatum sortitus es, indulgere non piguerit.</p>
+<p>Porro sensum meum, de iudicio tuo, de me dato, ex me intelligere gestis. desiderio tuo <seg org="siet" resp="#AD" type="corr">fiet</seg> satis, vbj aliorum dubijs, ac difficultatibus ad me transmissis, respondere integrum fuerit. spero interim tuo exemplo plures eiusdem argumentj aliquid meditaturos. Patri Sarasae suum praebuj exemplar. De Patre della Faille nescio quid scribam: credo Patrem Crom<note n="#1"/>, Domesticum Oratoris Regis Catholicj, commodam methodum indicaturum, si quid ad eundem destinandi, in animo habes. Vale et commercium nostrum vlla controuersia jnfringas caue.</p>
+<div type="closer">
+<p><placeName key="gent_001">Gandauj</placeName>. <date>6. Januarij 1652</date>.</p>
+</div>
+<p>Vt animi gratitudine vices rependam, adiungo libellulum<note n="#2"/> Thesium mearum de Motu jnclinato; dignabere non munusculum sed animum tuis strenis obnoxium aspicere.</p>
+</div>
+<div type="para">
+<p>Clarissimo Domino D. <persName key="huyg003">Christiano Hugenio</persName>
+<lb/><placeName key="denha004">Hagae Comitis</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

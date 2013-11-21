@@ -1,0 +1,36 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2165"/>
+<meta type="date" value="1666"/>
+<meta type="sender" value="ferm012"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+<meta type="link" value="2164"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2165">
+<lg type="poem">
+<l>Huggenium Gallis sua nunc dat patria, quondam</l>
+<l rend="; 1tab">Cartesium Batauis Gallia amica dedit.</l>
+<l>debuit hoc tantum pensari munere munus</l>
+<l rend="; 1tab">foederis aeterni pignus et illud erit.</l>
+<l>Quam uaria Huggenius promet miracula mentis</l>
+<l rend="; 1tab">in dominâ Illustres quae fouet urbe uiros!</l>
+<l>Hîc dicat astrorum studiis Rex maximus aedes</l>
+<l rend="; 1tab">Tychonis turrim quae superare queant;</l>
+<l>Uranies illîc fundata est regia, ueros</l>
+<l rend="; 1tab">unde poli motus docta caterua uidet.</l>
+<l>non oculo aethereas arces inuadit inermi</l>
+<l rend="; 1tab">hic coetus quo non clarior esse potest,</l>
+<l>arma sed ipse sibi condit quibus aula tonantis</l>
+<l rend="; 1tab">panditur, errantûm cedit et alta cohors,</l>
+<l>Non ea Mars fugiet Saturno cognita nuper</l>
+<l rend="; 1tab">arma, satellitio saepe probata Jouis.</l>
+</lg>
+</div>
+</body>
+</text>
+</TEI>

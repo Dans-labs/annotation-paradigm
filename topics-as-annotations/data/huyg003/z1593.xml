@@ -1,0 +1,29 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1593"/>
+<meta type="date" value="1667-01-22"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="huyg008"/>
+<meta type="senderloc" value="parij001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1593">
+<div type="opener">
+<p>A <placeName key="parij001">Paris</placeName> ce 22 Jul. 1667.</p>
+</div>
+<p>Ie n'ay rien receu par le dernier ordinaire et n'ayant pas de quoy vous entretenir je vous envoie seulement cette enclose pour Mon Pere, que le bon Abbè de Villeloin<note n="#1"/> m'a apportée avec un nouueau livre de sa façon, qui est une version en vers françois<note n="#2"/> des Catalectes de Scaliger<note n="#3"/>, aussi pauvre qu'il y en eut jamais. I'envoieray ce livre par la premiere occasion, qui pourroit bien estre celle du depart de Monsieur van Beuningen et je voudrois bien scavoir si le Signor Padre trouve bon que je hazarde en mesme temps le portrait de Ludovicus XIV. Ie ne scay si je vous ay mandè ou au frere de Moggershill que le Roy à acheptè tout le cabinet dudit abbè, et qu'il est ceans sous la garde de Monsieur de Carcavy. Il en a eu 27 mil livres qui n'est pas tant qu'il luy a coustè mais il semble qu'il a eu plus a faire d'argent que d'estampes.</p>
+<p>&nbsp;</p>
+<p>Souvenez vous de l'attestation<note n="#4"/>.</p>
+</div>
+<div type="para">
+<p>A Monsieur
+<lb/>Monsieur <persName key="huyg008">L. Hugens</persName> chez
+<lb/>Monsieur <persName key="huyg001">de Zulichem</persName> &amp;c.
+<lb/>A la Haye.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,27 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0344"/>
+<meta type="date" value="1656-10-19"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="tass006"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0344">
+<div type="opener">
+<p>A Monsieur <persName key="tass006">Tassin</persName>.</p>
+<p>Monsieur</p>
+</div>
+<p>J'escris la presente à Monsieur <persName>du Mont</persName> par ordre de mon Pere, et luy envoye quelque piece de sa part: c'est donc mon Pere qui vous importune de l'adresse de cette lettre. Si c'estoit moy je croirois estre obligè de vous en faire plus d'excuses. Maintenant je vous prieray seulement d'en avoir soin. Et de croire que je suis</p>
+<div type="closer">
+<p>Monsieur
+<lb/>Vostre &amp;.</p>
+</div>
+<p>Je vous remercie treshumblement des instances que vous prenez la peine de faire de ma part à Monsieur <persName>Gobert</persName>, et me promets d'en appercevoir bientost les effects.</p>
+</div>
+</body>
+</text>
+</TEI>

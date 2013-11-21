@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="1317"/>
+<meta type="date" value="1665-01-29"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="thev001"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z1317">
+<p>Vous m'auez fait un tres grand plaisir en me faisant part<note n="#1"/> de ce que Monsieur Des Cartes a escrit des Pendules Isochrones<note n="#2"/>; car ayant une lettre<note n="#3"/> du Pere <persName key="mers004">Mersenne</persName> ou il parla de cette regle generale qu'avoit trouvé le dit Des Cartes j'avois grande envie de voir ce que c'estoit. Je l'avoue apres l'avoir examinée qu'il n'a aucunement reussi, et quand sa methode seroit vraye il ne seroit pourtant pas possible de rien determiner par la de quelque figure ou corps donné, comme vous voyez qu'il n'a rien determinè. Ce qu'il y a de Monsieur Roberval<note n="#4"/> touchant le centre d'agitation d'une ligne droitte est vray, quoy qu'il ne se soit pas servi d'un principe bien seur ni qui mesne fort loing. Envoyez moy je vous prie tout ce que vous en pourrez recouvrir, car il faut qu'ils en ayent escrit d'avantage puisque
+le centre d'agitation d'un secteur de cercle a estè trouvè<note n="#5"/>. En revanche je vous determineray celuy de quelque plan ou solide comme vous voudriez sçavoir.</p>
+<p>Je ne scay ce que l'on dira des predictions de Monsieur Auzout de ce qu'elles sont venües si tard, pour moy j'aurois estè de vostre avis de les supprimer plustost que de donner soupçon de falsification. Son hypothese du chemin en ligne droitte du comete est la mesme que celle de <persName key="kepl901">Kepler</persName> qui dans son traittè des Cometes<note n="#6"/>, a monstrè la methode de determiner apres la position de ceste ligne. L'estrange grandeur de la queüe m'avoit portè au commencement de chercher quelque chemin plus proche de la terre pour nostre comete, mais considerant apres cet accident notable de presque tous que du lieu ou on les voit aller avec plus de vistesse ils n'avancent pas d'avantage que d'un quart du ciel, je me suis aussi rangè du costè de la predite hypothese de la ligne droitte, et voicy enfin toutes mes conclusions les quelles je vous prie de communiquer a Monsieur Auzout, quand il vous aura donnè
+les sienes pour avoir le plaisir de veoir comment elles s'accordent.</p>
+<list>
+<label>1.</label><item>que son comete a produict par son mouvement une ligne droitte, inclinee sur le plan de l'ecliptique d'un angle d'environ douze degrez et coupant ce plan en un point distant du soleil un peu plus que trois demi diametres de l'orbis magnus ou chemin de la terre.</item>
+<label>2.</label><item>qu'en menant un plan par la dite ligne du Comete qui soit a angles droits sur le plan de l'Ecliptique, leur commune section rencontre le degrè 21. d'aries et libra et qu'elle passe entre les chemins de la terre et de mars, un peu plus pres de celuy du dernier.</item>
+<label>3.</label><item>Qu'il a cheminè d'un mouvement tousjours egal dans sa ligne quoy qu'en apparence extremement inegal.</item>
+<label>4.</label><item>Que ce mouvement a estè un peu plus que 6 fois si viste que celuy de la terre autour du Soleil.</item>
+<label>5.</label><item>Que sa moindre distance de la Terre a estè vers le 21 decembre qu'alors elle
+estoit plus grande que la moitiè de celle qui est entre nous et le soleil, c'est a dire selon moy plus que de 6000 diametres de la terre.</item>
+<label>6.</label><item>que la longueur de la queüe a estè presque deux fois nostre distance du soleil, c'est a dire 24000 diametres de la terre.</item>
+<label>7.</label><item>que le comete est diminuè en soy mesme ayant paru beaucoup moins clair vers le 10<hi rend="sup">e</hi> janvier qu'il n'avoit fait le 15 decembre quoy que les distances de la terre fussent a peu pres esgales.</item>
+<label>8.</label><item>que partant il est vraysemblable que c'est une matiere qui brusle et qui se consume.</item>
+<label>9.</label><item>Que sa distance de la terre ayant estè si grande il n'aura point eu de parallaxe sensible.</item>
+<label>10.</label><item>que sa teste ayant constamment paru moindre que de dix secondes au temps qu'elle nous estoit plus proche, il faut qu'elle ait estè moindre a l'esgard de l'espace qu'occupoit sa queüe que n'est un petit grain de sable aupres d'un cube de 50 pieds par costè.</item>
+<label>11.</label><item>qu'il pourroit arriver qu'un comete vint rencontrer la terre mais bien plus facilement que la terre vint a passer par la queüe de quelque comete.</item>
+</list>
+<p>Je vous envoieray une autre fois la figure de ce systeme cometique, par la quelle vous verrez que les lieux observez en longitude et latitude s'accordent fort bien avec l'hypothese et particulierement aussi ce que j'ay marquè dans ma derniere a Monsieur Auzout<note n="#7"/> que vers le commencement de son mouvement son chemin apparent decline un peu du grand cercle. Je croy que ceux qui nient la mobilitè de la terre auront de la peine a trouver une hypothese qui satisfasse si bien aux phenomenes. J'ay encore veu hier et avanthier quoy qu'avec peine le comete en ligne droitte avec des estoilles a l'oreille et corne droitte d'aries<note n="#8"/>, et il semble qu'il n'avance plus. quand la lune sera passée, on verra peut estre qu'il se retourne en arriere ce qui confirmera encore d'avantage nostre hypothese susdite. Il me tarde de veoir ce que produira Monsieur Petit<note n="#9"/>. Je vous baise les mains et suis de tout mon coeur</p>
+<p>Vostre serviteur <persName key="huyg003">Chr. Huygens</persName>.</p>
+<p>A <placeName key="denha004">la Haye</placeName> ce 29<hi rend="sup">e</hi> Janvier 1665.</p>
+</div>
+</body>
+</text>
+</TEI>

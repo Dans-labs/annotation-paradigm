@@ -1,0 +1,23 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0777"/>
+<meta type="date" value="1660-09-09"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="rump004"/>
+<meta type="senderloc" value="?"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0777">
+<p>Utrumque devitandum est, ne vel similis malis fias, quia multi sunt, neve inimicus multis quia dissimiles sunt.</p>
+<p>Virtute et eruditione ornatissimo Viro Domino <persName key="rump004">Christiano Constantino Rumphio</persName> olim studiorum societate conjuncto, nunc diversa feliciter colenti, benevolentiam et amorem hisce testatum voluit</p>
+<div type="closer">
+<p><persName key="huyg003">Chr. Hugenius de Zulichem</persName>.</p>
+<p><date>9. Septembris 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

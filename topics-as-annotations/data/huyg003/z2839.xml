@@ -1,0 +1,38 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="2839"/>
+<meta type="date" value="1693-11-30"/>
+<meta type="sender" value="huyg003"/>
+<meta type="recipient" value="duil010"/>
+<meta type="senderloc" value="denha004"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="fr"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z2839">
+<div type="opener">
+<p lang="fr">A la Haie ce 30 Nov. 1693.</p>
+</div>
+<p>J'ay appris parfois de vos nouvelles Monsieur par le moien de Mons.<hi rend="sup">r</hi> du Quesne<note n="#2"/>, mais puis qu'il n'a point eu de vos lettres il y a longtemps, j'appréhende qu'il ne vous soit arrivè quelque nouvelle indisposition, m'imaginant tousjours que l'air de Londres vous est moins sain que celuy de la Haye. Ayez donc la bontè de me faire scavoir comment vous vous portez, et a quoy vous vous occupez lors que vostre santè vous permet le travail et la méditation. Si vous avez encore dessein de contribuer a une seconde Edition du livre de Mons.<hi rend="sup">r</hi> Newton<note n="#3"/>, et si vous avez appris bien de choses dans la conversation de cet Excellent homme, touchant ces subtilitez des quadratures et de la Regle inverse des tangentes, où vous aviez trouvè, à ce que vous m'avez escrit cy-devant<note n="#4"/>, qu'il en scavoit plus que vous et Mr. <persName key="leib013">Leibnitz</persName> et tous les autres ensemble. On m'a envoiè une copie de ce que M. Wallis a inserè de luy dans la nouvelle Edition de son Algebre<note n="#5"/> où il y a assurement de belles choses touchant ces Series abruptes<note n="#6"/>, mais il seroit besoin d'un bon commentaire, pour les bien entendre, et surtout les methodes par où il est parvenu à ces Etranges Regles. Mons.<hi rend="sup">r</hi> Gregori, estant icy, m'en a expliquè une partie<note n="#7"/>, mais dans l'Extrait de Wallis je trouve de nouvelles difficultez.</p>
+<p>Cette lettre vous sera rendue par mon frere de Zulichem qui est arrestè icy par le vent contraire depuis le voiage du Roy<note n="#8"/> il vous donnera aussi ma Remarque sur la theorie de la Manoeuvre des vaisseaux<note n="#9"/>, inserée dans la Bibliotheque universelle, dont l'autheur m'avoit prestè ce livre depuis 2 mois seulement. Je ne scaurais croire Monsieur que vous n'avez remarquè le paralogisme qui ruine toute cette theorie, et mesme devant moy, si pourtant cet ouvrage est tombè entre vos mains. Vous estes trop versè en cette matiere pour ne vous en point appercevoir. Et cependant ni les autheurs des Actes de Leipsich, ni m.<hi rend="sup">rs</hi> de l'Academie Roiale de Paris, ni Mr. <persName>Bernoulli</persName> n'y avoient rien trouvè à dire<note n="#10"/>. Je ne scay si vous aurez vu certaine quadrature de la Feuille de M.<hi rend="sup">rs</hi> des Cartes et Hudden, qui a esté inserée il y a quelques mois dans un autre de nos Journaux<note n="#11"/>, avec quelques autres choses de ma part, et la dimension de la Ligne Logarithmique de Mr. <persName key="hosp010">le marquis de l'Hospital</persName>. J'ay continuè du depuis la correspondance avec ce marquis, qui est tres habile Geometre, et assez liberal à communiquer ses inventions. Vous aurez pu voir sa solution du
+Probleme que Mr. <persName>Bernoulli</persName> le jeune avoit proposè aux Geometres dans les Actes de Leipsich<note n="#12"/>, où cette solution est aussi rapportée<note n="#13"/>; qui est trouvée avec beaucoup d'adresse, quoy qu'elle ne soit pas la plus courte. Vous verrez dans les mesmes Actes ce que j'ay ecrit touchant ce Probleme<note n="#14"/>.</p>
+<p>Vous n'aurez pas encore sçu peut estre que le bon Mons.<hi rend="sup">r</hi> <persName key="dier018">Dierquens</persName><note n="#15"/> a estè fait President du Conseil de Brabant; car pour ce qui est du mariage de Mad.<hi rend="sup">lle</hi> sa fille vous l'aurez appris des le temps que Mr. son frere estoit à Londres. Cependant parmi les bons succes et le bon estat de sa famille, il est malheureux en ce que certaine melancholie et inquietude d'esprit, dont autrefois il avoit eu quelque atteinte, l'ont repris de nouveau, et l'empeschent de dormir. J'en suis bien fasché parce qu'il est bon ami et que je scay qu'il a une estime et affection particuliere pour vous. Pendant que j'escris cecy Mons.<hi rend="sup">r</hi> du Quesne vient me dire qu'il a appris de vos nouvelles par la lettre d'un de ses amis, qui vous avoit rendu quelque paquet de sa part. Il conclud que vous estes en bonne santé, puis qu'on n'escrit
+pas le contraire. Il m'a apportè un rouleau pour vous, où il y a des figures de vaisseaux et galeres nouvellement imprimées en France qui sont fort belles. Je m'en vay les recommander à mon frère, qui croioit partir aujourd'huy, mais le vent est redevenu contraire. Je suis avec beaucoup de zele et d'estime</p>
+<div type="closer">
+<p>Monsieur
+<lb/>vostre treshumble et tres obeissant serviteur <persName key="huyg003">Hugens de Zulichem</persName>.</p>
+</div>
+<p><note n="#16"/> Mr. <persName key="huyg003">Hugens</persName>, la Haye 30 9<hi rend="sup">bre</hi> 1693 A.N.F.</p>
+<p>&nbsp;</p>
+<p>Il me demande de mes nouvelles, n'en aiant point depuis longtems. Et si j'ai beaucoup appris de Mr. <persName key="newt011">Newton</persName> sur les quadratutres et l'Inversion des Tangentes, duquel j'avois écrit que j'avois trouvé qu'il en savoit plus que Mr. <persName key="leib013">Leibnitz</persName>, que moi, et tous les autres ensemble.</p>
+<p>Il a reçu copie de ce que le Dr. Wallis a imprimé dans son Algebre touchant Mr. <persName key="newt011">Newton</persName>. Qu'il faudroit un bon commentaire pour entendre les Méthodes par où Mr. <persName key="newt011">Newton</persName> est parvenu a ces Etranges Regles. Mr. <persName>Gregory</persName> lui en a explique une partie à la Haye.</p>
+<p>Il m'envoie sa Remarque imprimée sur la théorie de la Manoeuvre des Vaisseaux et sur le Paralogisme qui ruine cette Théorie. Que je ne saurois manquer de m'en apercevoir, bien que ni les Actes de Leipsic, ni l'Académie de Paris, ni Mr. <persName>Bernoulli</persName> n'y aient rien trouvé à dire.</p>
+<p>Il continue sa correspondance avec le Marquis de l'Hospital, dont il fait l'Eloge.</p>
+<p>Je peux voir dans les Actes de Leipsic un Probleme proposé par le Jeune Bernoulli, résolu par le Marquis de l'Hospital; et ce que Mr. <persName key="huyg003">Hugens</persName> lui même en a écrit.</p>
+<p>Nouvelles particulières de Mr. <persName key="dier018">Dierquens</persName> et de sa Famille; et de l'Affection que Mr. <persName key="dier018">Dierquens</persName> a pour moi.</p>
+<p>Mr. <persName key="ques018">Du Quesne</persName> lui a remis un Rouleau pour moi de tres belles Tailledouces, de Vaisseaux et Galeres, nouvellement imprimées en France.</p>
+</div>
+</body>
+</text>
+</TEI>

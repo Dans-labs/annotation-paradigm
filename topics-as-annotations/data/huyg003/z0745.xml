@@ -1,0 +1,25 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0745"/>
+<meta type="date" value="1660-04-26"/>
+<meta type="sender" value="vinc027"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="gent_001"/>
+<meta type="recipientloc" value="?"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0745">
+<div type="opener">
+<p lang="la">Clarissime Domine</p>
+</div>
+<p>Pergo gratificarj; id enim jnsinuarunt postremae tuae et adiungo, quae Roma accepj a meo Gottignies<note n="#1"/>. non dubito gratam hanc tibi fore notitiam, vt quantocius exemplar a Patre Ricciolo editum, compares ex Italia; nisi iam ad manus tuas deuenerit. litteras tuas praelegi Domino <persName key="nona011">Nonnancourtio</persName><note n="#2"/>, qui exilijt, vbi intellexit, te hac aestate Parisijs futurum; quo &amp; ipse sub finem Maij pergere statuit. Sperat illic cum varijs Matheseos peritis notitiam et amicitiam vna tecum jnire. finio argumenti vlterioris defectu; rogoque vt hanc interpellationem boni consulas, eo solo fine susceptam, vt pergam ostendere, eo erga te affectu, semper mansurum, quo fuit.</p>
+<div type="closer">
+<p>Tui Amantissimum G.A.S. <persName key="vinc027">Vincentio</persName></p>
+<p><placeName key="gent_001">Gandauj</placeName> <date>26 Apr. 1660</date>.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI>

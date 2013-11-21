@@ -1,0 +1,31 @@
+<TEI>
+<teiHeader>
+<meta type="id" value="0434"/>
+<meta type="date" value="1657-12-11"/>
+<meta type="sender" value="scho197"/>
+<meta type="recipient" value="huyg003"/>
+<meta type="senderloc" value="leide001"/>
+<meta type="recipientloc" value="denha004"/>
+<meta type="language" value="la"/>
+</teiHeader>
+<text>
+<body>
+<div type="letter" id="z0434">
+<div type="opener">
+<p><date>11 Dec. 1657</date>.</p>
+<p>Viro Clarissimo Domino <persName key="huyg003">Christiano Hugenio</persName>, <persName key="scho197">Fr. a Schooten</persName> S.D.</p>
+</div>
+<p>Responsum tuum, Vir Clarissime, ad quaestiones à Domino <persName key="hudd002">Huddenio</persName> tibi rursus propositas, accepi eo ipso momento, quo ille me hìc Leydae unà cum Domino <persName>van Heuraet</persName> invisit; qui erat alter, cui et Domini Sluzij quaestionem quaerendam proposueram, quemque in eandem cum praedicto Huddenio solutionem incidisse post deprehendi. Utrumque autem accuratè ad omnia respondisse comperi, praesertim verò priorem, qui omnino cumulatè. Quod autem scribis, me eorum nomina ne te quidem scire voluisse, est, quòd ab ijs rogatus, ut illa reticere vellem, utrique in
+eo morem gerere voluerim; quae sanè aliàs lubens exposuissem. Fatebatur quisque se in alio studio hodie occupatum esse, quò minus ad res Mathematicas inquirendas intenti esse possent: ideoque se pro tempore talia libenter deflectere, donec ipsis aliquando fortè majus ocium absque dispendio concederetur: ac idcirco se hac in re nullius gloriae fuisse cupidos. Quoniam verò dictam Domini Sluzij quaestionem, cujus tangentem, quadraturam, ac gravitatis centrum te invenisse mihi scripseras, etiam à me Geometris, quos isthic novi, proponi volueris, deesse nolui, quin in re adeò levi tibi obtemperarem; quo itaque nomine uterque eam sibi quaerendam suscepit. Quantum autem ad postremas tuas, quas ad me dedisti, quoniam ipsas praeter Domini Slusij verba, quae in responsum ad 3 Domini Huddenij quaestiones dedit, aliquid continere non deprehendi, quo minus id utrique supra dictorum Mathematicorum (tunc praesentium) communicandum judicarem, cum tua illìc circa praedictas quaestiones solutio illâ Slusij multò copiosior mihi videretur, potestatem ipsis ad illas tuas literas respondendi reliqui. Quod itaque ab utroque eorum à me acceptum responsum tibi rursus libens sisto<note n="#1"/>, quò scrupulosum me intelligas in eorum inventis perperam tibi transcribendis, ut et desidiosum, attamen candidum et liberalem, quippe fusè ac ingenuè inventa eorum ipsissimis illorum verbis procul omni fuco coram te exponentem. Si quas autem ad eos digneris literas dare, aut ex penu tuo vicissim nonnulla tuorum inventorum ijs depromere, tuas ad illorum manus pervenire curabo. Porrò novum à te circa Parabolam inventum, de quo Slusius meminit ac in cujus demonstrationibus conscribendis te occupatum fuisse innuis, est quod ex te intelligere summopere
+desiderem. Caeterum si microscopium, quod ipsemet parasti tibi, et à quoquam optimum commendari audio, commodari mihi non denegaveris, brevi illud tibi, si vel ipsemet eo impraesentiarum non utaris, in integrum cum omnimoda gratiarum actione restitutum iri, polliceor. Vale.</p>
+<div type="closer">
+<p><placeName key="leide001">Lugd. Bat.</placeName> <date>11 Decemb. 1657</date>.</p>
+</div>
+</div>
+<div type="para">
+<p>A Monsieur Monsieur, <persName key="huyg003">Christianus Hugenius</persName>, ten huijse van de Heer <persName key="huyg001">van Zuijlechem</persName> op t' pleyn In s' Gravenhage.
+<lb/>cito cito port</p>
+</div>
+</body>
+</text>
+</TEI>
