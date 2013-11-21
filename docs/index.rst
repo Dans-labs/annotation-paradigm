@@ -6,10 +6,10 @@ annotation-paradigm documentation
 .. image:: /files/QueryAnnot2.png
    :width: 200 px
 
-.. image:: /files/taa-sshot.png
+.. image:: /files/Taa-sshot.png
    :width: 200 px
 
-.. image:: /files/huygchr1.png
+.. image:: /files/Huygchr1.png
    :width: 200 px
 
 .. image:: /files/Graphpaper.png
