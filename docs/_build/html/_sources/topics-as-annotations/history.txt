@@ -3,9 +3,9 @@
 Topics As Annotations
 #####################
 
-.. image:: /files/taa-sshot.png
+.. image:: /files/Taa-sshot.png
 
-.. image:: /files/huygchr1.png
+.. image:: /files/Huygchr1.png
 
 **letter from Christiaan Huygens**
 
@@ -80,7 +80,7 @@ and a paper by Peter Wittek and Walter Ravenek (:ref:`References`) about the top
 Preserving (intermediate) results
 ---------------------------------
 
-.. image:: /files/huygchra.png
+.. image:: /files/Huygchra.png
 
 **manual keyword assignments**
 
@@ -292,9 +292,9 @@ translating target identifiers to URIs pointing to your sources.
 Data model for annotations
 --------------------------
 
-.. image:: /files/topic.png
+.. image:: /files/Topic.png
 
-.. image:: /files/cannot.png
+.. image:: /files/Cannot.png
 
 The datamodel for annotations containing topics and keywords is as straightforward as possible.
 Some observations:
@@ -502,11 +502,11 @@ and make educated guesses as to the filtering of the annotations they want to di
 Very likely this will so computation intensive, that a preprocessing stage is needed,
 in which the metadata that is around will be in fact indexed according to an application specific metadata model.
 
-.. image:: /files/metarecord.png
+.. image:: /files/Metarecord.png
 
 **metadata fields in Queries/Features As Annotations**
 
-.. image:: /files/topicmeta.png
+.. image:: /files/Topicmeta.png
 
 **metadata fields in Topics As Annotations**
 
@@ -670,11 +670,11 @@ which results in quite of few options to pursue when one maps topics onto annota
 
 **Targets**
 
-.. image:: /files/target1.png
+.. image:: /files/Target1.png
 
 **target model for queries/features**
 
-.. image:: /files/target2.png
+.. image:: /files/Target2.png
 
 **target model for keywords/topics**
 

@@ -80,7 +80,7 @@ The Case
 Linguistic Text Database
 ------------------------
 
-.. image:: /files/word_features.png
+.. image:: /files/Word_features.png
 
 The WIVU group in Amsterdam, led by 
 `Eep Talstra <http://www.godgeleerdheid.vu.nl/nl/organisatie/medewerkers/wetenschappelijk-personeel-t-z/talstra.asp>`_
@@ -109,9 +109,9 @@ but also the annotated features that have been added over time.
 Depending on the amount and detail of these features, the queries will yield a treasure of information,
 some of which will be fed into the text database in subsequent stages.
 
-.. image:: /files/ emdros-logo.png
+.. image:: /files/Emdros-logo.png
 
-.. image:: /files/dabar.png
+.. image:: /files/Dabar.png
 
 The WIVU database is included and integrated in 
 `Logos/SESB Bible study software <http://www.logos.com/product/8644/stuttgart-electronic-study-bible>`_.
@@ -144,13 +144,13 @@ in an inventory of language resources by the European
 `CLARIN <http://www.clarin.eu>`_
 project.
 
-.. image:: /files/ topbar_left4.jpg
+.. image:: /files/Topbar_left4.jpg
 
 
 Open Annotation
 ---------------
 
-.. image:: /files/oac-logo-ds.png
+.. image:: /files/Oac-logo-ds.png
 
 Annotation is a pervasive research activity.
 It is the vehicle to enrich the data of science by the insights of experts.
@@ -230,12 +230,12 @@ The central idea is:
 
 In the list below the exact correspondence between the annotation concept and the query(record) concept is shown, together with the WIVU database as an example.
 
-.. image:: /files/qaa-table.png
+.. image:: /files/Qaa-table.png
 
 Benefits of Queries-As-Annotations
 ----------------------------------
 
-.. image:: /files/queriesasannots.png
+.. image:: /files/Queriesasannots.png
 
 
 Is it worthwhile to preserve queries as annotations?
@@ -347,7 +347,7 @@ The Work
 Components
 ----------
 
-.. image:: /files/oannot1.png
+.. image:: /files/Oannot1.png
 
 
 Annotation Database
