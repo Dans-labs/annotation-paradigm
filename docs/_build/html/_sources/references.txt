@@ -70,9 +70,20 @@ Topics and Keywords as Annotations.
 
 Data
 ****
+Eep Talstra, Constantijn Sikkel, Reinoud Oosting, Oliver Glanz, Janet Dyk
+    Text Database of the Hebrew Bible.
+    *Data Archiving and Networked Services*.
+    Persistent identifier: `urn:nbn:nl:ui:13-ukhm-eb <http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-ukhm-eb>`_
+
+HuygensING-CKCC (2011-09-09)
+    CKCCC. Project Circulation of Knowledge and learned practices in the 17th-century Dutch Republic.
+    A web-based Humanities Collaboratory on Correspondences (Geleerdenbrieven) - archived version d.d. 2013-07-23
+    *Data Archiving and Networked Services*.
+    Persistent identifier: `urn:nbn:nl:ui:13-scpm-ji <http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-scpm-ji>`_
+
 Tommy Wasserman (author), Jan Krans and Dirk Roorda(contributors)
     Transcription of the manuscripts containing the New Testament letter of Jude.
-    Data Archiving and Networked Services.
+    *Data Archiving and Networked Services*.
     Persistent identifier: `urn:nbn:nl:ui:13-qxf4-1v <http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-qxf4-1v>`_
 
 Projects
