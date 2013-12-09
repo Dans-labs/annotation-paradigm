@@ -13,7 +13,10 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+    'sphinx.ext.intersphinx',
 ]
+
+intersphinx_mapping = {'python': ('http://docs.python.org/3.3', None)}
 
 templates_path = ['_templates']
 source_suffix = '.rst'
@@ -54,21 +57,21 @@ latex_elements = {
 }
 
 latex_documents = [
-  ('index', 'Annotation Paradigm.tex', u'Annotation Paradigm Documentation',
+  ('index', 'Annotation_Paradigm.tex', u'Annotation Paradigm Documentation',
    u'Dirk Roorda', 'manual'),
 ]
 
 # -- Options for manual page output ---------------------------------------
 
 man_pages = [
-    ('index', 'Annotation Paradigm', u'Annotation Paradigm Documentation',
+    ('index', 'Annotation_Paradigm', u'Annotation Paradigm Documentation',
      [u'Dirk Roorda'], 1)
 ]
 
 # -- Options for Texinfo output -------------------------------------------
 
 texinfo_documents = [
-  ('index', 'Annotation Paradigm', u'Annotation Paradigm Documentation',
+  ('index', 'Annotation_Paradigm', u'Annotation Paradigm Documentation',
    u'Dirk Roorda', 'Annotation Paradigm', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -79,7 +82,7 @@ epub_title = u'Annotation Paradigm'
 epub_author = u'Dirk Roorda'
 epub_publisher = u'Dirk Roorda'
 epub_copyright = u'2012, Dirk Roorda'
-epub_basename = u'Annotation Paradigm'
+epub_basename = u'Annotation_Paradigm'
 epub_theme = 'epub'
 epub_show_urls = 'footnote'
 epub_use_index = True
