@@ -1,5 +1,5 @@
-annotation-paradigm documentation
-=================================
+annotation-paradigm |version|
+=============================
 .. image:: /files/Escribano.jpg
    :width: 200 px
 
