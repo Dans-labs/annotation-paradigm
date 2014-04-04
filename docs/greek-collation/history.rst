@@ -44,7 +44,7 @@ Linguistic analysis at the manuscript level,
 and comparing the analyses for the different manuscripts could yield significant interpretation results.
 
 While the NT fabric of texts includes over 5000 manuscripts,
-there are only 560 or so manuscripts in which (portions) of the letter of Jude occur.
+there are only 560  or so manuscripts in which (portions) of the letter of Jude occur.
 That makes it much more manageble and still not trivial!
 
 There is another very good reason to single out the letter of Jude:
