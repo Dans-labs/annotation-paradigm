@@ -617,7 +617,7 @@ in the
 `proceedings <https://www.asis.org/asist2012/proceedings/openpage.html>`_
 (warning: this is a slow link, the result is a 6MB image).
 Much more convenient is our final submission, which is a 
-`searchable pdf <http://demo.datanetworkservice.nl/mediawiki/images/8/84/ASIST2012-Annot-DR-ChvdH-final-submission.pdf>`_.
+:download:`searchable pdf </files/ASIST2012-Annot-DR-ChvdH-final-submission.pdf>`.
 
 2012-07-25 Paper accepted for the ASIST conference
 --------------------------------------------------

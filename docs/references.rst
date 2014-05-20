@@ -100,6 +100,11 @@ Peter Wittek and Walter Ravenek
     Supporting the Exploration of a Corpus of 17th-Century Scholarly Correspondences by Topic Modeling.
     `CLARIN paper 2011 <http://www.clarin.nl/system/files/sdh2011-wittek-ravenek.pdf>`_
 
+Dirk Roorda, Charles van den Heuvel
+    Annotation as a New Paradigm in Research Archiving.
+    :download:`searchable pdf </files/ASIST2012-Annot-DR-ChvdH-final-submission.pdf>`.
+    Proceedings of ASIS&T 2012 Annual Meeting. Final Papers, Panels and Posters. https://www.asis.org/asist2012/proceedings/Submissions/84.pdf 
+
 Dirk Roorda, Erik-Jan Bos, Charles van den Heuvel
     Letters, ideas and information technology: Using digital corpora of letters to disclose the circulation of knowledge in the 17th century.
     `Digital Humanities 2010, London <http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-697.html>`_
