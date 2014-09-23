@@ -24,7 +24,7 @@ master_doc = 'index'
 project = u'Annotation Paradigm'
 copyright = u'2012, Dirk Roorda'
 version = '3.0'
-release = '3.0'
+release = '3.0.0'
 exclude_patterns = ['_build']
 add_function_parentheses = True
 add_module_names = False
@@ -72,7 +72,7 @@ man_pages = [
 
 texinfo_documents = [
   ('index', 'Annotation_Paradigm', u'Annotation Paradigm Documentation',
-   u'Dirk Roorda', 'Annotation Paradigm', 'One line description of project.',
+   u'Dirk Roorda', 'Annotation Paradigm', 'One line description of project_name.',
    'Miscellaneous'),
 ]
 
