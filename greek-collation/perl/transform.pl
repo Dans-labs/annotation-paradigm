@@ -9,9 +9,9 @@ no strict "refs";
 binmode(STDERR, ":utf8");
 binmode(STDOUT, ":utf8");
 
-my $workdir = "/Users/dirk/Dropbox/DANS/demos/apps/pa/data/TommyWasserman/Transkriptioner_kopior";
-#my $workdir = "/Users/dirk/Dropbox/DANS/demos/apps/pa/data/test";
-my $destdir = "/Users/dirk/Dropbox/DANS/demos/apps/pa/datatrans";
+my $workdir = "/Users/dirk/Local/demos/apps/pa/data/TommyWasserman/Transkriptioner_kopior";
+#my $workdir = "/Users/dirk/Local/demos/apps/pa/data/test";
+my $destdir = "/Users/dirk/Local/demos/apps/pa/datatrans";
 my $destfile = "$destdir/transcriptions.txt";
 my $logfile = "$destdir/transform.log";
 my $reportfile = "$destdir/summary.log";

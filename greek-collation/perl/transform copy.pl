@@ -9,8 +9,8 @@ no strict "refs";
 binmode(STDERR, ":utf8");
 binmode(STDOUT, ":utf8");
 
-my $workdir = "/Users/dirk/Dropbox/DANS/demos/apps/pa/data/TommyWasserman/Transkriptioner_kopior";
-my $destdir = "/Users/dirk/Dropbox/DANS/demos/apps/pa/datatrans/TommyWasserman/Transkriptioner_kopior";
+my $workdir = "/Users/dirk/SURFdrive/demos/apps/pa/data/TommyWasserman/Transkriptioner_kopior";
+my $destdir = "/Users/dirk/SURFdrive/demos/apps/pa/datatrans/TommyWasserman/Transkriptioner_kopior";
 my $logfile = "transform.log";
 my $commentsoutfile = "comments.txt";
 my $commentsinfile = "commentsfiltered.txt";
